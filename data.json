@@ -1,0 +1,29 @@
+{
+  "last_updated": "2025-08-08T12:15:00+09:00",
+  "items": [
+    {
+      "ts": "2025-08-08T12:12:00+09:00",
+      "headline": "Sample: Fed official signals patience on rate cuts",
+      "url": "https://example.com",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": ["SPX", "NDX", "NVDA", "MSFT", "COST"],
+      "summary_en": "A senior Fed official emphasized data dependence; markets price a steady path.",
+      "summary_ko": "연준 고위 인사가 데이터 중심 접근을 강조. 시장은 현상 유지 경로를 반영.",
+      "next_en": "Watch CPI (21:30 KST) and FOMC minutes tomorrow.",
+      "next_ko": "오늘 21:30 KST CPI, 내일 FOMC 의사록 주목."
+    },
+    {
+      "ts": "2025-08-08T12:10:00+09:00",
+      "headline": "Sample: Large-cap AI guides higher; cloud capex intact",
+      "url": "https://example.com",
+      "impact": "Bullish",
+      "confidence": 4,
+      "affected": ["NVDA", "GOOGL", "MSFT", "AMD", "SNOW", "META", "CRWD"],
+      "summary_en": "AI suppliers cite strong backlog; hyperscalers keep capex pace.",
+      "summary_ko": "AI 공급사 주문잔고 견조, 하이퍼스케일러 설비투자 유지.",
+      "next_en": "Next: NVDA conference keynote (TBA).",
+      "next_ko": "다음: NVDA 컨퍼런스 키노트(추후 공지)."
+    }
+  ]
+}
