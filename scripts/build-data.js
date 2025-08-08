@@ -8,10 +8,19 @@ const FEEDS = [
   "https://www.reuters.com/markets/asia/rss",
   "https://www.reuters.com/world/asia-pacific/rss",
   "https://www.reuters.com/technology/rss",
+  "https://www.reuters.com/world/rss",
+"https://www.reuters.com/world/us/rss",
+"https://www.reuters.com/world/europe/rss",
+"https://www.reuters.com/world/middle-east/rss",
   "https://apnews.com/apf-topnews&format=xml",
   "https://apnews.com/hub/business?format=xml",
+  "https://apnews.com/hub/world-news?format=xml",
+"https://apnews.com/hub/politics?format=xml",
   "https://feeds.marketwatch.com/marketwatch/topstories/",
   "https://feeds.marketwatch.com/marketwatch/marketpulse/"
+  "https://www.federalreserve.gov/feeds/press_all.xml",
+"https://home.treasury.gov/news/press-releases/rss",
+"https://ustr.gov/about-us/policy-offices/press-office/press-releases.rss"
 ];
 
 const MAX_ITEMS = 25, RECENT_HOURS = 12;
