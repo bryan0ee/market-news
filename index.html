@@ -48,11 +48,20 @@
     </section>
 
     <section class="mb-4 flex items-center justify-between text-sm text-slate-600">
-      <div>Last updated: <span id="lastUpdated">—</span></div>
+      <div>
+        <span>Last updated: <span id="lastUpdated">—</span></span>
+        <span class="ml-4" id="resultCount"></span>
+      </div>
       <button id="refresh" class="px-3 py-1.5 rounded-lg border bg-white hover:bg-slate-50">Refresh</button>
     </section>
 
+    <!-- Top Pagination -->
+    <section id="topPagination" class="mb-4"></section>
+
     <section id="list" class="grid gap-3"></section>
+
+    <!-- Bottom Pagination -->
+    <section id="bottomPagination" class="mt-6"></section>
 
     <footer class="mt-10 py-8 text-center text-xs text-slate-500">
       Built for fast daily review • Bilingual summaries • Filter by impact/tickers • Paged results
@@ -69,6 +78,7 @@
     // Pagination config
     const ITEMS_PER_PAGE = 10;
     let currentPage = 1;
+    let totalFilteredItems = 0;
 
     // Try to fetch data.json from the same folder. If missing, fall back to inline sample
     async function loadData() {
@@ -80,34 +90,54 @@
         console.warn('Using inline sample because data.json is missing:', e.message);
         return {
           last_updated: new Date().toISOString(),
-          items: [
-            {
-              ts: new Date().toISOString(),
-              headline: 'Sample: Fed official signals patience on rate cuts',
-              url: '#',
-              impact: 'Neutral',
-              confidence: 3,
-              affected: ['SPX','NDX','NVDA','MSFT','COST'],
-              summary_en: 'A senior Fed official emphasized data‑dependence; markets price steady path.',
-              summary_ko: '연준 고위 인사가 데이터 중심 접근을 강조. 시장은 현상 유지 경로를 반영.',
-              next_en: 'Watch CPI (21:30 KST) and FOMC minutes tomorrow.',
-              next_ko: '금일 21:30 KST CPI, 내일 FOMC 의사록 주목.'
-            },
-            {
-              ts: new Date().toISOString(),
-              headline: 'Sample: Large cap AI guides higher, hyperscaler capex intact',
-              url: '#',
-              impact: 'Bullish',
-              confidence: 4,
-              affected: ['NVDA','GOOGL','MSFT','AMD','SNOW','META','CRWD'],
-              summary_en: 'AI suppliers cite strong backlog; cloud capex unchanged QoQ.',
-              summary_ko: 'AI 공급사 주문잔고 견조, 클라우드 설비투자 전분기 대비 유지.',
-              next_en: 'Next: NVDA developer conference keynote (time TBA).',
-              next_ko: '다음: NVDA 개발자 행사 기조연설(시간 추후).'
-            }
-          ]
+          items: generateSampleData()
         };
       }
+    }
+
+    // Generate more sample data for pagination testing
+    function generateSampleData() {
+      const samples = [];
+      const headlines = [
+        'Fed official signals patience on rate cuts',
+        'Large cap AI guides higher, hyperscaler capex intact',
+        'Tech earnings beat expectations across the board',
+        'Energy sector rallies on supply concerns',
+        'Retail sales data shows consumer resilience',
+        'Manufacturing PMI indicates expansion',
+        'Labor market remains tight despite rate hikes',
+        'Inflation data comes in below expectations',
+        'Dollar strengthens against major currencies',
+        'Bond yields rise on economic optimism',
+        'Oil prices surge on geopolitical tensions',
+        'Crypto market shows renewed interest',
+        'Healthcare stocks gain on regulatory clarity',
+        'Banking sector faces headwinds from rates',
+        'Semiconductor demand remains robust'
+      ];
+
+      const impacts = ['Bullish', 'Bearish', 'Neutral'];
+      const tickers = ['NVDA','GOOGL','MSFT','ORCL','CSCO','AMD','SNOW','META','CRWD','DUK','WM','NEE','ED','RSG','COST','PG'];
+
+      for (let i = 0; i < 25; i++) {
+        const impact = impacts[Math.floor(Math.random() * impacts.length)];
+        const affectedTickers = tickers.slice(0, Math.floor(Math.random() * 5) + 2);
+        
+        samples.push({
+          ts: new Date(Date.now() - Math.random() * 86400000 * 7).toISOString(),
+          headline: `Sample ${i + 1}: ${headlines[i % headlines.length]}`,
+          url: '#',
+          impact: impact,
+          confidence: Math.floor(Math.random() * 5) + 1,
+          affected: affectedTickers,
+          summary_en: `Market analysis shows ${impact.toLowerCase()} sentiment. Key factors include regulatory changes and earnings performance.`,
+          summary_ko: `시장 분석에 따르면 ${impact === 'Bullish' ? '강세' : impact === 'Bearish' ? '약세' : '중립'} 심리를 보이고 있습니다. 주요 요인은 규제 변화와 실적입니다.`,
+          next_en: `Watch for next earnings report and economic indicators.`,
+          next_ko: `다음 실적 발표와 경제 지표를 주목하세요.`
+        });
+      }
+
+      return samples.sort((a, b) => new Date(b.ts) - new Date(a.ts));
     }
 
     const state = {
@@ -124,8 +154,71 @@
     }
 
     function impactBadge(impact) {
-      const map = { Bullish: 'bg-green-100 text-green-800 border-green-200', Bearish: 'bg-red-100 text-red-800 border-red-200', Neutral: 'bg-amber-100 text-amber-800 border-amber-200' };
+      const map = { 
+        Bullish: 'bg-green-100 text-green-800 border-green-200', 
+        Bearish: 'bg-red-100 text-red-800 border-red-200', 
+        Neutral: 'bg-amber-100 text-amber-800 border-amber-200' 
+      };
       return `<span class="text-xs px-2 py-0.5 rounded-full border ${map[impact]||'bg-slate-100 text-slate-700 border-slate-200'}">${impact}</span>`;
+    }
+
+    function createPaginationHTML(totalPages, currentPage) {
+      if (totalPages <= 1) return '';
+
+      let html = '<div class="flex flex-wrap justify-center items-center gap-2">';
+      
+      // Previous button
+      if (currentPage > 1) {
+        html += `<button class="px-3 py-2 rounded border bg-white hover:bg-slate-50" data-page="${currentPage - 1}">‹ Previous</button>`;
+      }
+
+      // Page numbers with smart truncation
+      const showPages = [];
+      
+      // Always show first page
+      if (totalPages > 1) showPages.push(1);
+      
+      // Show pages around current page
+      for (let i = Math.max(2, currentPage - 1); i <= Math.min(totalPages - 1, currentPage + 1); i++) {
+        if (!showPages.includes(i)) showPages.push(i);
+      }
+      
+      // Always show last page
+      if (totalPages > 1 && !showPages.includes(totalPages)) showPages.push(totalPages);
+
+      // Add ellipsis and render pages
+      let lastPage = 0;
+      showPages.forEach(page => {
+        if (page - lastPage > 1) {
+          html += '<span class="px-2 text-slate-500">…</span>';
+        }
+        
+        const isActive = page === currentPage;
+        html += `<button class="px-3 py-2 rounded ${isActive ? 'bg-slate-900 text-white' : 'bg-white border hover:bg-slate-50'}" data-page="${page}">${page}</button>`;
+        lastPage = page;
+      });
+
+      // Next button
+      if (currentPage < totalPages) {
+        html += `<button class="px-3 py-2 rounded border bg-white hover:bg-slate-50" data-page="${currentPage + 1}">Next ›</button>`;
+      }
+
+      html += '</div>';
+      return html;
+    }
+
+    function attachPaginationListeners(container) {
+      container.addEventListener('click', (e) => {
+        const btn = e.target.closest('button[data-page]');
+        if (!btn) return;
+        
+        const newPage = parseInt(btn.dataset.page);
+        if (newPage !== currentPage) {
+          currentPage = newPage;
+          render();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+      });
     }
 
     function render() {
@@ -143,22 +236,44 @@
         return matchesQ && matchesImpact && matchesConf && matchesTicker;
       });
 
+      totalFilteredItems = filteredItems.length;
+
+      // Update result count
+      const resultCount = document.getElementById('resultCount');
+      resultCount.textContent = `Showing ${totalFilteredItems} result${totalFilteredItems !== 1 ? 's' : ''}`;
+
       // Pagination logic
       const totalPages = Math.ceil(filteredItems.length / ITEMS_PER_PAGE) || 1;
       if (currentPage > totalPages) currentPage = totalPages;
       const start = (currentPage - 1) * ITEMS_PER_PAGE;
       const pageItems = filteredItems.slice(start, start + ITEMS_PER_PAGE);
 
-      // Render only the current page's items
+      // Render pagination (top and bottom)
+      const paginationHTML = createPaginationHTML(totalPages, currentPage);
+      const topPagination = document.getElementById('topPagination');
+      const bottomPagination = document.getElementById('bottomPagination');
+      
+      topPagination.innerHTML = paginationHTML;
+      bottomPagination.innerHTML = paginationHTML;
+      
+      // Attach event listeners to both pagination sections
+      attachPaginationListeners(topPagination);
+      attachPaginationListeners(bottomPagination);
+
+      // Render items
       const list = document.getElementById('list');
       if (!pageItems.length) {
         list.innerHTML = `<div class="p-6 bg-white rounded-2xl border text-slate-600">No items match your filters.</div>`;
       } else {
-        list.innerHTML = pageItems.map(x => `
+        list.innerHTML = pageItems.map((x, index) => `
           <article class="p-4 md:p-5 bg-white rounded-2xl border">
             <div class="flex flex-wrap items-center gap-2 justify-between">
               <a href="${x.url}" target="_blank" class="font-semibold hover:underline">${x.headline}</a>
-              <div class="flex items-center gap-2">${impactBadge(x.impact)}<span class="text-xs text-slate-500">Conf: ${x.confidence||1}/5</span></div>
+              <div class="flex items-center gap-2">
+                ${impactBadge(x.impact)}
+                <span class="text-xs text-slate-500">Conf: ${x.confidence||1}/5</span>
+                <span class="text-xs text-slate-400">#${start + index + 1}</span>
+              </div>
             </div>
             <div class="mt-1 text-xs text-slate-500">${new Date(x.ts).toLocaleString()}</div>
 
@@ -180,23 +295,7 @@
         `).join('');
       }
 
-      // Add pagination buttons
-      if (totalPages > 1) {
-        const pagination = document.createElement('div');
-        pagination.className = 'mt-6 mb-2 flex flex-wrap justify-center gap-2';
-        for (let i = 1; i <= totalPages; i++) {
-          pagination.innerHTML += `<button class="px-3 py-1 rounded ${i === currentPage ? 'bg-slate-900 text-white' : 'bg-white border'}" data-page="${i}">${i}</button>`;
-        }
-        pagination.querySelectorAll('button').forEach(btn => {
-          btn.addEventListener('click', () => {
-            currentPage = parseInt(btn.dataset.page);
-            render();
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-          });
-        });
-        list.appendChild(pagination);
-      }
-
+      // Update last updated timestamp
       document.getElementById('lastUpdated').textContent = state.data.last_updated ? new Date(state.data.last_updated).toLocaleString() : '—';
     }
 
@@ -204,7 +303,7 @@
     document.getElementById('q').addEventListener('input', (e)=>{ currentPage = 1; state.query = e.target.value; render(); });
     document.getElementById('impact').addEventListener('change', (e)=>{ currentPage = 1; state.impact = e.target.value; render(); });
     document.getElementById('conf').addEventListener('input', (e)=>{ currentPage = 1; state.minConf = Number(e.target.value)||1; render(); });
-    document.getElementById('lang').addEventListener('change', (e)=>{ currentPage = 1; state.lang = e.target.value; render(); });
+    document.getElementById('lang').addEventListener('change', (e)=>{ state.lang = e.target.value; render(); });
 
     document.getElementById('tickerChips').addEventListener('click', (e)=>{
       const btn = e.target.closest('button[data-ticker]');
@@ -216,9 +315,20 @@
     });
 
     document.getElementById('refresh').addEventListener('click', async ()=>{
-      state.data = await loadData();
-      currentPage = 1;
-      render();
+      const refreshBtn = document.getElementById('refresh');
+      refreshBtn.textContent = 'Loading...';
+      refreshBtn.disabled = true;
+      
+      try {
+        state.data = await loadData();
+        currentPage = 1;
+        render();
+      } catch (error) {
+        console.error('Failed to refresh data:', error);
+      } finally {
+        refreshBtn.textContent = 'Refresh';
+        refreshBtn.disabled = false;
+      }
     });
 
     // Init
