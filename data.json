@@ -1,29 +1,126 @@
 {
-  "last_updated": "2025-08-08T12:15:00+09:00",
+  "last_updated": "2025-08-08T03:47:33.022Z",
   "items": [
     {
-      "ts": "2025-08-08T12:12:00+09:00",
-      "headline": "Sample: Fed official signals patience on rate cuts",
-      "url": "https://example.com",
+      "ts": "2025-08-08T02:17:00.000Z",
+      "headline": "&#x2018;Billions&#x2019; in Medicare waste? Read the fine print.",
+      "url": "https://www.marketwatch.com/story/billions-in-medicare-waste-read-the-fine-print-826c0057?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
-      "affected": ["SPX", "NDX", "NVDA", "MSFT", "COST"],
-      "summary_en": "A senior Fed official emphasized data dependence; markets price a steady path.",
-      "summary_ko": "연준 고위 인사가 데이터 중심 접근을 강조. 시장은 현상 유지 경로를 반영.",
-      "next_en": "Watch CPI (21:30 KST) and FOMC minutes tomorrow.",
-      "next_ko": "오늘 21:30 KST CPI, 내일 FOMC 의사록 주목."
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Yet another investigation into federal government spending has found that &#x201c;waste, fraud and abuse&#x201d; is a lot less than some people say.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-08T12:10:00+09:00",
-      "headline": "Sample: Large-cap AI guides higher; cloud capex intact",
-      "url": "https://example.com",
+      "ts": "2025-08-08T00:20:00.000Z",
+      "headline": "SoundHound earnings show a growing embrace of voice AI, and the stock is surging",
+      "url": "https://www.marketwatch.com/story/soundhound-earnings-show-a-growing-embrace-of-voice-ai-and-the-stock-is-surging-6fe6b515?mod=mw_rss_topstories",
       "impact": "Bullish",
-      "confidence": 4,
-      "affected": ["NVDA", "GOOGL", "MSFT", "AMD", "SNOW", "META", "CRWD"],
-      "summary_en": "AI suppliers cite strong backlog; hyperscalers keep capex pace.",
-      "summary_ko": "AI 공급사 주문잔고 견조, 하이퍼스케일러 설비투자 유지.",
-      "next_en": "Next: NVDA conference keynote (TBA).",
-      "next_ko": "다음: NVDA 컨퍼런스 키노트(추후 공지)."
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The company beat revenue expectations by a wide margin, with a CEO saying that businesses large and small are turning to AI for voice-based customer service offerings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-08T00:17:00.000Z",
+      "headline": "Trade Desk&#x2019;s stock tumbles after earnings. Are investors being too harsh?",
+      "url": "https://www.marketwatch.com/story/trade-desks-stock-tumbles-after-earnings-are-investors-being-too-harsh-2a5d621d?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The ad tech company failed to deliver meaningful upside with its outlook and announced a change at CFO, but results for the latest quarter beat expectations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-08T00:16:00.000Z",
+      "headline": "Instacart says its grocery partners are starting to &#x2018;embrace more competitive pricing,&#x2019; as demand forecast tops estimates",
+      "url": "https://www.marketwatch.com/story/instacart-says-its-grocery-partners-are-starting-to-embrace-more-competitive-pricing-as-demand-forecast-tops-estimates-fd30777a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Instacart rallied late Thursday after the grocery-delivery app&#x2019;s forecast for a key demand metric came in above Wall Street&#x2019;s estimates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-08T00:15:00.000Z",
+      "headline": "Live Nation&#x2019;s second quarter was mixed. It&#x2019;s still hoping to ride massive shows, more upsells to a record year.",
+      "url": "https://www.marketwatch.com/story/live-nations-second-quarter-was-mixed-its-still-hoping-to-ride-massive-shows-more-upsells-to-a-record-year-f206f4d8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The company plans to invest in new venues, with more of an emphasis on hospitality.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-07T23:29:00.000Z",
+      "headline": "Good news for media companies is proving to be bad news for their stocks",
+      "url": "https://www.marketwatch.com/story/good-news-for-media-companies-is-proving-to-be-bad-news-for-their-stocks-96a4a040?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Warner Bros. Discovery reported strong results Thursday, but the stock extended its recent weakness. The same thing happened to Walt Disney&#x2019;s stock the day before.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-07T23:25:00.000Z",
+      "headline": "Krispy Kreme&#x2019;s meme-stock ride is over. The stock is tumbling as losses widen.",
+      "url": "https://www.marketwatch.com/story/krispy-kremes-meme-stock-ride-is-over-the-stock-is-tumbling-as-losses-widen-a68341b2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The end of Krispy Kreme&#x2019;s doughnut partnership with McDonald&#x2019;s weighed on the company&#x2019;s second-quarter results.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-07T23:21:00.000Z",
+      "headline": "Trump calls for Intel&#x2019;s CEO to go. Lawmakers have focused on his ties to China.",
+      "url": "https://www.marketwatch.com/story/trump-calls-for-intels-ceo-to-go-lawmakers-have-focused-on-his-ties-to-china-768390cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "WM",
+        "ED"
+      ],
+      "summary_en": "Intel&#x2019;s stock is falling as Trump&#x2019;s comments open the door for potentially more leadership drama at the chip giant.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-08T01:42:00.000Z",
+      "headline": "Trump&#x2019;s order greenlights crypto in 401(k)s, so why isn&#x2019;t my job on board yet?",
+      "url": "https://www.marketwatch.com/story/im-ready-to-invest-in-crypto-with-my-401-k-so-why-cant-i-do-it-yet-ad248ee9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Allowing nontraditional investments in retirement plans is just Step 1.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-08T00:19:00.000Z",
+      "headline": "Block&#x2019;s stock pops after earnings, as its two financial engines reignite",
+      "url": "https://www.marketwatch.com/story/blocks-stock-pops-after-earnings-as-its-two-financial-engines-reignite-2b71e1f3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Block&#x2019;s CFO says the Square business is winning market share again and the Cash App business is growing its engagement.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
 }
