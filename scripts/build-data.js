@@ -23,7 +23,7 @@ const FEEDS = [
   "https://ustr.gov/about-us/policy-offices/press-office/press-releases.rss"
 ];
 
-const MAX_ITEMS = 25, RECENT_HOURS = 12;
+const MAX_ITEMS = 70, RECENT_HOURS = 168; // Keep 1 week of news (168 hours)
 const now = new Date();
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_", textNodeName: "text" });
 
