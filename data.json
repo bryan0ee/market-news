@@ -1,125 +1,124 @@
 {
-  "last_updated": "2025-08-13T10:47:21.447Z",
+  "last_updated": "2025-08-13T13:37:23.704Z",
   "items": [
     {
-      "ts": "2025-08-13T10:08:00.000Z",
-      "headline": "A recent college grad asks: How do I compete with AI to get a job in finance?",
-      "url": "https://www.marketwatch.com/story/a-recent-college-grad-asks-how-do-i-compete-with-ai-to-get-a-job-in-finance-560d4527?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "ts": "2025-08-13T13:11:00.000Z",
+      "headline": "Chili&#x2019;s parent offers fresh sign that consumers are still eating out. The stock surges.",
+      "url": "https://www.marketwatch.com/story/chilis-parent-offers-fresh-sign-that-consumers-are-still-eating-out-the-stock-surges-5acc7f1f?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "For finance majors specifically, many of the tasks associated with entry-level jobs are being automated. But if you start seeing AI as a tool instead of a hurdle, you might have more success on your job hunt.",
+      "summary_en": "Brinker&#x2019;s stock surges, as the Chili&#x2019;s as strong traffic growth led to better-than-expected quarterly sales.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T10:00:00.000Z",
-      "headline": "The biggest winners of the Taylor Swift-Travis Kelce podcast",
-      "url": "https://www.marketwatch.com/story/the-biggest-winners-of-the-taylor-swift-travis-kelce-podcast-0119459c?mod=mw_rss_topstories",
+      "ts": "2025-08-13T12:48:00.000Z",
+      "headline": "Perplexity wants to buy Google Chrome. Wall Street dismisses the notion as a stunt.",
+      "url": "https://www.marketwatch.com/story/perplexity-wants-to-buy-google-chrome-heres-why-wall-street-doubts-it-will-happen-7b366c3a?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "GOOGL"
+      ],
+      "summary_en": "The AI startup has put in a $34.5 billion bid to buy Chrome as a key antitrust ruling looms. But analysts say the price looks low and Google is unlikely to be selling.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T13:17:00.000Z",
+      "headline": "&#x200b;Trump has perfected a tax on corporate America &#x2014; just don&#x2019;t call it a tax. Here&#x2019;s how it could affect stocks.",
+      "url": "https://www.marketwatch.com/story/trumps-nvidia-deal-opens-a-pay-to-play-toll-road-to-do-business-in-america-investors-will-feel-every-bump-5601f2f7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "After years of speculation, Taylor Swift will finally appear on Travis and Jason Kelce&#x2019;s podcast &#x201c;New Heights,&#x201d; in an episode that is scheduled to be released on Wednesday.",
+      "summary_en": "Trump&#x2019;s Nvidia deal opens a multibillion-dollar &#x2018;pay to play&#x2019; floodgate to do business. If you can&#x2019;t afford the toll, don&#x2019;t approach the booth.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T09:40:00.000Z",
-      "headline": "&#x2018;I&#x2019;m tired of corporate America&#x2019;: My wife and I have $1.65 million. I&#x2019;m 61. Can I retire already?",
-      "url": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
+      "ts": "2025-08-13T12:02:00.000Z",
+      "headline": "HanesBrands is being bought out, but the stock is falling. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/hanesbrands-is-being-bought-out-but-the-stock-is-falling-heres-why-c378d2cd?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "HanesBrands&#x2019; stock falls, as the buyout agreement with Gildan disappointed investors who were expecting a better deal.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T12:33:00.000Z",
+      "headline": "Why Deutsche Bank says it&#x2019;s time to short the 10-year Treasury",
+      "url": "https://www.marketwatch.com/story/why-deutsche-bank-says-its-time-to-short-the-10-year-treasury-a3bf5b28?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My annual income is $108,000.&#x201d;",
+      "summary_en": "Market is overestimating how far the Fed will cut rates, analysts say",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T09:26:00.000Z",
-      "headline": "I&#x2019;m a senior who barely survives on $1,300 a month. No way could I live on $1,000.",
-      "url": "https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;We seniors are pressured and scammed into buying a lot of things we don&#x2019;t need.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T09:12:00.000Z",
-      "headline": "My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?",
-      "url": "https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories",
+      "ts": "2025-08-13T12:13:00.000Z",
+      "headline": "If you&#x2019;re feeling FOMO, envy and greed about record stock prices, you&#x2019;re not alone. It&#x2019;s how market bubbles form.",
+      "url": "https://www.marketwatch.com/story/if-youre-feeling-fomo-envy-and-greed-about-record-stock-prices-youre-not-alone-its-how-market-bubbles-form-9167d073?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;As I&#x2019;ve gotten older, I discovered my father did have quite a large estate.&#x201d;",
+      "summary_en": "Investors are seeing stock-market bubbles everywhere. Why they might be spot-on.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T09:06:00.000Z",
-      "headline": "Investors bid up for Bullish&#x2019;s IPO as the CoinDesk parent gets set to go public",
-      "url": "https://www.marketwatch.com/story/investors-bid-up-for-bullishs-ipo-as-the-coindesk-parent-gets-set-to-go-public-03f32f61?mod=mw_rss_topstories",
+      "ts": "2025-08-13T13:11:00.000Z",
+      "headline": "Hims & Hers CEO sells $33 million in stock after a massive rally",
+      "url": "https://www.marketwatch.com/story/hims-hers-ceo-sells-33-million-in-stock-after-a-massive-rally-7d78322f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Bullish is set to go public on Wednesday, and is expected to be valued at nearly $6 billion.",
+      "summary_en": "The company says the sales came from indirect holdings and were for &#x201c;tax and philanthropic purposes.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T10:12:00.000Z",
-      "headline": "Stock market rally on hot CPI print is indicative of market strength, declares strategist Tom Lee",
-      "url": "https://www.marketwatch.com/story/stock-market-rally-on-hot-cpi-print-is-indicative-of-market-strength-declares-strategist-tom-lee-eabf8a18?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "ts": "2025-08-13T11:35:00.000Z",
+      "headline": "The China-U.S. tariff truce lives on &#x2014; thanks to Nvidia",
+      "url": "https://www.marketwatch.com/story/the-china-u-s-tariff-truce-lives-on-thanks-to-nvidia-6674c808?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Tom Lee says it&#x2019;s a sign of how robust the stock market is right now that gains came on a hotter-than-forecast core CPI report.",
+      "summary_en": "In making a deal with the U.S. government, Nvidia CEO Jensen Huang is Trump&#x2019;s silent partner in trade.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T09:03:00.000Z",
-      "headline": "The pricey property portfolio that Howard Stern built with his $500 million SiriusXM contract",
-      "url": "https://www.marketwatch.com/story/the-pricey-property-portfolio-that-howard-stern-built-with-his-500-million-siriusxm-contract-1157c9a8?mod=mw_rss_topstories",
+      "ts": "2025-08-13T12:00:00.000Z",
+      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
+      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Stern has been recording from his opulent dwellings because he spent much of his $500 million contract on building a property empire.",
+      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T09:01:00.000Z",
-      "headline": "Chris Pratt and Katherine Schwarzenegger relist luxury L.A. home for $20 million",
-      "url": "https://www.marketwatch.com/story/chris-pratt-and-katherine-schwarzenegger-relist-luxury-l-a-home-for-20-million-e8b258c8?mod=mw_rss_topstories",
+      "ts": "2025-08-13T11:56:00.000Z",
+      "headline": "An economic reset is underway which will drive the S&P 500 to 7,500 next spring, one strategist says",
+      "url": "https://www.marketwatch.com/story/an-economic-reset-is-underway-which-will-drive-the-s-p-500-to-7-500-next-spring-one-strategist-says-1d4d6258?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The couple have put their sprawling&#xa0;Pacific Palisades, Calif.,&#xa0;mansion back on the market with a significant price cut, and are said to be renting a home from Katy Perry.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T07:13:00.000Z",
-      "headline": "Why &#x2018;Big Short&#x2019; investor Steve Eisman remains a stubborn bull &#x2014; and the next big trade he sees coming",
-      "url": "https://www.marketwatch.com/story/why-big-short-investor-steve-eisman-remains-a-stubborn-bull-and-the-next-big-trade-he-sees-coming-92188c7b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Big Short&#x201d; investor Steve Eisman says the next big trade in the U.S. will be about companies merging.",
+      "summary_en": "To one strategist, Wall Street isn&#x2019;t nearly bullish enough on the transformational reform of the U.S. economy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
