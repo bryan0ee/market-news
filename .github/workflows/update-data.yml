@@ -1,29 +1,63 @@
 name: Update market news data
 on:
   schedule:
-    - cron: "15 23 * * *"   # KST 08:15
-    - cron: "30 10 * * *"   # KST 19:30
-    - cron: "0 13 * * *"    # KST 22:00
+    - cron: "15 23 * * *"   # KST 08:15 (UTC 23:15)
+    - cron: "30 10 * * *"   # KST 19:30 (UTC 10:30)
+    - cron: "0 13 * * *"    # KST 22:00 (UTC 13:00)
   workflow_dispatch: {}
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: "20" }
-      - run: npm ci || npm i
-      - run: node scripts/build-data.js
-      - name: Commit changes (if any)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with: 
+          node-version: "20"
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+          
+      - name: Run data collection script
+        run: |
+          echo "Starting data collection..."
+          node scripts/build-data.js
+          echo "Data collection completed."
+          
+      - name: Check for changes
+        id: check_changes
         run: |
           if [[ -n "$(git status --porcelain data.json)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data.json
-            git commit -m "Auto-update data.json: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-            git push
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in data.json"
           else
-            echo "No changes to commit."
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in data.json"
           fi
+          
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Auto-update data.json: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
+          echo "Changes committed and pushed successfully."
+          
+      - name: No changes message
+        if: steps.check_changes.outputs.changes == 'false'
+        run: echo "No changes to commit. Workflow completed successfully."
