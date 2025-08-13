@@ -1,124 +1,126 @@
 {
-  "last_updated": "2025-08-13T13:37:23.704Z",
+  "last_updated": "2025-08-13T23:28:47.964Z",
   "items": [
     {
-      "ts": "2025-08-13T13:11:00.000Z",
-      "headline": "Chili&#x2019;s parent offers fresh sign that consumers are still eating out. The stock surges.",
-      "url": "https://www.marketwatch.com/story/chilis-parent-offers-fresh-sign-that-consumers-are-still-eating-out-the-stock-surges-5acc7f1f?mod=mw_rss_topstories",
+      "ts": "2025-08-13T23:21:00.000Z",
+      "headline": "My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?",
+      "url": "https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;As I&#x2019;ve gotten older, I discovered my father did have quite a large estate.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T22:13:00.000Z",
+      "headline": "Cisco&#x2019;s growing AI demand sparks earnings beat, but the stock is falling",
+      "url": "https://www.marketwatch.com/story/ciscos-growing-ai-demand-sparks-earnings-beat-but-the-stock-is-falling-3f2f9558?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Brinker&#x2019;s stock surges, as the Chili&#x2019;s as strong traffic growth led to better-than-expected quarterly sales.",
+      "summary_en": "Higher-than-expected AI infrastructure orders boosted Cisco&#x2019;s revenues, with the company beating earnings expectations and cheering a &#x201c;massive opportunity ahead.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T12:48:00.000Z",
-      "headline": "Perplexity wants to buy Google Chrome. Wall Street dismisses the notion as a stunt.",
-      "url": "https://www.marketwatch.com/story/perplexity-wants-to-buy-google-chrome-heres-why-wall-street-doubts-it-will-happen-7b366c3a?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "GOOGL"
-      ],
-      "summary_en": "The AI startup has put in a $34.5 billion bid to buy Chrome as a key antitrust ruling looms. But analysts say the price looks low and Google is unlikely to be selling.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T13:17:00.000Z",
-      "headline": "&#x200b;Trump has perfected a tax on corporate America &#x2014; just don&#x2019;t call it a tax. Here&#x2019;s how it could affect stocks.",
-      "url": "https://www.marketwatch.com/story/trumps-nvidia-deal-opens-a-pay-to-play-toll-road-to-do-business-in-america-investors-will-feel-every-bump-5601f2f7?mod=mw_rss_topstories",
+      "ts": "2025-08-13T22:57:00.000Z",
+      "headline": "&#x2018;I&#x2019;m confused!&#x2019; Why does President Trump want a rate cut so badly?",
+      "url": "https://www.marketwatch.com/story/im-confused-why-does-president-trump-want-a-rate-cut-so-badly-whats-wall-streets-view-ce9a72f9?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Trump&#x2019;s Nvidia deal opens a multibillion-dollar &#x2018;pay to play&#x2019; floodgate to do business. If you can&#x2019;t afford the toll, don&#x2019;t approach the booth.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T12:02:00.000Z",
-      "headline": "HanesBrands is being bought out, but the stock is falling. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/hanesbrands-is-being-bought-out-but-the-stock-is-falling-heres-why-c378d2cd?mod=mw_rss_topstories",
-      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "HanesBrands&#x2019; stock falls, as the buyout agreement with Gildan disappointed investors who were expecting a better deal.",
+      "summary_en": "A letter from a worried, wary Moneyist reader raises questions in the aftermath of the latest inflation data.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T12:33:00.000Z",
-      "headline": "Why Deutsche Bank says it&#x2019;s time to short the 10-year Treasury",
-      "url": "https://www.marketwatch.com/story/why-deutsche-bank-says-its-time-to-short-the-10-year-treasury-a3bf5b28?mod=mw_rss_topstories",
+      "ts": "2025-08-13T22:26:00.000Z",
+      "headline": "&#x2018;I am a senior citizen&#x2019;: My car needs $3,500 for repairs, but only has a trade-in value of $6,000. Do I bother fixing it?",
+      "url": "https://www.marketwatch.com/story/i-am-retired-and-not-wealthy-my-car-needs-3-500-for-repairs-but-only-has-a-trade-in-value-of-6-000-do-i-bother-fixing-it-e81d225e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;What is the &#x2018;tipping point&#x2019; for keeping one&#x2019;s old car versus trading it in?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T22:08:00.000Z",
+      "headline": "Why Amazon&#x2019;s &#x2018;major&#x2019; grocery expansion is bad news for delivery apps and retailers",
+      "url": "https://www.marketwatch.com/story/why-amazons-major-grocery-expansion-is-bad-news-for-delivery-apps-and-retailers-e3d9076a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Market is overestimating how far the Fed will cut rates, analysts say",
+      "summary_en": "&#x201c;The reason this announcement is so significant is that Amazon has yet to displace incumbents in the grocery category, at least for perishables,&#x201d; Wedbush analysts said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T12:13:00.000Z",
-      "headline": "If you&#x2019;re feeling FOMO, envy and greed about record stock prices, you&#x2019;re not alone. It&#x2019;s how market bubbles form.",
-      "url": "https://www.marketwatch.com/story/if-youre-feeling-fomo-envy-and-greed-about-record-stock-prices-youre-not-alone-its-how-market-bubbles-form-9167d073?mod=mw_rss_topstories",
+      "ts": "2025-08-13T21:06:00.000Z",
+      "headline": "Trump-Putin meeting: Here&#x2019;s what their summit in Alaska could mean for oil prices",
+      "url": "https://www.marketwatch.com/story/trump-putin-meeting-heres-what-their-summit-in-alaska-could-mean-for-oil-prices-2bac382d?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump is due to meet Friday in Alaska with Russian President Vladimir Putin. Crude-oil prices surged when Russia invaded Ukraine in 2022, and there is a potential for sizable moves depending on how Friday&#x2019;s summit goes.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T21:51:00.000Z",
+      "headline": "I&#x2019;m a senior who barely survives on $1,300 a month. No way could I live on $1,000.",
+      "url": "https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;We seniors are pressured and scammed into buying a lot of things we don&#x2019;t need.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T21:11:00.000Z",
+      "headline": "Paramount Skydance shares prompt meme-stock comparisons with record rally",
+      "url": "https://www.marketwatch.com/story/paramount-skydance-shares-prompt-meme-stock-comparisons-with-sharp-rally-82dce4b8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors are seeing stock-market bubbles everywhere. Why they might be spot-on.",
+      "summary_en": "Shares of newly merged &#x2014; and highly shorted &#x2014; media company Paramount Skydance soared Wednesday, fueling a &#x201c;meme-on-steroids feel.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T13:11:00.000Z",
-      "headline": "Hims & Hers CEO sells $33 million in stock after a massive rally",
-      "url": "https://www.marketwatch.com/story/hims-hers-ceo-sells-33-million-in-stock-after-a-massive-rally-7d78322f?mod=mw_rss_topstories",
+      "ts": "2025-08-13T20:42:00.000Z",
+      "headline": "Will Powell use Jackson Hole speech to push back on hopes for September rate cut?",
+      "url": "https://www.marketwatch.com/story/will-powell-use-jackson-hole-speech-to-push-back-on-hopes-for-september-rate-cut-449cba14?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "The company says the sales came from indirect holdings and were for &#x201c;tax and philanthropic purposes.&#x201d;",
+      "summary_en": "Federal Reserve Chair Jerome Powell is likely to push back on growing investor expectations for a September interest-rate cut, as the rate-setting committee is still divided over its next move.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T11:35:00.000Z",
-      "headline": "The China-U.S. tariff truce lives on &#x2014; thanks to Nvidia",
-      "url": "https://www.marketwatch.com/story/the-china-u-s-tariff-truce-lives-on-thanks-to-nvidia-6674c808?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-08-13T21:55:00.000Z",
+      "headline": "What&#x2019;s driving ether&#x2019;s &#x2018;catch-up trade,&#x2019; as it nears record high after bitcoin&#x2019;s streak of peaks",
+      "url": "https://www.marketwatch.com/story/whats-driving-ethers-catch-up-trade-as-it-nears-record-high-after-bitcoins-streak-of-peaks-4aa6c21d?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "In making a deal with the U.S. government, Nvidia CEO Jensen Huang is Trump&#x2019;s silent partner in trade.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T12:00:00.000Z",
-      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
-      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T11:56:00.000Z",
-      "headline": "An economic reset is underway which will drive the S&P 500 to 7,500 next spring, one strategist says",
-      "url": "https://www.marketwatch.com/story/an-economic-reset-is-underway-which-will-drive-the-s-p-500-to-7-500-next-spring-one-strategist-says-1d4d6258?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "To one strategist, Wall Street isn&#x2019;t nearly bullish enough on the transformational reform of the U.S. economy.",
+      "summary_en": "After bitcoin&#x2019;s latest push to record highs, ether is finally closing in on its own.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
