@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-13T02:36:07.257Z",
+  "last_updated": "2025-08-13T02:44:39.476Z",
   "items": [
     {
       "ts": "2025-08-13T00:57:00.000Z",
@@ -132,6 +132,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-07T19:30:00.000Z",
+      "headline": "Federal Reserve Board announces that it is seeking individuals to serve on its Insurance Policy Advisory Committee",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20250807a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces that it is seeking individuals to serve on its Insurance Policy Advisory Committee",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
