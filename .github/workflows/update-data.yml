@@ -1,9 +1,9 @@
 name: Update market news data
 on:
   schedule:
-    - cron: "15 23 * * *"   # KST 08:15 (UTC 23:15)
-    - cron: "30 10 * * *"   # KST 19:30 (UTC 10:30)
-    - cron: "0 13 * * *"    # KST 22:00 (UTC 13:00)
+    - cron: "15 23 * * *"   # KST 08:15 (UTC 23:15) - FIXED
+    - cron: "30 10 * * *"   # KST 19:30 (UTC 10:30) - FIXED  
+    - cron: "0 13 * * *"    # KST 22:00 (UTC 13:00) - FIXED
   workflow_dispatch: {}
 
 permissions:
@@ -21,12 +21,12 @@ jobs:
         uses: actions/setup-node@v4
         with: 
           node-version: "20"
-          # Remove cache since no lock file exists
+          cache: 'npm'  # Now we can use cache since package-lock.json exists!
           
       - name: Install dependencies
         run: |
-          echo "Installing dependencies..."
-          npm install
+          echo "Installing dependencies with npm ci..."
+          npm ci  # Faster and more reliable than npm install
           echo "Dependencies installed successfully."
           
       - name: Run data collection script
