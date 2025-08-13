@@ -1,125 +1,125 @@
 {
-  "last_updated": "2025-08-13T02:44:39.476Z",
+  "last_updated": "2025-08-13T10:47:21.447Z",
   "items": [
     {
-      "ts": "2025-08-13T00:57:00.000Z",
-      "headline": "Ford is readying a &#x2018;compelling EV.&#x2019; Will that be enough for the stock?",
-      "url": "https://www.marketwatch.com/story/ford-is-readying-a-compelling-ev-will-that-be-enough-for-the-stock-732626e3?mod=mw_rss_topstories",
+      "ts": "2025-08-13T10:08:00.000Z",
+      "headline": "A recent college grad asks: How do I compete with AI to get a job in finance?",
+      "url": "https://www.marketwatch.com/story/a-recent-college-grad-asks-how-do-i-compete-with-ai-to-get-a-job-in-finance-560d4527?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "For finance majors specifically, many of the tasks associated with entry-level jobs are being automated. But if you start seeing AI as a tool instead of a hurdle, you might have more success on your job hunt.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T10:00:00.000Z",
+      "headline": "The biggest winners of the Taylor Swift-Travis Kelce podcast",
+      "url": "https://www.marketwatch.com/story/the-biggest-winners-of-the-taylor-swift-travis-kelce-podcast-0119459c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Ford plans to offer a new four-door, midsize $30,000 electric pickup truck two years from now. The new EV is to be built on a new, universal EV platform, which Ford says is expected to reduce parts by 20% and assembly time by 15%.",
+      "summary_en": "After years of speculation, Taylor Swift will finally appear on Travis and Jason Kelce&#x2019;s podcast &#x201c;New Heights,&#x201d; in an episode that is scheduled to be released on Wednesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T00:54:00.000Z",
-      "headline": "Intel&#x2019;s CEO seems to have made nice with Trump. What comes next?",
-      "url": "https://www.marketwatch.com/story/intels-ceo-seems-to-have-made-nice-with-trump-what-comes-next-1c9a69d0?mod=mw_rss_topstories",
+      "ts": "2025-08-13T09:40:00.000Z",
+      "headline": "&#x2018;I&#x2019;m tired of corporate America&#x2019;: My wife and I have $1.65 million. I&#x2019;m 61. Can I retire already?",
+      "url": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The chip maker could ask for more monetary support and for the White House to encourage customers to use its advanced chips, Bernstein analysts said.",
+      "summary_en": "&#x201c;My annual income is $108,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T00:13:00.000Z",
-      "headline": "CoreWeave&#x2019;s mixed earnings fail to wow AI bulls, and the stock falls",
-      "url": "https://www.marketwatch.com/story/coreweaves-mixed-earnings-fail-to-wow-ai-bulls-and-the-stock-falls-6bc57d8d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The company beat revenue expectations on &#x2018;unprecedented&#x2019; AI demand but posted a wider loss than analysts were predicting.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T00:11:00.000Z",
-      "headline": "Cava trims sales outlook, stock tumbles as CEO says consumers are navigating a &#x2018;fog&#x2019;",
-      "url": "https://www.marketwatch.com/story/cava-trims-its-sales-outlook-and-shares-tumble-its-ceo-says-consumers-are-navigating-a-fog-8326ee19?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Cava Group tumbled late Tuesday after the Mediterranean fast-casual restaurant chain trimmed its full-year same-store sales outlook.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-12T23:07:00.000Z",
-      "headline": "These Eli Lilly executives have been scooping up stock after its big drop",
-      "url": "https://www.marketwatch.com/story/these-eli-lilly-executives-have-been-scooping-up-stock-after-its-big-drop-73d2b767?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Eli Lilly&#x2019;s weight-loss pill disappointed in a key trial, but CEO David Ricks and other insiders together bought nearly $3 million worth of stock in the aftermath of the selloff.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T02:01:00.000Z",
-      "headline": "Taylor Swift&#x2019;s last record made up more than 6% of all album sales in 2024. Will &#x2018;The Life of a Showgirl&#x2019; do even better?",
-      "url": "https://www.marketwatch.com/story/taylor-swifts-last-record-made-up-more-than-6-of-all-album-sales-in-2024-will-the-life-of-a-showgirl-do-even-better-3756ca28?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Sales of Swift&#x2019;s albums drive the fortunes of the entire music industry, as her catalog continues to dominate streaming lists all over the world.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-12T22:01:00.000Z",
-      "headline": "&#x2018;I feel shaken&#x2019;: A man offered to powerwash my patio for $50. He would not take no for an answer.",
-      "url": "https://www.marketwatch.com/story/i-feel-shaken-a-man-offered-50-to-powerwash-my-patio-he-would-not-take-no-for-an-answer-9223ce12?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "I wasn&#x2019;t interested. I told him, &#x201c;No thanks.&#x201d; That didn&#x2019;t work.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-12T21:35:00.000Z",
-      "headline": "&#x2018;I am a senior citizen&#x2019;: My car needs $3,500 for repairs, but only has a trade-in value of $6,000. Do I bother fixing it?",
-      "url": "https://www.marketwatch.com/story/i-am-retired-and-not-wealthy-my-car-needs-3-500-for-repairs-but-only-has-a-trade-in-value-of-6-000-do-i-bother-fixing-it-e81d225e?mod=mw_rss_topstories",
+      "ts": "2025-08-13T09:26:00.000Z",
+      "headline": "I&#x2019;m a senior who barely survives on $1,300 a month. No way could I live on $1,000.",
+      "url": "https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;What is the &#x2018;tipping point&#x2019; for keeping one&#x2019;s old car versus trading it in?&#x201d;",
+      "summary_en": "&#x201c;We seniors are pressured and scammed into buying a lot of things we don&#x2019;t need.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-12T22:09:00.000Z",
-      "headline": "&#x200b;Trump is creating a perfect tax for corporate America &#x2014; one it&#x2019;ll pay. Here&#x2019;s what to watch.",
-      "url": "https://www.marketwatch.com/story/trumps-nvidia-deal-opens-a-pay-to-play-toll-road-to-do-business-in-america-investors-will-feel-every-bump-5601f2f7?mod=mw_rss_topstories",
+      "ts": "2025-08-13T09:12:00.000Z",
+      "headline": "My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?",
+      "url": "https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;As I&#x2019;ve gotten older, I discovered my father did have quite a large estate.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T09:06:00.000Z",
+      "headline": "Investors bid up for Bullish&#x2019;s IPO as the CoinDesk parent gets set to go public",
+      "url": "https://www.marketwatch.com/story/investors-bid-up-for-bullishs-ipo-as-the-coindesk-parent-gets-set-to-go-public-03f32f61?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bullish is set to go public on Wednesday, and is expected to be valued at nearly $6 billion.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T10:12:00.000Z",
+      "headline": "Stock market rally on hot CPI print is indicative of market strength, declares strategist Tom Lee",
+      "url": "https://www.marketwatch.com/story/stock-market-rally-on-hot-cpi-print-is-indicative-of-market-strength-declares-strategist-tom-lee-eabf8a18?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Tom Lee says it&#x2019;s a sign of how robust the stock market is right now that gains came on a hotter-than-forecast core CPI report.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T09:03:00.000Z",
+      "headline": "The pricey property portfolio that Howard Stern built with his $500 million SiriusXM contract",
+      "url": "https://www.marketwatch.com/story/the-pricey-property-portfolio-that-howard-stern-built-with-his-500-million-siriusxm-contract-1157c9a8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Trump&#x2019;s Nvidia deal opens a &#x2018;pay to play&#x2019; floodgate to do business. If you can&#x2019;t afford it, don&#x2019;t ask.",
+      "summary_en": "Stern has been recording from his opulent dwellings because he spent much of his $500 million contract on building a property empire.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-12T21:42:00.000Z",
-      "headline": "Stocks too expensive for your taste? This bargain-hunting strategy can yield big returns with less risk.",
-      "url": "https://www.marketwatch.com/story/stocks-too-expensive-for-your-taste-this-bargain-hunting-strategy-can-yield-big-returns-with-less-risk-02928810?mod=mw_rss_topstories",
+      "ts": "2025-08-13T09:01:00.000Z",
+      "headline": "Chris Pratt and Katherine Schwarzenegger relist luxury L.A. home for $20 million",
+      "url": "https://www.marketwatch.com/story/chris-pratt-and-katherine-schwarzenegger-relist-luxury-l-a-home-for-20-million-e8b258c8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "History has shown that valuation metrics like price-to-earnings ratio aren&#x2019;t all that useful when it comes to timing stock-market tops.",
+      "summary_en": "The couple have put their sprawling&#xa0;Pacific Palisades, Calif.,&#xa0;mansion back on the market with a significant price cut, and are said to be renting a home from Katy Perry.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T07:13:00.000Z",
+      "headline": "Why &#x2018;Big Short&#x2019; investor Steve Eisman remains a stubborn bull &#x2014; and the next big trade he sees coming",
+      "url": "https://www.marketwatch.com/story/why-big-short-investor-steve-eisman-remains-a-stubborn-bull-and-the-next-big-trade-he-sees-coming-92188c7b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Big Short&#x201d; investor Steve Eisman says the next big trade in the U.S. will be about companies merging.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
