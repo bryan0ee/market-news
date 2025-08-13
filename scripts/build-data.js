@@ -9,18 +9,18 @@ const FEEDS = [
   "https://www.reuters.com/world/asia-pacific/rss",
   "https://www.reuters.com/technology/rss",
   "https://www.reuters.com/world/rss",
-"https://www.reuters.com/world/us/rss",
-"https://www.reuters.com/world/europe/rss",
-"https://www.reuters.com/world/middle-east/rss",
+  "https://www.reuters.com/world/us/rss",
+  "https://www.reuters.com/world/europe/rss",
+  "https://www.reuters.com/world/middle-east/rss",
   "https://apnews.com/apf-topnews&format=xml",
   "https://apnews.com/hub/business?format=xml",
   "https://apnews.com/hub/world-news?format=xml",
-"https://apnews.com/hub/politics?format=xml",
+  "https://apnews.com/hub/politics?format=xml",
   "https://feeds.marketwatch.com/marketwatch/topstories/",
-  "https://feeds.marketwatch.com/marketwatch/marketpulse/"
+  "https://feeds.marketwatch.com/marketwatch/marketpulse/",  // ADDED MISSING COMMA
   "https://www.federalreserve.gov/feeds/press_all.xml",
-"https://home.treasury.gov/news/press-releases/rss",
-"https://ustr.gov/about-us/policy-offices/press-office/press-releases.rss"
+  "https://home.treasury.gov/news/press-releases/rss",
+  "https://ustr.gov/about-us/policy-offices/press-office/press-releases.rss"
 ];
 
 const MAX_ITEMS = 25, RECENT_HOURS = 12;
@@ -42,24 +42,43 @@ function classifyImpact(text){
 const affected = text => WATCHLIST.filter(t => text.toUpperCase().includes(t));
 
 async function getFeed(url){
-  const res = await fetch(url, { timeout: 15000 });
-  const xml = await res.text();
-  const j = parser.parse(xml);
-  const channel = j.rss?.channel || j.feed || {};
-  let items = channel.item || channel.entry || [];
-  if (!Array.isArray(items)) items = [items];
-  return items.filter(Boolean).map(x=>{
-    const title = (x.title?.text || x.title || "").trim();
-    const link = x.link?.["@_href"] || x.link?.text || x.link || x.guid?.text || "";
-    const desc = (x.description?.text || x.description || x.summary?.text || "").replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim();
-    const pub = x.pubDate || x.published || x.updated || now.toISOString();
-    return { title, link, desc, pubDate: new Date(pub).toISOString() };
-  });
+  try {
+    const res = await fetch(url, { timeout: 15000 });
+    if (!res.ok) {
+      console.warn(`Feed failed: ${url} - Status: ${res.status}`);
+      return [];
+    }
+    const xml = await res.text();
+    const j = parser.parse(xml);
+    const channel = j.rss?.channel || j.feed || {};
+    let items = channel.item || channel.entry || [];
+    if (!Array.isArray(items)) items = [items];
+    return items.filter(Boolean).map(x=>{
+      const title = (x.title?.text || x.title || "").trim();
+      const link = x.link?.["@_href"] || x.link?.text || x.link || x.guid?.text || "";
+      const desc = (x.description?.text || x.description || x.summary?.text || "").replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim();
+      const pub = x.pubDate || x.published || x.updated || now.toISOString();
+      return { title, link, desc, pubDate: new Date(pub).toISOString() };
+    });
+  } catch (error) {
+    console.warn(`Feed error: ${url} - ${error.message}`);
+    return [];
+  }
 }
 
 (async()=>{
+  console.log("Starting data collection...");
   let all = [];
-  for (const f of FEEDS){ try{ all.push(...await getFeed(f)); } catch(e){ console.error("Feed error:", f, e.message); } }
+  for (const f of FEEDS){ 
+    try{ 
+      const items = await getFeed(f);
+      all.push(...items);
+      console.log(`Fetched ${items.length} items from ${f}`);
+    } catch(e){ 
+      console.error("Feed error:", f, e.message); 
+    } 
+  }
+  
   all = all
     .filter(x=>x.title && x.link && ageH(x.pubDate) <= RECENT_HOURS)
     .map(x=>{
@@ -85,5 +104,8 @@ async function getFeed(url){
 
   const out = { last_updated: now.toISOString(), items };
   fs.writeFileSync("data.json", JSON.stringify(out, null, 2));
-  console.log(`Wrote data.json with ${items.length} items.`);
-})();
+  console.log(`Successfully wrote data.json with ${items.length} items.`);
+})().catch(error => {
+  console.error("Script failed:", error);
+  process.exit(1);
+});
