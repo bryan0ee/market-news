@@ -1,8 +1,21 @@
 {
-  "last_updated": "2025-08-14T10:47:59.299Z",
+  "last_updated": "2025-08-14T13:37:31.493Z",
   "items": [
     {
-      "ts": "2025-08-14T10:41:00.000Z",
+      "ts": "2025-08-14T13:30:00.000Z",
+      "headline": "Wholesale prices post biggest surge in three years, PPI shows, in sign of tariff-related inflation",
+      "url": "https://www.marketwatch.com/story/wholesale-prices-post-biggest-surge-in-three-years-ppi-shows-sign-of-tariff-related-inflation-1cdc1dde?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "The cost of wholesale goods and services &#x2014; where rising inflation tends to show up first &#x2014; in July posted the biggest increase in three years, possibly heralding a sizable acceleration in price increases tied to higher U.S. tariffs.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T13:24:00.000Z",
       "headline": "&#x2018;I&#x2019;m confused!&#x2019; Why does President Trump want a rate cut so badly?",
       "url": "https://www.marketwatch.com/story/im-confused-why-does-president-trump-want-a-rate-cut-so-badly-whats-wall-streets-view-ce9a72f9?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,92 +27,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-14T08:48:00.000Z",
-      "headline": "Adyen shares plunge as company warns on impact of &#x2018;de minimis&#x2019; shipping rule change",
-      "url": "https://www.marketwatch.com/story/adyen-shares-plunge-as-company-warns-on-impact-of-de-minimis-shipping-rule-change-b94fe3b8?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Adyen, one of Europe&#x2019;s few growth stocks, saw its shares slump on Thursday as the Dutch payment services company is set to feel the impact of new tariff rules be applied to low-cost goods.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-14T09:03:00.000Z",
-      "headline": "Former NBA star Zach Randolph sells L.A. trophy estate for $7.4 million, after several price cuts",
-      "url": "https://www.marketwatch.com/story/former-nba-star-zach-randolph-sells-l-a-trophy-estate-for-7-4-million-after-several-price-cuts-1530745b?mod=mw_rss_topstories",
+      "ts": "2025-08-14T13:23:00.000Z",
+      "headline": "Warren Buffett has secretly invested $5 billion into a mystery stock &#x2014; and the trail leads to this industrial giant",
+      "url": "https://www.marketwatch.com/story/warren-buffett-has-secretly-invested-5-billion-into-a-mystery-stock-and-the-trail-leads-to-this-industrial-giant-ad2dbef6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Retired&#xa0;Grizzlies&#xa0;star&#xa0;Zach Randolph&#xa0;has finally offloaded his sprawling&#xa0;L.A.&#xa0;home for $7.4 million&#x2014;11 months after listing it for $8.5 million.",
+      "summary_en": "Detective work points to one stunning conclusion. Buy the stock or an industrial-sector ETF &#x2014; but get ahead of Berkshire Hathaway&#x2019;s big reveal.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-14T02:55:00.000Z",
-      "headline": "The biggest winners of the Taylor Swift-Travis Kelce podcast",
-      "url": "https://www.marketwatch.com/story/the-biggest-winners-of-the-taylor-swift-travis-kelce-podcast-0119459c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "After years of speculation, Taylor Swift finally appeared on Travis and Jason Kelce&#x2019;s podcast &#x201c;New Heights,&#x201d; in an episode released on Wednesday night.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-14T02:26:00.000Z",
-      "headline": "Bitcoin extends rally, hits record high above $124,000",
-      "url": "https://www.marketwatch.com/story/bitcoin-extends-rally-hits-record-high-above-124-000-677302d9?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The Trump administration&#x2019;s looser regulatory stance and the wider adoption by institutional investors, including the approval of crypto ETFs, have been a boon to bitcoin and other cryptocurrencies.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T22:13:00.000Z",
-      "headline": "Cisco&#x2019;s growing AI demand sparks earnings beat, but the stock is falling",
-      "url": "https://www.marketwatch.com/story/ciscos-growing-ai-demand-sparks-earnings-beat-but-the-stock-is-falling-3f2f9558?mod=mw_rss_topstories",
+      "ts": "2025-08-14T12:05:00.000Z",
+      "headline": "Deere&#x2019;s stock drops as oversupply of used equipment in the market is still an issue",
+      "url": "https://www.marketwatch.com/story/deeres-stock-drops-as-oversupply-of-used-equipment-in-the-market-is-still-an-issue-df6598e5?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Higher-than-expected AI infrastructure orders boosted Cisco&#x2019;s revenues, with the company beating earnings expectations and cheering a &#x201c;massive opportunity ahead.&#x201d;",
+      "summary_en": "Earnings beat expectations, but streak of year-over-year revenue declines is extended and dealer inventory remains an issue due to a cautious consumer.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-14T02:38:00.000Z",
-      "headline": "Taylor Swift&#x2019;s last record made up more than 6% of all album sales in 2024. Will &#x2018;The Life of a Showgirl&#x2019; do even better?",
-      "url": "https://www.marketwatch.com/story/taylor-swifts-last-record-made-up-more-than-6-of-all-album-sales-in-2024-will-the-life-of-a-showgirl-do-even-better-3756ca28?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Sales of Swift&#x2019;s albums drive the fortunes of the entire music industry, as her catalog continues to dominate streaming lists all over the world.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T23:21:00.000Z",
-      "headline": "My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?",
-      "url": "https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;As I&#x2019;ve gotten older, I discovered my father did have quite a large estate.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T22:26:00.000Z",
+      "ts": "2025-08-14T11:39:00.000Z",
       "headline": "&#x2018;I am a senior citizen&#x2019;: My car needs $3,500 for repairs, but only has a trade-in value of $6,000. Do I bother fixing it?",
       "url": "https://www.marketwatch.com/story/i-am-retired-and-not-wealthy-my-car-needs-3-500-for-repairs-but-only-has-a-trade-in-value-of-6-000-do-i-bother-fixing-it-e81d225e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -109,6 +61,66 @@
         "ED"
       ],
       "summary_en": "&#x201c;What is the &#x2018;tipping point&#x2019; for keeping one&#x2019;s old car versus trading it in?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T13:18:00.000Z",
+      "headline": "Millennial and Gen Z customers are flocking to Coach. So why is Tapestry&#x2019;s stock tanking?",
+      "url": "https://www.marketwatch.com/story/millennial-and-gen-z-customers-are-flocking-to-coach-so-why-is-tapestrys-stock-tanking-80679a91?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Shares of fashion-brand company Tapestry were falling sharply, as results from the Coach and Kate Spade parent weren&#x2019;t good enough to justify another record high.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T12:35:00.000Z",
+      "headline": "Clash of the titans: The hottest momentum stock meets the most notorious short seller",
+      "url": "https://www.marketwatch.com/story/clash-of-the-titans-the-hottest-momentum-stock-meets-the-most-notorious-short-seller-d96fd270?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Andrew Left says he is shorting Palantir, the best gainer this year in the S&P 500.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T12:33:00.000Z",
+      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
+      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T12:30:00.000Z",
+      "headline": "How Nvidia&#x2019;s H20 chip found itself at the center of the U.S.-China trade war",
+      "url": "https://www.marketwatch.com/story/how-nvidias-h20-chip-found-itself-at-the-center-of-the-u-s-china-trade-war-75c6ad37?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The stakes are high for Nvidia as it looks to restart China chip sales in the face of fast-evolving geopolitical tensions.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T12:05:00.000Z",
+      "headline": "Intel has 18 months to determine its future &#x2014; or Qualcomm and Arm will",
+      "url": "https://www.marketwatch.com/story/intel-has-18-months-to-determine-its-future-or-qualcomm-and-arm-will-6fc0098b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Trump&#x2019;s punches against Intel&#x2019;s new CEO land a direct hit &#x2014; widening the opening for the tech giant&#x2019;s strongest rivals.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -133,18 +145,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces that it is seeking individuals to serve on its Insurance Policy Advisory Committee",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T23:47:00.000Z",
-      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
-      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
