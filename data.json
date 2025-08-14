@@ -1,16 +1,65 @@
 {
-  "last_updated": "2025-08-13T23:28:47.964Z",
+  "last_updated": "2025-08-14T10:47:59.299Z",
   "items": [
     {
-      "ts": "2025-08-13T23:21:00.000Z",
-      "headline": "My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?",
-      "url": "https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories",
+      "ts": "2025-08-14T10:41:00.000Z",
+      "headline": "&#x2018;I&#x2019;m confused!&#x2019; Why does President Trump want a rate cut so badly?",
+      "url": "https://www.marketwatch.com/story/im-confused-why-does-president-trump-want-a-rate-cut-so-badly-whats-wall-streets-view-ce9a72f9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A letter from a worried, wary Moneyist reader raises questions in the aftermath of the latest inflation data.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T08:48:00.000Z",
+      "headline": "Adyen shares plunge as company warns on impact of &#x2018;de minimis&#x2019; shipping rule change",
+      "url": "https://www.marketwatch.com/story/adyen-shares-plunge-as-company-warns-on-impact-of-de-minimis-shipping-rule-change-b94fe3b8?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Adyen, one of Europe&#x2019;s few growth stocks, saw its shares slump on Thursday as the Dutch payment services company is set to feel the impact of new tariff rules be applied to low-cost goods.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T09:03:00.000Z",
+      "headline": "Former NBA star Zach Randolph sells L.A. trophy estate for $7.4 million, after several price cuts",
+      "url": "https://www.marketwatch.com/story/former-nba-star-zach-randolph-sells-l-a-trophy-estate-for-7-4-million-after-several-price-cuts-1530745b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;As I&#x2019;ve gotten older, I discovered my father did have quite a large estate.&#x201d;",
+      "summary_en": "Retired&#xa0;Grizzlies&#xa0;star&#xa0;Zach Randolph&#xa0;has finally offloaded his sprawling&#xa0;L.A.&#xa0;home for $7.4 million&#x2014;11 months after listing it for $8.5 million.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T02:55:00.000Z",
+      "headline": "The biggest winners of the Taylor Swift-Travis Kelce podcast",
+      "url": "https://www.marketwatch.com/story/the-biggest-winners-of-the-taylor-swift-travis-kelce-podcast-0119459c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "After years of speculation, Taylor Swift finally appeared on Travis and Jason Kelce&#x2019;s podcast &#x201c;New Heights,&#x201d; in an episode released on Wednesday night.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-14T02:26:00.000Z",
+      "headline": "Bitcoin extends rally, hits record high above $124,000",
+      "url": "https://www.marketwatch.com/story/bitcoin-extends-rally-hits-record-high-above-124-000-677302d9?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The Trump administration&#x2019;s looser regulatory stance and the wider adoption by institutional investors, including the approval of crypto ETFs, have been a boon to bitcoin and other cryptocurrencies.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -26,15 +75,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-13T22:57:00.000Z",
-      "headline": "&#x2018;I&#x2019;m confused!&#x2019; Why does President Trump want a rate cut so badly?",
-      "url": "https://www.marketwatch.com/story/im-confused-why-does-president-trump-want-a-rate-cut-so-badly-whats-wall-streets-view-ce9a72f9?mod=mw_rss_topstories",
+      "ts": "2025-08-14T02:38:00.000Z",
+      "headline": "Taylor Swift&#x2019;s last record made up more than 6% of all album sales in 2024. Will &#x2018;The Life of a Showgirl&#x2019; do even better?",
+      "url": "https://www.marketwatch.com/story/taylor-swifts-last-record-made-up-more-than-6-of-all-album-sales-in-2024-will-the-life-of-a-showgirl-do-even-better-3756ca28?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Sales of Swift&#x2019;s albums drive the fortunes of the entire music industry, as her catalog continues to dominate streaming lists all over the world.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T23:21:00.000Z",
+      "headline": "My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?",
+      "url": "https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A letter from a worried, wary Moneyist reader raises questions in the aftermath of the latest inflation data.",
+      "summary_en": "&#x201c;As I&#x2019;ve gotten older, I discovered my father did have quite a large estate.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -48,79 +109,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;What is the &#x2018;tipping point&#x2019; for keeping one&#x2019;s old car versus trading it in?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T22:08:00.000Z",
-      "headline": "Why Amazon&#x2019;s &#x2018;major&#x2019; grocery expansion is bad news for delivery apps and retailers",
-      "url": "https://www.marketwatch.com/story/why-amazons-major-grocery-expansion-is-bad-news-for-delivery-apps-and-retailers-e3d9076a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The reason this announcement is so significant is that Amazon has yet to displace incumbents in the grocery category, at least for perishables,&#x201d; Wedbush analysts said.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T21:06:00.000Z",
-      "headline": "Trump-Putin meeting: Here&#x2019;s what their summit in Alaska could mean for oil prices",
-      "url": "https://www.marketwatch.com/story/trump-putin-meeting-heres-what-their-summit-in-alaska-could-mean-for-oil-prices-2bac382d?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump is due to meet Friday in Alaska with Russian President Vladimir Putin. Crude-oil prices surged when Russia invaded Ukraine in 2022, and there is a potential for sizable moves depending on how Friday&#x2019;s summit goes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T21:51:00.000Z",
-      "headline": "I&#x2019;m a senior who barely survives on $1,300 a month. No way could I live on $1,000.",
-      "url": "https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;We seniors are pressured and scammed into buying a lot of things we don&#x2019;t need.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T21:11:00.000Z",
-      "headline": "Paramount Skydance shares prompt meme-stock comparisons with record rally",
-      "url": "https://www.marketwatch.com/story/paramount-skydance-shares-prompt-meme-stock-comparisons-with-sharp-rally-82dce4b8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of newly merged &#x2014; and highly shorted &#x2014; media company Paramount Skydance soared Wednesday, fueling a &#x201c;meme-on-steroids feel.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T20:42:00.000Z",
-      "headline": "Will Powell use Jackson Hole speech to push back on hopes for September rate cut?",
-      "url": "https://www.marketwatch.com/story/will-powell-use-jackson-hole-speech-to-push-back-on-hopes-for-september-rate-cut-449cba14?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Chair Jerome Powell is likely to push back on growing investor expectations for a September interest-rate cut, as the rate-setting committee is still divided over its next move.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-13T21:55:00.000Z",
-      "headline": "What&#x2019;s driving ether&#x2019;s &#x2018;catch-up trade,&#x2019; as it nears record high after bitcoin&#x2019;s streak of peaks",
-      "url": "https://www.marketwatch.com/story/whats-driving-ethers-catch-up-trade-as-it-nears-record-high-after-bitcoins-streak-of-peaks-4aa6c21d?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "After bitcoin&#x2019;s latest push to record highs, ether is finally closing in on its own.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -145,6 +133,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces that it is seeking individuals to serve on its Insurance Policy Advisory Committee",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-13T23:47:00.000Z",
+      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
+      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
