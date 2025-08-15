@@ -1,20 +1,44 @@
 {
-  "last_updated": "2025-08-15T13:33:03.969Z",
+  "last_updated": "2025-08-15T23:28:00.917Z",
   "items": [
     {
-      "ts": "2025-08-15T13:17:00.000Z",
-      "headline": "Energy traders have already baked Alaska into the price, says BofA strategist. What could come next.",
-      "url": "https://www.marketwatch.com/story/energy-traders-have-already-baked-alaska-into-the-price-says-bofa-strategist-244d9d97?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-08-15T21:22:00.000Z",
+      "headline": "This is how important Taylor Swift&#x2019;s &#x2018;The Life of a Showgirl&#x2019; is to an entire industry",
+      "url": "https://www.marketwatch.com/story/this-is-how-important-taylor-swifts-the-life-of-a-showgirl-is-to-an-entire-industry-f5689ef3?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Strategist notes S&P 500 price-to-book at record high, that Fed rate cuts threaten the dollar, and that energy bear market could get worse.",
+      "summary_en": "Also: Bargain stocks, Warren Buffett&#x2019;s bottom-fishing with UnitedHealth and how you can grab a real-estate commission.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T12:55:00.000Z",
+      "ts": "2025-08-15T21:49:00.000Z",
+      "headline": "Opendoor bulls are getting what they want, and the stock is surging again",
+      "url": "https://www.marketwatch.com/story/opendoor-bulls-are-getting-what-they-want-and-the-stock-is-surging-again-b99dcea2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "CEO Carrie Wheeler has stepped down to the delight of institutional investors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-15T21:40:00.000Z",
+      "headline": "My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?",
+      "url": "https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;As I&#x2019;ve gotten older, I discovered my father did have quite a large estate.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-15T21:34:00.000Z",
       "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
       "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,55 +50,68 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T12:49:00.000Z",
-      "headline": "&#x2018;I&#x2019;m tired of corporate America&#x2019;: My wife and I have $1.65 million. I&#x2019;m 61. Can I retire already?",
-      "url": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My annual income is $108,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T12:47:00.000Z",
-      "headline": "Can my wife claim spousal Social Security as a permanent resident from Ukraine?",
-      "url": "https://www.marketwatch.com/story/can-my-wife-claim-spousal-social-security-as-a-permanent-resident-from-ukraine-e003bfd9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She&#x2019;s only worked since 2021 and won&#x2019;t be able to work six more years.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T12:39:00.000Z",
-      "headline": "Car buyers rev up U.S. retail sales in effort to beat tariff price hikes. Economy is still growing.",
-      "url": "https://www.marketwatch.com/story/carbuyers-rev-up-u-s-retail-sales-in-effort-to-beat-tariff-price-hikes-economy-is-still-growing-1de5ff8f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Sales at retailers rose solidly in July for the second month in a row, but the increase in spending appeared to be a double-edged sword: Americans are still confident enough in the economy to spend, but they are also paying more because of higher inflation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T12:52:00.000Z",
-      "headline": "20 stocks in the S&P 500 that are high achievers this earnings season",
-      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-are-high-achievers-this-earnings-season-17b99522?mod=mw_rss_topstories",
+      "ts": "2025-08-15T20:28:00.000Z",
+      "headline": "Dow ends just shy of record after touching new intraday high, as Buffett gives Wall Street a boost",
+      "url": "https://www.marketwatch.com/story/dow-hits-fresh-record-high-as-warren-buffett-gives-wall-street-a-brief-upward-nudge-friday-17afb789?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "These companies have shown the largest increases in sales per share while also improving profit margins",
+      "summary_en": "The Dow Jones Industrial Average ended nearly flat on Friday after hitting a record high in morning action &#x2014; riding a wave of market optimism and a timely push from the &#x201c;Oracle of Omaha.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T12:43:00.000Z",
+      "ts": "2025-08-15T20:28:00.000Z",
+      "headline": "Here&#x2019;s what it&#x2019;s like to invest in private equity &#x2014; and why you don&#x2019;t want it in your 401(k)",
+      "url": "https://www.marketwatch.com/story/heres-what-its-like-to-invest-in-private-equity-and-why-you-dont-want-it-in-your-401-k-2df14f91?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "It&#x2019;s not just about risk and fees, but about knowing how much you have and having access to your money when you need it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-15T21:24:00.000Z",
+      "headline": "Intel has 18 months to determine its future &#x2014; or Qualcomm and Arm will",
+      "url": "https://www.marketwatch.com/story/intel-has-18-months-to-determine-its-future-or-qualcomm-and-arm-will-6fc0098b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Trump&#x2019;s punches against Intel&#x2019;s new CEO land a direct hit &#x2014; widening the opening for the tech giant&#x2019;s strongest rivals.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-15T21:22:00.000Z",
+      "headline": "&#x2018;I&#x2019;ve been kept in poverty&#x2019;: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
+      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;After the age of 50, I really only had sporadic contract work and I had to sell my house.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-15T21:09:00.000Z",
+      "headline": "In this economy, here&#x2019;s what it takes to get people to spend on summer fun",
+      "url": "https://www.marketwatch.com/story/americans-who-make-over-100-000-are-still-propping-up-the-economy-but-how-long-can-they-keep-doing-it-b9535f3e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "In an uncertain economic environment, at least one thing is clear: Six-figure earners are still spending money..",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-15T21:06:00.000Z",
       "headline": "The rich already know how private equity mints money &#x2014; and it&#x2019;s not from a 401(k)",
       "url": "https://www.marketwatch.com/story/the-rich-already-know-how-private-equity-mints-money-and-its-not-from-a-401-k-c9699cff?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -86,39 +123,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T12:22:00.000Z",
-      "headline": "The S&P 500&#x2019;s biggest loser this year is one of its newest arrivals",
-      "url": "https://www.marketwatch.com/story/the-s-p-500s-biggest-loser-this-year-is-one-of-its-newest-arrivals-84a46c8e?mod=mw_rss_topstories",
+      "ts": "2025-08-15T16:00:00.000Z",
+      "headline": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks' novel activities through the normal supervisory process",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250815a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Trade Desk&#x2019;s weak stock performance exemplifies how a place in the S&P 500 isn&#x2019;t always a boon for new entrants.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T11:50:00.000Z",
-      "headline": "How to break the cycle of entitlement so your heirs value their privilege &#x2014; and your money",
-      "url": "https://www.marketwatch.com/story/how-to-break-the-cycle-of-entitlement-so-your-heirs-value-their-privilege-and-your-money-2c8cd8ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "From affluenza to abundance, these three proven ways can navigate conversations that foster harmony and lasting stewardship of wealth.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T11:41:00.000Z",
-      "headline": "You could receive up to $7,500 from the AT&T settlement. Here&#x2019;s how class-action suits work.",
-      "url": "https://www.marketwatch.com/story/filing-a-claim-as-part-of-the-at-t-177-million-settlement-that-could-just-be-the-start-of-your-class-action-journey-a4d33066?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A variety of sources can help consumers learn about suits they may be eligible to participate in.",
+      "summary_en": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks&#39; novel activities through the normal supervisory process",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
