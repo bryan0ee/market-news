@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-08-15T10:46:07.290Z",
+  "last_updated": "2025-08-15T13:33:03.969Z",
   "items": [
     {
-      "ts": "2025-08-15T10:31:00.000Z",
-      "headline": "&#x2018;I&#x2019;m confused!&#x2019; Why does President Trump want a rate cut so badly?",
-      "url": "https://www.marketwatch.com/story/im-confused-why-does-president-trump-want-a-rate-cut-so-badly-whats-wall-streets-view-ce9a72f9?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "ts": "2025-08-15T13:17:00.000Z",
+      "headline": "Energy traders have already baked Alaska into the price, says BofA strategist. What could come next.",
+      "url": "https://www.marketwatch.com/story/energy-traders-have-already-baked-alaska-into-the-price-says-bofa-strategist-244d9d97?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "A letter from a worried, wary Moneyist reader raises questions in the aftermath of the latest inflation data.",
+      "summary_en": "Strategist notes S&P 500 price-to-book at record high, that Fed rate cuts threaten the dollar, and that energy bear market could get worse.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T09:18:00.000Z",
+      "ts": "2025-08-15T12:55:00.000Z",
       "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
       "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,101 +26,99 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T09:01:00.000Z",
-      "headline": "Emma Stone finds a buyer for $23.5 million Austin, Texas, estate that she just renovated",
-      "url": "https://www.marketwatch.com/story/emma-stone-finds-a-buyer-for-23-5-million-austin-texas-estate-that-she-just-renovated-d0783393?mod=mw_rss_topstories",
+      "ts": "2025-08-15T12:49:00.000Z",
+      "headline": "&#x2018;I&#x2019;m tired of corporate America&#x2019;: My wife and I have $1.65 million. I&#x2019;m 61. Can I retire already?",
+      "url": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Actress&#xa0;Emma Stone has managed to find a buyer for her newly renovated&#xa0;Austin&#xa0;mansion, just three months after she listed it for $23.5 million.",
+      "summary_en": "&#x201c;My annual income is $108,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T08:59:00.000Z",
-      "headline": "Bethenny Frankel says more people are turning their backs on the Hamptons and going to these places instead",
-      "url": "https://www.marketwatch.com/story/bethenny-frankel-says-more-people-are-turning-their-backs-on-the-hamptons-and-going-to-these-places-instead-552545ed?mod=mw_rss_topstories",
+      "ts": "2025-08-15T12:47:00.000Z",
+      "headline": "Can my wife claim spousal Social Security as a permanent resident from Ukraine?",
+      "url": "https://www.marketwatch.com/story/can-my-wife-claim-spousal-social-security-as-a-permanent-resident-from-ukraine-e003bfd9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The former &#x201c;Real Housewives&#x201d; talks about how her life has changed since she moved to&#xa0;Florida, and her predictions for the East Coast areas that are set to take off.",
+      "summary_en": "&#x201c;She&#x2019;s only worked since 2021 and won&#x2019;t be able to work six more years.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T10:42:00.000Z",
-      "headline": "Goldman researchers warn of an unfriendly asymmetry: Why the next big market move may be down.",
-      "url": "https://www.marketwatch.com/story/goldman-researchers-warn-of-an-unfriendly-asymmetry-why-the-next-big-market-move-may-be-down-e65ae0fd?mod=mw_rss_topstories",
+      "ts": "2025-08-15T12:39:00.000Z",
+      "headline": "Car buyers rev up U.S. retail sales in effort to beat tariff price hikes. Economy is still growing.",
+      "url": "https://www.marketwatch.com/story/carbuyers-rev-up-u-s-retail-sales-in-effort-to-beat-tariff-price-hikes-economy-is-still-growing-1de5ff8f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Sales at retailers rose solidly in July for the second month in a row, but the increase in spending appeared to be a double-edged sword: Americans are still confident enough in the economy to spend, but they are also paying more because of higher inflation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-15T12:52:00.000Z",
+      "headline": "20 stocks in the S&P 500 that are high achievers this earnings season",
+      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-are-high-achievers-this-earnings-season-17b99522?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "After 18 record highs, Goldman researchers say it&#x2019;s time to prepare for a fall in the stock market.",
+      "summary_en": "These companies have shown the largest increases in sales per share while also improving profit margins",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T09:55:00.000Z",
-      "headline": "As Dalio gets out of Bridgewater, Bridgewater gets out of China",
-      "url": "https://www.marketwatch.com/story/as-dalio-gets-out-of-bridgewater-bridgewater-gets-out-of-china-5dd379a5?mod=mw_rss_topstories",
+      "ts": "2025-08-15T12:43:00.000Z",
+      "headline": "The rich already know how private equity mints money &#x2014; and it&#x2019;s not from a 401(k)",
+      "url": "https://www.marketwatch.com/story/the-rich-already-know-how-private-equity-mints-money-and-its-not-from-a-401-k-c9699cff?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Ray Dalio&#x2019;s departure coincides with the liquidation of Bridgewater&#x2019;s Chinese exposure &#x2013; just as the market is rebounding.",
+      "summary_en": "You&#x2019;ll soon be able to invest your retirement savings in private equity. But should you?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T09:06:00.000Z",
-      "headline": "Should I apply for a $70K-a-year job at 74 and risk losing my Section 8 housing allowance?",
-      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
+      "ts": "2025-08-15T12:22:00.000Z",
+      "headline": "The S&P 500&#x2019;s biggest loser this year is one of its newest arrivals",
+      "url": "https://www.marketwatch.com/story/the-s-p-500s-biggest-loser-this-year-is-one-of-its-newest-arrivals-84a46c8e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I&#x2019;ve been kept in poverty by social-services benefit cliffs.&#x201d;",
+      "summary_en": "Trade Desk&#x2019;s weak stock performance exemplifies how a place in the S&P 500 isn&#x2019;t always a boon for new entrants.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T02:51:00.000Z",
-      "headline": "Here&#x2019;s what it&#x2019;s like to invest in private equity &#x2014; and why you don&#x2019;t want it in your 401(k)",
-      "url": "https://www.marketwatch.com/story/heres-what-its-like-to-invest-in-private-equity-and-why-you-dont-want-it-in-your-401-k-2df14f91?mod=mw_rss_topstories",
+      "ts": "2025-08-15T11:50:00.000Z",
+      "headline": "How to break the cycle of entitlement so your heirs value their privilege &#x2014; and your money",
+      "url": "https://www.marketwatch.com/story/how-to-break-the-cycle-of-entitlement-so-your-heirs-value-their-privilege-and-your-money-2c8cd8ab?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "It&#x2019;s not just about risk and fees, but about knowing how much you have and having access to your money when you need it.",
+      "summary_en": "From affluenza to abundance, these three proven ways can navigate conversations that foster harmony and lasting stewardship of wealth.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T02:13:00.000Z",
-      "headline": "M&A is back and corporate earnings are up. Do America&#x2019;s biggest companies need rate cuts?",
-      "url": "https://www.marketwatch.com/story/m-a-is-back-and-corporate-earnings-are-up-do-americas-biggest-companies-need-rate-cuts-1fe11d40?mod=mw_rss_topstories",
+      "ts": "2025-08-15T11:41:00.000Z",
+      "headline": "You could receive up to $7,500 from the AT&T settlement. Here&#x2019;s how class-action suits work.",
+      "url": "https://www.marketwatch.com/story/filing-a-claim-as-part-of-the-at-t-177-million-settlement-that-could-just-be-the-start-of-your-class-action-journey-a4d33066?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "America&#x2019;s largest companies aren&#x2019;t making a slam-dunk case for the Federal Reserve to quickly slash interest rates.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T00:19:00.000Z",
-      "headline": "Soros, Appaloosa boost their Nvidia stake. They also bought this beaten-down stock, and it&#x2019;s rallying.",
-      "url": "https://www.marketwatch.com/story/soros-appaloosa-boost-their-holdings-in-this-mag-7-stock-amid-ai-spending-boom-514807d8?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Both firms also bought more of UnitedHealth, which was rallying after hours",
+      "summary_en": "A variety of sources can help consumers learn about suits they may be eligible to participate in.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
