@@ -1,32 +1,20 @@
 {
-  "last_updated": "2025-08-16T10:42:43.130Z",
+  "last_updated": "2025-08-16T13:29:05.403Z",
   "items": [
     {
-      "ts": "2025-08-16T09:57:00.000Z",
-      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
-      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T21:22:00.000Z",
-      "headline": "This is how important Taylor Swift&#x2019;s &#x2018;The Life of a Showgirl&#x2019; is to an entire industry",
-      "url": "https://www.marketwatch.com/story/this-is-how-important-taylor-swifts-the-life-of-a-showgirl-is-to-an-entire-industry-f5689ef3?mod=mw_rss_topstories",
+      "ts": "2025-08-16T12:30:00.000Z",
+      "headline": "Inflation alarm bells went off again and prices are rising. Just how bad is it going to get?",
+      "url": "https://www.marketwatch.com/story/inflation-alarm-bells-went-off-again-and-prices-are-rising-just-how-bad-is-it-going-to-get-6659c921?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Also: Bargain stocks, Warren Buffett&#x2019;s bottom-fishing with UnitedHealth and how you can grab a real-estate commission.",
+      "summary_en": "The biggest increase in wholesale prices in three and a half years stunned Wall Street, but is tariff-related inflation really set to soar? The proof is far from ironclad.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T23:36:00.000Z",
+      "ts": "2025-08-16T12:14:00.000Z",
       "headline": "&#x2018;I&#x2019;m tired of corporate America&#x2019;: My wife and I have $1.65 million. I&#x2019;m 61. Can I retire already?",
       "url": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,39 +26,99 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T21:49:00.000Z",
-      "headline": "Opendoor bulls are getting what they want, and the stock is surging again",
-      "url": "https://www.marketwatch.com/story/opendoor-bulls-are-getting-what-they-want-and-the-stock-is-surging-again-b99dcea2?mod=mw_rss_topstories",
+      "ts": "2025-08-16T12:00:00.000Z",
+      "headline": "Getting married when you&#x2019;re older can be a financial minefield. How to protect yourself.",
+      "url": "https://www.marketwatch.com/story/getting-married-when-youre-older-can-be-a-financial-minefield-how-to-protect-yourself-3e4edf0f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "CEO Carrie Wheeler has stepped down to the delight of institutional investors.",
+      "summary_en": "When retirees tie the knot, prenups really matter. Skip them at your peril.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T21:40:00.000Z",
-      "headline": "My father was worth millions. I suspect my mother is stealing my inheritance. What can I do?",
-      "url": "https://www.marketwatch.com/story/she-kicked-us-to-the-curb-my-father-was-worth-millions-i-suspect-my-mother-is-stealing-my-inheritance-what-can-i-do-69625204?mod=mw_rss_topstories",
+      "ts": "2025-08-16T11:26:00.000Z",
+      "headline": "&#x2018;I personally don&#x2019;t care about her money&#x2019;: What happens to my aunt&#x2019;s safe-deposit box after she dies?",
+      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;As I&#x2019;ve gotten older, I discovered my father did have quite a large estate.&#x201d;",
+      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T21:34:00.000Z",
-      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
-      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+      "ts": "2025-08-16T11:00:00.000Z",
+      "headline": "Why UnitedHealth? Buying the stock was actually a &#x2018;classic Buffett move.&#x2019;",
+      "url": "https://www.marketwatch.com/story/why-unitedhealth-buying-the-stock-was-actually-a-classic-buffett-move-df763d81?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
+      "summary_en": "Shares of some of UnitedHealth&#x2019;s peers got a bump in the wake of Berkshire&#x2019;s investment in the healthcare giant, and they all look cheaper based on price relative to expected earnings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T13:09:00.000Z",
+      "headline": "&#x2018;I&#x2019;ve been kept in poverty&#x2019;: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
+      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;After the age of 50, I really only had sporadic contract work and I had to sell my house.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T12:07:00.000Z",
+      "headline": "Why nearly 7 in 10 new college grads are looking for jobs close to family",
+      "url": "https://www.marketwatch.com/story/why-nearly-7-in-10-new-college-grads-are-looking-for-jobs-close-to-family-405316fd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Gen Z college graduates are prioritizing work-life balance and saving money when selecting their first job.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T12:00:00.000Z",
+      "headline": "Turning stocks and bonds into crypto-style trades won&#x2019;t be happening soon. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/turning-stocks-and-bonds-into-crypto-style-trades-wont-be-happening-soon-heres-why-0fdc11a6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Regulators and crypto bulls want to move all stocks and bonds onto a blockchain. But turning that vision into reality may still be a long way off.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T11:30:00.000Z",
+      "headline": "The old software investing playbook is dead. Here&#x2019;s where to put your money now.",
+      "url": "https://www.marketwatch.com/story/the-old-software-investing-playbook-is-dead-heres-where-to-put-your-money-now-4f4a7835?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Software companies are facing a reckoning as AI lowers barriers to entry. Experts share how to find winners in an evolving competitive landscape.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T09:57:00.000Z",
+      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
+      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -95,54 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T00:30:00.000Z",
-      "headline": "Why the Trump-Putin summit is no &#x2018;magic lever&#x2019; to unleash global oil supplies",
-      "url": "https://www.marketwatch.com/story/why-the-trump-putin-summit-is-no-magic-lever-to-unleash-global-oil-supplies-cf589403?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The hype surrounding the historic summit Friday between U.S. President Donald Trump and Russian President Vladimir Putin makes clear that Russia &#x2014; even under global sanctions &#x2014; remains a powerhouse in the energy market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T21:24:00.000Z",
-      "headline": "Intel has 18 months to determine its future &#x2014; or Qualcomm and Arm will",
-      "url": "https://www.marketwatch.com/story/intel-has-18-months-to-determine-its-future-or-qualcomm-and-arm-will-6fc0098b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Trump&#x2019;s punches against Intel&#x2019;s new CEO land a direct hit &#x2014; widening the opening for the tech giant&#x2019;s strongest rivals.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T21:22:00.000Z",
-      "headline": "&#x2018;I&#x2019;ve been kept in poverty&#x2019;: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
-      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;After the age of 50, I really only had sporadic contract work and I had to sell my house.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T21:09:00.000Z",
-      "headline": "In this economy, here&#x2019;s what it takes to get people to spend on summer fun",
-      "url": "https://www.marketwatch.com/story/americans-who-make-over-100-000-are-still-propping-up-the-economy-but-how-long-can-they-keep-doing-it-b9535f3e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "In an uncertain economic environment, at least one thing is clear: Six-figure earners are still spending money..",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
