@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-08-15T23:28:00.917Z",
+  "last_updated": "2025-08-16T10:42:43.130Z",
   "items": [
+    {
+      "ts": "2025-08-16T09:57:00.000Z",
+      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
+      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-15T21:22:00.000Z",
       "headline": "This is how important Taylor Swift&#x2019;s &#x2018;The Life of a Showgirl&#x2019; is to an entire industry",
@@ -11,6 +23,18 @@
         "ED"
       ],
       "summary_en": "Also: Bargain stocks, Warren Buffett&#x2019;s bottom-fishing with UnitedHealth and how you can grab a real-estate commission.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-15T23:36:00.000Z",
+      "headline": "&#x2018;I&#x2019;m tired of corporate America&#x2019;: My wife and I have $1.65 million. I&#x2019;m 61. Can I retire already?",
+      "url": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My annual income is $108,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -50,28 +74,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-15T20:28:00.000Z",
-      "headline": "Dow ends just shy of record after touching new intraday high, as Buffett gives Wall Street a boost",
-      "url": "https://www.marketwatch.com/story/dow-hits-fresh-record-high-as-warren-buffett-gives-wall-street-a-brief-upward-nudge-friday-17afb789?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Dow Jones Industrial Average ended nearly flat on Friday after hitting a record high in morning action &#x2014; riding a wave of market optimism and a timely push from the &#x201c;Oracle of Omaha.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T20:28:00.000Z",
-      "headline": "Here&#x2019;s what it&#x2019;s like to invest in private equity &#x2014; and why you don&#x2019;t want it in your 401(k)",
-      "url": "https://www.marketwatch.com/story/heres-what-its-like-to-invest-in-private-equity-and-why-you-dont-want-it-in-your-401-k-2df14f91?mod=mw_rss_topstories",
+      "ts": "2025-08-15T16:00:00.000Z",
+      "headline": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks' novel activities through the normal supervisory process",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250815a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "It&#x2019;s not just about risk and fees, but about knowing how much you have and having access to your money when you need it.",
+      "summary_en": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks&#39; novel activities through the normal supervisory process",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-12T15:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250812a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T00:30:00.000Z",
+      "headline": "Why the Trump-Putin summit is no &#x2018;magic lever&#x2019; to unleash global oil supplies",
+      "url": "https://www.marketwatch.com/story/why-the-trump-putin-summit-is-no-magic-lever-to-unleash-global-oil-supplies-cf589403?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The hype surrounding the historic summit Friday between U.S. President Donald Trump and Russian President Vladimir Putin makes clear that Russia &#x2014; even under global sanctions &#x2014; remains a powerhouse in the energy market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -108,42 +143,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "In an uncertain economic environment, at least one thing is clear: Six-figure earners are still spending money..",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T21:06:00.000Z",
-      "headline": "The rich already know how private equity mints money &#x2014; and it&#x2019;s not from a 401(k)",
-      "url": "https://www.marketwatch.com/story/the-rich-already-know-how-private-equity-mints-money-and-its-not-from-a-401-k-c9699cff?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "You&#x2019;ll soon be able to invest your retirement savings in private equity. But should you?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T16:00:00.000Z",
-      "headline": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks' novel activities through the normal supervisory process",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250815a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks&#39; novel activities through the normal supervisory process",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-12T15:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250812a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
