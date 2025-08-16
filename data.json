@@ -1,45 +1,69 @@
 {
-  "last_updated": "2025-08-16T13:29:05.403Z",
+  "last_updated": "2025-08-16T23:26:30.213Z",
   "items": [
     {
-      "ts": "2025-08-16T12:30:00.000Z",
-      "headline": "Inflation alarm bells went off again and prices are rising. Just how bad is it going to get?",
-      "url": "https://www.marketwatch.com/story/inflation-alarm-bells-went-off-again-and-prices-are-rising-just-how-bad-is-it-going-to-get-6659c921?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The biggest increase in wholesale prices in three and a half years stunned Wall Street, but is tariff-related inflation really set to soar? The proof is far from ironclad.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T12:14:00.000Z",
-      "headline": "&#x2018;I&#x2019;m tired of corporate America&#x2019;: My wife and I have $1.65 million. I&#x2019;m 61. Can I retire already?",
-      "url": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
+      "ts": "2025-08-16T18:34:00.000Z",
+      "headline": "&#x200b;Trump has perfected a tax on corporate America &#x2014; just don&#x2019;t call it a tax. Here&#x2019;s how it could affect stocks.",
+      "url": "https://www.marketwatch.com/story/trumps-nvidia-deal-opens-a-pay-to-play-toll-road-to-do-business-in-america-investors-will-feel-every-bump-5601f2f7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My annual income is $108,000.&#x201d;",
+      "summary_en": "The art of the steal: Trump&#x2019;s Nvidia deal opens a &#x2018;pay to play&#x2019; floodgate to do business. If you can&#x2019;t afford the toll, don&#x2019;t approach the booth.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T12:00:00.000Z",
-      "headline": "Getting married when you&#x2019;re older can be a financial minefield. How to protect yourself.",
-      "url": "https://www.marketwatch.com/story/getting-married-when-youre-older-can-be-a-financial-minefield-how-to-protect-yourself-3e4edf0f?mod=mw_rss_topstories",
+      "ts": "2025-08-16T18:22:00.000Z",
+      "headline": "Most boomers and Gen X-ers are terrified about running out of money in retirement &#x2014; even if they&#x2019;re already retired",
+      "url": "https://www.marketwatch.com/story/most-boomers-and-gen-x-ers-are-terrified-about-running-out-of-money-in-retirement-even-if-theyre-already-retired-43d52ed0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "When retirees tie the knot, prenups really matter. Skip them at your peril.",
+      "summary_en": "Anxiety has been peaking for people in and approaching retirement &#x2014; how to manage it",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T11:26:00.000Z",
-      "headline": "&#x2018;I personally don&#x2019;t care about her money&#x2019;: What happens to my aunt&#x2019;s safe-deposit box after she dies?",
+      "ts": "2025-08-16T17:52:00.000Z",
+      "headline": "Why your stock portfolio may actually &#x2018;feel&#x2019; depressed that summer is almost over",
+      "url": "https://www.marketwatch.com/story/summers-almost-over-and-the-return-of-pumpkin-spice-lattes-is-a-sign-that-your-stock-portfolio-may-fall-ac250c2e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Halloween merchandise and pumpkin-spice lattes in August are reminders that winter is coming.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T17:33:00.000Z",
+      "headline": "An obsession with avoiding the estate tax cost this top exec his marriage. Now his son is speaking out.",
+      "url": "https://www.marketwatch.com/story/an-obsession-with-avoiding-the-estate-tax-cost-this-top-exec-his-marriage-now-his-son-is-speaking-out-2d4afbef?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "The documentary &#x201c;Death & Taxes&#x201d; delves into Harvey Schein&#x2019;s obsession with avoiding the IRS",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T17:05:00.000Z",
+      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-16T16:57:00.000Z",
+      "headline": "&#x2018;She has no immediate family&#x2019;: Will my mother receive the contents of my aunt&#x2019;s safe-deposit box after she dies?",
       "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -50,75 +74,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T11:00:00.000Z",
-      "headline": "Why UnitedHealth? Buying the stock was actually a &#x2018;classic Buffett move.&#x2019;",
-      "url": "https://www.marketwatch.com/story/why-unitedhealth-buying-the-stock-was-actually-a-classic-buffett-move-df763d81?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of some of UnitedHealth&#x2019;s peers got a bump in the wake of Berkshire&#x2019;s investment in the healthcare giant, and they all look cheaper based on price relative to expected earnings.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T13:09:00.000Z",
-      "headline": "&#x2018;I&#x2019;ve been kept in poverty&#x2019;: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
-      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
+      "ts": "2025-08-16T19:02:00.000Z",
+      "headline": "3 ways to make sure the &#x2018;great wealth transfer&#x2019; enriches your family",
+      "url": "https://www.marketwatch.com/story/how-to-break-the-cycle-of-entitlement-so-your-heirs-value-their-privilege-and-your-money-2c8cd8ab?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;After the age of 50, I really only had sporadic contract work and I had to sell my house.&#x201d;",
+      "summary_en": "From &#x2018;affluenza&#x2019; to abundance: How to teach heirs to value their privilege &#x2014; and your money",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T12:07:00.000Z",
-      "headline": "Why nearly 7 in 10 new college grads are looking for jobs close to family",
-      "url": "https://www.marketwatch.com/story/why-nearly-7-in-10-new-college-grads-are-looking-for-jobs-close-to-family-405316fd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Gen Z college graduates are prioritizing work-life balance and saving money when selecting their first job.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T12:00:00.000Z",
-      "headline": "Turning stocks and bonds into crypto-style trades won&#x2019;t be happening soon. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/turning-stocks-and-bonds-into-crypto-style-trades-wont-be-happening-soon-heres-why-0fdc11a6?mod=mw_rss_topstories",
+      "ts": "2025-08-16T17:14:00.000Z",
+      "headline": "I have $140,000 in a 401(k) and earn $45,000 a year. Can I retire in 20 years?",
+      "url": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Regulators and crypto bulls want to move all stocks and bonds onto a blockchain. But turning that vision into reality may still be a long way off.",
+      "summary_en": "&#x201c;My 401(k) retirement planner shows I&#x2019;ll likely be short $1,500 every month during my retirement.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T11:30:00.000Z",
-      "headline": "The old software investing playbook is dead. Here&#x2019;s where to put your money now.",
-      "url": "https://www.marketwatch.com/story/the-old-software-investing-playbook-is-dead-heres-where-to-put-your-money-now-4f4a7835?mod=mw_rss_topstories",
+      "ts": "2025-08-16T17:14:00.000Z",
+      "headline": "What has Trump done to save Social Security? Sadly, nothing.",
+      "url": "https://www.marketwatch.com/story/what-has-done-trump-done-to-save-social-security-sadly-nothing-c110a264?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Software companies are facing a reckoning as AI lowers barriers to entry. Experts share how to find winners in an evolving competitive landscape.",
+      "summary_en": "The president&#x2019;s press conference on Social Security was hot air.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T09:57:00.000Z",
-      "headline": "&#x2018;Absolutely no one pays attention&#x2019;: I could steal from my children&#x2019;s trust fund without them having a clue",
-      "url": "https://www.marketwatch.com/story/absolutely-no-one-pays-attention-i-could-steal-from-my-childrens-trust-fund-without-them-having-a-clue-06eb6526?mod=mw_rss_topstories",
+      "ts": "2025-08-16T17:01:00.000Z",
+      "headline": "What is the worst financial mistake you&#x2019;ve ever made?",
+      "url": "https://www.marketwatch.com/story/what-is-the-worst-financial-decision-youve-ever-made-02314556?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I am on the paperwork as the guardian of the trust.&#x201d;",
+      "summary_en": "Listening without prejudice to people&#x2019;s worst financial decisions may be helpful in helping you to avoid the same fate.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
