@@ -1,32 +1,45 @@
 {
-  "last_updated": "2025-08-17T13:30:15.870Z",
+  "last_updated": "2025-08-17T23:27:56.057Z",
   "items": [
     {
-      "ts": "2025-08-17T13:00:00.000Z",
-      "headline": "Teachers spending big on classroom supplies can look forward to broader tax breaks &#x2014; but there&#x2019;s a catch",
-      "url": "https://www.marketwatch.com/story/teachers-spending-big-on-classroom-supplies-can-look-forward-to-broader-tax-breaks-but-theres-a-catch-8d2d2bbf?mod=mw_rss_topstories",
+      "ts": "2025-08-17T23:22:00.000Z",
+      "headline": "U.S. stock futures inch higher following Trump-Putin summit; Wall Street awaits Fed&#x2019;s Jackson Hole meeting",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-following-trump-putin-summit-wall-street-awaits-feds-jackson-hole-meeting-2264ec53?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The IRS already offers a educator expense deduction. Here&#x2019;s what&#x2019;s ahead.",
+      "summary_en": "U.S. stock-market futures rose slightly Sunday, after Friday&#x2019;s summit between U.S. and Russian leaders ended without a major breakthrough and as investors await this week&#x2019;s Fed gathering in Jackson Hole, Wyo.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-17T12:00:00.000Z",
-      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
-      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+      "ts": "2025-08-17T22:00:00.000Z",
+      "headline": "I&#x2019;m a senior who barely survives on $1,300 a month. No way could I live on $1,000.",
+      "url": "https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;We seniors are pressured and scammed into buying a lot of things we don&#x2019;t need.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-17T21:30:00.000Z",
+      "headline": "&#x2018;I&#x2019;m tired of corporate America&#x2019;: My wife and I have $1.65 million. I&#x2019;m 61. Can I retire already?",
+      "url": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
+      "summary_en": "&#x201c;My annual income is $108,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-17T11:05:00.000Z",
+      "ts": "2025-08-17T20:26:00.000Z",
       "headline": "&#x2018;I am a senior citizen&#x2019;: My car needs $3,500 for repairs, but only has a trade-in value of $6,000. Do I bother fixing it?",
       "url": "https://www.marketwatch.com/story/i-am-retired-and-not-wealthy-my-car-needs-3-500-for-repairs-but-only-has-a-trade-in-value-of-6-000-do-i-bother-fixing-it-e81d225e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -39,7 +52,55 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-17T10:00:00.000Z",
+      "ts": "2025-08-17T20:06:00.000Z",
+      "headline": "How safe are cruise-ship water slides? A recent incident on a Royal Caribbean sailing raises concerns.",
+      "url": "https://www.marketwatch.com/story/how-safe-are-cruise-ship-water-slides-a-recent-incident-on-a-royal-caribbean-sailing-begs-the-question-7c565d82?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The slides are an increasingly popular attraction on many of the mega vessels operated by cruise lines.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-17T20:03:00.000Z",
+      "headline": "Investors are plowing into homebuilder stocks. Will Jackson Hole prove them wrong?",
+      "url": "https://www.marketwatch.com/story/investors-are-plowing-into-homebuilder-stocks-will-jackson-hole-prove-them-wrong-adff93ec?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Previously unloved stocks are making a big comeback before Jackson Hole, the Federal Reserve&#x2019;s annual summer economic summit",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-17T21:36:00.000Z",
+      "headline": "Walmart and rivals report earnings, for the clearest look yet at tariffs&#x2019; impact on consumers. Will CEOs talk about the elephant in the room?",
+      "url": "https://www.marketwatch.com/story/walmart-and-rivals-report-for-the-clearest-look-at-the-consumer-yet-will-ceos-talk-about-the-elephant-in-the-room-c17d9f55?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The nation&#x2019;s biggest retailer reports results on Thursday as signs emerge that U.S. tariffs could be nudging prices higher.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-17T19:22:00.000Z",
+      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-17T19:22:00.000Z",
       "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
       "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -51,51 +112,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T18:34:00.000Z",
-      "headline": "&#x200b;Trump has perfected a tax on corporate America &#x2014; just don&#x2019;t call it a tax. Here&#x2019;s how it could affect stocks.",
-      "url": "https://www.marketwatch.com/story/trumps-nvidia-deal-opens-a-pay-to-play-toll-road-to-do-business-in-america-investors-will-feel-every-bump-5601f2f7?mod=mw_rss_topstories",
+      "ts": "2025-08-17T20:45:00.000Z",
+      "headline": "&#x2018;I&#x2019;ve been kept in poverty&#x2019;: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
+      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "The art of the steal: Trump&#x2019;s Nvidia deal opens a &#x2018;pay to play&#x2019; floodgate to do business. If you can&#x2019;t afford the toll, don&#x2019;t approach the booth.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T18:22:00.000Z",
-      "headline": "Most boomers and Gen X-ers are terrified about running out of money in retirement &#x2014; even if they&#x2019;re already retired",
-      "url": "https://www.marketwatch.com/story/most-boomers-and-gen-x-ers-are-terrified-about-running-out-of-money-in-retirement-even-if-theyre-already-retired-43d52ed0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Anxiety has been peaking for people in and approaching retirement &#x2014; how to manage it",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T17:52:00.000Z",
-      "headline": "Why your stock portfolio may actually &#x2018;feel&#x2019; depressed that summer is almost over",
-      "url": "https://www.marketwatch.com/story/summers-almost-over-and-the-return-of-pumpkin-spice-lattes-is-a-sign-that-your-stock-portfolio-may-fall-ac250c2e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Halloween merchandise and pumpkin-spice lattes in August are reminders that winter is coming.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T17:33:00.000Z",
-      "headline": "An obsession with avoiding the estate tax cost this top exec his marriage. Now his son is speaking out.",
-      "url": "https://www.marketwatch.com/story/an-obsession-with-avoiding-the-estate-tax-cost-this-top-exec-his-marriage-now-his-son-is-speaking-out-2d4afbef?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "The documentary &#x201c;Death & Taxes&#x201d; delves into Harvey Schein&#x2019;s obsession with avoiding the IRS",
+      "summary_en": "&#x201c;After the age of 50, I really only had sporadic contract work and I had to sell my house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -120,30 +145,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T19:02:00.000Z",
-      "headline": "3 ways to make sure the &#x2018;great wealth transfer&#x2019; enriches your family",
-      "url": "https://www.marketwatch.com/story/how-to-break-the-cycle-of-entitlement-so-your-heirs-value-their-privilege-and-your-money-2c8cd8ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "From &#x2018;affluenza&#x2019; to abundance: How to teach heirs to value their privilege &#x2014; and your money",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T17:14:00.000Z",
-      "headline": "I have $140,000 in a 401(k) and earn $45,000 a year. Can I retire in 20 years?",
-      "url": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My 401(k) retirement planner shows I&#x2019;ll likely be short $1,500 every month during my retirement.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
