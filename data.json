@@ -1,6 +1,43 @@
 {
-  "last_updated": "2025-08-17T10:43:38.886Z",
+  "last_updated": "2025-08-17T13:30:15.870Z",
   "items": [
+    {
+      "ts": "2025-08-17T13:00:00.000Z",
+      "headline": "Teachers spending big on classroom supplies can look forward to broader tax breaks &#x2014; but there&#x2019;s a catch",
+      "url": "https://www.marketwatch.com/story/teachers-spending-big-on-classroom-supplies-can-look-forward-to-broader-tax-breaks-but-theres-a-catch-8d2d2bbf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The IRS already offers a educator expense deduction. Here&#x2019;s what&#x2019;s ahead.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-17T12:00:00.000Z",
+      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-17T11:05:00.000Z",
+      "headline": "&#x2018;I am a senior citizen&#x2019;: My car needs $3,500 for repairs, but only has a trade-in value of $6,000. Do I bother fixing it?",
+      "url": "https://www.marketwatch.com/story/i-am-retired-and-not-wealthy-my-car-needs-3-500-for-repairs-but-only-has-a-trade-in-value-of-6-000-do-i-bother-fixing-it-e81d225e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;What is the &#x2018;tipping point&#x2019; for keeping one&#x2019;s old car versus trading it in?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-17T10:00:00.000Z",
       "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
@@ -62,18 +99,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T17:05:00.000Z",
-      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
-      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-08-15T16:00:00.000Z",
       "headline": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks' novel activities through the normal supervisory process",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250815a.htm",
@@ -119,30 +144,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;My 401(k) retirement planner shows I&#x2019;ll likely be short $1,500 every month during my retirement.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T17:14:00.000Z",
-      "headline": "What has Trump done to save Social Security? Sadly, nothing.",
-      "url": "https://www.marketwatch.com/story/what-has-done-trump-done-to-save-social-security-sadly-nothing-c110a264?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The president&#x2019;s press conference on Social Security was hot air.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-16T17:01:00.000Z",
-      "headline": "What is the worst financial mistake you&#x2019;ve ever made?",
-      "url": "https://www.marketwatch.com/story/what-is-the-worst-financial-decision-youve-ever-made-02314556?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Listening without prejudice to people&#x2019;s worst financial decisions may be helpful in helping you to avoid the same fate.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
