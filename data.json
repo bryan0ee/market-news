@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-08-16T23:26:30.213Z",
+  "last_updated": "2025-08-17T10:43:38.886Z",
   "items": [
+    {
+      "ts": "2025-08-17T10:00:00.000Z",
+      "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
+      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-16T18:34:00.000Z",
       "headline": "&#x200b;Trump has perfected a tax on corporate America &#x2014; just don&#x2019;t call it a tax. Here&#x2019;s how it could affect stocks.",
@@ -62,15 +74,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-16T16:57:00.000Z",
-      "headline": "&#x2018;She has no immediate family&#x2019;: Will my mother receive the contents of my aunt&#x2019;s safe-deposit box after she dies?",
-      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
+      "ts": "2025-08-15T16:00:00.000Z",
+      "headline": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks' novel activities through the normal supervisory process",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250815a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
+      "summary_en": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks&#39; novel activities through the normal supervisory process",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-12T15:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250812a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,30 +143,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Listening without prejudice to people&#x2019;s worst financial decisions may be helpful in helping you to avoid the same fate.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T16:00:00.000Z",
-      "headline": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks' novel activities through the normal supervisory process",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250815a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks&#39; novel activities through the normal supervisory process",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-12T15:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250812a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
