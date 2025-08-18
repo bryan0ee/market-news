@@ -1,69 +1,8 @@
 {
-  "last_updated": "2025-08-18T10:48:21.870Z",
+  "last_updated": "2025-08-18T13:38:06.046Z",
   "items": [
     {
-      "ts": "2025-08-18T10:13:00.000Z",
-      "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
-      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-18T09:41:00.000Z",
-      "headline": "This Fed watcher says a September rate cut is not yet a done deal &#x2014; and a &#x2018;messy&#x2019; compromise awaits",
-      "url": "https://www.marketwatch.com/story/this-fed-watcher-says-a-september-rate-cut-is-not-yet-a-done-deal-and-a-messy-compromise-awaits-28b89dcf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Changing labor market dynamics and sticky inflation suggest rate traders may be too optimistic about the pace of Fed rate cuts.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-18T09:15:00.000Z",
-      "headline": "Are Tesla and Google stocks received as a gift subject to division in a divorce?&#xa0;",
-      "url": "https://www.marketwatch.com/story/are-tesla-and-google-stocks-received-as-a-gift-subject-to-division-in-a-divorce-18834c76?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "&#x201c;My friend is working on an exit plan.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-18T09:05:00.000Z",
-      "headline": "Mark Zuckerberg rankles neighbors for buying up cluster of Palo Alto homes",
-      "url": "https://www.marketwatch.com/story/mark-zuckerberg-rankles-neighbors-for-buying-up-cluster-of-palo-alto-homes-92c7d80d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "In the years since buying his first home there, Zuckerberg has purchased 10 others in an apparent bid to create a kind of property buffer.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-18T09:01:00.000Z",
-      "headline": "As her kids turn 18, Angelina Jolie may be looking to sell her historic $24.5 million L.A. estate",
-      "url": "https://www.marketwatch.com/story/as-her-kids-turn-18-angelina-jolie-may-be-looking-to-sell-her-historic-24-5-million-l-a-estate-66f3b8b5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Jolie is said to be getting ready to sell the home she has lived in for the last 8 years&#x2014;as she prepares for a move away from the U.S.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-18T08:21:00.000Z",
+      "ts": "2025-08-18T13:37:00.000Z",
       "headline": "Novo Nordisk shares are rising. The FDA approves another use for Wegovy.",
       "url": "https://www.marketwatch.com/story/novo-nordisk-shares-are-rising-the-fda-approves-another-use-for-wegovy-c33133ec?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -75,40 +14,112 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-18T02:58:00.000Z",
-      "headline": "U.S. stock futures inch higher following Trump-Putin summit; Wall Street awaits Fed&#x2019;s Jackson Hole meeting",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-following-trump-putin-summit-wall-street-awaits-feds-jackson-hole-meeting-2264ec53?mod=mw_rss_topstories",
+      "ts": "2025-08-18T13:31:00.000Z",
+      "headline": "Without this Jackson Hole signal, stocks could slide 15% in the fall, says one strategist",
+      "url": "https://www.marketwatch.com/story/without-this-signal-at-from-powell-at-jackson-hole-stocks-could-slide-15-says-this-strategist-887b0673?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. stock-market futures rose slightly Sunday, after Friday&#x2019;s summit between U.S. and Russian leaders ended without a major breakthrough and as investors await this week&#x2019;s Fed gathering in Jackson Hole, Wyo.",
+      "summary_en": "Fed Chair Powell&#x2019;s speech may disappoint investors, according to Evercore&#x2019;s Emanuel",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-18T01:08:00.000Z",
-      "headline": "The Powerball jackpot is now $605 million, but this man warns that playing the lottery can become an addiction",
-      "url": "https://www.marketwatch.com/story/i-hit-the-worst-of-bottom-this-connecticut-man-lost-around-1-million-playing-the-lottery-and-has-no-plans-to-buy-a-powerball-ticket-11633373346?mod=mw_rss_topstories",
+      "ts": "2025-08-18T13:28:00.000Z",
+      "headline": "Advisers are too quick to sell winners. One firm found a solution.",
+      "url": "https://www.marketwatch.com/story/advisers-are-too-quick-to-sell-winners-one-firm-found-a-solution-4a5b8ea0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Adam Osmond gambled away a fortune on lottery games, but eventually sought help",
+      "summary_en": "A brokerage discussed a novel solution to what&#x2019;s known as the disposition effect &#x2014; selling winners too early and losers too late.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-17T22:00:00.000Z",
-      "headline": "I&#x2019;m a senior who barely survives on $1,300 a month. No way could I live on $1,000.",
-      "url": "https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories",
+      "ts": "2025-08-18T13:21:00.000Z",
+      "headline": "Cruise-ship water slides are coming under scrutiny after Royal Caribbean incident",
+      "url": "https://www.marketwatch.com/story/how-safe-are-cruise-ship-water-slides-a-recent-incident-on-a-royal-caribbean-sailing-begs-the-question-7c565d82?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;We seniors are pressured and scammed into buying a lot of things we don&#x2019;t need.&#x201d;",
+      "summary_en": "The slides are an increasingly popular attraction on many of the mega vessels operated by cruise lines.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-18T12:29:00.000Z",
+      "headline": "How social media convinces investors they&#x2019;re the next Warren Buffett &#x2014; or smarter",
+      "url": "https://www.marketwatch.com/story/how-social-media-convinces-investors-theyre-the-next-warren-buffett-or-smarter-a1f258c6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Internet investing sites and tips give people a false &#x2014; and costly &#x2014; sense of their abilities, studies show. Legendary investor Howard Marks has a solution.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-18T11:50:00.000Z",
+      "headline": "This car is the next big thing in driving &#x2014; and you can invest in it right now",
+      "url": "https://www.marketwatch.com/story/this-car-is-the-next-big-thing-in-driving-and-you-can-invest-in-it-right-now-fef2d71a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Autonomous vehicles are gaining speed &#x2014; and Tesla and Uber have the inside lane. And pay attention to Nvidia and other AV infrastructure plays.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-18T11:35:00.000Z",
+      "headline": "Is Nvidia a Republican or a Democrat? These political ETFs have voted.",
+      "url": "https://www.marketwatch.com/story/is-nvidia-a-republican-or-a-democrat-these-political-etfs-have-voted-ddb51f26?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "ETFs that combine investing and politics tap into investors&#x2019; polarized views. Why they shouldn&#x2019;t get your vote.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-18T11:20:00.000Z",
+      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-18T12:06:00.000Z",
+      "headline": "How one strategist solves the great market paradox playing out right now",
+      "url": "https://www.marketwatch.com/story/how-one-strategist-solves-the-great-market-paradox-playing-out-right-now-9dd123ea?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The market is not oblivious to risks right now; it&#x2019;s well aware of them but maintaining equilibrium in the process.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-18T12:00:00.000Z",
+      "headline": "I&#x2019;m single, 75, and living with kidney disease and a pacemaker. I&#x2019;ve no long-term care insurance. Will I be OK?",
+      "url": "https://www.marketwatch.com/story/im-single-75-and-living-with-kidney-disease-and-a-pacemaker-ive-no-long-term-care-insurance-will-i-be-ok-fcf4b87d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;My income is $120,000 per year which includes $60,000 in Social Security and a pension.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -133,18 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-17T21:36:00.000Z",
-      "headline": "Walmart and rivals report earnings, for the clearest look yet at tariffs&#x2019; impact on consumers. Will CEOs talk about the elephant in the room?",
-      "url": "https://www.marketwatch.com/story/walmart-and-rivals-report-for-the-clearest-look-at-the-consumer-yet-will-ceos-talk-about-the-elephant-in-the-room-c17d9f55?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The nation&#x2019;s biggest retailer reports results on Thursday as signs emerge that U.S. tariffs could be nudging prices higher.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
