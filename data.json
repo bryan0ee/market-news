@@ -1,6 +1,66 @@
 {
-  "last_updated": "2025-08-19T10:45:29.050Z",
+  "last_updated": "2025-08-19T13:32:28.883Z",
   "items": [
+    {
+      "ts": "2025-08-19T13:15:00.000Z",
+      "headline": "Gold has crushed stocks, bonds and even bitcoin in 2025. This banking giant just got more bullish.",
+      "url": "https://www.marketwatch.com/story/gold-has-crushed-stocks-bonds-and-even-bitcoin-in-2025-this-banking-giant-just-got-more-bullish-9071df48?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "UBS Global Wealth Management strategists see plenty of drivers to keep pushing gold beyond the record run it has seen in 2025.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T13:11:00.000Z",
+      "headline": "Viking Therapeutics&#x2019; stock tumbles after results of oral weight-loss drug trial. It has company.",
+      "url": "https://www.marketwatch.com/story/viking-therapeutics-stock-tumbles-after-results-of-oral-weight-loss-drug-trial-it-has-company-ea09cbc7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Viking Therapeutics on Tuesday announced that a trial showed its oral weight-loss drug works &#x2014; and like a larger rival, its stock price immediately suffered.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T12:07:00.000Z",
+      "headline": "European defense stocks in retreat. Ukraine peace could derail the rally.",
+      "url": "https://www.marketwatch.com/story/european-defense-stocks-in-retreat-ukraine-peace-could-derail-the-rally-c5cd8873?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Prospect of peace may crimp demand in the sector that has rallied this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T11:50:00.000Z",
+      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T11:20:00.000Z",
+      "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
+      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-19T10:23:00.000Z",
       "headline": "The Fed is the best defense against U.S. sovereign downgrade, says rating agency",
@@ -15,7 +75,7 @@
     },
     {
       "ts": "2025-08-19T09:41:00.000Z",
-      "headline": "&#x2018;I can only rely on myself&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
+      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
       "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -38,64 +98,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-19T08:29:00.000Z",
-      "headline": "Chamath Palihapitiya warns &#x2018;no crying in the casino&#x2019; as he launches another SPAC after a string of failures",
-      "url": "https://www.marketwatch.com/story/chamath-palihapitiya-warns-no-crying-in-the-casino-as-he-launches-another-spac-after-a-string-of-failures-bc314892?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Chamath Palihapitiya has carried out what some might consider to be a threat &#x2014; launch a new special purpose acquisition company despite a checkered record in doing so.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T09:20:00.000Z",
-      "headline": "My friend&#x2019;s father gifted her Tesla and Google stock. They could be worth millions. Will they be split 50/50 in her divorce?&#xa0;",
-      "url": "https://www.marketwatch.com/story/are-tesla-and-google-stocks-received-as-a-gift-subject-to-division-in-a-divorce-18834c76?mod=mw_rss_topstories",
+      "ts": "2025-08-19T11:45:00.000Z",
+      "headline": "Home Depot sees U.S. sales accelerate, suggesting home-improvement slump may be over",
+      "url": "https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "&#x201c;My friend is working on an exit plan.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T09:18:00.000Z",
-      "headline": "U.K. to drop demand for &#x2018;back door&#x2019; into iPhones, as Apple reportedly expands Indian production",
-      "url": "https://www.marketwatch.com/story/u-k-to-drop-demand-for-back-door-into-iphones-as-apple-reportedly-expands-indian-production-48e29007?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.K. is acceding to U.S. government request to drop its demand for Apple to provide a so-called &#x201c;back door&#x201d; into the iPhone, as the company reportedly is expanding its production of the mobile phone in India.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T09:02:00.000Z",
-      "headline": "&#x2018;Million Dollar Listing&#x2019; star Josh Flagg adds a $9.2 million Hamptons home to his growing real-estate portfolio",
-      "url": "https://www.marketwatch.com/story/million-dollar-listing-star-josh-flagg-adds-a-9-2-million-hamptons-home-to-his-growing-real-estate-portfolio-218454f8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Million Dollar Listing&#x201d; star&#xa0;Josh Flagg&#xa0;has reportedly added an opulent $9.2 million&#xa0;Hamptons&#xa0;dwelling to his already-impressive property portfolio.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T10:10:00.000Z",
-      "headline": "Home Depot&#x2019;s stock falls after another profit miss, but home-improvement projects increase",
-      "url": "https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1?mod=mw_rss_marketpulse",
-      "impact": "Bearish",
-      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Home Depot&#x2019;s stock falls after another profit miss, but home-improvement projects increase",
+      "summary_en": "Home Depot is seeing customers engaging more broadly in smaller home-improvement projects.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -108,31 +119,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;My income is $120,000 per year which includes $60,000 in Social Security and a pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T02:41:00.000Z",
-      "headline": "Intel&#x2019;s stock rallies after $2 billion investment by Japan&#x2019;s SoftBank",
-      "url": "https://www.marketwatch.com/story/intels-stock-rallies-after-2-billion-investment-by-japans-softbank-5313aa50?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Intel Corp. shares jumped in after-hours trading Monday after the chipmaker announced a $2 billion investment by Japan&#x2019;s SoftBank Group Corp.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T00:56:00.000Z",
-      "headline": "Opendoor&#x2019;s stock is rocketing again. What can make it keep going?",
-      "url": "https://www.marketwatch.com/story/opendoors-stock-is-rocketing-again-what-can-make-it-keep-going-d1c4a01a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Opendoor shares are skyrocketing again as noted bull Eric Jackson said that the company needs to dive deeper into AI and rethink its business model.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
