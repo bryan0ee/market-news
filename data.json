@@ -1,80 +1,8 @@
 {
-  "last_updated": "2025-08-19T13:32:28.883Z",
+  "last_updated": "2025-08-19T23:26:33.916Z",
   "items": [
     {
-      "ts": "2025-08-19T13:15:00.000Z",
-      "headline": "Gold has crushed stocks, bonds and even bitcoin in 2025. This banking giant just got more bullish.",
-      "url": "https://www.marketwatch.com/story/gold-has-crushed-stocks-bonds-and-even-bitcoin-in-2025-this-banking-giant-just-got-more-bullish-9071df48?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "UBS Global Wealth Management strategists see plenty of drivers to keep pushing gold beyond the record run it has seen in 2025.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T13:11:00.000Z",
-      "headline": "Viking Therapeutics&#x2019; stock tumbles after results of oral weight-loss drug trial. It has company.",
-      "url": "https://www.marketwatch.com/story/viking-therapeutics-stock-tumbles-after-results-of-oral-weight-loss-drug-trial-it-has-company-ea09cbc7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Viking Therapeutics on Tuesday announced that a trial showed its oral weight-loss drug works &#x2014; and like a larger rival, its stock price immediately suffered.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T12:07:00.000Z",
-      "headline": "European defense stocks in retreat. Ukraine peace could derail the rally.",
-      "url": "https://www.marketwatch.com/story/european-defense-stocks-in-retreat-ukraine-peace-could-derail-the-rally-c5cd8873?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Prospect of peace may crimp demand in the sector that has rallied this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T11:50:00.000Z",
-      "headline": "My wife and I are in our 50s and have $11 million. We&#x2019;re not leaving it to our kids. Is that wrong?",
-      "url": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We have retired from full-time work.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T11:20:00.000Z",
-      "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
-      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T10:23:00.000Z",
-      "headline": "The Fed is the best defense against U.S. sovereign downgrade, says rating agency",
-      "url": "https://www.marketwatch.com/story/the-fed-is-the-best-defense-against-u-s-sovereign-downgrade-says-rating-agency-ecc4413a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Some of the U.S debt metrics compare unfavourably with emerging market credits with much lower ratings",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T09:41:00.000Z",
+      "ts": "2025-08-19T22:49:00.000Z",
       "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
       "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -86,39 +14,125 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-19T09:37:00.000Z",
-      "headline": "Chinese EV maker XPeng said it narrowed loss on record sales",
-      "url": "https://www.marketwatch.com/story/chinese-ev-maker-xpeng-said-it-narrowed-loss-on-record-sales-0fd720dc?mod=mw_rss_topstories",
+      "ts": "2025-08-19T22:00:00.000Z",
+      "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
+      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Chinese EV maker XPeng said it narrowed its losses as revenue more than doubled in the second quarter.",
+      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-19T11:45:00.000Z",
-      "headline": "Home Depot sees U.S. sales accelerate, suggesting home-improvement slump may be over",
+      "ts": "2025-08-19T21:54:00.000Z",
+      "headline": "I&#x2019;m a senior who barely survives on $1,300 a month. No way could I live on $1,000.",
+      "url": "https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;We seniors are pressured and scammed into buying a lot of things we don&#x2019;t need.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T21:51:00.000Z",
+      "headline": "Venus Williams says she returned to tennis for the health insurance &#x2014; even after earning $42 million",
+      "url": "https://www.marketwatch.com/story/despite-42-million-in-earnings-venus-williams-couldnt-afford-to-stay-retired-d420b932?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The tennis star&#x2019;s comeback wasn&#x2019;t about trophies. It was about health insurance, she said.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T21:35:00.000Z",
+      "headline": "Home Depot says tariffs will lead to price increases, but they won&#x2019;t be across the board",
       "url": "https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Home Depot is seeing customers engaging more broadly in smaller home-improvement projects.",
+      "summary_en": "Home Depot said tariff rates are &#x201c;significantly higher&#x201d; on some imported goods than they were in May.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-19T09:32:00.000Z",
-      "headline": "I&#x2019;m single, 75, and living with kidney disease and a pacemaker. I&#x2019;ve no long-term care insurance. Will I be OK?",
-      "url": "https://www.marketwatch.com/story/im-single-75-and-living-with-kidney-disease-and-a-pacemaker-ive-no-long-term-care-insurance-will-i-be-ok-fcf4b87d?mod=mw_rss_topstories",
+      "ts": "2025-08-19T21:30:00.000Z",
+      "headline": "My friend&#x2019;s father gifted her Tesla and Google stock. They could be worth millions. Will they be split 50/50 in her divorce?&#xa0;",
+      "url": "https://www.marketwatch.com/story/are-tesla-and-google-stocks-received-as-a-gift-subject-to-division-in-a-divorce-18834c76?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "&#x201c;My friend is working on an exit plan.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T20:21:00.000Z",
+      "headline": "Why the Russell 2000 has a real chance to beat the S&P 500 &#x2014; finally",
+      "url": "https://www.marketwatch.com/story/why-the-russell-2000-has-a-real-chance-to-beat-the-s-p-500-finally-bd0c825b?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Small-cap stocks look primed for their big moment. But we&#x2019;ve been here before.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T21:00:00.000Z",
+      "headline": "My stepmother&#x2019;s lawyer called us &#x2018;greedy&#x2019; for fighting for our father&#x2019;s estate. When will it end?",
+      "url": "https://www.marketwatch.com/story/my-stepmothers-lawyer-called-us-greedy-for-fighting-for-our-fathers-estate-when-will-it-end-cfd92065?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;During the marriage, all his real estate ended up in trusts he didn&#x2019;t fully understand.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T20:37:00.000Z",
+      "headline": "Why small-cap stocks may be running out of &#x2018;runway&#x2019; after recent outperformance",
+      "url": "https://www.marketwatch.com/story/why-small-cap-stocks-may-be-running-out-of-runway-after-recent-outperformance-7a001b44?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The recent outperformance in small-cap stocks will probably run out of steam, after rallying on increased optimism that the Fed will lower rates over the next year, according to RBC Capital Markets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T21:01:00.000Z",
+      "headline": "Intel&#x2019;s stock surges on SoftBank investment and potential U.S. government stake. Here&#x2019;s why the rally could crumble.",
+      "url": "https://www.marketwatch.com/story/intels-stock-surges-on-softbank-investment-and-potential-u-s-government-stake-heres-why-the-rally-could-crumble-82cb6944?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;My income is $120,000 per year which includes $60,000 in Social Security and a pension.&#x201d;",
+      "summary_en": "More investment can&#x2019;t solve Intel&#x2019;s main problem: It doesn&#x2019;t have enough customers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-19T15:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250819a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +145,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks&#39; novel activities through the normal supervisory process",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-12T15:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250812a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Horizon Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
