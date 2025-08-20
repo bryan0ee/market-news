@@ -1,94 +1,8 @@
 {
-  "last_updated": "2025-08-19T23:26:33.916Z",
+  "last_updated": "2025-08-20T10:44:44.109Z",
   "items": [
     {
-      "ts": "2025-08-19T22:49:00.000Z",
-      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
-      "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I learned a long time ago that I could only rely on myself.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T22:00:00.000Z",
-      "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
-      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T21:54:00.000Z",
-      "headline": "I&#x2019;m a senior who barely survives on $1,300 a month. No way could I live on $1,000.",
-      "url": "https://www.marketwatch.com/story/im-a-senior-who-barely-survives-on-1-300-a-month-no-way-could-i-live-on-1-000-dfe42c83?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;We seniors are pressured and scammed into buying a lot of things we don&#x2019;t need.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T21:51:00.000Z",
-      "headline": "Venus Williams says she returned to tennis for the health insurance &#x2014; even after earning $42 million",
-      "url": "https://www.marketwatch.com/story/despite-42-million-in-earnings-venus-williams-couldnt-afford-to-stay-retired-d420b932?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The tennis star&#x2019;s comeback wasn&#x2019;t about trophies. It was about health insurance, she said.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T21:35:00.000Z",
-      "headline": "Home Depot says tariffs will lead to price increases, but they won&#x2019;t be across the board",
-      "url": "https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Home Depot said tariff rates are &#x201c;significantly higher&#x201d; on some imported goods than they were in May.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T21:30:00.000Z",
-      "headline": "My friend&#x2019;s father gifted her Tesla and Google stock. They could be worth millions. Will they be split 50/50 in her divorce?&#xa0;",
-      "url": "https://www.marketwatch.com/story/are-tesla-and-google-stocks-received-as-a-gift-subject-to-division-in-a-divorce-18834c76?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "&#x201c;My friend is working on an exit plan.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T20:21:00.000Z",
-      "headline": "Why the Russell 2000 has a real chance to beat the S&P 500 &#x2014; finally",
-      "url": "https://www.marketwatch.com/story/why-the-russell-2000-has-a-real-chance-to-beat-the-s-p-500-finally-bd0c825b?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Small-cap stocks look primed for their big moment. But we&#x2019;ve been here before.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T21:00:00.000Z",
+      "ts": "2025-08-20T10:00:00.000Z",
       "headline": "My stepmother&#x2019;s lawyer called us &#x2018;greedy&#x2019; for fighting for our father&#x2019;s estate. When will it end?",
       "url": "https://www.marketwatch.com/story/my-stepmothers-lawyer-called-us-greedy-for-fighting-for-our-fathers-estate-when-will-it-end-cfd92065?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -100,27 +14,112 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-19T20:37:00.000Z",
-      "headline": "Why small-cap stocks may be running out of &#x2018;runway&#x2019; after recent outperformance",
-      "url": "https://www.marketwatch.com/story/why-small-cap-stocks-may-be-running-out-of-runway-after-recent-outperformance-7a001b44?mod=mw_rss_topstories",
+      "ts": "2025-08-20T09:13:00.000Z",
+      "headline": "A stablecoin boom will force a return to dollar dominance &#x2014; but not just yet, this strategist says",
+      "url": "https://www.marketwatch.com/story/a-stablecoin-boom-will-force-a-return-to-dollar-dominance-but-not-just-yet-this-strategist-says-5306cbef?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The recent outperformance in small-cap stocks will probably run out of steam, after rallying on increased optimism that the Fed will lower rates over the next year, according to RBC Capital Markets.",
+      "summary_en": "Michael Kelly of PineBridge says the dollar will be choppy until the Fed rate cycle wraps up.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-19T21:01:00.000Z",
-      "headline": "Intel&#x2019;s stock surges on SoftBank investment and potential U.S. government stake. Here&#x2019;s why the rally could crumble.",
-      "url": "https://www.marketwatch.com/story/intels-stock-surges-on-softbank-investment-and-potential-u-s-government-stake-heres-why-the-rally-could-crumble-82cb6944?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-08-20T09:07:00.000Z",
+      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
+      "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I do not expect or need anything from my parents.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T08:59:00.000Z",
+      "headline": "4 arrested for breaking into Brad Pitt&#x2019;s $5.5M home in alleged string of L.A. burglaries",
+      "url": "https://www.marketwatch.com/story/4-arrested-for-breaking-into-brad-pitts-5-5m-home-in-alleged-string-of-l-a-burglaries-3ff2a1a0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Four suspects have been arrested for breaking into actor&#xa0;Brad Pitt&#x2019;s Los Feliz home&#xa0;in what police believe to be a string of burglaries that took place across L.A.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T08:13:00.000Z",
+      "headline": "Tuesday was a key day, as momentum plays flopped while value stocks rallied. But was it a shift or a blip?",
+      "url": "https://www.marketwatch.com/story/tuesday-was-a-key-day-for-the-markets-but-was-it-a-shift-or-a-blip-ba82d6f7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tuesday was a remarkable day in markets &#x2014; not so much for the overall movement in the major indexes, but what happened underneath.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T10:38:00.000Z",
+      "headline": "Strategist Tom Lee says the S&P 500 can reach as high as 7,000 &#x2014; if two conditions are met",
+      "url": "https://www.marketwatch.com/story/strategist-tom-lee-says-the-s-p-500-can-reach-as-high-as-7-000-if-two-conditions-are-met-e1ef97d3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Strategist Tom Lee is raising his sights on the stock market &#x2014; if two key conditions are met.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T10:00:00.000Z",
+      "headline": "EVs put Ford and other automakers at a crossroads: Who will innovate the assembly line of the future?",
+      "url": "https://www.marketwatch.com/story/evs-put-ford-and-other-automakers-at-a-crossroads-who-will-innovate-the-assembly-line-of-the-future-42ddfde3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There&#x2019;s a race to build more vehicles more efficiently, with Ford, Tesla and others trying to revamp the way cars are made",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T09:35:00.000Z",
+      "headline": "&#x2018;I consider myself pretty lucky&#x2019;: I&#x2019;m 65 with $4 million. Do I buy an annuity to protect against Social Security&#x2019;s demise?",
+      "url": "https://www.marketwatch.com/story/i-consider-myself-pretty-lucky-im-65-with-4-million-do-i-buy-an-annuity-to-protect-against-social-securitys-demise-1ea407ca?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Do I pay off my 4% mortgages instead of investing my cash?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T08:43:00.000Z",
+      "headline": "Taylor Swift&#x2019;s impact has shown up in economic data before. Now it&#x2019;s Oasis getting blame for hot U.K. inflation.",
+      "url": "https://www.marketwatch.com/story/taylor-swifts-impact-has-shown-up-in-economic-data-before-now-its-oasis-getting-blame-for-hot-u-k-inflation-ba656eda?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "More investment can&#x2019;t solve Intel&#x2019;s main problem: It doesn&#x2019;t have enough customers.",
+      "summary_en": "U.K. inflation came in hot in July &#x2014; but a famous Manchester band may be to blame.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T02:51:00.000Z",
+      "headline": "Nearly 50% of adults are now ordering kids&#x2019; meals. &#x2018;It&#x2019;s economical and it&#x2019;s filling.&#x2019;",
+      "url": "https://www.marketwatch.com/story/nearly-50-of-adults-are-now-ordering-kids-meals-its-economical-and-its-filling-998387e3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It seems we&#x2019;re all in the mood for miniburgers and chicken fingers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
