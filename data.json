@@ -1,58 +1,80 @@
 {
-  "last_updated": "2025-08-20T13:32:29.066Z",
+  "last_updated": "2025-08-20T23:26:08.048Z",
   "items": [
     {
-      "ts": "2025-08-20T13:20:00.000Z",
-      "headline": "TJ Maxx parent&#x2019;s stock jumps toward a record as consumers flock to its off-price goods",
-      "url": "https://www.marketwatch.com/story/tj-maxx-parents-stock-jumps-toward-a-record-as-consumers-flock-to-its-off-price-goods-05d36eba?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "TJ Maxx parent&#x2019;s stock rallies toward a record after an earnings beat and raised outlook.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-20T12:53:00.000Z",
-      "headline": "Target&#x2019;s stock plunges as CEO announces his exit. The new boss will need to revive sales.",
-      "url": "https://www.marketwatch.com/story/targets-stock-drops-as-long-time-ceo-brian-cornells-planned-departure-overshadows-an-earnings-beat-e42dc63c?mod=mw_rss_topstories",
+      "ts": "2025-08-20T22:14:00.000Z",
+      "headline": "Carvana&#x2019;s stock is falling, and Amazon is to blame",
+      "url": "https://www.marketwatch.com/story/carvanas-stock-is-falling-and-amazon-is-to-blame-8d74a023?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "Target CEO Brian Cornell has been in charge of the retailer for the past 11 years.",
+      "summary_en": "Hertz and Amazon&#x2019;s used-car partnership touts convenience, which strikes at the heart of Carvana&#x2019;s business model.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T13:23:00.000Z",
-      "headline": "Home Depot put up some of its best numbers in years. Did tariff-related price increases move the needle?",
-      "url": "https://www.marketwatch.com/story/home-depot-put-up-some-of-its-best-numbers-in-years-did-tariff-related-price-increases-move-the-needle-a79e1e18?mod=mw_rss_topstories",
+      "ts": "2025-08-20T23:07:00.000Z",
+      "headline": "Buy this stock as food inflation, demand for fresh produce looks set to last, analyst says",
+      "url": "https://www.marketwatch.com/story/buy-this-stock-as-food-inflation-demand-for-fresh-produce-looks-set-to-last-analyst-says-04d08cf3?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "One analyst says a pullback in promotional deals raised prices, possibly due to &#x201c;a desire to protect margins in a tariffed environment.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-20T13:23:00.000Z",
-      "headline": "Meredith Whitney famously called the 2008 financial crisis. Here&#x2019;s the new problem with the U.S. economy, she says",
-      "url": "https://www.marketwatch.com/story/meredith-whitney-famously-called-the-2008-financial-crisis-heres-the-new-problem-with-the-u-s-economy-she-says-7b0aa8f9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Meredith Whitney is worried about a bifurcated economy. Here is how she&#x2019;s playing that.",
+      "summary_en": "Albertsons&#x2019; stock rose as J.P. Morgan listed the company as its top pick among food retailers, citing persistent food inflation and how it no longer has the pending Kroger merger as a distraction.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T13:00:00.000Z",
+      "ts": "2025-08-20T22:15:00.000Z",
+      "headline": "Stock market may be obscuring &#x2018;important realities&#x2019; about the U.S. economy",
+      "url": "https://www.marketwatch.com/story/stock-market-may-be-obscuring-important-realities-about-the-u-s-economy-bc0e9b41?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The stock market has been pricing in a strong economy, even if &#x201c;conditions are lining up to disappoint those elevated expectations,&#x201d; says Bob Elliott, co-founder of Unlimited Funds.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T22:11:00.000Z",
+      "headline": "Lowe&#x2019;s tops Home Depot with an $8.8 billion buyout deal and an earnings beat",
+      "url": "https://www.marketwatch.com/story/lowes-tops-home-depot-with-an-8-8-billion-buyout-deal-and-an-earnings-beat-9185635c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Lowe&#x2019;s stock gains after it beat earnings expectations a day after Home Depot missed. Lowe&#x2019;s also announced it was buying a bigger building-products company than its rival did in June.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T21:55:00.000Z",
+      "headline": "Is pay-per-view dead? Jake Paul and UFC deals put the squeeze on PPV model.",
+      "url": "https://www.marketwatch.com/story/is-pay-per-view-dead-jake-paul-and-ufc-deals-put-the-squeeze-on-ppv-model-d072149c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Paul recently announced another boxing match that will stream on Netflix, and UFC is leaving its PPV model for Paramount+",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T21:51:00.000Z",
+      "headline": "Trump calls on Fed&#x2019;s Cook to resign as administration heightens focus on mortgage fraud",
+      "url": "https://www.marketwatch.com/story/trump-calls-on-feds-cook-to-resign-as-administration-heightens-focus-on-mortgage-fraud-37c33c6b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Cook, one of 12 voting members of the Federal Open Market Committee, says she won&#x2019;t be &#x201c;bullied to step down.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T21:40:00.000Z",
       "headline": "My friend&#x2019;s father gifted her Tesla and Google stock. They could be worth millions. Will they be split 50/50 in her divorce?&#xa0;",
       "url": "https://www.marketwatch.com/story/are-tesla-and-google-stocks-received-as-a-gift-subject-to-division-in-a-divorce-18834c76?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -65,63 +87,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T12:00:00.000Z",
-      "headline": "My credit score and income are better than ever, but my bank won&#x2019;t lower my credit-card APR. Here&#x2019;s how to fight back.",
-      "url": "https://www.marketwatch.com/story/my-credit-score-and-income-are-better-than-ever-but-my-bank-wont-lower-my-credit-card-apr-heres-how-to-fight-back-593d025e?mod=mw_rss_topstories",
+      "ts": "2025-08-20T21:34:00.000Z",
+      "headline": "As Nasdaq stumbles again, investors start to wonder: Have Big Tech stocks finally peaked?",
+      "url": "https://www.marketwatch.com/story/as-nasdaq-stumbles-again-investors-start-to-wonder-have-big-tech-stocks-finally-peaked-50c590dc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The success rate of cardholders who asked for a lower credit-card interest rate is at its highest since 2021. But as lenders wait to see how the economy moves in the coming months, experts say they might be tightening their belts.",
+      "summary_en": "The winning streak for mega-cap tech stocks might finally be over.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T11:45:00.000Z",
-      "headline": "Lowe&#x2019;s tops Home Depot with an $8.8 billion buyout deal and an earnings beat",
-      "url": "https://www.marketwatch.com/story/lowes-tops-home-depot-with-an-8-8-billion-buyout-deal-and-an-earnings-beat-9185635c?mod=mw_rss_topstories",
+      "ts": "2025-08-20T23:21:00.000Z",
+      "headline": "Target hires a veteran as its new CEO, as it tries to turn itself around. Some say the move lacks &#x2018;pop.&#x2019;",
+      "url": "https://www.marketwatch.com/story/targets-stock-drops-as-long-time-ceo-brian-cornells-planned-departure-overshadows-an-earnings-beat-e42dc63c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Lowe&#x2019;s stock gains after it beat earnings expectations a day after Home Depot missed. Lowe&#x2019;s also announced it was buying a bigger building-products company than its rival did in June.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-20T11:35:00.000Z",
-      "headline": "These companies are the economy&#x2019;s &#x2018;first responders&#x2019; to Fed rate cuts &#x2014; yet stock investors overlook them",
-      "url": "https://www.marketwatch.com/story/these-companies-are-the-economys-first-responders-to-fed-rate-cuts-yet-stock-investors-overlook-them-98d11095?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Community banks are &#x201c;Fed-policy translators&#x201d; &#x2014; and their shares are highly sensitive to central-bank decisions.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-20T11:30:00.000Z",
-      "headline": "The bond market is flashing a potentially worrisome sign about Fed rate cuts",
-      "url": "https://www.marketwatch.com/story/the-bond-market-is-flashing-a-potentially-worrisome-sign-about-fed-rate-cuts-35d170c2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Treasury yield curve has been steepening on rate-cut expectations &#x2014; but also for inflation concerns",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-20T12:57:00.000Z",
-      "headline": "Est&#xe9;e Lauder to cut up to 7,000 jobs as China and duty-free sales stay weak",
-      "url": "https://www.marketwatch.com/story/estee-lauder-to-cut-up-to-7-000-jobs-as-china-and-duty-free-sales-stay-weak-82092ee3?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Est&#xe9;e Lauder&#x2019;s stock drops after announcement of jobs cuts and a profit warning.",
+      "summary_en": "Analysts say incoming CEO Michael Fiddelke &#x201c;deserves a chance to prove himself,&#x201d; though it could take time and more money for Target to get its charm back",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T22:17:00.000Z",
+      "headline": "Here&#x2019;s how SoftBank could turn Intel&#x2019;s fortunes around",
+      "url": "https://www.marketwatch.com/story/heres-how-softbank-could-turn-intels-fortunes-around-f1e70e02?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "SoftBank&#x2019;s $2 billion stake could help the chip maker gain customers and increase Intel&#x2019;s earnings per share.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-20T18:00:00.000Z",
+      "headline": "Minutes of the Federal Open Market Committee, July 29–30, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250820a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Minutes of the Federal Open Market Committee, July 29–30, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
