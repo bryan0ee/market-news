@@ -1,125 +1,126 @@
 {
-  "last_updated": "2025-08-20T23:26:08.048Z",
+  "last_updated": "2025-08-21T10:44:53.700Z",
   "items": [
     {
-      "ts": "2025-08-20T22:14:00.000Z",
-      "headline": "Carvana&#x2019;s stock is falling, and Amazon is to blame",
-      "url": "https://www.marketwatch.com/story/carvanas-stock-is-falling-and-amazon-is-to-blame-8d74a023?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-08-21T10:26:00.000Z",
+      "headline": "A U.K. retailer is having its worst day ever as PwC-audited company said it overstated profits.",
+      "url": "https://www.marketwatch.com/story/a-u-k-retailer-is-having-its-worst-day-ever-as-pwc-audited-company-said-it-overstated-profits-0d46ec99?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "WH Smith shares saw their worst day on record on Thursday after the retailer said it overstated profits in its North American arm.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-21T09:07:00.000Z",
+      "headline": "Hedge-fund favorites are beating the market &#x2014; and for the first time in three years, Tesla&#x2019;s one of them.",
+      "url": "https://www.marketwatch.com/story/hedge-fund-favorites-are-beating-the-market-and-for-the-first-time-in-three-years-teslas-one-of-them-1dcda1a0?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Hertz and Amazon&#x2019;s used-car partnership touts convenience, which strikes at the heart of Carvana&#x2019;s business model.",
+      "summary_en": "The favorite stocks of hedge funds have outperformed the broader market this year, and for the first time since 2022, Tesla is one of them, an analysis from Goldman Sachs found.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T23:07:00.000Z",
-      "headline": "Buy this stock as food inflation, demand for fresh produce looks set to last, analyst says",
-      "url": "https://www.marketwatch.com/story/buy-this-stock-as-food-inflation-demand-for-fresh-produce-looks-set-to-last-analyst-says-04d08cf3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Albertsons&#x2019; stock rose as J.P. Morgan listed the company as its top pick among food retailers, citing persistent food inflation and how it no longer has the pending Kroger merger as a distraction.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-20T22:15:00.000Z",
-      "headline": "Stock market may be obscuring &#x2018;important realities&#x2019; about the U.S. economy",
-      "url": "https://www.marketwatch.com/story/stock-market-may-be-obscuring-important-realities-about-the-u-s-economy-bc0e9b41?mod=mw_rss_topstories",
+      "ts": "2025-08-21T09:15:00.000Z",
+      "headline": "As a nurse, I&#x2019;ve witnessed people abuse their power of attorney. Here are the signs.",
+      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The stock market has been pricing in a strong economy, even if &#x201c;conditions are lining up to disappoint those elevated expectations,&#x201d; says Bob Elliott, co-founder of Unlimited Funds.",
+      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T22:11:00.000Z",
-      "headline": "Lowe&#x2019;s tops Home Depot with an $8.8 billion buyout deal and an earnings beat",
-      "url": "https://www.marketwatch.com/story/lowes-tops-home-depot-with-an-8-8-billion-buyout-deal-and-an-earnings-beat-9185635c?mod=mw_rss_topstories",
+      "ts": "2025-08-21T09:03:00.000Z",
+      "headline": "The latest stock sell-off is just a rotation. Something bigger needs a trigger, says Citi.",
+      "url": "https://www.marketwatch.com/story/the-latest-stock-sell-off-is-just-a-rotation-something-bigger-needs-a-trigger-says-citi-a336c924?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Two days is not a trend says analysts Scott Chronert",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-21T08:58:00.000Z",
+      "headline": "Lucy Guo, world&#x2019;s youngest self-made woman billionaire, buys $30 million L.A. mansion",
+      "url": "https://www.marketwatch.com/story/lucy-guo-worlds-youngest-self-made-woman-billionaire-buys-30-million-l-a-mansion-1d69be48?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Lowe&#x2019;s stock gains after it beat earnings expectations a day after Home Depot missed. Lowe&#x2019;s also announced it was buying a bigger building-products company than its rival did in June.",
+      "summary_en": "Tech mogul&#xa0;Lucy Guo, the world&#x2019;s youngest self-made woman billionaire, has invested a sizable portion of her enormous wealth into a new L.A. home.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T21:55:00.000Z",
-      "headline": "Is pay-per-view dead? Jake Paul and UFC deals put the squeeze on PPV model.",
-      "url": "https://www.marketwatch.com/story/is-pay-per-view-dead-jake-paul-and-ufc-deals-put-the-squeeze-on-ppv-model-d072149c?mod=mw_rss_topstories",
+      "ts": "2025-08-21T08:48:00.000Z",
+      "headline": "My stepmother&#x2019;s lawyer called us &#x2018;greedy&#x2019; for fighting for our father&#x2019;s estate. When will it end?",
+      "url": "https://www.marketwatch.com/story/my-stepmothers-lawyer-called-us-greedy-for-fighting-for-our-fathers-estate-when-will-it-end-cfd92065?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Paul recently announced another boxing match that will stream on Netflix, and UFC is leaving its PPV model for Paramount+",
+      "summary_en": "&#x201c;During the marriage, all his real estate ended up in trusts he didn&#x2019;t fully understand.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T21:51:00.000Z",
-      "headline": "Trump calls on Fed&#x2019;s Cook to resign as administration heightens focus on mortgage fraud",
-      "url": "https://www.marketwatch.com/story/trump-calls-on-feds-cook-to-resign-as-administration-heightens-focus-on-mortgage-fraud-37c33c6b?mod=mw_rss_topstories",
+      "ts": "2025-08-21T08:43:00.000Z",
+      "headline": "I&#x2019;m 65 and started saving at 23. Do I buy an annuity to protect against diminished Social Security?",
+      "url": "https://www.marketwatch.com/story/i-consider-myself-pretty-lucky-im-65-with-4-million-do-i-buy-an-annuity-to-protect-against-social-securitys-demise-1ea407ca?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Cook, one of 12 voting members of the Federal Open Market Committee, says she won&#x2019;t be &#x201c;bullied to step down.&#x201d;",
+      "summary_en": "&#x201c;I will be comfortable spending $250,000 annually on more than $4 million in investments.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T21:40:00.000Z",
-      "headline": "My friend&#x2019;s father gifted her Tesla and Google stock. They could be worth millions. Will they be split 50/50 in her divorce?&#xa0;",
-      "url": "https://www.marketwatch.com/story/are-tesla-and-google-stocks-received-as-a-gift-subject-to-division-in-a-divorce-18834c76?mod=mw_rss_topstories",
+      "ts": "2025-08-21T08:38:00.000Z",
+      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
+      "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "GOOGL",
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;My friend is working on an exit plan.&#x201d;",
+      "summary_en": "&#x201c;I do not expect or need anything from my parents.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T21:34:00.000Z",
-      "headline": "As Nasdaq stumbles again, investors start to wonder: Have Big Tech stocks finally peaked?",
-      "url": "https://www.marketwatch.com/story/as-nasdaq-stumbles-again-investors-start-to-wonder-have-big-tech-stocks-finally-peaked-50c590dc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The winning streak for mega-cap tech stocks might finally be over.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-20T23:21:00.000Z",
-      "headline": "Target hires a veteran as its new CEO, as it tries to turn itself around. Some say the move lacks &#x2018;pop.&#x2019;",
-      "url": "https://www.marketwatch.com/story/targets-stock-drops-as-long-time-ceo-brian-cornells-planned-departure-overshadows-an-earnings-beat-e42dc63c?mod=mw_rss_topstories",
+      "ts": "2025-08-21T10:27:00.000Z",
+      "headline": "Investors who bet on the economy are taking a very cautious approach, JPMorgan finds",
+      "url": "https://www.marketwatch.com/story/three-key-technicals-show-how-cautious-macro-fund-managers-are-thats-usually-a-good-sign-0d60dcca?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Analysts say incoming CEO Michael Fiddelke &#x201c;deserves a chance to prove himself,&#x201d; though it could take time and more money for Target to get its charm back",
+      "summary_en": "Macro fund managers have lower equity beta, lower futures exposure and are shorter on index ETFs",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-20T22:17:00.000Z",
-      "headline": "Here&#x2019;s how SoftBank could turn Intel&#x2019;s fortunes around",
-      "url": "https://www.marketwatch.com/story/heres-how-softbank-could-turn-intels-fortunes-around-f1e70e02?mod=mw_rss_topstories",
+      "ts": "2025-08-21T08:03:00.000Z",
+      "headline": "&#x2018;Let them eat compute&#x2019; &#x2014; AI is squeezing the housing market, this provocative take claims",
+      "url": "https://www.marketwatch.com/story/let-them-eat-compute-ai-is-squeezing-the-housing-market-this-provocative-take-claims-29546d0c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "SoftBank&#x2019;s $2 billion stake could help the chip maker gain customers and increase Intel&#x2019;s earnings per share.",
+      "summary_en": "Artificial intelligence &#x2014; which a new report claims doesn&#x2019;t even work for businesses 95% of the time &#x2014; is the cause of the housing market rut.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
