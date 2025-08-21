@@ -1,20 +1,80 @@
 {
-  "last_updated": "2025-08-21T13:32:22.889Z",
+  "last_updated": "2025-08-21T23:26:47.539Z",
   "items": [
     {
-      "ts": "2025-08-21T13:20:00.000Z",
-      "headline": "Why Social Security beats anything insurance companies offer",
-      "url": "https://www.marketwatch.com/story/this-inflation-adjusted-annuity-beats-anything-insurance-companies-offer-11bde5cf?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-08-21T23:14:00.000Z",
+      "headline": "&#x2018;I learned a hard lesson&#x2019;: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
+      "url": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have about $80,000 in my 401(k) and $10,000 in savings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-21T22:55:00.000Z",
+      "headline": "Powell&#x2019;s Jackson Hole speech could be make-or-break moment for the summer stock-market rally",
+      "url": "https://www.marketwatch.com/story/powells-jackson-hole-speech-could-be-make-or-break-moment-for-the-summer-stock-market-rally-70bdd5d6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors have all eyes fixed on the Federal Reserve&#x2019;s annual economic symposium in Jackson Hole, Wyo., as the Fed charts the future direction of the monetary policy in what could be a defining moment for the market&#x2019;s summer story.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-21T22:41:00.000Z",
+      "headline": "My stepmother&#x2019;s lawyer called us &#x2018;greedy&#x2019; for fighting for our father&#x2019;s estate. When will it end?",
+      "url": "https://www.marketwatch.com/story/my-stepmothers-lawyer-called-us-greedy-for-fighting-for-our-fathers-estate-when-will-it-end-cfd92065?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;During the marriage, all his real estate ended up in trusts he didn&#x2019;t fully understand.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-21T22:39:00.000Z",
+      "headline": "Target might be having an &#x2018;identity crisis,&#x2019; but some analysts are still standing by the stock",
+      "url": "https://www.marketwatch.com/story/target-might-be-having-an-identity-crisis-but-some-analysts-are-still-standing-by-the-stock-89bbd403?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A redoubled focus on style &#x201c;may not be enough in a retail landscape where convenience, selection and speed have rapidly evolved and redefined the competitive landscape,&#x201d; according to one analyst.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-21T21:36:00.000Z",
+      "headline": "Cracker Barrel stock falls 7% after new logo causes a stir",
+      "url": "https://www.marketwatch.com/story/cracker-barrel-stock-falls-7-after-new-logo-causes-a-stir-3b6d0fe8?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The same inflation-adjusted annuity benefits would be prohibitively expensive to obtain in the private market.",
+      "summary_en": "&#x2018;When people love a brand, they don&#x2019;t always like change,&#x2019; a branding expert says, after the change sparks more than 558,000 posts on social media including Donald Trump Jr.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-21T13:20:00.000Z",
+      "ts": "2025-08-21T22:33:00.000Z",
+      "headline": "As a nurse, I&#x2019;ve seen people abuse their power of attorney &#x2014; and ruthlessly trap their relatives",
+      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-21T22:33:00.000Z",
       "headline": "Walmart says tariffs are raising costs, but it&#x2019;s trying to avoid price increases &#x2014; for now",
       "url": "https://www.marketwatch.com/story/walmarts-stock-falls-after-a-rare-profit-miss-even-as-sales-show-strength-and-margins-improve-4ad82b7b?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,101 +86,40 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-21T12:00:00.000Z",
-      "headline": "Lumber prices are tumbling. Here&#x2019;s what that means for the housing market now.",
-      "url": "https://www.marketwatch.com/story/lumber-prices-are-tumbling-heres-what-that-means-for-the-housing-market-now-039eff76?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Many home builders, contractors and retailers wagered that higher U.S. tariffs on imports would boost the cost of lumber, while lower interest rates would lift demand for the building material. Those bets have failed to pay off.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-21T12:47:00.000Z",
-      "headline": "There&#x2019;s a slow-motion crisis in bonds &#x2014; and this bearish strategist thinks it will hit stocks",
-      "url": "https://www.marketwatch.com/story/theres-a-slow-motion-crisis-in-bonds-and-this-bearish-strategist-thinks-it-will-hit-stocks-80ca5840?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Societe Generale&#x2019;s Albert Edwards says the move higher in long government bond yields has been &#x201c;relentless,&#x201d; and investors have ignored it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-21T11:26:00.000Z",
-      "headline": "The U.S.-E.U. tariff deal is now on paper, and it includes LNG and AI-chip purchases",
-      "url": "https://www.marketwatch.com/story/the-u-s-e-u-tariff-deal-is-now-on-paper-and-it-includes-lng-and-ai-chip-purchases-ca23602f?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The European Union and the United States have published a joint statement, spelling out in writing the terms of the trade deal reached between U.S. President Donald Trump and European Commission President Ursula von der Leyen last month.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-21T12:15:00.000Z",
-      "headline": "Tesla rejoins ranks of hedge-fund favorites for first time in three years",
-      "url": "https://www.marketwatch.com/story/hedge-fund-favorites-are-beating-the-market-and-for-the-first-time-in-three-years-teslas-one-of-them-1dcda1a0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The favorite stocks of hedge funds have outperformed the broader market this year, and for the first time since 2022, Tesla is one of them, an analysis from Goldman Sachs found.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-21T12:00:00.000Z",
-      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
-      "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
+      "ts": "2025-08-21T22:29:00.000Z",
+      "headline": "New ESPN and Fox streaming services raise the question of how much is too much for viewers",
+      "url": "https://www.marketwatch.com/story/new-espn-and-fox-streaming-services-raise-the-question-of-how-much-is-too-much-for-viewers-7cf2426a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;I do not expect or need anything from my parents.&#x201d;",
+      "summary_en": "Despite the bringing together of many different kinds of sports programming in the new ESPN+ and Fox One sports services, football superfans may still need to subscribe to multiple platforms to watch all their teams&#x2019; games.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-21T13:00:00.000Z",
-      "headline": "&#x2018;The money went into his account&#x2019;: Is my father trying to swindle me out of my grandparents&#x2019; $800K home?",
-      "url": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
+      "ts": "2025-08-21T22:32:00.000Z",
+      "headline": "Bitcoin&#x2019;s bull run could defy history and last until 2027, Bernstein analysts say. Why that may be too optimistic.",
+      "url": "https://www.marketwatch.com/story/bitcoins-bull-run-could-defy-history-and-last-until-2027-bernstein-analyst-says-why-that-may-be-too-optimistic-b14df756?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I came across a letter from my father&#x2019;s bank showing a wire transfer of $195,000 from the buyer.&#x201d;",
+      "summary_en": "Bitcoin&#x2019;s latest rally may stretch further than past cycles &#x2014; potentially running into 2026, and even peaking in 2027, according to a team of Bernstein analysts.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-21T12:42:00.000Z",
-      "headline": "Jobless claims jump to 2-month high &#x2014; but still no sign of rising U.S. layoffs",
-      "url": "https://www.marketwatch.com/story/jobless-claims-jump-to-2-month-high-but-still-no-sign-of-rising-u-s-layoffs-da24e01c?mod=mw_rss_topstories",
+      "ts": "2025-08-21T21:20:00.000Z",
+      "headline": "Here&#x2019;s the $863 billion secret Powell, Trump and Bessent aren&#x2019;t telling us about gold and bitcoin",
+      "url": "https://www.marketwatch.com/story/heres-the-secret-powell-trump-and-bessent-arent-telling-us-about-gold-and-bitcoin-762e33f6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Businesses aren&#x2019;t hiring or firing many workers",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-21T11:50:00.000Z",
-      "headline": "How AI is squeezing the housing market",
-      "url": "https://www.marketwatch.com/story/let-them-eat-compute-ai-is-squeezing-the-housing-market-this-provocative-take-claims-29546d0c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Artificial intelligence &#x2014; which a new report claims doesn&#x2019;t even work for businesses 95% of the time &#x2014; is the cause of the housing market rut.",
+      "summary_en": "The inevitable gold-price reckoning that could fund Trump&#x2019;s bitcoin ambitions &#x2014; and sting your bank account.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
