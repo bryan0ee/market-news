@@ -1,58 +1,20 @@
 {
-  "last_updated": "2025-08-22T13:30:51.758Z",
+  "last_updated": "2025-08-22T23:26:13.932Z",
   "items": [
     {
-      "ts": "2025-08-22T13:26:00.000Z",
-      "headline": "Tech frenemies: Meta strikes a $10+ billion AI cloud deal with rival Google",
-      "url": "https://www.marketwatch.com/story/tech-frenemies-meta-strikes-a-10-billion-ai-cloud-deal-with-rival-google-98bdd6f7?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "GOOGL",
-        "META",
-        "ED"
-      ],
-      "summary_en": "Meta has signed a six-year deal to use Google&#x2019;s cloud-computing services as it builds out its AI infrastructure.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T13:00:00.000Z",
-      "headline": "Have critics gotten the Trump tariffs all wrong? Here&#x2019;s a case for why they will help the economy.",
-      "url": "https://www.marketwatch.com/story/have-critics-gotten-the-trump-tariffs-all-wrong-heres-a-case-for-why-they-will-help-the-economy-caf1c1f8?mod=mw_rss_topstories",
+      "ts": "2025-08-22T21:41:00.000Z",
+      "headline": "Furniture companies&#x2019; stocks fall as Trump promises tariffs for the sector",
+      "url": "https://www.marketwatch.com/story/furniture-companies-stocks-fall-as-trump-promises-tariffs-for-the-sector-01aeff10?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Twentieth-century free trade is out, at least under the Trump administration. &#x201c;Managed trade&#x201d; is in &#x2014; and it might not be all that bad for the U.S.",
+      "summary_en": "Import taxes are coming in 50 days at a rate that&#x2019;s yet to be determined, the president says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T13:21:00.000Z",
-      "headline": "I&#x2019;m a widow living off Social Security. I have $200K in a brokerage account, so why am I ignored?",
-      "url": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I had to hunt high and low to have them sell my Tesla stock because it was tanking.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T13:00:00.000Z",
-      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.",
-      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T12:50:00.000Z",
+      "ts": "2025-08-22T22:39:00.000Z",
       "headline": "&#x2018;I learned a hard lesson&#x2019;: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
       "url": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -64,63 +26,111 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T12:40:00.000Z",
-      "headline": "Cracker Barrel&#x2019;s logo change sparks fury, online and on Wall Street",
-      "url": "https://www.marketwatch.com/story/cracker-barrel-stock-falls-7-after-new-logo-causes-a-stir-3b6d0fe8?mod=mw_rss_topstories",
+      "ts": "2025-08-22T21:32:00.000Z",
+      "headline": "Intel agrees to 10% U.S. government stake. It may not be the last chip company to do so.",
+      "url": "https://www.marketwatch.com/story/intel-agrees-to-u-s-government-stake-trump-says-why-it-may-not-be-the-last-chip-company-to-do-so-ed824ca0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x2018;When people love a brand, they don&#x2019;t always like change,&#x2019; a branding expert says, after the change sparks more than 558,000 posts on social media including Donald Trump Jr.",
+      "summary_en": "Intel has agreed to the U.S. government taking a stake in it, President Donald Trump and the company announced Friday, capping an extraordinary chapter between the White House and the computer-chip maker.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T12:05:00.000Z",
-      "headline": "BJ&#x2019;s Wholesale&#x2019;s stock climbs as retailer raises profit outlook amid growing membership",
-      "url": "https://www.marketwatch.com/story/bjs-wholesales-stock-drops-as-sales-growth-disappoints-6a638681?mod=mw_rss_topstories",
+      "ts": "2025-08-22T21:28:00.000Z",
+      "headline": "Retirees: The news from Jackson Hole is ominous for you",
+      "url": "https://www.marketwatch.com/story/retirees-the-news-from-jackson-hole-is-ominous-for-you-9ca906f0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "BJ&#x2019;s Wholesale&#x2019;s stock rises as strong membership growth helped fuel a profit beat, even as sales missed.",
+      "summary_en": "Why the independence of the Federal Reserve is essential to retirees &#x2014; and everyone else.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T13:25:00.000Z",
-      "headline": "In a MarketWatch exclusive, Suze Orman shares her stock picks and biggest investing &#x2018;mistake&#x2019;",
-      "url": "https://www.marketwatch.com/story/suze-orman-is-known-for-money-advice-now-shes-sharing-her-stock-picks-and-biggest-investing-mistake-62fcebbc?mod=mw_rss_topstories",
+      "ts": "2025-08-22T21:00:00.000Z",
+      "headline": "I&#x2019;m a widow living off Social Security. I have $200K invested. Why does my broker ignore me?",
+      "url": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I had to hunt high and low to have them sell my Tesla stock because it was tanking.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T20:29:00.000Z",
+      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.",
+      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T22:39:00.000Z",
+      "headline": "Are you middle class? No, you&#x2019;re not. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The personal-finance guru talks tech stocks, crypto and her targets for the S&P 500 and bitcoin.",
+      "summary_en": "The middle class is dead. Long live the middle class.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T12:32:00.000Z",
-      "headline": "Some experts claim recessions are ancient history. What will they say after the next one?",
-      "url": "https://www.marketwatch.com/story/some-experts-claim-recessions-are-ancient-history-what-will-they-say-after-the-next-one-e1c571bb?mod=mw_rss_topstories",
+      "ts": "2025-08-22T20:37:00.000Z",
+      "headline": "&#x2018;The money went into his account&#x2019;: Is my father trying to swindle me out of my grandparents&#x2019; $800K home?",
+      "url": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Hubris in the financial markets is most apparent when growth is robust and investors ignore the past.",
+      "summary_en": "&#x201c;I came across a letter from my father&#x2019;s bank showing a wire transfer of $195,000 from the buyer.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T12:28:00.000Z",
-      "headline": "Labubu&#x2019;s viral success propels Pop Mart stock into the Hang Seng. Analysts say the run has more to go.",
-      "url": "https://www.marketwatch.com/story/labubus-viral-success-propels-pop-mart-into-hong-kong-index-b252ef03?mod=mw_rss_topstories",
+      "ts": "2025-08-22T20:29:00.000Z",
+      "headline": "Here&#x2019;s the $863 billion secret Powell, Trump and Bessent aren&#x2019;t telling us about gold and bitcoin",
+      "url": "https://www.marketwatch.com/story/heres-the-secret-powell-trump-and-bessent-arent-telling-us-about-gold-and-bitcoin-762e33f6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Pop Mart International, the maker of the wildly popular Labubu plush dolls, is set to join the main Hong Kong stock market index after a ferocious rally.",
+      "summary_en": "The inevitable gold-price reckoning that could fund Trump&#x2019;s bitcoin ambitions &#x2014; and sting your bank account.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T20:20:00.000Z",
+      "headline": "I&#x2019;m single, 75, and living with kidney disease and a pacemaker. I&#x2019;ve no long-term care insurance. Will I be OK?",
+      "url": "https://www.marketwatch.com/story/im-single-75-and-living-with-kidney-disease-and-a-pacemaker-ive-no-long-term-care-insurance-will-i-be-ok-fcf4b87d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;My income is $120,000 per year which includes $60,000 in Social Security and a pension.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T14:00:00.000Z",
+      "headline": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -145,18 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-15T16:00:00.000Z",
-      "headline": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks' novel activities through the normal supervisory process",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250815a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks&#39; novel activities through the normal supervisory process",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
