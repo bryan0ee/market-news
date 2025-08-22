@@ -1,32 +1,34 @@
 {
-  "last_updated": "2025-08-22T10:44:15.896Z",
+  "last_updated": "2025-08-22T13:30:51.758Z",
   "items": [
     {
-      "ts": "2025-08-22T10:40:00.000Z",
-      "headline": "Take heed of the latest market wobble. &#x2018;You get warning shots before meaningful pullbacks,&#x2019; says this strategist.",
-      "url": "https://www.marketwatch.com/story/take-heed-of-the-latest-market-wobble-you-get-warning-shots-before-meaningful-pullbacks-says-this-strategist-464a75c1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-08-22T13:26:00.000Z",
+      "headline": "Tech frenemies: Meta strikes a $10+ billion AI cloud deal with rival Google",
+      "url": "https://www.marketwatch.com/story/tech-frenemies-meta-strikes-a-10-billion-ai-cloud-deal-with-rival-google-98bdd6f7?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
+        "GOOGL",
+        "META",
         "ED"
       ],
-      "summary_en": "A number of Wall Street signals are flashing sell, according to Longview Economics",
+      "summary_en": "Meta has signed a six-year deal to use Google&#x2019;s cloud-computing services as it builds out its AI infrastructure.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T09:42:00.000Z",
-      "headline": "Nvidia faces new report on China-geared H20 chip. What Jensen Huang is saying.",
-      "url": "https://www.marketwatch.com/story/nvidia-faces-new-report-on-china-geared-h20-chip-what-jensen-huang-is-saying-21c593b3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-08-22T13:00:00.000Z",
+      "headline": "Have critics gotten the Trump tariffs all wrong? Here&#x2019;s a case for why they will help the economy.",
+      "url": "https://www.marketwatch.com/story/have-critics-gotten-the-trump-tariffs-all-wrong-heres-a-case-for-why-they-will-help-the-economy-caf1c1f8?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Nvidia has reportedly ordered some component makers of its H20 chips to halt production. Shares are slipping.",
+      "summary_en": "Twentieth-century free trade is out, at least under the Trump administration. &#x201c;Managed trade&#x201d; is in &#x2014; and it might not be all that bad for the U.S.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T09:30:00.000Z",
+      "ts": "2025-08-22T13:21:00.000Z",
       "headline": "I&#x2019;m a widow living off Social Security. I have $200K in a brokerage account, so why am I ignored?",
       "url": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,39 +40,87 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T09:50:00.000Z",
-      "headline": "Are you middle class? No, you&#x2019;re not. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The middle class is dead. Long live the middle class.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T09:01:00.000Z",
-      "headline": "Tennis star Naomi Osaka sells SoCal home back to Nick and Vanessa Lachey in savvy  $7.9 million deal",
-      "url": "https://www.marketwatch.com/story/tennis-star-naomi-osaka-sells-socal-home-back-to-nick-and-vanessa-lachey-in-savvy-7-9-million-deal-abe6f0d0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Osaka sold the Tarzana, Calif., estate back to reality TV host couple Nick and Vanessa Lachey for $7.9 million&#x2014;just 3 years after buying it from them for much less.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T00:15:00.000Z",
-      "headline": "Off-price retailer Ross flashes another sign that consumers are seeking discounts this fall",
-      "url": "https://www.marketwatch.com/story/ross-stores-flash-another-sign-that-consumers-are-seeking-discounts-this-fall-3697b70f?mod=mw_rss_topstories",
+      "ts": "2025-08-22T13:00:00.000Z",
+      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.",
+      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Ross Stores joins TJ Maxx parent in seeing consumers flock to their discounted merchandise.",
+      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T12:50:00.000Z",
+      "headline": "&#x2018;I learned a hard lesson&#x2019;: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
+      "url": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have about $80,000 in my 401(k) and $10,000 in savings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T12:40:00.000Z",
+      "headline": "Cracker Barrel&#x2019;s logo change sparks fury, online and on Wall Street",
+      "url": "https://www.marketwatch.com/story/cracker-barrel-stock-falls-7-after-new-logo-causes-a-stir-3b6d0fe8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x2018;When people love a brand, they don&#x2019;t always like change,&#x2019; a branding expert says, after the change sparks more than 558,000 posts on social media including Donald Trump Jr.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T12:05:00.000Z",
+      "headline": "BJ&#x2019;s Wholesale&#x2019;s stock climbs as retailer raises profit outlook amid growing membership",
+      "url": "https://www.marketwatch.com/story/bjs-wholesales-stock-drops-as-sales-growth-disappoints-6a638681?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "BJ&#x2019;s Wholesale&#x2019;s stock rises as strong membership growth helped fuel a profit beat, even as sales missed.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T13:25:00.000Z",
+      "headline": "In a MarketWatch exclusive, Suze Orman shares her stock picks and biggest investing &#x2018;mistake&#x2019;",
+      "url": "https://www.marketwatch.com/story/suze-orman-is-known-for-money-advice-now-shes-sharing-her-stock-picks-and-biggest-investing-mistake-62fcebbc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The personal-finance guru talks tech stocks, crypto and her targets for the S&P 500 and bitcoin.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T12:32:00.000Z",
+      "headline": "Some experts claim recessions are ancient history. What will they say after the next one?",
+      "url": "https://www.marketwatch.com/story/some-experts-claim-recessions-are-ancient-history-what-will-they-say-after-the-next-one-e1c571bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Hubris in the financial markets is most apparent when growth is robust and investors ignore the past.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T12:28:00.000Z",
+      "headline": "Labubu&#x2019;s viral success propels Pop Mart stock into the Hang Seng. Analysts say the run has more to go.",
+      "url": "https://www.marketwatch.com/story/labubus-viral-success-propels-pop-mart-into-hong-kong-index-b252ef03?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Pop Mart International, the maker of the wildly popular Labubu plush dolls, is set to join the main Hong Kong stock market index after a ferocious rally.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -107,54 +157,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will sunset its novel activities supervision program and return to monitoring banks&#39; novel activities through the normal supervisory process",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T00:48:00.000Z",
-      "headline": "Here&#x2019;s the $863 billion secret Powell, Trump and Bessent aren&#x2019;t telling us about gold and bitcoin",
-      "url": "https://www.marketwatch.com/story/heres-the-secret-powell-trump-and-bessent-arent-telling-us-about-gold-and-bitcoin-762e33f6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The inevitable gold-price reckoning that could fund Trump&#x2019;s bitcoin ambitions &#x2014; and sting your bank account.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T00:00:00.000Z",
-      "headline": "I&#x2019;m single, 75, and living with kidney disease and a pacemaker. I&#x2019;ve no long-term care insurance. Will I be OK?",
-      "url": "https://www.marketwatch.com/story/im-single-75-and-living-with-kidney-disease-and-a-pacemaker-ive-no-long-term-care-insurance-will-i-be-ok-fcf4b87d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My income is $120,000 per year which includes $60,000 in Social Security and a pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-21T23:45:00.000Z",
-      "headline": "&#x2018;I&#x2019;ve been kept in poverty&#x2019;: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
-      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;After the age of 50, I really only had sporadic contract work and I had to sell my house.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-21T23:44:00.000Z",
-      "headline": "The good news is we got an $800K windfall. The bad news is it came after a layoff. What do we do with it?",
-      "url": "https://www.marketwatch.com/story/the-good-news-is-we-got-an-800k-windfall-the-bad-news-is-it-came-after-a-layoff-what-do-we-do-with-it-234fdcf8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "This couple, still in their 50s, are thinking about a vacation home and investing.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
