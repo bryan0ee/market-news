@@ -1,6 +1,67 @@
 {
-  "last_updated": "2025-08-22T23:26:13.932Z",
+  "last_updated": "2025-08-23T10:41:09.305Z",
   "items": [
+    {
+      "ts": "2025-08-23T10:36:00.000Z",
+      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
+      "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I do not expect or need anything from my parents.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T09:29:00.000Z",
+      "headline": "I&#x2019;m a widow with $200,000 in a brokerage account. So why am I treated so poorly?",
+      "url": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I had to hunt high and low to have them sell my Tesla stock because it was tanking.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T10:30:00.000Z",
+      "headline": "Are you middle class? No, you&#x2019;re not. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The middle class is dead. Long live the middle class.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T10:24:00.000Z",
+      "headline": "&#x2018;The money went into his account&#x2019;: Is my father trying to swindle me out of my grandparents&#x2019; $800K home?",
+      "url": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I came across a letter from my father&#x2019;s bank showing a wire transfer of $195,000 from the buyer.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T23:25:00.000Z",
+      "headline": "Bond market rallies after Powell &#x2018;walked a fine line&#x2019; with Jackson Hole speech",
+      "url": "https://www.marketwatch.com/story/bond-market-rallies-after-powell-walked-a-fine-line-with-jackson-hole-speech-5ca81fab?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Fed chair delivered a &#x201c;virtuoso performance&#x201d; with his Jackson Hole speech, says State Street&#x2019;s Michael Arone",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-22T21:41:00.000Z",
       "headline": "Furniture companies&#x2019; stocks fall as Trump promises tariffs for the sector",
@@ -11,6 +72,18 @@
         "ED"
       ],
       "summary_en": "Import taxes are coming in 50 days at a rate that&#x2019;s yet to be determined, the president says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T14:00:00.000Z",
+      "headline": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -50,18 +123,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T21:00:00.000Z",
-      "headline": "I&#x2019;m a widow living off Social Security. I have $200K invested. Why does my broker ignore me?",
-      "url": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I had to hunt high and low to have them sell my Tesla stock because it was tanking.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-08-22T20:29:00.000Z",
       "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.",
       "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
@@ -71,66 +132,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T22:39:00.000Z",
-      "headline": "Are you middle class? No, you&#x2019;re not. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The middle class is dead. Long live the middle class.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T20:37:00.000Z",
-      "headline": "&#x2018;The money went into his account&#x2019;: Is my father trying to swindle me out of my grandparents&#x2019; $800K home?",
-      "url": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I came across a letter from my father&#x2019;s bank showing a wire transfer of $195,000 from the buyer.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T20:29:00.000Z",
-      "headline": "Here&#x2019;s the $863 billion secret Powell, Trump and Bessent aren&#x2019;t telling us about gold and bitcoin",
-      "url": "https://www.marketwatch.com/story/heres-the-secret-powell-trump-and-bessent-arent-telling-us-about-gold-and-bitcoin-762e33f6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The inevitable gold-price reckoning that could fund Trump&#x2019;s bitcoin ambitions &#x2014; and sting your bank account.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T20:20:00.000Z",
-      "headline": "I&#x2019;m single, 75, and living with kidney disease and a pacemaker. I&#x2019;ve no long-term care insurance. Will I be OK?",
-      "url": "https://www.marketwatch.com/story/im-single-75-and-living-with-kidney-disease-and-a-pacemaker-ive-no-long-term-care-insurance-will-i-be-ok-fcf4b87d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My income is $120,000 per year which includes $60,000 in Social Security and a pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T14:00:00.000Z",
-      "headline": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
