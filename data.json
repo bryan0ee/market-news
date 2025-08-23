@@ -1,6 +1,67 @@
 {
-  "last_updated": "2025-08-23T10:41:09.305Z",
+  "last_updated": "2025-08-23T13:26:34.373Z",
   "items": [
+    {
+      "ts": "2025-08-23T13:00:00.000Z",
+      "headline": "Who can actually buy a house today? Meet the &#x2018;elite&#x2019; buyers achieving the American dream.",
+      "url": "https://www.marketwatch.com/story/who-can-actually-buy-a-house-today-meet-the-elite-buyers-achieving-the-american-dream-a9151846?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The share of first-time home buyers is at a historic low &#x2014; yet they haven&#x2019;t entirely disappeared.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T12:00:00.000Z",
+      "headline": "I&#x2019;m 32 and only have $8,000 saved in my 401(k) so far. How do I get more aggressive?",
+      "url": "https://www.marketwatch.com/story/im-32-and-only-have-8-000-saved-in-my-401-k-so-far-how-do-i-get-more-aggressive-bd4d4510?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The answer doesn&#x2019;t have anything to do with which investments you choose.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T12:00:00.000Z",
+      "headline": "Please stop asking me to be your best man &#x2014; I&#x2019;ve spent $4,400 on one wedding and can&#x2019;t afford it anymore",
+      "url": "https://www.marketwatch.com/story/please-stop-asking-me-to-be-your-best-man-ive-spent-4-400-on-one-wedding-and-cant-afford-it-anymore-2001b192?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Guilt over how good a friend I am is colliding with the financial reality that this wedding will cost me thousands of dollars.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T11:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;ve struggled in every way&#x2019;: My brother passed away and I&#x2019;m $28,000 in debt. How do I get out of this mess?",
+      "url": "https://www.marketwatch.com/story/ive-struggled-in-every-way-my-brother-passed-away-and-im-28-000-in-debt-how-do-i-get-out-of-this-mess-f6c3f3f3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Has my grief affected my situation? Looking back, I think it did.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T10:42:00.000Z",
+      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.",
+      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-23T10:36:00.000Z",
       "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
@@ -15,15 +76,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-23T09:29:00.000Z",
-      "headline": "I&#x2019;m a widow with $200,000 in a brokerage account. So why am I treated so poorly?",
-      "url": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
+      "ts": "2025-08-23T13:00:00.000Z",
+      "headline": "&#x2018;It&#x2019;s like a psychological ceiling&#x2019;: Why fast-food chains are trying to stay below $10 in their pricing",
+      "url": "https://www.marketwatch.com/story/its-like-a-psychological-ceiling-why-fast-food-chains-are-trying-to-stay-below-10-in-their-pricing-a12362cc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I had to hunt high and low to have them sell my Tesla stock because it was tanking.&#x201d;",
+      "summary_en": "Consumers don&#x2019;t consider it a bargain if you cross into double-digit territory, experts say.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T12:08:00.000Z",
+      "headline": "&#x2018;I&#x2019;ve been kept in poverty&#x2019;: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
+      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;After the age of 50, I really only had sporadic contract work and I had to sell my house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -51,30 +124,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T23:25:00.000Z",
-      "headline": "Bond market rallies after Powell &#x2018;walked a fine line&#x2019; with Jackson Hole speech",
-      "url": "https://www.marketwatch.com/story/bond-market-rallies-after-powell-walked-a-fine-line-with-jackson-hole-speech-5ca81fab?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Fed chair delivered a &#x201c;virtuoso performance&#x201d; with his Jackson Hole speech, says State Street&#x2019;s Michael Arone",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T21:41:00.000Z",
-      "headline": "Furniture companies&#x2019; stocks fall as Trump promises tariffs for the sector",
-      "url": "https://www.marketwatch.com/story/furniture-companies-stocks-fall-as-trump-promises-tariffs-for-the-sector-01aeff10?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Import taxes are coming in 50 days at a rate that&#x2019;s yet to be determined, the president says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-08-22T14:00:00.000Z",
       "headline": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
@@ -84,54 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T22:39:00.000Z",
-      "headline": "&#x2018;I learned a hard lesson&#x2019;: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
-      "url": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have about $80,000 in my 401(k) and $10,000 in savings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T21:32:00.000Z",
-      "headline": "Intel agrees to 10% U.S. government stake. It may not be the last chip company to do so.",
-      "url": "https://www.marketwatch.com/story/intel-agrees-to-u-s-government-stake-trump-says-why-it-may-not-be-the-last-chip-company-to-do-so-ed824ca0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Intel has agreed to the U.S. government taking a stake in it, President Donald Trump and the company announced Friday, capping an extraordinary chapter between the White House and the computer-chip maker.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T21:28:00.000Z",
-      "headline": "Retirees: The news from Jackson Hole is ominous for you",
-      "url": "https://www.marketwatch.com/story/retirees-the-news-from-jackson-hole-is-ominous-for-you-9ca906f0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Why the independence of the Federal Reserve is essential to retirees &#x2014; and everyone else.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T20:29:00.000Z",
-      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.",
-      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
