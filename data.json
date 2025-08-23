@@ -1,69 +1,8 @@
 {
-  "last_updated": "2025-08-23T13:26:34.373Z",
+  "last_updated": "2025-08-23T23:25:56.101Z",
   "items": [
     {
-      "ts": "2025-08-23T13:00:00.000Z",
-      "headline": "Who can actually buy a house today? Meet the &#x2018;elite&#x2019; buyers achieving the American dream.",
-      "url": "https://www.marketwatch.com/story/who-can-actually-buy-a-house-today-meet-the-elite-buyers-achieving-the-american-dream-a9151846?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The share of first-time home buyers is at a historic low &#x2014; yet they haven&#x2019;t entirely disappeared.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T12:00:00.000Z",
-      "headline": "I&#x2019;m 32 and only have $8,000 saved in my 401(k) so far. How do I get more aggressive?",
-      "url": "https://www.marketwatch.com/story/im-32-and-only-have-8-000-saved-in-my-401-k-so-far-how-do-i-get-more-aggressive-bd4d4510?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The answer doesn&#x2019;t have anything to do with which investments you choose.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T12:00:00.000Z",
-      "headline": "Please stop asking me to be your best man &#x2014; I&#x2019;ve spent $4,400 on one wedding and can&#x2019;t afford it anymore",
-      "url": "https://www.marketwatch.com/story/please-stop-asking-me-to-be-your-best-man-ive-spent-4-400-on-one-wedding-and-cant-afford-it-anymore-2001b192?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Guilt over how good a friend I am is colliding with the financial reality that this wedding will cost me thousands of dollars.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T11:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;ve struggled in every way&#x2019;: My brother passed away and I&#x2019;m $28,000 in debt. How do I get out of this mess?",
-      "url": "https://www.marketwatch.com/story/ive-struggled-in-every-way-my-brother-passed-away-and-im-28-000-in-debt-how-do-i-get-out-of-this-mess-f6c3f3f3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Has my grief affected my situation? Looking back, I think it did.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T10:42:00.000Z",
-      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.",
-      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T10:36:00.000Z",
+      "ts": "2025-08-23T21:40:00.000Z",
       "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
       "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -76,51 +15,112 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-23T13:00:00.000Z",
-      "headline": "&#x2018;It&#x2019;s like a psychological ceiling&#x2019;: Why fast-food chains are trying to stay below $10 in their pricing",
-      "url": "https://www.marketwatch.com/story/its-like-a-psychological-ceiling-why-fast-food-chains-are-trying-to-stay-below-10-in-their-pricing-a12362cc?mod=mw_rss_topstories",
+      "ts": "2025-08-23T20:38:00.000Z",
+      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.",
+      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Consumers don&#x2019;t consider it a bargain if you cross into double-digit territory, experts say.",
+      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-23T12:08:00.000Z",
-      "headline": "&#x2018;I&#x2019;ve been kept in poverty&#x2019;: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
-      "url": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
+      "ts": "2025-08-23T20:36:00.000Z",
+      "headline": "&#x2018;I learned a hard lesson&#x2019;: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
+      "url": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;After the age of 50, I really only had sporadic contract work and I had to sell my house.&#x201d;",
+      "summary_en": "&#x201c;I have about $80,000 in my 401(k) and $10,000 in savings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-23T10:30:00.000Z",
-      "headline": "Are you middle class? No, you&#x2019;re not. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
+      "ts": "2025-08-23T20:12:00.000Z",
+      "headline": "&#x2018;I&#x2019;ve struggled in every way&#x2019;: My brother passed away and I&#x2019;m $28,000 in debt. How do I get out of this mess?",
+      "url": "https://www.marketwatch.com/story/ive-struggled-in-every-way-my-brother-passed-away-and-im-28-000-in-debt-how-do-i-get-out-of-this-mess-f6c3f3f3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "The middle class is dead. Long live the middle class.",
+      "summary_en": "&#x201c;Has my grief affected my situation? Looking back, I think it did.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-23T10:24:00.000Z",
-      "headline": "&#x2018;The money went into his account&#x2019;: Is my father trying to swindle me out of my grandparents&#x2019; $800K home?",
-      "url": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
+      "ts": "2025-08-23T18:12:00.000Z",
+      "headline": "Why the Russell 2000 has a real chance to beat the S&P 500 &#x2014; finally",
+      "url": "https://www.marketwatch.com/story/why-the-russell-2000-has-a-real-chance-to-beat-the-s-p-500-finally-bd0c825b?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Small-cap stocks look primed for their big moment. But we&#x2019;ve been here before.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T18:51:00.000Z",
+      "headline": "Do you have a lottery addiction? With the Powerball jackpot now at $700 million, this man&#x2019;s story may be telling.",
+      "url": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "ED"
+      ],
+      "summary_en": "Adam Osmond gambled away a fortune on lottery games, but eventually sought help.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T18:28:00.000Z",
+      "headline": "How social media convinces investors they&#x2019;re the next Warren Buffett &#x2014; or smarter",
+      "url": "https://www.marketwatch.com/story/how-social-media-convinces-investors-theyre-the-next-warren-buffett-or-smarter-a1f258c6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Internet investing sites and tips give people a false &#x2014; and costly &#x2014; sense of their abilities, studies show. Legendary investor Howard Marks has a solution.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T18:09:00.000Z",
+      "headline": "Suze Orman reveals her favorite stock right now and the investing mistake that shaped her strategy",
+      "url": "https://www.marketwatch.com/story/suze-orman-is-known-for-money-advice-now-shes-sharing-her-stock-picks-and-biggest-investing-mistake-62fcebbc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The personal-finance guru talks tech stocks, crypto and her targets for the S&P 500 and bitcoin.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T17:27:00.000Z",
+      "headline": "Why you can lose a lot of money from Tech&#x2019;s AI splurge",
+      "url": "https://www.marketwatch.com/story/why-you-can-lose-a-lot-of-money-from-techs-ai-splurge-485abfa4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Also: The best ways to invest now for long-term growth as autonomous vehicles are adopted, and how Walmart has risen as Target has struggled.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-23T17:32:00.000Z",
+      "headline": "Here&#x2019;s how much you&#x2019;d pay to get Social Security&#x2019;s inflation protection on your own",
+      "url": "https://www.marketwatch.com/story/this-inflation-adjusted-annuity-beats-anything-insurance-companies-offer-11bde5cf?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I came across a letter from my father&#x2019;s bank showing a wire transfer of $195,000 from the buyer.&#x201d;",
+      "summary_en": "Social Security beats anything insurance companies offer.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
