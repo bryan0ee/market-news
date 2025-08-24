@@ -1,20 +1,81 @@
 {
-  "last_updated": "2025-08-24T13:27:26.283Z",
+  "last_updated": "2025-08-24T23:26:38.010Z",
   "items": [
     {
-      "ts": "2025-08-24T12:37:00.000Z",
-      "headline": "I&#x2019;m a widow with $200,000 in a brokerage account. So why am I treated so poorly?",
-      "url": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
+      "ts": "2025-08-24T23:21:00.000Z",
+      "headline": "Keurig Dr Pepper reportedly near $18 billion deal to buy coffee company JDE Peet&#x2019;s",
+      "url": "https://www.marketwatch.com/story/keurig-dr-pepper-reportedly-near-18-billion-deal-to-buy-coffee-company-jde-peets-a36ac577?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I had to hunt high and low to have them sell my Tesla stock because it was tanking.&#x201d;",
+      "summary_en": "Keurig Dr Pepper Inc. is closing in on a roughly $18 billion deal to acquire the Dutch coffee company JDE Peet&#x2019;s NV, the Wall Street Journal reported late Sunday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-24T11:30:00.000Z",
+      "ts": "2025-08-24T22:18:00.000Z",
+      "headline": "U.S. stock futures flat following Friday&#x2019;s Fed-fueled rally",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-following-fridays-fed-fueled-rally-138badbf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock-market futures were little changed Sunday, after stocks rallied Friday on fresh hopes of a September rate cut by the Fed.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-24T21:29:00.000Z",
+      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
+      "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I do not expect or need anything from my parents.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-24T21:28:00.000Z",
+      "headline": "&#x2018;I learned a hard lesson&#x2019;: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
+      "url": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have about $80,000 in my 401(k) and $10,000 in savings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-24T20:44:00.000Z",
+      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.",
+      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-24T20:28:00.000Z",
+      "headline": "After 9 months on hold, the Fed could cut rates in September. Why the long pause may extend stocks&#x2019; rally.",
+      "url": "https://www.marketwatch.com/story/after-9-months-on-hold-the-fed-could-cut-rates-in-september-why-the-long-pause-may-extend-stocks-rally-e90f3012?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The long pause between rate cuts could be particularly bullish for equities, potentially extending and broadening the stock market&#x2019;s rally, analysts said.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-24T20:12:00.000Z",
       "headline": "I&#x2019;m getting a $100K personal-injury settlement. Will my estranged wife get any of it?",
       "url": "https://www.marketwatch.com/story/im-getting-a-100k-personal-injury-settlement-will-my-estranged-wife-get-any-of-it-6bd723ba?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,31 +87,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-24T09:57:00.000Z",
-      "headline": "I&#x2019;m $28,000 in debt. My credit score is suffering. How do I get out of this mess?",
-      "url": "https://www.marketwatch.com/story/ive-struggled-in-every-way-my-brother-passed-away-and-im-28-000-in-debt-how-do-i-get-out-of-this-mess-f6c3f3f3?mod=mw_rss_topstories",
+      "ts": "2025-08-24T19:43:00.000Z",
+      "headline": "I&#x2019;m 65 and retiring next year. Should I buy an annuity to protect against diminished Social Security?",
+      "url": "https://www.marketwatch.com/story/i-consider-myself-pretty-lucky-im-65-with-4-million-do-i-buy-an-annuity-to-protect-against-social-securitys-demise-1ea407ca?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I had no credit-card debt until about four years ago. My husband went back to school.&#x201d;",
+      "summary_en": "&#x201c;I will be comfortable spending $250,000 annually on more than $4 million in investments.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-24T11:37:00.000Z",
-      "headline": "&#x2018;The money went into his account&#x2019;: Is my father trying to swindle me out of my grandparents&#x2019; $800K home?",
-      "url": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
+      "ts": "2025-08-24T20:31:00.000Z",
+      "headline": "Low expectations for retailers and ever-rising expectations for Nvidia in this week&#x2019;s round of earnings",
+      "url": "https://www.marketwatch.com/story/low-expectations-for-retailers-and-ever-rising-expectations-for-nvidia-in-this-weeks-round-of-earnings-e24f4764?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I came across a letter from my father&#x2019;s bank showing a wire transfer of $195,000 from the buyer.&#x201d;",
+      "summary_en": "Earnings Watch: Nvidia reports amid questions about its ability to meet demand; also reporting are retailers like Gap and Ulta Beauty.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-24T11:37:00.000Z",
+      "ts": "2025-08-24T20:17:00.000Z",
       "headline": "Are you middle class? No, you&#x2019;re not. Here&#x2019;s why.",
       "url": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -71,68 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T21:40:00.000Z",
-      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
-      "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I do not expect or need anything from my parents.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T20:38:00.000Z",
-      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.",
-      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T20:36:00.000Z",
-      "headline": "&#x2018;I learned a hard lesson&#x2019;: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
-      "url": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have about $80,000 in my 401(k) and $10,000 in savings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T18:51:00.000Z",
-      "headline": "Do you have a lottery addiction? With the Powerball jackpot now at $700 million, this man&#x2019;s story may be telling.",
-      "url": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Adam Osmond gambled away a fortune on lottery games, but eventually sought help.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-23T18:28:00.000Z",
-      "headline": "How social media convinces investors they&#x2019;re the next Warren Buffett &#x2014; or smarter",
-      "url": "https://www.marketwatch.com/story/how-social-media-convinces-investors-theyre-the-next-warren-buffett-or-smarter-a1f258c6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Internet investing sites and tips give people a false &#x2014; and costly &#x2014; sense of their abilities, studies show. Legendary investor Howard Marks has a solution.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
