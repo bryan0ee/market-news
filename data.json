@@ -1,28 +1,76 @@
 {
-  "last_updated": "2025-08-24T23:26:38.010Z",
+  "last_updated": "2025-08-25T10:45:10.753Z",
   "items": [
     {
-      "ts": "2025-08-24T23:21:00.000Z",
-      "headline": "Keurig Dr Pepper reportedly near $18 billion deal to buy coffee company JDE Peet&#x2019;s",
+      "ts": "2025-08-25T10:35:00.000Z",
+      "headline": "&#x2018;My brother found God in recovery&#x2019;: How do you save for retirement when &#x2018;God will provide&#x2019; is your core value?",
+      "url": "https://www.marketwatch.com/story/my-brother-found-god-in-recovery-how-do-you-save-for-retirement-when-god-will-provide-is-your-core-value-fae8088a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Are there CFPs who are more aligned with a pragmatic, yet Christian, approach?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T10:23:00.000Z",
+      "headline": "In $18 billion deal to buy JDE Peet&#x2019;s, Keurig Dr Pepper unwinds a 2018 marriage between soda and coffee",
       "url": "https://www.marketwatch.com/story/keurig-dr-pepper-reportedly-near-18-billion-deal-to-buy-coffee-company-jde-peets-a36ac577?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Keurig Dr Pepper Inc. is closing in on a roughly $18 billion deal to acquire the Dutch coffee company JDE Peet&#x2019;s NV, the Wall Street Journal reported late Sunday.",
+      "summary_en": "Keurig Dr Pepper Inc. has announced an $18 billion deal to acquire the Dutch coffee company JDE Peet&#x2019;s.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-24T22:18:00.000Z",
-      "headline": "U.S. stock futures flat following Friday&#x2019;s Fed-fueled rally",
+      "ts": "2025-08-25T09:45:00.000Z",
+      "headline": "I am a 65-year old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
+      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T08:58:00.000Z",
+      "headline": "Kanye West&#x2019;s former Malibu beach house is now caught in a bitter battle between developers",
+      "url": "https://www.marketwatch.com/story/kanye-wests-former-malibu-beach-house-is-now-caught-in-a-bitter-battle-between-developers-00a204bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A failed deal between two developers for the purchase of a Malibu beach house that was owned by Kanye West has turned into a nasty spat.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T02:34:00.000Z",
+      "headline": "U.S. stock futures slip following Friday&#x2019;s Fed-fueled rally",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-following-fridays-fed-fueled-rally-138badbf?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. stock-market futures were little changed Sunday, after stocks rallied Friday on fresh hopes of a September rate cut by the Fed.",
+      "summary_en": "U.S. stock-market futures declined Sunday, after stocks rallied Friday on fresh hopes of a September rate cut by the Fed.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-22T14:00:00.000Z",
+      "headline": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -75,66 +123,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-24T20:12:00.000Z",
-      "headline": "I&#x2019;m getting a $100K personal-injury settlement. Will my estranged wife get any of it?",
-      "url": "https://www.marketwatch.com/story/im-getting-a-100k-personal-injury-settlement-will-my-estranged-wife-get-any-of-it-6bd723ba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;After we were hit by two major hurricanes, my wife secretly kept the disaster-recovery assistance money.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-24T19:43:00.000Z",
-      "headline": "I&#x2019;m 65 and retiring next year. Should I buy an annuity to protect against diminished Social Security?",
-      "url": "https://www.marketwatch.com/story/i-consider-myself-pretty-lucky-im-65-with-4-million-do-i-buy-an-annuity-to-protect-against-social-securitys-demise-1ea407ca?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I will be comfortable spending $250,000 annually on more than $4 million in investments.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-24T20:31:00.000Z",
-      "headline": "Low expectations for retailers and ever-rising expectations for Nvidia in this week&#x2019;s round of earnings",
-      "url": "https://www.marketwatch.com/story/low-expectations-for-retailers-and-ever-rising-expectations-for-nvidia-in-this-weeks-round-of-earnings-e24f4764?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Earnings Watch: Nvidia reports amid questions about its ability to meet demand; also reporting are retailers like Gap and Ulta Beauty.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-24T20:17:00.000Z",
-      "headline": "Are you middle class? No, you&#x2019;re not. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The middle class is dead. Long live the middle class.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-22T14:00:00.000Z",
-      "headline": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-08-20T18:00:00.000Z",
       "headline": "Minutes of the Federal Open Market Committee, July 29–30, 2025",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250820a.htm",
@@ -156,6 +144,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-24T20:31:00.000Z",
+      "headline": "Low expectations for retailers and ever-rising expectations for Nvidia in this week&#x2019;s round of earnings",
+      "url": "https://www.marketwatch.com/story/low-expectations-for-retailers-and-ever-rising-expectations-for-nvidia-in-this-weeks-round-of-earnings-e24f4764?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Earnings Watch: Nvidia reports amid questions about its ability to meet demand; also reporting are retailers like Gap and Ulta Beauty.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
