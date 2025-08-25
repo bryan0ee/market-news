@@ -1,6 +1,90 @@
 {
-  "last_updated": "2025-08-25T10:45:10.753Z",
+  "last_updated": "2025-08-25T13:32:29.564Z",
   "items": [
+    {
+      "ts": "2025-08-25T13:17:00.000Z",
+      "headline": "Bitcoin has surrendered the rally. Why it didn&#x2019;t bounce after a whale unloaded the cryptocurrency.",
+      "url": "https://www.marketwatch.com/story/bitcoin-has-surrendered-the-rally-why-it-didnt-bounce-after-a-whale-unloaded-the-cryptocurrency-c68636d2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A whale sold a chunk of bitcoin over the weekend, and on Monday, the cryptocurrency was dragging the rest of the sector south.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T13:16:00.000Z",
+      "headline": "AI stocks are in a bubble. Why are so many investors refusing to believe it?",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-in-a-bubble-why-are-so-many-investors-refusing-to-believe-it-cf6e1624?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "AI companies are raising prices and alienating users &#x2014; and the stocks are overvalued.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T13:00:00.000Z",
+      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.",
+      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T12:15:00.000Z",
+      "headline": "I&#x2019;m $28,000 in debt. My credit score is suffering. How do I get out of this mess?",
+      "url": "https://www.marketwatch.com/story/ive-struggled-in-every-way-my-brother-passed-away-and-im-28-000-in-debt-how-do-i-get-out-of-this-mess-f6c3f3f3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I had no credit-card debt until about four years ago. My husband went back to school.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T12:02:00.000Z",
+      "headline": "I&#x2019;m getting a $100K personal-injury settlement. Will my estranged wife get any of it?",
+      "url": "https://www.marketwatch.com/story/im-getting-a-100k-personal-injury-settlement-will-my-estranged-wife-get-any-of-it-6bd723ba?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;After we were hit by two major hurricanes, my wife secretly kept the disaster-recovery assistance money.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T10:52:00.000Z",
+      "headline": "Small-cap stocks surged on Friday &#x2014; and now, they&#x2019;ve finally busted out of a range&#xa0;",
+      "url": "https://www.marketwatch.com/story/small-cap-stocks-surged-on-friday-and-now-theyve-finally-busted-out-of-a-range-e5d612f9?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hard-hit small-cap stocks may finally have their day in the Sun.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T11:40:00.000Z",
+      "headline": "Wind-farm operator sees its second catastrophic day this month after Trump administration halts 80% completed project",
+      "url": "https://www.marketwatch.com/story/wind-farm-operator-sees-its-second-catastrophic-day-this-month-after-trump-administration-halts-80-completed-project-5aef104a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Wind-turbine operator Orsted suffered its second catastrophic day in the stock market this month, skidding to a new record low after the Trump administration halted work on a nearly complete project.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-25T10:35:00.000Z",
       "headline": "&#x2018;My brother found God in recovery&#x2019;: How do you save for retirement when &#x2018;God will provide&#x2019; is your core value?",
@@ -14,51 +98,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-25T10:23:00.000Z",
-      "headline": "In $18 billion deal to buy JDE Peet&#x2019;s, Keurig Dr Pepper unwinds a 2018 marriage between soda and coffee",
-      "url": "https://www.marketwatch.com/story/keurig-dr-pepper-reportedly-near-18-billion-deal-to-buy-coffee-company-jde-peets-a36ac577?mod=mw_rss_topstories",
+      "ts": "2025-08-25T13:21:00.000Z",
+      "headline": "Apple is blowing its chance for AI leadership &#x2014; but what else would you expect?",
+      "url": "https://www.marketwatch.com/story/apple-is-blowing-its-chance-for-ai-leadership-but-what-else-would-you-expect-88bc1ed2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Keurig Dr Pepper Inc. has announced an $18 billion deal to acquire the Dutch coffee company JDE Peet&#x2019;s.",
+      "summary_en": "Apple no longer innovates &#x2014;instead, it waits. And with AI, anyone playing it safe will get left behind.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-25T09:45:00.000Z",
-      "headline": "I am a 65-year old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
-      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
+      "ts": "2025-08-25T13:04:00.000Z",
+      "headline": "Are you middle class? No, you&#x2019;re not. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-25T08:58:00.000Z",
-      "headline": "Kanye West&#x2019;s former Malibu beach house is now caught in a bitter battle between developers",
-      "url": "https://www.marketwatch.com/story/kanye-wests-former-malibu-beach-house-is-now-caught-in-a-bitter-battle-between-developers-00a204bb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A failed deal between two developers for the purchase of a Malibu beach house that was owned by Kanye West has turned into a nasty spat.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-25T02:34:00.000Z",
-      "headline": "U.S. stock futures slip following Friday&#x2019;s Fed-fueled rally",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-following-fridays-fed-fueled-rally-138badbf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stock-market futures declined Sunday, after stocks rallied Friday on fresh hopes of a September rate cut by the Fed.",
+      "summary_en": "The middle class is dead. Long live the middle class.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -71,55 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-24T21:29:00.000Z",
-      "headline": "&#x2018;I can only rely on me&#x2019;: How do I protect myself from my parents&#x2019; nursing-home bills?",
-      "url": "https://www.marketwatch.com/story/i-can-only-rely-on-myself-how-do-i-protect-myself-from-my-parents-nursing-home-bills-db37b021?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I do not expect or need anything from my parents.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-24T21:28:00.000Z",
-      "headline": "&#x2018;I learned a hard lesson&#x2019;: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
-      "url": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have about $80,000 in my 401(k) and $10,000 in savings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-24T20:44:00.000Z",
-      "headline": "As a nurse, I&#x2019;ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.",
-      "url": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Even if someone has millions of dollars in retirement, that won&#x2019;t keep them from being trapped in the hospital.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-24T20:28:00.000Z",
-      "headline": "After 9 months on hold, the Fed could cut rates in September. Why the long pause may extend stocks&#x2019; rally.",
-      "url": "https://www.marketwatch.com/story/after-9-months-on-hold-the-fed-could-cut-rates-in-september-why-the-long-pause-may-extend-stocks-rally-e90f3012?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The long pause between rate cuts could be particularly bullish for equities, potentially extending and broadening the stock market&#x2019;s rally, analysts said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-24T20:31:00.000Z",
-      "headline": "Low expectations for retailers and ever-rising expectations for Nvidia in this week&#x2019;s round of earnings",
-      "url": "https://www.marketwatch.com/story/low-expectations-for-retailers-and-ever-rising-expectations-for-nvidia-in-this-weeks-round-of-earnings-e24f4764?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Earnings Watch: Nvidia reports amid questions about its ability to meet demand; also reporting are retailers like Gap and Ulta Beauty.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
