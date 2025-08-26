@@ -1,8 +1,33 @@
 {
-  "last_updated": "2025-08-26T13:34:29.647Z",
+  "last_updated": "2025-08-26T23:25:26.818Z",
   "items": [
     {
-      "ts": "2025-08-26T13:20:00.000Z",
+      "ts": "2025-08-26T23:00:00.000Z",
+      "headline": "&#x2018;Everyone was grieving&#x2019;: Did my wife&#x2019;s brothers cheat her out of her inheritance? There&#x2019;s a condo and $550K at stake.",
+      "url": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;When my wife&#x2019;s mom passed away, the eldest brother took on the role as executor.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T22:33:00.000Z",
+      "headline": "AMD&#x2019;s stock is rising as the competitive battle with Nvidia enters a new dimension",
+      "url": "https://www.marketwatch.com/story/amds-stock-is-rising-as-the-competitive-battle-with-nvidia-hits-a-new-dimension-16fe37ef?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "AMD was once viewed as just a &#x201c;price check&#x201d; to Nvidia, according to Truist analysts. Now they hear that industry participants are taking AMD&#x2019;s technology more seriously.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T22:22:00.000Z",
       "headline": "&#x2018;They knocked her down and started biting&#x2019;: My mother, 84, was viciously attacked by her neighbor&#x2019;s two dogs. Do we sue?",
       "url": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,32 +39,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T12:46:00.000Z",
-      "headline": "Betting markets don&#x2019;t believe that Trump will succeed in ousting Fed&#x2019;s Lisa Cook",
-      "url": "https://www.marketwatch.com/story/betting-markets-dont-believe-that-trump-will-succeed-in-ousting-feds-lisa-cook-93a34191?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Betting markets don&#x2019;t see a high chance that President Donald Trump will manage to oust Federal Reserve governor Lisa Cook, following Trump&#x2019;s announcement late Monday that he had fired her while accusing her of mortgage fraud.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T12:00:00.000Z",
-      "headline": "The kids are out of the house, and I saved for college. How are they still spending so much of my money?",
-      "url": "https://www.marketwatch.com/story/the-kids-are-out-of-the-house-and-i-saved-for-college-how-are-they-still-spending-so-much-of-my-money-39a09bfa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Parents may have dreams of date nights and extra spending cash once their kids are in college &#x2014; but financial experts say beyond tuition and fees, there are many costs families should prepare for.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T11:50:00.000Z",
+      "ts": "2025-08-26T22:07:00.000Z",
       "headline": "I&#x2019;m the co-CEO of an $800 billion investment firm. Here&#x2019;s why I need a financial adviser.",
       "url": "https://www.marketwatch.com/story/im-the-co-ceo-of-an-800-billion-investment-firm-heres-why-i-need-a-financial-adviser-2c42f015?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -52,7 +52,55 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T13:25:00.000Z",
+      "ts": "2025-08-26T22:00:00.000Z",
+      "headline": "&#x2018;My brother found God in recovery&#x2019;: How do you save for retirement when &#x2018;God will provide&#x2019; is your core value?",
+      "url": "https://www.marketwatch.com/story/my-brother-found-god-in-recovery-how-do-you-save-for-retirement-when-god-will-provide-is-your-core-value-fae8088a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Are there CFPs who are more aligned with a pragmatic, yet Christian, approach?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T21:23:00.000Z",
+      "headline": "This may slow the decline of mortgage rates &#x2014; even if the Fed soon cuts interest rates",
+      "url": "https://www.marketwatch.com/story/this-may-slow-the-decline-of-mortgage-rates-even-if-the-fed-soon-cuts-interest-rates-511926e3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Interest rates on long-term mortgages might not fall as fast as some might anticipate should the Federal Reserve cut its benchmark rate at its next policy meeting in September, according to Wells Fargo Investment Institute.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T21:14:00.000Z",
+      "headline": "Tommy Hilfiger parent says it still expects 2025 to be a comeback year, even as tariffs upend clothing industry",
+      "url": "https://www.marketwatch.com/story/tommy-hilfiger-parent-says-it-still-expects-2025-to-be-a-comeback-year-even-as-tariffs-upend-clothing-industry-c50d7793?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of PVH Corp. were up after hours on Tuesday after the parent of the Tommy Hilfiger and Calvin Klein clothing lines offered a more upbeat sales outlook, saying that it still expects this year &#x201c;to mark our return to growth.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T21:06:00.000Z",
+      "headline": "Why Trump&#x2019;s challenge to Fed&#x2019;s independence may make gold the &#x2018;safe haven of choice&#x2019; for investors",
+      "url": "https://www.marketwatch.com/story/why-trumps-challenge-to-feds-independence-may-make-gold-the-safe-haven-of-choice-for-investors-67be0898?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump made a move to fire a member of the Federal Reserve&#x2019;s Board of Governors. Investors can see that as a threat to the political independence of the central bank, potentially undermining confidence in the U.S. dollar and Treasury bonds &#x2014; and boosting the appeal of gold and other assets perceived as safe havens.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T22:38:00.000Z",
       "headline": "Lilly obesity-pill trial results find a warmer reception on Wall Street this time around",
       "url": "https://www.marketwatch.com/story/lilly-obesity-pill-trial-results-find-a-warmer-reception-on-wall-street-this-time-around-ebffcf94?mod=mw_rss_topstories",
       "impact": "Bullish",
@@ -64,63 +112,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T13:06:00.000Z",
-      "headline": "Durable-goods orders retreat due to Boeing, but details look stronger",
-      "url": "https://www.marketwatch.com/story/durable-goods-orders-retreat-due-to-boeing-but-details-look-stronger-4502ad43?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "AI-driven spending is offsetting weakness from tariff uncertainty.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T13:05:00.000Z",
-      "headline": "A tax-refund surge is coming. How JPMorgan expects it to shift economy and markets.",
-      "url": "https://www.marketwatch.com/story/a-tax-refund-surge-is-coming-how-jpmorgan-expects-it-to-shift-economy-and-markets-8276c128?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "An even bigger crop of tax refunds is coming in early 2026, says JPMorgan Asset Management&#x2019;s chief global strategist.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T12:12:00.000Z",
-      "headline": "EchoStar&#x2019;s stock is surging. Why AT&T just struck a $23 billion spectrum deal with the company.",
-      "url": "https://www.marketwatch.com/story/echostars-stock-is-surging-why-at-t-just-struck-a-23-billion-spectrum-deal-with-the-company-6ac87d75?mod=mw_rss_topstories",
+      "ts": "2025-08-26T21:08:00.000Z",
+      "headline": "Lisa Cook, take the money and run",
+      "url": "https://www.marketwatch.com/story/lisa-cook-take-the-money-and-run-a8edfea4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "AT&T will look to enhance its wireless and home-internet offerings with spectrum from EchoStar.",
+      "summary_en": "Make money and have the last laugh. What&#x2019;s not to like?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T12:02:00.000Z",
-      "headline": "Why small-cap stocks just might be the market&#x2019;s new &#x2018;Magnificent Seven&#x2019;",
-      "url": "https://www.marketwatch.com/story/why-small-caps-just-might-be-the-stock-markets-new-magnificent-seven-a9b57b32?mod=mw_rss_topstories",
+      "ts": "2025-08-26T18:00:00.000Z",
+      "headline": "Minutes of the Board's discount rate meetings on July 21 and July 30, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250826a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The small-cap rally is real. Here are five stocks to consider owning right now.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T11:35:00.000Z",
-      "headline": "China is locking up rare-earth elements &#x2014; and the U.S. is running out of time to stop it",
-      "url": "https://www.marketwatch.com/story/china-is-locking-up-rare-earth-elements-and-the-u-s-is-running-out-of-time-to-stop-it-baa61130?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "America&#x2019;s dependence on China risks the manufacturing supply chains for many military and high-technology products.",
+      "summary_en": "Minutes of the Board&#39;s discount rate meetings on July 21 and July 30, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -145,18 +157,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, July 29–30, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-19T15:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250819a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
