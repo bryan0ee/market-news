@@ -1,57 +1,8 @@
 {
-  "last_updated": "2025-08-25T23:27:10.143Z",
+  "last_updated": "2025-08-26T10:45:37.304Z",
   "items": [
     {
-      "ts": "2025-08-25T22:17:00.000Z",
-      "headline": "American Eagle needs more than Sydney Sweeney to turn itself around, analysts say",
-      "url": "https://www.marketwatch.com/story/american-eagle-needs-more-than-sydney-sweeney-to-turn-itself-around-analysts-say-f5fb74a2?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Analysts said Monday that American Eagle and Aerie had little leeway to work around U.S. tariffs on imports and that it was a &#x201c;tough time for a turnaround.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-25T22:30:00.000Z",
-      "headline": "I am a 65-year old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
-      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-25T22:08:00.000Z",
-      "headline": "AI stocks are in a bubble. Why are so many investors refusing to believe it?",
-      "url": "https://www.marketwatch.com/story/ai-stocks-are-in-a-bubble-why-are-so-many-investors-refusing-to-believe-it-cf6e1624?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "AI companies are raising prices and alienating users &#x2014; and the stocks are overvalued.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-25T21:45:00.000Z",
-      "headline": "I&#x2019;m a widow with $200,000 in a brokerage account. So why am I treated so poorly?",
-      "url": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I had to hunt high and low to have them sell my Tesla stock because it was tanking.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-25T21:45:00.000Z",
+      "ts": "2025-08-26T10:00:00.000Z",
       "headline": "&#x2018;My brother found God in recovery&#x2019;: How do you save for retirement when &#x2018;God will provide&#x2019; is your core value?",
       "url": "https://www.marketwatch.com/story/my-brother-found-god-in-recovery-how-do-you-save-for-retirement-when-god-will-provide-is-your-core-value-fae8088a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -63,63 +14,75 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-25T20:24:00.000Z",
-      "headline": "Powell just gambled big in Jackson Hole. Will it pay off?",
-      "url": "https://www.marketwatch.com/story/powell-just-gambled-big-in-jackson-hole-will-it-pay-off-ab1b64a4?mod=mw_rss_topstories",
+      "ts": "2025-08-26T10:00:00.000Z",
+      "headline": "&#x2018;They knocked her down and started biting&#x2019;: My mother, 84, was viciously attacked by her neighbor&#x2019;s two dogs. Do we sue?",
+      "url": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Chair Jerome Powell on Friday opened the door to an interest-rate cut, surprising many economists.",
+      "summary_en": "&#x201c;The police, ambulance and animal control were all called immediately. The dogs were removed and put down.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-25T21:55:00.000Z",
-      "headline": "Robinhood misses out on yet another S&P 500 rebalance. This fintech company will soon join instead.",
-      "url": "https://www.marketwatch.com/story/robinhood-misses-out-on-yet-another-s-p-500-rebalance-this-fintech-company-will-soon-join-instead-fb20fc90?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2025-08-26T09:35:00.000Z",
+      "headline": "&#x2018;Everyone was grieving&#x2019;: Did my wife&#x2019;s brothers swindle her out of her inheritance? There&#x2019;s a condo and $550K at stake.",
+      "url": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Bad news for Robinhood is good news for this relatively obscure fintech company.",
+      "summary_en": "&#x201c;When my wife&#x2019;s mom passed away, the eldest brother took on the role as executor.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-25T20:51:00.000Z",
-      "headline": "TikTok calls her &#x2018;32 pizzas mom.&#x2019; What her videos can teach us about how we spend money.",
-      "url": "https://www.marketwatch.com/story/tiktok-calls-her-32-pizzas-mom-what-her-videos-can-teach-us-about-how-we-spend-money-102cce4d?mod=mw_rss_topstories",
+      "ts": "2025-08-26T08:55:00.000Z",
+      "headline": "Two of Wall Street&#x2019;s last holdouts finally concede the Fed will cut next month",
+      "url": "https://www.marketwatch.com/story/two-of-wall-streets-last-holdouts-finally-concede-the-fed-will-cut-next-month-89c46fcc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Two of the last few remaining Wall Street holdouts on the Fed easing next month have finally conceded defeat and now expect the central bank to reduce interest rates at its next meeting.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T08:12:00.000Z",
+      "headline": "Billions wiped off value of French banks with Bayrou-led government on verge of collapse",
+      "url": "https://www.marketwatch.com/story/billions-wiped-off-value-of-french-banks-with-bayrou-led-government-on-verge-of-collapse-b6ef0d84?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "French banking giants BNP Paribas and Societe Generale saw billions of euros wiped off their market value on Tuesday as the government of the eurozone&#x2019;s number-two economy was set for collapse.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T09:00:00.000Z",
+      "headline": "Timing couldn&#x2019;t be better for Jaguars rookie Travis Hunter and his $3.3 million Jacksonville home buy",
+      "url": "https://www.marketwatch.com/story/timing-couldnt-be-better-for-jaguars-rookie-travis-hunter-and-his-3-3-million-jacksonville-home-buy-459356af?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A $500 grocery-haul video has gone viral for sparking a conversation about when stocking up on groceries might go too far",
+      "summary_en": "Jacksonville Jaguars star rookie&#xa0;Travis Hunter&#xa0;is making his mark on the field as the NFL&#x2019;s latest two-way player&#x2014;and, now, he&#x2019;s settling into a new home.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-25T20:45:00.000Z",
-      "headline": "&#x2018;The money went into his account&#x2019;: Is my father trying to swindle me out of my grandparents&#x2019; $800K home?",
-      "url": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
+      "ts": "2025-08-26T03:27:00.000Z",
+      "headline": "Trump says he&#x2019;s fired Fed governor Lisa Cook, in move to control U.S. central bank&#x2019;s board",
+      "url": "https://www.marketwatch.com/story/trump-says-he-has-fired-federal-reserve-governor-lisa-cook-9a032f11?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;I came across a letter from my father&#x2019;s bank showing a wire transfer of $195,000 from the buyer.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-25T20:40:00.000Z",
-      "headline": "Stock market braces for Nvidia earnings as S&P 500 struggles to extend Jackson Hole rally",
-      "url": "https://www.marketwatch.com/story/stock-market-braces-for-nvidia-earnings-as-s-p-500-struggles-to-extend-jackson-hole-rally-3da76254?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The U.S. stock market faces a Big Tech test this week.",
+      "summary_en": "The action could cause investors to question the independence of the U.S. central bank and face legal obstacles.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,6 +95,18 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T22:30:00.000Z",
+      "headline": "I am a 65-year old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
+      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -156,6 +131,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T00:14:00.000Z",
+      "headline": "Netflix expands its live-sports reach, wins Japanese rights to 2026 World Baseball Classic",
+      "url": "https://www.marketwatch.com/story/netflix-expands-its-live-sports-reach-wins-japanese-rights-to-2026-world-baseball-classic-273ecf6d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Netflix is significantly bolstering its live-sports roster, announcing Monday that it will be the exclusive home of the 2026 World Baseball Classic for Japanese viewers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-25T23:56:00.000Z",
+      "headline": "Apple no longer innovates &#x2014; it waits. And with AI, anyone playing it safe will get left behind.",
+      "url": "https://www.marketwatch.com/story/apple-is-blowing-its-chance-for-ai-leadership-but-what-else-would-you-expect-88bc1ed2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Apple is blowing its chance for AI leadership &#x2014; but what else would you expect?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
