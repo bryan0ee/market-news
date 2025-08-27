@@ -1,56 +1,20 @@
 {
-  "last_updated": "2025-08-27T10:42:39.002Z",
+  "last_updated": "2025-08-27T13:30:23.585Z",
   "items": [
     {
-      "ts": "2025-08-27T10:15:00.000Z",
-      "headline": "&#x2018;She absolutely cannot afford this procedure&#x2019;: My friend, 61, signed a $20K contract for dental implants. Can she fight it?",
-      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-27T09:11:00.000Z",
-      "headline": "Stock buybacks just passed the $1 trillion mark at the quickest rate ever",
-      "url": "https://www.marketwatch.com/story/stock-buybacks-just-passed-the-1-trillion-mark-at-the-quickest-rate-ever-f653827f?mod=mw_rss_topstories",
+      "ts": "2025-08-27T12:42:00.000Z",
+      "headline": "Kohl&#x2019;s stock soars as beauty products and impulse purchases set stage for a turnaround",
+      "url": "https://www.marketwatch.com/story/kohls-stock-soars-as-beauty-products-and-impulse-purchases-set-stage-for-a-turnaround-b0e60405?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Corporate demand for their own stock reaches record levels and is set to expand in 2026.",
+      "summary_en": "Kohl&#x2019;s sales are still in decline, but they came in better than expected during the latest quarter as the company benefited from a Sephora partnership and redesigned checkout lines.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-27T09:45:00.000Z",
-      "headline": "&#x2018;We pay $1,750 in rent&#x2019;: My partner and I have $1.4 million. We&#x2019;re in our 70s. Will we run out of money in retirement?",
-      "url": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our adjusted gross income was $160,000 last year. We both also have fairly good health insurance..&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-27T09:04:00.000Z",
-      "headline": "How Chris Pratt got dragged into Katy Perry&#x2019;s legal battle with an 85-year-old veteran",
-      "url": "https://www.marketwatch.com/story/how-chris-pratt-got-dragged-into-katy-perrys-legal-battle-with-an-85-year-old-veteran-21ff93ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Actor Chris Pratt could be called to testify in singer Katy Perry&#x2019;s bitter legal battle against an ailing veteran whose Montecito, Calif., home she purchased 5 years ago.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-27T08:53:00.000Z",
+      "ts": "2025-08-27T13:12:00.000Z",
       "headline": "&#x2018;They knocked her down and started biting&#x2019;: My mother, 84, was viciously attacked by her neighbor&#x2019;s two dogs. Do we sue?",
       "url": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,63 +26,100 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-27T08:53:00.000Z",
-      "headline": "The so-called smart money has followed retail investors with a stock-buying spree",
-      "url": "https://www.marketwatch.com/story/the-so-called-smart-money-has-followed-retail-investors-with-a-stock-buying-spree-e1933b0c?mod=mw_rss_topstories",
+      "ts": "2025-08-27T13:03:00.000Z",
+      "headline": "&#x2018;Everyone was grieving&#x2019;: Did my wife&#x2019;s brothers cheat her out of her inheritance? There&#x2019;s a condo and $550K at stake.",
+      "url": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Institutional investors, often regarded as the so-called smart money, are now following retail investors into stocks.",
+      "summary_en": "&#x201c;When my wife&#x2019;s mom passed away, the eldest brother took on the role as executor.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-27T00:18:00.000Z",
-      "headline": "Tommy Hilfiger parent says it still expects 2025 to be a comeback year, even as tariffs upend clothing industry",
-      "url": "https://www.marketwatch.com/story/tommy-hilfiger-parent-says-it-still-expects-2025-to-be-a-comeback-year-even-as-tariffs-upend-clothing-industry-c50d7793?mod=mw_rss_topstories",
+      "ts": "2025-08-27T13:02:00.000Z",
+      "headline": "No one is expecting a global boom. This former hedge-fund manager says it&#x2019;s coming and has a way to play it.",
+      "url": "https://www.marketwatch.com/story/no-one-is-expecting-a-global-boom-this-former-hedge-fund-manager-says-its-coming-and-has-a-way-to-play-it-c0ceac1c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of PVH Corp. were up after hours on Tuesday after the parent of the Tommy Hilfiger and Calvin Klein clothing lines offered a more upbeat sales outlook, saying that it still expects this year &#x201c;to mark our return to growth.&#x201d;",
+      "summary_en": "A global economic boom is on few radars right now. But what if it happens? The best way to play that involves an unpopular asset.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-27T03:03:00.000Z",
-      "headline": "EchoStar&#x2019;s stock is surging. Why AT&T just struck a $23 billion spectrum deal with the company.",
-      "url": "https://www.marketwatch.com/story/echostars-stock-is-surging-why-at-t-just-struck-a-23-billion-spectrum-deal-with-the-company-6ac87d75?mod=mw_rss_topstories",
+      "ts": "2025-08-27T12:52:00.000Z",
+      "headline": "The 6 things to watch as Trump blitzes the Federal Reserve",
+      "url": "https://www.marketwatch.com/story/the-6-things-to-watch-as-trump-blitzes-the-federal-reserve-20cfacc3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Trump has been putting pressure on Fed Chair Jerome Powell and his colleagues in multiple ways. Here are key things for investors to track.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-27T12:22:00.000Z",
+      "headline": "Taylor Swift doesn&#x2019;t need our financial advice &#x2014; so why does she get so much of it?",
+      "url": "https://www.marketwatch.com/story/taylor-swift-doesnt-need-our-financial-advice-so-why-does-she-get-so-much-of-it-ef0aefa8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Swift is the &#x201c;Magnificent 7&#x201d; of tech stocks rolled into one global superstar",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-27T13:25:00.000Z",
+      "headline": "My brother doesn&#x2019;t qualify for Social Security. Can he get survivor benefits through his late wife&#x2019;s disability insurance?&#xa0;",
+      "url": "https://www.marketwatch.com/story/my-brother-doesnt-qualify-for-social-security-can-he-get-survivor-benefits-through-his-late-wifes-disability-insurance-ec7aaa42?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "AT&T will look to enhance its wireless and home-internet offerings with spectrum from EchoStar.",
+      "summary_en": "&#x201c;When he was working he was paid under the table for quite a few years.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-27T00:00:00.000Z",
-      "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
-      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-27T02:58:00.000Z",
-      "headline": "Customers are rushing to coffee shops like Starbucks and Dunkin&#x2019; thanks to the pumpkin-spice latte &#x2018;halo effect&#x2019;",
-      "url": "https://www.marketwatch.com/story/customers-are-rushing-to-coffee-shops-like-starbucks-dunkin-thanks-to-the-pumpkin-spice-latte-halo-effect-1867e34b?mod=mw_rss_topstories",
+      "ts": "2025-08-27T13:14:00.000Z",
+      "headline": "Suze Orman shares her secret to financial independence &#x2014; and how you can get there",
+      "url": "https://www.marketwatch.com/story/suze-orman-shares-her-secret-to-financial-independence-and-how-you-can-get-there-1e20ecaa?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Starbucks sees foot traffic spike 24% thanks to PSLs. &#x201c;It&#x2019;s great just to get people in the door,&#x201d; analysts say.",
+      "summary_en": "The money and investing guru takes a hard line on spending, home ownership, college tuition, life insurance and target-date retirement funds",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-27T12:48:00.000Z",
+      "headline": "Regional-bank stocks are catching up to larger rivals. How to play the sector from here.",
+      "url": "https://www.marketwatch.com/story/regional-bank-stocks-are-catching-up-to-larger-rivals-how-to-play-the-sector-from-here-eaa0ad43?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A KBW analyst still prefers big banks over regional names, but sees opportunities for investors who want to chase the rally in smaller bank stocks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-27T12:34:00.000Z",
+      "headline": "Lisa Cook, take the money and run",
+      "url": "https://www.marketwatch.com/story/lisa-cook-take-the-money-and-run-a8edfea4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Make money and have the last laugh. What&#x2019;s not to like?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
