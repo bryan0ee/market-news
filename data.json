@@ -1,33 +1,56 @@
 {
-  "last_updated": "2025-08-26T23:25:26.818Z",
+  "last_updated": "2025-08-27T10:42:39.002Z",
   "items": [
     {
-      "ts": "2025-08-26T23:00:00.000Z",
-      "headline": "&#x2018;Everyone was grieving&#x2019;: Did my wife&#x2019;s brothers cheat her out of her inheritance? There&#x2019;s a condo and $550K at stake.",
-      "url": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
+      "ts": "2025-08-27T10:15:00.000Z",
+      "headline": "&#x2018;She absolutely cannot afford this procedure&#x2019;: My friend, 61, signed a $20K contract for dental implants. Can she fight it?",
+      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;When my wife&#x2019;s mom passed away, the eldest brother took on the role as executor.&#x201d;",
+      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T22:33:00.000Z",
-      "headline": "AMD&#x2019;s stock is rising as the competitive battle with Nvidia enters a new dimension",
-      "url": "https://www.marketwatch.com/story/amds-stock-is-rising-as-the-competitive-battle-with-nvidia-hits-a-new-dimension-16fe37ef?mod=mw_rss_topstories",
+      "ts": "2025-08-27T09:11:00.000Z",
+      "headline": "Stock buybacks just passed the $1 trillion mark at the quickest rate ever",
+      "url": "https://www.marketwatch.com/story/stock-buybacks-just-passed-the-1-trillion-mark-at-the-quickest-rate-ever-f653827f?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Corporate demand for their own stock reaches record levels and is set to expand in 2026.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-27T09:45:00.000Z",
+      "headline": "&#x2018;We pay $1,750 in rent&#x2019;: My partner and I have $1.4 million. We&#x2019;re in our 70s. Will we run out of money in retirement?",
+      "url": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "AMD",
         "ED"
       ],
-      "summary_en": "AMD was once viewed as just a &#x201c;price check&#x201d; to Nvidia, according to Truist analysts. Now they hear that industry participants are taking AMD&#x2019;s technology more seriously.",
+      "summary_en": "&#x201c;Our adjusted gross income was $160,000 last year. We both also have fairly good health insurance..&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T22:22:00.000Z",
+      "ts": "2025-08-27T09:04:00.000Z",
+      "headline": "How Chris Pratt got dragged into Katy Perry&#x2019;s legal battle with an 85-year-old veteran",
+      "url": "https://www.marketwatch.com/story/how-chris-pratt-got-dragged-into-katy-perrys-legal-battle-with-an-85-year-old-veteran-21ff93ab?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Actor Chris Pratt could be called to testify in singer Katy Perry&#x2019;s bitter legal battle against an ailing veteran whose Montecito, Calif., home she purchased 5 years ago.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-27T08:53:00.000Z",
       "headline": "&#x2018;They knocked her down and started biting&#x2019;: My mother, 84, was viciously attacked by her neighbor&#x2019;s two dogs. Do we sue?",
       "url": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -39,44 +62,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T22:07:00.000Z",
-      "headline": "I&#x2019;m the co-CEO of an $800 billion investment firm. Here&#x2019;s why I need a financial adviser.",
-      "url": "https://www.marketwatch.com/story/im-the-co-ceo-of-an-800-billion-investment-firm-heres-why-i-need-a-financial-adviser-2c42f015?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "An adviser should be your portfolio&#x2019;s general manager, coach and star player. What does that make you? The team owner.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T22:00:00.000Z",
-      "headline": "&#x2018;My brother found God in recovery&#x2019;: How do you save for retirement when &#x2018;God will provide&#x2019; is your core value?",
-      "url": "https://www.marketwatch.com/story/my-brother-found-god-in-recovery-how-do-you-save-for-retirement-when-god-will-provide-is-your-core-value-fae8088a?mod=mw_rss_topstories",
+      "ts": "2025-08-27T08:53:00.000Z",
+      "headline": "The so-called smart money has followed retail investors with a stock-buying spree",
+      "url": "https://www.marketwatch.com/story/the-so-called-smart-money-has-followed-retail-investors-with-a-stock-buying-spree-e1933b0c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Are there CFPs who are more aligned with a pragmatic, yet Christian, approach?&#x201d;",
+      "summary_en": "Institutional investors, often regarded as the so-called smart money, are now following retail investors into stocks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T21:23:00.000Z",
-      "headline": "This may slow the decline of mortgage rates &#x2014; even if the Fed soon cuts interest rates",
-      "url": "https://www.marketwatch.com/story/this-may-slow-the-decline-of-mortgage-rates-even-if-the-fed-soon-cuts-interest-rates-511926e3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Interest rates on long-term mortgages might not fall as fast as some might anticipate should the Federal Reserve cut its benchmark rate at its next policy meeting in September, according to Wells Fargo Investment Institute.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T21:14:00.000Z",
+      "ts": "2025-08-27T00:18:00.000Z",
       "headline": "Tommy Hilfiger parent says it still expects 2025 to be a comeback year, even as tariffs upend clothing industry",
       "url": "https://www.marketwatch.com/story/tommy-hilfiger-parent-says-it-still-expects-2025-to-be-a-comeback-year-even-as-tariffs-upend-clothing-industry-c50d7793?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -88,51 +86,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T21:06:00.000Z",
-      "headline": "Why Trump&#x2019;s challenge to Fed&#x2019;s independence may make gold the &#x2018;safe haven of choice&#x2019; for investors",
-      "url": "https://www.marketwatch.com/story/why-trumps-challenge-to-feds-independence-may-make-gold-the-safe-haven-of-choice-for-investors-67be0898?mod=mw_rss_topstories",
+      "ts": "2025-08-27T03:03:00.000Z",
+      "headline": "EchoStar&#x2019;s stock is surging. Why AT&T just struck a $23 billion spectrum deal with the company.",
+      "url": "https://www.marketwatch.com/story/echostars-stock-is-surging-why-at-t-just-struck-a-23-billion-spectrum-deal-with-the-company-6ac87d75?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "AT&T will look to enhance its wireless and home-internet offerings with spectrum from EchoStar.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-27T00:00:00.000Z",
+      "headline": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
+      "url": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "President Donald Trump made a move to fire a member of the Federal Reserve&#x2019;s Board of Governors. Investors can see that as a threat to the political independence of the central bank, potentially undermining confidence in the U.S. dollar and Treasury bonds &#x2014; and boosting the appeal of gold and other assets perceived as safe havens.",
+      "summary_en": "&#x201c;I am asking for my mom, who is on a fixed income. It would be a nice boon.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-26T22:38:00.000Z",
-      "headline": "Lilly obesity-pill trial results find a warmer reception on Wall Street this time around",
-      "url": "https://www.marketwatch.com/story/lilly-obesity-pill-trial-results-find-a-warmer-reception-on-wall-street-this-time-around-ebffcf94?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Pharmaceutical giant Eli Lilly said it will now move &#x201c;with urgency&#x201d; toward getting regulatory approval for orforglipron.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T21:08:00.000Z",
-      "headline": "Lisa Cook, take the money and run",
-      "url": "https://www.marketwatch.com/story/lisa-cook-take-the-money-and-run-a8edfea4?mod=mw_rss_topstories",
+      "ts": "2025-08-27T02:58:00.000Z",
+      "headline": "Customers are rushing to coffee shops like Starbucks and Dunkin&#x2019; thanks to the pumpkin-spice latte &#x2018;halo effect&#x2019;",
+      "url": "https://www.marketwatch.com/story/customers-are-rushing-to-coffee-shops-like-starbucks-dunkin-thanks-to-the-pumpkin-spice-latte-halo-effect-1867e34b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Make money and have the last laugh. What&#x2019;s not to like?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T18:00:00.000Z",
-      "headline": "Minutes of the Board's discount rate meetings on July 21 and July 30, 2025",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250826a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Minutes of the Board&#39;s discount rate meetings on July 21 and July 30, 2025",
+      "summary_en": "Starbucks sees foot traffic spike 24% thanks to PSLs. &#x201c;It&#x2019;s great just to get people in the door,&#x201d; analysts say.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -157,6 +143,18 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, July 29–30, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-26T18:00:00.000Z",
+      "headline": "Minutes of the Board's discount rate meetings on July 21 and July 30, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250826a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Minutes of the Board&#39;s discount rate meetings on July 21 and July 30, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
