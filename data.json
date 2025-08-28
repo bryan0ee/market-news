@@ -1,6 +1,103 @@
 {
-  "last_updated": "2025-08-28T10:43:21.588Z",
+  "last_updated": "2025-08-28T13:30:54.563Z",
   "items": [
+    {
+      "ts": "2025-08-28T13:08:00.000Z",
+      "headline": "Dollar General says it&#x2019;s getting the &#x2018;value&#x2019; thing right. The stock is rallying.",
+      "url": "https://www.marketwatch.com/story/dollar-general-says-its-getting-the-value-thing-right-the-stock-is-rallying-eb20172f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "More people visited Dollar General stores during the latest quarter and spent slightly more money when they shopped.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T13:01:00.000Z",
+      "headline": "How Vanguard defends a super-conservative strategy that has proved surprisingly controversial",
+      "url": "https://www.marketwatch.com/story/how-vanguard-defends-a-super-conservative-strategy-that-has-proved-surprisingly-controversial-9e6199e0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "In one of its many strategies, the money-management giant Vanguard is now suggesting a portfolio that tilts heavily toward bonds over stocks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T13:00:00.000Z",
+      "headline": "&#x2018;Everyone was grieving&#x2019;: Did my wife&#x2019;s brothers cheat her out of her inheritance? There&#x2019;s a condo and $550K at stake.",
+      "url": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;When my wife&#x2019;s mom passed away, the eldest brother took on the role as executor.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T12:22:00.000Z",
+      "headline": "&#x2018;They knocked her down and started biting&#x2019;: My mother, 84, was viciously attacked by her neighbor&#x2019;s two dogs. Do we sue?",
+      "url": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The police, ambulance and animal control were all called immediately. The dogs were removed and put down.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T11:30:00.000Z",
+      "headline": "Sorry, Siri: Why this iPhone user is switching to the new Google Pixel 10",
+      "url": "https://www.marketwatch.com/story/sorry-siri-why-this-iphone-user-is-switching-to-the-new-google-pixel-10-3621f6d0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "Shoppers in the market for a new phone are starting to consider AI capabilities alongside factors like camera quality and battery life. But experts say it will be hard to sway most Apple loyalists away from their beloved iPhones.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T11:00:00.000Z",
+      "headline": "If Taylor Swift asks Travis Kelce for a prenup, she&#x2019;ll have plenty of company among millennial women",
+      "url": "https://www.marketwatch.com/story/if-taylor-swift-asks-travis-kelce-for-a-prenup-shell-have-plenty-of-company-among-millennial-women-8f348ea5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As the earning power of women keeps growing, more are seeking financial protection before they get married. &#x201c;It&#x2019;s a massive generational shift,&#x201d; says one legal expert.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T13:26:00.000Z",
+      "headline": "It took this couple a year to buy a home. Here&#x2019;s what they say about today&#x2019;s &#x2018;buyer&#x2019;s market.&#x2019;",
+      "url": "https://www.marketwatch.com/story/this-seasoned-buyer-took-nearly-a-year-to-find-a-home-heres-what-his-experience-says-about-the-buyers-market-cb2f1749?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Despite the increasingly buyer-friendly housing market, many buyers are not finding it any easier to buy a home.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T13:22:00.000Z",
+      "headline": "Jobless-claims retreat is a sign that recent increase was not the start of a trend",
+      "url": "https://www.marketwatch.com/story/jobless-claims-retreat-from-2-month-high-6a5b6ada?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "First-time claims fall 5,000 to 229,000 in latest week as continuing claims also moderate.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-28T10:20:00.000Z",
       "headline": "We&#x2019;re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?",
@@ -14,113 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-28T10:15:00.000Z",
-      "headline": "French stocks still haven&#x2019;t priced in the trouble that bonds have, argues Citi",
-      "url": "https://www.marketwatch.com/story/french-stocks-still-havent-priced-in-the-trouble-that-bonds-have-argues-citi-dfb9db83?mod=mw_rss_topstories",
+      "ts": "2025-08-28T11:35:00.000Z",
+      "headline": "Why Trump&#x2019;s business deals with Nvidia, Intel and other companies are really a tax on all of us",
+      "url": "https://www.marketwatch.com/story/why-trumps-business-deals-with-nvidia-intel-and-other-companies-is-really-a-tax-on-all-of-us-1dfa5419?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "French government bond spreads are adjusting to the new political reality but stocks less so.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T10:00:00.000Z",
-      "headline": "Taylor Swift doesn&#x2019;t need your prenup advice &#x2014; so why do so many lawyers still give it?",
-      "url": "https://www.marketwatch.com/story/taylor-swift-doesnt-need-our-financial-advice-so-why-does-she-get-so-much-of-it-ef0aefa8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The queen of pop is the &#x201c;Magnificent Seven&#x201d; of tech stocks rolled into one global superstar.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T10:00:00.000Z",
-      "headline": "This seasoned buyer took nearly a year to find a home. Here&#x2019;s what his experience says about the &#x2018;buyer&#x2019;s market.&#x2019;",
-      "url": "https://www.marketwatch.com/story/this-seasoned-buyer-took-nearly-a-year-to-find-a-home-heres-what-his-experience-says-about-the-buyers-market-cb2f1749?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Despite the increasingly buyer-friendly housing market, many buyers are not finding it any easier to buy a home.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T09:36:00.000Z",
-      "headline": "Record levels of margin debt aren&#x2019;t a red flag but here&#x2019;s what is, says this fund manager",
-      "url": "https://www.marketwatch.com/story/record-levels-of-margin-debt-arent-a-red-flag-but-long-term-inflation-is-says-this-fund-manager-0ad24ca5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Margin debt levels won&#x2019;t help traders time the next correction, says this fund manager but using options to hedge exposure can cushion some of the fall if and when it comes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T09:33:00.000Z",
-      "headline": "&#x2018;My blood pressure is sky high&#x2019;: I&#x2019;m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
-      "url": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;What if I become cognitively impaired and need benefits for 15-20 years?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T09:20:00.000Z",
-      "headline": "My friend, 61, signed a $20K contract for dental implants. She can&#x2019;t afford it. Can she fight it?",
-      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T08:35:00.000Z",
-      "headline": "Buffett&#x2019;s Berkshire Hathaway boosted Mitsubishi and Mitsui stakes. Why he&#x2019;s enamored with Japan.",
-      "url": "https://www.marketwatch.com/story/buffetts-berkshire-hathaway-boosted-mitsubishi-and-mitsui-stakes-why-hes-enamored-with-japan-0cda66be?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Warren Buffett&#x2019;s Berkshire Hathaway has boosted its stake in Mitsubishi and Mitsui, further increasing a long-standing bet on Japanese trading houses.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T01:49:00.000Z",
-      "headline": "Think the S&P 500 is too expensive? Check out these ETFs instead.",
-      "url": "https://www.marketwatch.com/story/think-the-s-p-500-is-too-expensive-check-out-these-etfs-instead-b58f22d3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Some investors are worried that the stock market is set up for a tech-driven decline.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T01:17:00.000Z",
-      "headline": "CoreWeave&#x2019;s stock has slumped. Here&#x2019;s how the company can prove the bears wrong.",
-      "url": "https://www.marketwatch.com/story/coreweaves-stock-has-slumped-heres-how-the-company-can-prove-the-bears-wrong-62e237b4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The AI-infrastructure company&#x2019;s stock has been hammered on concerns over losses and debt. But CoreWeave is a &#x201c;best-in-class&#x201d; player whose shares could climb to $116, one analyst said.",
+      "summary_en": "Trump is not just putting the White House at the center of U.S. business. He&#x2019;s also inventing novel ways to tax corporate America, consumers and employees.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
