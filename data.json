@@ -1,105 +1,45 @@
 {
-  "last_updated": "2025-08-28T13:30:54.563Z",
+  "last_updated": "2025-08-28T23:25:35.654Z",
   "items": [
     {
-      "ts": "2025-08-28T13:08:00.000Z",
-      "headline": "Dollar General says it&#x2019;s getting the &#x2018;value&#x2019; thing right. The stock is rallying.",
-      "url": "https://www.marketwatch.com/story/dollar-general-says-its-getting-the-value-thing-right-the-stock-is-rallying-eb20172f?mod=mw_rss_topstories",
+      "ts": "2025-08-28T22:46:00.000Z",
+      "headline": "Fed&#x2019;s Waller backs a series of interest-rate cuts over the next six months",
+      "url": "https://www.marketwatch.com/story/feds-waller-backs-a-series-of-interest-rate-cuts-over-the-next-six-months-f1f730bb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "More people visited Dollar General stores during the latest quarter and spent slightly more money when they shopped.",
+      "summary_en": "Federal Reserve governor Christopher Waller on Thursday said he now supports a series of interest-rate cuts beginning in September, with the pace of subsequent moves driven by the incoming data.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-28T13:01:00.000Z",
-      "headline": "How Vanguard defends a super-conservative strategy that has proved surprisingly controversial",
-      "url": "https://www.marketwatch.com/story/how-vanguard-defends-a-super-conservative-strategy-that-has-proved-surprisingly-controversial-9e6199e0?mod=mw_rss_topstories",
+      "ts": "2025-08-28T22:11:00.000Z",
+      "headline": "&#x2018;My blood pressure is sky high&#x2019;: I&#x2019;m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
+      "url": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;What if I become cognitively impaired and need benefits for 15-20 years?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T21:40:00.000Z",
+      "headline": "Affirm swings to profit as people flocked to its 0% APR loans and other offers",
+      "url": "https://www.marketwatch.com/story/affirm-swings-to-profit-as-people-flocked-to-its-0-apr-loans-and-other-offers-e35eaf1e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "In one of its many strategies, the money-management giant Vanguard is now suggesting a portfolio that tilts heavily toward bonds over stocks.",
+      "summary_en": "Thursday&#x2019;s results defy worries about competition in the buy-now, pay-later arena.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-28T13:00:00.000Z",
-      "headline": "&#x2018;Everyone was grieving&#x2019;: Did my wife&#x2019;s brothers cheat her out of her inheritance? There&#x2019;s a condo and $550K at stake.",
-      "url": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;When my wife&#x2019;s mom passed away, the eldest brother took on the role as executor.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T12:22:00.000Z",
-      "headline": "&#x2018;They knocked her down and started biting&#x2019;: My mother, 84, was viciously attacked by her neighbor&#x2019;s two dogs. Do we sue?",
-      "url": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The police, ambulance and animal control were all called immediately. The dogs were removed and put down.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T11:30:00.000Z",
-      "headline": "Sorry, Siri: Why this iPhone user is switching to the new Google Pixel 10",
-      "url": "https://www.marketwatch.com/story/sorry-siri-why-this-iphone-user-is-switching-to-the-new-google-pixel-10-3621f6d0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "Shoppers in the market for a new phone are starting to consider AI capabilities alongside factors like camera quality and battery life. But experts say it will be hard to sway most Apple loyalists away from their beloved iPhones.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T11:00:00.000Z",
-      "headline": "If Taylor Swift asks Travis Kelce for a prenup, she&#x2019;ll have plenty of company among millennial women",
-      "url": "https://www.marketwatch.com/story/if-taylor-swift-asks-travis-kelce-for-a-prenup-shell-have-plenty-of-company-among-millennial-women-8f348ea5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "As the earning power of women keeps growing, more are seeking financial protection before they get married. &#x201c;It&#x2019;s a massive generational shift,&#x201d; says one legal expert.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T13:26:00.000Z",
-      "headline": "It took this couple a year to buy a home. Here&#x2019;s what they say about today&#x2019;s &#x2018;buyer&#x2019;s market.&#x2019;",
-      "url": "https://www.marketwatch.com/story/this-seasoned-buyer-took-nearly-a-year-to-find-a-home-heres-what-his-experience-says-about-the-buyers-market-cb2f1749?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Despite the increasingly buyer-friendly housing market, many buyers are not finding it any easier to buy a home.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T13:22:00.000Z",
-      "headline": "Jobless-claims retreat is a sign that recent increase was not the start of a trend",
-      "url": "https://www.marketwatch.com/story/jobless-claims-retreat-from-2-month-high-6a5b6ada?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "First-time claims fall 5,000 to 229,000 in latest week as continuing claims also moderate.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T10:20:00.000Z",
+      "ts": "2025-08-28T21:30:00.000Z",
       "headline": "We&#x2019;re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?",
       "url": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -111,15 +51,76 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-28T11:35:00.000Z",
-      "headline": "Why Trump&#x2019;s business deals with Nvidia, Intel and other companies are really a tax on all of us",
-      "url": "https://www.marketwatch.com/story/why-trumps-business-deals-with-nvidia-intel-and-other-companies-is-really-a-tax-on-all-of-us-1dfa5419?mod=mw_rss_topstories",
+      "ts": "2025-08-28T21:30:00.000Z",
+      "headline": "Taylor Swift doesn&#x2019;t need your prenup advice &#x2014; so why do so many lawyers still give it?",
+      "url": "https://www.marketwatch.com/story/taylor-swift-doesnt-need-our-financial-advice-so-why-does-she-get-so-much-of-it-ef0aefa8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The queen of pop is the &#x201c;Magnificent Seven&#x201d; of tech stocks rolled into one global superstar.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T21:12:00.000Z",
+      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
+      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T22:51:00.000Z",
+      "headline": "Marvell&#x2019;s stock is falling as its earnings didn&#x2019;t live up to the AI hype",
+      "url": "https://www.marketwatch.com/story/marvells-stock-is-falling-as-its-earnings-didnt-live-up-to-the-ai-hype-61c72ff9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Trump is not just putting the White House at the center of U.S. business. He&#x2019;s also inventing novel ways to tax corporate America, consumers and employees.",
+      "summary_en": "The chip company said its record revenue of $2 billion was driven by AI demand for its custom chips, but Marvell didn&#x2019;t deliver upside on its top line.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T21:45:00.000Z",
+      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
+      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T21:23:00.000Z",
+      "headline": "S&P 500 scores new peak. Are U.S. stocks &#x2018;catching up&#x2019; to the rest of the world?",
+      "url": "https://www.marketwatch.com/story/s-p-500-scores-new-peak-are-u-s-stocks-catching-up-to-the-rest-of-the-world-971015a3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The U.S. stock market is attempting to catch up to the rest of the world after lagging so far in 2025.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-28T21:04:00.000Z",
+      "headline": "Trump is closing a shipping loophole. Etsy and eBay shares are tumbling.",
+      "url": "https://www.marketwatch.com/story/trump-is-closing-a-shipping-loophole-shares-in-etsy-and-ebay-are-tumbling-baffd57f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The &#x201c;de minimis&#x201d; exemption for shipments worth $800 or less is ending at midnight.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
