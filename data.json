@@ -1,8 +1,81 @@
 {
-  "last_updated": "2025-08-29T10:42:13.884Z",
+  "last_updated": "2025-08-29T13:29:07.169Z",
   "items": [
     {
-      "ts": "2025-08-29T10:27:00.000Z",
+      "ts": "2025-08-29T13:15:00.000Z",
+      "headline": "U.S. trade deficit in goods widened sharply in July as firms raced to avoid tariffs",
+      "url": "https://www.marketwatch.com/story/u-s-trade-deficit-in-goods-widened-sharply-in-july-as-firms-raced-to-avoid-tariffs-fe2898b6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The U.S. trade deficit in goods widened 22.1% to $103.6 billion in July from $84.9 billion, according to the Commerce Department&#x2019;s advance estimate released Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T12:38:00.000Z",
+      "headline": "Key U.S. inflation gauge creeps higher, but not enough to stave off Fed interest-rate cut",
+      "url": "https://www.marketwatch.com/story/key-u-s-inflation-gauge-creeps-higher-but-not-enough-to-deter-fed-interest-rate-cut-251db2a6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A key measure of inflation rose in July at a rate that suggests persistent price pressures tied to higher U.S. tariffs, but the increase probably wasn&#x2019;t big enough to dissuade the Federal Reserve from cutting interest rates next month.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T13:25:00.000Z",
+      "headline": "Trump closes the &#x2018;de minimis&#x2019; shipping loophole. Etsy and eBay shares have tumbled.",
+      "url": "https://www.marketwatch.com/story/trump-is-closing-a-shipping-loophole-shares-in-etsy-and-ebay-are-tumbling-baffd57f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The &#x201c;de minimis&#x201d; exemption for shipments worth $800 has ended.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T13:16:00.000Z",
+      "headline": "My friend, 61, signed a $20K contract for dental implants. She can&#x2019;t afford it. Can she fight it?",
+      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T12:48:00.000Z",
+      "headline": "Americans spend a lot more on  cars in July, but not much else. Tariffs keep consumers cautious.",
+      "url": "https://www.marketwatch.com/story/americans-spend-a-lot-more-on-cars-in-july-but-not-much-else-tariffs-keep-consumers-cautious-45da3b43?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Americans bought more new cars and trucks in July to try to avoid tariff-related price increases, but they spent cautiously on other goods and services amid ongoing turbulence in the U.S. economy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T12:11:00.000Z",
+      "headline": "&#x2018;My blood pressure is sky high&#x2019;: I&#x2019;m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
+      "url": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;What if I become cognitively impaired and need benefits for 15-20 years?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T11:37:00.000Z",
       "headline": "Yes, rate cuts will be good for stocks. But here&#x2019;s why it means the Fed will be stimulating an economy that doesn&#x2019;t need it.",
       "url": "https://www.marketwatch.com/story/yes-rate-cuts-will-be-good-for-stocks-but-heres-why-it-means-the-fed-will-be-stimulating-an-economy-that-doesnt-need-it-b65516ad?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -15,113 +88,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-29T10:00:00.000Z",
-      "headline": "Investing in the red-hot airline sector? You may want to avoid these stocks.",
-      "url": "https://www.marketwatch.com/story/investing-in-the-red-hot-airline-sector-you-may-want-to-avoid-these-stocks-f7450189?mod=mw_rss_topstories",
+      "ts": "2025-08-29T11:30:00.000Z",
+      "headline": "I earn $95,000 and have $41,000 in student-loan debt to pay off &#x2014; but I can&#x2019;t stop shopping. Help!",
+      "url": "https://www.marketwatch.com/story/i-earn-95-000-and-have-41-000-in-student-loan-debt-to-pay-off-but-i-cant-stop-shopping-help-884332e1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED",
-        "COST"
+        "ED"
       ],
-      "summary_en": "Low- and ultra-low-cost airlines are seeing core customers traveling less often, if they travel at all",
+      "summary_en": "You can be more intentional with how you shop so that you still feel creatively fed and stay on budget. The shift you&#x2019;ll have to make, though, is more mental than financial.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-29T09:35:00.000Z",
-      "headline": "&#x2018;I&#x2019;m asking for a friend&#x2019;: Will the IRS write off $60,000 lost in a romance phishing scam?",
-      "url": "https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories",
+      "ts": "2025-08-29T11:00:00.000Z",
+      "headline": "Is the stock market open on Labor Day? Does the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The end-of-summer holiday is upon us, so be prepared for plenty of closings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T12:09:00.000Z",
+      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
+      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The bank did try to stop them from executing the transfers.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T02:43:00.000Z",
-      "headline": "Lisa Cook&#x2019;s Trump lawsuit opens new chapter in showdown over Fed independence",
-      "url": "https://www.marketwatch.com/story/lisa-cooks-trump-lawsuit-opens-new-chapter-in-showdown-over-fed-independence-86dcae53?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve governor Lisa Cook on Thursday sued President Donald Trump after he moved to fire her over accusations of mortgage fraud, opening a new chapter in a showdown over the independence of the U.S. central bank.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T02:37:00.000Z",
-      "headline": "Trump&#x2019;s push for lower interest rates is on a collision course with government bonds",
-      "url": "https://www.marketwatch.com/story/trumps-push-for-lower-interest-rates-is-on-a-collision-course-with-government-bonds-5be52f3a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bond investors are taking a &#x201c;wait-and-see&#x201d; approach to President Donald Trump&#x2019;s attempt to fire Federal Reserve governor Lisa Cook.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T01:58:00.000Z",
-      "headline": "Fed&#x2019;s Waller backs a series of interest-rate cuts over the next six months",
-      "url": "https://www.marketwatch.com/story/feds-waller-backs-a-series-of-interest-rate-cuts-over-the-next-six-months-f1f730bb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve governor Christopher Waller on Thursday said he now supports a series of interest-rate cuts beginning in September, with the pace of subsequent moves driven by the incoming data.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T01:14:00.000Z",
-      "headline": "&#x2018;My brother found God in recovery&#x2019;: How do you save for retirement when &#x2018;God will provide&#x2019; is your core value?",
-      "url": "https://www.marketwatch.com/story/my-brother-found-god-in-recovery-how-do-you-save-for-retirement-when-god-will-provide-is-your-core-value-fae8088a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Are there CFPs who are more aligned with a pragmatic, yet Christian, approach?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T00:38:00.000Z",
-      "headline": "This under-the-radar storage stock is cashing in on Meta&#x2019;s AI spending",
-      "url": "https://www.marketwatch.com/story/this-under-the-radar-storage-stock-is-cashing-in-on-metas-ai-spending-34f8ac2a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "Pure Storage&#x2019;s stock cruises to a record after a flash-storage partnership with Meta helped the company crush earnings expectations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T00:34:00.000Z",
-      "headline": "Affirm swings to profit as people flocked to its 0% APR loans and other offers",
-      "url": "https://www.marketwatch.com/story/affirm-swings-to-profit-as-people-flocked-to-its-0-apr-loans-and-other-offers-e35eaf1e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Thursday&#x2019;s results defy worries about competition in the buy-now, pay-later arena.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T00:33:00.000Z",
-      "headline": "Dell&#x2019;s AI business is booming. So why is the stock falling?",
-      "url": "https://www.marketwatch.com/story/dells-ai-business-is-booming-so-why-is-the-stock-falling-ea8059cb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Dell upped its guidance for the full year as its AI server business is growing faster than expected. There&#x2019;s a high bar for AI stocks now, plus PC revenue came in lower than expected.",
+      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
