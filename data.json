@@ -1,8 +1,70 @@
 {
-  "last_updated": "2025-08-28T23:25:35.654Z",
+  "last_updated": "2025-08-29T10:42:13.884Z",
   "items": [
     {
-      "ts": "2025-08-28T22:46:00.000Z",
+      "ts": "2025-08-29T10:27:00.000Z",
+      "headline": "Yes, rate cuts will be good for stocks. But here&#x2019;s why it means the Fed will be stimulating an economy that doesn&#x2019;t need it.",
+      "url": "https://www.marketwatch.com/story/yes-rate-cuts-will-be-good-for-stocks-but-heres-why-it-means-the-fed-will-be-stimulating-an-economy-that-doesnt-need-it-b65516ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The market wealth effect will boost growth even more, according to Ed Yardeni.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T10:00:00.000Z",
+      "headline": "Investing in the red-hot airline sector? You may want to avoid these stocks.",
+      "url": "https://www.marketwatch.com/story/investing-in-the-red-hot-airline-sector-you-may-want-to-avoid-these-stocks-f7450189?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Low- and ultra-low-cost airlines are seeing core customers traveling less often, if they travel at all",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T09:35:00.000Z",
+      "headline": "&#x2018;I&#x2019;m asking for a friend&#x2019;: Will the IRS write off $60,000 lost in a romance phishing scam?",
+      "url": "https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;The bank did try to stop them from executing the transfers.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T02:43:00.000Z",
+      "headline": "Lisa Cook&#x2019;s Trump lawsuit opens new chapter in showdown over Fed independence",
+      "url": "https://www.marketwatch.com/story/lisa-cooks-trump-lawsuit-opens-new-chapter-in-showdown-over-fed-independence-86dcae53?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve governor Lisa Cook on Thursday sued President Donald Trump after he moved to fire her over accusations of mortgage fraud, opening a new chapter in a showdown over the independence of the U.S. central bank.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T02:37:00.000Z",
+      "headline": "Trump&#x2019;s push for lower interest rates is on a collision course with government bonds",
+      "url": "https://www.marketwatch.com/story/trumps-push-for-lower-interest-rates-is-on-a-collision-course-with-government-bonds-5be52f3a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bond investors are taking a &#x201c;wait-and-see&#x201d; approach to President Donald Trump&#x2019;s attempt to fire Federal Reserve governor Lisa Cook.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T01:58:00.000Z",
       "headline": "Fed&#x2019;s Waller backs a series of interest-rate cuts over the next six months",
       "url": "https://www.marketwatch.com/story/feds-waller-backs-a-series-of-interest-rate-cuts-over-the-next-six-months-f1f730bb?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,20 +76,32 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-28T22:11:00.000Z",
-      "headline": "&#x2018;My blood pressure is sky high&#x2019;: I&#x2019;m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
-      "url": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
+      "ts": "2025-08-29T01:14:00.000Z",
+      "headline": "&#x2018;My brother found God in recovery&#x2019;: How do you save for retirement when &#x2018;God will provide&#x2019; is your core value?",
+      "url": "https://www.marketwatch.com/story/my-brother-found-god-in-recovery-how-do-you-save-for-retirement-when-god-will-provide-is-your-core-value-fae8088a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;What if I become cognitively impaired and need benefits for 15-20 years?&#x201d;",
+      "summary_en": "&#x201c;Are there CFPs who are more aligned with a pragmatic, yet Christian, approach?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-28T21:40:00.000Z",
+      "ts": "2025-08-29T00:38:00.000Z",
+      "headline": "This under-the-radar storage stock is cashing in on Meta&#x2019;s AI spending",
+      "url": "https://www.marketwatch.com/story/this-under-the-radar-storage-stock-is-cashing-in-on-metas-ai-spending-34f8ac2a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "Pure Storage&#x2019;s stock cruises to a record after a flash-storage partnership with Meta helped the company crush earnings expectations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T00:34:00.000Z",
       "headline": "Affirm swings to profit as people flocked to its 0% APR loans and other offers",
       "url": "https://www.marketwatch.com/story/affirm-swings-to-profit-as-people-flocked-to-its-0-apr-loans-and-other-offers-e35eaf1e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -39,88 +113,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-28T21:30:00.000Z",
-      "headline": "We&#x2019;re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?",
-      "url": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
+      "ts": "2025-08-29T00:33:00.000Z",
+      "headline": "Dell&#x2019;s AI business is booming. So why is the stock falling?",
+      "url": "https://www.marketwatch.com/story/dells-ai-business-is-booming-so-why-is-the-stock-falling-ea8059cb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Our adjusted gross income was $160,000 last year. We both also have fairly good health insurance..&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T21:30:00.000Z",
-      "headline": "Taylor Swift doesn&#x2019;t need your prenup advice &#x2014; so why do so many lawyers still give it?",
-      "url": "https://www.marketwatch.com/story/taylor-swift-doesnt-need-our-financial-advice-so-why-does-she-get-so-much-of-it-ef0aefa8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The queen of pop is the &#x201c;Magnificent Seven&#x201d; of tech stocks rolled into one global superstar.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T21:12:00.000Z",
-      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
-      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T22:51:00.000Z",
-      "headline": "Marvell&#x2019;s stock is falling as its earnings didn&#x2019;t live up to the AI hype",
-      "url": "https://www.marketwatch.com/story/marvells-stock-is-falling-as-its-earnings-didnt-live-up-to-the-ai-hype-61c72ff9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The chip company said its record revenue of $2 billion was driven by AI demand for its custom chips, but Marvell didn&#x2019;t deliver upside on its top line.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T21:45:00.000Z",
-      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
-      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T21:23:00.000Z",
-      "headline": "S&P 500 scores new peak. Are U.S. stocks &#x2018;catching up&#x2019; to the rest of the world?",
-      "url": "https://www.marketwatch.com/story/s-p-500-scores-new-peak-are-u-s-stocks-catching-up-to-the-rest-of-the-world-971015a3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The U.S. stock market is attempting to catch up to the rest of the world after lagging so far in 2025.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-28T21:04:00.000Z",
-      "headline": "Trump is closing a shipping loophole. Etsy and eBay shares are tumbling.",
-      "url": "https://www.marketwatch.com/story/trump-is-closing-a-shipping-loophole-shares-in-etsy-and-ebay-are-tumbling-baffd57f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The &#x201c;de minimis&#x201d; exemption for shipments worth $800 or less is ending at midnight.",
+      "summary_en": "Dell upped its guidance for the full year as its AI server business is growing faster than expected. There&#x2019;s a high bar for AI stocks now, plus PC revenue came in lower than expected.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
