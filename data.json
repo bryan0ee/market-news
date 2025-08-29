@@ -1,68 +1,20 @@
 {
-  "last_updated": "2025-08-29T13:29:07.169Z",
+  "last_updated": "2025-08-29T23:25:11.998Z",
   "items": [
     {
-      "ts": "2025-08-29T13:15:00.000Z",
-      "headline": "U.S. trade deficit in goods widened sharply in July as firms raced to avoid tariffs",
-      "url": "https://www.marketwatch.com/story/u-s-trade-deficit-in-goods-widened-sharply-in-july-as-firms-raced-to-avoid-tariffs-fe2898b6?mod=mw_rss_topstories",
+      "ts": "2025-08-29T22:54:00.000Z",
+      "headline": "Why Trump&#x2019;s global tariffs were rejected in court &#x2014; and what comes next",
+      "url": "https://www.marketwatch.com/story/why-trumps-global-tariffs-were-rejected-in-court-and-what-comes-next-237207e9?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The U.S. trade deficit in goods widened 22.1% to $103.6 billion in July from $84.9 billion, according to the Commerce Department&#x2019;s advance estimate released Friday.",
+      "summary_en": "The White House says it anticipates an &#x201c;ultimate victory&#x201d; in the case over the president&#x2019;s tariffs.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-29T12:38:00.000Z",
-      "headline": "Key U.S. inflation gauge creeps higher, but not enough to stave off Fed interest-rate cut",
-      "url": "https://www.marketwatch.com/story/key-u-s-inflation-gauge-creeps-higher-but-not-enough-to-deter-fed-interest-rate-cut-251db2a6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A key measure of inflation rose in July at a rate that suggests persistent price pressures tied to higher U.S. tariffs, but the increase probably wasn&#x2019;t big enough to dissuade the Federal Reserve from cutting interest rates next month.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T13:25:00.000Z",
-      "headline": "Trump closes the &#x2018;de minimis&#x2019; shipping loophole. Etsy and eBay shares have tumbled.",
-      "url": "https://www.marketwatch.com/story/trump-is-closing-a-shipping-loophole-shares-in-etsy-and-ebay-are-tumbling-baffd57f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The &#x201c;de minimis&#x201d; exemption for shipments worth $800 has ended.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T13:16:00.000Z",
-      "headline": "My friend, 61, signed a $20K contract for dental implants. She can&#x2019;t afford it. Can she fight it?",
-      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T12:48:00.000Z",
-      "headline": "Americans spend a lot more on  cars in July, but not much else. Tariffs keep consumers cautious.",
-      "url": "https://www.marketwatch.com/story/americans-spend-a-lot-more-on-cars-in-july-but-not-much-else-tariffs-keep-consumers-cautious-45da3b43?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Americans bought more new cars and trucks in July to try to avoid tariff-related price increases, but they spent cautiously on other goods and services amid ongoing turbulence in the U.S. economy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T12:11:00.000Z",
+      "ts": "2025-08-29T22:37:00.000Z",
       "headline": "&#x2018;My blood pressure is sky high&#x2019;: I&#x2019;m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
       "url": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -75,44 +27,43 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-29T11:37:00.000Z",
-      "headline": "Yes, rate cuts will be good for stocks. But here&#x2019;s why it means the Fed will be stimulating an economy that doesn&#x2019;t need it.",
-      "url": "https://www.marketwatch.com/story/yes-rate-cuts-will-be-good-for-stocks-but-heres-why-it-means-the-fed-will-be-stimulating-an-economy-that-doesnt-need-it-b65516ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The market wealth effect will boost growth even more, according to Ed Yardeni.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T11:30:00.000Z",
-      "headline": "I earn $95,000 and have $41,000 in student-loan debt to pay off &#x2014; but I can&#x2019;t stop shopping. Help!",
-      "url": "https://www.marketwatch.com/story/i-earn-95-000-and-have-41-000-in-student-loan-debt-to-pay-off-but-i-cant-stop-shopping-help-884332e1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-08-29T21:04:00.000Z",
+      "headline": "Spirit Airlines files for bankruptcy again, has this to say about its Labor Day flights",
+      "url": "https://www.marketwatch.com/story/spirit-airlines-files-for-bankruptcy-but-has-this-to-say-about-its-labor-day-flights-e5d5e168?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "You can be more intentional with how you shop so that you still feel creatively fed and stay on budget. The shift you&#x2019;ll have to make, though, is more mental than financial.",
+      "summary_en": "The move comes after the budget airline emerged from bankruptcy in March.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-29T11:00:00.000Z",
-      "headline": "Is the stock market open on Labor Day? Does the post office deliver mail?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories",
+      "ts": "2025-08-29T20:39:00.000Z",
+      "headline": "If Taylor Swift gets a prenup, she joins a &#x2018;generational shift&#x2019; of millennial women demanding one before marriage",
+      "url": "https://www.marketwatch.com/story/if-taylor-swift-asks-travis-kelce-for-a-prenup-shell-have-plenty-of-company-among-millennial-women-8f348ea5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The end-of-summer holiday is upon us, so be prepared for plenty of closings.",
+      "summary_en": "As the earning power of women keeps growing, more are seeking financial protection before they get married.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-29T12:09:00.000Z",
+      "ts": "2025-08-29T20:00:00.000Z",
+      "headline": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250829a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T22:45:00.000Z",
       "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
       "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -124,15 +75,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-22T14:00:00.000Z",
-      "headline": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-08-29T21:32:00.000Z",
+      "headline": "&#x2018;I&#x2019;m asking for a friend&#x2019;: Will the IRS write off $60,000 lost in a romance phishing scam?",
+      "url": "https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Federal Open Market Committee announces approval of updates to its Statement on Longer-Run Goals and Monetary Policy Strategy",
+      "summary_en": "&#x201c;The bank did try to stop them from executing the transfers.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T21:23:00.000Z",
+      "headline": "My husband and I are giving my sister $30K each year. Will we owe the IRS gift tax?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-giving-my-sister-30k-each-year-will-we-owe-the-irs-gift-tax-551f701a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We do not see eye to eye on using paper checks.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T21:01:00.000Z",
+      "headline": "Customers are rushing to coffee shops like Starbucks and Dunkin&#x2019; thanks to the pumpkin-spice latte &#x2018;halo effect&#x2019;",
+      "url": "https://www.marketwatch.com/story/customers-are-rushing-to-coffee-shops-like-starbucks-dunkin-thanks-to-the-pumpkin-spice-latte-halo-effect-1867e34b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Starbucks sees foot traffic spike 24% thanks to PSLs, and even McDonald&#x2019;s has a fall menu now. &#x201c;It&#x2019;s great just to get people in the door,&#x201d; analysts say.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T20:57:00.000Z",
+      "headline": "Why I don&#x2019;t want to add private equity to my 401(k)",
+      "url": "https://www.marketwatch.com/story/why-you-should-think-twice-before-buying-private-equity-in-your-401-k-bcd06060?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It&#x2019;s a great deal for private-equity firms and a losing prospect for you.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-29T20:41:00.000Z",
+      "headline": "Travelers may pay the cheapest Labor Day gas prices in 5 years. Here&#x2019;s the reason why.",
+      "url": "https://www.marketwatch.com/story/travelers-may-pay-the-cheapest-labor-day-gas-prices-in-5-years-heres-the-reason-why-951738b5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Gas prices are heading for their lowest Labor Day levels since 2020 as oil prices slump.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
