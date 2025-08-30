@@ -1,113 +1,126 @@
 {
-  "last_updated": "2025-08-30T13:24:13.933Z",
+  "last_updated": "2025-08-30T23:24:35.030Z",
   "items": [
     {
-      "ts": "2025-08-30T12:30:00.000Z",
-      "headline": "Nvidia has $57 billion in cash. Wall Street has ideas about what to do with it.",
-      "url": "https://www.marketwatch.com/story/nvidia-has-57-billion-in-cash-wall-street-has-ideas-about-what-to-do-with-it-e25254b5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-08-30T19:44:00.000Z",
+      "headline": "&#x2018;Everyone was grieving&#x2019;: Did my wife&#x2019;s brothers cheat her out of her inheritance? There&#x2019;s a condo and $550K at stake.",
+      "url": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The chip maker announced a $60 billion stock buyback this week &#x2014; and sparked a debate about whether the move makes sense.",
+      "summary_en": "&#x201c;When my wife&#x2019;s mom passed away, the eldest brother took on the role as executor.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-30T12:43:00.000Z",
-      "headline": "&#x2018;My blood pressure is sky high&#x2019;: I&#x2019;m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
-      "url": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
+      "ts": "2025-08-30T18:55:00.000Z",
+      "headline": "Feeling Powerball fever as the jackpot hits $1 billion? This former lottery addict who lost around $1 million has a warning for you.",
+      "url": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Adam Osmond gambled away a fortune on lottery games, but he eventually sought help.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-30T18:47:00.000Z",
+      "headline": "I just spent $4,400 as the best man at a wedding. It&#x2019;s not just bridesmaids who pay a fortune.",
+      "url": "https://www.marketwatch.com/story/please-stop-asking-me-to-be-your-best-man-ive-spent-4-400-on-one-wedding-and-cant-afford-it-anymore-2001b192?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Guilt over how good a friend I am is colliding with the financial reality that this wedding will cost me thousands of dollars.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-30T18:16:00.000Z",
+      "headline": "This healthcare benefit provides a triple tax advantage &#x2014; but many employees don&#x2019;t use it",
+      "url": "https://www.marketwatch.com/story/this-healthcare-benefit-offers-a-triple-tax-advantage-but-many-employees-dont-use-it-87e942f0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Health Savings Accounts combine federal tax-deductible contributions with tax-free growth and tax-free medical withdrawals.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-30T17:49:00.000Z",
+      "headline": "What&#x2019;s next in the legal fight between Fed governor Lisa Cook and President Trump",
+      "url": "https://www.marketwatch.com/story/whats-next-in-the-legal-fight-between-fed-governor-lisa-cook-and-president-trump-1f11f058?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve governor Lisa Cook and the Trump administration had their day in court Friday &#x2014; but all parties will have to wait longer for a ruling in a case that could have serious implications for the central bank&#x2019;s independence.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-30T17:46:00.000Z",
+      "headline": "Why do so many investors think the stock market is forming a bubble?",
+      "url": "https://www.marketwatch.com/story/why-do-so-many-investors-think-the-stock-market-is-forming-a-bubble-ebefa529?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A big increase in predictions that a bubble is about to burst actually makes it less likely that one will, contrarians say",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-30T17:14:00.000Z",
+      "headline": "I&#x2019;m the co-CEO of an $800 billion investment firm. Here&#x2019;s why I need a financial adviser.",
+      "url": "https://www.marketwatch.com/story/im-the-co-ceo-of-an-800-billion-investment-firm-heres-why-i-need-a-financial-adviser-2c42f015?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;What if I become cognitively impaired and need benefits for 15-20 years?&#x201d;",
+      "summary_en": "An adviser should be your portfolio&#x2019;s general manager, coach and star player. What does that make you? The team owner.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-30T12:00:00.000Z",
-      "headline": "Only a really big jobs report might stop the Fed from cutting interest rates. Don&#x2019;t count on it.",
-      "url": "https://www.marketwatch.com/story/only-a-really-big-jobs-report-might-stop-the-fed-from-cutting-interest-rates-dont-count-on-it-451eb83f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Hiring has slowed sharply this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-30T12:00:00.000Z",
-      "headline": "Does the hot IPO market mean we&#x2019;re in a stock-market bubble?",
-      "url": "https://www.marketwatch.com/story/does-the-hot-ipo-market-mean-were-in-a-stock-market-bubble-d83be991?mod=mw_rss_topstories",
+      "ts": "2025-08-30T16:43:00.000Z",
+      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
+      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The IPO market may be hotter than at any time since 2021, but it still is no more heated than the long-term average",
+      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-30T11:42:00.000Z",
-      "headline": "We&#x2019;re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?",
-      "url": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our adjusted gross income was $160,000 last year. We both also have fairly good health insurance..&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-30T10:15:00.000Z",
-      "headline": "My husband and I are giving my sister $30K each year. Will we owe the IRS gift tax?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-giving-my-sister-30k-each-year-will-we-owe-the-irs-gift-tax-551f701a?mod=mw_rss_topstories",
+      "ts": "2025-08-30T17:17:00.000Z",
+      "headline": "TikTok calls her &#x2018;32 pizzas mom.&#x2019; What her videos can teach us about how we spend money.",
+      "url": "https://www.marketwatch.com/story/tiktok-calls-her-32-pizzas-mom-what-her-videos-can-teach-us-about-how-we-spend-money-102cce4d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;We do not see eye to eye on using paper checks.&#x201d;",
+      "summary_en": "A $500 grocery-haul video has gone viral for sparking a conversation about when stocking up on groceries might go too far",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-30T09:38:00.000Z",
-      "headline": "&#x2018;I&#x2019;m asking for a friend&#x2019;: Will the IRS write off $60,000 lost in a romance phishing scam?",
-      "url": "https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories",
+      "ts": "2025-08-30T16:41:00.000Z",
+      "headline": "The small-cap rally is real. Here are five stocks to consider owning right now.",
+      "url": "https://www.marketwatch.com/story/why-small-caps-just-might-be-the-stock-markets-new-magnificent-seven-a9b57b32?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The bank did try to stop them from executing the transfers.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T22:54:00.000Z",
-      "headline": "Why Trump&#x2019;s global tariffs were rejected in court &#x2014; and what comes next",
-      "url": "https://www.marketwatch.com/story/why-trumps-global-tariffs-were-rejected-in-court-and-what-comes-next-237207e9?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The White House says it anticipates an &#x201c;ultimate victory&#x201d; in the case over the president&#x2019;s tariffs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T23:49:00.000Z",
-      "headline": "Equal-weight S&P 500 sees longest winning streak since 2021 amid September rate-cut expectations",
-      "url": "https://www.marketwatch.com/story/equal-weight-s-p-500-sees-longest-winning-streak-since-2021-amid-september-rate-cut-expectations-79f7ca92?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The equal-weight version of the S&P 500 just booked its longest streak of monthly gains since 2021.",
+      "summary_en": "Why small caps just might be the stock market&#x2019;s new &#x201c;Magnificent Seven.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -120,18 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T22:45:00.000Z",
-      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
-      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
