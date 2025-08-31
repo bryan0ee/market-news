@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-08-31T10:39:41.331Z",
+  "last_updated": "2025-08-31T13:24:55.317Z",
   "items": [
+    {
+      "ts": "2025-08-31T13:11:00.000Z",
+      "headline": "My friend, 61, signed a $20K contract for dental implants. She can&#x2019;t afford it. Can she fight it?",
+      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-31T12:27:00.000Z",
+      "headline": "Is the stock market open tomorrow for Labor Day? Does the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The end-of-summer holiday is upon us, so be prepared for plenty of closings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-31T10:06:00.000Z",
       "headline": "Taylor Swift doesn&#x2019;t need your prenup advice &#x2014; so why do so many lawyers still give it?",
@@ -12,6 +36,42 @@
         "ED"
       ],
       "summary_en": "The queen of pop is the &#x201c;Magnificent Seven&#x201d; of tech stocks rolled into one global superstar.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-31T12:00:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in September 2025 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2025-on-netflix-hulu-hbo-max-and-more-b2d86a1f?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "New seasons of &#x2018;Only Murders in the Building&#x2019; and &#x2018;Slow Horses&#x2019; are can&#x2019;t-miss picks, while Hulu&#x2019;s &#x2018;The Lowdown&#x2019; and HBO&#x2019;s &#x2018;Task&#x2019; warrant a look",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-31T12:10:00.000Z",
+      "headline": "&#x2018;I&#x2019;m asking for a friend&#x2019;: Will the IRS write off $60,000 lost in a romance phishing scam?",
+      "url": "https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;The bank did try to stop them from executing the transfers.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-31T11:00:00.000Z",
+      "headline": "My husband and I are giving my sister $30K each year. Will we owe the IRS gift tax?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-giving-my-sister-30k-each-year-will-we-owe-the-irs-gift-tax-551f701a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We do not see eye to eye on using paper checks.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -40,7 +100,7 @@
     },
     {
       "ts": "2025-08-30T18:55:00.000Z",
-      "headline": "Feeling Powerball fever as the jackpot hits $1 billion? This former lottery addict who lost around $1 million has a warning for you.",
+      "headline": "Feeling Powerball fever as the jackpot hits $1.1 billion? This former lottery addict who lost around $1 million has a warning for you.",
       "url": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -64,55 +124,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-30T18:16:00.000Z",
-      "headline": "This healthcare benefit provides a triple tax advantage &#x2014; but many employees don&#x2019;t use it",
-      "url": "https://www.marketwatch.com/story/this-healthcare-benefit-offers-a-triple-tax-advantage-but-many-employees-dont-use-it-87e942f0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Health Savings Accounts combine federal tax-deductible contributions with tax-free growth and tax-free medical withdrawals.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-30T17:49:00.000Z",
-      "headline": "What&#x2019;s next in the legal fight between Fed governor Lisa Cook and President Trump",
-      "url": "https://www.marketwatch.com/story/whats-next-in-the-legal-fight-between-fed-governor-lisa-cook-and-president-trump-1f11f058?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve governor Lisa Cook and the Trump administration had their day in court Friday &#x2014; but all parties will have to wait longer for a ruling in a case that could have serious implications for the central bank&#x2019;s independence.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-30T17:46:00.000Z",
-      "headline": "Why do so many investors think the stock market is forming a bubble?",
-      "url": "https://www.marketwatch.com/story/why-do-so-many-investors-think-the-stock-market-is-forming-a-bubble-ebefa529?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A big increase in predictions that a bubble is about to burst actually makes it less likely that one will, contrarians say",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-30T17:14:00.000Z",
-      "headline": "I&#x2019;m the co-CEO of an $800 billion investment firm. Here&#x2019;s why I need a financial adviser.",
-      "url": "https://www.marketwatch.com/story/im-the-co-ceo-of-an-800-billion-investment-firm-heres-why-i-need-a-financial-adviser-2c42f015?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "An adviser should be your portfolio&#x2019;s general manager, coach and star player. What does that make you? The team owner.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-08-29T20:00:00.000Z",
       "headline": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250829a.htm",
@@ -122,18 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-30T17:17:00.000Z",
-      "headline": "TikTok calls her &#x2018;32 pizzas mom.&#x2019; What her videos can teach us about how we spend money.",
-      "url": "https://www.marketwatch.com/story/tiktok-calls-her-32-pizzas-mom-what-her-videos-can-teach-us-about-how-we-spend-money-102cce4d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A $500 grocery-haul video has gone viral for sparking a conversation about when stocking up on groceries might go too far",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
