@@ -1,6 +1,31 @@
 {
-  "last_updated": "2025-08-30T23:24:35.030Z",
+  "last_updated": "2025-08-31T10:39:41.331Z",
   "items": [
+    {
+      "ts": "2025-08-31T10:06:00.000Z",
+      "headline": "Taylor Swift doesn&#x2019;t need your prenup advice &#x2014; so why do so many lawyers still give it?",
+      "url": "https://www.marketwatch.com/story/taylor-swift-doesnt-need-our-financial-advice-so-why-does-she-get-so-much-of-it-ef0aefa8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The queen of pop is the &#x201c;Magnificent Seven&#x201d; of tech stocks rolled into one global superstar.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-08-31T10:30:00.000Z",
+      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
+      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-08-30T19:44:00.000Z",
       "headline": "&#x2018;Everyone was grieving&#x2019;: Did my wife&#x2019;s brothers cheat her out of her inheritance? There&#x2019;s a condo and $550K at stake.",
@@ -88,15 +113,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-08-30T16:43:00.000Z",
-      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
-      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
+      "ts": "2025-08-29T20:00:00.000Z",
+      "headline": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250829a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
+      "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -109,30 +134,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "A $500 grocery-haul video has gone viral for sparking a conversation about when stocking up on groceries might go too far",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-30T16:41:00.000Z",
-      "headline": "The small-cap rally is real. Here are five stocks to consider owning right now.",
-      "url": "https://www.marketwatch.com/story/why-small-caps-just-might-be-the-stock-markets-new-magnificent-seven-a9b57b32?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Why small caps just might be the stock market&#x2019;s new &#x201c;Magnificent Seven.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T20:00:00.000Z",
-      "headline": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250829a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
