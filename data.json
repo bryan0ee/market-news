@@ -1,8 +1,45 @@
 {
-  "last_updated": "2025-09-01T13:31:16.278Z",
+  "last_updated": "2025-09-01T23:25:16.804Z",
   "items": [
     {
-      "ts": "2025-09-01T13:00:00.000Z",
+      "ts": "2025-09-01T23:16:00.000Z",
+      "headline": "Gold prices hit all-time high on rising uncertainty, while U.S. stock futures little changed",
+      "url": "https://www.marketwatch.com/story/gold-prices-hit-all-time-high-on-rising-uncertainty-while-u-s-stock-futures-little-changed-2a6eb69b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock futures were flat Monday while gold futures hit a new all-time high, amid uncertainty around the Fed&#x2019;s independence and the Trump administration&#x2019;s tariffs, as well as rising optimism about potential interest-rate cuts.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T23:00:00.000Z",
+      "headline": "&#x2018;My blood pressure is sky high&#x2019;: I&#x2019;m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
+      "url": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;What if I become cognitively impaired and need benefits for 15-20 years?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T22:40:00.000Z",
+      "headline": "We&#x2019;re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?",
+      "url": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Our adjusted gross income was $160,000 last year. We both also have fairly good health insurance..&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T21:50:00.000Z",
       "headline": "September is historically the worst month of the year for stocks. Why this time could be different.",
       "url": "https://www.marketwatch.com/story/september-is-historically-the-worst-month-of-the-year-for-stocks-why-this-time-could-be-different-cd7260f5?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,44 +51,20 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T12:47:00.000Z",
-      "headline": "Europe&#x2019;s central bank boss joins warnings about threat to Fed&#x2019;s independence from White House &#x2018;intervention&#x2019;",
-      "url": "https://www.marketwatch.com/story/europes-central-bank-boss-joins-warnings-about-threat-to-feds-independence-from-white-house-intervention-d4eb9a8e?mod=mw_rss_topstories",
+      "ts": "2025-09-01T20:11:00.000Z",
+      "headline": "Nestl&#xe9; fires CEO Laurent Freixe after less than a year over workplace affair",
+      "url": "https://www.marketwatch.com/story/nestle-fires-ceo-laurent-freixe-after-less-than-a-year-over-workplace-affair-977566b4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Economists in FT poll fret that the U.S. central bank is being compromised.",
+      "summary_en": "Nestl&#xe9; SA has its third chief executive in little more than a year, after the Swiss-based food conglomerate fired CEO Laurent Freixe on Monday due to an improper romantic relationship with a subordinate.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T12:45:00.000Z",
-      "headline": "Is the stock market open tomorrow for Labor Day? Does the post office deliver mail?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The end-of-summer holiday is upon us, so be prepared for plenty of closings.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-01T10:46:00.000Z",
-      "headline": "Gold futures rise to record high on Fed concerns, rate cut expectations",
-      "url": "https://www.marketwatch.com/story/gold-futures-rise-to-record-high-on-fed-concerns-rate-cut-expectations-96cf3577?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Gold futures rise to record high on Fed concerns, rate cut expectations",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-01T10:12:00.000Z",
-      "headline": "This Wall St heavyweight predicts interest rates could go even lower than markets think",
+      "ts": "2025-09-01T19:22:00.000Z",
+      "headline": "This Wall Street heavyweight predicts interest rates could go even lower than markets think",
       "url": "https://www.marketwatch.com/story/this-wall-st-heavyweight-predicts-interest-rates-could-go-even-lower-than-markets-think-879a4748?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -62,7 +75,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T10:23:00.000Z",
+      "ts": "2025-09-01T18:00:00.000Z",
+      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
+      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T19:10:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in September 2025 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2025-on-netflix-hulu-hbo-max-and-more-b2d86a1f?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "New seasons of &#x2018;Only Murders in the Building&#x2019; and &#x2018;Slow Horses&#x2019; are can&#x2019;t-miss picks, while Hulu&#x2019;s &#x2018;The Lowdown&#x2019; and HBO&#x2019;s &#x2018;Task&#x2019; warrant a look",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T19:15:00.000Z",
       "headline": "This &#x2018;twice in a lifetime&#x2019; opportunity means the S&P 500 can hit 7,750 by end of next year",
       "url": "https://www.marketwatch.com/story/this-twice-in-a-lifetime-opportunity-means-the-s-p-500-can-hit-7-750-by-end-of-next-year-0c3a8957?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -74,51 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T07:23:00.000Z",
-      "headline": "BYD&#x2019;s shares sharply lower after China EV maker&#x2019;s earnings miss",
-      "url": "https://www.marketwatch.com/story/byd-s-shares-sharply-lower-after-earnings-miss-3df796c9?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "BYD&#x2019;s shares sharply lower after China EV maker&#x2019;s earnings miss",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-01T06:56:00.000Z",
-      "headline": "Indonesia&#x2019;s political unrest roils stock, currency markets",
-      "url": "https://www.marketwatch.com/story/indonesia-s-political-unrest-roils-stock-currency-markets-2e173ed7?mod=mw_rss_topstories",
+      "ts": "2025-09-01T15:30:00.000Z",
+      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
+      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Indonesia&#x2019;s political unrest roils stock, currency markets",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-31T16:19:00.000Z",
-      "headline": "Feeling Powerball fever as the jackpot hits $1.1 billion? This former lottery addict who lost around $1 million has a warning for you.",
-      "url": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Adam Osmond gambled away a fortune on lottery games, but he eventually sought help.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-31T16:00:00.000Z",
-      "headline": "Why investors should brace for &#x2018;extreme sensitivity&#x2019; in the stock market around this week&#x2019;s jobs data",
-      "url": "https://www.marketwatch.com/story/why-investors-should-brace-for-extreme-sensitivity-in-the-stock-market-around-this-weeks-jobs-data-b3430779?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors will be watching how labor-market data influences the Fed&#x2019;s rate-cutting path.",
+      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
