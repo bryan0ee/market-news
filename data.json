@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-09-01T10:45:06.697Z",
+  "last_updated": "2025-09-01T13:31:16.278Z",
   "items": [
+    {
+      "ts": "2025-09-01T13:00:00.000Z",
+      "headline": "September is historically the worst month of the year for stocks. Why this time could be different.",
+      "url": "https://www.marketwatch.com/story/september-is-historically-the-worst-month-of-the-year-for-stocks-why-this-time-could-be-different-cd7260f5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "September has long carried a reputation as the most challenging month of the year for U.S. stocks &#x2014; marked by seasonal weakness and a higher likelihood of volatility after the quiet summer months.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T12:47:00.000Z",
+      "headline": "Europe&#x2019;s central bank boss joins warnings about threat to Fed&#x2019;s independence from White House &#x2018;intervention&#x2019;",
+      "url": "https://www.marketwatch.com/story/europes-central-bank-boss-joins-warnings-about-threat-to-feds-independence-from-white-house-intervention-d4eb9a8e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Economists in FT poll fret that the U.S. central bank is being compromised.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T12:45:00.000Z",
+      "headline": "Is the stock market open tomorrow for Labor Day? Does the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The end-of-summer holiday is upon us, so be prepared for plenty of closings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T10:46:00.000Z",
+      "headline": "Gold futures rise to record high on Fed concerns, rate cut expectations",
+      "url": "https://www.marketwatch.com/story/gold-futures-rise-to-record-high-on-fed-concerns-rate-cut-expectations-96cf3577?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Gold futures rise to record high on Fed concerns, rate cut expectations",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-01T10:12:00.000Z",
       "headline": "This Wall St heavyweight predicts interest rates could go even lower than markets think",
@@ -71,54 +119,6 @@
         "ED"
       ],
       "summary_en": "Investors will be watching how labor-market data influences the Fed&#x2019;s rate-cutting path.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-31T14:12:00.000Z",
-      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
-      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-31T13:35:00.000Z",
-      "headline": "We&#x2019;re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?",
-      "url": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our adjusted gross income was $160,000 last year. We both also have fairly good health insurance..&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-31T13:11:00.000Z",
-      "headline": "My friend, 61, signed a $20K contract for dental implants. She can&#x2019;t afford it. Can she fight it?",
-      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-31T12:27:00.000Z",
-      "headline": "Is the stock market open tomorrow for Labor Day? Does the post office deliver mail?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The end-of-summer holiday is upon us, so be prepared for plenty of closings.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
