@@ -1,32 +1,44 @@
 {
-  "last_updated": "2025-09-02T13:31:53.156Z",
+  "last_updated": "2025-09-02T23:23:19.387Z",
   "items": [
     {
-      "ts": "2025-09-02T13:15:00.000Z",
-      "headline": "Beer sales have dropped off. Modelo and Corona parent&#x2019;s stock dives to a 5-year low.",
-      "url": "https://www.marketwatch.com/story/beer-sales-have-dropped-off-modelo-and-corona-parents-stock-dives-to-a-5-year-low-46dae0cc?mod=mw_rss_topstories",
+      "ts": "2025-09-02T23:12:00.000Z",
+      "headline": "Activist Elliott wants PepsiCo to emulate Coke&#x2019;s playbook. This is why.",
+      "url": "https://www.marketwatch.com/story/activist-elliott-wants-pepsico-to-emulate-cokes-playbook-this-is-why-b09b6fc1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of Constellation Brands, parent of Corona and Modelo beer, sank to a five-year low after a profit and sales warning.",
+      "summary_en": "Activist Elliott Investment Management has amassed a $4 billion stake in PepsiCo and wants the consumer-goods giant to take a leaf out of Coca-Cola&#x2019;s book.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T13:05:00.000Z",
-      "headline": "Big Warren Buffett&#x2013;backed merger calls it quits as Kraft Heinz announces breakup",
-      "url": "https://www.marketwatch.com/story/big-warren-buffettbacked-merger-calls-it-quits-as-kraft-heinz-announces-breakup-34b4f68c?mod=mw_rss_topstories",
+      "ts": "2025-09-02T21:21:00.000Z",
+      "headline": "Alphabet&#x2019;s stock is rising after Google antitrust ruling avoids the worst-case scenario",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-is-rising-after-google-antitrust-ruling-avoids-the-worst-case-scenario-39d1c284?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL"
+      ],
+      "summary_en": "Google can keep its Chrome browser, but must end exclusive contracts in search and some other businesses.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-02T20:38:00.000Z",
+      "headline": "Intel&#x2019;s management must now make decisive changes &#x2014; or Trump will do it for them",
+      "url": "https://www.marketwatch.com/story/intels-management-must-now-make-decisive-changes-or-trump-will-do-it-for-them-2f22df42?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shareholders of the Berkshire Hathaway&#x2013;backed food giant will get shares in two publicly traded food companies to be named at a later date",
+      "summary_en": "Intel&#x2019;s self-inflicted wounds and mismanagement weakened its position and set the stage for the U.S. government&#x2019;s equity stake.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T12:48:00.000Z",
+      "ts": "2025-09-02T20:28:00.000Z",
       "headline": "Dr. Oz is saving the government more money than Elon Musk and &#x2018;DOGE&#x2019; ever did",
       "url": "https://www.marketwatch.com/story/dr-oz-is-saving-the-government-more-money-than-elon-musk-and-doge-ever-did-385f9a59?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -39,67 +51,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T12:37:00.000Z",
-      "headline": "Feeling Powerball fever as the jackpot hits $1.3 billion? This former lottery addict who lost around $1 million has a warning for you.",
-      "url": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
+      "ts": "2025-09-02T22:05:00.000Z",
+      "headline": "Treasury market comes under fire as September bond supply gives investors choices",
+      "url": "https://www.marketwatch.com/story/treasury-market-comes-under-fire-as-september-bond-supply-gives-investors-choices-ab6c1d80?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Adam Osmond gambled away a fortune on lottery games, but he eventually sought help.",
+      "summary_en": "The 30-year Treasury yield is back on the doorstep of 5% as global government bonds selloff",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T12:24:00.000Z",
-      "headline": "Intel&#x2019;s management must now make decisive changes &#x2014; or Trump will do it for them",
-      "url": "https://www.marketwatch.com/story/intels-management-must-now-make-decisive-changes-or-trump-will-do-it-for-them-2f22df42?mod=mw_rss_topstories",
+      "ts": "2025-09-02T21:46:00.000Z",
+      "headline": "Is your job among the &#x2018;no tax on tips&#x2019; winners? Here&#x2019;s how to make sure you qualify.",
+      "url": "https://www.marketwatch.com/story/is-your-job-among-the-no-tax-on-tips-winners-heres-how-to-make-sure-you-qualify-4081df66?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Intel&#x2019;s self-inflicted wounds and mismanagement weakened its position and set the stage for the U.S. government&#x2019;s equity stake.",
+      "summary_en": "A draft list of qualifying occupations indicates tax officials are taking a broad look at who counts as &#x201c;customarily and regularly&#x201d; getting a tip.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T12:23:00.000Z",
-      "headline": "It&#x2019;s easier than ever to earn $100,000 a year without a four-year degree. Here are 20 careers to consider.",
-      "url": "https://www.marketwatch.com/story/its-easier-than-ever-to-earn-100k-without-a-four-year-degree-just-ask-an-elevator-repairman-ec459d10?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A new study spotlights a number of jobs where workers can make $100,000-plus without having college credentials.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-02T12:21:00.000Z",
-      "headline": "Gold&#x2019;s true value is how useless it is to other markets, says this storied hedge fund",
-      "url": "https://www.marketwatch.com/story/this-storied-hedge-fund-says-golds-true-value-is-how-useless-it-is-to-other-markets-f8cf6191?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "How a hedge-fund giant determines gold&#x2019;s value, given that it could become worthless one day.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-02T12:19:00.000Z",
-      "headline": "The stock market still hasn&#x2019;t priced in the positive impact from interest-rate cuts, says Morgan Stanley&#x2019;s Mike Wilson",
-      "url": "https://www.marketwatch.com/story/the-stock-market-still-hasnt-priced-in-the-positive-impact-from-interest-rate-cuts-says-morgan-stanleys-mike-wilson-82dc0039?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Stocks to to perform strongly during the rate-cutting cycle",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-02T12:36:00.000Z",
+      "ts": "2025-09-02T20:29:00.000Z",
       "headline": "This one move could give Trump a win on global tariffs &#x2014; and calm the bond market",
       "url": "https://www.marketwatch.com/story/this-one-move-could-give-trump-a-win-on-global-tariffs-and-calm-the-bond-market-23bc9675?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -111,8 +87,20 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T12:30:00.000Z",
-      "headline": "Stock traders&#x2019; six favorite AI tools fare 10% worse than the S&P 500",
+      "ts": "2025-09-02T21:21:00.000Z",
+      "headline": "CoreWeave&#x2019;s stock slides as insider selling sparks investor concerns",
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-slides-as-insider-selling-sparks-investor-concerns-fef032fe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Shares of the cloud-computing company fall sharply as top executives, including the CEO and its largest shareholder, Magnetar Financial, sell millions in stock following a lockup expiration",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-02T20:36:00.000Z",
+      "headline": "Stock investors&#x2019; favorite AI tools are faring much worse than the S&P 500",
       "url": "https://www.marketwatch.com/story/ai-can-do-a-lot-of-things-like-tearing-down-your-stock-portfolio-and-adding-risk-795d37cb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -120,6 +108,18 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Artificial intelligence can do a lot of things &#x2014; like tearing down your stock portfolio and adding risk.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-02T20:28:00.000Z",
+      "headline": "&#x2018;I&#x2019;m asking for a friend&#x2019;: Will the IRS write off $60,000 lost in a romance phishing scam?",
+      "url": "https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;The bank did try to stop them from executing the transfers.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,18 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-26T18:00:00.000Z",
-      "headline": "Minutes of the Board's discount rate meetings on July 21 and July 30, 2025",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250826a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Minutes of the Board&#39;s discount rate meetings on July 21 and July 30, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
