@@ -1,57 +1,56 @@
 {
-  "last_updated": "2025-09-01T23:25:16.804Z",
+  "last_updated": "2025-09-02T10:43:51.826Z",
   "items": [
     {
-      "ts": "2025-09-01T23:16:00.000Z",
-      "headline": "Gold prices hit all-time high on rising uncertainty, while U.S. stock futures little changed",
-      "url": "https://www.marketwatch.com/story/gold-prices-hit-all-time-high-on-rising-uncertainty-while-u-s-stock-futures-little-changed-2a6eb69b?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-09-02T10:34:00.000Z",
+      "headline": "Treasury yields jump as U.K. government bonds are the latest casualty of budget deficit angst",
+      "url": "https://www.marketwatch.com/story/treasury-yields-jump-as-u-k-government-bonds-are-the-latest-casualty-of-budget-deficit-angst-caf90313?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. long bond yield near 5% as budget deficit concerns are revived",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-02T10:25:00.000Z",
+      "headline": "&#x2018;Her kids will have no inheritance&#x2019;: Will my friend lose her house to Medicaid if she goes into a nursing home?",
+      "url": "https://www.marketwatch.com/story/her-kids-will-have-no-inheritance-will-my-friend-lose-her-house-to-medicaid-if-she-goes-into-a-nursing-home-e65e2ce4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She would like to leave her kids something after she dies.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-02T10:00:00.000Z",
+      "headline": "Retirees are told to &#x2018;work longer&#x2019; to make ends meet. But what if the jobs disappear?",
+      "url": "https://www.marketwatch.com/story/retirees-are-told-to-work-longer-to-make-ends-meet-but-what-if-the-jobs-disappear-60889716?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. stock futures were flat Monday while gold futures hit a new all-time high, amid uncertainty around the Fed&#x2019;s independence and the Trump administration&#x2019;s tariffs, as well as rising optimism about potential interest-rate cuts.",
+      "summary_en": "Here are three ways to deal with losing expected income in retirement.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T23:00:00.000Z",
-      "headline": "&#x2018;My blood pressure is sky high&#x2019;: I&#x2019;m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
-      "url": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;What if I become cognitively impaired and need benefits for 15-20 years?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-01T22:40:00.000Z",
-      "headline": "We&#x2019;re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?",
-      "url": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
+      "ts": "2025-09-02T09:01:00.000Z",
+      "headline": "Katy Perry&#x2019;s court testimony confirms her ex, Orlando Bloom, is real owner of Montecito mansion",
+      "url": "https://www.marketwatch.com/story/katy-perrys-court-testimony-confirms-her-ex-orlando-bloom-is-real-owner-of-montecito-mansion-4aed2bfe?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Our adjusted gross income was $160,000 last year. We both also have fairly good health insurance..&#x201d;",
+      "summary_en": "Katy Perry&#xa0;testified in the yearslong legal fight with an ailing Army veteran over the purchase of his $15 million&#xa0;Montecito, Calif., mansion.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T21:50:00.000Z",
-      "headline": "September is historically the worst month of the year for stocks. Why this time could be different.",
-      "url": "https://www.marketwatch.com/story/september-is-historically-the-worst-month-of-the-year-for-stocks-why-this-time-could-be-different-cd7260f5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "September has long carried a reputation as the most challenging month of the year for U.S. stocks &#x2014; marked by seasonal weakness and a higher likelihood of volatility after the quiet summer months.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-01T20:11:00.000Z",
+      "ts": "2025-09-02T07:03:00.000Z",
       "headline": "Nestl&#xe9; fires CEO Laurent Freixe after less than a year over workplace affair",
       "url": "https://www.marketwatch.com/story/nestle-fires-ceo-laurent-freixe-after-less-than-a-year-over-workplace-affair-977566b4?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -63,63 +62,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T19:22:00.000Z",
-      "headline": "This Wall Street heavyweight predicts interest rates could go even lower than markets think",
-      "url": "https://www.marketwatch.com/story/this-wall-st-heavyweight-predicts-interest-rates-could-go-even-lower-than-markets-think-879a4748?mod=mw_rss_topstories",
+      "ts": "2025-09-02T09:45:00.000Z",
+      "headline": "&#x2018;We own our home&#x2019;: I&#x2019;m 70 and have $2.6 million for retirement. Is 80% in equities too risky?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-im-70-and-have-2-6-million-for-retirement-is-80-in-equities-too-risky-85b895d4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Morgan Stanley thinks the markets aren&#x2019;t taking risks of a real slowdown seriously enough.",
+      "summary_en": "&#x201c;We have been living primarily off my pensions, but plan on big family trips soon.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T18:00:00.000Z",
-      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
-      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
+      "ts": "2025-09-02T08:58:00.000Z",
+      "headline": "Bill Belichick finds a buyer in just 5 days for $3.9 million Nantucket beach cottage",
+      "url": "https://www.marketwatch.com/story/bill-belichick-finds-a-buyer-in-just-5-days-for-3-9-million-nantucket-beach-cottage-1a182256?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
+      "summary_en": "Legendary Patriots head coach Bill Belichick has found a buyer for his sprawling beachfront Massachusetts cottage.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T19:10:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in September 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2025-on-netflix-hulu-hbo-max-and-more-b2d86a1f?mod=mw_rss_topstories",
+      "ts": "2025-09-02T03:01:00.000Z",
+      "headline": "Gold hits new high on rising uncertainty, while U.S. stock futures little changed",
+      "url": "https://www.marketwatch.com/story/gold-prices-hit-all-time-high-on-rising-uncertainty-while-u-s-stock-futures-little-changed-2a6eb69b?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "New seasons of &#x2018;Only Murders in the Building&#x2019; and &#x2018;Slow Horses&#x2019; are can&#x2019;t-miss picks, while Hulu&#x2019;s &#x2018;The Lowdown&#x2019; and HBO&#x2019;s &#x2018;Task&#x2019; warrant a look",
+      "summary_en": "U.S. stock-market futures were flat Monday while gold futures hit a new all-time high, amid uncertainty around the Fed&#x2019;s independence and the Trump administration&#x2019;s tariffs, as well as rising optimism about potential interest-rate cuts.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T19:15:00.000Z",
-      "headline": "This &#x2018;twice in a lifetime&#x2019; opportunity means the S&P 500 can hit 7,750 by end of next year",
-      "url": "https://www.marketwatch.com/story/this-twice-in-a-lifetime-opportunity-means-the-s-p-500-can-hit-7-750-by-end-of-next-year-0c3a8957?mod=mw_rss_topstories",
+      "ts": "2025-09-01T23:56:00.000Z",
+      "headline": "Only a really big jobs report might stop the Fed from cutting interest rates. Don&#x2019;t count on it.",
+      "url": "https://www.marketwatch.com/story/only-a-really-big-jobs-report-might-stop-the-fed-from-cutting-interest-rates-dont-count-on-it-451eb83f?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "A structural tech-driven bull market has much further to go says Evercore&#x2019;s Emanuel.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-01T15:30:00.000Z",
-      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
-      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
+      "summary_en": "Hiring has slowed sharply this year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,6 +119,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-01T23:30:00.000Z",
+      "headline": "My husband and I are giving my sister $30K each year. Will we owe the IRS gift tax?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-giving-my-sister-30k-each-year-will-we-owe-the-irs-gift-tax-551f701a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We do not see eye to eye on using paper checks.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
