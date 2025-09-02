@@ -1,112 +1,125 @@
 {
-  "last_updated": "2025-09-02T10:43:51.826Z",
+  "last_updated": "2025-09-02T13:31:53.156Z",
   "items": [
     {
-      "ts": "2025-09-02T10:34:00.000Z",
-      "headline": "Treasury yields jump as U.K. government bonds are the latest casualty of budget deficit angst",
-      "url": "https://www.marketwatch.com/story/treasury-yields-jump-as-u-k-government-bonds-are-the-latest-casualty-of-budget-deficit-angst-caf90313?mod=mw_rss_topstories",
+      "ts": "2025-09-02T13:15:00.000Z",
+      "headline": "Beer sales have dropped off. Modelo and Corona parent&#x2019;s stock dives to a 5-year low.",
+      "url": "https://www.marketwatch.com/story/beer-sales-have-dropped-off-modelo-and-corona-parents-stock-dives-to-a-5-year-low-46dae0cc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. long bond yield near 5% as budget deficit concerns are revived",
+      "summary_en": "Shares of Constellation Brands, parent of Corona and Modelo beer, sank to a five-year low after a profit and sales warning.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T10:25:00.000Z",
-      "headline": "&#x2018;Her kids will have no inheritance&#x2019;: Will my friend lose her house to Medicaid if she goes into a nursing home?",
-      "url": "https://www.marketwatch.com/story/her-kids-will-have-no-inheritance-will-my-friend-lose-her-house-to-medicaid-if-she-goes-into-a-nursing-home-e65e2ce4?mod=mw_rss_topstories",
+      "ts": "2025-09-02T13:05:00.000Z",
+      "headline": "Big Warren Buffett&#x2013;backed merger calls it quits as Kraft Heinz announces breakup",
+      "url": "https://www.marketwatch.com/story/big-warren-buffettbacked-merger-calls-it-quits-as-kraft-heinz-announces-breakup-34b4f68c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;She would like to leave her kids something after she dies.&#x201d;",
+      "summary_en": "Shareholders of the Berkshire Hathaway&#x2013;backed food giant will get shares in two publicly traded food companies to be named at a later date",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T10:00:00.000Z",
-      "headline": "Retirees are told to &#x2018;work longer&#x2019; to make ends meet. But what if the jobs disappear?",
-      "url": "https://www.marketwatch.com/story/retirees-are-told-to-work-longer-to-make-ends-meet-but-what-if-the-jobs-disappear-60889716?mod=mw_rss_topstories",
+      "ts": "2025-09-02T12:48:00.000Z",
+      "headline": "Dr. Oz is saving the government more money than Elon Musk and &#x2018;DOGE&#x2019; ever did",
+      "url": "https://www.marketwatch.com/story/dr-oz-is-saving-the-government-more-money-than-elon-musk-and-doge-ever-did-385f9a59?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Trump&#x2019;s Medicare and Medicaid chief cracks down on payment practices and insurance companies &#x2014; but costs are still rising.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-02T12:37:00.000Z",
+      "headline": "Feeling Powerball fever as the jackpot hits $1.3 billion? This former lottery addict who lost around $1 million has a warning for you.",
+      "url": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Adam Osmond gambled away a fortune on lottery games, but he eventually sought help.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-02T12:24:00.000Z",
+      "headline": "Intel&#x2019;s management must now make decisive changes &#x2014; or Trump will do it for them",
+      "url": "https://www.marketwatch.com/story/intels-management-must-now-make-decisive-changes-or-trump-will-do-it-for-them-2f22df42?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Intel&#x2019;s self-inflicted wounds and mismanagement weakened its position and set the stage for the U.S. government&#x2019;s equity stake.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-02T12:23:00.000Z",
+      "headline": "It&#x2019;s easier than ever to earn $100,000 a year without a four-year degree. Here are 20 careers to consider.",
+      "url": "https://www.marketwatch.com/story/its-easier-than-ever-to-earn-100k-without-a-four-year-degree-just-ask-an-elevator-repairman-ec459d10?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Here are three ways to deal with losing expected income in retirement.",
+      "summary_en": "A new study spotlights a number of jobs where workers can make $100,000-plus without having college credentials.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T09:01:00.000Z",
-      "headline": "Katy Perry&#x2019;s court testimony confirms her ex, Orlando Bloom, is real owner of Montecito mansion",
-      "url": "https://www.marketwatch.com/story/katy-perrys-court-testimony-confirms-her-ex-orlando-bloom-is-real-owner-of-montecito-mansion-4aed2bfe?mod=mw_rss_topstories",
+      "ts": "2025-09-02T12:21:00.000Z",
+      "headline": "Gold&#x2019;s true value is how useless it is to other markets, says this storied hedge fund",
+      "url": "https://www.marketwatch.com/story/this-storied-hedge-fund-says-golds-true-value-is-how-useless-it-is-to-other-markets-f8cf6191?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Katy Perry&#xa0;testified in the yearslong legal fight with an ailing Army veteran over the purchase of his $15 million&#xa0;Montecito, Calif., mansion.",
+      "summary_en": "How a hedge-fund giant determines gold&#x2019;s value, given that it could become worthless one day.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T07:03:00.000Z",
-      "headline": "Nestl&#xe9; fires CEO Laurent Freixe after less than a year over workplace affair",
-      "url": "https://www.marketwatch.com/story/nestle-fires-ceo-laurent-freixe-after-less-than-a-year-over-workplace-affair-977566b4?mod=mw_rss_topstories",
+      "ts": "2025-09-02T12:19:00.000Z",
+      "headline": "The stock market still hasn&#x2019;t priced in the positive impact from interest-rate cuts, says Morgan Stanley&#x2019;s Mike Wilson",
+      "url": "https://www.marketwatch.com/story/the-stock-market-still-hasnt-priced-in-the-positive-impact-from-interest-rate-cuts-says-morgan-stanleys-mike-wilson-82dc0039?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Nestl&#xe9; SA has its third chief executive in little more than a year, after the Swiss-based food conglomerate fired CEO Laurent Freixe on Monday due to an improper romantic relationship with a subordinate.",
+      "summary_en": "Stocks to to perform strongly during the rate-cutting cycle",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-02T09:45:00.000Z",
-      "headline": "&#x2018;We own our home&#x2019;: I&#x2019;m 70 and have $2.6 million for retirement. Is 80% in equities too risky?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-im-70-and-have-2-6-million-for-retirement-is-80-in-equities-too-risky-85b895d4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We have been living primarily off my pensions, but plan on big family trips soon.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-02T08:58:00.000Z",
-      "headline": "Bill Belichick finds a buyer in just 5 days for $3.9 million Nantucket beach cottage",
-      "url": "https://www.marketwatch.com/story/bill-belichick-finds-a-buyer-in-just-5-days-for-3-9-million-nantucket-beach-cottage-1a182256?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Legendary Patriots head coach Bill Belichick has found a buyer for his sprawling beachfront Massachusetts cottage.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-02T03:01:00.000Z",
-      "headline": "Gold hits new high on rising uncertainty, while U.S. stock futures little changed",
-      "url": "https://www.marketwatch.com/story/gold-prices-hit-all-time-high-on-rising-uncertainty-while-u-s-stock-futures-little-changed-2a6eb69b?mod=mw_rss_topstories",
+      "ts": "2025-09-02T12:36:00.000Z",
+      "headline": "This one move could give Trump a win on global tariffs &#x2014; and calm the bond market",
+      "url": "https://www.marketwatch.com/story/this-one-move-could-give-trump-a-win-on-global-tariffs-and-calm-the-bond-market-23bc9675?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "U.S. stock-market futures were flat Monday while gold futures hit a new all-time high, amid uncertainty around the Fed&#x2019;s independence and the Trump administration&#x2019;s tariffs, as well as rising optimism about potential interest-rate cuts.",
+      "summary_en": "A bipartisan congressional bill would impose a 10% minimum tariff &#x2014; with stiffer rates for China.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-01T23:56:00.000Z",
-      "headline": "Only a really big jobs report might stop the Fed from cutting interest rates. Don&#x2019;t count on it.",
-      "url": "https://www.marketwatch.com/story/only-a-really-big-jobs-report-might-stop-the-fed-from-cutting-interest-rates-dont-count-on-it-451eb83f?mod=mw_rss_topstories",
+      "ts": "2025-09-02T12:30:00.000Z",
+      "headline": "Stock traders&#x2019; six favorite AI tools fare 10% worse than the S&P 500",
+      "url": "https://www.marketwatch.com/story/ai-can-do-a-lot-of-things-like-tearing-down-your-stock-portfolio-and-adding-risk-795d37cb?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Hiring has slowed sharply this year.",
+      "summary_en": "Artificial intelligence can do a lot of things &#x2014; like tearing down your stock portfolio and adding risk.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,18 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-01T23:30:00.000Z",
-      "headline": "My husband and I are giving my sister $30K each year. Will we owe the IRS gift tax?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-giving-my-sister-30k-each-year-will-we-owe-the-irs-gift-tax-551f701a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We do not see eye to eye on using paper checks.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
