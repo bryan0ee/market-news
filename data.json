@@ -1,6 +1,93 @@
 {
-  "last_updated": "2025-09-03T10:41:41.147Z",
+  "last_updated": "2025-09-03T13:29:18.123Z",
   "items": [
+    {
+      "ts": "2025-09-03T12:58:00.000Z",
+      "headline": "Campbell&#x2019;s tops earnings forecast as cost-conscious consumers continue to cook at home",
+      "url": "https://www.marketwatch.com/story/campbells-tops-earnings-forecast-as-cost-conscious-consumers-continue-to-cook-at-home-ac1090be?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Campbell&#x2019;s stock rallies as the continued consumer trend of cooking from home helped fuel a profit beat.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-03T12:55:00.000Z",
+      "headline": "14 stocks of companies that could benefit from Trump&#x2019;s state capitalism",
+      "url": "https://www.marketwatch.com/story/14-stocks-of-companies-that-could-benefit-from-trumps-state-capitalism-66681cc2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Companies that already receive a lot of federal money might wind up having even closer ties to the government.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-03T11:50:00.000Z",
+      "headline": "Tariff-triggered price hikes upset consumers &#x2014; but who gets the blame?",
+      "url": "https://www.marketwatch.com/story/tariff-triggered-price-hikes-upset-consumers-but-who-gets-the-blame-2dc8d454?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "What people are told about the reasons behind rising costs influences how they react.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-03T12:15:00.000Z",
+      "headline": "Palantir and these companies trade more on hope than earnings can justify",
+      "url": "https://www.marketwatch.com/story/the-companies-where-investors-have-the-highest-hopes-and-dreams-have-some-predictable-and-surprising-results-52166843?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The hopes-and-dreams methodology shows that something has changed over the last decade and a half &#x2014; and that U.S. valuations look particularly stretched.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-03T12:04:00.000Z",
+      "headline": "Fed September meeting watch: Can Lisa Cook still vote and will Trump&#x2019;s new nominee be on the board?",
+      "url": "https://www.marketwatch.com/story/fed-september-meeting-watch-can-lisa-cook-still-vote-and-will-trumps-new-nominee-be-on-the-board-8e9ac671?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Cook is fighting Trump&#x2019;s decision to fire her in court. Meanwhile, the president&#x2019;s nominee for a Fed board seat will go before the Senate this week.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-03T13:16:00.000Z",
+      "headline": "Dollar Tree says higher-income customers are still driving its growth. But the stock is tumbling.",
+      "url": "https://www.marketwatch.com/story/dollar-trees-stock-rallies-after-a-big-earnings-beat-as-people-shopped-and-spent-more-77ac7ca6?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Off-price retailer Dollar Tree gave a downbeat outlook for the current quarter, despite raising its full-year outlook.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-03T12:50:00.000Z",
+      "headline": "It&#x2019;s time to face the ugly truth: American consumers have been gloomy for quite some time",
+      "url": "https://www.marketwatch.com/story/its-time-to-face-the-truth-american-consumers-have-been-gloomy-for-quite-some-time-4bdbd04d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "One day, we have swagger. The next day, we&#x2019;re cautious. Suddenly, we&#x2019;re thrifty again.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-03T09:45:00.000Z",
       "headline": "After my father died, my stepsister transferred assets into her name. Do I have any legal recourse?",
@@ -14,75 +101,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-03T08:58:00.000Z",
-      "headline": "&#x2018;She helped put me in the position I am in now&#x2019;: Packers rookie Matthew Golden surprises his grandmother with a new Houston house",
-      "url": "https://www.marketwatch.com/story/she-helped-put-me-in-the-position-i-am-in-now-packers-rookie-matthew-golden-surprises-his-grandmother-with-a-new-houston-house-61c0783d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Green Bay Packers&#xa0;rookie&#xa0;Matthew Golden&#xa0;has revealed that he achieved his lifelong goal of buying his grandmother a home.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-03T08:27:00.000Z",
-      "headline": "&#x2018;Her kids will have no inheritance&#x2019;: Will my friend lose her house to Medicaid if she goes into a nursing home?",
-      "url": "https://www.marketwatch.com/story/her-kids-will-have-no-inheritance-will-my-friend-lose-her-house-to-medicaid-if-she-goes-into-a-nursing-home-e65e2ce4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She would like to leave her kids something after she dies.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-03T09:45:00.000Z",
-      "headline": "It&#x2019;s time to face the truth: American consumers have been gloomy for quite some time",
-      "url": "https://www.marketwatch.com/story/its-time-to-face-the-truth-american-consumers-have-been-gloomy-for-quite-some-time-4bdbd04d?mod=mw_rss_topstories",
+      "ts": "2025-09-03T12:35:00.000Z",
+      "headline": "Macy&#x2019;s stock rises after same-store sales see first growth since 2022",
+      "url": "https://www.marketwatch.com/story/macys-stock-rises-after-same-store-sales-sees-first-growth-since-2022-c5615570?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "One day, we have swagger. The next day, we&#x2019;re cautious. Then we&#x2019;re thrifty again.",
+      "summary_en": "Sales rise at the 125 stores in Macy&#x2019;s reimagine network, as well as Bluemercury and Bloomingdale&#x2019;s locations.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-03T09:38:00.000Z",
-      "headline": "The worst decade ever for government bonds, just got worse again.",
-      "url": "https://www.marketwatch.com/story/the-worst-decade-ever-for-government-bonds-just-got-worse-again-f9cee356?mod=mw_rss_topstories",
+      "ts": "2025-09-03T11:04:00.000Z",
+      "headline": "I&#x2019;m 70 and have $2.6 million for retirement. Is 80% in equities too risky?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-im-70-and-have-2-6-million-for-retirement-is-80-in-equities-too-risky-85b895d4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Bond markets across the world remain under pressure,.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-02T23:28:00.000Z",
-      "headline": "Alphabet and Apple stocks rally after Google antitrust ruling avoids the worst-case scenario",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-is-rising-after-google-antitrust-ruling-avoids-the-worst-case-scenario-39d1c284?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL"
-      ],
-      "summary_en": "Google can keep its Chrome browser and continue to enter in revenue-sharing agreements for Apple, but must end exclusive contracts in search and some other businesses.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-02T23:12:00.000Z",
-      "headline": "Activist Elliott wants PepsiCo to emulate Coke&#x2019;s playbook. This is why.",
-      "url": "https://www.marketwatch.com/story/activist-elliott-wants-pepsico-to-emulate-cokes-playbook-this-is-why-b09b6fc1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Activist Elliott Investment Management has amassed a $4 billion stake in PepsiCo and wants the consumer-goods giant to take a leaf out of Coca-Cola&#x2019;s book.",
+      "summary_en": "&#x201c;We have been living primarily off my pensions, but plan on big family trips soon.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -95,42 +134,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-03T01:34:00.000Z",
-      "headline": "CoreWeave&#x2019;s stock slides as insider selling sparks investor concerns",
-      "url": "https://www.marketwatch.com/story/coreweaves-stock-slides-as-insider-selling-sparks-investor-concerns-fef032fe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Shares of the cloud-computing company fall sharply as top executives, including the CEO and its largest shareholder, Magnetar Financial, sell millions in stock following a lockup expiration",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-03T00:22:00.000Z",
-      "headline": "With the traditional mix of stocks and bonds now riskier, here are ways to diversify, says BlackRock",
-      "url": "https://www.marketwatch.com/story/with-the-traditional-mix-of-stocks-and-bonds-now-riskier-here-are-ways-to-diversify-says-blackrock-b3c06314?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The profile of traditional investment portfolios has become more volatile, necessitating a rethink around allocations, according to BlackRock.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-02T22:05:00.000Z",
-      "headline": "Treasury market comes under fire as September bond supply gives investors choices",
-      "url": "https://www.marketwatch.com/story/treasury-market-comes-under-fire-as-september-bond-supply-gives-investors-choices-ab6c1d80?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The 30-year Treasury yield is back on the doorstep of 5% as global government bonds selloff",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
