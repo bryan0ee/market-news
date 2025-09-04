@@ -1,6 +1,126 @@
 {
-  "last_updated": "2025-09-04T10:41:17.389Z",
+  "last_updated": "2025-09-04T13:28:54.577Z",
   "items": [
+    {
+      "ts": "2025-09-04T13:21:00.000Z",
+      "headline": "Is Honeywell a quantum-computing stock now? There&#x2019;s a new link to Nvidia.",
+      "url": "https://www.marketwatch.com/story/is-honeywell-a-quantum-computing-stock-now-theres-a-new-link-to-nvidia-a55d54f3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Nvidia&#x2019;s VC arm was among the participants in a recently announced capital raise for Quantinuum, which is Honeywell&#x2019;s quantum-computing business.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T12:22:00.000Z",
+      "headline": "&#x2018;She&#x2019;s a very proud woman:&#x2019; My mother, 81, discovered her &#x2018;millions&#x2019; in investments are gone. What can I do?",
+      "url": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Before this happened, she gave me $50,000 to buy a new vehicle.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T12:21:00.000Z",
+      "headline": "ADP says just 54,000 private jobs created in August. Businesses still hesitant to hire.",
+      "url": "https://www.marketwatch.com/story/adp-says-just-54-000-private-jobs-created-in-august-businesses-still-hesitant-to-hire-d9a58ff5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Privately run businesses created just 54,000 jobs in August, ADP said, extending a string of poor employment reports that have raised alarms about the labor market and are likely to spur the Federal Reserve to cut interest rates soon.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T12:17:00.000Z",
+      "headline": "$5,000 gold and other trades that Goldman, JPMorgan say may be coming if the market loses faith in the Fed",
+      "url": "https://www.marketwatch.com/story/5-000-gold-and-other-trades-that-goldman-jpmorgan-say-may-be-coming-if-the-market-loses-faith-in-the-fed-db9bdda7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors should diversify into commodities as inflation concerns build",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T12:13:00.000Z",
+      "headline": "Paying an AI engineer more than NBA superstar Stephen Curry? That&#x2019;s a bubble ready to pop.",
+      "url": "https://www.marketwatch.com/story/paying-an-ai-engineer-more-than-nba-superstar-stephen-curry-thats-a-bubble-ready-to-pop-6426ecbd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE"
+      ],
+      "summary_en": "Mark Zuckerberg and other AI boosters show they&#x2019;re players by spending money &#x2014; not by making profits.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T12:05:00.000Z",
+      "headline": "Denial is driving the stock market higher &#x2014; but tariffs will soon take their toll",
+      "url": "https://www.marketwatch.com/story/denial-is-driving-the-stock-market-higher-but-tariffs-will-soon-take-their-toll-aa20da33?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The truth about tariffs? They&#x2019;ll hit company profits or bring us higher inflation &#x2014; maybe both.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T13:01:00.000Z",
+      "headline": "Jobless claims rise to highest level since June, adding to concerns about labor market",
+      "url": "https://www.marketwatch.com/story/jobless-claims-rise-to-highest-level-since-june-adding-to-concern-over-labor-market-9db0859b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "What worries policymakers is that the labor market tends to weaken quickly once layoffs commence.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T12:27:00.000Z",
+      "headline": "More people earning over $100,000 are doing their back-to-school and holiday shopping at Dollar General and Dollar Tree these days. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/more-people-earning-over-100-000-are-doing-their-back-to-school-and-holiday-shopping-at-dollar-general-and-dollar-tree-these-days-heres-why-9f74654a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Higher-income customers are boosting the performance of discount retailers Dollar Tree and Dollar General.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T12:15:00.000Z",
+      "headline": "5 money moves to make if you win the $1.7 billion Powerball jackpot &#x2014; or get any kind of financial windfall",
+      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The lessons of managing a significant sum can also apply to plenty of other investors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T11:50:00.000Z",
+      "headline": "Why the world&#x2019;s bankers are ghosting Treasurys for gold &#x2014; and what it means for your 401(k)",
+      "url": "https://www.marketwatch.com/story/why-central-banks-are-ghosting-treasurys-for-gold-and-what-it-means-for-your-401-k-eec0cbb9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It isn&#x2019;t so hard to break up with the U.S. dollar, after all.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-03T15:00:00.000Z",
       "headline": "Federal Reserve Board announces it will host a conference on payments innovation on Tuesday, October 21",
