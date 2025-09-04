@@ -1,20 +1,69 @@
 {
-  "last_updated": "2025-09-04T13:28:54.577Z",
+  "last_updated": "2025-09-04T23:24:56.543Z",
   "items": [
     {
-      "ts": "2025-09-04T13:21:00.000Z",
-      "headline": "Is Honeywell a quantum-computing stock now? There&#x2019;s a new link to Nvidia.",
-      "url": "https://www.marketwatch.com/story/is-honeywell-a-quantum-computing-stock-now-theres-a-new-link-to-nvidia-a55d54f3?mod=mw_rss_topstories",
+      "ts": "2025-09-04T22:50:00.000Z",
+      "headline": "Broadcom gives Wall Street plenty of reason to cheer, and its stock moves higher",
+      "url": "https://www.marketwatch.com/story/broadcom-sees-63-growth-in-ai-sales-and-gives-a-rosy-forecast-why-isnt-its-stock-rising-more-e2c79ebe?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Not only did Broadcom&#x2019;s outlook beat expectations, but the company announced a new large AI customer and CEO Hock Tan said he&#x2019;s sticking around in that job until at least 2030.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T22:31:00.000Z",
+      "headline": "Lululemon says it has gotten &#x2018;too predictable,&#x2019; as tariffs, outlook sink its stock",
+      "url": "https://www.marketwatch.com/story/lululemons-shares-slide-as-retailer-cuts-outlook-amid-industry-wide-challenges-b84253c5?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Shares of Lululemon Athletica Inc. tumbled after hours on Thursday after the yoga-wear maker cut its full-year outlook, citing costs related to U.S. tariffs on imports.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T23:22:00.000Z",
+      "headline": "After my father died, my stepsister transferred assets into her name. Do I have any legal recourse?",
+      "url": "https://www.marketwatch.com/story/after-my-father-died-my-stepsister-transferred-assets-into-her-name-do-i-have-any-legal-recourse-9d7bb6ff?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Nvidia&#x2019;s VC arm was among the participants in a recently announced capital raise for Quantinuum, which is Honeywell&#x2019;s quantum-computing business.",
+      "summary_en": "&#x201c;Since my dad died, I&#x2019;ve been able to get just one box of personal mementos and some family possessions.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-04T12:22:00.000Z",
+      "ts": "2025-09-04T22:50:00.000Z",
+      "headline": "&#x2018;Her kids will have no inheritance&#x2019;: Will my friend lose her house to Medicaid if she goes into a nursing home?",
+      "url": "https://www.marketwatch.com/story/her-kids-will-have-no-inheritance-will-my-friend-lose-her-house-to-medicaid-if-she-goes-into-a-nursing-home-e65e2ce4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She would like to leave her kids something after she dies.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T22:47:00.000Z",
+      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
+      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T22:13:00.000Z",
       "headline": "&#x2018;She&#x2019;s a very proud woman:&#x2019; My mother, 81, discovered her &#x2018;millions&#x2019; in investments are gone. What can I do?",
       "url": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,99 +75,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-04T12:21:00.000Z",
-      "headline": "ADP says just 54,000 private jobs created in August. Businesses still hesitant to hire.",
-      "url": "https://www.marketwatch.com/story/adp-says-just-54-000-private-jobs-created-in-august-businesses-still-hesitant-to-hire-d9a58ff5?mod=mw_rss_topstories",
+      "ts": "2025-09-04T22:10:00.000Z",
+      "headline": "S&P 500 books record as falling rates bring &#x2018;relief&#x2019; &#x2014; but beware the &#x2018;tale of two bond markets&#x2019;",
+      "url": "https://www.marketwatch.com/story/s-p-500-books-record-as-falling-rates-bring-relief-but-beware-the-tale-of-two-bond-markets-73165c57?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Privately run businesses created just 54,000 jobs in August, ADP said, extending a string of poor employment reports that have raised alarms about the labor market and are likely to spur the Federal Reserve to cut interest rates soon.",
+      "summary_en": "Interest rates in the bond market have retreated this week as investors anticipate the Fed may soon cut rates &#x2014; but their recent behavior also suggests worries over risks such as inflation.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-04T12:17:00.000Z",
-      "headline": "$5,000 gold and other trades that Goldman, JPMorgan say may be coming if the market loses faith in the Fed",
-      "url": "https://www.marketwatch.com/story/5-000-gold-and-other-trades-that-goldman-jpmorgan-say-may-be-coming-if-the-market-loses-faith-in-the-fed-db9bdda7?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "ts": "2025-09-04T20:58:00.000Z",
+      "headline": "Costco&#x2019;s monthly sales are on a roll, thanks to surge in online orders",
+      "url": "https://www.marketwatch.com/story/costcos-monthly-sales-are-on-a-roll-thanks-to-surge-in-online-orders-483ac7b1?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Costco puts to rest, at least for now, concerns about a sales slowdown.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T22:30:00.000Z",
+      "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
+      "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We want to invest the money and play catch up with our retirement savings/funding.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T21:03:00.000Z",
+      "headline": "5 ways the Trump administration could use declaring a national housing emergency to help home buyers",
+      "url": "https://www.marketwatch.com/story/5-ways-the-trump-administration-could-use-declaring-a-national-housing-emergency-to-help-home-buyers-4543abbe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The Trump administration says it&#x2019;s considering declaring a housing emergency. Here&#x2019;s what that could mean, and how it could impact the average renter and home buyer.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-04T15:00:00.000Z",
+      "headline": "Federal Reserve Board announces termination of enforcement action with Société Générale S.A. and Société Générale New York Branch",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250904a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors should diversify into commodities as inflation concerns build",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T12:13:00.000Z",
-      "headline": "Paying an AI engineer more than NBA superstar Stephen Curry? That&#x2019;s a bubble ready to pop.",
-      "url": "https://www.marketwatch.com/story/paying-an-ai-engineer-more-than-nba-superstar-stephen-curry-thats-a-bubble-ready-to-pop-6426ecbd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE"
-      ],
-      "summary_en": "Mark Zuckerberg and other AI boosters show they&#x2019;re players by spending money &#x2014; not by making profits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T12:05:00.000Z",
-      "headline": "Denial is driving the stock market higher &#x2014; but tariffs will soon take their toll",
-      "url": "https://www.marketwatch.com/story/denial-is-driving-the-stock-market-higher-but-tariffs-will-soon-take-their-toll-aa20da33?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The truth about tariffs? They&#x2019;ll hit company profits or bring us higher inflation &#x2014; maybe both.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T13:01:00.000Z",
-      "headline": "Jobless claims rise to highest level since June, adding to concerns about labor market",
-      "url": "https://www.marketwatch.com/story/jobless-claims-rise-to-highest-level-since-june-adding-to-concern-over-labor-market-9db0859b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "What worries policymakers is that the labor market tends to weaken quickly once layoffs commence.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T12:27:00.000Z",
-      "headline": "More people earning over $100,000 are doing their back-to-school and holiday shopping at Dollar General and Dollar Tree these days. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/more-people-earning-over-100-000-are-doing-their-back-to-school-and-holiday-shopping-at-dollar-general-and-dollar-tree-these-days-heres-why-9f74654a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Higher-income customers are boosting the performance of discount retailers Dollar Tree and Dollar General.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T12:15:00.000Z",
-      "headline": "5 money moves to make if you win the $1.7 billion Powerball jackpot &#x2014; or get any kind of financial windfall",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The lessons of managing a significant sum can also apply to plenty of other investors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T11:50:00.000Z",
-      "headline": "Why the world&#x2019;s bankers are ghosting Treasurys for gold &#x2014; and what it means for your 401(k)",
-      "url": "https://www.marketwatch.com/story/why-central-banks-are-ghosting-treasurys-for-gold-and-what-it-means-for-your-401-k-eec0cbb9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "It isn&#x2019;t so hard to break up with the U.S. dollar, after all.",
+      "summary_en": "Federal Reserve Board announces termination of enforcement action with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Soci&eacute;t&eacute; G&eacute;n&eacute;rale New York Branch",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
