@@ -1,44 +1,44 @@
 {
-  "last_updated": "2025-09-05T13:28:35.705Z",
+  "last_updated": "2025-09-05T23:24:53.855Z",
   "items": [
     {
-      "ts": "2025-09-05T13:25:00.000Z",
-      "headline": "Here&#x2019;s what Elon Musk must do to become a Tesla trillionaire",
-      "url": "https://www.marketwatch.com/story/teslas-proposes-paying-elon-musk-a-package-valued-at-88-billion-if-he-adds-7-5-trillion-in-value-0fb222f8?mod=mw_rss_topstories",
+      "ts": "2025-09-05T22:42:00.000Z",
+      "headline": "Robinhood finally gets a place in the S&P 500. These other stocks will join as well.",
+      "url": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-and-this-could-be-a-big-update-7dfb8e8b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Tesla proposes a $1 trillion pay package for Elon Musk, if can stay focused on adding $7.5 trillion to the company&#x2019;s value.",
+      "summary_en": "AppLovin and Emcor were also tapped to join the benchmark index later this month, as MarketAxess, Caesars and Enphase get the boot.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T12:58:00.000Z",
-      "headline": "It&#x2019;s not just Lisa Cook in hot water over second homes. U.K. deputy prime minister quits over tax issue.",
-      "url": "https://www.marketwatch.com/story/its-not-just-lisa-cook-in-hot-water-over-second-home-u-k-deputy-prime-minister-quits-over-tax-issue-c505b578?mod=mw_rss_topstories",
+      "ts": "2025-09-05T21:37:00.000Z",
+      "headline": "Kenvue fights back against RFK Jr.&#x2019;s Tylenol safety concerns as its stock tumbles",
+      "url": "https://www.marketwatch.com/story/kenvue-fights-back-against-tylenol-safety-concerns-as-its-stock-tumbles-236cdbe1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Angela Rayner reportedly failed to properly pay stamp duty on second home.",
+      "summary_en": "Kenvue rushed to the defense of Tylenol, but the stock still suffered a record selloff on news that RFK Jr. will release a report linking the use of acetaminophen during pregnancy to autism.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T12:34:00.000Z",
-      "headline": "U.S. unemployment rate jumps to nearly 4-year high. Weak 22,000 increase in August jobs report tees up Fed rate cut.",
-      "url": "https://www.marketwatch.com/story/jobs-report-shows-22-000-gain-in-august-and-unemployment-hits-nearly-4-year-high-weak-hiring-tees-up-fed-rate-cut-51a22218?mod=mw_rss_topstories",
+      "ts": "2025-09-05T21:36:00.000Z",
+      "headline": "How you can still get a refund for a delayed or canceled flight even as Trump scraps Biden&#x2019;s airline compensation proposal",
+      "url": "https://www.marketwatch.com/story/how-you-can-still-get-a-refund-for-a-delayed-or-canceled-flight-even-as-trump-scraps-bidens-airline-compensation-proposal-38b28011?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The economy added a lackluster 22,000 new jobs in August and the unemployment rate rose to a nearly four-year high, underscoring the increasing fragility of the U.S. labor market.",
+      "summary_en": "The Trump administration this week said it will reverse plans to require airlines to compensate passengers for lengthy delays and cancellations, a move consumer advocates say is likely the first of many to weaken protections for travelers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T12:15:00.000Z",
+      "ts": "2025-09-05T21:06:00.000Z",
       "headline": "Treasury bonds aren&#x2019;t the safe haven they&#x2019;ve been in the past &#x2014; and taxpayers will pay a price",
       "url": "https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,76 +50,87 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T11:14:00.000Z",
-      "headline": "Looking through to 2027, UBS upgrades &#x2018;quality compounder&#x2019; ASML to buy",
-      "url": "https://www.marketwatch.com/story/looking-through-to-2027-ubs-upgrades-quality-compounder-asml-to-buy-8a6213ec?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "PG"
-      ],
-      "summary_en": "UBS analysts recommend investors focus on the 20% eps CAGR ASML is expected to deliver between 2027 and 2030",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T11:05:00.000Z",
-      "headline": "My mother, 81, discovered her &#x2018;millions&#x2019; in investments are gone. What can I do?",
-      "url": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
+      "ts": "2025-09-05T20:30:00.000Z",
+      "headline": "OPEC+ meets this weekend at a precarious time for crude oil. Here&#x2019;s what&#x2019;s at stake.",
+      "url": "https://www.marketwatch.com/story/opec-meets-this-weekend-at-a-precarious-time-for-crude-oil-heres-whats-at-stake-a8379d98?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;She&#x2019;s a very proud woman.&#x201d;",
+      "summary_en": "The market has a lot to contend with as OPEC+ considers a second round of production hikes this weekend, against an economic and geopolitical backdrop that&#x2019;s dimmed prospects for demand and boosted the potential for a supply surplus this year and next.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T11:03:00.000Z",
-      "headline": "Americans are supposed to be eternally optimistic. Was that ever true?&#xa0;",
-      "url": "https://www.marketwatch.com/story/its-time-to-face-the-truth-american-consumers-have-been-gloomy-for-quite-some-time-4bdbd04d?mod=mw_rss_topstories",
+      "ts": "2025-09-05T20:19:00.000Z",
+      "headline": "10-year Treasury tumbles to early April low as weak jobs report raises chances of a half-point Fed rate cut",
+      "url": "https://www.marketwatch.com/story/bond-yields-tumble-as-weak-jobs-report-raises-chances-of-a-half-point-fed-rate-cut-996d8abb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Longer-term Treasury yields look like a safety play for the first time since April&#x2019;s market shock.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T20:09:00.000Z",
+      "headline": "Why AMD&#x2019;s stock just saw one of the worst drops in the S&P 500 on Friday",
+      "url": "https://www.marketwatch.com/story/why-amds-stock-is-seeing-one-of-the-worst-drops-in-the-s-p-500-today-55cded85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD"
+      ],
+      "summary_en": "AMD offers a GPU alternative to Nvidia, but it seems like hyperscalers are paying more attention to custom chips made by Broadcom.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T19:52:00.000Z",
+      "headline": "Lululemon&#x2019;s style refresh is met with Wall Street skepticism. &#x2018;It&#x2019;s going to get worse,&#x2019; analyst says.",
+      "url": "https://www.marketwatch.com/story/lululemons-style-refresh-is-met-with-wall-street-skepticism-its-going-to-get-worse-analyst-says-9c60c0a8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "One day, we have swagger. The next day, we&#x2019;re cautious. Suddenly, we&#x2019;re thrifty again.",
+      "summary_en": "The retailer&#x2019;s gym- and yoga-clothing revamp isn&#x2019;t expected to take hold until the spring of 2026 or later &#x2014; and its shares are on pace for their lowest close in over five years.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T12:34:00.000Z",
-      "headline": "Nvidia stock has been in something of a rut. One analyst says the price could double.",
-      "url": "https://www.marketwatch.com/story/nvidia-stock-has-been-in-something-of-a-rut-one-analyst-says-the-price-could-double-2b2de407?mod=mw_rss_topstories",
+      "ts": "2025-09-05T19:14:00.000Z",
+      "headline": "&#x2018;This is to gain control of the most powerful agency in government&#x2019;: A look at Treasury Secretary Bessent&#x2019;s essay against the Fed",
+      "url": "https://www.marketwatch.com/story/this-is-to-gain-control-of-the-most-powerful-agency-in-government-a-look-at-treasury-secretary-bessents-essay-against-the-fed-7a964a92?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bessent wants to set up an independent review that would result in a much smaller central bank.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T17:30:00.000Z",
+      "headline": "Federal Open Market Committee announces its tentative meeting schedule for 2027",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Open Market Committee announces its tentative meeting schedule for 2027",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T20:24:00.000Z",
+      "headline": "401(k) millionaires reach an all-time high. Here&#x2019;s the No. 1 thing most Gen Xers and boomers did to get there.",
+      "url": "https://www.marketwatch.com/story/401-k-millionaires-reach-an-all-time-high-heres-the-no-1-thing-most-gen-xers-and-boomers-did-to-get-there-6935ea47?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Analyst says Wall Street is underestimating future data-center revenue for chip giant",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T11:46:00.000Z",
-      "headline": "Weight loss has become the hottest new Chinese consumer craze",
-      "url": "https://www.marketwatch.com/story/weight-loss-has-become-the-hottest-new-chinese-consumer-craze-4d9d70fb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A wellness boom is reshaping China, from gyms and diet apps to new injectable drugs &#x2014; and spending habits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T11:30:00.000Z",
-      "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
-      "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We want to invest the money and play catch up with our retirement savings/funding.&#x201d;",
+      "summary_en": "From the dot-com crash to reaching millionaire status, these savers were in the market for the long haul.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will host a conference on payments innovation on Tuesday, October 21",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-08-29T20:00:00.000Z",
-      "headline": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250829a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces final individual capital requirements for large banks, effective on October 1",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
