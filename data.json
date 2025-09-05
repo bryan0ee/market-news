@@ -1,8 +1,69 @@
 {
-  "last_updated": "2025-09-04T23:24:56.543Z",
+  "last_updated": "2025-09-05T10:41:47.464Z",
   "items": [
     {
-      "ts": "2025-09-04T22:50:00.000Z",
+      "ts": "2025-09-05T09:03:00.000Z",
+      "headline": "Star Island mansion once owned by Rosie O&#x2019;Donnell sells for $36 million after huge price drop",
+      "url": "https://www.marketwatch.com/story/star-island-mansion-once-owned-by-rosie-odonnell-sells-for-36-million-after-huge-price-drop-c14de5e1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Rosie O&#x2019;Donnell&#x2019;s former Miami home has sold for a staggering $36 million to the billionaire founder of Rockstar Energy Drink.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T09:00:00.000Z",
+      "headline": "N.Y. townhouse of late Ivana Trump gets another price cut: It&#x2019;s now listed for $17.9 million",
+      "url": "https://www.marketwatch.com/story/n-y-townhouse-of-late-ivana-trump-gets-another-price-cut-its-now-listed-for-17-9-million-0973d7c4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The late&#xa0;Ivana Trump&#x2019;s residence has taken yet another price decrease, with it now listed for $17.9 million&#x2014;a staggering $8.6 million difference from its original listing price.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T10:34:00.000Z",
+      "headline": "Nvidia stock has been in something of a rut. One analyst says the price could double.",
+      "url": "https://www.marketwatch.com/story/nvidia-stock-has-been-in-something-of-a-rut-one-analyst-says-the-price-could-double-2b2de407?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Analyst says Wall Street is underestimating future data-center revenue for chip giant",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T07:14:00.000Z",
+      "headline": "Crunch time for Argentina as local elections this weekend represent referendum on Milei",
+      "url": "https://www.marketwatch.com/story/crunch-time-for-argentina-as-local-elections-this-weekend-represent-referendum-on-milei-23c32dba?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "A lot is riding on Sunday&#x2019;s provincial elections: markets need reassurance of continuity in Milei&#x2019;s reform agenda.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T09:39:00.000Z",
+      "headline": "My friend and her husband own property. How do her kids get their fair share?",
+      "url": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-property-how-do-her-kids-get-their-fair-share-fe064f39?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;They are joint tenants with the right of survivorship.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T00:15:00.000Z",
       "headline": "Broadcom gives Wall Street plenty of reason to cheer, and its stock moves higher",
       "url": "https://www.marketwatch.com/story/broadcom-sees-63-growth-in-ai-sales-and-gives-a-rosy-forecast-why-isnt-its-stock-rising-more-e2c79ebe?mod=mw_rss_topstories",
       "impact": "Bullish",
@@ -14,7 +75,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-04T22:31:00.000Z",
+      "ts": "2025-09-05T00:15:00.000Z",
       "headline": "Lululemon says it has gotten &#x2018;too predictable,&#x2019; as tariffs, outlook sink its stock",
       "url": "https://www.marketwatch.com/story/lululemons-shares-slide-as-retailer-cuts-outlook-amid-industry-wide-challenges-b84253c5?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -27,6 +88,30 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-09-04T23:28:00.000Z",
+      "headline": "NFL fans can stream all games this season for the first time &#x2014; and could end up paying less to do so",
+      "url": "https://www.marketwatch.com/story/nfl-fans-can-stream-all-games-this-season-for-the-first-time-and-could-end-up-paying-less-to-do-so-5fbe6a42?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "NFL games have long been the bastion of traditional linear TV, but for the first time this season, almost all NFL games can be watched on streaming platforms.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T02:23:00.000Z",
+      "headline": "This group could put a stop to crypto and private equity in your 401(k)",
+      "url": "https://www.marketwatch.com/story/401-k-plans-are-opening-to-private-equity-and-crypto-but-this-group-could-put-a-stop-to-it-8602693a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The value of private equity and crypto coming to plans depends on whom you ask.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-09-04T23:22:00.000Z",
       "headline": "After my father died, my stepsister transferred assets into her name. Do I have any legal recourse?",
       "url": "https://www.marketwatch.com/story/after-my-father-died-my-stepsister-transferred-assets-into-her-name-do-i-have-any-legal-recourse-9d7bb6ff?mod=mw_rss_topstories",
@@ -36,90 +121,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;Since my dad died, I&#x2019;ve been able to get just one box of personal mementos and some family possessions.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T22:50:00.000Z",
-      "headline": "&#x2018;Her kids will have no inheritance&#x2019;: Will my friend lose her house to Medicaid if she goes into a nursing home?",
-      "url": "https://www.marketwatch.com/story/her-kids-will-have-no-inheritance-will-my-friend-lose-her-house-to-medicaid-if-she-goes-into-a-nursing-home-e65e2ce4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She would like to leave her kids something after she dies.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T22:47:00.000Z",
-      "headline": "I am a 65-year-old single woman with 25 credit cards. How do I cancel them without hurting my credit score?",
-      "url": "https://www.marketwatch.com/story/i-am-a-65-year-old-single-woman-with-25-credit-cards-how-do-i-cancel-them-without-hurting-my-credit-score-bd9fe4c7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I pay them off each month if I use them and don&#x2019;t run a balance.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T22:13:00.000Z",
-      "headline": "&#x2018;She&#x2019;s a very proud woman:&#x2019; My mother, 81, discovered her &#x2018;millions&#x2019; in investments are gone. What can I do?",
-      "url": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Before this happened, she gave me $50,000 to buy a new vehicle.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T22:10:00.000Z",
-      "headline": "S&P 500 books record as falling rates bring &#x2018;relief&#x2019; &#x2014; but beware the &#x2018;tale of two bond markets&#x2019;",
-      "url": "https://www.marketwatch.com/story/s-p-500-books-record-as-falling-rates-bring-relief-but-beware-the-tale-of-two-bond-markets-73165c57?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Interest rates in the bond market have retreated this week as investors anticipate the Fed may soon cut rates &#x2014; but their recent behavior also suggests worries over risks such as inflation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T20:58:00.000Z",
-      "headline": "Costco&#x2019;s monthly sales are on a roll, thanks to surge in online orders",
-      "url": "https://www.marketwatch.com/story/costcos-monthly-sales-are-on-a-roll-thanks-to-surge-in-online-orders-483ac7b1?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Costco puts to rest, at least for now, concerns about a sales slowdown.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T22:30:00.000Z",
-      "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
-      "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We want to invest the money and play catch up with our retirement savings/funding.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-04T21:03:00.000Z",
-      "headline": "5 ways the Trump administration could use declaring a national housing emergency to help home buyers",
-      "url": "https://www.marketwatch.com/story/5-ways-the-trump-administration-could-use-declaring-a-national-housing-emergency-to-help-home-buyers-4543abbe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The Trump administration says it&#x2019;s considering declaring a housing emergency. Here&#x2019;s what that could mean, and how it could impact the average renter and home buyer.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
