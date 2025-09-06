@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-09-05T23:24:53.855Z",
+  "last_updated": "2025-09-06T10:38:20.103Z",
   "items": [
+    {
+      "ts": "2025-09-06T09:32:00.000Z",
+      "headline": "My friend married for a second time. Will the kids from her first marriage lose their inheritance?",
+      "url": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-property-how-do-her-kids-get-their-fair-share-fe064f39?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Her husband wants to be the administrator of their trust.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-05T22:42:00.000Z",
       "headline": "Robinhood finally gets a place in the S&P 500. These other stocks will join as well.",
@@ -98,18 +110,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T19:14:00.000Z",
-      "headline": "&#x2018;This is to gain control of the most powerful agency in government&#x2019;: A look at Treasury Secretary Bessent&#x2019;s essay against the Fed",
-      "url": "https://www.marketwatch.com/story/this-is-to-gain-control-of-the-most-powerful-agency-in-government-a-look-at-treasury-secretary-bessents-essay-against-the-fed-7a964a92?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bessent wants to set up an independent review that would result in a much smaller central bank.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-05T17:30:00.000Z",
       "headline": "Federal Open Market Committee announces its tentative meeting schedule for 2027",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm",
@@ -119,18 +119,6 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee announces its tentative meeting schedule for 2027",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T20:24:00.000Z",
-      "headline": "401(k) millionaires reach an all-time high. Here&#x2019;s the No. 1 thing most Gen Xers and boomers did to get there.",
-      "url": "https://www.marketwatch.com/story/401-k-millionaires-reach-an-all-time-high-heres-the-no-1-thing-most-gen-xers-and-boomers-did-to-get-there-6935ea47?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "From the dot-com crash to reaching millionaire status, these savers were in the market for the long haul.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,6 +143,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will host a conference on payments innovation on Tuesday, October 21",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-05T20:24:00.000Z",
+      "headline": "401(k) millionaires reach an all-time high. Here&#x2019;s the No. 1 thing most Gen Xers and boomers did to get there.",
+      "url": "https://www.marketwatch.com/story/401-k-millionaires-reach-an-all-time-high-heres-the-no-1-thing-most-gen-xers-and-boomers-did-to-get-there-6935ea47?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "From the dot-com crash to reaching millionaire status, these savers were in the market for the long haul.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
