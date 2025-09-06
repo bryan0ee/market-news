@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-09-06T10:38:20.103Z",
+  "last_updated": "2025-09-06T13:22:01.821Z",
   "items": [
+    {
+      "ts": "2025-09-06T10:44:00.000Z",
+      "headline": "My mother, 81, discovered her &#x2018;millions&#x2019; in investments are gone. What can I do?",
+      "url": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She&#x2019;s a very proud woman.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-06T13:00:00.000Z",
+      "headline": "Apple&#x2019;s iPhone events have been unimpressive lately. Will this year be the exception?",
+      "url": "https://www.marketwatch.com/story/apples-iphone-events-have-been-unimpressive-lately-will-this-year-be-the-exception-b77d8193?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The tech giant&#x2019;s stock usually slumps after its big hardware reveals. But some on Wall Street believe a thin new iPhone could help Apple break the pattern.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-06T09:32:00.000Z",
       "headline": "My friend married for a second time. Will the kids from her first marriage lose their inheritance?",
@@ -11,6 +35,54 @@
         "ED"
       ],
       "summary_en": "&#x201c;Her husband wants to be the administrator of their trust.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-06T12:00:00.000Z",
+      "headline": "From bad to worse? Another big jobs report is coming up &#x2014; and it probably won&#x2019;t look good either.",
+      "url": "https://www.marketwatch.com/story/from-bad-to-worse-another-big-jobs-report-is-coming-up-and-it-probably-wont-look-good-either-d0b3a0aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Don&#x2019;t look now, but another big jobs report is coming out in just a few more days &#x2014; one that most people have never heard of. And the news probably won&#x2019;t be good.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-06T11:58:00.000Z",
+      "headline": "America&#x2019;s key lenders are snubbing Treasurys for gold &#x2014; putting your 401(k) at risk. Here&#x2019;s what to do now.",
+      "url": "https://www.marketwatch.com/story/why-central-banks-are-ghosting-treasurys-for-gold-and-what-it-means-for-your-401-k-eec0cbb9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It isn&#x2019;t so hard to break up with the U.S. dollar, after all. These 3 steps are a good start.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-06T10:42:00.000Z",
+      "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
+      "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We want to invest the money and play catch up with our retirement savings/funding.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-06T10:41:00.000Z",
+      "headline": "&#x2018;It&#x2019;s time to face the ugly truth&#x2019;: The American consumer&#x2019;s mood changes like the weather. What&#x2019;s going on?",
+      "url": "https://www.marketwatch.com/story/its-time-to-face-the-truth-american-consumers-have-been-gloomy-for-quite-some-time-4bdbd04d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "One day, we have swagger. The next day, we&#x2019;re cautious. Suddenly, we&#x2019;re thrifty again.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -50,66 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T21:06:00.000Z",
-      "headline": "Treasury bonds aren&#x2019;t the safe haven they&#x2019;ve been in the past &#x2014; and taxpayers will pay a price",
-      "url": "https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S. government faces hundreds of billions of dollars in additional interest payments",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T20:30:00.000Z",
-      "headline": "OPEC+ meets this weekend at a precarious time for crude oil. Here&#x2019;s what&#x2019;s at stake.",
-      "url": "https://www.marketwatch.com/story/opec-meets-this-weekend-at-a-precarious-time-for-crude-oil-heres-whats-at-stake-a8379d98?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The market has a lot to contend with as OPEC+ considers a second round of production hikes this weekend, against an economic and geopolitical backdrop that&#x2019;s dimmed prospects for demand and boosted the potential for a supply surplus this year and next.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T20:19:00.000Z",
-      "headline": "10-year Treasury tumbles to early April low as weak jobs report raises chances of a half-point Fed rate cut",
-      "url": "https://www.marketwatch.com/story/bond-yields-tumble-as-weak-jobs-report-raises-chances-of-a-half-point-fed-rate-cut-996d8abb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Longer-term Treasury yields look like a safety play for the first time since April&#x2019;s market shock.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T20:09:00.000Z",
-      "headline": "Why AMD&#x2019;s stock just saw one of the worst drops in the S&P 500 on Friday",
-      "url": "https://www.marketwatch.com/story/why-amds-stock-is-seeing-one-of-the-worst-drops-in-the-s-p-500-today-55cded85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "AMD"
-      ],
-      "summary_en": "AMD offers a GPU alternative to Nvidia, but it seems like hyperscalers are paying more attention to custom chips made by Broadcom.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T19:52:00.000Z",
-      "headline": "Lululemon&#x2019;s style refresh is met with Wall Street skepticism. &#x2018;It&#x2019;s going to get worse,&#x2019; analyst says.",
-      "url": "https://www.marketwatch.com/story/lululemons-style-refresh-is-met-with-wall-street-skepticism-its-going-to-get-worse-analyst-says-9c60c0a8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The retailer&#x2019;s gym- and yoga-clothing revamp isn&#x2019;t expected to take hold until the spring of 2026 or later &#x2014; and its shares are on pace for their lowest close in over five years.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-05T17:30:00.000Z",
       "headline": "Federal Open Market Committee announces its tentative meeting schedule for 2027",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm",
@@ -143,18 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will host a conference on payments innovation on Tuesday, October 21",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T20:24:00.000Z",
-      "headline": "401(k) millionaires reach an all-time high. Here&#x2019;s the No. 1 thing most Gen Xers and boomers did to get there.",
-      "url": "https://www.marketwatch.com/story/401-k-millionaires-reach-an-all-time-high-heres-the-no-1-thing-most-gen-xers-and-boomers-did-to-get-there-6935ea47?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "From the dot-com crash to reaching millionaire status, these savers were in the market for the long haul.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
