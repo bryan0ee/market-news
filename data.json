@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-06T13:22:01.821Z",
+  "last_updated": "2025-09-06T23:23:14.687Z",
   "items": [
     {
-      "ts": "2025-09-06T10:44:00.000Z",
+      "ts": "2025-09-06T23:04:00.000Z",
       "headline": "My mother, 81, discovered her &#x2018;millions&#x2019; in investments are gone. What can I do?",
       "url": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,19 +14,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-06T13:00:00.000Z",
-      "headline": "Apple&#x2019;s iPhone events have been unimpressive lately. Will this year be the exception?",
-      "url": "https://www.marketwatch.com/story/apples-iphone-events-have-been-unimpressive-lately-will-this-year-be-the-exception-b77d8193?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The tech giant&#x2019;s stock usually slumps after its big hardware reveals. But some on Wall Street believe a thin new iPhone could help Apple break the pattern.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-06T09:32:00.000Z",
+      "ts": "2025-09-06T22:01:00.000Z",
       "headline": "My friend married for a second time. Will the kids from her first marriage lose their inheritance?",
       "url": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-property-how-do-her-kids-get-their-fair-share-fe064f39?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,31 +26,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-06T12:00:00.000Z",
-      "headline": "From bad to worse? Another big jobs report is coming up &#x2014; and it probably won&#x2019;t look good either.",
-      "url": "https://www.marketwatch.com/story/from-bad-to-worse-another-big-jobs-report-is-coming-up-and-it-probably-wont-look-good-either-d0b3a0aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Don&#x2019;t look now, but another big jobs report is coming out in just a few more days &#x2014; one that most people have never heard of. And the news probably won&#x2019;t be good.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-06T11:58:00.000Z",
-      "headline": "America&#x2019;s key lenders are snubbing Treasurys for gold &#x2014; putting your 401(k) at risk. Here&#x2019;s what to do now.",
-      "url": "https://www.marketwatch.com/story/why-central-banks-are-ghosting-treasurys-for-gold-and-what-it-means-for-your-401-k-eec0cbb9?mod=mw_rss_topstories",
+      "ts": "2025-09-06T20:46:00.000Z",
+      "headline": "My friend, 61, signed a $20K contract for dental implants. She can&#x2019;t afford it. Can she fight it?",
+      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "It isn&#x2019;t so hard to break up with the U.S. dollar, after all. These 3 steps are a good start.",
+      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-06T10:42:00.000Z",
+      "ts": "2025-09-06T22:30:00.000Z",
       "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
       "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -74,51 +50,75 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-06T10:41:00.000Z",
-      "headline": "&#x2018;It&#x2019;s time to face the ugly truth&#x2019;: The American consumer&#x2019;s mood changes like the weather. What&#x2019;s going on?",
-      "url": "https://www.marketwatch.com/story/its-time-to-face-the-truth-american-consumers-have-been-gloomy-for-quite-some-time-4bdbd04d?mod=mw_rss_topstories",
+      "ts": "2025-09-06T18:45:00.000Z",
+      "headline": "&#x2018;They knocked her down and started biting&#x2019;: My mother, 84, was viciously attacked by her neighbor&#x2019;s two dogs. Do we sue?",
+      "url": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The police, ambulance and animal control were all called immediately. The dogs were removed and put down.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-06T18:18:00.000Z",
+      "headline": "Meta is paying a 24-year old AI researcher $250 million &#x2014; echoing the dot-com bubble",
+      "url": "https://www.marketwatch.com/story/paying-an-ai-engineer-more-than-nba-superstar-stephen-curry-thats-a-bubble-ready-to-pop-6426ecbd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "Mark Zuckerberg and other AI boosters show they&#x2019;re players by spending money &#x2014; not by making profits.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-06T18:02:00.000Z",
+      "headline": "Treasury bonds aren&#x2019;t the safe haven they&#x2019;ve been in the past &#x2014; and taxpayers will pay a price",
+      "url": "https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The U.S. government faces hundreds of billions of dollars in additional interest payments",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-06T19:45:00.000Z",
+      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
+      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "One day, we have swagger. The next day, we&#x2019;re cautious. Suddenly, we&#x2019;re thrifty again.",
+      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T22:42:00.000Z",
-      "headline": "Robinhood finally gets a place in the S&P 500. These other stocks will join as well.",
-      "url": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-and-this-could-be-a-big-update-7dfb8e8b?mod=mw_rss_topstories",
+      "ts": "2025-09-06T19:06:00.000Z",
+      "headline": "&#x2018;Fun came before paying bills&#x2019;: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
+      "url": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "AppLovin and Emcor were also tapped to join the benchmark index later this month, as MarketAxess, Caesars and Enphase get the boot.",
+      "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-05T21:37:00.000Z",
-      "headline": "Kenvue fights back against RFK Jr.&#x2019;s Tylenol safety concerns as its stock tumbles",
-      "url": "https://www.marketwatch.com/story/kenvue-fights-back-against-tylenol-safety-concerns-as-its-stock-tumbles-236cdbe1?mod=mw_rss_topstories",
+      "ts": "2025-09-06T18:59:00.000Z",
+      "headline": "5 money moves to make if you win the $1.8 billion Powerball jackpot &#x2014; or get any kind of financial windfall",
+      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Kenvue rushed to the defense of Tylenol, but the stock still suffered a record selloff on news that RFK Jr. will release a report linking the use of acetaminophen during pregnancy to autism.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T21:36:00.000Z",
-      "headline": "How you can still get a refund for a delayed or canceled flight even as Trump scraps Biden&#x2019;s airline compensation proposal",
-      "url": "https://www.marketwatch.com/story/how-you-can-still-get-a-refund-for-a-delayed-or-canceled-flight-even-as-trump-scraps-bidens-airline-compensation-proposal-38b28011?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Trump administration this week said it will reverse plans to require airlines to compensate passengers for lengthy delays and cancellations, a move consumer advocates say is likely the first of many to weaken protections for travelers.",
+      "summary_en": "The lessons of managing a significant sum can also apply to plenty of other investors.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
