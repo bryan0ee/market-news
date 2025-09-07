@@ -1,8 +1,57 @@
 {
-  "last_updated": "2025-09-07T13:22:14.300Z",
+  "last_updated": "2025-09-07T23:23:33.565Z",
   "items": [
     {
-      "ts": "2025-09-07T10:36:00.000Z",
+      "ts": "2025-09-07T22:55:00.000Z",
+      "headline": "Bessent dismisses costs of tariffs, but says U.S. would have to give huge refunds if they&#x2019;re overturned",
+      "url": "https://www.marketwatch.com/story/bessent-dismisses-costs-of-tariffs-but-says-u-s-would-have-to-give-huge-refunds-if-theyre-overturned-ba6a93b9?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Treasury Secretary Scott Bessent on Sunday said the U.S. could end up giving massive refunds if the U.S. Supreme Court finds the Trump administration&#x2019;s tariffs are illegal, and denied that the tariffs are effectively a tax on American consumers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-07T22:59:00.000Z",
+      "headline": "Stock futures edge higher ahead of inflation reports, oil gains after OPEC+ raises output",
+      "url": "https://www.marketwatch.com/story/stock-futures-dip-ahead-of-inflation-reports-oil-gains-after-opec-raises-output-6b4f90dd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock-market futures swung between slight gains and losses Sunday, as investors await key inflation reports later this week.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-07T22:00:00.000Z",
+      "headline": "After my father died, my stepsister transferred assets into her name. Do I have any legal recourse?",
+      "url": "https://www.marketwatch.com/story/after-my-father-died-my-stepsister-transferred-assets-into-her-name-do-i-have-any-legal-recourse-9d7bb6ff?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Since my dad died, I&#x2019;ve been able to get just one box of personal mementos and some family possessions.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-07T21:58:00.000Z",
+      "headline": "OPEC+ agrees to another oil production boost in October",
+      "url": "https://www.marketwatch.com/story/opec-agrees-to-another-oil-production-boost-in-october-f06413fb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "OPEC+ agreed Sunday to further increase oil production in October, in an ongoing move to regain market share at the expense of prices.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-07T21:14:00.000Z",
       "headline": "&#x2018;I am my mother&#x2019;s caregiver&#x2019;: My mom, 93, added my name to her bank and retirement accounts. Will she qualify for Medicaid?",
       "url": "https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,19 +63,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-07T10:04:00.000Z",
-      "headline": "&#x2018;Fun came before paying bills&#x2019;: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
-      "url": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
+      "ts": "2025-09-07T20:33:00.000Z",
+      "headline": "Playboy secures big legal victory in China as it seeks to turn its fortunes around",
+      "url": "https://www.marketwatch.com/story/playboy-secures-big-legal-victory-in-china-as-it-seeks-to-turn-its-fortunes-around-ef3734b9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
+      "summary_en": "The long-running media and lifestyle brand has secured a major legal victory in a bruising fight with its former biggest partner in China that had resulted in the loss of nearly two-thirds of the company&#x2019;s licensing revenue.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-06T23:04:00.000Z",
+      "ts": "2025-09-07T19:16:00.000Z",
       "headline": "My mother, 81, discovered her &#x2018;millions&#x2019; in investments are gone. What can I do?",
       "url": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,51 +87,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-06T22:01:00.000Z",
-      "headline": "My friend married for a second time. Will the kids from her first marriage lose their inheritance?",
-      "url": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-property-how-do-her-kids-get-their-fair-share-fe064f39?mod=mw_rss_topstories",
+      "ts": "2025-09-07T21:24:00.000Z",
+      "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
+      "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Her husband wants to be the administrator of their trust.&#x201d;",
+      "summary_en": "&#x201c;We want to invest the money and play catch up with our retirement savings/funding.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-06T20:46:00.000Z",
-      "headline": "My friend, 61, signed a $20K contract for dental implants. She can&#x2019;t afford it. Can she fight it?",
-      "url": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
+      "ts": "2025-09-07T17:45:00.000Z",
+      "headline": "&#x2018;Fun came before paying bills&#x2019;: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
+      "url": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;After her room and board is paid at the assisted-living home, she has $9,000 left for the year.&#x201d;",
+      "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-06T18:45:00.000Z",
-      "headline": "&#x2018;They knocked her down and started biting&#x2019;: My mother, 84, was viciously attacked by her neighbor&#x2019;s two dogs. Do we sue?",
-      "url": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
+      "ts": "2025-09-07T17:00:00.000Z",
+      "headline": "I&#x2019;m a teacher, and fees are eating up my retirement savings so much that I don&#x2019;t want to contribute anymore",
+      "url": "https://www.marketwatch.com/story/im-a-teacher-and-fees-are-eating-up-my-retirement-savings-so-much-that-i-dont-want-to-contribute-anymore-1ba9a958?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The police, ambulance and animal control were all called immediately. The dogs were removed and put down.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-06T18:18:00.000Z",
-      "headline": "Meta is paying a 24-year old AI researcher $250 million &#x2014; echoing the dot-com bubble",
-      "url": "https://www.marketwatch.com/story/paying-an-ai-engineer-more-than-nba-superstar-stephen-curry-thats-a-bubble-ready-to-pop-6426ecbd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "Mark Zuckerberg and other AI boosters show they&#x2019;re players by spending money &#x2014; not by making profits.",
+      "summary_en": "What are the options for getting out of paying 1% a year in a 403(b)?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,42 +156,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will host a conference on payments innovation on Tuesday, October 21",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-06T22:30:00.000Z",
-      "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
-      "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We want to invest the money and play catch up with our retirement savings/funding.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-06T19:45:00.000Z",
-      "headline": "&#x2018;I have almost no retirement savings&#x2019;: I&#x2019;m 57 and have $8K in my 401(k) and $17K in my IRA. Have I left it too late?",
-      "url": "https://www.marketwatch.com/story/i-have-almost-no-retirement-savings-im-57-and-have-8k-in-my-401-k-and-17k-in-my-ira-have-i-left-it-too-late-36be1273?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I plan to work until I&#x2019;m 70.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-06T18:59:00.000Z",
-      "headline": "5 money moves to make if you win the $1.8 billion Powerball jackpot &#x2014; or get any kind of financial windfall",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The lessons of managing a significant sum can also apply to plenty of other investors.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
