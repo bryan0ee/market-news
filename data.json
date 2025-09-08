@@ -1,16 +1,77 @@
 {
-  "last_updated": "2025-09-08T10:44:07.158Z",
+  "last_updated": "2025-09-08T13:32:04.760Z",
   "items": [
     {
-      "ts": "2025-09-08T09:56:00.000Z",
-      "headline": "How one hedge fund investing in small caps surged 25% in July and doubled this year",
-      "url": "https://www.marketwatch.com/story/how-one-hedge-fund-investing-in-small-caps-surged-25-in-july-and-doubled-this-year-d15de82e?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-09-08T13:27:00.000Z",
+      "headline": "This growing risk to your stock portfolio is new, volatile &#x2014; and here to stay",
+      "url": "https://www.marketwatch.com/story/this-growing-risk-to-your-stock-portfolio-is-new-volatile-and-here-to-stay-2bbb5150?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "&#x201c;Fragmentation&#x201d; is breaking global business relationships. U.S. companies could see closed markets and higher costs.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-08T11:59:00.000Z",
+      "headline": "What investors should expect from stocks after the Fed&#x2019;s September meeting",
+      "url": "https://www.marketwatch.com/story/what-investors-should-expect-from-stocks-after-the-feds-september-meeting-68af2876?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The stock market doesn&#x2019;t always rally after interest-rate cuts.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-08T11:42:00.000Z",
+      "headline": "Oracle earnings are coming soon. Here&#x2019;s what matters most to Wall Street.",
+      "url": "https://www.marketwatch.com/story/oracle-earnings-are-coming-soon-heres-what-matters-most-to-wall-street-3779c3c3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Oracle is expected to follow up last year&#x2019;s strong cloud performance with even bigger growth this year, but analysts want to assess the impact on profit metrics.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-08T11:08:00.000Z",
+      "headline": "The jobs slowdown actually means the recession&#x2019;s over, not starting, argues Morgan Stanley",
+      "url": "https://www.marketwatch.com/story/the-jobs-slowdown-actually-means-the-recessions-over-not-starting-argues-morgan-stanley-95aed00d?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Despite the impression that investing is only about the Mag7 these days, one hedge fund is beating the market in small caps",
+      "summary_en": "Friday&#x2019;s weak jobs data provided further proof that the U.S. is transitioning to an early-stage recovery, says Morgan Stanley strategists.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-08T13:04:00.000Z",
+      "headline": "SpaceX deal sends EchoStar&#x2019;s stock soaring. Why Musk is buying $17 billion in wireless spectrum.",
+      "url": "https://www.marketwatch.com/story/echostar-clinches-a-17-billion-spectrum-deal-with-elon-musks-spacex-and-the-stock-soars-again-fdf3962d?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "EchoStar soars further into record territory after a $17 billion deal to sell spectrum to Elon Musk&#x2019;s SpaceX.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-08T10:46:00.000Z",
+      "headline": "My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?",
+      "url": "https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The trust dictates my brother should receive an equal amount.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -26,100 +87,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-08T10:22:00.000Z",
-      "headline": "The jobs slowdown actually means the recession&#x2019;s over, not starting, argues Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/the-jobs-slowdown-actually-means-the-recessions-over-not-starting-argues-morgan-stanley-95aed00d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Friday&#x2019;s weak jobs data provided further proof that the U.S. is transitioning to an early-stage recovery, says Morgan Stanley strategists.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-08T10:00:00.000Z",
-      "headline": "&#x2018;I am my mother&#x2019;s caregiver&#x2019;: My mom, 93, added my name to her retirement accounts. Will she qualify for Medicaid?",
-      "url": "https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Will Medicaid be able to take the money from her bank account?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-08T09:04:00.000Z",
-      "headline": "The fabulous properties that the late Giorgio Armani left behind",
-      "url": "https://www.marketwatch.com/story/the-fabulous-properties-that-the-late-giorgio-armani-left-behind-fa568bbe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Armani had a fondness for international travel and real estate, and he owned properties across the globe, from Saint Tropez to New York City.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-08T09:43:00.000Z",
-      "headline": "I&#x2019;m 43 with $450K in my 401(k) and $270K in one company&#x2019;s stock. Is this a risky plan?",
-      "url": "https://www.marketwatch.com/story/im-43-with-450k-in-my-401-k-and-270k-in-one-companys-stock-is-this-a-risky-plan-21d1edde?mod=mw_rss_topstories",
+      "ts": "2025-09-08T12:50:00.000Z",
+      "headline": "I&#x2019;m a teacher, and fees are eating up my retirement savings so much that I don&#x2019;t want to contribute anymore",
+      "url": "https://www.marketwatch.com/story/im-a-teacher-and-fees-are-eating-up-my-retirement-savings-so-much-that-i-dont-want-to-contribute-anymore-1ba9a958?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I have $60,000 in student debt, but no other debts. I also have $70,000 in high-yield savings.&#x201d;",
+      "summary_en": "What are the options for getting out of paying 1% a year in a 403(b)?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-08T09:25:00.000Z",
-      "headline": "&#x2018;Fun came before paying bills&#x2019;: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
-      "url": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
+      "ts": "2025-09-08T11:44:00.000Z",
+      "headline": "Weight loss has become the hottest new Chinese consumer craze",
+      "url": "https://www.marketwatch.com/story/weight-loss-has-become-the-hottest-new-chinese-consumer-craze-4d9d70fb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
+      "summary_en": "A wellness boom is reshaping China, from gyms and diet apps to new injectable drugs &#x2014; and spending habits.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-08T09:02:00.000Z",
-      "headline": "Julia Koch seeks $1 billion stake in N.Y. Giants after selling $45 million Park Avenue home",
-      "url": "https://www.marketwatch.com/story/julia-koch-seeks-1-billion-stake-in-n-y-giants-after-selling-45-million-park-avenue-home-9dfcc642?mod=mw_rss_topstories",
+      "ts": "2025-09-08T11:37:00.000Z",
+      "headline": "These are the stock-market trades to make going into the end of the year, according to Goldman Sachs",
+      "url": "https://www.marketwatch.com/story/these-are-the-stock-market-trades-to-make-going-into-the-end-of-the-year-according-to-goldman-sachs-694bfedf?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The $10 billion valuation of the team makes it one of the most expensive franchises in the NFL.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-08T02:58:00.000Z",
-      "headline": "Stock futures edge higher ahead of inflation reports, oil gains after OPEC+ raises output",
-      "url": "https://www.marketwatch.com/story/stock-futures-dip-ahead-of-inflation-reports-oil-gains-after-opec-raises-output-6b4f90dd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stock-market futures inched higher Sunday, as investors await key inflation reports later this week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-07T22:55:00.000Z",
-      "headline": "Bessent dismisses costs of tariffs, but says U.S. would have to give huge refunds if they&#x2019;re overturned",
-      "url": "https://www.marketwatch.com/story/bessent-dismisses-costs-of-tariffs-but-says-u-s-would-have-to-give-huge-refunds-if-theyre-overturned-ba6a93b9?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Treasury Secretary Scott Bessent on Sunday said the U.S. could end up giving massive refunds if the U.S. Supreme Court finds the Trump administration&#x2019;s tariffs are illegal, and denied that the tariffs are effectively a tax on American consumers.",
+      "summary_en": "An unwind of the AI trade represents the clearest potential catalyst for a reversal, says Wall St bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
