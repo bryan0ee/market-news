@@ -1,104 +1,56 @@
 {
-  "last_updated": "2025-09-09T10:44:03.482Z",
+  "last_updated": "2025-09-09T13:33:24.390Z",
   "items": [
     {
-      "ts": "2025-09-09T10:12:00.000Z",
-      "headline": "My mother, 81, discovered her &#x2018;millions&#x2019; in investments are gone. What can I do?",
-      "url": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She&#x2019;s a very proud woman.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T10:12:00.000Z",
-      "headline": "$53 billion mega-merger with Teck transforms Anglo American from prey to predator",
-      "url": "https://www.marketwatch.com/story/53-billion-mega-merger-with-teck-transforms-anglo-american-from-prey-to-predator-e858902e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The deal could be viewed as a compelling value opportunity for Anglo, or an attempt to discourage further aggressors like BHP.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T09:35:00.000Z",
-      "headline": "&#x2018;He is increasingly angry&#x2019;: My troubled son lives with me. How do I ensure he is financially secure after I die?",
-      "url": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our family does have a long history of interventions, including hospitalizations.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T09:18:00.000Z",
-      "headline": "French finances priced as risky as Italy&#x2019;s after government collapses",
-      "url": "https://www.marketwatch.com/story/french-finances-priced-as-risky-as-italys-after-government-collapses-9d5b4277?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Though Tuesday&#x2019;s moves were not dramatic, France is sporting the second-highest bond yields in the eurozone after the collapse after the Francois Bayrou-led government.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T08:03:00.000Z",
-      "headline": "&#x2018;Frenzied as ever&#x2019; &#x2014; the Dan Ives-led Worldcoin treasury purchase is only latest example of market madness",
+      "ts": "2025-09-09T12:55:00.000Z",
+      "headline": "Another 1,000% gainer: CaliberCos surges on digital-asset purchase, a day after Eightco&#x2019;s 3,000% gain",
       "url": "https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The 3,000% surge in Eightco Holdings on the purchase of a digital asset that can be acquired independently is just the latest example of what one analyst calls &#x201c;market madness.&#x201d;",
+      "summary_en": "The 3,000% surge in Eightco Holdings&#x2019; stock on the purchase of a digital asset that can be acquired independently is just the latest example of what one analyst calls &#x201c;market madness.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-09T09:01:00.000Z",
-      "headline": "Will Taylor Swift and Travis Kelce get married in Rhode Island where she owns an $18 million mansion?",
-      "url": "https://www.marketwatch.com/story/will-taylor-swift-and-travis-kelce-get-married-in-rhode-island-where-she-owns-an-18-million-mansion-13d296a6?mod=mw_rss_topstories",
+      "ts": "2025-09-09T12:35:00.000Z",
+      "headline": "Fed is almost certain to cut rates by 25 basis points after months of debate. Why are so many people so unhappy about it?",
+      "url": "https://www.marketwatch.com/story/fed-is-almost-certain-to-cut-rates-by-25-basis-points-after-months-of-debate-why-are-so-many-people-unhappy-with-that-63e2266c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Economists are split into opposite camps on which is more important for the Fed to battle &#x2014; slower growth or higher inflation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-09T12:26:00.000Z",
+      "headline": "Why JPMorgan is warning the Fed rate cut everyone expects could sink stocks",
+      "url": "https://www.marketwatch.com/story/why-jpmorgan-is-warning-the-fed-rate-cut-everyone-expects-could-sink-stocks-0179698d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Taylor Swift and Travis Kelce are reportedly planning to tie the knot in Rhode Island, where the pop star owns a sprawling $17.75 million retreat.",
+      "summary_en": "The widely expected September Fed rate cut may have a surprise in store for investors who think stocks have nowhere to go but up, warns JPMorgan.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-09T09:39:00.000Z",
-      "headline": "Novartis to buy U.S. biotech in latest deal targeting firms in $1 billion to $3 billion range",
-      "url": "https://www.marketwatch.com/story/novartis-to-buy-u-s-biotech-in-latest-deal-targeting-firms-in-1-billion-to-3-billion-range-4184f9f4?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Novartis on Tuesday said it was buying a U.S. biotech working on a cardiovascular drug, continuing what&#x2019;s been a flurry of acquisitions at a similar price point.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T10:10:00.000Z",
-      "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
-      "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
+      "ts": "2025-09-09T12:14:00.000Z",
+      "headline": "Why ASML, which makes million-dollar machines, is buying a stake in AI chatbot creator",
+      "url": "https://www.marketwatch.com/story/why-asml-which-makes-million-dollar-machines-is-buying-a-stake-in-ai-chatbot-creator-226b1130?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;We want to invest the money and play catch up with our retirement savings/funding.&#x201d;",
+      "summary_en": "ASML&#x2019;s announcement it was buying a significant stake in a producer of one of the leading large language models has prompted both curiosity as well as praise.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-09T01:31:00.000Z",
+      "ts": "2025-09-09T11:16:00.000Z",
       "headline": "Nebius&#x2019; stock is surging. Why Microsoft just inked a deal with the cloud company.",
       "url": "https://www.marketwatch.com/story/nebius-stock-is-surging-why-microsoft-just-inked-a-deal-with-the-cloud-company-ec97b00a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -110,15 +62,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-09T01:09:00.000Z",
-      "headline": "Obamacare tax breaks could get extended in government-shutdown fight. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/obamacare-tax-breaks-could-get-extended-in-a-government-shutdown-fight-heres-why-9fe96daa?mod=mw_rss_topstories",
+      "ts": "2025-09-09T11:15:00.000Z",
+      "headline": "My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?",
+      "url": "https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Millions of Americans who rely on Affordable Care Act subsidies may soon get certainty about whether those breaks are expiring or being extended, thanks to the latest government-shutdown battle.",
+      "summary_en": "&#x201c;The trust dictates my brother should receive an equal amount.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-09T13:28:00.000Z",
+      "headline": "MMA&#x2019;s stock is skyrocketing &#x2014; now that there&#x2019;s a Trump connection",
+      "url": "https://www.marketwatch.com/story/mmas-stock-is-skyrocketing-now-that-theres-a-trump-connection-a4d6dfe5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Donald Trump Jr. is joining combat sports company MMA Inc. as a strategic adviser.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-09T13:16:00.000Z",
+      "headline": "I&#x2019;m 70 and have $2.6 million for retirement. Is 80% in equities too risky?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-im-70-and-have-2-6-million-for-retirement-is-80-in-equities-too-risky-85b895d4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We have been living primarily off my pensions, but plan on big family trips soon.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-09T11:15:00.000Z",
+      "headline": "Wall Street sees upside for stocks if Supreme Court rules against Trump on tariffs",
+      "url": "https://www.marketwatch.com/story/wall-street-sees-upside-for-stocks-if-supreme-court-rules-against-trump-on-tariffs-9d2c071b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A lot hinges on what the Supreme Court comes back with on tariffs, says Franklin Templeton strategist Rick Polsinello",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-09T11:13:00.000Z",
+      "headline": "Apple&#x2019;s iPhone events have been unimpressive lately. Will this year be the exception?",
+      "url": "https://www.marketwatch.com/story/apples-iphone-events-have-been-unimpressive-lately-will-this-year-be-the-exception-b77d8193?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The tech giant&#x2019;s stock usually slumps after its big hardware reveals. But some on Wall Street believe a thin new iPhone could help Apple break the pattern.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
