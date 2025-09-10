@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-09-09T23:24:07.605Z",
+  "last_updated": "2025-09-10T10:41:43.769Z",
   "items": [
     {
-      "ts": "2025-09-09T22:23:00.000Z",
+      "ts": "2025-09-10T10:33:00.000Z",
+      "headline": "&#x2018;He is increasingly angry&#x2019;: My troubled son lives with me. How do I ensure he is financially secure after I die?",
+      "url": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Our family does have a long history of interventions, including hospitalizations.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-10T09:00:00.000Z",
+      "headline": "My husband sold his IRA without my knowledge prior to our divorce. Is this legal?",
+      "url": "https://www.marketwatch.com/story/my-husband-sold-his-ira-without-my-knowledge-prior-to-our-divorce-is-this-legal-723db435?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Is it legal for one member of a married couple to authorize the sale of an IRA In a joint managed account?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-10T08:47:00.000Z",
+      "headline": "Weight-loss drug manufacturer Novo Nordisk cuts 9000 jobs &#x2014; and its profit forecast",
+      "url": "https://www.marketwatch.com/story/weight-loss-drug-manufacturer-novo-nordisk-cuts-9000-jobs-and-its-profit-forecast-19838567?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "New CEO Mike Doustdar is kitchen-sinking the costs of restructuring the company to focus on diabetes and anti-obesity drugs.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-10T10:00:00.000Z",
+      "headline": "Tesla is losing U.S. market share. And that&#x2019;s in the middle of an EV boom.",
+      "url": "https://www.marketwatch.com/story/tesla-is-losing-u-s-market-share-and-thats-in-the-middle-of-an-ev-boom-7c0403e5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Has Tesla lost is &#x2018;aura&#x2019;? Tesla Inc.&#x2019;s share of the U.S. EV market has fallen to its lowest on record, despite a boom for EV sales in the U.S.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-10T03:02:00.000Z",
+      "headline": "Judge rules Lisa Cook can stay at the Fed, for now. She&#x2019;ll likely vote at this month&#x2019;s rate-setting meeting.",
+      "url": "https://www.marketwatch.com/story/judge-rules-lisa-cook-can-stay-at-the-fed-shell-vote-at-this-months-rate-setting-meeting-d47b67cf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A judge has ruled that Federal Reserve governor Lisa Cook should stay in her post for the time being, likely preserving her vote at the central bank&#x2019;s Sept. 16-17 meeting that will set interest rates, and delivering a setback to President Donald Trump&#x2019;s effort to fire her over an allegation of mortgage fraud.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-10T02:01:00.000Z",
+      "headline": "Incomes rose and poverty fell last year &#x2014; so why do so many Americans feel &#x2018;tapped out&#x2019;?",
+      "url": "https://www.marketwatch.com/story/incomes-rose-and-poverty-fell-last-year-so-why-do-so-many-americans-feel-tapped-out-6d259e15?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Census numbers show &#x201c;the middle class is tapped out,&#x201d; economist says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-10T00:17:00.000Z",
       "headline": "Oracle&#x2019;s stock surges toward its best day since 1999. These huge numbers explain why.",
       "url": "https://www.marketwatch.com/story/oracles-stock-surges-toward-best-day-in-years-these-huge-numbers-explain-why-4a7e95ab?mod=mw_rss_topstories",
       "impact": "Bullish",
@@ -11,6 +83,30 @@
         "ED"
       ],
       "summary_en": "While the latest earnings and revenue numbers came up short, Oracle impressed with its talk of new multibillion-dollar deals and big cloud projections.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-10T00:39:00.000Z",
+      "headline": "Klarna prices IPO well above expected range, raising $1.37 billion",
+      "url": "https://www.marketwatch.com/story/klarna-prices-ipo-well-above-expected-range-raising-1-37-billion-bb23d3c5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Klarna&#x2019;s IPO priced at $40 late Tuesday, well above its expected range of $35 to $37.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-10T00:19:00.000Z",
+      "headline": "GameStop posts 5th straight quarterly profit, thanks to a big sales jump",
+      "url": "https://www.marketwatch.com/story/gamestop-posts-fifth-straight-quarterly-profit-thanks-to-a-big-sales-jump-48df93df?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The original meme stock reported a 22% rise in sales and a fifth consecutive profit, sending it nearly 6% higher after hours Tuesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -23,114 +119,6 @@
         "ED"
       ],
       "summary_en": "President Donald Trump&#x2019;s administration on Tuesday rolled out an executive action aimed at limiting direct-to-consumer advertising for pharmaceuticals, with officials saying a recent Hims & Hers Health Inc. ad stood out as an example of what should be prevented.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T22:50:00.000Z",
-      "headline": "UnitedHealth makes investors like Warren Buffett happy by saying business is fine",
-      "url": "https://www.marketwatch.com/story/unitedhealth-makes-investors-like-warren-buffett-happy-by-saying-business-is-fine-c86d9050?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "UnitedHealth&#x2019;s stock is surging, which is giving a nice boost to Warren Buffett&#x2019;s new 5 million-share stake in the health insurer.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T22:45:00.000Z",
-      "headline": "GameStop posts 5th straight quarterly profit, thanks to a big sales jump",
-      "url": "https://www.marketwatch.com/story/gamestop-posts-fifth-straight-quarterly-profit-thanks-to-a-big-sales-jump-48df93df?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The original meme stock reported a 22% rise in sales and a fifth consecutive profit, sending it more than 4% higher after hours Tuesday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T22:43:00.000Z",
-      "headline": "Cracker Barrel is halting remodels. An analyst now sees even &#x2018;less visibility&#x2019; on the path forward.",
-      "url": "https://www.marketwatch.com/story/cracker-barrel-is-halting-remodels-an-analyst-now-sees-even-less-visibility-on-the-path-forward-4ad7a72b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "After abandoning a refreshed logo last month in response to anger from conservatives, Cracker Barrel Old Country Store Inc. on Tuesday said it was suspending its remodels, a move one analyst said clouded the path forward for the restaurant chain.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T20:30:00.000Z",
-      "headline": "&#x2018;He is increasingly angry&#x2019;: My troubled son lives with me. How do I ensure he is financially secure after I die?",
-      "url": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our family does have a long history of interventions, including hospitalizations.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T20:25:00.000Z",
-      "headline": "Emma Heming Willis on moving husband Bruce Willis into a second home for dementia care: &#x2018;I know it raises eyebrows&#x2026;you have to do what&#x2019;s right&#x2019;",
-      "url": "https://www.marketwatch.com/story/emma-heming-willis-on-moving-husband-bruce-willis-into-a-second-home-for-dementia-care-i-know-it-raises-eyebrowsyou-have-to-do-whats-right-3ffe931a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "At a book launch event with Anderson Cooper, the author talked about &#x201c;The Unexpected Journey&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T22:11:00.000Z",
-      "headline": "Billions of dollars in Trump tariffs at stake as Wall Street awaits Supreme Court decision",
-      "url": "https://www.marketwatch.com/story/wall-street-sees-upside-for-stocks-if-supreme-court-rules-against-trump-on-tariffs-9d2c071b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A lot hinges on how the Supreme Court rules on tariffs, says Franklin Templeton strategist Rick Polsinello.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T22:59:00.000Z",
-      "headline": "These companies could be to self-driving trucks and tractors what Tesla is to cars",
-      "url": "https://www.marketwatch.com/story/the-next-vehicles-to-go-driverless-may-shock-you-and-could-be-a-great-investment-b5dfc4f3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The next vehicles to go driverless may shock you &#x2014; and could be a great investment",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T19:32:00.000Z",
-      "headline": "Nvidia and its Big Tech peers have $1 trillion to spend. What should they do with it?",
-      "url": "https://www.marketwatch.com/story/nvidia-and-its-big-tech-peers-have-1-trillion-to-spend-what-should-they-do-with-it-047ebdb3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The &#x2018;Magnificent Seven&#x2019; could end the year with a combined operating cash flow and net cash of more than $1 trillion. HSBC analysts see a few uses for the money.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T19:00:00.000Z",
-      "headline": "Agencies announce third public outreach meeting as part of their review of regulations",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250909a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Agencies announce third public outreach meeting as part of their review of regulations",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -179,6 +167,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will host a conference on payments innovation on Tuesday, October 21",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-09T19:00:00.000Z",
+      "headline": "Agencies announce third public outreach meeting as part of their review of regulations",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250909a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Agencies announce third public outreach meeting as part of their review of regulations",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
