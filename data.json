@@ -1,112 +1,125 @@
 {
-  "last_updated": "2025-09-11T10:40:57.251Z",
+  "last_updated": "2025-09-11T13:26:14.608Z",
   "items": [
     {
-      "ts": "2025-09-11T09:55:00.000Z",
-      "headline": "&#x2018;He is increasingly angry&#x2019;: My troubled son lives with me. How do I ensure he is financially secure after I die?",
-      "url": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
+      "ts": "2025-09-11T13:20:00.000Z",
+      "headline": "Another Kroger earnings beat shows the eat-at-home trend is set to continue",
+      "url": "https://www.marketwatch.com/story/another-kroger-earnings-beat-shows-the-eat-at-home-trend-is-set-to-continue-21ad6f39?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Kroger&#x2019;s stock was rallying Thursday after another earnings beat and a raised outlook.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-11T12:56:00.000Z",
+      "headline": "First-time unemployment claims surge to 263,000 &#x2014; the highest level in nearly four years",
+      "url": "https://www.marketwatch.com/story/jobless-claims-surge-to-highest-level-in-almost-4-years-824d0d24?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "The labor market has slowed markedly this summer, as businesses have stopped hiring due to uncertainty over the cost and impact of tariffs on imported goods.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-11T11:43:00.000Z",
+      "headline": "Opendoor&#x2019;s stock soars again as leadership changes hailed as &#x2018;incredible outcome&#x2019; for shareholders",
+      "url": "https://www.marketwatch.com/story/opendoors-stock-soars-again-as-leadership-changes-hailed-as-incredible-outcome-for-shareholders-9ed6311c?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors cheered Opendoor&#x2019;s new CEO, the return of co-founders to the board and a $40 million capital investment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-11T12:21:00.000Z",
+      "headline": "Nomura bets on the dollar against the pound as U.K. fiscal predicament grabs spotlight",
+      "url": "https://www.marketwatch.com/story/nomura-bets-on-the-dollar-against-the-pound-as-u-k-fiscal-predicament-grabs-spotlight-60929577?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Our family does have a long history of interventions, including hospitalizations.&#x201d;",
+      "summary_en": "Sterling&#x2019;s tailrisks are increasing ahead of two key dates in the economic calendar but the dollar may be due a short-term bounce, argues Nomura.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-11T09:43:00.000Z",
-      "headline": "My husband sold his IRA without my knowledge prior to our divorce. Is this legal?",
-      "url": "https://www.marketwatch.com/story/my-husband-sold-his-ira-without-my-knowledge-prior-to-our-divorce-is-this-legal-723db435?mod=mw_rss_topstories",
+      "ts": "2025-09-11T11:38:00.000Z",
+      "headline": "My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?",
+      "url": "https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Is it legal for one member of a married couple to authorize the sale of an IRA in a joint-managed account?&#x201d;",
+      "summary_en": "&#x201c;The trust dictates my brother should receive an equal amount.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-11T09:15:00.000Z",
-      "headline": "&#x2018;I&#x2019;m scared for her&#x2019;: My wife, 48, is financially illiterate. I&#x2019;m 67. What happens when I die?",
-      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-11T09:14:00.000Z",
-      "headline": "Nebius prices stock-market offering at 44% premium to before it announced Microsoft deal",
-      "url": "https://www.marketwatch.com/story/nebius-prices-stock-market-offering-at-44-premium-to-before-it-announced-microsoft-deal-cde5b04c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Nebius on Thursday priced a stock-market offering at a 44% premium to where it stood before inking a massive cloud deal with Microsoft, a demonstration of how quickly the market can re-price earnings expectations in the AI age.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-11T09:03:00.000Z",
-      "headline": "&#x2018;Today&#x2019; host Dylan Dreyer and estranged husband Brian Fichera discount New York apartment by $500K",
-      "url": "https://www.marketwatch.com/story/today-host-dylan-dreyer-and-estranged-husband-brian-fichera-discount-new-york-apartment-by-500k-76174cb2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The couple have chopped half a million dollars from the price of the condo ust two months after they announced that they have separated.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-11T08:59:00.000Z",
-      "headline": "The 2026 Honda Odyssey: A near-perfect family hauler with plenty of legroom and cargo space",
-      "url": "https://www.marketwatch.com/story/the-2026-honda-odyssey-a-near-perfect-family-hauler-with-plenty-of-legroom-and-cargo-space-7ca30b1d?mod=mw_rss_topstories",
+      "ts": "2025-09-11T13:16:00.000Z",
+      "headline": "Gold keeps setting records &#x2014; but its September trading pattern could be a roadblock",
+      "url": "https://www.marketwatch.com/story/gold-has-a-september-trading-pattern-that-could-surprise-investors-this-time-e8baafcc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The Honda Odyssey is one of our favorite family vehicles for its infinitely useful interior, trusty powertrain, and user-friendly tech.",
+      "summary_en": "Seasonal strength doesn&#x2019;t show up year after year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-11T01:11:00.000Z",
-      "headline": "Investors are chasing bond yields ahead of the Fed&#x2019;s rate decision. Here&#x2019;s the opportunity.",
-      "url": "https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors want to lock in income with stocks near all-time highs, but inflation still remains a concern.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-11T00:39:00.000Z",
-      "headline": "Why Broadcom&#x2019;s stock led the chip sector&#x2019;s rally on Wednesday",
-      "url": "https://www.marketwatch.com/story/why-broadcoms-stock-is-leading-the-chip-sectors-rally-on-wednesday-549ba49a?mod=mw_rss_topstories",
+      "ts": "2025-09-11T13:01:00.000Z",
+      "headline": "&#x2018;My income is not enough&#x2019;: I&#x2019;m a single parent in my early 50s. Should I add my kids, 23 and 29, to my mortgage application?",
+      "url": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Broadcom CEO Hock Tan has the potential for a big payday if he can hit &#x201c;challenging&#x201d; new targets for AI revenue.",
+      "summary_en": "&#x201c;I want to purchase a family home so we three don&#x2019;t have to pay rent.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-11T00:22:00.000Z",
-      "headline": "Elon Musk is still top dog, but Oracle&#x2019;s Larry Ellison is now just $1 billion behind",
-      "url": "https://www.marketwatch.com/story/elon-musk-still-leads-the-billionaires-but-larry-ellison-is-coming-up-fast-a962edaf?mod=mw_rss_topstories",
+      "ts": "2025-09-11T12:59:00.000Z",
+      "headline": "Apple&#x2019;s stock is stuck in a rut. Why this bull just threw in the towel.",
+      "url": "https://www.marketwatch.com/story/apples-stock-is-stuck-in-a-rut-why-this-bull-just-threw-in-the-towel-77f7c8bf?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "The Oracle co-founder&#x2019;s net worth has jumped by nearly $90 billion, but he&#x2019;s still a hair behind Elon Musk in the race to be the world&#x2019;s richest person.",
+      "summary_en": "D.A. Davidson says Apple &#x201c;was either caught off-guard by AI or is genuinely facing innovator&#x2019;s dilemma and cannot innovate.&#x201d; Either way, it&#x2019;s a problem for the stock.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-11T12:46:00.000Z",
+      "headline": "Always trust your first guess: One Wall Street bank is reinstating its bullish S&P 500 target",
+      "url": "https://www.marketwatch.com/story/always-trust-your-first-guess-one-wall-street-bank-is-reinstating-its-bullish-s-p-500-target-0c5e9fae?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Deustche Bank says it now expects the S&P 500 to reach its original target of 7000 at the end of this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-11T12:00:00.000Z",
+      "headline": "&#x2018;Fun came before paying bills&#x2019;: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
+      "url": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -143,18 +156,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement action with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Soci&eacute;t&eacute; G&eacute;n&eacute;rale New York Branch",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-10T23:46:00.000Z",
-      "headline": "&#x2018;Fun came before paying bills&#x2019;: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
-      "url": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
