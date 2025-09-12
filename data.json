@@ -1,8 +1,56 @@
 {
-  "last_updated": "2025-09-12T10:41:11.398Z",
+  "last_updated": "2025-09-12T13:27:47.284Z",
   "items": [
     {
-      "ts": "2025-09-12T10:21:00.000Z",
+      "ts": "2025-09-12T12:55:00.000Z",
+      "headline": "Gemini&#x2019;s IPO rides the crypto craze to further the fortunes of the Winklevoss twins",
+      "url": "https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "IPO for the cryptocurrency exchange founded by billionaires Tyler and Cameron Winklevoss ups its price range ahead of its debut, in a sign of strong interest.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T12:51:00.000Z",
+      "headline": "My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?",
+      "url": "https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The trust dictates my brother should receive an equal amount.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T12:16:00.000Z",
+      "headline": "There&#x2019;s just enough pain in the economy to boost the stock market &#x2014; and one chart shows why",
+      "url": "https://www.marketwatch.com/story/theres-just-enough-pain-in-the-economy-to-boost-the-stock-market-and-one-chart-shows-why-016187af?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;No pain, no gain&#x201d; is the expression that might be used to frame the direction of the stock market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T11:48:00.000Z",
+      "headline": "I&#x2019;m a single parent in my 50s. The real-estate agent suggested I add my kids to the mortgage to help me qualify. Is that wise?",
+      "url": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I want to purchase a family home so we three don&#x2019;t have to pay rent.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T11:38:00.000Z",
       "headline": "It&#x2019;s hard to predict a stock-market top, but two red flags have this analyst eyeing the eject button",
       "url": "https://www.marketwatch.com/story/its-hard-to-predict-a-stock-market-top-but-two-red-flags-have-this-analyst-eyeing-the-eject-button-98b3d0c7?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,99 +62,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T10:00:00.000Z",
-      "headline": "It&#x2019;s been a dazzling week for gold. Why one firm says there&#x2019;s more room to run.",
-      "url": "https://www.marketwatch.com/story/its-been-a-dazzling-week-for-gold-why-one-firm-says-theres-more-room-to-run-00c7815d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "UBS Global Wealth Management strategists are lifting their gold target for a fifth time this year, saying investor appetite remains strong for the precious metal.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T10:00:00.000Z",
-      "headline": "Why Morgan Stanley now sees four straight Fed interest-rate cuts &#x2014; but not a jumbo hike to start",
-      "url": "https://www.marketwatch.com/story/why-morgan-stanley-now-sees-four-straight-fed-interest-rate-cuts-but-not-a-jumbo-hike-to-start-47b06d10?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Morgan Stanley&#x2019;s economists have quickly swung their stance on interest-rate cuts, and in a new note to clients on Friday are forecasting four consecutive quarter-point rate reductions.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T09:05:00.000Z",
-      "headline": "The threat of the Fed &#x2018;turning Turkish&#x2019; makes for some tough allocations decisions, this strategist says.",
-      "url": "https://www.marketwatch.com/story/the-threat-of-the-fed-turning-turkish-makes-for-some-tough-allocations-decisions-this-strategist-says-26f7d254?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Either stocks or bonds are right, but not both, argues Gavekal strategist Will Denyer.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T09:02:00.000Z",
-      "headline": "10 top cities for an exceptional education",
-      "url": "https://www.marketwatch.com/story/10-top-cities-for-an-exceptional-education-59d60404?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "In these U.S. cities, education shines just as brightly as the community itself, from grade school to college.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T08:58:00.000Z",
-      "headline": "Aubrey Plaza lists L.A. home for $6.5 million and opens up about coping with her husband&#x2019;s suicide",
-      "url": "https://www.marketwatch.com/story/aubrey-plaza-lists-l-a-home-for-6-5-million-and-opens-up-about-coping-with-her-husbands-suicide-95cabcc8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Comedian Aubrey Plaza is selling the Los Angeles home where her husband, Jeff Baena, was found dead at age 47 eight months ago.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T09:15:00.000Z",
-      "headline": "&#x2018;It&#x2019;s keeping me up at night&#x2019;: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.",
-      "url": "https://www.marketwatch.com/story/its-keeping-me-up-at-night-my-brother-sold-his-share-of-the-family-farm-and-lost-the-rest-in-a-divorce-he-says-i-owe-him-50b33c93?mod=mw_rss_topstories",
+      "ts": "2025-09-12T12:43:00.000Z",
+      "headline": "Brew City is also home to Harley &#x2014; and America&#x2019;s hottest housing market",
+      "url": "https://www.marketwatch.com/story/this-midwestern-hub-for-beer-and-harleys-has-the-hottest-housing-market-in-america-right-now-44dc18b1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;He told me that he will legally pursue me and my farm through the court.&#x201d;",
+      "summary_en": "Homes are selling fast in the Midwest and the Northeast but spending months on the market in the South and the West.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T04:01:00.000Z",
-      "headline": "Low-cost index funds are best for investors, right? Not so fast.",
-      "url": "https://www.marketwatch.com/story/low-cost-index-funds-are-best-for-investors-right-not-so-fast-264537de?mod=mw_rss_topstories",
+      "ts": "2025-09-12T11:35:00.000Z",
+      "headline": "These 18 stocks will likely lead the market between now and December",
+      "url": "https://www.marketwatch.com/story/these-18-stocks-will-likely-lead-the-market-between-now-and-december-668fded3?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "COST"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "New ETF aims to beat the S&P 500 just by avoiding its obvious blunders",
+      "summary_en": "Why do large caps usually beat small caps in the fourth quarter? Follow the money.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T02:34:00.000Z",
-      "headline": "Gemini&#x2019;s IPO rides the crypto craze to further the fortunes of the Winklevoss twins",
-      "url": "https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories",
+      "ts": "2025-09-12T12:18:00.000Z",
+      "headline": "The job market&#x2019;s hidden flaw is now obvious &#x2014; and rate cuts might not fix it",
+      "url": "https://www.marketwatch.com/story/the-job-markets-hidden-flaw-is-now-obvious-9303e85c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "IPO for the crypto currency exchange founded by billionaires Tyler and Cameron Winklevoss ups its price range ahead of its debut, in a sign of strong interest.",
+      "summary_en": "Cracks in the U.S. labor force from immigration raids, arrests and deportations are showing.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T11:48:00.000Z",
+      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
+      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T11:28:00.000Z",
+      "headline": "Fund managers are on the cusp of &#x2018;extreme bull sentiment,&#x2019; flags Bank of America. That&#x2019;s often a bad sign.",
+      "url": "https://www.marketwatch.com/story/fund-managers-are-on-the-cusp-of-extreme-bull-sentiment-flags-bank-of-america-thats-often-a-bad-sign-03435533?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Anything but the dollar is the new investment zeitgeist that Hartnett sees in the market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee announces its tentative meeting schedule for 2027",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T00:53:00.000Z",
-      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
-      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
