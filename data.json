@@ -1,20 +1,32 @@
 {
-  "last_updated": "2025-09-12T13:27:47.284Z",
+  "last_updated": "2025-09-12T23:23:23.793Z",
   "items": [
     {
-      "ts": "2025-09-12T12:55:00.000Z",
-      "headline": "Gemini&#x2019;s IPO rides the crypto craze to further the fortunes of the Winklevoss twins",
+      "ts": "2025-09-12T22:04:00.000Z",
+      "headline": "Winklevoss twins grow $3 billion richer as crypto-trading company Gemini&#x2019;s stock trades higher",
       "url": "https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "IPO for the cryptocurrency exchange founded by billionaires Tyler and Cameron Winklevoss ups its price range ahead of its debut, in a sign of strong interest.",
+      "summary_en": "The cryptocurrency exchange founded by billionaires Tyler and Cameron Winklevoss saw its stock jump more than 20% in a strong public debut.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T12:51:00.000Z",
+      "ts": "2025-09-12T22:00:00.000Z",
+      "headline": "As Fed nears highly anticipated rate cut, the market &#x2018;really hinges&#x2019; on 10-year Treasury yield",
+      "url": "https://www.marketwatch.com/story/as-fed-nears-highly-anticipated-rate-cut-the-market-really-hinges-on-10-year-treasury-yield-a7509df4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As anticipation builds around the Federal Reserve&#x2019;s likely interest-rate cut next week, J.P. Morgan Asset Management&#x2019;s Phil Camporeale is keeping his eye on the behavior of a particular Treasury bond amid inflation risks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T21:30:00.000Z",
       "headline": "My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?",
       "url": "https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,79 +38,80 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T12:16:00.000Z",
-      "headline": "There&#x2019;s just enough pain in the economy to boost the stock market &#x2014; and one chart shows why",
-      "url": "https://www.marketwatch.com/story/theres-just-enough-pain-in-the-economy-to-boost-the-stock-market-and-one-chart-shows-why-016187af?mod=mw_rss_topstories",
+      "ts": "2025-09-12T21:00:00.000Z",
+      "headline": "&#x2018;He is increasingly angry&#x2019;: My troubled son lives with me. How do I ensure he is financially secure after I die?",
+      "url": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;No pain, no gain&#x201d; is the expression that might be used to frame the direction of the stock market.",
+      "summary_en": "&#x201c;Our family does have a long history of interventions, including hospitalizations.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T11:48:00.000Z",
-      "headline": "I&#x2019;m a single parent in my 50s. The real-estate agent suggested I add my kids to the mortgage to help me qualify. Is that wise?",
-      "url": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
+      "ts": "2025-09-12T20:40:00.000Z",
+      "headline": "I&#x2019;m 80 and my RMD is $300,000. What the heck am I supposed to do about my huge tax bill? &#xa0;",
+      "url": "https://www.marketwatch.com/story/im-80-and-my-rmd-is-300-000-what-the-heck-am-i-supposed-to-do-about-my-huge-tax-bill-d9ffb18c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I want to purchase a family home so we three don&#x2019;t have to pay rent.&#x201d;",
+      "summary_en": "A teacher turned $600,000 into $6 million and now has a huge tax bill",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T11:38:00.000Z",
-      "headline": "It&#x2019;s hard to predict a stock-market top, but two red flags have this analyst eyeing the eject button",
-      "url": "https://www.marketwatch.com/story/its-hard-to-predict-a-stock-market-top-but-two-red-flags-have-this-analyst-eyeing-the-eject-button-98b3d0c7?mod=mw_rss_topstories",
+      "ts": "2025-09-12T20:22:00.000Z",
+      "headline": "Moderna, Pfizer stocks fall as Trump officials reportedly link COVID shots to child deaths",
+      "url": "https://www.marketwatch.com/story/covid-vaccine-makers-shares-fall-as-trump-officials-to-link-shots-to-child-deaths-report-says-4e584de6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A faltering economy and fizzling AI trade could spark a pullback for stocks",
+      "summary_en": "Shares of companies that make COVID-19 vaccines sank Friday, after a report raised fears that Trump administration health officials will blame the vaccines for some child deaths.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T12:43:00.000Z",
-      "headline": "Brew City is also home to Harley &#x2014; and America&#x2019;s hottest housing market",
-      "url": "https://www.marketwatch.com/story/this-midwestern-hub-for-beer-and-harleys-has-the-hottest-housing-market-in-america-right-now-44dc18b1?mod=mw_rss_topstories",
+      "ts": "2025-09-12T20:15:00.000Z",
+      "headline": "Private equity in your 401(k): Who is the big winner? Probably not you.",
+      "url": "https://www.marketwatch.com/story/private-equity-in-your-401-k-who-is-the-big-winner-probably-not-you-9ad5e02a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "If somebody has discovered the holy grail, why would they cut in schmucks like you and me?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T20:05:00.000Z",
+      "headline": "Don&#x2019;t ignore this upcoming Medicare update &#x2014; it could be the most important message of the year",
+      "url": "https://www.marketwatch.com/story/dont-ignore-this-upcoming-medicare-update-it-could-be-the-most-important-message-of-the-year-92604e48?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The ANOC has crucial information you need to see before Medicare&#x2019;s open enrollment begins on Oct. 15.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T20:39:00.000Z",
+      "headline": "Yes, stock-market valuations are high. But this Wall Street veteran outlines 4 scenarios that could keep the rally going anyway.",
+      "url": "https://www.marketwatch.com/story/yes-stock-market-valuations-are-high-but-this-wall-street-veteran-outlines-2-scenarios-that-could-keep-the-rally-going-anyway-bda40dfc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Homes are selling fast in the Midwest and the Northeast but spending months on the market in the South and the West.",
+      "summary_en": "There is no denying that U.S. stocks are expensive right now.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T11:35:00.000Z",
-      "headline": "These 18 stocks will likely lead the market between now and December",
-      "url": "https://www.marketwatch.com/story/these-18-stocks-will-likely-lead-the-market-between-now-and-december-668fded3?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Why do large caps usually beat small caps in the fourth quarter? Follow the money.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T12:18:00.000Z",
-      "headline": "The job market&#x2019;s hidden flaw is now obvious &#x2014; and rate cuts might not fix it",
-      "url": "https://www.marketwatch.com/story/the-job-markets-hidden-flaw-is-now-obvious-9303e85c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Cracks in the U.S. labor force from immigration raids, arrests and deportations are showing.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T11:48:00.000Z",
+      "ts": "2025-09-12T20:03:00.000Z",
       "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
       "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -107,18 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T11:28:00.000Z",
-      "headline": "Fund managers are on the cusp of &#x2018;extreme bull sentiment,&#x2019; flags Bank of America. That&#x2019;s often a bad sign.",
-      "url": "https://www.marketwatch.com/story/fund-managers-are-on-the-cusp-of-extreme-bull-sentiment-flags-bank-of-america-thats-often-a-bad-sign-03435533?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Anything but the dollar is the new investment zeitgeist that Hartnett sees in the market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-05T17:30:00.000Z",
-      "headline": "Federal Open Market Committee announces its tentative meeting schedule for 2027",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250905a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Open Market Committee announces its tentative meeting schedule for 2027",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
