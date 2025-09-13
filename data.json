@@ -1,6 +1,78 @@
 {
-  "last_updated": "2025-09-13T10:38:40.097Z",
+  "last_updated": "2025-09-13T13:21:51.285Z",
   "items": [
+    {
+      "ts": "2025-09-13T13:00:00.000Z",
+      "headline": "Oracle&#x2019;s not-so-secret weapon that&#x2019;s helped it quickly take on the cloud giants",
+      "url": "https://www.marketwatch.com/story/oracles-not-so-secret-weapon-thats-helped-it-quickly-take-on-the-cloud-giants-d211133b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Larry Ellison, now Oracle&#x2019;s CTO, has played a major role in helping the company win AI cloud deals and pivot beyond legacy software",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T12:30:00.000Z",
+      "headline": "Donald Trump Jr.&#x2019;s new career: Advising companies",
+      "url": "https://www.marketwatch.com/story/donald-trump-jr-s-new-career-advising-companies-31d2b384?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "From mixed martial arts to prediction markets and drones, the president&#x2019;s eldest son is being paid for giving his counsel.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T12:29:00.000Z",
+      "headline": "My husband sold his IRA without my knowledge prior to our divorce. Is this legal?",
+      "url": "https://www.marketwatch.com/story/my-husband-sold-his-ira-without-my-knowledge-prior-to-our-divorce-is-this-legal-723db435?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Is it legal for one member of a married couple to authorize the sale of an IRA in a joint-managed account?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T12:00:00.000Z",
+      "headline": "Trump looks set to delay the TikTok ban again. Why there&#x2019;s no U.S. buyout deal yet.",
+      "url": "https://www.marketwatch.com/story/trump-looks-set-to-delay-the-tiktok-ban-again-why-theres-no-u-s-buyout-deal-yet-c6eae2c0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump is expected to give another lifeline to TikTok next week, as his administration&#x2019;s efforts to get the Chinese-controlled app to sell off its U.S. operations appear still to be caught up in broader trade negotiations with Beijing.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T11:08:00.000Z",
+      "headline": "My boyfriend, 69, moved in. He refuses to pay more than $1,300 in rent and won&#x2019;t do yard work. What should I do?",
+      "url": "https://www.marketwatch.com/story/my-boyfriend-69-moved-in-he-refuses-to-pay-more-than-1-300-in-rent-and-wont-do-yard-work-what-should-i-do-43adece3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;It&#x2019;s clear that he seems to think that if I die, that he should inherit the house. That is NOT my plan.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T12:29:00.000Z",
+      "headline": "We&#x2019;re 37 and want to have a multimillion-dollar compound for our kids. Is that a realistic goal?&#xa0;",
+      "url": "https://www.marketwatch.com/story/were-37-and-want-to-have-a-multimillion-dollar-compound-for-our-kids-is-that-a-realistic-goal-8bd18250?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;My government and pension check will be $10,000 a month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-13T10:31:00.000Z",
       "headline": "&#x2018;It&#x2019;s keeping me up at night&#x2019;: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.",
@@ -50,67 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T21:00:00.000Z",
-      "headline": "&#x2018;He is increasingly angry&#x2019;: My troubled son lives with me. How do I ensure he is financially secure after I die?",
-      "url": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our family does have a long history of interventions, including hospitalizations.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T20:40:00.000Z",
-      "headline": "I&#x2019;m 80 and my RMD is $300,000. What the heck am I supposed to do about my huge tax bill? &#xa0;",
-      "url": "https://www.marketwatch.com/story/im-80-and-my-rmd-is-300-000-what-the-heck-am-i-supposed-to-do-about-my-huge-tax-bill-d9ffb18c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A teacher turned $600,000 into $6 million and now has a huge tax bill",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T20:22:00.000Z",
-      "headline": "Moderna, Pfizer stocks fall as Trump officials reportedly link COVID shots to child deaths",
-      "url": "https://www.marketwatch.com/story/covid-vaccine-makers-shares-fall-as-trump-officials-to-link-shots-to-child-deaths-report-says-4e584de6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of companies that make COVID-19 vaccines sank Friday, after a report raised fears that Trump administration health officials will blame the vaccines for some child deaths.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T20:15:00.000Z",
-      "headline": "Private equity in your 401(k): Who is the big winner? Probably not you.",
-      "url": "https://www.marketwatch.com/story/private-equity-in-your-401-k-who-is-the-big-winner-probably-not-you-9ad5e02a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "If somebody has discovered the holy grail, why would they cut in schmucks like you and me?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T20:05:00.000Z",
-      "headline": "Don&#x2019;t ignore this upcoming Medicare update &#x2014; it could be the most important message of the year",
-      "url": "https://www.marketwatch.com/story/dont-ignore-this-upcoming-medicare-update-it-could-be-the-most-important-message-of-the-year-92604e48?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The ANOC has crucial information you need to see before Medicare&#x2019;s open enrollment begins on Oct. 15.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-09T15:00:00.000Z",
       "headline": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm",
@@ -120,18 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T20:39:00.000Z",
-      "headline": "Yes, stock-market valuations are high. But this Wall Street veteran outlines 4 scenarios that could keep the rally going anyway.",
-      "url": "https://www.marketwatch.com/story/yes-stock-market-valuations-are-high-but-this-wall-street-veteran-outlines-2-scenarios-that-could-keep-the-rally-going-anyway-bda40dfc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There is no denying that U.S. stocks are expensive right now.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
