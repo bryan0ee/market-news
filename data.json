@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-09-12T23:23:23.793Z",
+  "last_updated": "2025-09-13T10:38:40.097Z",
   "items": [
+    {
+      "ts": "2025-09-13T10:31:00.000Z",
+      "headline": "&#x2018;It&#x2019;s keeping me up at night&#x2019;: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.",
+      "url": "https://www.marketwatch.com/story/its-keeping-me-up-at-night-my-brother-sold-his-share-of-the-family-farm-and-lost-the-rest-in-a-divorce-he-says-i-owe-him-50b33c93?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;He told me that he will legally pursue me and my farm through the court.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-12T22:04:00.000Z",
       "headline": "Winklevoss twins grow $3 billion richer as crypto-trading company Gemini&#x2019;s stock trades higher",
@@ -99,30 +111,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T20:39:00.000Z",
-      "headline": "Yes, stock-market valuations are high. But this Wall Street veteran outlines 4 scenarios that could keep the rally going anyway.",
-      "url": "https://www.marketwatch.com/story/yes-stock-market-valuations-are-high-but-this-wall-street-veteran-outlines-2-scenarios-that-could-keep-the-rally-going-anyway-bda40dfc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There is no denying that U.S. stocks are expensive right now.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T20:03:00.000Z",
-      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
-      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-09T15:00:00.000Z",
       "headline": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm",
@@ -132,6 +120,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-12T20:39:00.000Z",
+      "headline": "Yes, stock-market valuations are high. But this Wall Street veteran outlines 4 scenarios that could keep the rally going anyway.",
+      "url": "https://www.marketwatch.com/story/yes-stock-market-valuations-are-high-but-this-wall-street-veteran-outlines-2-scenarios-that-could-keep-the-rally-going-anyway-bda40dfc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There is no denying that U.S. stocks are expensive right now.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
