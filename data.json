@@ -1,56 +1,20 @@
 {
-  "last_updated": "2025-09-13T13:21:51.285Z",
+  "last_updated": "2025-09-13T23:23:02.280Z",
   "items": [
     {
-      "ts": "2025-09-13T13:00:00.000Z",
-      "headline": "Oracle&#x2019;s not-so-secret weapon that&#x2019;s helped it quickly take on the cloud giants",
-      "url": "https://www.marketwatch.com/story/oracles-not-so-secret-weapon-thats-helped-it-quickly-take-on-the-cloud-giants-d211133b?mod=mw_rss_topstories",
+      "ts": "2025-09-13T21:54:00.000Z",
+      "headline": "Fed governor Cook declared second residence as &#x2018;vacation home,&#x2019; countering Trump&#x2019;s claims",
+      "url": "https://www.marketwatch.com/story/fed-governor-cook-declared-2nd-residence-as-vacation-home-undermining-trumps-claims-00369716?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Larry Ellison, now Oracle&#x2019;s CTO, has played a major role in helping the company win AI cloud deals and pivot beyond legacy software",
+      "summary_en": "Federal Reserve governor Lisa Cook reportedly declared a condo she purchased in 2021 as a &#x201c;vacation&#x201d; and &#x201c;second&#x201d; home in loan filings and other documents &#x2014; potentially undermining the Trump administration&#x2019;s claims that she engaged in mortgage fraud, which the president used as grounds to fire Cook from the Fed&#x2019;s board.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-13T12:30:00.000Z",
-      "headline": "Donald Trump Jr.&#x2019;s new career: Advising companies",
-      "url": "https://www.marketwatch.com/story/donald-trump-jr-s-new-career-advising-companies-31d2b384?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "From mixed martial arts to prediction markets and drones, the president&#x2019;s eldest son is being paid for giving his counsel.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T12:29:00.000Z",
-      "headline": "My husband sold his IRA without my knowledge prior to our divorce. Is this legal?",
-      "url": "https://www.marketwatch.com/story/my-husband-sold-his-ira-without-my-knowledge-prior-to-our-divorce-is-this-legal-723db435?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Is it legal for one member of a married couple to authorize the sale of an IRA in a joint-managed account?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T12:00:00.000Z",
-      "headline": "Trump looks set to delay the TikTok ban again. Why there&#x2019;s no U.S. buyout deal yet.",
-      "url": "https://www.marketwatch.com/story/trump-looks-set-to-delay-the-tiktok-ban-again-why-theres-no-u-s-buyout-deal-yet-c6eae2c0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump is expected to give another lifeline to TikTok next week, as his administration&#x2019;s efforts to get the Chinese-controlled app to sell off its U.S. operations appear still to be caught up in broader trade negotiations with Beijing.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T11:08:00.000Z",
+      "ts": "2025-09-13T21:44:00.000Z",
       "headline": "My boyfriend, 69, moved in. He refuses to pay more than $1,300 in rent and won&#x2019;t do yard work. What should I do?",
       "url": "https://www.marketwatch.com/story/my-boyfriend-69-moved-in-he-refuses-to-pay-more-than-1-300-in-rent-and-wont-do-yard-work-what-should-i-do-43adece3?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,19 +26,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-13T12:29:00.000Z",
-      "headline": "We&#x2019;re 37 and want to have a multimillion-dollar compound for our kids. Is that a realistic goal?&#xa0;",
-      "url": "https://www.marketwatch.com/story/were-37-and-want-to-have-a-multimillion-dollar-compound-for-our-kids-is-that-a-realistic-goal-8bd18250?mod=mw_rss_topstories",
+      "ts": "2025-09-13T23:00:00.000Z",
+      "headline": "I&#x2019;m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?",
+      "url": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;My government and pension check will be $10,000 a month.&#x201d;",
+      "summary_en": "&#x201c;I want to purchase a family home so we three don&#x2019;t have to pay rent.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-13T10:31:00.000Z",
+      "ts": "2025-09-13T22:30:00.000Z",
+      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
+      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T22:30:00.000Z",
       "headline": "&#x2018;It&#x2019;s keeping me up at night&#x2019;: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.",
       "url": "https://www.marketwatch.com/story/its-keeping-me-up-at-night-my-brother-sold-his-share-of-the-family-farm-and-lost-the-rest-in-a-divorce-he-says-i-owe-him-50b33c93?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -86,39 +62,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T22:04:00.000Z",
-      "headline": "Winklevoss twins grow $3 billion richer as crypto-trading company Gemini&#x2019;s stock trades higher",
-      "url": "https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The cryptocurrency exchange founded by billionaires Tyler and Cameron Winklevoss saw its stock jump more than 20% in a strong public debut.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-12T22:00:00.000Z",
-      "headline": "As Fed nears highly anticipated rate cut, the market &#x2018;really hinges&#x2019; on 10-year Treasury yield",
-      "url": "https://www.marketwatch.com/story/as-fed-nears-highly-anticipated-rate-cut-the-market-really-hinges-on-10-year-treasury-yield-a7509df4?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "ts": "2025-09-13T16:00:00.000Z",
+      "headline": "The AI trade will make or break your stock portfolio. Here&#x2019;s how to win in 2025.",
+      "url": "https://www.marketwatch.com/story/the-ai-trade-will-make-or-break-your-stock-portfolio-heres-how-to-win-in-2025-cfc12ac6?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "As anticipation builds around the Federal Reserve&#x2019;s likely interest-rate cut next week, J.P. Morgan Asset Management&#x2019;s Phil Camporeale is keeping his eye on the behavior of a particular Treasury bond amid inflation risks.",
+      "summary_en": "With AI stocks driving the market, investors are missing out if they aren&#x2019;t playing the trend. This is the playbook that experts are following to get an edge.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-12T21:30:00.000Z",
-      "headline": "My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?",
-      "url": "https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories",
+      "ts": "2025-09-13T15:00:00.000Z",
+      "headline": "What it was like at Robinhood&#x2019;s Hood Summit: DJs, go-karts and invite-only parties for active traders",
+      "url": "https://www.marketwatch.com/story/what-it-was-like-at-robinhoods-hood-summit-djs-go-karts-and-invite-only-parties-for-active-traders-57271062?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;The trust dictates my brother should receive an equal amount.&#x201d;",
+      "summary_en": "Robinhood invited its most engaged customers to Las Vegas and gave them the VIP treatment &#x2014; because they&#x2019;re too valuable to lose.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T17:09:00.000Z",
+      "headline": "TikTok calls her &#x2018;32 pizzas mom.&#x2019; What her videos can teach us about how we spend money.",
+      "url": "https://www.marketwatch.com/story/tiktok-calls-her-32-pizzas-mom-what-her-videos-can-teach-us-about-how-we-spend-money-102cce4d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A $500 grocery-haul video has gone viral for sparking a conversation about when stocking up on groceries might go too far",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T17:00:00.000Z",
+      "headline": "The FIFA World Cup ticket presale is live. What to know about dynamic pricing, lotteries and sale dates while trying to score seats.",
+      "url": "https://www.marketwatch.com/story/the-fifa-world-cup-ticket-presale-is-live-what-to-know-about-dynamic-pricing-lotteries-and-sale-dates-while-trying-to-score-seats-cd1121c8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Plus, advice on when is the best time to buy World Cup tickets with dynamic pricing in play: &#x201c;There are deals to be had.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T16:39:00.000Z",
+      "headline": "Stock market&#x2019;s relentless rally threatens to turn into a &#x2018;melt-up&#x2019;. What&#x2019;s next.",
+      "url": "https://www.marketwatch.com/story/stock-markets-relentless-rally-threatens-to-turn-into-a-melt-up-whats-next-f4dac854?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Some stock watchers see the market on the verge of a &#x201c;melt-up.&#x201d; Here&#x2019;s how to approach it.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
