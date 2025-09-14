@@ -1,9 +1,21 @@
 {
-  "last_updated": "2025-09-14T13:21:11.726Z",
+  "last_updated": "2025-09-14T23:23:34.496Z",
   "items": [
     {
-      "ts": "2025-09-14T13:18:00.000Z",
-      "headline": "Fed governor Cook declared second residence as &#x2018;vacation home,&#x2019; contrary to Trump claim",
+      "ts": "2025-09-14T23:08:00.000Z",
+      "headline": "U.S. stock futures flat ahead of this week&#x2019;s big Fed meeting",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-ahead-of-this-weeks-big-fed-meeting-85e83580?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock-market futures were little changed Sunday, as investors await what is expected to be the Fed&#x2019;s first interest-rate cut in nine months later this week.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T22:52:00.000Z",
+      "headline": "Fed governor Cook reportedly declared second residence as vacation home, contrary to Trump claim",
       "url": "https://www.marketwatch.com/story/fed-governor-cook-declared-2nd-residence-as-vacation-home-undermining-trumps-claims-00369716?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -11,6 +23,78 @@
         "ED"
       ],
       "summary_en": "Federal Reserve governor Lisa Cook reportedly declared a condo she purchased in 2021 as a &#x201c;vacation&#x201d; and &#x201c;second&#x201d; home in loan filings and other documents &#x2014; potentially undermining the Trump administration&#x2019;s claims that she engaged in mortgage fraud, which the president used as grounds to fire Cook from the Fed&#x2019;s board.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T21:55:00.000Z",
+      "headline": "Donald Trump Jr.&#x2019;s new career: advising companies",
+      "url": "https://www.marketwatch.com/story/donald-trump-jr-s-new-career-advising-companies-31d2b384?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "From mixed martial arts to prediction markets and drones, the president&#x2019;s eldest son is being paid for giving his counsel.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T20:52:00.000Z",
+      "headline": "A divided Fed is expected to settle on a 25-basis-point rate cut this week. The key question is, what comes next?",
+      "url": "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Will future cuts come at every meeting this year, or at a more cautious pace?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T19:56:00.000Z",
+      "headline": "This crypto investor correctly predicted bitcoin would hit $120K in 2025. He now expects it to double in the next year.",
+      "url": "https://www.marketwatch.com/story/this-crypto-investor-correctly-predicted-bitcoin-would-hit-120k-in-2025-he-now-expects-it-to-double-in-the-next-year-250b5ab4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Dan Morehead, founder and managing director at Pantera Capital, said he expects bitcoin to double within a year and outlined his broader forecasts for the future of crypto.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T18:00:00.000Z",
+      "headline": "Your retirement plan is missing this one thing",
+      "url": "https://www.marketwatch.com/story/your-retirement-plan-is-missing-this-one-thing-a4b0255f?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "With Social Security, investment income, RMDs, annuities and pensions, it can be hard to keep track of money coming and going.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T16:00:00.000Z",
+      "headline": "Why the Fed&#x2019;s first rate cut in 9 months could derail the stock-market rally &#x2014; and how investors can prepare",
+      "url": "https://www.marketwatch.com/story/why-the-feds-first-rate-cut-in-9-months-could-derail-the-stock-market-rally-and-how-investors-can-prepare-fed25009?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors are watching whether the Federal Reserve&#x2019;s interest-rate decision &#x2014; and its economic projections &#x2014; will keep the stock rally alive or send the market into a tailspin.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T13:19:00.000Z",
+      "headline": "My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?",
+      "url": "https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The trust dictates my brother should receive an equal amount.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,18 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-14T10:00:00.000Z",
-      "headline": "A divided Fed is expected to settle on a 25-basis-point cut this week. The key question is, what comes next?",
-      "url": "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Will future cuts come at every meeting this year, or at a more cautious pace?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-09T15:00:00.000Z",
       "headline": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm",
@@ -59,78 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T23:00:00.000Z",
-      "headline": "I&#x2019;m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?",
-      "url": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I want to purchase a family home so we three don&#x2019;t have to pay rent.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T22:30:00.000Z",
-      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
-      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T22:30:00.000Z",
-      "headline": "&#x2018;It&#x2019;s keeping me up at night&#x2019;: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.",
-      "url": "https://www.marketwatch.com/story/its-keeping-me-up-at-night-my-brother-sold-his-share-of-the-family-farm-and-lost-the-rest-in-a-divorce-he-says-i-owe-him-50b33c93?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He told me that he will legally pursue me and my farm through the court.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T17:09:00.000Z",
-      "headline": "TikTok calls her &#x2018;32 pizzas mom.&#x2019; What her videos can teach us about how we spend money.",
-      "url": "https://www.marketwatch.com/story/tiktok-calls-her-32-pizzas-mom-what-her-videos-can-teach-us-about-how-we-spend-money-102cce4d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A $500 grocery-haul video has gone viral for sparking a conversation about when stocking up on groceries might go too far",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T17:00:00.000Z",
-      "headline": "The FIFA World Cup ticket presale is live. What to know about dynamic pricing, lotteries and sale dates while trying to score seats.",
-      "url": "https://www.marketwatch.com/story/the-fifa-world-cup-ticket-presale-is-live-what-to-know-about-dynamic-pricing-lotteries-and-sale-dates-while-trying-to-score-seats-cd1121c8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Plus, advice on when is the best time to buy World Cup tickets with dynamic pricing in play: &#x201c;There are deals to be had.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T16:39:00.000Z",
-      "headline": "Stock market&#x2019;s relentless rally threatens to turn into a &#x2018;melt-up&#x2019;. What&#x2019;s next.",
-      "url": "https://www.marketwatch.com/story/stock-markets-relentless-rally-threatens-to-turn-into-a-melt-up-whats-next-f4dac854?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Some stock watchers see the market on the verge of a &#x201c;melt-up.&#x201d; Here&#x2019;s how to approach it.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
