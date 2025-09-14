@@ -1,33 +1,9 @@
 {
-  "last_updated": "2025-09-14T10:37:33.232Z",
+  "last_updated": "2025-09-14T13:21:11.726Z",
   "items": [
     {
-      "ts": "2025-09-14T10:00:00.000Z",
-      "headline": "A divided Fed is expected to settle on a 25-basis-point cut this week. The key question is, what comes next?",
-      "url": "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Will future cuts come at every meeting this year, or at a more cautious pace?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T16:00:00.000Z",
-      "headline": "The AI trade will make or break your stock portfolio. Here&#x2019;s how to win in 2025.",
-      "url": "https://www.marketwatch.com/story/the-ai-trade-will-make-or-break-your-stock-portfolio-heres-how-to-win-in-2025-cfc12ac6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "With AI stocks driving the market, investors are missing out if they aren&#x2019;t playing the trend. This is the playbook that experts are following to get an edge.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T21:54:00.000Z",
-      "headline": "Fed governor Cook declared second residence as &#x2018;vacation home,&#x2019; countering Trump&#x2019;s claims",
+      "ts": "2025-09-14T13:18:00.000Z",
+      "headline": "Fed governor Cook declared second residence as &#x2018;vacation home,&#x2019; contrary to Trump claim",
       "url": "https://www.marketwatch.com/story/fed-governor-cook-declared-2nd-residence-as-vacation-home-undermining-trumps-claims-00369716?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -38,7 +14,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-13T21:44:00.000Z",
+      "ts": "2025-09-14T12:19:00.000Z",
+      "headline": "&#x2018;He is increasingly angry&#x2019;: My troubled son lives with me. How do I ensure he is financially secure after I die?",
+      "url": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Our family does have a long history of interventions, including hospitalizations.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T11:17:00.000Z",
       "headline": "My boyfriend, 69, moved in. He refuses to pay more than $1,300 in rent and won&#x2019;t do yard work. What should I do?",
       "url": "https://www.marketwatch.com/story/my-boyfriend-69-moved-in-he-refuses-to-pay-more-than-1-300-in-rent-and-wont-do-yard-work-what-should-i-do-43adece3?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -47,6 +35,18 @@
         "ED"
       ],
       "summary_en": "&#x201c;It&#x2019;s clear that he seems to think that if I die, that he should inherit the house. That is NOT my plan.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-14T10:00:00.000Z",
+      "headline": "A divided Fed is expected to settle on a 25-basis-point cut this week. The key question is, what comes next?",
+      "url": "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Will future cuts come at every meeting this year, or at a more cautious pace?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
