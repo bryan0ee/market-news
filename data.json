@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-09-13T23:23:02.280Z",
+  "last_updated": "2025-09-14T10:37:33.232Z",
   "items": [
+    {
+      "ts": "2025-09-14T10:00:00.000Z",
+      "headline": "A divided Fed is expected to settle on a 25-basis-point cut this week. The key question is, what comes next?",
+      "url": "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Will future cuts come at every meeting this year, or at a more cautious pace?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-13T16:00:00.000Z",
+      "headline": "The AI trade will make or break your stock portfolio. Here&#x2019;s how to win in 2025.",
+      "url": "https://www.marketwatch.com/story/the-ai-trade-will-make-or-break-your-stock-portfolio-heres-how-to-win-in-2025-cfc12ac6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "With AI stocks driving the market, investors are missing out if they aren&#x2019;t playing the trend. This is the playbook that experts are following to get an edge.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-13T21:54:00.000Z",
       "headline": "Fed governor Cook declared second residence as &#x2018;vacation home,&#x2019; countering Trump&#x2019;s claims",
@@ -23,6 +47,18 @@
         "ED"
       ],
       "summary_en": "&#x201c;It&#x2019;s clear that he seems to think that if I die, that he should inherit the house. That is NOT my plan.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-09T15:00:00.000Z",
+      "headline": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -62,30 +98,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-13T16:00:00.000Z",
-      "headline": "The AI trade will make or break your stock portfolio. Here&#x2019;s how to win in 2025.",
-      "url": "https://www.marketwatch.com/story/the-ai-trade-will-make-or-break-your-stock-portfolio-heres-how-to-win-in-2025-cfc12ac6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "With AI stocks driving the market, investors are missing out if they aren&#x2019;t playing the trend. This is the playbook that experts are following to get an edge.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-13T15:00:00.000Z",
-      "headline": "What it was like at Robinhood&#x2019;s Hood Summit: DJs, go-karts and invite-only parties for active traders",
-      "url": "https://www.marketwatch.com/story/what-it-was-like-at-robinhoods-hood-summit-djs-go-karts-and-invite-only-parties-for-active-traders-57271062?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Robinhood invited its most engaged customers to Las Vegas and gave them the VIP treatment &#x2014; because they&#x2019;re too valuable to lose.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-13T17:09:00.000Z",
       "headline": "TikTok calls her &#x2018;32 pizzas mom.&#x2019; What her videos can teach us about how we spend money.",
       "url": "https://www.marketwatch.com/story/tiktok-calls-her-32-pizzas-mom-what-her-videos-can-teach-us-about-how-we-spend-money-102cce4d?mod=mw_rss_topstories",
@@ -119,18 +131,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Some stock watchers see the market on the verge of a &#x201c;melt-up.&#x201d; Here&#x2019;s how to approach it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T15:00:00.000Z",
-      "headline": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
