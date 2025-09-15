@@ -1,45 +1,20 @@
 {
-  "last_updated": "2025-09-15T13:29:01.696Z",
+  "last_updated": "2025-09-15T23:23:31.027Z",
   "items": [
     {
-      "ts": "2025-09-15T12:24:00.000Z",
-      "headline": "Google&#x2019;s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit",
-      "url": "https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "Penske Media says Google&#x2019;s search engine is cannibalizing its businesses, in a lawsuit filed late Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-15T13:22:00.000Z",
-      "headline": "Why the 10-year Treasury yield&#x2019;s bounce back above 4% should be a warning for investors",
-      "url": "https://www.marketwatch.com/story/why-the-10-year-treasury-yields-bounce-back-above-4-should-be-a-warning-for-investors-ed20092e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A tug-of-war has erupted in the $29 trillion Treasury market between investors who worry that cracks in the labor market could prompt the Federal Reserve to dramatically cut interest rates and those who fear that the central bank&#x2019;s fight against inflation isn&#x2019;t yet won.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-15T12:37:00.000Z",
-      "headline": "Tesla&#x2019;s stock climbs after Musk sends this $1 billion vote of confidence",
-      "url": "https://www.marketwatch.com/story/teslas-stock-climbs-after-musk-sends-this-1-billion-vote-of-confidence-1fad69de?mod=mw_rss_topstories",
+      "ts": "2025-09-15T22:35:00.000Z",
+      "headline": "Nvidia is dealt an antitrust setback in China. What it means for the stock.",
+      "url": "https://www.marketwatch.com/story/china-finds-nvidia-broke-antitrust-law-and-extends-probe-shares-are-dropping-c612a57f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Tesla&#x2019;s stock has underperformed this year, but Musk is putting more of his money where his mouth is as he makes his first open-market purchase of shares since 2020.",
+      "summary_en": "China says Nvidia violated antitrust rules. An analyst says it&#x2019;s just &#x2018;noise&#x2019; but shows that Nvidia&#x2019;s interests could be used as leverage in broader U.S.-China trade talks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-15T12:35:00.000Z",
+      "ts": "2025-09-15T22:20:00.000Z",
       "headline": "Your financial plan looks like a winner. Do you really need a second opinion?&#xa0;",
       "url": "https://www.marketwatch.com/story/your-financial-plan-looks-like-a-winner-do-you-really-need-a-second-opinion-c6d8ea8a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -52,68 +27,80 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-15T12:32:00.000Z",
-      "headline": "The dot-com era&#x2019;s highest-profile analyst says there will be a big AI bust",
-      "url": "https://www.marketwatch.com/story/the-dot-com-eras-most-celebrated-analyst-says-there-will-be-a-big-ai-bust-he-just-doesnt-know-when-512e952e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Star dot-com analyst Henry Blodget has doubts about how high AI-fueled companies can fly.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-15T11:35:00.000Z",
-      "headline": "This &#x2018;digital cash&#x2019; pays you enough interest to worry your bank",
+      "ts": "2025-09-15T22:19:00.000Z",
+      "headline": "Why banks are afraid you&#x2019;re going to ditch them for stablecoins",
       "url": "https://www.marketwatch.com/story/this-digital-cash-pays-you-enough-interest-to-worry-your-bank-412f5d0b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Regulated U.S.-dollar stablecoins could become as ordinary as money-market funds &#x2014; and help the greenback keep its global dominance.",
+      "summary_en": "Regulated U.S.-dollar stablecoins could become as ordinary as money-market funds.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-15T13:25:00.000Z",
-      "headline": "Your retirement plan is missing this one thing",
-      "url": "https://www.marketwatch.com/story/your-retirement-plan-is-missing-this-one-thing-a4b0255f?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "With Social Security, investment income, RMDs, annuities and pensions, it can be hard to keep track of money coming and going.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-15T11:00:00.000Z",
-      "headline": "My fianc&#xe9;e and I are 61. I&#x2019;m moving into her home. Are there financial reasons to get married?",
-      "url": "https://www.marketwatch.com/story/my-fiancee-and-i-are-61-im-moving-into-her-home-are-there-financial-reasons-to-get-married-9404f635?mod=mw_rss_topstories",
+      "ts": "2025-09-15T21:26:00.000Z",
+      "headline": "This long-shot move could get the 30-year mortgage rate to 5% next year, says BofA Global",
+      "url": "https://www.marketwatch.com/story/this-long-shot-move-could-get-the-30-year-mortgage-rate-to-5-next-year-says-bofa-global-2ab2dbc5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Once I have moved in with her, the plan is to rent out my house.&#x201d;",
+      "summary_en": "Investors are warming to the idea that the Trump administration might try to cajole the Federal Reserve into buying government-backed mortgage bonds once again.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-15T12:28:00.000Z",
-      "headline": "China finds Nvidia broke antitrust law and extends probe. Its stock is dropping.",
-      "url": "https://www.marketwatch.com/story/china-finds-nvidia-broke-antitrust-law-and-extends-probe-shares-are-dropping-c612a57f?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-09-15T20:49:00.000Z",
+      "headline": "Investors eyeing a Fed rate cut this week: Beware the unintended fallout for U.S. markets and the economy",
+      "url": "https://www.marketwatch.com/story/investors-eyeing-a-fed-rate-cut-this-week-beware-the-unintended-fallout-for-u-s-markets-and-the-economy-c8218c82?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A Fed cut in 2007 could hold some clues on how things might play out this time around, according to the Leuthold Group.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-15T20:41:00.000Z",
+      "headline": "BlackRock turns &#x2018;neutral&#x2019; on long-term Treasurys ahead of potential Fed rate cuts",
+      "url": "https://www.marketwatch.com/story/blackrock-turns-neutral-on-long-term-treasurys-ahead-of-potential-fed-rate-cuts-eb48eba5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "BlackRock shifted its tactical view of long-term Treasurys but said the macroeconomic backdrop is &#x201c;murky.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-15T20:18:00.000Z",
+      "headline": "Why the 10-year Treasury yield&#x2019;s bounce back above 4% should be a warning for investors",
+      "url": "https://www.marketwatch.com/story/why-the-10-year-treasury-yields-bounce-back-above-4-should-be-a-warning-for-investors-ed20092e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Treasury market&#x2019;s most popular trade in recent years is being tested as investors await the Federal Reserve&#x2019;s interest-rate decision.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-15T22:37:00.000Z",
+      "headline": "What CoreWeave&#x2019;s new $6.3 billion contract with Nvidia says about the AI trade",
+      "url": "https://www.marketwatch.com/story/what-coreweaves-new-6-3-billion-contract-with-nvidia-says-about-the-ai-trade-086b98bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The investigation centers around Nvidia&#x2019;s acquisition of Mellanox Technology Co.",
+      "summary_en": "The deal offers some reassurance to CoreWeave investors in light of the company&#x2019;s heavy customer concentration and rampant competition for cloud offerings.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-15T11:50:00.000Z",
-      "headline": "And now for Washington&#x2019;s next trick &#x2014; sawing the dollar&#x2019;s value in half",
+      "ts": "2025-09-15T22:17:00.000Z",
+      "headline": "This Treasury-bond investment has only one winner &#x2014; and it&#x2019;s not you",
       "url": "https://www.marketwatch.com/story/and-now-for-washingtons-next-trick-sawing-the-dollars-value-in-half-06a26086?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -121,6 +108,18 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Pay $24 now, get $13 in 30 years: This Treasury-bond investment has only one winner &#x2014; and it&#x2019;s not you.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-15T20:35:00.000Z",
+      "headline": "Alphabet&#x2019;s stock was an AI loser. Now it&#x2019;s beaten out Nvidia on the year.",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-was-an-ai-loser-now-its-beaten-out-nvidia-on-the-year-c4100fa6?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Alphabet briefly became the best performer in the &#x201c;Magnificent Seven&#x201d; on a year-to-date basis, showing how its stock has new shine in the eyes of investors.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
