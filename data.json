@@ -1,125 +1,124 @@
 {
-  "last_updated": "2025-09-16T10:42:24.384Z",
+  "last_updated": "2025-09-16T13:30:54.833Z",
   "items": [
     {
-      "ts": "2025-09-16T10:33:00.000Z",
-      "headline": "&#x2018;I spend 5 hours a day on my portfolio&#x2019;: I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
-      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-09-16T12:35:00.000Z",
+      "headline": "Markets are pricing in three rate cuts by year-end. Why the Fed might agree.",
+      "url": "https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A rate cut at the September Fed meeting looks like a done deal. Be careful with stocks and watch the dollar.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T11:40:00.000Z",
+      "headline": "The best-performing Dow stock this year isn&#x2019;t Nvidia. How this bank rose to the top.",
+      "url": "https://www.marketwatch.com/story/the-best-performing-dow-stock-this-year-isnt-nvidia-how-this-bank-rose-to-the-top-7eec9e8c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Goldman Sachs&#x2019;s stock has benefited from rate-cut expectations, a boom in IPO activity and a bet on one of the hottest areas of the lending market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T11:30:00.000Z",
+      "headline": "These stock-market experts don&#x2019;t love AI. Here&#x2019;s what they do recommend.",
+      "url": "https://www.marketwatch.com/story/these-stock-market-experts-dont-love-ai-heres-what-they-do-recommend-6852923a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "I&#x2019;ll bet you think that investment newsletters&#x2019; most-recommended stock is Nvidia Corp., the AI-chip-producing giant whose stock has gained more than 30,000% over the past decade.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T10:42:00.000Z",
+      "headline": "Fund managers are ramping up on stocks &#x2014; and finding them overvalued",
+      "url": "https://www.marketwatch.com/story/fund-managers-are-ramping-up-on-stocks-and-finding-them-overvalued-cbbc63a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Fund managers are not letting price get in the way of loading up on stocks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T13:13:00.000Z",
+      "headline": "Even a Tesla Model Y safety probe can&#x2019;t stop the stock&#x2019;s rally",
+      "url": "https://www.marketwatch.com/story/even-a-tesla-model-y-safety-probe-cant-stop-the-stocks-rally-eba04a6a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Tesla&#x2019;s stock is on track for its sixth day of gains in a sign of improving sentiment, despite a probe into inoperable doors on 174,290 Model Ys.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T13:07:00.000Z",
+      "headline": "The hurdles are low for another 10% gain for the S&P 500, says this Wall Street veteran",
+      "url": "https://www.marketwatch.com/story/the-hurdles-are-low-for-another-10-gain-for-the-s-p-500-says-this-wall-street-veteran-cfb2cbff?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Count on earnings and the economy to keep stocks afloat, says Jonathan Golub, chief equity strategist at Seaport Research Partners.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T12:40:00.000Z",
+      "headline": "Retail sales are strong for the third month in a row. Economy still seems to be in pretty good shape.",
+      "url": "https://www.marketwatch.com/story/retail-sales-are-strong-for-the-third-month-in-a-row-in-a-good-sign-for-the-economy-1884b947?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
+      "summary_en": "Retail sales rose at a brisk pace in August for the third month in a row, signaling that U.S. households continue to spend at healthy levels despite worries about lingering inflation and a softening labor market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T10:33:00.000Z",
-      "headline": "My fianc&#xe9;e and I are 61. I&#x2019;m moving into her home. How do we divide the expenses fairly?",
-      "url": "https://www.marketwatch.com/story/my-fiancee-and-i-are-61-im-moving-into-her-home-are-there-financial-reasons-to-get-married-9404f635?mod=mw_rss_topstories",
+      "ts": "2025-09-16T12:25:00.000Z",
+      "headline": "Trump revives call to ditch quarterly earnings &#x2014; and this time, the SEC may listen",
+      "url": "https://www.marketwatch.com/story/trump-revives-call-to-ditch-quarterly-earnings-reports-what-comes-next-d51225ca?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Once I have moved in with her, the plan is to rent out my house.&#x201d;",
+      "summary_en": "European companies already report twice yearly. Trump wants to allow U.S. businesses to do the same.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T10:01:00.000Z",
-      "headline": "What 1.1 million messages say about how ChatGPT is actually used",
-      "url": "https://www.marketwatch.com/story/what-1-1-million-messages-say-about-how-chatgpt-is-actually-used-f96db90a?mod=mw_rss_topstories",
+      "ts": "2025-09-16T12:09:00.000Z",
+      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
+      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "ChatGPT use is growing fast, but it&#x2019;s becoming a less a tool in the workplace and more for personal use.",
+      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T09:33:00.000Z",
-      "headline": "&#x2018;It&#x2019;s a mess&#x2019;: My unmarried friends bought a house together. What&#x2019;s the best way for one to buy the other out?",
-      "url": "https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories",
+      "ts": "2025-09-16T10:49:00.000Z",
+      "headline": "And now for Washington&#x2019;s next trick &#x2014; sawing the dollar&#x2019;s value in half",
+      "url": "https://www.marketwatch.com/story/and-now-for-washingtons-next-trick-sawing-the-dollars-value-in-half-06a26086?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The couple is ending their relationship. What do they do with the house?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T09:24:00.000Z",
-      "headline": "Companies are lining up for U.S. government investment, says banker on MP Materials deal",
-      "url": "https://www.marketwatch.com/story/companies-are-lining-up-for-u-s-government-investment-says-banker-on-mp-materials-deal-4de6155d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Scores of companies have reached out to JPMorgan, the banker on the landmark deal between the Pentagon and MP Materials in which the U.S. government took a stake in the rare-earths producer.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T09:05:00.000Z",
-      "headline": "Mark Wahlberg&#x2019;s former Beverly Hills estate gets a $7 million price cut",
-      "url": "https://www.marketwatch.com/story/mark-wahlbergs-former-beverly-hills-estate-gets-a-7-million-price-cut-7ec030f2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Hollywood legend Mark Wahlberg&#x2019;s former &#x201c;playground&#x201d; in Beverly Hills has hit the market again at a big discount&#x2014;12 years after the actor sold the extensively remodeled mansion.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T08:58:00.000Z",
-      "headline": "&#x2018;Downton Abbey&#x2019; star Michelle Dockery shows off her stylish London townhouse&#x2014;and it&#x2019;s nothing like Highclere Castle",
-      "url": "https://www.marketwatch.com/story/downton-abbey-star-michelle-dockery-shows-off-her-stylish-london-townhouseand-its-nothing-like-highclere-castle-efff1bc2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Michelle Dockery, star of &#x201c;Downton Abbey,&#x201d; has opened the doors to her London home, revealing a colorful paradise filled with fun&#x2014;and just a touch of regal elegance.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T07:43:00.000Z",
-      "headline": "This hedge fund smells blood in the water and is launching a short-selling strategy to capitalize",
-      "url": "https://www.marketwatch.com/story/this-hedge-fund-smells-blood-in-the-water-and-is-launching-a-short-selling-strategy-to-capitalize-8a95bb40?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Little Harbor Advisors is launching a multi-manager short strategy fund to protect investors in the event of a pronounced market correction.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T03:36:00.000Z",
-      "headline": "Trump administration orders Delta to unwind joint venture with Aeromexico",
-      "url": "https://www.marketwatch.com/story/trump-administration-orders-delta-to-unwind-joint-venture-with-aeromexico-b5a8fba3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Trump administration late Monday ordered Delta Air Lines Inc. and Mexico&#x2019;s Grupo Aeromexico to end their joint venture, claiming it is &#x201c;anticompetitive.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T01:41:00.000Z",
-      "headline": "Miran set to vote at this week&#x2019;s Fed meeting. Here&#x2019;s what to expect on Wednesday.",
-      "url": "https://www.marketwatch.com/story/miran-set-to-vote-at-this-weeks-fed-meeting-heres-what-to-expect-on-wednesday-2639cf05?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The Republican-controlled Senate on Monday voted in favor of President Donald Trump&#x2019;s nominee for Federal Reserve governor, Stephen Miran, ending some of the uncertainty around this week&#x2019;s Fed meeting that&#x2019;s widely expected to deliver a cut to interest rates.",
+      "summary_en": "This Treasury-bond investment has one winner &#x2014; and it&#x2019;s not you.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
