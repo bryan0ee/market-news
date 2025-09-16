@@ -1,9 +1,45 @@
 {
-  "last_updated": "2025-09-16T13:30:54.833Z",
+  "last_updated": "2025-09-16T23:22:10.511Z",
   "items": [
     {
-      "ts": "2025-09-16T12:35:00.000Z",
-      "headline": "Markets are pricing in three rate cuts by year-end. Why the Fed might agree.",
+      "ts": "2025-09-16T23:13:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a mess&#x2019;: My unmarried friends bought a house together. What&#x2019;s the best way for one to buy the other out?",
+      "url": "https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The couple is ending their relationship. What do they do with the house?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T22:10:00.000Z",
+      "headline": "Does Palantir face a new threat from Salesforce? Software giants clash over lucrative government contracts.",
+      "url": "https://www.marketwatch.com/story/does-palantir-face-a-new-threat-from-salesforce-software-giants-clash-over-lucrative-government-contracts-22ccef39?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A rivalry between Palantir and Salesforce is heating up as Salesforce launches a national security business division called Missionforce.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T23:02:00.000Z",
+      "headline": "&#x2018;I am my mother&#x2019;s caregiver&#x2019;: My mom, 93, added my name to her retirement accounts. Will she qualify for Medicaid?",
+      "url": "https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Will Medicaid be able to take the money from her bank account?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T22:47:00.000Z",
+      "headline": "Markets are pricing in three rate cuts by year-end. Here&#x2019;s where to put your money.",
       "url": "https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -14,135 +50,89 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T11:40:00.000Z",
-      "headline": "The best-performing Dow stock this year isn&#x2019;t Nvidia. How this bank rose to the top.",
-      "url": "https://www.marketwatch.com/story/the-best-performing-dow-stock-this-year-isnt-nvidia-how-this-bank-rose-to-the-top-7eec9e8c?mod=mw_rss_topstories",
+      "ts": "2025-09-16T22:29:00.000Z",
+      "headline": "Why the Fed&#x2019;s rate cut might not boost the economy",
+      "url": "https://www.marketwatch.com/story/why-the-feds-rate-cut-might-not-boost-the-economy-b764c0e6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Goldman Sachs&#x2019;s stock has benefited from rate-cut expectations, a boom in IPO activity and a bet on one of the hottest areas of the lending market.",
+      "summary_en": "The yield curve will reveal the bond market&#x2019;s confidence in how the U.S. is handling monetary policy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T11:30:00.000Z",
-      "headline": "These stock-market experts don&#x2019;t love AI. Here&#x2019;s what they do recommend.",
-      "url": "https://www.marketwatch.com/story/these-stock-market-experts-dont-love-ai-heres-what-they-do-recommend-6852923a?mod=mw_rss_topstories",
+      "ts": "2025-09-16T22:23:00.000Z",
+      "headline": "What stocks may need to rise in &#x2018;a market for only the most bright-eyed optimists&#x2019;",
+      "url": "https://www.marketwatch.com/story/what-stocks-may-need-to-rise-in-a-market-for-only-the-most-bright-eyed-optimists-eda86071?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "DataTrek Research analyzed the S&P 500&#x2019;s &#x201c;fair value&#x201d; amid worries over the U.S. stock market&#x2019;s high valuations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T21:35:00.000Z",
+      "headline": "The end of &#x2018;de minimis&#x2019; has hit Temu and Shein. Now it&#x2019;s a problem for bigger companies like FedEx.",
+      "url": "https://www.marketwatch.com/story/the-end-of-de-minimis-has-hit-temu-and-shein-now-its-a-problem-for-bigger-companies-like-fedex-e91f9016?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Businesses small and large &#x2014; including companies like Lululemon &#x2014; have said the end of de minimis has created confusion and higher costs",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-16T21:10:00.000Z",
+      "headline": "StubHub&#x2019;s stock starts trading Wednesday. The IPO is a bet on the polarizing practice of ticket resale.",
+      "url": "https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "I&#x2019;ll bet you think that investment newsletters&#x2019; most-recommended stock is Nvidia Corp., the AI-chip-producing giant whose stock has gained more than 30,000% over the past decade.",
+      "summary_en": "StubHub has faced criticism over the high price of secondary-market tickets, but the soon-to-be-public company says it serves a necessary function in the market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T10:42:00.000Z",
-      "headline": "Fund managers are ramping up on stocks &#x2014; and finding them overvalued",
-      "url": "https://www.marketwatch.com/story/fund-managers-are-ramping-up-on-stocks-and-finding-them-overvalued-cbbc63a5?mod=mw_rss_topstories",
+      "ts": "2025-09-16T21:01:00.000Z",
+      "headline": "Investors are in for a wild week &#x2014; and the Fed meeting is just the beginning",
+      "url": "https://www.marketwatch.com/story/investors-are-in-for-a-wild-week-and-the-fed-meeting-is-just-the-beginning-1ac815fe?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Fund managers are not letting price get in the way of loading up on stocks.",
+      "summary_en": "Investors are laser-focused right now on what promises to be the wildest Federal Reserve meeting in years. But this isn&#x2019;t the only potentially market-moving event on the calendar this week.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T13:13:00.000Z",
-      "headline": "Even a Tesla Model Y safety probe can&#x2019;t stop the stock&#x2019;s rally",
-      "url": "https://www.marketwatch.com/story/even-a-tesla-model-y-safety-probe-cant-stop-the-stocks-rally-eba04a6a?mod=mw_rss_topstories",
+      "ts": "2025-09-16T20:53:00.000Z",
+      "headline": "&#x2018;It&#x2019;s keeping me up at night&#x2019;: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.",
+      "url": "https://www.marketwatch.com/story/its-keeping-me-up-at-night-my-brother-sold-his-share-of-the-family-farm-and-lost-the-rest-in-a-divorce-he-says-i-owe-him-50b33c93?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Tesla&#x2019;s stock is on track for its sixth day of gains in a sign of improving sentiment, despite a probe into inoperable doors on 174,290 Model Ys.",
+      "summary_en": "&#x201c;He told me that he will legally pursue me and my farm through the court.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T13:07:00.000Z",
-      "headline": "The hurdles are low for another 10% gain for the S&P 500, says this Wall Street veteran",
-      "url": "https://www.marketwatch.com/story/the-hurdles-are-low-for-another-10-gain-for-the-s-p-500-says-this-wall-street-veteran-cfb2cbff?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Count on earnings and the economy to keep stocks afloat, says Jonathan Golub, chief equity strategist at Seaport Research Partners.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T12:40:00.000Z",
-      "headline": "Retail sales are strong for the third month in a row. Economy still seems to be in pretty good shape.",
-      "url": "https://www.marketwatch.com/story/retail-sales-are-strong-for-the-third-month-in-a-row-in-a-good-sign-for-the-economy-1884b947?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Retail sales rose at a brisk pace in August for the third month in a row, signaling that U.S. households continue to spend at healthy levels despite worries about lingering inflation and a softening labor market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T12:25:00.000Z",
-      "headline": "Trump revives call to ditch quarterly earnings &#x2014; and this time, the SEC may listen",
-      "url": "https://www.marketwatch.com/story/trump-revives-call-to-ditch-quarterly-earnings-reports-what-comes-next-d51225ca?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "European companies already report twice yearly. Trump wants to allow U.S. businesses to do the same.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T12:09:00.000Z",
-      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
-      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T10:49:00.000Z",
-      "headline": "And now for Washington&#x2019;s next trick &#x2014; sawing the dollar&#x2019;s value in half",
-      "url": "https://www.marketwatch.com/story/and-now-for-washingtons-next-trick-sawing-the-dollars-value-in-half-06a26086?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "This Treasury-bond investment has one winner &#x2014; and it&#x2019;s not you.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T15:00:00.000Z",
-      "headline": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm",
+      "ts": "2025-09-16T14:30:00.000Z",
+      "headline": "Stephen I. Miran sworn in as a member of the Board of Governors of the Federal Reserve System",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20250916a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces termination of enforcement action with Sumitomo Mitsui Banking Corporation and Sumitomo Mitsui Banking Corporation New York Branch",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-09T19:00:00.000Z",
-      "headline": "Agencies announce third public outreach meeting as part of their review of regulations",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250909a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Agencies announce third public outreach meeting as part of their review of regulations",
+      "summary_en": "Stephen I. Miran sworn in as a member of the Board of Governors of the Federal Reserve System",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
