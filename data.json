@@ -1,6 +1,78 @@
 {
-  "last_updated": "2025-09-17T10:41:37.755Z",
+  "last_updated": "2025-09-17T13:29:10.536Z",
   "items": [
+    {
+      "ts": "2025-09-17T13:21:00.000Z",
+      "headline": "The Fed&#x2019;s cutting while the economy&#x2019;s growing: Buy more stocks, hold less cash, this bank says",
+      "url": "https://www.marketwatch.com/story/the-feds-cutting-while-the-economys-growing-buy-more-stocks-hold-less-cash-this-bank-says-f6f5ef69?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The good times are set to continue for stocks, says a bank advising investors to broaden out exposure.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T13:18:00.000Z",
+      "headline": "Markets are pricing in three rate cuts by year-end. Here&#x2019;s where to put your money.",
+      "url": "https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A rate cut at the September Fed meeting looks like a done deal. Be careful with stocks and watch the dollar.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T13:02:00.000Z",
+      "headline": "A Ben & Jerry&#x2019;s co-founder is quitting. He says Unilever and Magnum have muzzled the iconoclastic ice-cream company&#x2019;s voice.",
+      "url": "https://www.marketwatch.com/story/a-ben-jerrys-co-founder-is-quitting-he-says-unilever-and-magnum-have-muzzled-the-iconoclastic-ice-cream-companys-voice-62060634?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Jerry Greenfield said he&#x2019;s quitting the ice-cream company he co-founded with Ben Cohen.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T12:28:00.000Z",
+      "headline": "Nvidia shares slip to one-week low. A report says China has banned its chips.",
+      "url": "https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Move by Chinese regulator on Nvidia chip comes as Alibaba forges ahead with its own AI offering",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T12:00:00.000Z",
+      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
+      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T11:00:00.000Z",
+      "headline": "Homeowners pounce on falling mortgage rates, with more opting for risky, adjustable-rate loans",
+      "url": "https://www.marketwatch.com/story/homeowners-pounce-on-falling-mortgage-rates-with-more-opting-for-risky-adjustable-rate-loans-e73f1c8f?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As mortgage rates fell sharply ahead of the Federal Reserve&#x2019;s expected &#x2014; and highly anticipated &#x2014; rate cut, mortgage demand surged as homeowners rushed to refinance their home loans.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-17T10:30:00.000Z",
       "headline": "&#x2018;I spend 5 hours a day on my portfolio&#x2019;: I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
@@ -14,6 +86,30 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-09-17T11:20:00.000Z",
+      "headline": "Why the Fed&#x2019;s rate cut might not boost the economy",
+      "url": "https://www.marketwatch.com/story/why-the-feds-rate-cut-might-not-boost-the-economy-b764c0e6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The yield curve will reveal the bond market&#x2019;s confidence in how the U.S. is handling monetary policy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T11:00:00.000Z",
+      "headline": "My fianc&#xe9;e and I are 61. I&#x2019;m moving into her home. How do we divide the expenses fairly?",
+      "url": "https://www.marketwatch.com/story/my-fiancee-and-i-are-61-im-moving-into-her-home-are-there-financial-reasons-to-get-married-9404f635?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Once I have moved in with her, the plan is to rent out my house.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-09-17T10:20:00.000Z",
       "headline": "&#x2018;It&#x2019;s a mess&#x2019;: My unmarried friends bought a house together. What&#x2019;s the best way for one to buy the other out?",
       "url": "https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories",
@@ -23,103 +119,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;The couple is ending their relationship. What do they do with the house?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T10:15:00.000Z",
-      "headline": "Is it fair that my ex-husband&#x2019;s greedy wife inherits part of his parents&#x2019; $1 million fortune?",
-      "url": "https://www.marketwatch.com/story/is-it-fair-that-my-ex-husbands-greedy-wife-inherits-part-of-his-parents-1-million-fortune-cae7a527?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Do I have any grounds to sue for part of the inheritance?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T10:00:00.000Z",
-      "headline": "Nvidia shares slip to one-week low. A report says China has banned its chips.",
-      "url": "https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Move by Chinese regulator on Nvidia chip comes as Alibaba forges ahead with its own AI offering",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T09:15:00.000Z",
-      "headline": "My mother&#x2019;s lawyer stole her $400K estate. He was disbarred. How can we get our money back?",
-      "url": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Three years later, there is still no outcome and the investigation against this lawyer seems to have stalled.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T09:06:00.000Z",
-      "headline": "Snowboarding champ Shaun White splits with actress Nina Dobrev 2 years after buying $4.3 million L.A. home",
-      "url": "https://www.marketwatch.com/story/snowboarding-champ-shaun-white-splits-with-actress-nina-dobrev-2-years-after-buying-4-3-million-l-a-home-32611e9e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "SNOW",
-        "ED"
-      ],
-      "summary_en": "Hollywood actress Nina Dobrev and Olympian Shaun White have called off their engagement just 2 years after the once-happy couple purchased their first home together.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T08:54:00.000Z",
-      "headline": "This investor bought Netflix, Alphabet and Nvidia on the cheap. Where he&#x2019;s looking now.",
-      "url": "https://www.marketwatch.com/story/this-investor-bought-netflix-alphabet-and-nvidia-on-the-cheap-where-hes-looking-now-45138727?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Matt Shapiro, a money manager for high net-worth clients, says disappointment over a Fed rate cut may offer a chance for investors to buy some &#x201c;super companies.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T09:01:00.000Z",
-      "headline": "Simone Biles gives a glimpse inside her elegant Chicago home",
-      "url": "https://www.marketwatch.com/story/simone-biles-gives-a-glimpse-inside-her-elegant-chicago-home-c03b5876?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "It&#x2019;s easy enough for the Olympic gymnast to cheer for her husband, Jonathan Owens of the Chicago Bears, with a home in the Windy City.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T01:39:00.000Z",
-      "headline": "Bloom Energy&#x2019;s stock is surging &#x2014; and could ride Oracle&#x2019;s growth to even more gains",
-      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-surging-and-could-ride-oracles-growth-to-even-more-gains-25c30ff3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bloom shares have more than tripled this year, and Morgan Stanley says the clean-tech company&#x2019;s work with Oracle sets the stage for &#x201c;explosive&#x201d; momentum.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T00:04:00.000Z",
-      "headline": "Does Palantir face a new threat from Salesforce? Software giants clash over lucrative government contracts.",
-      "url": "https://www.marketwatch.com/story/does-palantir-face-a-new-threat-from-salesforce-software-giants-clash-over-lucrative-government-contracts-22ccef39?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A rivalry between Palantir and Salesforce is heating up as Salesforce launches a national security business division called Missionforce.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
