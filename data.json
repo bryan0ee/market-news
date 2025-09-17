@@ -1,8 +1,20 @@
 {
-  "last_updated": "2025-09-16T23:22:10.511Z",
+  "last_updated": "2025-09-17T10:41:37.755Z",
   "items": [
     {
-      "ts": "2025-09-16T23:13:00.000Z",
+      "ts": "2025-09-17T10:30:00.000Z",
+      "headline": "&#x2018;I spend 5 hours a day on my portfolio&#x2019;: I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
+      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T10:20:00.000Z",
       "headline": "&#x2018;It&#x2019;s a mess&#x2019;: My unmarried friends bought a house together. What&#x2019;s the best way for one to buy the other out?",
       "url": "https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,7 +26,92 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-16T22:10:00.000Z",
+      "ts": "2025-09-17T10:15:00.000Z",
+      "headline": "Is it fair that my ex-husband&#x2019;s greedy wife inherits part of his parents&#x2019; $1 million fortune?",
+      "url": "https://www.marketwatch.com/story/is-it-fair-that-my-ex-husbands-greedy-wife-inherits-part-of-his-parents-1-million-fortune-cae7a527?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Do I have any grounds to sue for part of the inheritance?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T10:00:00.000Z",
+      "headline": "Nvidia shares slip to one-week low. A report says China has banned its chips.",
+      "url": "https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Move by Chinese regulator on Nvidia chip comes as Alibaba forges ahead with its own AI offering",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T09:15:00.000Z",
+      "headline": "My mother&#x2019;s lawyer stole her $400K estate. He was disbarred. How can we get our money back?",
+      "url": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Three years later, there is still no outcome and the investigation against this lawyer seems to have stalled.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T09:06:00.000Z",
+      "headline": "Snowboarding champ Shaun White splits with actress Nina Dobrev 2 years after buying $4.3 million L.A. home",
+      "url": "https://www.marketwatch.com/story/snowboarding-champ-shaun-white-splits-with-actress-nina-dobrev-2-years-after-buying-4-3-million-l-a-home-32611e9e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "SNOW",
+        "ED"
+      ],
+      "summary_en": "Hollywood actress Nina Dobrev and Olympian Shaun White have called off their engagement just 2 years after the once-happy couple purchased their first home together.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T08:54:00.000Z",
+      "headline": "This investor bought Netflix, Alphabet and Nvidia on the cheap. Where he&#x2019;s looking now.",
+      "url": "https://www.marketwatch.com/story/this-investor-bought-netflix-alphabet-and-nvidia-on-the-cheap-where-hes-looking-now-45138727?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Matt Shapiro, a money manager for high net-worth clients, says disappointment over a Fed rate cut may offer a chance for investors to buy some &#x201c;super companies.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T09:01:00.000Z",
+      "headline": "Simone Biles gives a glimpse inside her elegant Chicago home",
+      "url": "https://www.marketwatch.com/story/simone-biles-gives-a-glimpse-inside-her-elegant-chicago-home-c03b5876?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It&#x2019;s easy enough for the Olympic gymnast to cheer for her husband, Jonathan Owens of the Chicago Bears, with a home in the Windy City.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T01:39:00.000Z",
+      "headline": "Bloom Energy&#x2019;s stock is surging &#x2014; and could ride Oracle&#x2019;s growth to even more gains",
+      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-surging-and-could-ride-oracles-growth-to-even-more-gains-25c30ff3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bloom shares have more than tripled this year, and Morgan Stanley says the clean-tech company&#x2019;s work with Oracle sets the stage for &#x201c;explosive&#x201d; momentum.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T00:04:00.000Z",
       "headline": "Does Palantir face a new threat from Salesforce? Software giants clash over lucrative government contracts.",
       "url": "https://www.marketwatch.com/story/does-palantir-face-a-new-threat-from-salesforce-software-giants-clash-over-lucrative-government-contracts-22ccef39?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -23,104 +120,6 @@
         "ED"
       ],
       "summary_en": "A rivalry between Palantir and Salesforce is heating up as Salesforce launches a national security business division called Missionforce.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T23:02:00.000Z",
-      "headline": "&#x2018;I am my mother&#x2019;s caregiver&#x2019;: My mom, 93, added my name to her retirement accounts. Will she qualify for Medicaid?",
-      "url": "https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Will Medicaid be able to take the money from her bank account?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T22:47:00.000Z",
-      "headline": "Markets are pricing in three rate cuts by year-end. Here&#x2019;s where to put your money.",
-      "url": "https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A rate cut at the September Fed meeting looks like a done deal. Be careful with stocks and watch the dollar.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T22:29:00.000Z",
-      "headline": "Why the Fed&#x2019;s rate cut might not boost the economy",
-      "url": "https://www.marketwatch.com/story/why-the-feds-rate-cut-might-not-boost-the-economy-b764c0e6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The yield curve will reveal the bond market&#x2019;s confidence in how the U.S. is handling monetary policy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T22:23:00.000Z",
-      "headline": "What stocks may need to rise in &#x2018;a market for only the most bright-eyed optimists&#x2019;",
-      "url": "https://www.marketwatch.com/story/what-stocks-may-need-to-rise-in-a-market-for-only-the-most-bright-eyed-optimists-eda86071?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "DataTrek Research analyzed the S&P 500&#x2019;s &#x201c;fair value&#x201d; amid worries over the U.S. stock market&#x2019;s high valuations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T21:35:00.000Z",
-      "headline": "The end of &#x2018;de minimis&#x2019; has hit Temu and Shein. Now it&#x2019;s a problem for bigger companies like FedEx.",
-      "url": "https://www.marketwatch.com/story/the-end-of-de-minimis-has-hit-temu-and-shein-now-its-a-problem-for-bigger-companies-like-fedex-e91f9016?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Businesses small and large &#x2014; including companies like Lululemon &#x2014; have said the end of de minimis has created confusion and higher costs",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T21:10:00.000Z",
-      "headline": "StubHub&#x2019;s stock starts trading Wednesday. The IPO is a bet on the polarizing practice of ticket resale.",
-      "url": "https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "StubHub has faced criticism over the high price of secondary-market tickets, but the soon-to-be-public company says it serves a necessary function in the market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T21:01:00.000Z",
-      "headline": "Investors are in for a wild week &#x2014; and the Fed meeting is just the beginning",
-      "url": "https://www.marketwatch.com/story/investors-are-in-for-a-wild-week-and-the-fed-meeting-is-just-the-beginning-1ac815fe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors are laser-focused right now on what promises to be the wildest Federal Reserve meeting in years. But this isn&#x2019;t the only potentially market-moving event on the calendar this week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T20:53:00.000Z",
-      "headline": "&#x2018;It&#x2019;s keeping me up at night&#x2019;: My brother sold his share of the family farm and lost the rest in a divorce. He says I owe him.",
-      "url": "https://www.marketwatch.com/story/its-keeping-me-up-at-night-my-brother-sold-his-share-of-the-family-farm-and-lost-the-rest-in-a-divorce-he-says-i-owe-him-50b33c93?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He told me that he will legally pursue me and my farm through the court.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
