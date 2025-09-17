@@ -1,124 +1,148 @@
 {
-  "last_updated": "2025-09-17T13:29:10.536Z",
+  "last_updated": "2025-09-17T23:23:37.272Z",
   "items": [
     {
-      "ts": "2025-09-17T13:21:00.000Z",
-      "headline": "The Fed&#x2019;s cutting while the economy&#x2019;s growing: Buy more stocks, hold less cash, this bank says",
-      "url": "https://www.marketwatch.com/story/the-feds-cutting-while-the-economys-growing-buy-more-stocks-hold-less-cash-this-bank-says-f6f5ef69?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The good times are set to continue for stocks, says a bank advising investors to broaden out exposure.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T13:18:00.000Z",
-      "headline": "Markets are pricing in three rate cuts by year-end. Here&#x2019;s where to put your money.",
-      "url": "https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A rate cut at the September Fed meeting looks like a done deal. Be careful with stocks and watch the dollar.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T13:02:00.000Z",
-      "headline": "A Ben & Jerry&#x2019;s co-founder is quitting. He says Unilever and Magnum have muzzled the iconoclastic ice-cream company&#x2019;s voice.",
-      "url": "https://www.marketwatch.com/story/a-ben-jerrys-co-founder-is-quitting-he-says-unilever-and-magnum-have-muzzled-the-iconoclastic-ice-cream-companys-voice-62060634?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Jerry Greenfield said he&#x2019;s quitting the ice-cream company he co-founded with Ben Cohen.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T12:28:00.000Z",
-      "headline": "Nvidia shares slip to one-week low. A report says China has banned its chips.",
+      "ts": "2025-09-17T23:05:00.000Z",
+      "headline": "Nvidia&#x2019;s stock falls on China fears. How much should investors worry?",
       "url": "https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Move by Chinese regulator on Nvidia chip comes as Alibaba forges ahead with its own AI offering",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T12:00:00.000Z",
-      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
-      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T11:00:00.000Z",
-      "headline": "Homeowners pounce on falling mortgage rates, with more opting for risky, adjustable-rate loans",
-      "url": "https://www.marketwatch.com/story/homeowners-pounce-on-falling-mortgage-rates-with-more-opting-for-risky-adjustable-rate-loans-e73f1c8f?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "As mortgage rates fell sharply ahead of the Federal Reserve&#x2019;s expected &#x2014; and highly anticipated &#x2014; rate cut, mortgage demand surged as homeowners rushed to refinance their home loans.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T10:30:00.000Z",
-      "headline": "&#x2018;I spend 5 hours a day on my portfolio&#x2019;: I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
-      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
+      "summary_en": "Some analysts view China&#x2019;s reported move to ban sales of Nvidia&#x2019;s RTX Pro 6000D as &#x201c;political theater&#x201d; and &#x201c;posturing&#x201d; in light of trade talks with the U.S.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T11:20:00.000Z",
-      "headline": "Why the Fed&#x2019;s rate cut might not boost the economy",
-      "url": "https://www.marketwatch.com/story/why-the-feds-rate-cut-might-not-boost-the-economy-b764c0e6?mod=mw_rss_topstories",
+      "ts": "2025-09-17T23:10:00.000Z",
+      "headline": "My mother&#x2019;s lawyer stole $400K after she moved to a nursing home. How can we get justice?",
+      "url": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The yield curve will reveal the bond market&#x2019;s confidence in how the U.S. is handling monetary policy.",
+      "summary_en": "&#x201c;Within a month, her home had fraudulently been put up for sale and her vehicle stolen.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T11:00:00.000Z",
-      "headline": "My fianc&#xe9;e and I are 61. I&#x2019;m moving into her home. How do we divide the expenses fairly?",
-      "url": "https://www.marketwatch.com/story/my-fiancee-and-i-are-61-im-moving-into-her-home-are-there-financial-reasons-to-get-married-9404f635?mod=mw_rss_topstories",
+      "ts": "2025-09-17T22:29:00.000Z",
+      "headline": "This Fed move can help job seekers even more than the latest interest-rate cut",
+      "url": "https://www.marketwatch.com/story/this-fed-move-can-help-job-seekers-even-more-than-the-latest-interest-rate-cut-7481498e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Once I have moved in with her, the plan is to rent out my house.&#x201d;",
+      "summary_en": "There&#x2019;s one thing that matters most to companies when they make hiring decisions, an expert says",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T10:20:00.000Z",
-      "headline": "&#x2018;It&#x2019;s a mess&#x2019;: My unmarried friends bought a house together. What&#x2019;s the best way for one to buy the other out?",
-      "url": "https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories",
+      "ts": "2025-09-17T21:21:00.000Z",
+      "headline": "Inflation fears surge to their highest levels since &#x2018;liberation day&#x2019; as Fed cuts rates",
+      "url": "https://www.marketwatch.com/story/inflation-fears-surge-to-highest-since-liberation-day-as-fed-cuts-rates-abe9778f?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The bond market is less confident than Jerome Powell.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T22:10:00.000Z",
+      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
+      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;The couple is ending their relationship. What do they do with the house?&#x201d;",
+      "summary_en": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%, and pencils in two more reductions this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T20:49:00.000Z",
+      "headline": "Markets didn&#x2019;t know which way to go after Wednesday&#x2019;s Fed rate cut. Expect more volatility ahead.",
+      "url": "https://www.marketwatch.com/story/markets-didnt-know-which-way-to-go-after-wednesdays-fed-rate-cut-expect-more-volatility-ahead-58153795?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors didn&#x2019;t know what to make of some of the Federal Reserve&#x2019;s messaging on Wednesday. That could portend more volatility ahead.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T20:47:00.000Z",
+      "headline": "StubHub&#x2019;s stock dips in a mixed reaction to the polarizing practice of ticket resales and signals of a softer economy",
+      "url": "https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "StubHub has faced criticism over the high price of secondary-market tickets, but the newly public company says it serves a necessary function in the market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T20:42:00.000Z",
+      "headline": "Cracker Barrel tried to win back customers by abandoning its logo and remodels. But it still sees fewer diners up ahead.",
+      "url": "https://www.marketwatch.com/story/cracker-barrel-tried-to-win-back-customers-by-abandoning-its-logo-and-remodels-but-it-still-sees-fewer-diners-up-ahead-0c9f9b1d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Cracker Barrel Old Country Store Inc. fell after hours on Wednesday after the Americana-themed restaurant chain forecast falling traffic for the fiscal year ahead and sales that were below Wall Street&#x2019;s expectations, as it deals with blowback over efforts to change its logo and remodel its stores.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T20:35:00.000Z",
+      "headline": "Protein snacks are getting more popular thanks to weight-loss drugs, says General Mills",
+      "url": "https://www.marketwatch.com/story/protein-snacks-are-getting-more-popular-thanks-to-weight-loss-drugs-says-general-mills-7455a04f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "While people on GLP-1 drugs are reducing their overall calories, the packaged-foods producer says they have a growing hunger for protein as they lose muscle mass.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T22:05:00.000Z",
+      "headline": "Bots make buying concert tickets a nightmare. Could the FTC&#x2019;s Ticketmaster probe help?",
+      "url": "https://www.marketwatch.com/story/bots-make-buying-concert-tickets-a-nightmare-could-the-ftcs-ticketmaster-probe-help-4607ae08?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "As the FTC ramps up its war against resell bots with its latest Ticketmaster investigation, what can be done to level the playing field so that bots don&#x2019;t grab all the Taylor Swift tickets?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T18:00:00.000Z",
+      "headline": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve issues FOMC statement",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-17T18:00:00.000Z",
+      "headline": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 16-17 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917b.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 16-17 FOMC meeting",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
