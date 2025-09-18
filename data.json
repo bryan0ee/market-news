@@ -1,124 +1,138 @@
 {
-  "last_updated": "2025-09-18T13:29:16.492Z",
+  "last_updated": "2025-09-18T23:24:46.375Z",
   "items": [
     {
-      "ts": "2025-09-18T12:36:00.000Z",
-      "headline": "&#x2018;I spend 5 hours a day on my portfolio&#x2019;: I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
-      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T13:16:00.000Z",
-      "headline": "ABC pulls Jimmy Kimmel following government pushback over Charlie Kirk comments",
-      "url": "https://www.marketwatch.com/story/jimmy-kimmel-dropped-by-abc-amid-affiliate-revolt-following-charlie-kirk-comments-dd41101f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "ABC said Wednesday that it was pulling late-night host Jimmy Kimmel&#x2019;s show indefinitely following remarks he made about the shooting of conservative activist Charlie Kirk that had drawn a rebuke from the Trump administration.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T12:52:00.000Z",
-      "headline": "Fed likely to cut rates again in October, and 3 other things we learned from Powell&#x2019;s press conference",
-      "url": "https://www.marketwatch.com/story/fed-likely-to-cut-rates-again-in-october-and-3-other-things-we-learned-from-powells-press-conference-a03fb5ae?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Here are the main takeaways culled from conversations and research notes from experienced Fed watchers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T11:00:00.000Z",
-      "headline": "Is the revamped American Express Platinum card worth the $895 fee? This new perk may seal the deal.",
-      "url": "https://www.marketwatch.com/story/is-the-revamped-american-express-platinum-card-worth-the-895-fee-this-new-perk-may-seal-the-deal-49497124?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "American Express is seeking to address longstanding customer complaints that it is difficult to track statement credits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T12:40:00.000Z",
-      "headline": "False alarm: Surge in jobless claims unwinds after recent spike. Layoffs still low.",
-      "url": "https://www.marketwatch.com/story/false-alarm-surge-in-jobless-claims-unwinds-after-recent-spike-layoffs-still-low-05c8270d?mod=mw_rss_topstories",
+      "ts": "2025-09-18T22:26:00.000Z",
+      "headline": "FedEx offers this number in an early sign that trade uncertainty is easing",
+      "url": "https://www.marketwatch.com/story/fedex-just-gave-investors-a-reason-to-be-more-optimistic-812ae005?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "The surge in jobless claims in early September to a four-year high turns out to have been a false alarm, at least for now.",
+      "summary_en": "FedEx&#x2019;s stock rallies in extended trading after logistics company reinstates outlook for the full year",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-18T13:16:00.000Z",
-      "headline": "I&#x2019;m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?",
-      "url": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
+      "ts": "2025-09-18T23:15:00.000Z",
+      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
+      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T23:12:00.000Z",
+      "headline": "Treasury yields rise after Fed rate cut, with Powell in no &#x2018;sprint&#x2019; to loosen policy",
+      "url": "https://www.marketwatch.com/story/treasury-yields-rise-after-fed-rate-cut-with-powell-in-no-sprint-to-loosen-policy-5fbcfc3d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors in the bond market are adjusting their positioning in the aftermath of the Fed&#x2019;s shift in monetary policy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T22:37:00.000Z",
+      "headline": "One reason NBA star Kevin Durant is holding onto his bitcoin: He can&#x2019;t get into his Coinbase account",
+      "url": "https://www.marketwatch.com/story/one-reason-nba-star-kevin-durant-is-holding-onto-his-bitcoin-he-cant-get-into-his-coinbase-account-fcb5b58f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x2018;It&#x2019;s in the cloud,&#x2019; Durant joked &#x2013; and he&#x2019;s not the only one with a lost bitcoin wallet.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T22:26:00.000Z",
+      "headline": "One big takeaway from Fed rate cuts: Bulk up on these two investments",
+      "url": "https://www.marketwatch.com/story/this-fed-has-its-head-in-the-sand-but-at-least-now-we-know-where-to-invest-a039fdb8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investment manager Louis Navellier: Own more gold and AI-related tech stocks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T22:23:00.000Z",
+      "headline": "Ditch quarterly earnings like Trump says? What&#x2019;s needed is better reporting &#x2014; not less.",
+      "url": "https://www.marketwatch.com/story/ditch-quarterly-earnings-like-trump-says-whats-needed-is-better-reporting-not-less-7780011e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED",
+        "COST"
+      ],
+      "summary_en": "The costs of moving to semiannual reporting clearly outweigh any benefits.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T22:14:00.000Z",
+      "headline": "The Fed has no problem with rate cuts &#x2014; and neither does the stock market",
+      "url": "https://www.marketwatch.com/story/the-fed-has-no-problem-with-rate-cuts-and-neither-does-the-stock-market-8605788a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Market indicators are supporting a bullish S&P 500 chart.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T22:10:00.000Z",
+      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
+      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%, and pencils in two more reductions this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T22:07:00.000Z",
+      "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My other children have relationships, but they are unmarried and have no children.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T22:04:00.000Z",
+      "headline": "My friends bought a house together. How do they untangle themselves from this mess?",
+      "url": "https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I want to purchase a family home so we three don&#x2019;t have to pay rent.&#x201d;",
+      "summary_en": "&#x201c;The couple is ending their relationship. What do they do with the house?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-18T13:05:00.000Z",
-      "headline": "Here&#x2019;s the case for equities to &#x2018;explode higher&#x2019; in October. Buy any dips along the way, says JPMorgan.",
-      "url": "https://www.marketwatch.com/story/heres-the-case-for-equities-to-explode-higher-in-october-buy-any-dips-along-the-way-says-jpmorgan-3a3efd70?mod=mw_rss_topstories",
+      "ts": "2025-09-18T15:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of Manufacturers and Traders Trust Company",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250918a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "JPMorgan is telling clients to be ready to buy dips, and prepare for a possible explosive move higher for stocks in weeks to come.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T12:19:00.000Z",
-      "headline": "This seasonal stock-market trading pattern is coming up &#x2014; and worth observing",
-      "url": "https://www.marketwatch.com/story/this-seasonal-stock-market-trading-pattern-is-coming-up-and-worth-observing-4c35364d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The Wall Street adage &#x2014; &#x201c;Sell Rosh Hashana; buy Yom Kippur&#x201d; &#x2014; focuses on the market&#x2019;s performance between these two Jewish holidays.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T11:43:00.000Z",
-      "headline": "Intel&#x2019;s stock is soaring. Why Nvidia is investing $5 billion in the chip maker.",
-      "url": "https://www.marketwatch.com/story/intels-stock-is-soaring-why-nvidia-is-investing-5-billion-in-the-chip-maker-e1296651?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The Nvidia investment is the latest source of relief for Intel investors after the U.S. government took a stake in the chip company last month.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T11:27:00.000Z",
-      "headline": "Do investors care about quarterly vs half-year reporting? Here&#x2019;s what the numbers say.",
-      "url": "https://www.marketwatch.com/story/do-investors-care-about-quarterly-vs-half-year-reporting-heres-what-the-numbers-say-d7b44832?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "In Europe, there&#x2019;s a nearly 50-50 split between how frequently companies report, according to Goldman Sachs data.",
+      "summary_en": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of Manufacturers and Traders Trust Company",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
