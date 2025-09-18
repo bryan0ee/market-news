@@ -1,118 +1,21 @@
 {
-  "last_updated": "2025-09-18T10:41:36.957Z",
+  "last_updated": "2025-09-18T13:29:16.492Z",
   "items": [
     {
-      "ts": "2025-09-18T09:44:00.000Z",
-      "headline": "Ozempic cuts heart-attack risk by nearly 25% in older patients, new study finds",
-      "url": "https://www.marketwatch.com/story/ozempic-cuts-heart-attack-risk-by-nearly-25-in-older-patients-new-study-finds-36e1978d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-09-18T12:36:00.000Z",
+      "headline": "&#x2018;I spend 5 hours a day on my portfolio&#x2019;: I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
+      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The wildly popular Ozempic drug cuts heart attack, stroke and death risk by nearly 25% in older patients, according to a new study published by Novo Nordisk and released on Thursday.",
+      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-18T09:15:00.000Z",
-      "headline": "I&#x2019;m leaving the bulk of my estate to my youngest son as he is my only child with grandchildren. Do I need a will?",
-      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have Vanguard stocks valued at about $350,000 and two savings accounts, each of which has $100,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T09:00:00.000Z",
-      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
-      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T08:58:00.000Z",
-      "headline": "$3.8 million mansion where Sydney Sweeney&#xa0;and&#xa0;Amanda Seyfried&#xa0;filmed &#x2018;The Housemaid&#x2019; puts N.J. town on the map",
-      "url": "https://www.marketwatch.com/story/3-8-million-mansion-where-sydney-sweeneyandamanda-seyfriedfilmed-the-housemaid-puts-n-j-town-on-the-map-b3b11452?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Sydney Sweeney&#xa0;and&#xa0;Amanda Seyfried&#xa0;turned a small&#xa0;New Jersey&#xa0;town into a Hollywood hot spot while filming &#x201c;The Housemaid,&#x201d; which was primarily shot in a mansion there.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T08:58:00.000Z",
-      "headline": "What the market got wrong in reacting to Powell&#x2019;s press conference, according to Goldman economist",
-      "url": "https://www.marketwatch.com/story/risk-management-cuts-usually-come-in-pairs-says-goldman-economist-e16b3ac7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The fact that Fed Chair Jerome Powell classified the rate cut made on Wednesday as one for &#x201c;risk management&#x201d; is a clue the central bank will cut again in October, an economist at Goldman Sachs says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T08:15:00.000Z",
-      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
-      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%, and pencils in two more reductions this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T04:01:00.000Z",
-      "headline": "Social Security could change eligibility rules for disability &#x2014; blocking benefits for 750,000 disabled Americans",
-      "url": "https://www.marketwatch.com/story/social-security-could-change-eligibility-rules-for-disability-blocking-benefits-for-750-000-disabled-americans-711ab6ca?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Further tightening of an already strict program would likely worsen outcomes,&#x201d; new report says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T02:52:00.000Z",
-      "headline": "Hot IPO market continues, as cybersecurity-software company Netskope raises $908 million",
-      "url": "https://www.marketwatch.com/story/hot-ipo-market-continues-as-cybersecurity-software-company-netskope-raises-908-million-ac0e368a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The IPO market is at its hottest point in years, and cybersecurity-software company Netskope Inc. became the latest to take the leap late Wednesday, pricing its initial public offering at $19 a share, raising about $908.2 million and valuing the company at about $7.3 billion.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T02:15:00.000Z",
-      "headline": "This $1.6 billion deal is a sign that the&#xa0;worst of&#xa0;the crisis in office real estate is in the past",
-      "url": "https://www.marketwatch.com/story/this-1-6-billion-deal-is-a-sign-that-theworst-ofthe-crisis-in-office-real-estate-is-in-the-past-bf7fbb45?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The market for office space has struggled to bounce back from the pandemic &#x2014; but there are encouraging signals in marquee markets.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T00:53:00.000Z",
-      "headline": "ABC pulls Jimmy Kimmel  following government pushback over Charlie Kirk comments",
+      "ts": "2025-09-18T13:16:00.000Z",
+      "headline": "ABC pulls Jimmy Kimmel following government pushback over Charlie Kirk comments",
       "url": "https://www.marketwatch.com/story/jimmy-kimmel-dropped-by-abc-amid-affiliate-revolt-following-charlie-kirk-comments-dd41101f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -120,6 +23,102 @@
         "ED"
       ],
       "summary_en": "ABC said Wednesday that it was pulling late-night host Jimmy Kimmel&#x2019;s show indefinitely following remarks he made about the shooting of conservative activist Charlie Kirk that had drawn a rebuke from the Trump administration.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T12:52:00.000Z",
+      "headline": "Fed likely to cut rates again in October, and 3 other things we learned from Powell&#x2019;s press conference",
+      "url": "https://www.marketwatch.com/story/fed-likely-to-cut-rates-again-in-october-and-3-other-things-we-learned-from-powells-press-conference-a03fb5ae?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Here are the main takeaways culled from conversations and research notes from experienced Fed watchers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T11:00:00.000Z",
+      "headline": "Is the revamped American Express Platinum card worth the $895 fee? This new perk may seal the deal.",
+      "url": "https://www.marketwatch.com/story/is-the-revamped-american-express-platinum-card-worth-the-895-fee-this-new-perk-may-seal-the-deal-49497124?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "American Express is seeking to address longstanding customer complaints that it is difficult to track statement credits.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T12:40:00.000Z",
+      "headline": "False alarm: Surge in jobless claims unwinds after recent spike. Layoffs still low.",
+      "url": "https://www.marketwatch.com/story/false-alarm-surge-in-jobless-claims-unwinds-after-recent-spike-layoffs-still-low-05c8270d?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The surge in jobless claims in early September to a four-year high turns out to have been a false alarm, at least for now.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T13:16:00.000Z",
+      "headline": "I&#x2019;m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?",
+      "url": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I want to purchase a family home so we three don&#x2019;t have to pay rent.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T13:05:00.000Z",
+      "headline": "Here&#x2019;s the case for equities to &#x2018;explode higher&#x2019; in October. Buy any dips along the way, says JPMorgan.",
+      "url": "https://www.marketwatch.com/story/heres-the-case-for-equities-to-explode-higher-in-october-buy-any-dips-along-the-way-says-jpmorgan-3a3efd70?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "JPMorgan is telling clients to be ready to buy dips, and prepare for a possible explosive move higher for stocks in weeks to come.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T12:19:00.000Z",
+      "headline": "This seasonal stock-market trading pattern is coming up &#x2014; and worth observing",
+      "url": "https://www.marketwatch.com/story/this-seasonal-stock-market-trading-pattern-is-coming-up-and-worth-observing-4c35364d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The Wall Street adage &#x2014; &#x201c;Sell Rosh Hashana; buy Yom Kippur&#x201d; &#x2014; focuses on the market&#x2019;s performance between these two Jewish holidays.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T11:43:00.000Z",
+      "headline": "Intel&#x2019;s stock is soaring. Why Nvidia is investing $5 billion in the chip maker.",
+      "url": "https://www.marketwatch.com/story/intels-stock-is-soaring-why-nvidia-is-investing-5-billion-in-the-chip-maker-e1296651?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The Nvidia investment is the latest source of relief for Intel investors after the U.S. government took a stake in the chip company last month.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T11:27:00.000Z",
+      "headline": "Do investors care about quarterly vs half-year reporting? Here&#x2019;s what the numbers say.",
+      "url": "https://www.marketwatch.com/story/do-investors-care-about-quarterly-vs-half-year-reporting-heres-what-the-numbers-say-d7b44832?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "In Europe, there&#x2019;s a nearly 50-50 split between how frequently companies report, according to Goldman Sachs data.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
