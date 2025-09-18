@@ -1,56 +1,69 @@
 {
-  "last_updated": "2025-09-17T23:23:37.272Z",
+  "last_updated": "2025-09-18T10:41:36.957Z",
   "items": [
     {
-      "ts": "2025-09-17T23:05:00.000Z",
-      "headline": "Nvidia&#x2019;s stock falls on China fears. How much should investors worry?",
-      "url": "https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Some analysts view China&#x2019;s reported move to ban sales of Nvidia&#x2019;s RTX Pro 6000D as &#x201c;political theater&#x201d; and &#x201c;posturing&#x201d; in light of trade talks with the U.S.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T23:10:00.000Z",
-      "headline": "My mother&#x2019;s lawyer stole $400K after she moved to a nursing home. How can we get justice?",
-      "url": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
+      "ts": "2025-09-18T09:44:00.000Z",
+      "headline": "Ozempic cuts heart-attack risk by nearly 25% in older patients, new study finds",
+      "url": "https://www.marketwatch.com/story/ozempic-cuts-heart-attack-risk-by-nearly-25-in-older-patients-new-study-finds-36e1978d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Within a month, her home had fraudulently been put up for sale and her vehicle stolen.&#x201d;",
+      "summary_en": "The wildly popular Ozempic drug cuts heart attack, stroke and death risk by nearly 25% in older patients, according to a new study published by Novo Nordisk and released on Thursday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T22:29:00.000Z",
-      "headline": "This Fed move can help job seekers even more than the latest interest-rate cut",
-      "url": "https://www.marketwatch.com/story/this-fed-move-can-help-job-seekers-even-more-than-the-latest-interest-rate-cut-7481498e?mod=mw_rss_topstories",
+      "ts": "2025-09-18T09:15:00.000Z",
+      "headline": "I&#x2019;m leaving the bulk of my estate to my youngest son as he is my only child with grandchildren. Do I need a will?",
+      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have Vanguard stocks valued at about $350,000 and two savings accounts, each of which has $100,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T09:00:00.000Z",
+      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
+      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "There&#x2019;s one thing that matters most to companies when they make hiring decisions, an expert says",
+      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T21:21:00.000Z",
-      "headline": "Inflation fears surge to their highest levels since &#x2018;liberation day&#x2019; as Fed cuts rates",
-      "url": "https://www.marketwatch.com/story/inflation-fears-surge-to-highest-since-liberation-day-as-fed-cuts-rates-abe9778f?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-09-18T08:58:00.000Z",
+      "headline": "$3.8 million mansion where Sydney Sweeney&#xa0;and&#xa0;Amanda Seyfried&#xa0;filmed &#x2018;The Housemaid&#x2019; puts N.J. town on the map",
+      "url": "https://www.marketwatch.com/story/3-8-million-mansion-where-sydney-sweeneyandamanda-seyfriedfilmed-the-housemaid-puts-n-j-town-on-the-map-b3b11452?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The bond market is less confident than Jerome Powell.",
+      "summary_en": "Sydney Sweeney&#xa0;and&#xa0;Amanda Seyfried&#xa0;turned a small&#xa0;New Jersey&#xa0;town into a Hollywood hot spot while filming &#x201c;The Housemaid,&#x201d; which was primarily shot in a mansion there.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T22:10:00.000Z",
+      "ts": "2025-09-18T08:58:00.000Z",
+      "headline": "What the market got wrong in reacting to Powell&#x2019;s press conference, according to Goldman economist",
+      "url": "https://www.marketwatch.com/story/risk-management-cuts-usually-come-in-pairs-says-goldman-economist-e16b3ac7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The fact that Fed Chair Jerome Powell classified the rate cut made on Wednesday as one for &#x201c;risk management&#x201d; is a clue the central bank will cut again in October, an economist at Goldman Sachs says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-18T08:15:00.000Z",
       "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
       "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,63 +75,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T20:49:00.000Z",
-      "headline": "Markets didn&#x2019;t know which way to go after Wednesday&#x2019;s Fed rate cut. Expect more volatility ahead.",
-      "url": "https://www.marketwatch.com/story/markets-didnt-know-which-way-to-go-after-wednesdays-fed-rate-cut-expect-more-volatility-ahead-58153795?mod=mw_rss_topstories",
+      "ts": "2025-09-18T04:01:00.000Z",
+      "headline": "Social Security could change eligibility rules for disability &#x2014; blocking benefits for 750,000 disabled Americans",
+      "url": "https://www.marketwatch.com/story/social-security-could-change-eligibility-rules-for-disability-blocking-benefits-for-750-000-disabled-americans-711ab6ca?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors didn&#x2019;t know what to make of some of the Federal Reserve&#x2019;s messaging on Wednesday. That could portend more volatility ahead.",
+      "summary_en": "&#x201c;Further tightening of an already strict program would likely worsen outcomes,&#x201d; new report says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T20:47:00.000Z",
-      "headline": "StubHub&#x2019;s stock dips in a mixed reaction to the polarizing practice of ticket resales and signals of a softer economy",
-      "url": "https://www.marketwatch.com/story/stubhubs-stock-starts-trading-wednesday-the-ipo-is-a-bet-on-the-polarizing-practice-of-ticket-resale-4839fe99?mod=mw_rss_topstories",
+      "ts": "2025-09-18T02:52:00.000Z",
+      "headline": "Hot IPO market continues, as cybersecurity-software company Netskope raises $908 million",
+      "url": "https://www.marketwatch.com/story/hot-ipo-market-continues-as-cybersecurity-software-company-netskope-raises-908-million-ac0e368a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "StubHub has faced criticism over the high price of secondary-market tickets, but the newly public company says it serves a necessary function in the market.",
+      "summary_en": "The IPO market is at its hottest point in years, and cybersecurity-software company Netskope Inc. became the latest to take the leap late Wednesday, pricing its initial public offering at $19 a share, raising about $908.2 million and valuing the company at about $7.3 billion.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T20:42:00.000Z",
-      "headline": "Cracker Barrel tried to win back customers by abandoning its logo and remodels. But it still sees fewer diners up ahead.",
-      "url": "https://www.marketwatch.com/story/cracker-barrel-tried-to-win-back-customers-by-abandoning-its-logo-and-remodels-but-it-still-sees-fewer-diners-up-ahead-0c9f9b1d?mod=mw_rss_topstories",
+      "ts": "2025-09-18T02:15:00.000Z",
+      "headline": "This $1.6 billion deal is a sign that the&#xa0;worst of&#xa0;the crisis in office real estate is in the past",
+      "url": "https://www.marketwatch.com/story/this-1-6-billion-deal-is-a-sign-that-theworst-ofthe-crisis-in-office-real-estate-is-in-the-past-bf7fbb45?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of Cracker Barrel Old Country Store Inc. fell after hours on Wednesday after the Americana-themed restaurant chain forecast falling traffic for the fiscal year ahead and sales that were below Wall Street&#x2019;s expectations, as it deals with blowback over efforts to change its logo and remodel its stores.",
+      "summary_en": "The market for office space has struggled to bounce back from the pandemic &#x2014; but there are encouraging signals in marquee markets.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-17T20:35:00.000Z",
-      "headline": "Protein snacks are getting more popular thanks to weight-loss drugs, says General Mills",
-      "url": "https://www.marketwatch.com/story/protein-snacks-are-getting-more-popular-thanks-to-weight-loss-drugs-says-general-mills-7455a04f?mod=mw_rss_topstories",
+      "ts": "2025-09-18T00:53:00.000Z",
+      "headline": "ABC pulls Jimmy Kimmel  following government pushback over Charlie Kirk comments",
+      "url": "https://www.marketwatch.com/story/jimmy-kimmel-dropped-by-abc-amid-affiliate-revolt-following-charlie-kirk-comments-dd41101f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "While people on GLP-1 drugs are reducing their overall calories, the packaged-foods producer says they have a growing hunger for protein as they lose muscle mass.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-17T22:05:00.000Z",
-      "headline": "Bots make buying concert tickets a nightmare. Could the FTC&#x2019;s Ticketmaster probe help?",
-      "url": "https://www.marketwatch.com/story/bots-make-buying-concert-tickets-a-nightmare-could-the-ftcs-ticketmaster-probe-help-4607ae08?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "As the FTC ramps up its war against resell bots with its latest Ticketmaster investigation, what can be done to level the playing field so that bots don&#x2019;t grab all the Taylor Swift tickets?",
+      "summary_en": "ABC said Wednesday that it was pulling late-night host Jimmy Kimmel&#x2019;s show indefinitely following remarks he made about the shooting of conservative activist Charlie Kirk that had drawn a rebuke from the Trump administration.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
