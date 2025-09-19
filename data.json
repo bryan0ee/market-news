@@ -1,32 +1,68 @@
 {
-  "last_updated": "2025-09-19T13:30:02.598Z",
+  "last_updated": "2025-09-19T23:24:10.070Z",
   "items": [
     {
-      "ts": "2025-09-19T13:15:00.000Z",
-      "headline": "Russell 2000 scored fresh record for the first time in 4 years. Why the small-cap rally still has room to run.",
-      "url": "https://www.marketwatch.com/story/russell-2000-scores-fresh-record-for-the-first-time-in-4-years-why-the-small-cap-rally-still-has-room-to-run-b076bf30?mod=mw_rss_topstories",
+      "ts": "2025-09-19T20:21:00.000Z",
+      "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
+      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Old-Age and Survivors Insurance fund is expected to run out of money by 2033 at the latest, recent reports show.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T21:00:00.000Z",
+      "headline": "Stocks tend to suffer in the second half of September &#x2014; but the Fed&#x2019;s rate cut might keep bears at bay",
+      "url": "https://www.marketwatch.com/story/stocks-tend-to-suffer-in-the-second-half-of-september-but-the-feds-rate-cut-might-keep-bears-at-bay-6aa7d63b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Despite their recent rally, small-cap stocks remain cheap compared with their large-cap peers, say portfolio managers.",
+      "summary_en": "History suggests it could be a downhill ride for stocks through the end of September.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-19T13:09:00.000Z",
-      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
-      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
+      "ts": "2025-09-19T20:54:00.000Z",
+      "headline": "Is the revamped American Express Platinum card worth the $895 fee? This new perk may seal the deal.",
+      "url": "https://www.marketwatch.com/story/is-the-revamped-american-express-platinum-card-worth-the-895-fee-this-new-perk-may-seal-the-deal-49497124?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%, and pencils in two more reductions this year.",
+      "summary_en": "American Express is seeking to address longstanding customer complaints that it is difficult to track statement credits.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-19T12:49:00.000Z",
+      "ts": "2025-09-19T20:45:00.000Z",
+      "headline": "People are complaining that Apple&#x2019;s new iPhone 17 scratches easily &#x2014; but these Wall Street analysts say it won&#x2019;t hurt sales",
+      "url": "https://www.marketwatch.com/story/people-are-complaining-that-apples-new-iphone-17-scratches-easily-but-these-wall-street-analysts-say-it-wont-hurt-sales-9890ade2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The phones, which have a base price as high as $1,099, were released Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T20:38:00.000Z",
+      "headline": "COVID-19 vaccine recommendations dropped by panel, shots won&#x2019;t require a prescription",
+      "url": "https://www.marketwatch.com/story/covid-19-vaccine-wont-require-a-prescription-according-to-hhs-panel-vote-c68d7d94?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The government declined to provide a recommendation, saying individuals should decide whether to get the vaccine.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T20:14:00.000Z",
       "headline": "My mother&#x2019;s lawyer stole $400K after she moved to a nursing home. How can we get justice?",
       "url": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,87 +74,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-19T11:38:00.000Z",
-      "headline": "How Tesla&#x2019;s metamorphosis may see its stock surge to $3,000 in just 10 years",
-      "url": "https://www.marketwatch.com/story/how-teslas-metamorphosis-may-see-its-stock-surge-to-3-000-in-just-10-years-7c721f2f?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-09-19T22:27:00.000Z",
+      "headline": "Why Ariana Grande opting out of dynamic pricing might actually help ticket scalpers &#x2014; and not her fans",
+      "url": "https://www.marketwatch.com/story/why-ariana-grande-opting-out-of-dynamic-pricing-might-actually-help-ticket-scalpers-and-not-her-fans-9646ec39?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "META"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Robots and robotaxis will turn Musk&#x2019;s carmaker into a &#x2018;physical AI&#x2019; company, says Baird",
+      "summary_en": "Though consumers often assume they lose out with dynamic pricing, experts say that&#x2019;s not always the case.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-19T12:24:00.000Z",
-      "headline": "&#x2018;I was fearful.&#x2019; How this father learned to take crypto advice from his adult child",
-      "url": "https://www.marketwatch.com/story/i-was-fearful-how-this-father-learned-to-take-crypto-advice-from-his-adult-child-c6b85826?mod=mw_rss_topstories",
+      "ts": "2025-09-19T19:12:00.000Z",
+      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
+      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "His son&#x2019;s warning: &#x201c;You should not be surprised to see 70% drawdown on alt coins and even bitcoin.&#x201d;",
+      "summary_en": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%, and pencils in two more reductions this year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-19T11:33:00.000Z",
-      "headline": "One big takeaway from Fed rate cuts: Bulk up on these two investments",
-      "url": "https://www.marketwatch.com/story/this-fed-has-its-head-in-the-sand-but-at-least-now-we-know-where-to-invest-a039fdb8?mod=mw_rss_topstories",
+      "ts": "2025-09-19T21:47:00.000Z",
+      "headline": "Taylor Swift tries to save the movie industry again with &#x2018;Showgirl&#x2019; film release",
+      "url": "https://www.marketwatch.com/story/taylor-swift-tries-to-save-the-movie-industry-again-with-showgirl-film-release-8a1653e0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Taylor Swift: The Official Release Party of a Showgirl&#x201d; will hit theaters on Oct. 3, the same day her upcoming album drops.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T21:08:00.000Z",
+      "headline": "Trump touts TikTok deal but doesn&#x2019;t address fear that China &#x2018;retains a veto&#x2019;",
+      "url": "https://www.marketwatch.com/story/trump-touts-tiktok-deal-but-doesnt-address-fear-that-china-retains-a-veto-29910753?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Here&#x2019;s the latest on the Trump administration&#x2019;s agreement with China on TikTok.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T16:00:00.000Z",
+      "headline": "Federal Reserve Board publishes agenda for its community bank conference, which will take place on Thursday, October 9",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20250919a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investment manager Louis Navellier: Own more gold and AI-related tech stocks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T12:43:00.000Z",
-      "headline": "How a natural-gas deal could boost energy stocks and U.S.-China relations",
-      "url": "https://www.marketwatch.com/story/how-a-natural-gas-deal-could-boost-energy-stocks-and-u-s-china-relations-28f6f3e3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Here&#x2019;s an opportunity for Trump to do what he claims to be good at: making a deal.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T12:28:00.000Z",
-      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
-      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T11:40:00.000Z",
-      "headline": "Olive Garden sees success with smaller, cheaper portions as diners try to save money",
-      "url": "https://www.marketwatch.com/story/olive-garden-sees-success-with-smaller-cheaper-portions-as-diners-try-to-save-money-e9fd2339?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The restaurant is offering a &#x201c;lighter portion&#x201d; section of its menu in an attempt to drive more customer traffic.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T11:38:00.000Z",
-      "headline": "As inflows to U.S. stocks crest to biggest in more than a year, Bank of America says it&#x2019;s time to &#x2018;chase the laggards&#x2019;",
-      "url": "https://www.marketwatch.com/story/as-inflows-to-u-s-stocks-crest-to-biggest-in-more-than-a-year-bank-of-america-says-its-time-to-chase-the-laggards-7498fe0a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Bank of America is telling clients to start chasing the underperformers of the stock-market rally this year.",
+      "summary_en": "Federal Reserve Board publishes agenda for its community bank conference, which will take place on Thursday, October 9",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
