@@ -1,106 +1,20 @@
 {
-  "last_updated": "2025-09-18T23:24:46.375Z",
+  "last_updated": "2025-09-19T10:42:02.169Z",
   "items": [
     {
-      "ts": "2025-09-18T22:26:00.000Z",
-      "headline": "FedEx offers this number in an early sign that trade uncertainty is easing",
-      "url": "https://www.marketwatch.com/story/fedex-just-gave-investors-a-reason-to-be-more-optimistic-812ae005?mod=mw_rss_topstories",
+      "ts": "2025-09-19T10:38:00.000Z",
+      "headline": "How Tesla&#x2019;s metamorphosis may see its stock surge to $3,000 in just 10 years",
+      "url": "https://www.marketwatch.com/story/how-teslas-metamorphosis-may-see-its-stock-surge-to-3-000-in-just-10-years-7c721f2f?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "ED"
+        "META"
       ],
-      "summary_en": "FedEx&#x2019;s stock rallies in extended trading after logistics company reinstates outlook for the full year",
+      "summary_en": "Robots and robotaxis will turn Musk&#x2019;s carmaker into a &#x2018;physical AI&#x2019; company, says Baird",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-18T23:15:00.000Z",
-      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
-      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T23:12:00.000Z",
-      "headline": "Treasury yields rise after Fed rate cut, with Powell in no &#x2018;sprint&#x2019; to loosen policy",
-      "url": "https://www.marketwatch.com/story/treasury-yields-rise-after-fed-rate-cut-with-powell-in-no-sprint-to-loosen-policy-5fbcfc3d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors in the bond market are adjusting their positioning in the aftermath of the Fed&#x2019;s shift in monetary policy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T22:37:00.000Z",
-      "headline": "One reason NBA star Kevin Durant is holding onto his bitcoin: He can&#x2019;t get into his Coinbase account",
-      "url": "https://www.marketwatch.com/story/one-reason-nba-star-kevin-durant-is-holding-onto-his-bitcoin-he-cant-get-into-his-coinbase-account-fcb5b58f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x2018;It&#x2019;s in the cloud,&#x2019; Durant joked &#x2013; and he&#x2019;s not the only one with a lost bitcoin wallet.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T22:26:00.000Z",
-      "headline": "One big takeaway from Fed rate cuts: Bulk up on these two investments",
-      "url": "https://www.marketwatch.com/story/this-fed-has-its-head-in-the-sand-but-at-least-now-we-know-where-to-invest-a039fdb8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investment manager Louis Navellier: Own more gold and AI-related tech stocks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T22:23:00.000Z",
-      "headline": "Ditch quarterly earnings like Trump says? What&#x2019;s needed is better reporting &#x2014; not less.",
-      "url": "https://www.marketwatch.com/story/ditch-quarterly-earnings-like-trump-says-whats-needed-is-better-reporting-not-less-7780011e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED",
-        "COST"
-      ],
-      "summary_en": "The costs of moving to semiannual reporting clearly outweigh any benefits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T22:14:00.000Z",
-      "headline": "The Fed has no problem with rate cuts &#x2014; and neither does the stock market",
-      "url": "https://www.marketwatch.com/story/the-fed-has-no-problem-with-rate-cuts-and-neither-does-the-stock-market-8605788a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Market indicators are supporting a bullish S&P 500 chart.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T22:10:00.000Z",
-      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
-      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%, and pencils in two more reductions this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T22:07:00.000Z",
+      "ts": "2025-09-19T10:30:00.000Z",
       "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
       "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -112,15 +26,101 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-18T22:04:00.000Z",
-      "headline": "My friends bought a house together. How do they untangle themselves from this mess?",
-      "url": "https://www.marketwatch.com/story/its-a-mess-my-unmarried-friends-bought-a-house-together-whats-the-best-way-for-one-to-buy-the-other-out-4fa24747?mod=mw_rss_topstories",
+      "ts": "2025-09-19T10:00:00.000Z",
+      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
+      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T09:35:00.000Z",
+      "headline": "&#x2018;I cannot plan a life with all the uncertainties&#x2019;: My boyfriend, 54, has $90,000 in credit-card debt. Is this a dealbreaker?",
+      "url": "https://www.marketwatch.com/story/i-cannot-plan-a-life-with-all-the-uncertainties-my-boyfriend-54-has-90-000-in-credit-card-debt-is-this-a-dealbreaker-84222dd9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m on track to retire in 10 years.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T09:03:00.000Z",
+      "headline": "Look for one of these compact models for a great used car for under $15,000",
+      "url": "https://www.marketwatch.com/story/look-for-one-of-these-compact-models-for-a-great-used-car-for-under-15-000-d06fcdf4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "These compact cars are affordable, fuel-efficient daily drivers for commuting, road trips and running errands.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T09:01:00.000Z",
+      "headline": "&#x2018;Gotta keep paying those bills, baby&#x2019;: Despite a lucrative real estate portfolio, Whoopi Goldberg says she can&#x2019;t afford to retire",
+      "url": "https://www.marketwatch.com/story/gotta-keep-paying-those-bills-baby-despite-a-lucrative-real-estate-portfolio-whoopi-goldberg-says-she-cant-afford-to-retire-2999753d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;The View&#x201d; host&#xa0;Whoopi Goldberg&#xa0;has claimed that she &#x201c;can&#x2019;t afford&#x201d; to retire from the hit talk show&#x2014;blaming her three failed marriages for her need to continue working.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T09:25:00.000Z",
+      "headline": "My husband and I are 64. My in-laws are leaving us a $250K house. What do we do with the money?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-64-my-in-laws-are-leaving-us-a-250k-house-what-do-we-do-with-the-money-94bac584?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The couple is ending their relationship. What do they do with the house?&#x201d;",
+      "summary_en": "&#x201c;My in-laws are 95. They have a low income and do not file taxes.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T02:50:00.000Z",
+      "headline": "Google searches for &#x2018;help with mortgage&#x2019; haven&#x2019;t been this high since 2009",
+      "url": "https://www.marketwatch.com/story/google-searches-for-help-with-mortgage-havent-been-this-high-since-2009-7e0354cf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "More people appear to be looking for help with their mortgages, according to internet search trends. But economists say the reality is more nuanced and less alarming.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T02:05:00.000Z",
+      "headline": "Why mortgage rates are actually going up after the Fed cut interest rates",
+      "url": "https://www.marketwatch.com/story/why-mortgage-rates-are-actually-going-up-after-the-fed-cut-interest-rates-87c712bd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The 30-year mortgage rate shot up the day after the Federal Reserve cut interest rates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T00:50:00.000Z",
+      "headline": "How much money will you get in the Facebook settlement? Here&#x2019;s how class-action suits work.",
+      "url": "https://www.marketwatch.com/story/filing-a-claim-as-part-of-the-at-t-177-million-settlement-that-could-just-be-the-start-of-your-class-action-journey-a4d33066?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A variety of sources can help consumers learn about lawsuits they may be eligible to participate in.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
