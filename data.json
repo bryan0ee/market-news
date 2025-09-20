@@ -1,6 +1,67 @@
 {
-  "last_updated": "2025-09-20T10:39:41.827Z",
+  "last_updated": "2025-09-20T13:23:40.697Z",
   "items": [
+    {
+      "ts": "2025-09-20T12:37:00.000Z",
+      "headline": "&#x2018;I spend 5 hours a day on my portfolio&#x2019;: I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
+      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T12:30:00.000Z",
+      "headline": "Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.",
+      "url": "https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Interest-rate cuts could be especially tough on younger investors, who may hold more cash than they should.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T11:30:00.000Z",
+      "headline": "Why the bull market for stocks may now hinge on the 10-year Treasury yield",
+      "url": "https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "With stocks at record highs, Ron Albahary Albahary at Laird Norton has been leaning into ways to hedge volatility while &#x201c;hedging is cheap.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T12:00:00.000Z",
+      "headline": "Is it true than I need one more Social Security credit to receive benefits? If so, I&#x2019;ll have to go back to work.&#xa0;",
+      "url": "https://www.marketwatch.com/story/is-it-true-than-i-need-one-more-social-security-credit-to-receive-benefits-if-so-ill-have-to-go-back-to-work-39d60bfd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I was told that I would not receive monthly Social Security payments because I don&#x2019;t have 40 credits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T13:00:00.000Z",
+      "headline": "Bad news for coffee drinkers: The record-high prices you&#x2019;re paying will go even higher when tariffs take their toll",
+      "url": "https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The coffee industry has been caught off guard by President Trump&#x2019;s tariffs, as retail coffee prices continue to climb.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-20T09:46:00.000Z",
       "headline": "My fianc&#xe9;e and I are 61. I&#x2019;m moving into her home. How do we divide the expenses fairly?",
@@ -14,6 +75,18 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-09-20T12:00:00.000Z",
+      "headline": "Forget chips: The next battleground in the U.S.-China AI race is nuclear power",
+      "url": "https://www.marketwatch.com/story/forget-chips-the-next-battleground-in-the-u-s-china-ai-race-is-nuclear-power-4c92b278?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The race for AI supremacy is quickly becoming a race for energy supremacy. As the U.S. lags China in nuclear development, both the government and Big Tech are making a massive new push to close the gap.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-09-20T10:31:00.000Z",
       "headline": "My in-laws, 95, are leaving us $250K. What&#x2019;s the smart way to invest this money?",
       "url": "https://www.marketwatch.com/story/my-husband-and-i-are-64-my-in-laws-are-leaving-us-a-250k-house-what-do-we-do-with-the-money-94bac584?mod=mw_rss_topstories",
@@ -23,66 +96,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;They have a low income and do not file taxes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T20:21:00.000Z",
-      "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
-      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Old-Age and Survivors Insurance fund is expected to run out of money by 2033 at the latest, recent reports show.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T21:00:00.000Z",
-      "headline": "Stocks tend to suffer in the second half of September &#x2014; but the Fed&#x2019;s rate cut might keep bears at bay",
-      "url": "https://www.marketwatch.com/story/stocks-tend-to-suffer-in-the-second-half-of-september-but-the-feds-rate-cut-might-keep-bears-at-bay-6aa7d63b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "History suggests it could be a downhill ride for stocks through the end of September.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T20:54:00.000Z",
-      "headline": "Is the revamped American Express Platinum card worth the $895 fee? This new perk may seal the deal.",
-      "url": "https://www.marketwatch.com/story/is-the-revamped-american-express-platinum-card-worth-the-895-fee-this-new-perk-may-seal-the-deal-49497124?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "American Express is seeking to address longstanding customer complaints that it is difficult to track statement credits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T20:45:00.000Z",
-      "headline": "People are complaining that Apple&#x2019;s new iPhone 17 scratches easily &#x2014; but these Wall Street analysts say it won&#x2019;t hurt sales",
-      "url": "https://www.marketwatch.com/story/people-are-complaining-that-apples-new-iphone-17-scratches-easily-but-these-wall-street-analysts-say-it-wont-hurt-sales-9890ade2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The phones, which have a base price as high as $1,099, were released Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T20:38:00.000Z",
-      "headline": "COVID-19 vaccine recommendations dropped by panel, shots won&#x2019;t require a prescription",
-      "url": "https://www.marketwatch.com/story/covid-19-vaccine-wont-require-a-prescription-according-to-hhs-panel-vote-c68d7d94?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The government declined to provide a recommendation, saying individuals should decide whether to get the vaccine.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -167,18 +180,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;Taylor Swift: The Official Release Party of a Showgirl&#x201d; will hit theaters on Oct. 3, the same day her upcoming album drops.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T21:08:00.000Z",
-      "headline": "Trump touts TikTok deal but doesn&#x2019;t address fear that China &#x2018;retains a veto&#x2019;",
-      "url": "https://www.marketwatch.com/story/trump-touts-tiktok-deal-but-doesnt-address-fear-that-china-retains-a-veto-29910753?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Here&#x2019;s the latest on the Trump administration&#x2019;s agreement with China on TikTok.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
