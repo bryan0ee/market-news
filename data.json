@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-09-19T23:24:10.070Z",
+  "last_updated": "2025-09-20T10:39:41.827Z",
   "items": [
+    {
+      "ts": "2025-09-20T09:46:00.000Z",
+      "headline": "My fianc&#xe9;e and I are 61. I&#x2019;m moving into her home. How do we divide the expenses fairly?",
+      "url": "https://www.marketwatch.com/story/my-fiancee-and-i-are-61-im-moving-into-her-home-are-there-financial-reasons-to-get-married-9404f635?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Once I have moved in with her, the plan is to rent out my house.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T10:31:00.000Z",
+      "headline": "My in-laws, 95, are leaving us $250K. What&#x2019;s the smart way to invest this money?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-64-my-in-laws-are-leaving-us-a-250k-house-what-do-we-do-with-the-money-94bac584?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;They have a low income and do not file taxes.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-19T20:21:00.000Z",
       "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
@@ -62,66 +86,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-19T20:14:00.000Z",
-      "headline": "My mother&#x2019;s lawyer stole $400K after she moved to a nursing home. How can we get justice?",
-      "url": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Within a month, her home had fraudulently been put up for sale and her vehicle stolen.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T22:27:00.000Z",
-      "headline": "Why Ariana Grande opting out of dynamic pricing might actually help ticket scalpers &#x2014; and not her fans",
-      "url": "https://www.marketwatch.com/story/why-ariana-grande-opting-out-of-dynamic-pricing-might-actually-help-ticket-scalpers-and-not-her-fans-9646ec39?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Though consumers often assume they lose out with dynamic pricing, experts say that&#x2019;s not always the case.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T19:12:00.000Z",
-      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
-      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%, and pencils in two more reductions this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T21:47:00.000Z",
-      "headline": "Taylor Swift tries to save the movie industry again with &#x2018;Showgirl&#x2019; film release",
-      "url": "https://www.marketwatch.com/story/taylor-swift-tries-to-save-the-movie-industry-again-with-showgirl-film-release-8a1653e0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Taylor Swift: The Official Release Party of a Showgirl&#x201d; will hit theaters on Oct. 3, the same day her upcoming album drops.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T21:08:00.000Z",
-      "headline": "Trump touts TikTok deal but doesn&#x2019;t address fear that China &#x2018;retains a veto&#x2019;",
-      "url": "https://www.marketwatch.com/story/trump-touts-tiktok-deal-but-doesnt-address-fear-that-china-retains-a-veto-29910753?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Here&#x2019;s the latest on the Trump administration&#x2019;s agreement with China on TikTok.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-19T16:00:00.000Z",
       "headline": "Federal Reserve Board publishes agenda for its community bank conference, which will take place on Thursday, October 9",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20250919a.htm",
@@ -179,6 +143,42 @@
         "ED"
       ],
       "summary_en": "Stephen I. Miran sworn in as a member of the Board of Governors of the Federal Reserve System",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T22:27:00.000Z",
+      "headline": "Why Ariana Grande opting out of dynamic pricing might actually help ticket scalpers &#x2014; and not her fans",
+      "url": "https://www.marketwatch.com/story/why-ariana-grande-opting-out-of-dynamic-pricing-might-actually-help-ticket-scalpers-and-not-her-fans-9646ec39?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Though consumers often assume they lose out with dynamic pricing, experts say that&#x2019;s not always the case.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T21:47:00.000Z",
+      "headline": "Taylor Swift tries to save the movie industry again with &#x2018;Showgirl&#x2019; film release",
+      "url": "https://www.marketwatch.com/story/taylor-swift-tries-to-save-the-movie-industry-again-with-showgirl-film-release-8a1653e0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Taylor Swift: The Official Release Party of a Showgirl&#x201d; will hit theaters on Oct. 3, the same day her upcoming album drops.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-19T21:08:00.000Z",
+      "headline": "Trump touts TikTok deal but doesn&#x2019;t address fear that China &#x2018;retains a veto&#x2019;",
+      "url": "https://www.marketwatch.com/story/trump-touts-tiktok-deal-but-doesnt-address-fear-that-china-retains-a-veto-29910753?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Here&#x2019;s the latest on the Trump administration&#x2019;s agreement with China on TikTok.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
