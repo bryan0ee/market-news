@@ -1,93 +1,80 @@
 {
-  "last_updated": "2025-09-20T13:23:40.697Z",
+  "last_updated": "2025-09-20T23:23:48.976Z",
   "items": [
     {
-      "ts": "2025-09-20T12:37:00.000Z",
-      "headline": "&#x2018;I spend 5 hours a day on my portfolio&#x2019;: I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
-      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
+      "ts": "2025-09-20T20:16:00.000Z",
+      "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My other children have relationships, but they are unmarried and have no children.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T20:02:00.000Z",
+      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
+      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T18:51:00.000Z",
+      "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
+      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
+      "summary_en": "The Old-Age and Survivors Insurance fund is expected to run out of money by 2033 at the latest, recent reports show.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-20T12:30:00.000Z",
-      "headline": "Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.",
-      "url": "https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4?mod=mw_rss_topstories",
+      "ts": "2025-09-20T18:43:00.000Z",
+      "headline": "Social Security&#x2019;s dead people and Medicare&#x2019;s fraudsters are real. But stopping them won&#x2019;t rescue the federal budget.",
+      "url": "https://www.marketwatch.com/story/social-securitys-dead-people-and-medicares-fraudsters-real-but-stopping-them-wont-save-the-budget-ed7c89b0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Interest-rate cuts could be especially tough on younger investors, who may hold more cash than they should.",
+      "summary_en": "Comptroller of the U.S. makes rare public comments",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-20T11:30:00.000Z",
-      "headline": "Why the bull market for stocks may now hinge on the 10-year Treasury yield",
-      "url": "https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "With stocks at record highs, Ron Albahary Albahary at Laird Norton has been leaning into ways to hedge volatility while &#x201c;hedging is cheap.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T12:00:00.000Z",
-      "headline": "Is it true than I need one more Social Security credit to receive benefits? If so, I&#x2019;ll have to go back to work.&#xa0;",
-      "url": "https://www.marketwatch.com/story/is-it-true-than-i-need-one-more-social-security-credit-to-receive-benefits-if-so-ill-have-to-go-back-to-work-39d60bfd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I was told that I would not receive monthly Social Security payments because I don&#x2019;t have 40 credits.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T13:00:00.000Z",
-      "headline": "Bad news for coffee drinkers: The record-high prices you&#x2019;re paying will go even higher when tariffs take their toll",
-      "url": "https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The coffee industry has been caught off guard by President Trump&#x2019;s tariffs, as retail coffee prices continue to climb.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T09:46:00.000Z",
-      "headline": "My fianc&#xe9;e and I are 61. I&#x2019;m moving into her home. How do we divide the expenses fairly?",
-      "url": "https://www.marketwatch.com/story/my-fiancee-and-i-are-61-im-moving-into-her-home-are-there-financial-reasons-to-get-married-9404f635?mod=mw_rss_topstories",
+      "ts": "2025-09-20T18:26:00.000Z",
+      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
+      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Once I have moved in with her, the plan is to rent out my house.&#x201d;",
+      "summary_en": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%, and pencils in two more reductions this year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-20T12:00:00.000Z",
-      "headline": "Forget chips: The next battleground in the U.S.-China AI race is nuclear power",
-      "url": "https://www.marketwatch.com/story/forget-chips-the-next-battleground-in-the-u-s-china-ai-race-is-nuclear-power-4c92b278?mod=mw_rss_topstories",
+      "ts": "2025-09-20T17:55:00.000Z",
+      "headline": "Social Security could change eligibility rules for disability &#x2014; blocking benefits for 750,000 disabled Americans",
+      "url": "https://www.marketwatch.com/story/social-security-could-change-eligibility-rules-for-disability-blocking-benefits-for-750-000-disabled-americans-711ab6ca?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "The race for AI supremacy is quickly becoming a race for energy supremacy. As the U.S. lags China in nuclear development, both the government and Big Tech are making a massive new push to close the gap.",
+      "summary_en": "&#x201c;Further tightening of an already strict program would likely worsen outcomes,&#x201d; new report says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-20T10:31:00.000Z",
+      "ts": "2025-09-20T20:01:00.000Z",
       "headline": "My in-laws, 95, are leaving us $250K. What&#x2019;s the smart way to invest this money?",
       "url": "https://www.marketwatch.com/story/my-husband-and-i-are-64-my-in-laws-are-leaving-us-a-250k-house-what-do-we-do-with-the-money-94bac584?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -96,6 +83,43 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;They have a low income and do not file taxes.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T16:54:00.000Z",
+      "headline": "Should we drain our $200,000 savings for Roth conversions on $2.3 million in our 60s?",
+      "url": "https://www.marketwatch.com/story/should-we-drain-our-200-000-savings-for-roth-conversions-on-2-3-million-in-our-60s-4d710f5d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "A reader worries he and his wife might need that money down the road.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T18:21:00.000Z",
+      "headline": "&#x2018;Fun came before paying bills&#x2019;: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
+      "url": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-20T17:14:00.000Z",
+      "headline": "$1,525 for a &#x2018;Hamilton&#x2019; ticket? Why premium seats on Broadway are getting so expensive.",
+      "url": "https://www.marketwatch.com/story/have-a-spare-1-525-thats-what-the-top-ticket-to-hamilton-now-costs-on-broadway-dde2bcb2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "These are the most expensive face-value tickets in Broadway history, thanks to Leslie Odom Jr.&#x2019;s return &#x2014; and the premium-pricing trend goes beyond &#x201c;Hamilton&#x201d; this season",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -156,30 +180,6 @@
         "ED"
       ],
       "summary_en": "Stephen I. Miran sworn in as a member of the Board of Governors of the Federal Reserve System",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T22:27:00.000Z",
-      "headline": "Why Ariana Grande opting out of dynamic pricing might actually help ticket scalpers &#x2014; and not her fans",
-      "url": "https://www.marketwatch.com/story/why-ariana-grande-opting-out-of-dynamic-pricing-might-actually-help-ticket-scalpers-and-not-her-fans-9646ec39?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Though consumers often assume they lose out with dynamic pricing, experts say that&#x2019;s not always the case.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T21:47:00.000Z",
-      "headline": "Taylor Swift tries to save the movie industry again with &#x2018;Showgirl&#x2019; film release",
-      "url": "https://www.marketwatch.com/story/taylor-swift-tries-to-save-the-movie-industry-again-with-showgirl-film-release-8a1653e0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Taylor Swift: The Official Release Party of a Showgirl&#x201d; will hit theaters on Oct. 3, the same day her upcoming album drops.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
