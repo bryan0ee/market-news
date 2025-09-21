@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-09-21T10:39:27.321Z",
+  "last_updated": "2025-09-21T13:24:07.534Z",
   "items": [
+    {
+      "ts": "2025-09-21T13:00:00.000Z",
+      "headline": "My mother&#x2019;s lawyer stole $400K after she moved to a nursing home. How do we get our money back?",
+      "url": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Within a month, her home had fraudulently been put up for sale and her vehicle stolen.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-21T12:07:00.000Z",
+      "headline": "Are your parents afraid of investing in crypto? How to talk with them so they&#x2019;ll actually listen.",
+      "url": "https://www.marketwatch.com/story/i-was-fearful-how-this-father-learned-to-take-crypto-advice-from-his-adult-child-c6b85826?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x2018;I was fearful,&#x2019; a father admits. His son didn&#x2019;t sugarcoat the risk: &#x2018;You should not be surprised to see 70% drawdown on alt coins and even bitcoin.&#x2019;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-21T10:30:00.000Z",
       "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
@@ -71,19 +95,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;Further tightening of an already strict program would likely worsen outcomes,&#x201d; new report says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T16:54:00.000Z",
-      "headline": "Should we drain our $200,000 savings for Roth conversions on $2.3 million in our 60s?",
-      "url": "https://www.marketwatch.com/story/should-we-drain-our-200-000-savings-for-roth-conversions-on-2-3-million-in-our-60s-4d710f5d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "A reader worries he and his wife might need that money down the road.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -168,18 +179,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T17:14:00.000Z",
-      "headline": "$1,525 for a &#x2018;Hamilton&#x2019; ticket? Why premium seats on Broadway are getting so expensive.",
-      "url": "https://www.marketwatch.com/story/have-a-spare-1-525-thats-what-the-top-ticket-to-hamilton-now-costs-on-broadway-dde2bcb2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "These are the most expensive face-value tickets in Broadway history, thanks to Leslie Odom Jr.&#x2019;s return &#x2014; and the premium-pricing trend goes beyond &#x201c;Hamilton&#x201d; this season",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
