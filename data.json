@@ -1,6 +1,90 @@
 {
-  "last_updated": "2025-09-21T13:24:07.534Z",
+  "last_updated": "2025-09-21T23:24:33.726Z",
   "items": [
+    {
+      "ts": "2025-09-21T23:00:00.000Z",
+      "headline": "U.S. stock futures flat after Friday&#x2019;s record highs, as &#x2018;market has learned to thrive in ambiguity&#x2019;",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-after-fridays-record-highs-as-market-has-learned-to-thrive-in-ambiguity-ef6c1512?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock-market futures were little changed on Sunday, after the three major indexes all closed at record highs on Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-21T22:28:00.000Z",
+      "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My other children have relationships, but they are unmarried and have no children.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-21T22:26:00.000Z",
+      "headline": "&#x2018;I feel overwhelmed&#x2019;: I&#x2019;m a widow in my early 40s with 3 children. My IRAs are worth $330K. Will we be OK?",
+      "url": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-a-widow-in-my-early-40s-with-3-children-my-iras-are-worth-330k-will-we-survive-financially-c8329963?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Our paid-off home is valued at $590,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-21T21:30:00.000Z",
+      "headline": "Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.",
+      "url": "https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Interest-rate cuts could be especially tough on younger investors, who may hold more cash than they should.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-21T19:41:00.000Z",
+      "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
+      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Old-Age and Survivors Insurance fund is expected to run out of money by 2033 at the latest, recent reports show.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-21T19:12:00.000Z",
+      "headline": "Now that the Fed has cut rates, investors can focus on what really matters for markets",
+      "url": "https://www.marketwatch.com/story/now-that-the-fed-has-cut-rates-investors-can-focus-on-what-really-matters-for-markets-7e09cae2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Wall Street analysts have been raising corporate earnings estimates all summer, while the outlook for economic growth has improved despite a slowdown in the labor market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-21T19:20:00.000Z",
+      "headline": "Bad news for coffee drinkers: The record-high prices you&#x2019;re paying will go even higher when tariffs take their toll",
+      "url": "https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The coffee industry has been caught off guard by President Donald Trump&#x2019;s tariffs, as retail coffee prices continue to climb.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-21T13:00:00.000Z",
       "headline": "My mother&#x2019;s lawyer stole $400K after she moved to a nursing home. How do we get our money back?",
@@ -35,66 +119,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I live a comfortable life, but the Fed&#x2019;s decision won&#x2019;t make a blind bit of difference to me.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T18:51:00.000Z",
-      "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
-      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Old-Age and Survivors Insurance fund is expected to run out of money by 2033 at the latest, recent reports show.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T20:16:00.000Z",
-      "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
-      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My other children have relationships, but they are unmarried and have no children.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T20:02:00.000Z",
-      "headline": "&#x2018;I am highly alarmed by the proposed changes to retirement accounts&#x2019;: I don&#x2019;t want bitcoin or private equity in my 401(k). What can I do?",
-      "url": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;What are the options for safeguarding my autonomy over my funds?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T18:43:00.000Z",
-      "headline": "Social Security&#x2019;s dead people and Medicare&#x2019;s fraudsters are real. But stopping them won&#x2019;t rescue the federal budget.",
-      "url": "https://www.marketwatch.com/story/social-securitys-dead-people-and-medicares-fraudsters-real-but-stopping-them-wont-save-the-budget-ed7c89b0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Comptroller of the U.S. makes rare public comments",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T17:55:00.000Z",
-      "headline": "Social Security could change eligibility rules for disability &#x2014; blocking benefits for 750,000 disabled Americans",
-      "url": "https://www.marketwatch.com/story/social-security-could-change-eligibility-rules-for-disability-blocking-benefits-for-750-000-disabled-americans-711ab6ca?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Further tightening of an already strict program would likely worsen outcomes,&#x201d; new report says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,30 +179,6 @@
         "ED"
       ],
       "summary_en": "Stephen I. Miran sworn in as a member of the Board of Governors of the Federal Reserve System",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T20:01:00.000Z",
-      "headline": "My in-laws, 95, are leaving us $250K. What&#x2019;s the smart way to invest this money?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-64-my-in-laws-are-leaving-us-a-250k-house-what-do-we-do-with-the-money-94bac584?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;They have a low income and do not file taxes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-20T18:21:00.000Z",
-      "headline": "&#x2018;Fun came before paying bills&#x2019;: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
-      "url": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;At one point, he was even taking items from friend&#x2019;s homes when they let him stay with them.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
