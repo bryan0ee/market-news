@@ -1,9 +1,21 @@
 {
-  "last_updated": "2025-09-22T13:30:55.995Z",
+  "last_updated": "2025-09-22T23:24:43.797Z",
   "items": [
     {
-      "ts": "2025-09-22T13:18:00.000Z",
-      "headline": "Oracle is getting two new CEOs. What does that mean for the stock?",
+      "ts": "2025-09-22T23:16:00.000Z",
+      "headline": "Apple&#x2019;s stock surges to a 2025 high on hot iPhone 17 demand. Can the rally continue?",
+      "url": "https://www.marketwatch.com/story/apples-stock-surges-to-a-2025-high-on-hot-iphone-17-demand-can-the-rally-continue-56afe428?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Strong early demand for the new iPhone is fueling a rally in Apple&#x2019;s stock, but some analysts are seeing mixed signals for the pricier models.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T23:20:00.000Z",
+      "headline": "Oracle is getting two new CEOs. Why that&#x2019;s good news for the stock.",
       "url": "https://www.marketwatch.com/story/oracle-is-getting-two-new-ceos-what-does-that-mean-for-the-stock-02e0e846?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -14,44 +26,20 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T12:58:00.000Z",
-      "headline": "Brain drain? How Wall Street is reacting to $100,000 charge for H-1B visas",
-      "url": "https://www.marketwatch.com/story/brain-drain-how-wall-street-is-reacting-to-100-000-charge-for-h1-b-visas-0e5bee7e?mod=mw_rss_topstories",
+      "ts": "2025-09-22T23:18:00.000Z",
+      "headline": "Palantir has &#x2018;main-character energy.&#x2019; Here&#x2019;s how that can help its stock power higher.",
+      "url": "https://www.marketwatch.com/story/palantir-has-main-character-energy-heres-how-that-can-help-its-stock-power-higher-065aed80?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "New Trump administration rules that will require a $100,000 fee for a type of visa used extensively in the technology industry brought fears of an exodus of talent that will sap the potential for growth.",
+      "summary_en": "Palantir&#x2019;s core data platforms business and unified technology have given it an advantage over other software companies in the AI era, D.A. Davidson analysts say",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T12:14:00.000Z",
-      "headline": "Pfizer makes a $4.9 billion bet on obesity drugs with Metsera buyout deal",
-      "url": "https://www.marketwatch.com/story/pfizer-makes-a-4-9-billion-bet-on-obesity-drugs-with-metsera-buyout-deal-273003e4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Metsera&#x2019;s shareholders could see significant bonuses if certain milestones are reached.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-22T11:40:00.000Z",
-      "headline": "Stocks are at a risk of a correction if the Fed makes the right call on the economy, says Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/stocks-are-at-a-risk-of-a-correction-if-the-fed-makes-the-right-call-on-the-economy-says-morgan-stanley-44475847?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Equities are vulnerable to a spike in liquidity stress, says Mike Wilson",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-22T11:35:00.000Z",
-      "headline": "The small-business hiring engine is sputtering. That&#x2019;s a red flag for the economy.",
+      "ts": "2025-09-22T23:09:00.000Z",
+      "headline": "The small-business hiring engine is sputtering. Why that&#x2019;s a red flag for the economy.",
       "url": "https://www.marketwatch.com/story/the-small-business-hiring-engine-is-sputtering-thats-a-red-flag-for-the-economy-12428cce?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -62,31 +50,55 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T11:34:00.000Z",
-      "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
-      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
+      "ts": "2025-09-22T22:04:00.000Z",
+      "headline": "Fed chief Powell is talking about the U.S. economy again. And Wall Street is all ears.",
+      "url": "https://www.marketwatch.com/story/fed-chief-powell-is-talking-about-the-u-s-economy-again-and-wall-street-is-all-ears-af470c24?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Wall Street has been hanging on every word of Federal Reserve chief Jerome Powell as stocks charged to record highs. Investors hope he&#x2019;ll give more clues Tuesday as to how much the Fed will cut U.S. interest rates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T22:39:00.000Z",
+      "headline": "Kenvue says Tylenol is safe, but stock hits record low as Trump makes unproven link to autism",
+      "url": "https://www.marketwatch.com/story/kenvue-says-tylenol-is-safe-but-stock-hits-record-low-ahead-of-trump-speech-c56b8d29?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My other children have relationships, but they are unmarried and have no children.&#x201d;",
+      "summary_en": "Shares of Kenvue Inc. sank to a record low Monday, as President Donald Trump warned women to avoid taking Kenvue&#x2019;s Tylenol, the brand name for acetaminophen, during pregnancy because of a possible connection with autism for the children.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T11:08:00.000Z",
-      "headline": "&#x2018;I feel overwhelmed&#x2019;: I&#x2019;m a widow in my early 40s with 3 children. My IRAs are worth $330K. Will we be OK?",
-      "url": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-a-widow-in-my-early-40s-with-3-children-my-iras-are-worth-330k-will-we-survive-financially-c8329963?mod=mw_rss_topstories",
+      "ts": "2025-09-22T22:04:00.000Z",
+      "headline": "Here&#x2019;s what matters most for Micron&#x2019;s stock going into earnings",
+      "url": "https://www.marketwatch.com/story/heres-what-matters-most-for-microns-stock-going-into-earnings-777ebe32?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Our paid-off home is valued at $590,000.&#x201d;",
+      "summary_en": "Improvements in the DRAM and NAND markets led Morgan Stanley to raise its estimates and price target for Micron&#x2019;s stock, which the analysts say will likely be more driven by clarity on its position with HBM",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T10:51:00.000Z",
+      "ts": "2025-09-22T22:04:00.000Z",
+      "headline": "I&#x2019;m in the U.S. on an H-1B work visa and worried about my job status. What should I do now?",
+      "url": "https://www.marketwatch.com/story/im-in-the-u-s-on-an-h-1b-work-visa-and-worried-about-my-job-status-what-should-i-do-now-8e57de40?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Legal experts address some common questions as President Trump&#x2019;s new $100,000 fee on H-1B applications leaves many employees in the U.S. on work visas feeling anxious.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T21:00:00.000Z",
       "headline": "&#x2018;I changed my will to deter vultures&#x2019;: I&#x2019;m in my 60s and disabled. Do I spend down my assets to qualify for Medicaid?",
       "url": "https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,27 +110,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T11:50:00.000Z",
-      "headline": "You&#x2019;re just getting scraps from the stock market. Here&#x2019;s where the big money is made.",
-      "url": "https://www.marketwatch.com/story/youre-just-getting-scraps-from-the-stock-market-heres-where-the-big-money-is-made-3d4f0922?mod=mw_rss_topstories",
+      "ts": "2025-09-22T21:30:00.000Z",
+      "headline": "&#x2018;My grief makes decisions difficult&#x2019;: My daughter has a financially reckless spouse. How do I protect her?",
+      "url": "https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "When it comes to growth investing, it&#x2019;s a small club &#x2014; and you&#x2019;re not in it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-22T11:47:00.000Z",
-      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
-      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
+      "summary_en": "&#x201c;I am afraid they will end up destitute and homeless.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
