@@ -1,33 +1,21 @@
 {
-  "last_updated": "2025-09-22T10:44:32.326Z",
+  "last_updated": "2025-09-22T13:30:55.995Z",
   "items": [
     {
-      "ts": "2025-09-22T09:53:00.000Z",
-      "headline": "Gold hit a record and silver&#x2019;s at a 14-year high &#x2014; this Wall Street bank says two other commodities will join the party",
-      "url": "https://www.marketwatch.com/story/gold-hit-a-record-and-silvers-at-a-14-year-high-this-wall-street-bank-says-two-other-commodities-will-join-the-party-76453ced?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Gold and silver prices were soaring on Monday. Citigroup strategists see the bull market continuing, with two other commodities poised to surge next.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-22T09:30:00.000Z",
-      "headline": "&#x2018;I&#x2019;ve received conflicting advice&#x2019;: I&#x2019;m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
-      "url": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
+      "ts": "2025-09-22T13:18:00.000Z",
+      "headline": "Oracle is getting two new CEOs. What does that mean for the stock?",
+      "url": "https://www.marketwatch.com/story/oracle-is-getting-two-new-ceos-what-does-that-mean-for-the-stock-02e0e846?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.&#x201d;",
+      "summary_en": "With Safra Catz staying involved at Oracle in the role of executive vice chair, investors can expect &#x201c;a smooth transition&#x201d; as Clay Magouyrk and Mike Sicilia jointly assume the CEO position.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T09:30:00.000Z",
-      "headline": "Brain drain? How Wall Street is reacting to $100,000 charge for H1-B visas",
+      "ts": "2025-09-22T12:58:00.000Z",
+      "headline": "Brain drain? How Wall Street is reacting to $100,000 charge for H-1B visas",
       "url": "https://www.marketwatch.com/story/brain-drain-how-wall-street-is-reacting-to-100-000-charge-for-h1-b-visas-0e5bee7e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -38,55 +26,43 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T09:15:00.000Z",
-      "headline": "&#x2018;My grief makes decisions difficult&#x2019;: My daughter has a financially reckless spouse. How do I protect her?",
-      "url": "https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories",
+      "ts": "2025-09-22T12:14:00.000Z",
+      "headline": "Pfizer makes a $4.9 billion bet on obesity drugs with Metsera buyout deal",
+      "url": "https://www.marketwatch.com/story/pfizer-makes-a-4-9-billion-bet-on-obesity-drugs-with-metsera-buyout-deal-273003e4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;I am afraid they will end up destitute and homeless.&#x201d;",
+      "summary_en": "Metsera&#x2019;s shareholders could see significant bonuses if certain milestones are reached.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T02:13:00.000Z",
-      "headline": "U.S. stock futures dip after Friday&#x2019;s record highs, even as &#x2018;the market has learned to thrive in ambiguity&#x2019;",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-after-fridays-record-highs-as-market-has-learned-to-thrive-in-ambiguity-ef6c1512?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-09-22T11:40:00.000Z",
+      "headline": "Stocks are at a risk of a correction if the Fed makes the right call on the economy, says Morgan Stanley",
+      "url": "https://www.marketwatch.com/story/stocks-are-at-a-risk-of-a-correction-if-the-fed-makes-the-right-call-on-the-economy-says-morgan-stanley-44475847?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. stock-market futures were little changed on Sunday, after the three major indexes all closed at record highs on Friday.",
+      "summary_en": "Equities are vulnerable to a spike in liquidity stress, says Mike Wilson",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-22T00:33:00.000Z",
-      "headline": "Why the bull market for stocks may now hinge on the 10-year Treasury yield",
-      "url": "https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-09-22T11:35:00.000Z",
+      "headline": "The small-business hiring engine is sputtering. That&#x2019;s a red flag for the economy.",
+      "url": "https://www.marketwatch.com/story/the-small-business-hiring-engine-is-sputtering-thats-a-red-flag-for-the-economy-12428cce?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "With stocks at record highs, Ron Albahary Albahary at Laird Norton has been leaning into ways to hedge volatility while &#x201c;hedging is cheap.&#x201d;",
+      "summary_en": "Without small businesses and their hiring, already precarious economic growth could be prone to a pullback.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-21T19:41:00.000Z",
-      "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
-      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Old-Age and Survivors Insurance fund is expected to run out of money by 2033 at the latest, recent reports show.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-21T22:28:00.000Z",
+      "ts": "2025-09-22T11:34:00.000Z",
       "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
       "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,7 +74,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-21T22:26:00.000Z",
+      "ts": "2025-09-22T11:08:00.000Z",
       "headline": "&#x2018;I feel overwhelmed&#x2019;: I&#x2019;m a widow in my early 40s with 3 children. My IRAs are worth $330K. Will we be OK?",
       "url": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-a-widow-in-my-early-40s-with-3-children-my-iras-are-worth-330k-will-we-survive-financially-c8329963?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -110,15 +86,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-21T21:30:00.000Z",
-      "headline": "Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.",
-      "url": "https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4?mod=mw_rss_topstories",
+      "ts": "2025-09-22T10:51:00.000Z",
+      "headline": "&#x2018;I changed my will to deter vultures&#x2019;: I&#x2019;m in my 60s and disabled. Do I spend down my assets to qualify for Medicaid?",
+      "url": "https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Interest-rate cuts could be especially tough on younger investors, who may hold more cash than they should.",
+      "summary_en": "&#x201c;I pay my taxes and insurance, donate money and personal belongings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T11:50:00.000Z",
+      "headline": "You&#x2019;re just getting scraps from the stock market. Here&#x2019;s where the big money is made.",
+      "url": "https://www.marketwatch.com/story/youre-just-getting-scraps-from-the-stock-market-heres-where-the-big-money-is-made-3d4f0922?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "When it comes to growth investing, it&#x2019;s a small club &#x2014; and you&#x2019;re not in it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T11:47:00.000Z",
+      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
+      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
