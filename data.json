@@ -1,9 +1,57 @@
 {
-  "last_updated": "2025-09-21T23:24:33.726Z",
+  "last_updated": "2025-09-22T10:44:32.326Z",
   "items": [
     {
-      "ts": "2025-09-21T23:00:00.000Z",
-      "headline": "U.S. stock futures flat after Friday&#x2019;s record highs, as &#x2018;market has learned to thrive in ambiguity&#x2019;",
+      "ts": "2025-09-22T09:53:00.000Z",
+      "headline": "Gold hit a record and silver&#x2019;s at a 14-year high &#x2014; this Wall Street bank says two other commodities will join the party",
+      "url": "https://www.marketwatch.com/story/gold-hit-a-record-and-silvers-at-a-14-year-high-this-wall-street-bank-says-two-other-commodities-will-join-the-party-76453ced?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Gold and silver prices were soaring on Monday. Citigroup strategists see the bull market continuing, with two other commodities poised to surge next.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T09:30:00.000Z",
+      "headline": "&#x2018;I&#x2019;ve received conflicting advice&#x2019;: I&#x2019;m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
+      "url": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T09:30:00.000Z",
+      "headline": "Brain drain? How Wall Street is reacting to $100,000 charge for H1-B visas",
+      "url": "https://www.marketwatch.com/story/brain-drain-how-wall-street-is-reacting-to-100-000-charge-for-h1-b-visas-0e5bee7e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "New Trump administration rules that will require a $100,000 fee for a type of visa used extensively in the technology industry brought fears of an exodus of talent that will sap the potential for growth.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T09:15:00.000Z",
+      "headline": "&#x2018;My grief makes decisions difficult&#x2019;: My daughter has a financially reckless spouse. How do I protect her?",
+      "url": "https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am afraid they will end up destitute and homeless.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T02:13:00.000Z",
+      "headline": "U.S. stock futures dip after Friday&#x2019;s record highs, even as &#x2018;the market has learned to thrive in ambiguity&#x2019;",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-after-fridays-record-highs-as-market-has-learned-to-thrive-in-ambiguity-ef6c1512?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
@@ -11,6 +59,30 @@
         "ED"
       ],
       "summary_en": "U.S. stock-market futures were little changed on Sunday, after the three major indexes all closed at record highs on Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-22T00:33:00.000Z",
+      "headline": "Why the bull market for stocks may now hinge on the 10-year Treasury yield",
+      "url": "https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "With stocks at record highs, Ron Albahary Albahary at Laird Norton has been leaning into ways to hedge volatility while &#x201c;hedging is cheap.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-21T19:41:00.000Z",
+      "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
+      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Old-Age and Survivors Insurance fund is expected to run out of money by 2033 at the latest, recent reports show.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -47,78 +119,6 @@
         "ED"
       ],
       "summary_en": "Interest-rate cuts could be especially tough on younger investors, who may hold more cash than they should.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-21T19:41:00.000Z",
-      "headline": "Social Security is on track to be insolvent in less than 10 years &#x2014; but its commissioner says there&#x2019;s &#x2018;plenty of time&#x2019; to find a solution",
-      "url": "https://www.marketwatch.com/story/social-security-is-on-track-to-be-insolvent-in-less-than-10-years-but-its-commissioner-says-theres-plenty-of-time-956344f1?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Old-Age and Survivors Insurance fund is expected to run out of money by 2033 at the latest, recent reports show.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-21T19:12:00.000Z",
-      "headline": "Now that the Fed has cut rates, investors can focus on what really matters for markets",
-      "url": "https://www.marketwatch.com/story/now-that-the-fed-has-cut-rates-investors-can-focus-on-what-really-matters-for-markets-7e09cae2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Wall Street analysts have been raising corporate earnings estimates all summer, while the outlook for economic growth has improved despite a slowdown in the labor market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-21T19:20:00.000Z",
-      "headline": "Bad news for coffee drinkers: The record-high prices you&#x2019;re paying will go even higher when tariffs take their toll",
-      "url": "https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The coffee industry has been caught off guard by President Donald Trump&#x2019;s tariffs, as retail coffee prices continue to climb.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-21T13:00:00.000Z",
-      "headline": "My mother&#x2019;s lawyer stole $400K after she moved to a nursing home. How do we get our money back?",
-      "url": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Within a month, her home had fraudulently been put up for sale and her vehicle stolen.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-21T12:07:00.000Z",
-      "headline": "Are your parents afraid of investing in crypto? How to talk with them so they&#x2019;ll actually listen.",
-      "url": "https://www.marketwatch.com/story/i-was-fearful-how-this-father-learned-to-take-crypto-advice-from-his-adult-child-c6b85826?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x2018;I was fearful,&#x2019; a father admits. His son didn&#x2019;t sugarcoat the risk: &#x2018;You should not be surprised to see 70% drawdown on alt coins and even bitcoin.&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-21T10:30:00.000Z",
-      "headline": "&#x2018;Am I the biggest loser with the Fed rate cut?&#x2019; I&#x2019;m 68, retired and live off IRAs and Social Security",
-      "url": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I live a comfortable life, but the Fed&#x2019;s decision won&#x2019;t make a blind bit of difference to me.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
