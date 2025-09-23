@@ -1,92 +1,81 @@
 {
-  "last_updated": "2025-09-23T13:30:50.163Z",
+  "last_updated": "2025-09-23T23:24:11.357Z",
   "items": [
     {
-      "ts": "2025-09-23T13:20:00.000Z",
-      "headline": "Nvidia&#x2019;s OpenAI deal adds to a brewing concern. But will that actually hurt the stock?",
-      "url": "https://www.marketwatch.com/story/nvidias-openai-deal-adds-to-a-brewing-concern-but-will-that-actually-hurt-the-stock-3bc3a015?mod=mw_rss_topstories",
+      "ts": "2025-09-23T23:05:00.000Z",
+      "headline": "This overlooked group of stocks might be your portfolio&#x2019;s missing piece",
+      "url": "https://www.marketwatch.com/story/this-overlooked-group-of-stocks-might-be-your-portfolios-missing-piece-dd00f96c?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Midcap stocks can stand up to the market&#x2019;s megacap giants",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-23T23:00:00.000Z",
+      "headline": "Why the rally in stocks may only &#x2018;pause&#x2019; into year-end despite a &#x2018;stretched&#x2019; market",
+      "url": "https://www.marketwatch.com/story/why-the-rally-in-stocks-may-see-just-a-pause-into-year-end-despite-a-stretched-market-ba718e0a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "An analyst notes some investors are increasingly worried that Nvidia is investing in companies that then purchase its chips. But he also notes the demand landscape looks strong for now.",
+      "summary_en": "The bull market in U.S. stocks might not see much more than a pause for the rest of this year, despite the S&P 500&#x2019;s lofty valuation, according to Morgan Stanley&#x2019;s Andrew Slimmon.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T12:59:00.000Z",
-      "headline": "Jimmy Kimmel supporters who pushed for Disney boycott take victory lap over his Tuesday return to ABC",
-      "url": "https://www.marketwatch.com/story/jimmy-kimmel-supporters-who-pushed-for-disney-boycott-take-victory-lap-over-his-return-to-abc-91a84c4d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Proponents of a boycott of the Walt Disney Co. over its decision to pull Jimmy Kimmel&#x2019;s show last week after pressure from the White House took a victory lap on Monday after the company decided to return the late-night host to the air.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T12:09:00.000Z",
-      "headline": "This new fund backed by the legendary Bill Miller banks on a simple but winning formula",
-      "url": "https://www.marketwatch.com/story/this-new-bill-miller-backed-fund-is-banking-on-a-simple-but-winning-formula-e7384b4b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Veteran money manager Joseph Shaposhnik has a plan to fix actively managed funds and a track record on delivery.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T11:45:00.000Z",
-      "headline": "&#x2018;I cannot plan our life&#x2019;: My boyfriend, 54, has $90K in credit-card debt. How can we buy a house together now?",
-      "url": "https://www.marketwatch.com/story/i-cannot-plan-a-life-with-all-the-uncertainties-my-boyfriend-54-has-90-000-in-credit-card-debt-is-this-a-dealbreaker-84222dd9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m on track to retire in 10 years.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T09:52:00.000Z",
-      "headline": "The OECD lifts U.S. growth outlook &#x2014; but it&#x2019;s still a bleak forecast",
-      "url": "https://www.marketwatch.com/story/the-oecd-lifts-u-s-growth-outlook-but-its-still-a-bleak-forecast-93784743?mod=mw_rss_topstories",
+      "ts": "2025-09-23T21:55:00.000Z",
+      "headline": "Micron&#x2019;s stock gains as the memory-chip maker clears a high bar",
+      "url": "https://www.marketwatch.com/story/microns-stock-gains-as-the-memory-chip-maker-clears-a-high-bar-d4c13a92?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Organization of Economic Cooperation and Development expects the U.S. economy to slow dramatically this year, though its new forecast is slightly more upbeat than one offered earlier in the year.",
+      "summary_en": "Wall Street expected a beat-and-raise quarter from Micron, which indeed gave an outlook far stronger than what analysts were expecting as AI drives strong demand for memory chips.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T10:45:00.000Z",
-      "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
-      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
+      "ts": "2025-09-23T21:48:00.000Z",
+      "headline": "I&#x2019;m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
+      "url": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My other children have relationships, but they are unmarried and have no children.&#x201d;",
+      "summary_en": "&#x201c;My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T13:16:00.000Z",
-      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
-      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
+      "ts": "2025-09-23T21:06:00.000Z",
+      "headline": "How China could claim a much bigger slice of the world&#x2019;s gold-trading business",
+      "url": "https://www.marketwatch.com/story/how-china-could-claim-a-much-bigger-slice-of-the-worlds-gold-trading-business-41313186?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "META",
+        "ED"
       ],
-      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
+      "summary_en": "China reportedly has plans to invite some countries to buy physical gold and store it within its borders, in the country&#x2019;s latest move to expand its reach into the international market for the precious metal.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T10:00:00.000Z",
+      "ts": "2025-09-23T20:53:00.000Z",
+      "headline": "Another Lululemon bull jumps ship. Here&#x2019;s why the troubles are far from over.",
+      "url": "https://www.marketwatch.com/story/another-lululemon-bull-jumps-ship-heres-why-the-troubles-are-far-from-over-fde88b9e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Another analyst has downgraded Lululemon&#x2019;s stock, saying an increase in marked-down merchandise was a sign that a turnaround is at least six months away.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-23T20:41:00.000Z",
       "headline": "&#x2018;I changed my will to deter vultures&#x2019;: I&#x2019;m in my 60s and disabled. Do I impoverish myself to qualify for Medicaid?",
       "url": "https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,19 +87,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T12:21:00.000Z",
-      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
-      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
+      "ts": "2025-09-23T20:40:00.000Z",
+      "headline": "Amazon&#x2019;s stock is now Big Tech&#x2019;s biggest loser in 2025 as the cloud race heats up",
+      "url": "https://www.marketwatch.com/story/amazons-stock-is-now-big-techs-biggest-loser-in-2025-as-the-cloud-race-heats-up-030f8358?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "GOOGL"
       ],
-      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
+      "summary_en": "The company&#x2019;s AWS division is facing new threats from Microsoft and Google, leaving investors wondering if Amazon is falling behind in the AI race.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T11:16:00.000Z",
+      "ts": "2025-09-23T22:48:00.000Z",
       "headline": "&#x2018;I am mentally stuck&#x2019;: My daughter has a financially reckless spouse. How do I protect her?",
       "url": "https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -119,6 +108,18 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I am afraid they will end up destitute and homeless.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-23T22:47:00.000Z",
+      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
+      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -167,18 +168,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 16-17 FOMC meeting",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-16T14:30:00.000Z",
-      "headline": "Stephen I. Miran sworn in as a member of the Board of Governors of the Federal Reserve System",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20250916a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Stephen I. Miran sworn in as a member of the Board of Governors of the Federal Reserve System",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
