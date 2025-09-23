@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-09-23T10:42:36.623Z",
+  "last_updated": "2025-09-23T13:30:50.163Z",
   "items": [
+    {
+      "ts": "2025-09-23T13:20:00.000Z",
+      "headline": "Nvidia&#x2019;s OpenAI deal adds to a brewing concern. But will that actually hurt the stock?",
+      "url": "https://www.marketwatch.com/story/nvidias-openai-deal-adds-to-a-brewing-concern-but-will-that-actually-hurt-the-stock-3bc3a015?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "An analyst notes some investors are increasingly worried that Nvidia is investing in companies that then purchase its chips. But he also notes the demand landscape looks strong for now.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-23T12:59:00.000Z",
+      "headline": "Jimmy Kimmel supporters who pushed for Disney boycott take victory lap over his Tuesday return to ABC",
+      "url": "https://www.marketwatch.com/story/jimmy-kimmel-supporters-who-pushed-for-disney-boycott-take-victory-lap-over-his-return-to-abc-91a84c4d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Proponents of a boycott of the Walt Disney Co. over its decision to pull Jimmy Kimmel&#x2019;s show last week after pressure from the White House took a victory lap on Monday after the company decided to return the late-night host to the air.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-23T12:09:00.000Z",
+      "headline": "This new fund backed by the legendary Bill Miller banks on a simple but winning formula",
+      "url": "https://www.marketwatch.com/story/this-new-bill-miller-backed-fund-is-banking-on-a-simple-but-winning-formula-e7384b4b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Veteran money manager Joseph Shaposhnik has a plan to fix actively managed funds and a track record on delivery.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-23T11:45:00.000Z",
+      "headline": "&#x2018;I cannot plan our life&#x2019;: My boyfriend, 54, has $90K in credit-card debt. How can we buy a house together now?",
+      "url": "https://www.marketwatch.com/story/i-cannot-plan-a-life-with-all-the-uncertainties-my-boyfriend-54-has-90-000-in-credit-card-debt-is-this-a-dealbreaker-84222dd9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m on track to retire in 10 years.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-23T09:52:00.000Z",
       "headline": "The OECD lifts U.S. growth outlook &#x2014; but it&#x2019;s still a bleak forecast",
@@ -14,15 +62,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T09:27:00.000Z",
-      "headline": "Kenvue stock rallies off record low after Trump press conference on alleged Tylenol-autism link",
-      "url": "https://www.marketwatch.com/story/kenvue-stock-rallies-off-record-low-after-trump-press-conference-on-alleged-tylenol-autism-link-877e76c8?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-09-23T10:45:00.000Z",
+      "headline": "I&#x2019;m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
+      "url": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Kenvue stock rallied on Tuesday off a record low, after a White House press conference didn&#x2019;t offer fresh evidence that could be used by plaintiffs to sue the maker of Tylenol for its alleged link to autism.",
+      "summary_en": "&#x201c;My other children have relationships, but they are unmarried and have no children.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-23T13:16:00.000Z",
+      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
+      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,87 +98,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T09:22:00.000Z",
-      "headline": "I&#x2019;m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
-      "url": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
+      "ts": "2025-09-23T12:21:00.000Z",
+      "headline": "I&#x2019;m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won&#x2019;t be around forever.",
+      "url": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.&#x201d;",
+      "summary_en": "&#x201c;We have a 12-year-old daughter. I have $1.1 million in a traditional IRA and $250,000 in cash.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-23T09:18:00.000Z",
-      "headline": "&#x2018;I haven&#x2019;t filed taxes in 20 years&#x2019;: I&#x2019;m 55 and about to get laid off. I&#x2019;ve $1 million in crypto. Am I in big trouble?",
-      "url": "https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories",
+      "ts": "2025-09-23T11:16:00.000Z",
+      "headline": "&#x2018;I am mentally stuck&#x2019;: My daughter has a financially reckless spouse. How do I protect her?",
+      "url": "https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I have $800,000 split across two 401(k) plans and a $69,000 lump-sum pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T09:09:00.000Z",
-      "headline": "Your employer can fire you for your views on Charlie Kirk and Jimmy Kimmel",
-      "url": "https://www.marketwatch.com/story/whatever-your-views-on-charlie-kirk-and-jimmy-kimmel-your-employer-can-fire-you-for-expressing-them-c95a0e0d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Disney announced on Monday that &#x201c;Jimmy Kimmel Live!&#x201d; would return to television on Tuesday evening.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T08:40:00.000Z",
-      "headline": "Revolution Wind operator&#x2019;s stock recovers after judge says work can continue",
-      "url": "https://www.marketwatch.com/story/revolution-wind-operators-stock-recovers-after-judge-says-work-can-continue-10784681?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Orsted rallied on Tuesday to levels where it stood before the Trump administration halted an 80% completed project when a federal judge gave it an injunction allowing work on the Revolution Wind project to continue.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T01:55:00.000Z",
-      "headline": "Oracle&#x2019;s stock leaps on TikTok deal, but a major concern persists",
-      "url": "https://www.marketwatch.com/story/oracles-stock-leaps-on-tiktok-deal-but-a-major-concern-persists-da0682eb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Trump administration officials on Monday talked up the TikTok deal that they&#x2019;ve helped arrange and provided more details about the deal&#x2019;s terms, but they continue to face some skepticism.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T00:59:00.000Z",
-      "headline": "Jimmy Kimmel supporters who pushed for Disney boycott take victory lap over his return to ABC",
-      "url": "https://www.marketwatch.com/story/jimmy-kimmel-supporters-who-pushed-for-disney-boycott-take-victory-lap-over-his-return-to-abc-91a84c4d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Proponents of a boycott of the Walt Disney Co. over its decision to pull Jimmy Kimmel&#x2019;s show last week after pressure from the White House took a victory lap on Monday after the company decided to return the late-night host to the air.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T00:20:00.000Z",
-      "headline": "Kenvue says Tylenol is safe, but stock hits record low as Trump makes unproven link to autism",
-      "url": "https://www.marketwatch.com/story/kenvue-says-tylenol-is-safe-but-stock-hits-record-low-ahead-of-trump-speech-c56b8d29?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Kenvue Inc. sank to a record low Monday, as President Donald Trump warned women to avoid taking Kenvue&#x2019;s Tylenol, the brand name for acetaminophen, during pregnancy because of a possible connection with autism for the children.",
+      "summary_en": "&#x201c;I am afraid they will end up destitute and homeless.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
