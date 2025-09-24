@@ -1,6 +1,91 @@
 {
-  "last_updated": "2025-09-23T23:24:11.357Z",
+  "last_updated": "2025-09-24T10:43:07.511Z",
   "items": [
+    {
+      "ts": "2025-09-24T10:30:00.000Z",
+      "headline": "&#x2018;Jimmy Kimmel Live!&#x2019; returned to network TV. Other outspoken American workers may not be so fortunate.",
+      "url": "https://www.marketwatch.com/story/whatever-your-views-on-charlie-kirk-and-jimmy-kimmel-your-employer-can-fire-you-for-expressing-them-c95a0e0d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Yes, your employer can fire you for your views on Charlie Kirk and Jimmy Kimmel.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-24T09:15:00.000Z",
+      "headline": "I&#x2019;m 70 and have Alzheimer&#x2019;s. My son&#x2019;s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
+      "url": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I contacted the credit-card company, but was advised they could not reimburse me for the theft.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-24T10:24:00.000Z",
+      "headline": "Sure, there&#x2019;s a risk of a bubble in AI stocks, so invest in them, says Wells Fargo strategist",
+      "url": "https://www.marketwatch.com/story/sure-theres-a-risk-of-a-bubble-in-ai-stocks-so-invest-in-them-says-wells-fargo-strategist-ddf1259e?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Wells Fargo&#x2019;s chief equity strategist Ohsung Kwon said the AI trade will continue to dominate stock market gains, until this beaten-down area of the economy starts to show signs of life.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-24T08:56:00.000Z",
+      "headline": "Alibaba stock is flying higher, two days after Cathie Wood&#x2019;s first purchase since 2021",
+      "url": "https://www.marketwatch.com/story/alibaba-stock-is-flying-higher-two-days-after-cathie-woods-first-purchase-since-2021-fd2c842f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Tech investor Cathie Wood this week bought Alibaba stock for the first time in four years, and it&#x2019;s already turning out to be a good investment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-24T04:11:00.000Z",
+      "headline": "What Jimmy Kimmel said in his first show back may not matter. Disney has already been hammered by the culture wars.",
+      "url": "https://www.marketwatch.com/story/what-jimmy-kimmel-says-in-his-first-show-back-may-not-matter-disney-has-already-been-hammered-by-the-culture-wars-7083876a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The decision to pull Kimmel off the air sparked calls for a boycott from his supporters, and the move to bring him back has angered conservatives, putting Disney in an unwinnable position.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-24T02:16:00.000Z",
+      "headline": "Here&#x2019;s Palantir&#x2019;s &#x2018;secret sauce,&#x2019; which these analysts say can boost the stock even more",
+      "url": "https://www.marketwatch.com/story/heres-palantirs-secret-sauce-which-these-analysts-say-can-boost-the-stock-even-more-8d827f11?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Bank of America notes the benefits of Palantir&#x2019;s forward deployed engineers, who embed within customers to help deploy the company&#x2019;s technology offerings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-24T00:28:00.000Z",
+      "headline": "Micron&#x2019;s stock gains as the memory-chip maker clears a high bar",
+      "url": "https://www.marketwatch.com/story/microns-stock-gains-as-the-memory-chip-maker-clears-a-high-bar-d4c13a92?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Wall Street expected a beat-and-raise quarter from Micron, which indeed gave an outlook far stronger than what analysts were expecting as AI drives strong demand for memory chips.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-23T23:05:00.000Z",
       "headline": "This overlooked group of stocks might be your portfolio&#x2019;s missing piece",
@@ -14,8 +99,20 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-09-23T23:34:00.000Z",
+      "headline": "Nvidia&#x2019;s OpenAI deal adds to a brewing concern. But will that actually hurt the stock?",
+      "url": "https://www.marketwatch.com/story/nvidias-openai-deal-adds-to-a-brewing-concern-but-will-that-actually-hurt-the-stock-3bc3a015?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "An analyst notes some investors are increasingly worried that Nvidia is investing in companies that then purchase its chips. But he also notes the demand landscape looks strong for now.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-09-23T23:00:00.000Z",
-      "headline": "Why the rally in stocks may only &#x2018;pause&#x2019; into year-end despite a &#x2018;stretched&#x2019; market",
+      "headline": "Why the rally in stocks may only pause into year-end despite a &#x2018;stretched&#x2019; market",
       "url": "https://www.marketwatch.com/story/why-the-rally-in-stocks-may-see-just-a-pause-into-year-end-despite-a-stretched-market-ba718e0a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -23,103 +120,6 @@
         "ED"
       ],
       "summary_en": "The bull market in U.S. stocks might not see much more than a pause for the rest of this year, despite the S&P 500&#x2019;s lofty valuation, according to Morgan Stanley&#x2019;s Andrew Slimmon.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T21:55:00.000Z",
-      "headline": "Micron&#x2019;s stock gains as the memory-chip maker clears a high bar",
-      "url": "https://www.marketwatch.com/story/microns-stock-gains-as-the-memory-chip-maker-clears-a-high-bar-d4c13a92?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Wall Street expected a beat-and-raise quarter from Micron, which indeed gave an outlook far stronger than what analysts were expecting as AI drives strong demand for memory chips.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T21:48:00.000Z",
-      "headline": "I&#x2019;m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
-      "url": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T21:06:00.000Z",
-      "headline": "How China could claim a much bigger slice of the world&#x2019;s gold-trading business",
-      "url": "https://www.marketwatch.com/story/how-china-could-claim-a-much-bigger-slice-of-the-worlds-gold-trading-business-41313186?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "China reportedly has plans to invite some countries to buy physical gold and store it within its borders, in the country&#x2019;s latest move to expand its reach into the international market for the precious metal.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T20:53:00.000Z",
-      "headline": "Another Lululemon bull jumps ship. Here&#x2019;s why the troubles are far from over.",
-      "url": "https://www.marketwatch.com/story/another-lululemon-bull-jumps-ship-heres-why-the-troubles-are-far-from-over-fde88b9e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Another analyst has downgraded Lululemon&#x2019;s stock, saying an increase in marked-down merchandise was a sign that a turnaround is at least six months away.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T20:41:00.000Z",
-      "headline": "&#x2018;I changed my will to deter vultures&#x2019;: I&#x2019;m in my 60s and disabled. Do I impoverish myself to qualify for Medicaid?",
-      "url": "https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I pay my taxes and insurance, donate money and personal belongings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T20:40:00.000Z",
-      "headline": "Amazon&#x2019;s stock is now Big Tech&#x2019;s biggest loser in 2025 as the cloud race heats up",
-      "url": "https://www.marketwatch.com/story/amazons-stock-is-now-big-techs-biggest-loser-in-2025-as-the-cloud-race-heats-up-030f8358?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL"
-      ],
-      "summary_en": "The company&#x2019;s AWS division is facing new threats from Microsoft and Google, leaving investors wondering if Amazon is falling behind in the AI race.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T22:48:00.000Z",
-      "headline": "&#x2018;I am mentally stuck&#x2019;: My daughter has a financially reckless spouse. How do I protect her?",
-      "url": "https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am afraid they will end up destitute and homeless.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-23T22:47:00.000Z",
-      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
-      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
