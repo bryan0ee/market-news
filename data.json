@@ -1,16 +1,76 @@
 {
-  "last_updated": "2025-09-24T23:25:05.635Z",
+  "last_updated": "2025-09-25T10:42:58.309Z",
   "items": [
     {
-      "ts": "2025-09-24T21:49:00.000Z",
-      "headline": "Social Security&#x2019;s new commissioner, rule reversals and cost cuts: Here&#x2019;s everything that&#x2019;s happening at the agency",
-      "url": "https://www.marketwatch.com/story/social-security-under-pressure-heres-whats-happening-now-f0c4b44a?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2025-09-25T09:12:00.000Z",
+      "headline": "&#x2018;I haven&#x2019;t filed taxes in 20 years&#x2019;: I&#x2019;m 55 and about to get laid off. I&#x2019;ve $1 million in crypto. Am I in big trouble?",
+      "url": "https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have $800,000 split across two 401(k) plans and a $69,000 lump-sum pension.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T07:30:00.000Z",
+      "headline": "Quantum-computing stocks have been red hot. HSBC has just claimed a major trading breakthrough using the technology.",
+      "url": "https://www.marketwatch.com/story/quantum-computing-stocks-have-been-red-hot-hsbc-has-just-claimed-a-major-trading-breakthrough-using-the-technology-1497922d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The banking giant says it has shown the technology improves its algorithmic bond dealing.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T10:13:00.000Z",
+      "headline": "&#x2018;I&#x2019;m afraid they&#x2019;ll end up destitute and homeless&#x2019;: My daughter has a dishonest spouse. How can I help?",
+      "url": "https://www.marketwatch.com/story/my-grief-makes-decisions-difficult-my-daughter-has-a-financially-reckless-spouse-how-do-i-protect-her-f290bed9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am afraid they will end up destitute and homeless.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T09:15:00.000Z",
+      "headline": "My mother left me $600K in Apple shares. They are 50% of my portfolio. Am I crazy if I don&#x2019;t diversify?",
+      "url": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I worry that a downturn in the tech sector, or something Apple-specific, could wipe out half my portfolio.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T02:47:00.000Z",
+      "headline": "Trump wanted Jimmy Kimmel cancelled. He gave him his highest ratings in 10 years instead.",
+      "url": "https://www.marketwatch.com/story/trump-wanted-jimmy-kimmel-cancelled-he-gave-him-his-highest-ratings-in-10-years-instead-497f9b4f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Jimmy Kimmel&#x2019;s free-speech fight with the Trump administration has turned out to be a ratings bonanza.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T01:19:00.000Z",
+      "headline": "Costco&#x2019;s earnings are due. The bar for growth is higher this time around.",
+      "url": "https://www.marketwatch.com/story/costcos-earnings-are-due-the-bar-for-growth-is-higher-this-time-around-8947c118?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "COST"
       ],
-      "summary_en": "A Social Security &#x201c;war room,&#x201d; threats to shut the agency, worker buyouts and a restraining order &#x2014; here&#x2019;s a timeline of what has taken place so far this year.",
+      "summary_en": "As Costco prepares to report quarterly results Thursday, Wall Street analysts generally have had nice things to say &#x2014; but some still question how long the company can keep investors happy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,51 +98,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-24T21:59:00.000Z",
-      "headline": "Will Apple deliver Intel its next lifeline?&#xa0;Here&#x2019;s why analysts think a deal would make sense.",
-      "url": "https://www.marketwatch.com/story/will-apple-deliver-intel-its-next-lifeline-heres-why-analysts-think-a-deal-would-make-sense-378cbb64?mod=mw_rss_topstories",
+      "ts": "2025-09-19T16:00:00.000Z",
+      "headline": "Federal Reserve Board publishes agenda for its community bank conference, which will take place on Thursday, October 9",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20250919a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The chip maker has reportedly asked Apple for an investment as it attempts to save its faltering business with a slew of multi-billion-dollar deals",
+      "summary_en": "Federal Reserve Board publishes agenda for its community bank conference, which will take place on Thursday, October 9",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-24T20:17:00.000Z",
-      "headline": "Here&#x2019;s how stocks historically perform after Fed rate cuts when trading near record highs",
-      "url": "https://www.marketwatch.com/story/heres-how-stocks-historically-perform-after-fed-rate-cuts-when-trading-near-record-highs-6bb0fa9a?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The path for the U.S. stock market, which is trading near all-time highs, is probably higher after the Federal Reserve last week cut its benchmark interest rate, according to LPL Financial.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-24T20:59:00.000Z",
-      "headline": "Why it&#x2019;s time to sell Bloom Energy&#x2019;s stock after its AI-fueled rally",
-      "url": "https://www.marketwatch.com/story/why-its-time-to-sell-bloom-energys-stock-after-its-ai-fueled-rally-c8134e71?mod=mw_rss_topstories",
+      "ts": "2025-09-18T15:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of Manufacturers and Traders Trust Company",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250918a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Jefferies analyst downgrades Bloom Energy&#x2019;s stock to underperform, saying the rally since the company&#x2019;s power-generation deal with Oracle in July was a sign of &#x2018;over-exuberance&#x2019; by investors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-24T20:37:00.000Z",
-      "headline": "Here&#x2019;s why biotech UniQure&#x2019;s stock just tripled, and brought ClearPoint shares up with it",
-      "url": "https://www.marketwatch.com/story/heres-why-biotech-uniqures-stock-just-tripled-and-brought-clearpoint-shares-up-with-it-d10766d2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A ClearPoint Neuro&#x2019;s medical device plays an important role in UniQure&#x2019;s effort to battle Huntington&#x2019;s disease.",
+      "summary_en": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of Manufacturers and Traders Trust Company",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -107,42 +143,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Tech investor Cathie Wood this week bought Alibaba stock for the first time in four years, and it&#x2019;s already turning out to be a good investment.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-24T20:57:00.000Z",
-      "headline": "Should you still invest in small-cap stocks after their big gains?",
-      "url": "https://www.marketwatch.com/story/should-you-still-invest-in-small-cap-stocks-after-their-big-gains-90b45196?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "High-quality small-cap stocks perform significantly better. These 12 companies fit that description.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-19T16:00:00.000Z",
-      "headline": "Federal Reserve Board publishes agenda for its community bank conference, which will take place on Thursday, October 9",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20250919a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board publishes agenda for its community bank conference, which will take place on Thursday, October 9",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T15:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of Manufacturers and Traders Trust Company",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250918a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of Manufacturers and Traders Trust Company",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
