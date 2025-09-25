@@ -1,32 +1,44 @@
 {
-  "last_updated": "2025-09-25T13:31:25.811Z",
+  "last_updated": "2025-09-25T23:24:59.261Z",
   "items": [
     {
-      "ts": "2025-09-25T13:29:00.000Z",
-      "headline": "Business investment perks up from tax cuts and AI spending to help offset tariff troubles",
-      "url": "https://www.marketwatch.com/story/business-investment-perks-up-from-tax-cuts-and-ai-spending-to-help-offset-tariff-troubles-6f7fdabe?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-09-25T23:21:00.000Z",
+      "headline": "Opendoor&#x2019;s stock soars after Jane Street&#x2019;s &#x2018;validation.&#x2019; What comes next?",
+      "url": "https://www.marketwatch.com/story/opendoors-stock-soars-after-jane-streets-validation-what-comes-next-9fc3cdb6?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The industrial side of the U.S. economy has been rocked by higher tariffs, but a saving grace has been new tax cuts for investment and a frenzy of spending in artificial intelligence. Business investment rose sharply in August to mark the second strong increase in a row.",
+      "summary_en": "Shares of Opendoor Technologies Inc. are rallying on the disclosure that quantitative-trading firm Jane Street Group LLC has amassed a stake in the e-commerce platform for residential-real-estate transactions.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-25T13:26:00.000Z",
-      "headline": "&#x2018;I plan to retire in 10 years&#x2019;: I inherited $600,000 in Apple shares. Am I crazy if I don&#x2019;t sell them now?",
-      "url": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
+      "ts": "2025-09-25T23:03:00.000Z",
+      "headline": "DOGE operates &#x2018;unchecked&#x2019; at multiple agencies, Senate report finds. Here&#x2019;s what it recommends to protect Americans&#x2019; data.",
+      "url": "https://www.marketwatch.com/story/doge-operates-unchecked-at-multiple-agencies-senate-report-finds-heres-what-it-recommends-to-protect-americans-data-5febfd5c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Apple now makes up about 50% of my portfolio.&#x201d;",
+      "summary_en": "The Department of Government Efficiency is operating with &#x201c;unchecked&#x201d; access to American&#x2019;s personal data across multiple government agencies, according to a Senate report released Thursday that makes several recommendations to rein in and audit their activities.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-25T13:20:00.000Z",
+      "ts": "2025-09-25T21:47:00.000Z",
+      "headline": "I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
+      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T22:15:00.000Z",
       "headline": "I&#x2019;m 70 and have Alzheimer&#x2019;s. My son&#x2019;s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
       "url": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,87 +50,88 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-25T13:12:00.000Z",
-      "headline": "Starbucks is cutting more jobs and closing stores as part of a $1 billion restructuring",
-      "url": "https://www.marketwatch.com/story/starbucks-is-cutting-more-jobs-and-closing-stores-as-part-of-a-1-billion-restructuring-44e81e99?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Starbucks the job cuts will be in non-retail positions, and many open positions will be closed.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T12:53:00.000Z",
-      "headline": "Why Big Tech&#x2019;s tiny production costs make it a long term winner, says this fund manager",
-      "url": "https://www.marketwatch.com/story/small-costs-big-profits-why-investors-should-stop-doubting-their-big-tech-investments-8f7d9975?mod=mw_rss_topstories",
+      "ts": "2025-09-25T22:00:00.000Z",
+      "headline": "IBD and MarketWatch&#x2019;s sixth annual survey honors most trusted financial companies",
+      "url": "https://www.marketwatch.com/story/ibd-and-marketwatchs-sixth-annual-survey-honors-most-trusted-financial-companies-20b89393?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "ED"
+      ],
+      "summary_en": "Consumers want financial companies they can trust. Is your bank, broker or insurer on this most-trusted list? Check out our 2025 list and find out more about why building and keeping customer trust is vital to these companies.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T21:43:00.000Z",
+      "headline": "I inherited $600,000 in Apple shares. Am I crazy if I don&#x2019;t sell them now?",
+      "url": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Apple now makes up about 50% of my portfolio.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T21:27:00.000Z",
+      "headline": "Why Oracle&#x2019;s &#x2018;jumbo&#x2019; AI-fueled bond deal is so unusual",
+      "url": "https://www.marketwatch.com/story/why-oracles-jumbo-ai-fueled-bond-deal-is-so-unusual-84569b24?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Analysts note that it&#x2019;s unconventional for technology companies to offer bonds that mature in 40 years given how quickly tech can evolve.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T21:23:00.000Z",
+      "headline": "Costco&#x2019;s stock slips despite profit beat, as same-store sales miss estimates again",
+      "url": "https://www.marketwatch.com/story/costco-shares-muted-after-mixed-earnings-results-2ca67110?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
         "COST"
       ],
-      "summary_en": "AOT Growth and Innovation ETF portfolio manager, John Tinsman says there&#x2019;s one clear reason to invest in big tech companies: low marginal cost.",
+      "summary_en": "Costco on Thursday reported fourth-quarter sales that came up shy of Wall Street&#x2019;s estimates, though the membership warehouse retailer&#x2019;s per-share profit topped expectations.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-25T12:50:00.000Z",
-      "headline": "The Fed hawks are battling the doves &#x2014; and then there&#x2019;s Stephen Miran",
-      "url": "https://www.marketwatch.com/story/the-fed-hawks-are-battling-the-doves-and-then-theres-stephen-miran-ced923cd?mod=mw_rss_topstories",
+      "ts": "2025-09-25T21:00:00.000Z",
+      "headline": "&#x2018;I haven&#x2019;t filed taxes in 20 years&#x2019;: I&#x2019;m 55 and about to get laid off. I&#x2019;ve $1 million in crypto. Am I in big trouble?",
+      "url": "https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The path for interest rates looks like it&#x2019;s heading down, but that&#x2019;s far from a sure thing.",
+      "summary_en": "&#x201c;I have $800,000 split across two 401(k) plans and a $69,000 lump-sum pension.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-25T13:29:00.000Z",
-      "headline": "I&#x2019;m about to inherit a lot of money. How do I make sure my husband doesn&#x2019;t get any of it?",
-      "url": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
+      "ts": "2025-09-25T19:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250925a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T21:42:00.000Z",
+      "headline": "I&#x2019;m 66. My mortgage is $250K and the rate is 3.4%. Would it be foolish to pay it off from my $770K investments?",
+      "url": "https://www.marketwatch.com/story/im-66-my-mortgage-is-250k-and-the-rate-is-3-4-would-it-be-foolish-to-pay-it-off-from-my-770k-investments-7868c918?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;We want to invest the money and play catch up with our retirement savings/funding.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T13:23:00.000Z",
-      "headline": "Jobless claims fall to lowest level since mid-July, easing concerns over labor market",
-      "url": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-july-easing-concern-over-labor-market-5721cdc6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Claims have been volatile in recent weeks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T13:13:00.000Z",
-      "headline": "Nvidia&#x2019;s stock can soar 35% more, Barclays says. Why AI spending estimates now seem less &#x2018;outlandish.&#x2019;",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-can-soar-35-more-barclays-says-why-ai-spending-estimates-now-seem-less-outlandish-bd26c6c6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The wave of AI data-center announcements in recent months has Barclays analysts feeling more positive about Nvidia and other AI chip names as they see the AI infrastructure market reaching $2 trillion and beyond.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T13:03:00.000Z",
-      "headline": "U.S. trade deficit sinks to 2-year low as businesses try to time orders to beat tariff price hikes",
-      "url": "https://www.marketwatch.com/story/u-s-trade-deficit-sinks-to-2-year-low-as-businesses-try-to-time-orders-to-beat-tariff-price-hikes-8171bb92?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The nation&#x2019;s trade deficit in goods sank 17% in August to a two-year low, extending a run of big ups and downs as business try to time imports and exports to pay the least amount of tariffs.",
+      "summary_en": "&#x201c;I don&#x2019;t plan on taking Social Security until 70 and I will have one other small pension.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board publishes agenda for its community bank conference, which will take place on Thursday, October 9",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-18T15:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of Manufacturers and Traders Trust Company",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250918a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of Manufacturers and Traders Trust Company",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
