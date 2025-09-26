@@ -1,6 +1,116 @@
 {
-  "last_updated": "2025-09-25T23:24:59.261Z",
+  "last_updated": "2025-09-26T10:42:21.535Z",
   "items": [
+    {
+      "ts": "2025-09-26T10:00:00.000Z",
+      "headline": "Trump announces 100% tariffs on pharmaceuticals unless drug makers are building U.S. factories",
+      "url": "https://www.marketwatch.com/story/trump-announces-100-tariffs-on-pharmaceuticals-unless-drug-makers-are-building-u-s-factories-a233958a?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump announced a raft of new tariffs late Thursday, including a 100% levy on imported pharmaceuticals unless their manufacturers are actively building factories in the U.S.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T10:28:00.000Z",
+      "headline": "I inherited $600,000 in Apple shares from my mother. Am I crazy if I don&#x2019;t sell them now?",
+      "url": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Apple now makes up about 50% of my portfolio.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T10:05:00.000Z",
+      "headline": "The Ryder Cup pours millions into promoting golf. But does the sport even need saving?",
+      "url": "https://www.marketwatch.com/story/the-ryder-cup-pours-millions-into-promoting-golf-but-does-the-sport-even-need-saving-4ac14f39?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "While debate swirls around who is or isn&#x2019;t being paid at the Ryder Cup, and where the money is going, here&#x2019;s a look at the state of the sport today.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T10:00:00.000Z",
+      "headline": "Tesla is about to show a snapshot of its global sales. Is recent optimism deserved?",
+      "url": "https://www.marketwatch.com/story/tesla-is-about-to-show-a-snapshot-of-its-global-sales-is-recent-optimism-deserved-329dc13c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Wall Street sales consensus has crept up, but some worry that a sales bump, if it comes, will be more about a rush to buy EVs ahead of expiring U.S. tax incentives.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T09:15:00.000Z",
+      "headline": "&#x2018;He can&#x2019;t afford payments&#x2019;: My friend&#x2019;s $19,000 loan was written off. The IRS charged him $3,000. Can he appeal?",
+      "url": "https://www.marketwatch.com/story/my-brother-in-laws-19-000-truck-loan-was-written-off-but-the-irs-charged-him-3-300-in-taxes-this-seems-unfair-f09f6d6c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He has only been able to make about $10,000 a year in menial jobs.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T10:01:00.000Z",
+      "headline": "Will you delay retirement so your kids can have health insurance until they&#x2019;re 26?",
+      "url": "https://www.marketwatch.com/story/will-you-delay-retirement-so-your-kids-can-have-health-insurance-until-theyre-26-5a085e96?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A surprising number of parents are answering yes to that question.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T02:02:00.000Z",
+      "headline": "Trump floats using tariff money to help farmers hurt by trade wars",
+      "url": "https://www.marketwatch.com/story/trump-floats-using-tariff-money-to-help-farmers-hurt-by-trade-wars-74323f1b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump on Thursday promised to use revenue from his new taxes on imports to provide aid to American farmers, throwing his weight behind a proposal floated last week by his agriculture secretary.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T00:06:00.000Z",
+      "headline": "Costco&#x2019;s same-store sales miss again, but it sees benefits from extra hours, Instacart deals",
+      "url": "https://www.marketwatch.com/story/costco-shares-muted-after-mixed-earnings-results-2ca67110?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Costco on Thursday reported fourth-quarter same-store sales that came up shy of Wall Street&#x2019;s estimates, though the membership warehouse retailer&#x2019;s per-share profit topped expectations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T00:54:00.000Z",
+      "headline": "Should Apple buy Intel&#x2019;s stock? These analysts suggest a better investment.",
+      "url": "https://www.marketwatch.com/story/should-apple-buy-intels-stock-these-analysts-suggest-a-better-investment-3301c7d6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Intel reportedly approached Apple about an investment, but absent &#x201c;obvious benefits&#x201d; to the smartphone giant, some analysts say the company would be better off just repurchasing more of its own stock.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-09-25T23:21:00.000Z",
       "headline": "Opendoor&#x2019;s stock soars after Jane Street&#x2019;s &#x2018;validation.&#x2019; What comes next?",
@@ -14,103 +124,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-25T23:03:00.000Z",
-      "headline": "DOGE operates &#x2018;unchecked&#x2019; at multiple agencies, Senate report finds. Here&#x2019;s what it recommends to protect Americans&#x2019; data.",
-      "url": "https://www.marketwatch.com/story/doge-operates-unchecked-at-multiple-agencies-senate-report-finds-heres-what-it-recommends-to-protect-americans-data-5febfd5c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Department of Government Efficiency is operating with &#x201c;unchecked&#x201d; access to American&#x2019;s personal data across multiple government agencies, according to a Senate report released Thursday that makes several recommendations to rein in and audit their activities.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T21:47:00.000Z",
-      "headline": "I&#x2019;m 70 and received $300K in a lawsuit. Here&#x2019;s my foolproof financial plan.",
-      "url": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;It&#x2019;s important to find a way to manage your emotions to prevent them from damaging your financial and personal future.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T22:15:00.000Z",
-      "headline": "I&#x2019;m 70 and have Alzheimer&#x2019;s. My son&#x2019;s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
-      "url": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I contacted the credit-card company, but was advised they could not reimburse me for the theft.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T22:00:00.000Z",
-      "headline": "IBD and MarketWatch&#x2019;s sixth annual survey honors most trusted financial companies",
-      "url": "https://www.marketwatch.com/story/ibd-and-marketwatchs-sixth-annual-survey-honors-most-trusted-financial-companies-20b89393?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Consumers want financial companies they can trust. Is your bank, broker or insurer on this most-trusted list? Check out our 2025 list and find out more about why building and keeping customer trust is vital to these companies.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T21:43:00.000Z",
-      "headline": "I inherited $600,000 in Apple shares. Am I crazy if I don&#x2019;t sell them now?",
-      "url": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Apple now makes up about 50% of my portfolio.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T21:27:00.000Z",
-      "headline": "Why Oracle&#x2019;s &#x2018;jumbo&#x2019; AI-fueled bond deal is so unusual",
-      "url": "https://www.marketwatch.com/story/why-oracles-jumbo-ai-fueled-bond-deal-is-so-unusual-84569b24?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Analysts note that it&#x2019;s unconventional for technology companies to offer bonds that mature in 40 years given how quickly tech can evolve.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T21:23:00.000Z",
-      "headline": "Costco&#x2019;s stock slips despite profit beat, as same-store sales miss estimates again",
-      "url": "https://www.marketwatch.com/story/costco-shares-muted-after-mixed-earnings-results-2ca67110?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Costco on Thursday reported fourth-quarter sales that came up shy of Wall Street&#x2019;s estimates, though the membership warehouse retailer&#x2019;s per-share profit topped expectations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T21:00:00.000Z",
-      "headline": "&#x2018;I haven&#x2019;t filed taxes in 20 years&#x2019;: I&#x2019;m 55 and about to get laid off. I&#x2019;ve $1 million in crypto. Am I in big trouble?",
-      "url": "https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have $800,000 split across two 401(k) plans and a $69,000 lump-sum pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-25T19:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250925a.htm",
@@ -120,18 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T21:42:00.000Z",
-      "headline": "I&#x2019;m 66. My mortgage is $250K and the rate is 3.4%. Would it be foolish to pay it off from my $770K investments?",
-      "url": "https://www.marketwatch.com/story/im-66-my-mortgage-is-250k-and-the-rate-is-3-4-would-it-be-foolish-to-pay-it-off-from-my-770k-investments-7868c918?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I don&#x2019;t plan on taking Social Security until 70 and I will have one other small pension.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
