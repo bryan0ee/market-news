@@ -1,16 +1,76 @@
 {
-  "last_updated": "2025-09-26T10:42:21.535Z",
+  "last_updated": "2025-09-26T13:29:27.569Z",
   "items": [
     {
-      "ts": "2025-09-26T10:00:00.000Z",
-      "headline": "Trump announces 100% tariffs on pharmaceuticals unless drug makers are building U.S. factories",
-      "url": "https://www.marketwatch.com/story/trump-announces-100-tariffs-on-pharmaceuticals-unless-drug-makers-are-building-u-s-factories-a233958a?mod=mw_rss_topstories",
+      "ts": "2025-09-26T12:52:00.000Z",
+      "headline": "Consumer spending is strong &#x2014; and the U.S. economy is all right",
+      "url": "https://www.marketwatch.com/story/consumer-spending-is-strong-again-and-the-u-s-economy-is-all-right-357cc82f?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "President Donald Trump announced a raft of new tariffs late Thursday, including a 100% levy on imported pharmaceuticals unless their manufacturers are actively building factories in the U.S.",
+      "summary_en": "High tariffs, lingering inflation and more trouble finding a job apparently haven&#x2019;t been enough to throw consumers into funk. Americans increased spending again in August to help keep the U.S. economy chugging.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T12:27:00.000Z",
+      "headline": "Fed&#x2019;s Barkin upbeat on U.S. economic outlook despite rising inflation, slower job growth",
+      "url": "https://www.marketwatch.com/story/feds-barkin-upbeat-on-u-s-economic-outlook-despite-rising-inflation-slower-job-growth-a73edf99?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The consumer is frankly exhausted,&#x201d; Tom Barkin said Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T12:37:00.000Z",
+      "headline": "Are markets getting wary on AI spending? Here&#x2019;s what billionaire hedge fund founder David Einhorn thinks.",
+      "url": "https://www.marketwatch.com/story/are-markets-getting-wary-on-ai-spending-heres-what-billionaire-hedge-fund-founder-david-einhorn-thinks-47b5d697?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "More investors are starting to question the trillion dollar pledges to build AI infrastructure.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T12:33:00.000Z",
+      "headline": "Inflation rises again, PCE shows, but not enough to alarm the Fed",
+      "url": "https://www.marketwatch.com/story/inflation-rises-again-pce-shows-but-not-enough-to-alarm-the-fed-d2c4e528?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Prices aren&#x2019;t rising so fast as to postpone rate cuts",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T12:31:00.000Z",
+      "headline": "I&#x2019;m 70 and have Alzheimer&#x2019;s. My son&#x2019;s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
+      "url": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I contacted the credit-card company, but was advised they could not reimburse me for the theft.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-26T11:09:00.000Z",
+      "headline": "The Fed&#x2019;s interest-rate cuts are fueling a stock market &#x2018;melt-up&#x2019; &#x2014; and ruin for some investors",
+      "url": "https://www.marketwatch.com/story/the-feds-interest-rate-cuts-are-fueling-a-stock-market-melt-up-and-ruin-for-some-investors-9453f754?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A buildup in leverage would make the financial system more vulnerable and susceptible to shocks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -39,27 +99,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-26T10:00:00.000Z",
-      "headline": "Tesla is about to show a snapshot of its global sales. Is recent optimism deserved?",
-      "url": "https://www.marketwatch.com/story/tesla-is-about-to-show-a-snapshot-of-its-global-sales-is-recent-optimism-deserved-329dc13c?mod=mw_rss_topstories",
+      "ts": "2025-09-26T11:30:00.000Z",
+      "headline": "I&#x2019;m 66. My mortgage is $250K and the rate is 3.4%. Would it be foolish to pay it off from my $770K investments?",
+      "url": "https://www.marketwatch.com/story/im-66-my-mortgage-is-250k-and-the-rate-is-3-4-would-it-be-foolish-to-pay-it-off-from-my-770k-investments-7868c918?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Wall Street sales consensus has crept up, but some worry that a sales bump, if it comes, will be more about a rush to buy EVs ahead of expiring U.S. tax incentives.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T09:15:00.000Z",
-      "headline": "&#x2018;He can&#x2019;t afford payments&#x2019;: My friend&#x2019;s $19,000 loan was written off. The IRS charged him $3,000. Can he appeal?",
-      "url": "https://www.marketwatch.com/story/my-brother-in-laws-19-000-truck-loan-was-written-off-but-the-irs-charged-him-3-300-in-taxes-this-seems-unfair-f09f6d6c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He has only been able to make about $10,000 a year in menial jobs.&#x201d;",
+      "summary_en": "&#x201c;I don&#x2019;t plan on taking Social Security until 70 and I will have one other small pension.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -72,55 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "A surprising number of parents are answering yes to that question.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T02:02:00.000Z",
-      "headline": "Trump floats using tariff money to help farmers hurt by trade wars",
-      "url": "https://www.marketwatch.com/story/trump-floats-using-tariff-money-to-help-farmers-hurt-by-trade-wars-74323f1b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump on Thursday promised to use revenue from his new taxes on imports to provide aid to American farmers, throwing his weight behind a proposal floated last week by his agriculture secretary.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T00:06:00.000Z",
-      "headline": "Costco&#x2019;s same-store sales miss again, but it sees benefits from extra hours, Instacart deals",
-      "url": "https://www.marketwatch.com/story/costco-shares-muted-after-mixed-earnings-results-2ca67110?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Costco on Thursday reported fourth-quarter same-store sales that came up shy of Wall Street&#x2019;s estimates, though the membership warehouse retailer&#x2019;s per-share profit topped expectations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T00:54:00.000Z",
-      "headline": "Should Apple buy Intel&#x2019;s stock? These analysts suggest a better investment.",
-      "url": "https://www.marketwatch.com/story/should-apple-buy-intels-stock-these-analysts-suggest-a-better-investment-3301c7d6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Intel reportedly approached Apple about an investment, but absent &#x201c;obvious benefits&#x201d; to the smartphone giant, some analysts say the company would be better off just repurchasing more of its own stock.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T23:21:00.000Z",
-      "headline": "Opendoor&#x2019;s stock soars after Jane Street&#x2019;s &#x2018;validation.&#x2019; What comes next?",
-      "url": "https://www.marketwatch.com/story/opendoors-stock-soars-after-jane-streets-validation-what-comes-next-9fc3cdb6?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Opendoor Technologies Inc. are rallying on the disclosure that quantitative-trading firm Jane Street Group LLC has amassed a stake in the e-commerce platform for residential-real-estate transactions.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
