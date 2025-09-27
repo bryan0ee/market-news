@@ -1,52 +1,125 @@
 {
-  "last_updated": "2025-09-27T10:41:47.509Z",
+  "last_updated": "2025-09-27T13:22:26.455Z",
   "items": [
     {
-      "ts": "2025-09-26T21:33:00.000Z",
-      "headline": "Sinclair, Nexstar end boycott of Jimmy Kimmel show",
-      "url": "https://www.marketwatch.com/story/sinclair-ends-boycott-of-jimmy-kimmel-show-putting-pressure-on-nexstar-to-bring-program-back-b40d0ec0?mod=mw_rss_topstories",
+      "ts": "2025-09-27T13:19:00.000Z",
+      "headline": "The AI hype is starting to fade on Wall Street. Here&#x2019;s what investors need to know.",
+      "url": "https://www.marketwatch.com/story/the-ai-hype-is-starting-to-fade-on-wall-street-heres-what-investors-need-to-know-2606749a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "Local-television giants Sinclair Inc. and Nexstar Media Group Inc. said Friday that they were ending their boycott of late-night talk-show host Jimmy Kimmel&#x2019;s program, returning &#x201c;Jimmy Kimmel Live!&#x201d; to the companies&#x2019; ABC affiliate stations.",
+      "summary_en": "It might not seem like much based on the action in markets, but doubts about the durability of the artificial-intelligence trade were having a moment on Wall Street this week.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-26T21:00:00.000Z",
-      "headline": "&#x2018;I haven&#x2019;t filed taxes in 20 years&#x2019;: I&#x2019;m 55 and about to get laid off. I&#x2019;ve $1 million in crypto. Am I in big trouble?",
-      "url": "https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories",
+      "ts": "2025-09-27T13:00:00.000Z",
+      "headline": "I inherited $600K in Apple stock. It now makes up 50% of my portfolio. Is that too risky?",
+      "url": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I have $800,000 split across two 401(k) plans and a $69,000 lump-sum pension.&#x201d;",
+      "summary_en": "&#x201c;I worry that a downturn in the tech sector, or something Apple-specific, could wipe out half my portfolio.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-26T20:52:00.000Z",
-      "headline": "Videogame maker Electronic Arts&#x2019; stock jumps on news of take-private deal",
-      "url": "https://www.marketwatch.com/story/videogame-maker-electronic-arts-stock-jumps-on-news-of-take-private-deal-ce173e9c?mod=mw_rss_topstories",
+      "ts": "2025-09-27T13:00:00.000Z",
+      "headline": "Recession seems far off &#x2014; that&#x2019;s the good news. Yet the economy is also far from trouble-free.",
+      "url": "https://www.marketwatch.com/story/recession-seems-far-off-thats-the-good-news-yet-the-economy-is-also-far-from-trouble-free-5c782803?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A transaction reportedly in the works could value Electronic Arts at $50 billion.",
+      "summary_en": "Enough trouble spots emerged in the U.S. economy to coax the Federal Reserve to cut interest rates last week &#x2014; but it turns out the news isn&#x2019;t all that bad.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-26T20:47:00.000Z",
-      "headline": "Who is Howie Rubin, the money manager charged with sex trafficking and torturing women?",
-      "url": "https://www.marketwatch.com/story/who-is-howie-rubin-the-money-manager-charged-with-sex-trafficking-and-torturing-women-ef5699c7?mod=mw_rss_topstories",
+      "ts": "2025-09-27T12:30:00.000Z",
+      "headline": "Want to invest in gold? Here&#x2019;s how to plan for &#x2014; or even avoid &#x2014; the potential tax headaches",
+      "url": "https://www.marketwatch.com/story/want-to-invest-in-gold-heres-how-to-plan-for-or-even-avoid-the-potential-tax-headaches-f09c1230?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal prosecutors have formally charged Howard Rubin with crimes connected to an alleged $1 million sex scheme.",
+      "summary_en": "Gold isn&#x2019;t taxed the same way as other investments.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-27T12:00:00.000Z",
+      "headline": "I&#x2019;m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
+      "url": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-27T11:50:00.000Z",
+      "headline": "&#x2018;He can&#x2019;t afford payments to the IRS&#x2019;: My friend&#x2019;s $19,000 loan was written off. The IRS charged him $3,000. What can he do?",
+      "url": "https://www.marketwatch.com/story/my-brother-in-laws-19-000-truck-loan-was-written-off-but-the-irs-charged-him-3-300-in-taxes-this-seems-unfair-f09f6d6c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He has only been able to make about $10,000 a year in menial jobs.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-27T11:45:00.000Z",
+      "headline": "&#x2018;I thought she was honest&#x2019;: My ex-wife hid her stocks during our divorce. Can I sue her?",
+      "url": "https://www.marketwatch.com/story/i-thought-she-was-honest-my-ex-wife-hid-her-stocks-during-our-divorce-can-i-sue-her-e75cab43?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;It wasn&#x2019;t until after the divorce that I realized that she withheld the information.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-27T11:30:00.000Z",
+      "headline": "Many crypto-treasury companies are trading for less than what their digital assets are worth. Is this a bargain or a big red flag?",
+      "url": "https://www.marketwatch.com/story/many-crypto-treasury-companies-are-trading-for-less-than-what-their-digital-assets-are-worth-is-this-a-bargain-or-a-big-red-flag-182e7856?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As more companies with a crypto-treasury strategy have seen the premium of their shares to their crypto holdings narrow &#x2014; or even turn into a discount &#x2014; some investors are wondering whether now is a good time to buy in.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-27T12:22:00.000Z",
+      "headline": "The AI trade increasingly hinges on OpenAI &#x2014; and that&#x2019;s a big risk for the entire market",
+      "url": "https://www.marketwatch.com/story/the-ai-trade-increasingly-hinges-on-openai-and-thats-a-big-risk-for-the-entire-market-aef0cf3c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Be careful.&#x201d; That&#x2019;s one Wall Street pro&#x2019;s advice as AI spurs a wave of debt offerings and consumer backlash.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-27T12:00:00.000Z",
+      "headline": "Even smaller tech stocks are getting expensive. But these sectors could be your next big win.",
+      "url": "https://www.marketwatch.com/story/even-smaller-tech-stocks-are-getting-expensive-but-these-sectors-could-be-your-next-big-win-544e5289?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The rally in small-cap stocks isn&#x2019;t nearly as broad &#x2014; or as healthy &#x2014; as it appears.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -59,78 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T22:09:00.000Z",
-      "headline": "People keep pushing bitcoin on me, but it crashes regularly. What am I missing?",
-      "url": "https://www.marketwatch.com/story/people-have-predicted-dollar-doom-for-decades-what-makes-this-time-actually-different-c3521a9d?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "How is owning crypto better portfolio management when U.S. stocks have come through every crisis?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T21:52:00.000Z",
-      "headline": "The new bill tweaking Social Security&#x2019;s retirement-age language may be fixing the wrong problem",
-      "url": "https://www.marketwatch.com/story/the-new-bill-tweaking-social-securitys-retirement-age-language-may-be-fixing-the-wrong-problem-05cffc04?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The Claiming Age Clarity Act would change the wording on different benchmark ages to claim benefits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T21:20:00.000Z",
-      "headline": "I&#x2019;m 66. My mortgage is $250K and the rate is 3.4%. Would it be foolish to pay it off from my $770K investments?",
-      "url": "https://www.marketwatch.com/story/im-66-my-mortgage-is-250k-and-the-rate-is-3-4-would-it-be-foolish-to-pay-it-off-from-my-770k-investments-7868c918?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I don&#x2019;t plan on taking Social Security until 70 and I will have one other small pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T20:53:00.000Z",
-      "headline": "Boeing&#x2019;s stock takes off as some 737 Max restrictions set to ease",
-      "url": "https://www.marketwatch.com/story/boeings-stock-takes-off-as-max-737-restrictions-look-set-to-ease-276ee3f4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Boeing would regain the ability to sign off on final safety inspections on its 737 Max jets, signaling that the jet maker&#x2019;s turnaround could be taking hold.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T20:48:00.000Z",
-      "headline": "The AI trade increasingly hinges on OpenAI &#x2014; and that&#x2019;s a big risk for the entire market",
-      "url": "https://www.marketwatch.com/story/the-ai-trade-increasingly-hinges-on-openai-and-thats-a-big-risk-for-the-entire-market-aef0cf3c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Be careful.&#x201d; That&#x2019;s one Wall Street pro&#x2019;s advice as AI spurs a wave of debt offerings and consumer backlash.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-26T20:37:00.000Z",
-      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
-      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
