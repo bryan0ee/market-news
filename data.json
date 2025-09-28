@@ -1,8 +1,32 @@
 {
-  "last_updated": "2025-09-28T10:39:47.534Z",
+  "last_updated": "2025-09-28T13:23:11.799Z",
   "items": [
     {
-      "ts": "2025-09-27T21:05:00.000Z",
+      "ts": "2025-09-28T12:26:00.000Z",
+      "headline": "I&#x2019;m in my 60s and disabled. Should I spend down my assets to qualify for Medicaid?",
+      "url": "https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I was born in a time when the elderly and disabled were hidden away in back bedrooms and institutions.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-28T11:45:00.000Z",
+      "headline": "I&#x2019;m 70 and have Alzheimer&#x2019;s. My son&#x2019;s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
+      "url": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I contacted the credit-card company, but was advised they could not reimburse me for the theft.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-28T10:49:00.000Z",
       "headline": "&#x2018;I thought she was honest&#x2019;: My ex-wife hid stocks during our divorce. Can I sue her?",
       "url": "https://www.marketwatch.com/story/i-thought-she-was-honest-my-ex-wife-hid-her-stocks-during-our-divorce-can-i-sue-her-e75cab43?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,8 +38,20 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-09-28T11:38:00.000Z",
+      "headline": "My wife and I are in our 40s. We have a $600K mortgage and $500K annual income. Can we afford a vacation home?",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-40s-we-have-a-600k-mortgage-and-500k-annual-income-can-we-afford-a-vacation-home-d4b3c479?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We plan to work another 20 years and we estimate $3-$4 million in 401(k) savings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-09-27T17:58:00.000Z",
-      "headline": "&#x2018;I feel overwhelmed&#x2019;: I&#x2019;m a widow in my early 40s with 3 children. I have $330K in IRAs. Will be OK?",
+      "headline": "&#x2018;I feel overwhelmed&#x2019;: I&#x2019;m a widow in my early 40s with 3 children. I have $330K in IRAs. Will we be OK?",
       "url": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-a-widow-in-my-early-40s-with-3-children-my-iras-are-worth-330k-will-we-survive-financially-c8329963?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -95,42 +131,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;My mother-in-law did not leave me anything in her will, but she should have.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-27T16:52:00.000Z",
-      "headline": "I&#x2019;m 66. My mortgage is $250K and the rate is 3.4%. Would it be foolish to pay it off from my $770K investments?",
-      "url": "https://www.marketwatch.com/story/im-66-my-mortgage-is-250k-and-the-rate-is-3-4-would-it-be-foolish-to-pay-it-off-from-my-770k-investments-7868c918?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I don&#x2019;t plan on taking Social Security until 70 and I will have one other small pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-27T16:49:00.000Z",
-      "headline": "You&#x2019;re just getting scraps from the stock market. Here&#x2019;s where the big money is made.",
-      "url": "https://www.marketwatch.com/story/youre-just-getting-scraps-from-the-stock-market-heres-where-the-big-money-is-made-3d4f0922?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "When it comes to growth investing, it&#x2019;s a small club &#x2014; and you&#x2019;re not in it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-27T16:18:00.000Z",
-      "headline": "When the world&#x2019;s largest asset manager and the &#x2018;bond king&#x2019; both agree &#x2014; run to gold, silver and bitcoin",
-      "url": "https://www.marketwatch.com/story/when-the-worlds-largest-asset-manager-and-the-bond-king-both-agree-run-to-gold-silver-and-bitcoin-07affec3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "DoubleLine&#x2019;s Jeffrey Gundlach and BlackRock join the preppers defending against Washington&#x2019;s financial repression.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
