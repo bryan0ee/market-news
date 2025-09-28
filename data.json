@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27T23:23:56.746Z",
+  "last_updated": "2025-09-28T10:39:47.534Z",
   "items": [
     {
       "ts": "2025-09-27T21:05:00.000Z",
@@ -50,18 +50,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-27T20:06:00.000Z",
-      "headline": "My former mother-in-law left a $1 million estate. Can I sue my ex-husband for a share of it?",
-      "url": "https://www.marketwatch.com/story/is-it-fair-that-my-ex-husbands-greedy-wife-inherits-part-of-his-parents-1-million-fortune-cae7a527?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My mother-in-law did not leave me anything in her will, but she should have.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-27T17:01:00.000Z",
       "headline": "&#x2018;I haven&#x2019;t filed taxes in 20 years&#x2019;: I&#x2019;m 55 and about to get laid off. I&#x2019;ve $1 million in crypto. Am I in big trouble?",
       "url": "https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories",
@@ -83,6 +71,30 @@
         "ED"
       ],
       "summary_en": "MarketWatch talked to experienced bartenders about ways to increase your chances of meeting someone in person.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-25T19:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250925a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-27T20:06:00.000Z",
+      "headline": "My former mother-in-law left a $1 million estate. Can I sue my ex-husband for a share of it?",
+      "url": "https://www.marketwatch.com/story/is-it-fair-that-my-ex-husbands-greedy-wife-inherits-part-of-his-parents-1-million-fortune-cae7a527?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;My mother-in-law did not leave me anything in her will, but she should have.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,18 +131,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "DoubleLine&#x2019;s Jeffrey Gundlach and BlackRock join the preppers defending against Washington&#x2019;s financial repression.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T19:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250925a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
