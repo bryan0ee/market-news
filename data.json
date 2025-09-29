@@ -1,80 +1,20 @@
 {
-  "last_updated": "2025-09-28T23:24:15.840Z",
+  "last_updated": "2025-09-29T10:44:40.909Z",
   "items": [
     {
-      "ts": "2025-09-28T23:10:00.000Z",
-      "headline": "U.S. stock futures little changed as investors eye possible government shutdown",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-eye-possible-government-shutdown-eae1c8fd?mod=mw_rss_topstories",
+      "ts": "2025-09-29T10:43:00.000Z",
+      "headline": "Wedbush warns of growing risks in a fearless market, sees two red flags",
+      "url": "https://www.marketwatch.com/story/wedbush-warns-of-growing-risks-in-a-fearless-market-sees-two-red-flags-abe3d5ea?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. stock-market futures were flat late Sunday, as investors wait and see whether there&#x2019;ll be a government shutdown later this week.",
+      "summary_en": "The Fed &#x2018;s pivot has amplified speculative risk-taking, says this analyst",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-28T19:54:00.000Z",
-      "headline": "Tesla is about to show a snapshot of its global sales. Is recent optimism deserved?",
-      "url": "https://www.marketwatch.com/story/tesla-is-about-to-show-a-snapshot-of-its-global-sales-is-recent-optimism-deserved-329dc13c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Wall Street sales consensus has crept up, but some worry that a sales bump, if it comes, will be more about a rush to buy EVs ahead of expiring U.S. tax incentives.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-28T19:22:00.000Z",
-      "headline": "&#x2018;He can&#x2019;t afford payments to the IRS&#x2019;: My friend&#x2019;s $19,000 loan was written off. The IRS charged him $3,000. What can he do?",
-      "url": "https://www.marketwatch.com/story/my-brother-in-laws-19-000-truck-loan-was-written-off-but-the-irs-charged-him-3-300-in-taxes-this-seems-unfair-f09f6d6c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He has only been able to make about $10,000 a year in menial jobs.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-28T17:23:00.000Z",
-      "headline": "&#x2018;I haven&#x2019;t filed taxes in 20 years&#x2019;: I&#x2019;m 55 and about to get laid off. I&#x2019;ve $1 million in crypto. Am I in big trouble?",
-      "url": "https://www.marketwatch.com/story/i-havent-filed-taxes-in-20-years-im-55-and-about-to-get-laid-off-ive-1-million-in-crypto-am-i-in-big-trouble-01da33d1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have $800,000 split across two 401(k) plans and a $69,000 lump-sum pension.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-28T17:09:00.000Z",
-      "headline": "I inherited $600K in Apple stock. It now makes up 50% of my portfolio. Is that too risky?",
-      "url": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I worry that a downturn in the tech sector, or something Apple-specific, could wipe out half my portfolio.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-28T19:42:00.000Z",
-      "headline": "The last thing the stock market wants right now is a government shutdown. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/the-last-thing-the-stock-market-wants-right-now-is-a-government-shutdown-heres-why-7bac216e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Stocks are defying their typical weakness in September &#x2014; but it isn&#x2019;t October yet",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-28T15:21:00.000Z",
+      "ts": "2025-09-29T10:23:00.000Z",
       "headline": "&#x2018;I thought she was honest&#x2019;: My ex-wife hid stocks during our divorce. Can I sue her?",
       "url": "https://www.marketwatch.com/story/i-thought-she-was-honest-my-ex-wife-hid-her-stocks-during-our-divorce-can-i-sue-her-e75cab43?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -86,39 +26,99 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-28T16:46:00.000Z",
-      "headline": "My former mother-in-law left a $1 million estate. Can I sue my ex-husband for a share of it?",
-      "url": "https://www.marketwatch.com/story/is-it-fair-that-my-ex-husbands-greedy-wife-inherits-part-of-his-parents-1-million-fortune-cae7a527?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My mother-in-law did not leave me anything in her will, but she should have.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-28T15:44:00.000Z",
-      "headline": "People keep pushing bitcoin on me, but it crashes regularly. What am I missing?",
-      "url": "https://www.marketwatch.com/story/people-have-predicted-dollar-doom-for-decades-what-makes-this-time-actually-different-c3521a9d?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-09-29T09:22:00.000Z",
+      "headline": "How the Trump administration is boosting stock buybacks",
+      "url": "https://www.marketwatch.com/story/the-trump-effect-on-share-buybacks-theres-more-of-them-a8d93235?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "How is owning crypto better portfolio management when U.S. stocks have come through every crisis?",
+      "summary_en": "Gavekal Research predicts more stock repurchases are coming, representing an additional tailwind for the current bull market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-28T16:22:00.000Z",
-      "headline": "My wife and I are in our 40s. We have a $600K mortgage and $500K income. Can we afford a vacation home?",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-40s-we-have-a-600k-mortgage-and-500k-annual-income-can-we-afford-a-vacation-home-d4b3c479?mod=mw_rss_topstories",
+      "ts": "2025-09-29T08:46:00.000Z",
+      "headline": "GSK turns to insider to be next CEO &#x2014; and the stock rallies",
+      "url": "https://www.marketwatch.com/story/gsk-turns-to-insider-to-be-next-ceo-and-the-stock-rallies-050bf3b5?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of U.K. pharmaceutical giant GSK rallied on Monday after it turned to an insider to become its next CEO.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T09:34:00.000Z",
+      "headline": "Months after cancer drug trial, Merus agrees to be bought at 41% premium",
+      "url": "https://www.marketwatch.com/story/months-after-cancer-drug-trial-merus-agrees-to-be-bought-at-41-premium-d7e87829?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Merus agreed to be bought for a 41% premium, months after a positive trial of a cancer drug.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T09:03:00.000Z",
+      "headline": "&#x2018;Caught Stealing&#x2019; star Austin Butler buys Brad Pitt&#x2019;s $5.2 million L.A. home that was ransacked by thieves",
+      "url": "https://www.marketwatch.com/story/caught-stealing-star-austin-butler-buys-brad-pitts-5-2-million-l-a-home-that-was-ransacked-by-thieves-1dd836ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Butler didn&#x2019;t seem to have any concerns buying the home, known as the &#x201c;steel house&#x201d;, that was once ransacked by thieves.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T09:01:00.000Z",
+      "headline": "Feds delay new car safety rules meant to reduce pedestrian accidents",
+      "url": "https://www.marketwatch.com/story/feds-delay-new-car-safety-rules-meant-to-reduce-pedestrian-accidents-d1b6c04c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The federal government&#x2019;s primary car safety watchdog has delayed several rules that were meant to take effect for the 2026 model year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T08:58:00.000Z",
+      "headline": "Dwayne &#x2018;The Rock&#x2019; Johnson takes a huge hit on the sale of $6.1 million equestrian estate in Georgia",
+      "url": "https://www.marketwatch.com/story/dwayne-the-rock-johnson-takes-a-huge-hit-on-the-sale-of-6-1-million-equestrian-estate-in-georgia-b1c89d59?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Known as the &#x201c;Magnificent Bullard Estate,&#x201d; the picturesque property served as an escape from Hollywood for the action star.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T09:36:00.000Z",
+      "headline": "Morgan Stanley expects Novo Nordisk Alzheimer trial to fail as it slashes rating",
+      "url": "https://www.marketwatch.com/story/morgan-stanley-expects-novo-nordisk-alzheimer-trial-to-fail-as-it-slashes-rating-98a9eeee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;We plan to work another 20 years and we estimate $3-$4 million in 401(k) savings.&#x201d;",
+      "summary_en": "Morgan Stanley analysts say a trial to test whether Novo Nordisk&#x2019;s blockbuster weight-loss drug also will work against Alzheimer&#x2019;s is likely to fail, as it set the most pessimistic target price forecast of any Wall Street bank on the Danish drugmaker.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T09:25:00.000Z",
+      "headline": "&#x2018;He&#x2019;s the breadwinner&#x2019;: Does my husband take Social Security at 66 &#x2014; or wait to get $800 extra at 70?",
+      "url": "https://www.marketwatch.com/story/hes-the-breadwinner-does-my-husband-take-social-security-at-66-or-wait-to-get-800-extra-at-70-33b0ed85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;My husband jokes that he will never be able to retire because we do not own a home.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
