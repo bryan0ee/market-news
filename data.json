@@ -1,20 +1,8 @@
 {
-  "last_updated": "2025-09-29T13:31:39.105Z",
+  "last_updated": "2025-09-29T23:25:03.389Z",
   "items": [
     {
-      "ts": "2025-09-29T12:20:00.000Z",
-      "headline": "This stock and bond strategy is so disliked &#x2014; and it&#x2019;s probably your best investment move for the next 10 years",
-      "url": "https://www.marketwatch.com/story/this-stock-and-bond-strategy-is-so-disliked-and-its-probably-your-best-investment-move-for-the-next-10-years-3759fdf2?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "In the past, when the market was overvalued as it is now, a 60/40 portfolio almost always beat the S&P 500 over the subsequent decade.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-29T13:15:00.000Z",
+      "ts": "2025-09-29T23:10:00.000Z",
       "headline": "The biggest risk to Fed independence is a divided Congress &#x2014; not Trump",
       "url": "https://www.marketwatch.com/story/the-biggest-risk-to-fed-independence-is-a-divided-congress-not-trump-badc18df?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,20 +14,32 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T12:23:00.000Z",
-      "headline": "I inherited $600K in Apple stock. It now makes up 50% of my portfolio. Is that too risky?",
-      "url": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
+      "ts": "2025-09-29T22:33:00.000Z",
+      "headline": "Intel is one of the hottest chip stocks this year. Here&#x2019;s where things stand now.",
+      "url": "https://www.marketwatch.com/story/intel-is-one-of-the-hottest-chip-stocks-this-year-heres-where-things-stand-now-e61eda45?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I worry that a downturn in the tech sector, or something Apple-specific, could wipe out half my portfolio.&#x201d;",
+      "summary_en": "Intel&#x2019;s stock has rallied on growing enthusiasm for a turnaround, but there are still questions about how quickly that can manifest.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T12:05:00.000Z",
-      "headline": "AI and digital dollars are coming for your job &#x2014; and maybe your wealth",
+      "ts": "2025-09-29T22:30:00.000Z",
+      "headline": "Electronic Arts sees a record buyout deal. But should shareholders be happy?",
+      "url": "https://www.marketwatch.com/story/electronic-arts-sees-a-record-buyout-deal-but-should-shareholders-be-happy-fc0bba76?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The deal for Electronic Arts is the largest-ever all-cash sponsor take-private investment, the companies involved said.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T20:52:00.000Z",
+      "headline": "You&#x2019;ve got less than 5 years to rescue your money from AI and stablecoins. Here&#x2019;s what to do.",
       "url": "https://www.marketwatch.com/story/ai-and-digital-dollars-are-coming-for-your-job-and-maybe-your-wealth-3aa34515?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -50,56 +50,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T11:49:00.000Z",
-      "headline": "A fearless stock market is facing two rising risks, says Wedbush",
-      "url": "https://www.marketwatch.com/story/wedbush-warns-of-growing-risks-in-a-fearless-market-sees-two-red-flags-abe3d5ea?mod=mw_rss_topstories",
+      "ts": "2025-09-29T20:50:00.000Z",
+      "headline": "The S&P 500 is about to enter its strongest quarter of the year historically, this chart shows",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-about-to-enter-its-strongest-quarter-of-the-year-historically-this-chart-shows-ad234790?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Fed &#x2018;s pivot has amplified speculative risk-taking, says this analyst",
+      "summary_en": "The S&P 500 has rallied so far in 2025 &#x2014; and it&#x2019;s about to enter its strongest quarter of the year historically, a chart from Bespoke Investment Group shows.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T11:45:00.000Z",
-      "headline": "October is typically volatile for stocks. But will you be needing a seat belt or a crash helmet?",
-      "url": "https://www.marketwatch.com/story/october-is-typically-volatile-for-stocks-but-will-you-be-needing-a-seat-belt-or-a-crash-helmet-486f50af?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "What to know about October&#x2019;s market-crash potential &#x2014; and what you can ignore.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-29T11:10:00.000Z",
-      "headline": "Gold hit a new record. Here&#x2019;s what Deutsche Bank says is driving the price of the metal.",
-      "url": "https://www.marketwatch.com/story/gold-hit-a-new-record-what-deutsche-bank-says-is-driving-the-price-of-the-metal-a20c125d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "There are two &#x201c;aggressor bids&#x201d; in the market right now,",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-29T12:35:00.000Z",
-      "headline": "This investing pro says to tune out the market and focus on these stocks and bonds",
-      "url": "https://www.marketwatch.com/story/this-investing-pro-says-to-tune-out-the-market-and-focus-on-these-stocks-and-bonds-df9c5e35?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Here are four upbeat economic and market signals to lift you above the noise and confusion.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-29T12:15:00.000Z",
+      "ts": "2025-09-29T23:11:00.000Z",
       "headline": "These TikTok and Instagram financial influencers aren&#x2019;t your father&#x2019;s investment advisers",
       "url": "https://www.marketwatch.com/story/these-tiktok-and-instagram-financial-influencers-arent-your-fathers-investment-advisers-0188438e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -111,15 +74,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T11:47:00.000Z",
-      "headline": "Investor poll finds Wall Street&#x2019;s worries over a tech bubble have yet to reach extreme levels",
-      "url": "https://www.marketwatch.com/story/investor-poll-finds-wall-streets-worries-over-a-tech-bubble-have-yet-to-reach-extreme-levels-36fffb00?mod=mw_rss_topstories",
+      "ts": "2025-09-29T22:40:00.000Z",
+      "headline": "Kroger&#x2019;s delivery expansion with DoorDash is bad news for Instacart, analysts say",
+      "url": "https://www.marketwatch.com/story/krogers-delivery-expansion-with-doordash-is-bad-news-for-instacart-analysts-say-5ce24b6f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Bubble-risk perception surrounding tech stocks is still fairly mild versus what it was back in 2021, says Deutsche Bank.",
+      "summary_en": "Shares of grocery-delivery app Instacart slid Monday after rival DoorDash Inc. and supermarket giant Kroger Co. said they were expanding an existing partnership to deliver a lot more groceries to consumers&#x2019; homes starting next month.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T20:51:00.000Z",
+      "headline": "Here&#x2019;s what a government shutdown means for markets &#x2014; and your wallet",
+      "url": "https://www.marketwatch.com/story/heres-what-a-government-shutdown-means-for-markets-and-your-wallet-e631bbe2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There hasn&#x2019;t been a partial U.S. government shutdown since 2019. Here&#x2019;s a rundown of what one could mean for you and your money.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T20:49:00.000Z",
+      "headline": "Nike earnings are due. The results could be a &#x2018;turning point&#x2019; after recent struggles.",
+      "url": "https://www.marketwatch.com/story/nike-earnings-are-due-the-results-could-be-a-turning-point-after-recent-struggles-db8271f4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "As potentially positive signals start to emerge, analysts will be looking to management for confirmation that any rebound is real.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-29T20:39:00.000Z",
+      "headline": "What to know about October&#x2019;s market-crash potential &#x2014; and what you can ignore",
+      "url": "https://www.marketwatch.com/story/october-is-typically-volatile-for-stocks-but-will-you-be-needing-a-seat-belt-or-a-crash-helmet-486f50af?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "What to know about October&#x2019;s market-crash potential &#x2014; and what you can ignore.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
