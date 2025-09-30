@@ -1,124 +1,136 @@
 {
-  "last_updated": "2025-09-30T13:31:25.541Z",
+  "last_updated": "2025-09-30T23:24:20.074Z",
   "items": [
     {
-      "ts": "2025-09-30T13:12:00.000Z",
-      "headline": "Can CoreWeave&#x2019;s stock rise another 40%? A new bull makes the case.",
-      "url": "https://www.marketwatch.com/story/can-coreweaves-stock-rise-another-40-a-new-bull-makes-the-case-fc98e905?mod=mw_rss_topstories",
+      "ts": "2025-09-30T23:10:00.000Z",
+      "headline": "Pfizer found a way to boost its ailing stock &#x2014; agree on drug pricing with TrumpRx",
+      "url": "https://www.marketwatch.com/story/pfizer-found-a-way-to-boost-its-ailing-stock-agree-with-trump-on-drug-pricing-219908fa?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "CoreWeave has a lot of debt and a concentrated customer base, but Evercore ISI thinks the stock can keep gaining thanks to technological advantages and an improving interest-rate environment.",
+      "summary_en": "Pfizer&#x2019;s stock surged after CEO Albert Bourla announces an agreement with the Trump administration aimed at lowering drug prices in the U.S. and removing tariff uncertainty.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-30T12:02:00.000Z",
-      "headline": "Sudden acceleration, not a bubble, is the AI story that investors are missing, says this top researcher",
-      "url": "https://www.marketwatch.com/story/sudden-acceleration-not-a-bubble-is-the-ai-story-that-investors-are-missing-says-this-top-researcher-1dcd36ba?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A blog post by a prominent AI researcher says those worried about an AI bubble, should be thinking about widespread integration by next year instead.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T11:00:00.000Z",
-      "headline": "&#x2018;The economic and political climate makes me reluctant&#x2019;: I&#x2019;m 80. Do I dip into my $650K retirement fund to remodel my bathroom?",
-      "url": "https://www.marketwatch.com/story/the-economic-and-political-climate-makes-me-reluctant-im-80-do-i-dip-into-my-650k-retirement-fund-to-remodel-my-bathroom-3879b1dd?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Trump announced a 50% tariff on kitchen cabinets, bathroom vanities and other products, starting Oct. 1.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T11:45:00.000Z",
-      "headline": "Fermi&#x2019;s IPO to showcase Wall Street fervor for AI &#x2014; and the Trump effect",
-      "url": "https://www.marketwatch.com/story/fermis-ipo-to-showcase-wall-street-fervor-for-ai-and-the-trump-effect-3f236d5b?mod=mw_rss_topstories",
+      "ts": "2025-09-30T22:27:00.000Z",
+      "headline": "Marvell has &#x2018;huge potential,&#x2019; these analysts say. Here&#x2019;s why they downgraded the stock anyway.",
+      "url": "https://www.marketwatch.com/story/marvell-has-huge-potential-these-analysts-say-heres-why-they-downgraded-the-stock-anyway-ac13f435?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Fermi has yet to generate revenue as it readies its IPO of 32.5 million shares at an estimated price range of $18 to $22 each for trading Wednesday.",
+      "summary_en": "TD Cowen analysts cited a &#x201c;dynamic of volatility and limited visibility,&#x201d; saying there are cleaner narratives elsewhere in the chip sector.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-30T10:03:00.000Z",
-      "headline": "I&#x2019;m 44. I have $400K in cash, plus rental properties in Dubai. I&#x2019;m worried about a stock-market crash. Do I dare invest?",
-      "url": "https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories",
+      "ts": "2025-09-30T22:16:00.000Z",
+      "headline": "Here&#x2019;s how much your health insurance could go up next year &#x2014; whether there&#x2019;s a government shutdown or not",
+      "url": "https://www.marketwatch.com/story/heres-how-much-your-health-insurance-could-go-up-next-year-whether-theres-a-government-shutdown-or-not-4177a8ae?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My rental properties generate passive income of $6,000 monthly after taxes.&#x201d;",
+      "summary_en": "Millions of Americans are poised to pay more for their health insurance next year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-30T13:00:00.000Z",
-      "headline": "My wife and I are in our 40s. We have a $600K mortgage and $500K income. Can we afford a vacation home?",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-40s-we-have-a-600k-mortgage-and-500k-annual-income-can-we-afford-a-vacation-home-d4b3c479?mod=mw_rss_topstories",
+      "ts": "2025-09-30T22:11:00.000Z",
+      "headline": "Alphabet&#x2019;s stock just had its best quarter in two decades thanks to AI",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-just-had-its-best-quarter-in-two-decades-thanks-to-ai-8a8f1273?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL"
+      ],
+      "summary_en": "Alphabet&#x2019;s Class A stock rose 38% in the third quarter as Google&#x2019;s Gemini and cloud-computing businesses took off, defying doubters.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T20:58:00.000Z",
+      "headline": "As stocks power higher, investors see little choice but to keep riding the bull market",
+      "url": "https://www.marketwatch.com/story/as-stocks-power-higher-investors-see-little-choice-but-to-keep-riding-the-bull-market-8e4acd91?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A popular quote, often attributed to former Citigroup CEO Chuck Prince, is once again making the rounds on Wall Street these days: &#x201c;As long as the music is playing, you&#x2019;ve got to get up and dance.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T20:46:00.000Z",
+      "headline": "Two Social Security problems that seem almost impossible to fix",
+      "url": "https://www.marketwatch.com/story/two-social-security-problems-that-seem-almost-impossible-to-fix-c3253e1a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The &#x201c;Social Security squeeze&#x201d; is coming for your benefits. Can the program&#x2019;s most existential problems be solved?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T20:41:00.000Z",
+      "headline": "Nike&#x2019;s results top expectations, but company warns its recovery &#x2018;will not be linear&#x2019;",
+      "url": "https://www.marketwatch.com/story/nikes-results-top-expectations-but-company-warns-its-recovery-will-not-be-linear-e9ea7fab?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Nike Inc. moved higher in extended trading Tuesday after the sneaker maker reported fiscal first-quarter results that topped Wall Street&#x2019;s estimates, helped by a surprise sales gain.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T20:30:00.000Z",
+      "headline": "Federal Reserve Board modifies Morgan Stanley's stress capital buffer requirement, after the firm requested reconsideration",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T20:19:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in October 2025 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-october-2025-on-netflix-hulu-hbo-max-and-more-6b2875b5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The NBA takes a big leap into streaming, while viewers can cozy up to Netflix&#x2019;s &#x2018;Nobody Wants This&#x2019; or freak out to the Halloween horror of &#x2018;Monster: The Ed Gein Story&#x2019; and &#x2018;It: Welcome to Derry&#x2019;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T21:22:00.000Z",
+      "headline": "Why Warren Buffett&#x2019;s Berkshire Hathaway may be placing another bet in petrochemicals",
+      "url": "https://www.marketwatch.com/story/why-warren-buffetts-berkshire-hathaway-may-be-placing-another-bet-in-petrochemicals-681c4534?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;We plan to work another 20 years and we estimate $3-$4 million in 401(k) savings.&#x201d;",
+      "summary_en": "Berkshire is in talks to buy Occidental&#x2019;s chemicals business for $10 billion. A deal would come as a surprise for markets, analysts say.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-30T11:30:00.000Z",
-      "headline": "&#x2018;I won&#x2019;t let the government walk all over me&#x2019;: The IRS says I owe $14,000 for not declaring my Social Security. What now?",
-      "url": "https://www.marketwatch.com/story/i-wont-let-the-government-walk-all-over-me-the-irs-says-i-owe-14-000-for-not-declaring-my-social-security-what-now-d7ce487a?mod=mw_rss_topstories",
+      "ts": "2025-09-30T20:58:00.000Z",
+      "headline": "Qualcomm promises it can be an AI winner. What does it know that Nvidia and Intel don&#x2019;t?",
+      "url": "https://www.marketwatch.com/story/qualcomm-promises-it-can-be-an-ai-winner-but-does-it-know-what-nvidia-and-intel-do-7f6a3155?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I will take the IRS to court, if I must.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T11:00:00.000Z",
-      "headline": "&#x2018;He&#x2019;s the breadwinner&#x2019;: Does my husband take Social Security at 66 &#x2014; or wait to get $800 extra at 70?",
-      "url": "https://www.marketwatch.com/story/hes-the-breadwinner-does-my-husband-take-social-security-at-66-or-wait-to-get-800-extra-at-70-33b0ed85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My husband jokes that he will never be able to retire because we do not own a home.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T11:00:00.000Z",
-      "headline": "Could this be the worst time to retire?",
-      "url": "https://www.marketwatch.com/story/could-this-be-the-worst-time-to-retire-c863017a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Current stock-market valuations mirror 1968, when stocks and bonds were on the brink of more than a decade of weak returns.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T09:57:00.000Z",
-      "headline": "&#x2018;Gold is like the art market,&#x2019; declares Citi, as it hikes its target price again.",
-      "url": "https://www.marketwatch.com/story/gold-is-like-the-art-market-declares-citi-as-it-hikes-its-target-price-again-40c287f5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Citi hike their target prices for gold and silver to $4000/oz and $55/oz respectively.",
+      "summary_en": "Qualcomm shares may have more growth potential than the market is currently pricing in &#x2014;but some big hurdles lie ahead.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
