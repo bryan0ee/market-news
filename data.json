@@ -1,124 +1,113 @@
 {
-  "last_updated": "2025-09-29T23:25:03.389Z",
+  "last_updated": "2025-09-30T10:43:14.284Z",
   "items": [
     {
-      "ts": "2025-09-29T23:10:00.000Z",
-      "headline": "The biggest risk to Fed independence is a divided Congress &#x2014; not Trump",
-      "url": "https://www.marketwatch.com/story/the-biggest-risk-to-fed-independence-is-a-divided-congress-not-trump-badc18df?mod=mw_rss_topstories",
+      "ts": "2025-09-30T10:03:00.000Z",
+      "headline": "I&#x2019;m 44. I have $400K in cash, plus rental properties in Dubai. I&#x2019;m worried about a stock-market crash. Do I dare invest?",
+      "url": "https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The question for investors now is how much power over the Fed the Senate will cede to the president.",
+      "summary_en": "&#x201c;My rental properties generate passive income of $6,000 monthly after taxes.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T22:33:00.000Z",
-      "headline": "Intel is one of the hottest chip stocks this year. Here&#x2019;s where things stand now.",
-      "url": "https://www.marketwatch.com/story/intel-is-one-of-the-hottest-chip-stocks-this-year-heres-where-things-stand-now-e61eda45?mod=mw_rss_topstories",
+      "ts": "2025-09-30T09:30:00.000Z",
+      "headline": "Why Gundlach says it&#x2019;s a very unusual market &#x2014; and what bonds he likes now",
+      "url": "https://www.marketwatch.com/story/why-gundlach-says-its-a-very-unusual-market-and-what-bonds-he-likes-now-d35caab1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Intel&#x2019;s stock has rallied on growing enthusiasm for a turnaround, but there are still questions about how quickly that can manifest.",
+      "summary_en": "The so-called bond king says local currency emerging-markets bonds are the place to be, at least for those willing to take on risk.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T22:30:00.000Z",
-      "headline": "Electronic Arts sees a record buyout deal. But should shareholders be happy?",
-      "url": "https://www.marketwatch.com/story/electronic-arts-sees-a-record-buyout-deal-but-should-shareholders-be-happy-fc0bba76?mod=mw_rss_topstories",
+      "ts": "2025-09-30T09:05:00.000Z",
+      "headline": "Former NFL star Mick Luckhurst lists sporty Santa Barbara spread for $6 million",
+      "url": "https://www.marketwatch.com/story/former-nfl-star-mick-luckhurst-lists-sporty-santa-barbara-spread-for-6-million-3c6b4827?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The deal for Electronic Arts is the largest-ever all-cash sponsor take-private investment, the companies involved said.",
+      "summary_en": "The&#xa0;6-bedroom, 8-bath home&#xa0;comes with an array of sports facilities for football, soccer, basketball, golf, rock climbing, swimming, tennis, volleyball and weightlifting.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T20:52:00.000Z",
-      "headline": "You&#x2019;ve got less than 5 years to rescue your money from AI and stablecoins. Here&#x2019;s what to do.",
-      "url": "https://www.marketwatch.com/story/ai-and-digital-dollars-are-coming-for-your-job-and-maybe-your-wealth-3aa34515?mod=mw_rss_topstories",
+      "ts": "2025-09-30T09:00:00.000Z",
+      "headline": "Back on the market: Amazing estate of NBA legend Tony Parker, complete with private waterpark, for $20 million",
+      "url": "https://www.marketwatch.com/story/back-on-the-market-amazing-estate-of-nba-legend-tony-parker-complete-with-private-waterpark-for-20-million-f13c5cd4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "America&#x2019;s once-a-century reset is happening at hyperspeed &#x2014; creating new fortunes and destroying old ones.",
+      "summary_en": "Despite the luxurious amenities, the Parker estate in Texas has struggled to find a buyer, bouncing on and off the market over the years.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T20:50:00.000Z",
-      "headline": "The S&P 500 is about to enter its strongest quarter of the year historically, this chart shows",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-about-to-enter-its-strongest-quarter-of-the-year-historically-this-chart-shows-ad234790?mod=mw_rss_topstories",
+      "ts": "2025-09-30T09:57:00.000Z",
+      "headline": "&#x2018;Gold is like the art market,&#x2019; declares Citi, as it hikes its target price again.",
+      "url": "https://www.marketwatch.com/story/gold-is-like-the-art-market-declares-citi-as-it-hikes-its-target-price-again-40c287f5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Citi hike their target prices for gold and silver to $4000/oz and $55/oz respectively.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T08:42:00.000Z",
+      "headline": "&#x2018;I want to live in a place that I can enjoy&#x2019;: I&#x2019;m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
+      "url": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;With inheritance, I now have a little over $1 million in cash and investments.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T04:01:00.000Z",
+      "headline": "The EV tax credit expires today &#x2014; and time&#x2019;s running out to save money on these other green upgrades. Here&#x2019;s what to do.",
+      "url": "https://www.marketwatch.com/story/the-ev-tax-credit-expires-today-and-times-running-out-to-save-money-on-these-other-green-upgrades-heres-what-to-do-d615f422?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "PG"
+      ],
+      "summary_en": "Time is not on the side of anyone seeking help from Uncle Sam with their electric-vehicle purchase or their home&#x2019;s clean-energy upgrades.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T01:43:00.000Z",
+      "headline": "This chart shows the U.S. labor market is running on fumes. Why that&#x2019;s a risk for the stock market.",
+      "url": "https://www.marketwatch.com/story/this-chart-shows-the-u-s-labor-market-is-running-on-fumes-why-thats-a-risk-for-the-stock-market-82f89a5d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The S&P 500 has rallied so far in 2025 &#x2014; and it&#x2019;s about to enter its strongest quarter of the year historically, a chart from Bespoke Investment Group shows.",
+      "summary_en": "A weakening U.S. labor market is a risk for both the U.S. economy and markets right now. But the most closely watched numbers &#x2014; the rate of new jobs created, and the official unemployment rate &#x2014; don&#x2019;t tell the full story.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-29T23:11:00.000Z",
-      "headline": "These TikTok and Instagram financial influencers aren&#x2019;t your father&#x2019;s investment advisers",
-      "url": "https://www.marketwatch.com/story/these-tiktok-and-instagram-financial-influencers-arent-your-fathers-investment-advisers-0188438e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-09-30T00:28:00.000Z",
+      "headline": "This stock and bond strategy is so disliked &#x2014; and it&#x2019;s probably your best investment move for the next 10 years",
+      "url": "https://www.marketwatch.com/story/this-stock-and-bond-strategy-is-so-disliked-and-its-probably-your-best-investment-move-for-the-next-10-years-3759fdf2?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "In a world where young people get information from entirely different sources than older folks, it&#x2019;s no wonder that they have different views on money &#x2014; how to save it, how to spend it and how to get rich.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-29T22:40:00.000Z",
-      "headline": "Kroger&#x2019;s delivery expansion with DoorDash is bad news for Instacart, analysts say",
-      "url": "https://www.marketwatch.com/story/krogers-delivery-expansion-with-doordash-is-bad-news-for-instacart-analysts-say-5ce24b6f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Shares of grocery-delivery app Instacart slid Monday after rival DoorDash Inc. and supermarket giant Kroger Co. said they were expanding an existing partnership to deliver a lot more groceries to consumers&#x2019; homes starting next month.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-29T20:51:00.000Z",
-      "headline": "Here&#x2019;s what a government shutdown means for markets &#x2014; and your wallet",
-      "url": "https://www.marketwatch.com/story/heres-what-a-government-shutdown-means-for-markets-and-your-wallet-e631bbe2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There hasn&#x2019;t been a partial U.S. government shutdown since 2019. Here&#x2019;s a rundown of what one could mean for you and your money.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-29T20:49:00.000Z",
-      "headline": "Nike earnings are due. The results could be a &#x2018;turning point&#x2019; after recent struggles.",
-      "url": "https://www.marketwatch.com/story/nike-earnings-are-due-the-results-could-be-a-turning-point-after-recent-struggles-db8271f4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "As potentially positive signals start to emerge, analysts will be looking to management for confirmation that any rebound is real.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-29T20:39:00.000Z",
-      "headline": "What to know about October&#x2019;s market-crash potential &#x2014; and what you can ignore",
-      "url": "https://www.marketwatch.com/story/october-is-typically-volatile-for-stocks-but-will-you-be-needing-a-seat-belt-or-a-crash-helmet-486f50af?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "What to know about October&#x2019;s market-crash potential &#x2014; and what you can ignore.",
+      "summary_en": "In the past, when the market was overvalued as it is now, a 60/40 portfolio almost always beat the S&P 500 over the subsequent decade.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,6 +120,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-09-30T00:50:00.000Z",
+      "headline": "You won&#x2019;t get a paper Social Security check in October &#x2014; or ever again. Here&#x2019;s how you&#x2019;ll be paid instead.",
+      "url": "https://www.marketwatch.com/story/you-wont-get-a-paper-social-security-check-in-october-or-ever-again-heres-how-youll-be-paid-instead-4ee76185?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "About 500,000 people were still getting paper checks &#x2014; including people over age 80, living with disabilities or without internet access.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
