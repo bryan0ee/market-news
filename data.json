@@ -1,93 +1,106 @@
 {
-  "last_updated": "2025-10-01T13:31:42.096Z",
+  "last_updated": "2025-10-01T23:24:51.683Z",
   "items": [
     {
-      "ts": "2025-10-01T13:26:00.000Z",
-      "headline": "Trump&#x2019;s son-in-law Kushner only did smallish deals. Now he&#x2019;s part of the biggest buyout ever.",
-      "url": "https://www.marketwatch.com/story/trumps-son-in-law-kushner-only-did-smallish-deals-now-hes-part-of-the-biggest-buyout-ever-c949ca82?mod=mw_rss_topstories",
+      "ts": "2025-10-01T23:14:00.000Z",
+      "headline": "This Nvidia move has sparked criticism, but it could help the stock, one analyst says",
+      "url": "https://www.marketwatch.com/story/this-nvidia-move-has-sparked-criticism-but-it-could-help-the-stock-one-analyst-says-406c5234?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Jared Kushner has found a role in the $55 billion Electronic Arts megadeal. His involvement could ease its passage through Washington.",
+      "summary_en": "The chip maker&#x2019;s investments into its own ecosystem are being criticized by some for resembling bubble behavior, but they could actually send the stock higher, Melius analysts said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T13:23:00.000Z",
-      "headline": "ADP says businesses cut jobs for third time in four months. Labor market takes turn for worse.",
-      "url": "https://www.marketwatch.com/story/adp-says-businesses-cut-jobs-for-third-time-in-four-month-as-labor-market-weakens-8e245e92?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Privately run businesses eliminated jobs in September for the third time in four months, ADP said, in another sign of emerging weakness in the labor market that alarmed the Federal Reserve enough to cut interest rates two weeks ago.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-01T12:45:00.000Z",
-      "headline": "Big investors are afraid of the stock market, and the S&P 500&#x2019;s path to 7,000 just got easier.",
-      "url": "https://www.marketwatch.com/story/why-the-s-p-500s-path-to-7-000-is-alive-and-well-according-to-trader-who-nailed-summer-call-for-stocks-to-climb-f5af1148?mod=mw_rss_topstories",
+      "ts": "2025-10-01T23:10:00.000Z",
+      "headline": "AT&T&#x2019;s stock trades at a notable premium to Verizon&#x2019;s. Should you still buy?",
+      "url": "https://www.marketwatch.com/story/at-ts-stock-trades-at-a-notable-premium-to-verizons-should-you-still-buy-db419904?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Wobbles by the S&P 500 near fresh highs has caused skittish behavior by Wall Street&#x2019;s smart money recently. That will help smooth a path to 7,000, says this trader.",
+      "summary_en": "Barclays just downgraded AT&T&#x2019;s stock over concerns about industry competition and debt levels.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T12:19:00.000Z",
-      "headline": "The vital signs for the U.S. jobs market were already flickering before the employment report was delayed. Just how bad is it?",
-      "url": "https://www.marketwatch.com/story/the-vital-signs-for-the-u-s-jobs-market-were-already-flickering-before-the-employment-report-was-delayed-just-how-bad-is-it-5b64808b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The critical U.S. jobs report on Friday, which is likely to be delayed by the government shutdown, probably wasn&#x2019;t going to reveal much good news. But it could have told investors if the labor market is getting worse.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-01T12:18:00.000Z",
-      "headline": "As stocks power higher, investors feel they have no choice but to keep riding the bull market",
-      "url": "https://www.marketwatch.com/story/as-stocks-power-higher-investors-see-little-choice-but-to-keep-riding-the-bull-market-8e4acd91?mod=mw_rss_topstories",
+      "ts": "2025-10-01T23:07:00.000Z",
+      "headline": "Does Elon Musk&#x2019;s call for a Netflix boycott signal a new front in the culture wars?",
+      "url": "https://www.marketwatch.com/story/does-elon-musks-call-for-a-netflix-boycott-signal-a-new-front-in-the-culture-wars-ad4c1a2f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A popular quote, often attributed to former Citigroup CEO Chuck Prince, is once again making the rounds on Wall Street these days: &#x201c;As long as the music is playing, you&#x2019;ve got to get up and dance.&#x201d;",
+      "summary_en": "Netflix is facing calls of a boycott from Elon Musk over an animated show it aired that featured a transgender character.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T12:17:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in October 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-october-2025-on-netflix-hulu-hbo-max-and-more-6b2875b5?mod=mw_rss_topstories",
+      "ts": "2025-10-01T22:03:00.000Z",
+      "headline": "Stocks and bitcoin are running on fumes and FOMO &#x2014; but here&#x2019;s how the market can steer clear of a selloff",
+      "url": "https://www.marketwatch.com/story/the-gold-market-is-rarely-wrong-why-stocks-and-bitcoin-are-in-a-danger-zone-2a13c688?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The NBA takes a big leap into streaming, while viewers can cozy up to Netflix&#x2019;s &#x2018;Nobody Wants This&#x2019; or freak out to the Halloween horror of &#x2018;Monster: The Ed Gein Story&#x2019; and &#x2018;It: Welcome to Derry&#x2019;",
+      "summary_en": "Trader Jeffrey Bierman says the market can stabilize if fund managers diversify into unloved, cheap sectors",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T13:01:00.000Z",
-      "headline": "Qualcomm promises it can be an AI winner. What does it know that Nvidia and Intel don&#x2019;t?",
-      "url": "https://www.marketwatch.com/story/qualcomm-promises-it-can-be-an-ai-winner-but-does-it-know-what-nvidia-and-intel-do-7f6a3155?mod=mw_rss_topstories",
+      "ts": "2025-10-01T21:37:00.000Z",
+      "headline": "Intel&#x2019;s stock extends its gains on hopes AMD could go from rival to partner",
+      "url": "https://www.marketwatch.com/story/intels-stock-extends-its-gains-on-hopes-amd-could-go-from-rival-to-partner-dafbafbd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "AMD"
       ],
-      "summary_en": "Qualcomm shares may have more growth potential than the market is currently pricing in &#x2014;but some big hurdles lie ahead.",
+      "summary_en": "Intel has been the beneficiary of recent financial investments, but a report indicates it&#x2019;s in talks to book AMD as a manufacturing customer.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T12:40:00.000Z",
-      "headline": "Why Nvidia, Broadcom and other highflying stocks are especially risky now",
+      "ts": "2025-10-01T21:18:00.000Z",
+      "headline": "Running shoes and retail gains are helping Nike&#x2019;s turnaround &#x2014; and cranking up the heat on rivals",
+      "url": "https://www.marketwatch.com/story/running-shoes-and-retail-gains-are-helping-nikes-turnaround-and-cranking-up-the-heat-on-rivals-af48f8e0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "After Nike&#x2019;s longer-term outlook offered a rare bright spot for investors, some analysts say the company could start to take back lost business.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T21:14:00.000Z",
+      "headline": "How much could the government shutdown cost? These numbers show the potential economic hit.",
+      "url": "https://www.marketwatch.com/story/whats-the-economic-damage-from-a-government-shutdown-these-numbers-tell-the-tale-77136e25?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "The threat of mass layoffs makes this shutdown different, and the &#x201c;reductions in force&#x201d; could start in a day or two.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T21:01:00.000Z",
+      "headline": "I&#x2019;m 44. I have $400K in cash. I&#x2019;m worried about a stock-market crash. Do I dare invest?",
+      "url": "https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My rental properties generate passive income of $6,000 monthly after taxes.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T22:54:00.000Z",
+      "headline": "Why Nvidia, Broadcom and other high-flying stocks are especially risky now",
       "url": "https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-highflying-stocks-are-especially-risky-now-ff1e5de5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -98,27 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T11:52:00.000Z",
-      "headline": "We have $2 million in retirement savings and $1.65 million in real estate. Can I retire at 58?",
-      "url": "https://www.marketwatch.com/story/we-have-2-million-in-retirement-savings-and-1-65-million-in-real-estate-can-i-retire-at-58-b360ab32?mod=mw_rss_topstories",
+      "ts": "2025-10-01T22:00:00.000Z",
+      "headline": "I&#x2019;m 80. Is this a good or bad time to dip into my $650K retirement fund to remodel my bathroom?",
+      "url": "https://www.marketwatch.com/story/the-economic-and-political-climate-makes-me-reluctant-im-80-do-i-dip-into-my-650k-retirement-fund-to-remodel-my-bathroom-3879b1dd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I can expect a pension of $60,000 to $65,000 a year once I turn 62.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-01T11:48:00.000Z",
-      "headline": "&#x2018;He&#x2019;s the breadwinner&#x2019;: Does my husband take Social Security at 66 &#x2014; or wait to get $800 extra at 70?",
-      "url": "https://www.marketwatch.com/story/hes-the-breadwinner-does-my-husband-take-social-security-at-66-or-wait-to-get-800-extra-at-70-33b0ed85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My husband jokes that he will never be able to retire because we do not own a home.&#x201d;",
+      "summary_en": "&#x201c;The economic and political climate makes me reluctant to do so.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -143,6 +144,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T14:00:00.000Z",
+      "headline": "Agencies issue reminder to institutions on lending when the National Flood Insurance Program is unavailable",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251001a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Agencies issue reminder to institutions on lending when the National Flood Insurance Program is unavailable",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
