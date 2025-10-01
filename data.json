@@ -1,57 +1,22 @@
 {
-  "last_updated": "2025-09-30T23:24:20.074Z",
+  "last_updated": "2025-10-01T10:43:25.914Z",
   "items": [
     {
-      "ts": "2025-09-30T23:10:00.000Z",
-      "headline": "Pfizer found a way to boost its ailing stock &#x2014; agree on drug pricing with TrumpRx",
-      "url": "https://www.marketwatch.com/story/pfizer-found-a-way-to-boost-its-ailing-stock-agree-with-trump-on-drug-pricing-219908fa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-10-01T10:12:00.000Z",
+      "headline": "Why BlackRock may not need to pay a big premium for a $38 billion energy acquisition",
+      "url": "https://www.marketwatch.com/story/why-blackrock-may-not-need-to-pay-a-big-premium-for-a-38-billion-energy-acquisition-37c7d7ed?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "Pfizer&#x2019;s stock surged after CEO Albert Bourla announces an agreement with the Trump administration aimed at lowering drug prices in the U.S. and removing tariff uncertainty.",
+      "summary_en": "Shares in U.S. power company AES Corp. spiked more than 15% in premarket trading Wednesday after BlackRock-owned GIP was reported by the Financial Times to have launched a bid worth around $38 billion.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-30T22:27:00.000Z",
-      "headline": "Marvell has &#x2018;huge potential,&#x2019; these analysts say. Here&#x2019;s why they downgraded the stock anyway.",
-      "url": "https://www.marketwatch.com/story/marvell-has-huge-potential-these-analysts-say-heres-why-they-downgraded-the-stock-anyway-ac13f435?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "TD Cowen analysts cited a &#x201c;dynamic of volatility and limited visibility,&#x201d; saying there are cleaner narratives elsewhere in the chip sector.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T22:16:00.000Z",
-      "headline": "Here&#x2019;s how much your health insurance could go up next year &#x2014; whether there&#x2019;s a government shutdown or not",
-      "url": "https://www.marketwatch.com/story/heres-how-much-your-health-insurance-could-go-up-next-year-whether-theres-a-government-shutdown-or-not-4177a8ae?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Millions of Americans are poised to pay more for their health insurance next year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T22:11:00.000Z",
-      "headline": "Alphabet&#x2019;s stock just had its best quarter in two decades thanks to AI",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-just-had-its-best-quarter-in-two-decades-thanks-to-ai-8a8f1273?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL"
-      ],
-      "summary_en": "Alphabet&#x2019;s Class A stock rose 38% in the third quarter as Google&#x2019;s Gemini and cloud-computing businesses took off, defying doubters.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T20:58:00.000Z",
-      "headline": "As stocks power higher, investors see little choice but to keep riding the bull market",
+      "ts": "2025-10-01T10:34:00.000Z",
+      "headline": "As stocks power higher, investors have no choice but to keep riding the bull market",
       "url": "https://www.marketwatch.com/story/as-stocks-power-higher-investors-see-little-choice-but-to-keep-riding-the-bull-market-8e4acd91?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -62,27 +27,99 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-30T20:46:00.000Z",
-      "headline": "Two Social Security problems that seem almost impossible to fix",
-      "url": "https://www.marketwatch.com/story/two-social-security-problems-that-seem-almost-impossible-to-fix-c3253e1a?mod=mw_rss_topstories",
+      "ts": "2025-10-01T09:15:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t come from money&#x2019;: I received $1.2 million after a family tragedy. My low money-market interest rate is ending. What now?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The &#x201c;Social Security squeeze&#x201d; is coming for your benefits. Can the program&#x2019;s most existential problems be solved?",
+      "summary_en": "&#x201c;Having a large sum just sitting there freaks me out.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-09-30T20:41:00.000Z",
-      "headline": "Nike&#x2019;s results top expectations, but company warns its recovery &#x2018;will not be linear&#x2019;",
-      "url": "https://www.marketwatch.com/story/nikes-results-top-expectations-but-company-warns-its-recovery-will-not-be-linear-e9ea7fab?mod=mw_rss_topstories",
+      "ts": "2025-10-01T09:02:00.000Z",
+      "headline": "Jennifer Lawrence sells gorgeous $11 million Beverly Hills home in off-market deal",
+      "url": "https://www.marketwatch.com/story/jennifer-lawrence-sells-gorgeous-11-million-beverly-hills-home-in-off-market-deal-eea8bbfe?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of Nike Inc. moved higher in extended trading Tuesday after the sneaker maker reported fiscal first-quarter results that topped Wall Street&#x2019;s estimates, helped by a surprise sales gain.",
+      "summary_en": "The actress, who gave birth to her second child with husband Cooke Maroney at the end of March, appears to be mainly based in New York now.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T08:58:00.000Z",
+      "headline": "Sabrina Carpenter buys plush penthouse in Tribeca for $10.5 million",
+      "url": "https://www.marketwatch.com/story/sabrina-carpenter-buys-plush-penthouse-in-tribeca-for-10-5-million-6a1197e4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Sabrina Carpenter may be ready to give fans a real-life &#x201c;House Tour&#x201d; after reportedly purchasing a $10.5 million penthouse inside a celebrity-loved New York City building.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T08:54:00.000Z",
+      "headline": "A giant JPMorgan fund just reset its hedging strategy. What it did and what it means.",
+      "url": "https://www.marketwatch.com/story/a-giant-jpmorgan-fund-just-reset-its-hedging-strategy-what-it-did-and-what-it-means-77b9937c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A big JPMorgan fund reset a hedging strategy in a move that could impact the broader stock market at the end of the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T10:17:00.000Z",
+      "headline": "I&#x2019;m 80. Is this a good or bad time to dip into my $650K retirement fund to remodel my bathroom?",
+      "url": "https://www.marketwatch.com/story/the-economic-and-political-climate-makes-me-reluctant-im-80-do-i-dip-into-my-650k-retirement-fund-to-remodel-my-bathroom-3879b1dd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;The economic and political climate makes me reluctant to do so.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T04:02:00.000Z",
+      "headline": "The U.S. federal government just shut down. Here&#x2019;s what it means for you and your money.",
+      "url": "https://www.marketwatch.com/story/the-u-s-federal-government-just-shut-down-heres-what-it-means-for-you-and-your-money-6952e209?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Here&#x2019;s how the partial shutdown could affect investments, paychecks, economic releases, benefit programs, tourist sites run by the federal government and more.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T04:11:00.000Z",
+      "headline": "As government shuts down, here&#x2019;s how much your health insurance could go up next year",
+      "url": "https://www.marketwatch.com/story/heres-how-much-your-health-insurance-could-go-up-next-year-whether-theres-a-government-shutdown-or-not-4177a8ae?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Millions of Americans are poised to pay more for their health insurance next year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-01T01:56:00.000Z",
+      "headline": "Tesla deliveries should see a positive breakout and fuel a stock rally, analyst says",
+      "url": "https://www.marketwatch.com/story/tesla-deliveries-should-see-a-positive-breakout-and-fuel-a-stock-rally-analyst-says-c4de4f54?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Tesla should report quarterly deliveries this week that show a positive break in trend, Canaccord says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -95,42 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T20:19:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in October 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-october-2025-on-netflix-hulu-hbo-max-and-more-6b2875b5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The NBA takes a big leap into streaming, while viewers can cozy up to Netflix&#x2019;s &#x2018;Nobody Wants This&#x2019; or freak out to the Halloween horror of &#x2018;Monster: The Ed Gein Story&#x2019; and &#x2018;It: Welcome to Derry&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T21:22:00.000Z",
-      "headline": "Why Warren Buffett&#x2019;s Berkshire Hathaway may be placing another bet in petrochemicals",
-      "url": "https://www.marketwatch.com/story/why-warren-buffetts-berkshire-hathaway-may-be-placing-another-bet-in-petrochemicals-681c4534?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Berkshire is in talks to buy Occidental&#x2019;s chemicals business for $10 billion. A deal would come as a surprise for markets, analysts say.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T20:58:00.000Z",
-      "headline": "Qualcomm promises it can be an AI winner. What does it know that Nvidia and Intel don&#x2019;t?",
-      "url": "https://www.marketwatch.com/story/qualcomm-promises-it-can-be-an-ai-winner-but-does-it-know-what-nvidia-and-intel-do-7f6a3155?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Qualcomm shares may have more growth potential than the market is currently pricing in &#x2014;but some big hurdles lie ahead.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
