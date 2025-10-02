@@ -1,44 +1,20 @@
 {
-  "last_updated": "2025-10-01T23:24:51.683Z",
+  "last_updated": "2025-10-02T10:40:48.159Z",
   "items": [
     {
-      "ts": "2025-10-01T23:14:00.000Z",
-      "headline": "This Nvidia move has sparked criticism, but it could help the stock, one analyst says",
-      "url": "https://www.marketwatch.com/story/this-nvidia-move-has-sparked-criticism-but-it-could-help-the-stock-one-analyst-says-406c5234?mod=mw_rss_topstories",
+      "ts": "2025-10-02T10:33:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t come from money&#x2019;: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The chip maker&#x2019;s investments into its own ecosystem are being criticized by some for resembling bubble behavior, but they could actually send the stock higher, Melius analysts said.",
+      "summary_en": "&#x201c;Having a large sum just sitting there freaks me out.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T23:10:00.000Z",
-      "headline": "AT&T&#x2019;s stock trades at a notable premium to Verizon&#x2019;s. Should you still buy?",
-      "url": "https://www.marketwatch.com/story/at-ts-stock-trades-at-a-notable-premium-to-verizons-should-you-still-buy-db419904?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Barclays just downgraded AT&T&#x2019;s stock over concerns about industry competition and debt levels.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-01T23:07:00.000Z",
-      "headline": "Does Elon Musk&#x2019;s call for a Netflix boycott signal a new front in the culture wars?",
-      "url": "https://www.marketwatch.com/story/does-elon-musks-call-for-a-netflix-boycott-signal-a-new-front-in-the-culture-wars-ad4c1a2f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Netflix is facing calls of a boycott from Elon Musk over an animated show it aired that featured a transgender character.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-01T22:03:00.000Z",
+      "ts": "2025-10-02T09:58:00.000Z",
       "headline": "Stocks and bitcoin are running on fumes and FOMO &#x2014; but here&#x2019;s how the market can steer clear of a selloff",
       "url": "https://www.marketwatch.com/story/the-gold-market-is-rarely-wrong-why-stocks-and-bitcoin-are-in-a-danger-zone-2a13c688?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,76 +26,99 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T21:37:00.000Z",
-      "headline": "Intel&#x2019;s stock extends its gains on hopes AMD could go from rival to partner",
-      "url": "https://www.marketwatch.com/story/intels-stock-extends-its-gains-on-hopes-amd-could-go-from-rival-to-partner-dafbafbd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "AMD"
-      ],
-      "summary_en": "Intel has been the beneficiary of recent financial investments, but a report indicates it&#x2019;s in talks to book AMD as a manufacturing customer.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-01T21:18:00.000Z",
-      "headline": "Running shoes and retail gains are helping Nike&#x2019;s turnaround &#x2014; and cranking up the heat on rivals",
-      "url": "https://www.marketwatch.com/story/running-shoes-and-retail-gains-are-helping-nikes-turnaround-and-cranking-up-the-heat-on-rivals-af48f8e0?mod=mw_rss_topstories",
+      "ts": "2025-10-02T09:33:00.000Z",
+      "headline": "I inherited a $30K trust. My bank says I&#x2019;ll pay $10K in taxes if I cash out. Something is not right.",
+      "url": "https://www.marketwatch.com/story/the-banks-behavior-doesnt-seem-right-i-inherited-a-30k-trust-my-adviser-says-ill-pay-10k-in-taxes-if-i-cash-out-how-is-that-possible-875c8325?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "After Nike&#x2019;s longer-term outlook offered a rare bright spot for investors, some analysts say the company could start to take back lost business.",
+      "summary_en": "&#x201c;The question is whether to take the cash or leave it to be managed by the bank.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T21:14:00.000Z",
-      "headline": "How much could the government shutdown cost? These numbers show the potential economic hit.",
-      "url": "https://www.marketwatch.com/story/whats-the-economic-damage-from-a-government-shutdown-these-numbers-tell-the-tale-77136e25?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "The threat of mass layoffs makes this shutdown different, and the &#x201c;reductions in force&#x201d; could start in a day or two.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-01T21:01:00.000Z",
-      "headline": "I&#x2019;m 44. I have $400K in cash. I&#x2019;m worried about a stock-market crash. Do I dare invest?",
-      "url": "https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories",
+      "ts": "2025-10-02T09:30:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t wish to be petty&#x2019;: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?",
+      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My rental properties generate passive income of $6,000 monthly after taxes.&#x201d;",
+      "summary_en": "&#x201c;My share of the home alone would be valued at $300K per the trust. If she distributes the funds three ways, my share becomes $200K.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T22:54:00.000Z",
-      "headline": "Why Nvidia, Broadcom and other high-flying stocks are especially risky now",
-      "url": "https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-highflying-stocks-are-especially-risky-now-ff1e5de5?mod=mw_rss_topstories",
+      "ts": "2025-10-02T09:25:00.000Z",
+      "headline": "Credit bureau shares are getting hammered as FICO takes step to directly license mortgage scores",
+      "url": "https://www.marketwatch.com/story/credit-bureau-shares-are-getting-hammered-as-fico-takes-step-to-directly-license-mortgage-scores-bbb5410d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of TransUnion, Equifax and Experian slumped on Thursday as FICO said it&#x2019;s going to license its scores used to assess a mortgage borrower&#x2019;s credit worthiness directly.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T09:04:00.000Z",
+      "headline": "Relisted with $8 million price cut: Jennifer Lopez and Ben Affleck&#x2019;s Beverly Hills mansion",
+      "url": "https://www.marketwatch.com/story/relisted-with-8-million-price-cut-jennifer-lopez-and-ben-afflecks-beverly-hills-mansion-9532bd03?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Beverly Hills&#xa0;mansion the couple resided in during their marriage is back on the market, this time for $52 million.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T08:58:00.000Z",
+      "headline": "Former &#x2018;Real Housewives&#x2019; star Yolanda Hadid lists family horse farm in Pennsylvania for $11 million",
+      "url": "https://www.marketwatch.com/story/former-real-housewives-star-yolanda-hadid-lists-family-horse-farm-in-pennsylvania-for-11-million-bfdd84f7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hadid turned the rundown estate into a &#x201c;sanctuary and safe haven&#x201d; where her supermodel daughters,&#xa0;Gigi&#xa0;and&#xa0;Bella could escape the spotlight.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T08:22:00.000Z",
+      "headline": "Elon Musk is richer now than John Rockefeller was &#x2014; and it still might not be enough for his ambitions",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-richer-now-than-john-rockefeller-was-and-it-still-might-not-be-enough-for-his-ambitions-ed085ea6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Rockefeller Rich still rolls off the tongue better, but Elon Musk can now be considered the wealthiest person who ever lived after Forbes&#x2019; new ranking.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T09:38:00.000Z",
+      "headline": "Energy is the best play, and the market&#x2019;s biggest risk, for the fourth quarter, says this research firm",
+      "url": "https://www.marketwatch.com/story/energy-is-the-best-play-and-the-markets-biggest-risk-for-the-fourth-quarter-says-this-research-firm-c28e4184?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Momentum stocks in highflying sectors are vulnerable to a downturn, even if the market doesn&#x2019;t crash.",
+      "summary_en": "Energy prices are abnormally low and supportive of equity markets everywhere. If they were to spike, however, this would represent the biggest risk to the current investment environment.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-01T22:00:00.000Z",
-      "headline": "I&#x2019;m 80. Is this a good or bad time to dip into my $650K retirement fund to remodel my bathroom?",
-      "url": "https://www.marketwatch.com/story/the-economic-and-political-climate-makes-me-reluctant-im-80-do-i-dip-into-my-650k-retirement-fund-to-remodel-my-bathroom-3879b1dd?mod=mw_rss_topstories",
+      "ts": "2025-10-02T02:29:00.000Z",
+      "headline": "Amazon, Palo Alto Networks &#x2014;&#xa0;and 36 more hot stock picks from Deutsche Bank",
+      "url": "https://www.marketwatch.com/story/amazon-palo-alto-networks-and-36-more-hot-stock-picks-from-deutsche-bank-caef0627?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The economic and political climate makes me reluctant to do so.&#x201d;",
+      "summary_en": "Deutsche Bank&#x2019;s list of fourth-quarter high-conviction picks also includes 2025 laggards like Visa and standouts like Lam Research that could have more room to rally.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
