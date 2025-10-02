@@ -1,124 +1,126 @@
 {
-  "last_updated": "2025-10-02T13:28:29.867Z",
+  "last_updated": "2025-10-02T23:24:17.023Z",
   "items": [
     {
-      "ts": "2025-10-02T11:51:00.000Z",
-      "headline": "Elon Musk is richer now than John Rockefeller was &#x2014; and it still might not be enough for his ambitions",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-richer-now-than-john-rockefeller-was-and-it-still-might-not-be-enough-for-his-ambitions-ed085ea6?mod=mw_rss_topstories",
+      "ts": "2025-10-02T23:10:00.000Z",
+      "headline": "Tesla delivers a big sales beat, and the end of EV tax credits may not be the only reason",
+      "url": "https://www.marketwatch.com/story/tesla-delivers-a-big-sales-beat-and-the-end-of-ev-tax-credits-may-not-be-the-only-reason-cd701bac?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tesla reported third-quarter deliveries that topped the highest analyst estimate, but the stock drops.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T22:57:00.000Z",
+      "headline": "WNBA players want more money &#x2014; and a growing roster of stars like Napheesa Collier and Caitlin Clark are calling out the league commissioner to get it",
+      "url": "https://www.marketwatch.com/story/wnba-players-want-more-money-and-a-growing-roster-of-stars-like-napheesa-collier-and-caitlin-clark-are-calling-out-the-league-commissioner-to-get-it-d18d0ee8?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Fears of a 2026 WNBA lockout loom as the players union and the league still haven&#x2019;t reached new collective bargaining agreement",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T23:07:00.000Z",
+      "headline": "Alphabet&#x2019;s stock is now beloved on Wall Street. Here&#x2019;s what matters next for Google.",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-is-now-beloved-on-wall-street-heres-what-matters-next-for-google-41b20848?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "How can Alphabet&#x2019;s stock build on its gains? By driving search and cloud momentum that sends earnings estimates higher, a Morgan Stanley analyst says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T22:36:00.000Z",
+      "headline": "Cracker Barrel drops marketing firm behind disastrous logo refresh, raising further questions about future plans",
+      "url": "https://www.marketwatch.com/story/cracker-barrel-drops-marketing-firm-behind-disastrous-logo-refresh-raising-further-questions-about-future-plans-1b76567c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Rockefeller Rich still rolls off the tongue better, but Elon Musk can now be considered the wealthiest person who ever lived after Forbes&#x2019; new ranking.",
+      "summary_en": "Cracker Barrel Old Country Store Inc. on Thursday said it would stop working with the consultancy that advised it on a logo change and restaurant overhaul that backfired over the summer, raising further questions about the Americana-themed restaurant chain&#x2019;s path forward.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-02T10:33:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t come from money&#x2019;: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
+      "ts": "2025-10-02T22:02:00.000Z",
+      "headline": "Humana provides a peek into its Medicare Advantage plan ratings, and the stock jumps",
+      "url": "https://www.marketwatch.com/story/humana-provides-a-peak-into-its-medicare-advantage-plan-ratings-and-the-stock-jumps-9c8a2676?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Having a large sum just sitting there freaks me out.&#x201d;",
+      "summary_en": "Humana&#x2019;s stock spiked after the health insurer disclosed some findings from the government&#x2019;s Star Ratings for its 2026 Medicare Advantage plans.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-02T13:20:00.000Z",
-      "headline": "Cracks are forming in the AI capex boom, warns Morgan Stanley. What to buy and sell.",
-      "url": "https://www.marketwatch.com/story/cracks-are-forming-in-the-ai-capex-boom-warns-morgan-stanley-what-to-buy-and-sell-a9f23771?mod=mw_rss_topstories",
+      "ts": "2025-10-02T21:54:00.000Z",
+      "headline": "What FICO&#x2019;s credit-score shake-up really means for home buyers",
+      "url": "https://www.marketwatch.com/story/what-ficos-credit-score-shakeup-really-means-for-home-buyers-edae75c4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Wall Street is getting wary on AI capex spending and Morgan Stanley&#x2019;s wealth unit is urging clients to beware, and sell small-cap stocks for one.",
+      "summary_en": "Big shifts are happening in the credit-reporting industry that could impact mortgage lending.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-02T13:16:00.000Z",
-      "headline": "As Buffett nears retirement, he&#x2019;s making his biggest purchase in years",
+      "ts": "2025-10-02T20:43:00.000Z",
+      "headline": "Don&#x2019;t ignore this upcoming Medicare update &#x2014; it could be the most important message of the year",
+      "url": "https://www.marketwatch.com/story/dont-ignore-this-upcoming-medicare-update-it-could-be-the-most-important-message-of-the-year-92604e48?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The ANOC has crucial information you need to see before Medicare&#x2019;s open enrollment begins on Oct. 15.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T20:33:00.000Z",
+      "headline": "This S&P 500 sector gauge points to &#x2018;excessive&#x2019; confidence and imminent pullback",
+      "url": "https://www.marketwatch.com/story/this-s-p-500-sector-gauge-points-to-excessive-confidence-and-imminent-pullback-8b6ae740?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Sectors in the U.S. stock market just traded in a way that suggests investors are excessively confident and a pullback may be near, according to DataTrek Research.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T20:25:00.000Z",
+      "headline": "No jobs report on Friday. But that may not be the worst data delay due to the federal shutdown.",
+      "url": "https://www.marketwatch.com/story/no-jobs-report-on-friday-but-that-may-not-be-the-worst-data-delay-due-to-federal-shutdown-e43e09bc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Crucial reports on U.S. inflation, job creation and unemployment are set to be delayed a week or more due to the government shutdown &#x2014; and there&#x2019;s even a danger that some inflation reports might not be produced at all.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-02T20:26:00.000Z",
+      "headline": "As Warren Buffett nears retirement, he&#x2019;s making his biggest purchase in years",
       "url": "https://www.marketwatch.com/story/as-buffett-nears-retirement-hes-making-his-biggest-purchase-in-years-ef2cc42c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Warren Buffett&#x2019;s Berkshire Hathaway says it is acquiring a &#x201c;robust portfolio of operating assets,&#x201d; in Occidental&#x2019;s OxyChem.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-02T09:58:00.000Z",
-      "headline": "Stocks and bitcoin are running on fumes and FOMO &#x2014; but here&#x2019;s how the market can steer clear of a selloff",
-      "url": "https://www.marketwatch.com/story/the-gold-market-is-rarely-wrong-why-stocks-and-bitcoin-are-in-a-danger-zone-2a13c688?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Trader Jeffrey Bierman says the market can stabilize if fund managers diversify into unloved, cheap sectors",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-02T12:52:00.000Z",
-      "headline": "I&#x2019;m 80. Is this a good or bad time to dip into my $650K retirement fund to remodel my bathroom?",
-      "url": "https://www.marketwatch.com/story/the-economic-and-political-climate-makes-me-reluctant-im-80-do-i-dip-into-my-650k-retirement-fund-to-remodel-my-bathroom-3879b1dd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;The economic and political climate makes me reluctant to do so.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-02T12:41:00.000Z",
-      "headline": "Energy is the best play, and the market&#x2019;s biggest risk, for the fourth quarter, this research firm says",
-      "url": "https://www.marketwatch.com/story/energy-is-the-best-play-and-the-markets-biggest-risk-for-the-fourth-quarter-says-this-research-firm-c28e4184?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Energy prices are abnormally low and supportive of equity markets everywhere. If they were to spike, however, this would represent the biggest risk to the current investment environment.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-02T12:39:00.000Z",
-      "headline": "&#x2018;He&#x2019;s the breadwinner&#x2019;: Does my husband take Social Security at 66 &#x2014; or get $800 extra at 70?",
-      "url": "https://www.marketwatch.com/story/hes-the-breadwinner-does-my-husband-take-social-security-at-66-or-wait-to-get-800-extra-at-70-33b0ed85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My husband jokes that he will never be able to retire because we do not own a home.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-02T09:33:00.000Z",
-      "headline": "I inherited a $30K trust. My bank says I&#x2019;ll pay $10K in taxes if I cash out. Something is not right.",
-      "url": "https://www.marketwatch.com/story/the-banks-behavior-doesnt-seem-right-i-inherited-a-30k-trust-my-adviser-says-ill-pay-10k-in-taxes-if-i-cash-out-how-is-that-possible-875c8325?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The question is whether to take the cash or leave it to be managed by the bank.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-02T11:52:00.000Z",
-      "headline": "&#x2018;I won&#x2019;t let the government walk all over me&#x2019;: The IRS says I owe $14,000 for not declaring my Social Security. What now?",
-      "url": "https://www.marketwatch.com/story/i-wont-let-the-government-walk-all-over-me-the-irs-says-i-owe-14-000-for-not-declaring-my-social-security-what-now-d7ce487a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I will take the IRS to court, if I must.&#x201d;",
+      "summary_en": "Warren Buffett&#x2019;s Berkshire Hathaway says it is acquiring a &#x201c;robust portfolio of operating assets&#x201d; in Occidental&#x2019;s OxyChem.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-25T19:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250925a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Dacotah Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
