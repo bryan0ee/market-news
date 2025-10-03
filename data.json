@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-03T10:41:03.167Z",
+  "last_updated": "2025-10-03T13:28:10.885Z",
   "items": [
     {
       "ts": "2025-10-03T10:00:00.000Z",
@@ -11,6 +11,30 @@
         "ED"
       ],
       "summary_en": "Crucial reports on U.S. inflation, job creation and unemployment are set to be delayed a week or more due to the government shutdown &#x2014; and there&#x2019;s even a danger that some inflation reports might not be produced at all.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-03T12:49:00.000Z",
+      "headline": "Market bubbles only burst when central banks tighten &#x2014; and there&#x2019;s so sign of that happening, says B. of A. strategist Hartnett",
+      "url": "https://www.marketwatch.com/story/market-bubbles-only-burst-when-central-banks-tighten-and-theres-so-sign-of-that-happening-says-b-of-a-strategist-hartnett-0cfde26d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "In his weekly Flow Show update, Bank of America chief strategist Michael Hartnett remains reluctant to call a top in markets",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-03T12:38:00.000Z",
+      "headline": "The AI bubble is 17 times the size of the dot-com frenzy &#x2014; and four times subprime, this analyst argues",
+      "url": "https://www.marketwatch.com/story/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-this-analyst-argues-046e7c5c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A research firm is arguing snot just that AI is in a bubble, but one 17 times size the dot-com bubble.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -26,6 +50,30 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-10-03T11:30:00.000Z",
+      "headline": "Magnificence beyond the Magnificent 7? Here&#x2019;s the next generation of AI winners powering the stock market.",
+      "url": "https://www.marketwatch.com/story/magnificence-beyond-the-magnificent-7-heres-the-next-generation-of-ai-winners-powering-the-stock-market-c87e9e66?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Wall Street&#x2019;s tech darlings are losing their shine in 2025, as a new class of large-cap companies &#x2014; particularly Broadcom, Oracle and Palantir &#x2014; is rewriting the S&P 500 leaderboard and powering the next phase of the AI boom.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-03T10:52:00.000Z",
+      "headline": "Why the silver squeeze is finally about to end, analyst says",
+      "url": "https://www.marketwatch.com/story/one-analyst-suggests-there-may-finally-be-a-cloud-to-silvers-lining-3f09ead8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A TD Securities analyst is warning that the squeeze in silver prices is reaching a crescendo.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-10-03T10:30:00.000Z",
       "headline": "These AI &#x2018;loser&#x2019; stocks were left for dead. Now it might be their turn to rally.",
       "url": "https://www.marketwatch.com/story/these-ai-loser-stocks-were-left-for-dead-now-it-might-be-their-turn-to-rally-f48eebca?mod=mw_rss_topstories",
@@ -35,18 +83,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "From Salesforce to Duolingo, some of the biggest AI losers of the year are quietly building powerful comeback stories. Here&#x2019;s why their stocks deserve a second look.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T10:11:00.000Z",
-      "headline": "One analyst suggests there may finally be a cloud to silver&#x2019;s lining",
-      "url": "https://www.marketwatch.com/story/one-analyst-suggests-there-may-finally-be-a-cloud-to-silvers-lining-3f09ead8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A TD Securities analyst is warning that the squeeze in silver prices is reaching a crescendo.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -87,31 +123,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-02T23:10:00.000Z",
-      "headline": "Tesla delivers a big sales beat, and the end of EV tax credits may not be the only reason",
-      "url": "https://www.marketwatch.com/story/tesla-delivers-a-big-sales-beat-and-the-end-of-ev-tax-credits-may-not-be-the-only-reason-cd701bac?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Tesla reported third-quarter deliveries that topped the highest analyst estimate, but the stock drops.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-02T23:07:00.000Z",
-      "headline": "Alphabet&#x2019;s stock is now beloved on Wall Street. Here&#x2019;s what matters next for Google.",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-is-now-beloved-on-wall-street-heres-what-matters-next-for-google-41b20848?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "How can Alphabet&#x2019;s stock build on its gains? By driving search and cloud momentum that sends earnings estimates higher, a Morgan Stanley analyst says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-30T20:30:00.000Z",
       "headline": "Federal Reserve Board modifies Morgan Stanley's stress capital buffer requirement, after the firm requested reconsideration",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm",
@@ -121,18 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-02T23:38:00.000Z",
-      "headline": "As Warren Buffett nears retirement, he&#x2019;s making his biggest purchase in years",
-      "url": "https://www.marketwatch.com/story/as-buffett-nears-retirement-hes-making-his-biggest-purchase-in-years-ef2cc42c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Warren Buffett&#x2019;s Berkshire Hathaway says it is acquiring a &#x201c;robust portfolio of operating assets&#x201d; in Occidental&#x2019;s OxyChem.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
