@@ -1,6 +1,66 @@
 {
-  "last_updated": "2025-10-03T23:23:49.000Z",
+  "last_updated": "2025-10-04T10:39:22.896Z",
   "items": [
+    {
+      "ts": "2025-10-04T10:35:00.000Z",
+      "headline": "This Wall Street skeptic has built a powerful portfolio to combat a weaker dollar and higher inflation",
+      "url": "https://www.marketwatch.com/story/how-this-paranoid-columnist-is-defending-his-money-against-a-weaker-dollar-and-higher-inflation-f2e469cf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "Charlie Garcia makes the case for precious metals, crypto and cash.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-04T10:28:00.000Z",
+      "headline": "The government shutdown axed the monthly jobs report &#x2014; but investors can tap these other key sources",
+      "url": "https://www.marketwatch.com/story/how-to-read-the-economy-during-a-government-shutdown-so-you-can-invest-wisely-46e54084?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "BLS employment data is the gold standard for labor market health &#x2014; but you can still make informed portfolio moves.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-04T09:41:00.000Z",
+      "headline": "&#x2018;We&#x2019;re in a market bubble&#x2019;: I&#x2019;m 62 and want to move my $200K IRA to a money-market account. Am I overreacting?",
+      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-03T18:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of proposal by BancFirst Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251003b.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of proposal by BancFirst Corporation",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-03T15:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251003a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-03T22:24:00.000Z",
       "headline": "Here&#x2019;s what&#x2019;s worth streaming in October 2025 on Netflix, Hulu, HBO Max and more",
@@ -11,30 +71,6 @@
         "ED"
       ],
       "summary_en": "The NBA takes a big leap into streaming, while viewers can cozy up to Netflix&#x2019;s &#x2018;Nobody Wants This&#x2019; or freak out to the Halloween horror of &#x2018;Monster: The Ed Gein Story&#x2019; and &#x2018;It: Welcome to Derry&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T21:36:00.000Z",
-      "headline": "The monthly BLS employment report is the gold standard. But investors have other options.",
-      "url": "https://www.marketwatch.com/story/how-to-read-the-economy-during-a-government-shutdown-so-you-can-invest-wisely-46e54084?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The government shutdown is clouding the market outlook &#x2014; but you can still make informed portfolio moves.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T21:20:00.000Z",
-      "headline": "How this Wall Street skeptic is investing to combat a weaker dollar and higher inflation",
-      "url": "https://www.marketwatch.com/story/how-this-paranoid-columnist-is-defending-his-money-against-a-weaker-dollar-and-higher-inflation-f2e469cf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "Charlie Garcia makes the case for precious metals, crypto and cash.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -86,15 +122,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-03T18:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of proposal by BancFirst Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251003b.htm",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-09-30T20:30:00.000Z",
+      "headline": "Federal Reserve Board modifies Morgan Stanley's stress capital buffer requirement, after the firm requested reconsideration",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces approval of proposal by BancFirst Corporation",
+      "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -110,18 +146,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-03T21:20:00.000Z",
-      "headline": "&#x2018;We&#x2019;re in a market bubble&#x2019;: I&#x2019;m 62 and want to move my $200K IRA to a money-market account. Am I overreacting?",
-      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-03T21:00:00.000Z",
       "headline": "&#x2018;I won&#x2019;t let the government walk all over me&#x2019;: The IRS says I owe $14,000 for not declaring my Social Security. What now?",
       "url": "https://www.marketwatch.com/story/i-wont-let-the-government-walk-all-over-me-the-irs-says-i-owe-14-000-for-not-declaring-my-social-security-what-now-d7ce487a?mod=mw_rss_topstories",
@@ -131,30 +155,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I will take the IRS to court, if I must.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T15:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251003a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T20:30:00.000Z",
-      "headline": "Federal Reserve Board modifies Morgan Stanley's stress capital buffer requirement, after the firm requested reconsideration",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
