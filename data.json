@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-10-04T10:39:22.896Z",
+  "last_updated": "2025-10-04T13:22:13.935Z",
   "items": [
+    {
+      "ts": "2025-10-04T12:00:00.000Z",
+      "headline": "Think AI is a bubble? Here&#x2019;s what you can do about it.",
+      "url": "https://www.marketwatch.com/story/think-ai-is-a-bubble-heres-what-you-can-do-about-it-2793426f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The &#x201c;easy money&#x201d; in the AI trade has already been made. These three strategies can help you protect your portfolio and reduce risk.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-04T10:57:00.000Z",
+      "headline": "This stock and bond strategy is so disliked &#x2014; and it&#x2019;s probably your best investment move for the next 10 years",
+      "url": "https://www.marketwatch.com/story/this-stock-and-bond-strategy-is-so-disliked-and-its-probably-your-best-investment-move-for-the-next-10-years-3759fdf2?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "In the past, when the market was overvalued as it is now, a 60/40 portfolio almost always beat the S&P 500 over the subsequent decade.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-04T10:44:00.000Z",
+      "headline": "Throwing money at our broken healthcare system won&#x2019;t fix it &#x2014; but this solution might",
+      "url": "https://www.marketwatch.com/story/if-healthcare-doesnt-heal-itself-soon-the-next-pandemic-could-break-the-system-174c85c9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Making hospitals more efficient brings cost savings &#x2014; but hospitals and Congress look the other way.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-04T10:35:00.000Z",
       "headline": "This Wall Street skeptic has built a powerful portfolio to combat a weaker dollar and higher inflation",
@@ -26,15 +62,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-04T09:41:00.000Z",
-      "headline": "&#x2018;We&#x2019;re in a market bubble&#x2019;: I&#x2019;m 62 and want to move my $200K IRA to a money-market account. Am I overreacting?",
-      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
+      "ts": "2025-10-04T13:00:00.000Z",
+      "headline": "&#x2018;He thinks nothing of spending $40K on a new car&#x2019;: My husband gives me the silent treatment. How can we agree on finances?",
+      "url": "https://www.marketwatch.com/story/he-thinks-nothing-of-spending-40k-on-a-new-car-my-husband-gives-me-the-silent-treatment-how-can-we-agree-on-finances-16a040e5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
+      "summary_en": "&#x201c;I&#x2019;m looking for a financial planner, marriage counselor and, possibly, a divorce attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-04T13:00:00.000Z",
+      "headline": "Are we in a recession? Yes &#x2014; if you live in one of these 22 states.",
+      "url": "https://www.marketwatch.com/story/are-we-in-a-reccession-yes-if-you-live-in-one-of-these-22-states-3947b4cd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The U.S. economy is very close to falling into a damaging contraction &#x2014; and many states are already in a recession, according to Mark Zandi, chief economist at Moody&#x2019;s Analytics.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-04T10:47:00.000Z",
+      "headline": "This investing pro says to tune out the market and focus on these stocks and bonds",
+      "url": "https://www.marketwatch.com/story/this-investing-pro-says-to-tune-out-the-market-and-focus-on-these-stocks-and-bonds-df9c5e35?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Here are four upbeat economic and market signals to lift you above the noise and confusion.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-04T11:02:00.000Z",
+      "headline": "How to make money from tax-loss selling between now and the end of the year",
+      "url": "https://www.marketwatch.com/story/how-to-make-money-from-tax-loss-selling-between-now-and-the-end-of-the-year-559edfab?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The biggest year-to-date losers will likely fall even more in coming weeks &#x2014; and become good bounce-back candidates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-04T10:41:00.000Z",
+      "headline": "I&#x2019;m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
+      "url": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;My monthly expenses are $6,500.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -62,66 +146,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-03T22:24:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in October 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-october-2025-on-netflix-hulu-hbo-max-and-more-6b2875b5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The NBA takes a big leap into streaming, while viewers can cozy up to Netflix&#x2019;s &#x2018;Nobody Wants This&#x2019; or freak out to the Halloween horror of &#x2018;Monster: The Ed Gein Story&#x2019; and &#x2018;It: Welcome to Derry&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T20:21:00.000Z",
-      "headline": "Does it seem like more restaurants are charging $100 per person? Chef Bobby Flay says the cost should be even higher.",
-      "url": "https://www.marketwatch.com/story/does-it-seem-like-more-restaurants-are-charging-100-per-person-chef-bobby-flay-says-the-cost-should-be-even-higher-63fb3aba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "The celebrity chef says restaurants have to be so expensive right now to survive: &#x2018;Most people are breaking even or less&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T20:16:00.000Z",
-      "headline": "I&#x2019;m 44. I have $400K in cash. I&#x2019;m worried about a stock-market crash. Do I dare invest?",
-      "url": "https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My rental properties generate passive income of $6,000 monthly after taxes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T20:16:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t come from money&#x2019;: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Having a large sum just sitting there freaks me out.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T20:02:00.000Z",
-      "headline": "The stock market&#x2019;s relentless march higher has fueled a record rush of bullish options trading",
-      "url": "https://www.marketwatch.com/story/the-stock-markets-relentless-march-higher-has-fueled-a-record-rush-of-bullish-options-trading-e0c77376?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S. stock market seems unstoppable right now, and options traders are betting that the good times will keep on rolling.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-30T20:30:00.000Z",
       "headline": "Federal Reserve Board modifies Morgan Stanley's stress capital buffer requirement, after the firm requested reconsideration",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm",
@@ -131,30 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T21:32:00.000Z",
-      "headline": "More famous than Warren Buffett in decades past, Peter Lynch of Fidelity says it&#x2019;s still all about investing in what you know",
-      "url": "https://www.marketwatch.com/story/more-famous-than-warren-buffett-in-decades-past-peter-lynch-of-fidelity-says-its-still-all-about-investing-in-what-you-know-808a7f8f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Former star fund manager Peter Lynch has a thing or two to share with investors. Firstly, know what you are investing in.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-03T21:00:00.000Z",
-      "headline": "&#x2018;I won&#x2019;t let the government walk all over me&#x2019;: The IRS says I owe $14,000 for not declaring my Social Security. What now?",
-      "url": "https://www.marketwatch.com/story/i-wont-let-the-government-walk-all-over-me-the-irs-says-i-owe-14-000-for-not-declaring-my-social-security-what-now-d7ce487a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I will take the IRS to court, if I must.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
