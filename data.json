@@ -1,6 +1,78 @@
 {
-  "last_updated": "2025-10-05T10:39:00.804Z",
+  "last_updated": "2025-10-05T13:23:11.508Z",
   "items": [
+    {
+      "ts": "2025-10-05T13:12:00.000Z",
+      "headline": "I&#x2019;m holding my $400K life savings in cash because I&#x2019;m worried about a stock-market crash. Do I dare invest?",
+      "url": "https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m 44. I have been retired for three years now.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-05T13:05:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t come from money&#x2019;: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Having a large sum just sitting there freaks me out.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-05T11:04:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t wish to be petty&#x2019;: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?",
+      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My share of the home alone would be valued at $300K per the trust. If she distributes the funds three ways, my share becomes $200K.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-05T11:03:00.000Z",
+      "headline": "&#x2018;We&#x2019;re in a market bubble based on AI exuberance&#x2019;: I&#x2019;m moving my $200K IRA to a money-market account. Is that wise?",
+      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-05T12:30:00.000Z",
+      "headline": "&#x2018;My monthly expenses are $6,500&#x2019;: I&#x2019;m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
+      "url": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I want to retire next year.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-05T11:03:00.000Z",
+      "headline": "&#x2018;He thinks nothing of spending $40K on a new car&#x2019;: My husband gives me the silent treatment. How can we agree on finances?",
+      "url": "https://www.marketwatch.com/story/he-thinks-nothing-of-spending-40k-on-a-new-car-my-husband-gives-me-the-silent-treatment-how-can-we-agree-on-finances-16a040e5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m looking for a financial planner, marriage counselor and, possibly, a divorce attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-03T18:45:00.000Z",
       "headline": "Federal Reserve Board announces approval of proposal by BancFirst Corporation",
@@ -50,30 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-04T15:00:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t come from money&#x2019;: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Having a large sum just sitting there freaks me out.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-04T14:40:00.000Z",
-      "headline": "Stocks and bitcoin are running on fumes and FOMO &#x2014; but here&#x2019;s how the market can steer clear of a selloff",
-      "url": "https://www.marketwatch.com/story/the-gold-market-is-rarely-wrong-why-stocks-and-bitcoin-are-in-a-danger-zone-2a13c688?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Trader Jeffrey Bierman says the market can stabilize if fund managers diversify into unloved, cheap sectors",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-30T20:30:00.000Z",
       "headline": "Federal Reserve Board modifies Morgan Stanley's stress capital buffer requirement, after the firm requested reconsideration",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm",
@@ -83,18 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-04T19:30:00.000Z",
-      "headline": "&#x2018;He thinks nothing of spending $40K on a new car&#x2019;: My husband gives me the silent treatment. How can we agree on finances?",
-      "url": "https://www.marketwatch.com/story/he-thinks-nothing-of-spending-40k-on-a-new-car-my-husband-gives-me-the-silent-treatment-how-can-we-agree-on-finances-16a040e5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m looking for a financial planner, marriage counselor and, possibly, a divorce attorney.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,42 +155,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;My husband jokes that he will never be able to retire because we do not own a home.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-04T17:45:00.000Z",
-      "headline": "I&#x2019;m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
-      "url": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My monthly expenses are $6,500.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-04T17:28:00.000Z",
-      "headline": "&#x2018;We&#x2019;re in a market bubble&#x2019;: I&#x2019;m 62 and want to move my $200K IRA to a money-market account. Am I overreacting?",
-      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-04T15:31:00.000Z",
-      "headline": "What to know about October&#x2019;s market-crash potential &#x2014; and what you can ignore",
-      "url": "https://www.marketwatch.com/story/october-is-typically-volatile-for-stocks-but-will-you-be-needing-a-seat-belt-or-a-crash-helmet-486f50af?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "What to know about October&#x2019;s market-crash potential &#x2014; and what you can ignore.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
