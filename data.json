@@ -1,9 +1,33 @@
 {
-  "last_updated": "2025-10-06T13:31:14.222Z",
+  "last_updated": "2025-10-06T23:24:58.885Z",
   "items": [
     {
-      "ts": "2025-10-06T12:33:00.000Z",
-      "headline": "AMD&#x2019;s stock soars 25%. Here&#x2019;s why OpenAI wants a stake.",
+      "ts": "2025-10-06T21:06:00.000Z",
+      "headline": "Constellation Brands&#x2019; results lift stock, but executives warn consumers remain &#x2018;depressed&#x2019;",
+      "url": "https://www.marketwatch.com/story/constellation-brands-results-lift-stock-but-executives-warn-consumers-remain-depressed-df834c81?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Constellation Brands Inc. rose after hours Monday after the beer and wine maker reported quarterly results that beat expectations and stuck with its full-year outlook.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-06T21:04:00.000Z",
+      "headline": "Oracle&#x2019;s stock surged on billions in new cloud contracts. Can it fund its AI promise?",
+      "url": "https://www.marketwatch.com/story/oracles-stock-surged-on-billions-in-new-cloud-contracts-can-it-fund-its-ai-promise-ba60a6c6?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Oracle&#x2019;s massive data-center buildout will require the company to take on new financing strategies &#x2014; and new risks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-06T20:37:00.000Z",
+      "headline": "AMD&#x2019;s stock soars to its best day in a year. Here&#x2019;s why OpenAI wants a stake.",
       "url": "https://www.marketwatch.com/story/amds-stock-soars-25-heres-why-openai-wants-a-stake-in-it-7958979b?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
@@ -15,112 +39,88 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-06T13:25:00.000Z",
-      "headline": "Verizon names a PayPal veteran its next CEO. Can that help its lagging stock?",
-      "url": "https://www.marketwatch.com/story/verizon-names-a-paypal-veteran-its-next-ceo-can-that-help-its-lagging-stock-c8de71df?mod=mw_rss_topstories",
+      "ts": "2025-10-06T21:32:00.000Z",
+      "headline": "Figma and these stocks are up after OpenAI showed AI might not eat software after all",
+      "url": "https://www.marketwatch.com/story/figma-and-these-stocks-are-up-after-openai-showed-ai-might-not-eat-software-after-all-c053bf2b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Verizon once was widely viewed as having the best wireless network, but that&#x2019;s now up in the air. New CEO Dan Schulman sees &#x201c;a clear opportunity to redefine our trajectory.&#x201d;",
+      "summary_en": "The AI startup launches a new feature to make apps, including Figma and Spotify, available in ChatGPT",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-06T13:24:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t wish to be petty&#x2019;: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?",
-      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories",
+      "ts": "2025-10-06T21:15:00.000Z",
+      "headline": "&#x2018;People need to be more concerned with outliving inflation than Social Security&#x2019;: I retired at 61, but went back to work. Was I right?",
+      "url": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;My share of the home alone would be valued at $300K per the trust. If she distributes the funds three ways, my share becomes $200K.&#x201d;",
+      "summary_en": "&#x201c;I am 66 and working full time. I&#x2019;d rather be retired.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-06T13:24:00.000Z",
-      "headline": "I&#x2019;m 58, divorced and will retire at 60 with $5,300 a month. Is now a good time to buy a house?",
-      "url": "https://www.marketwatch.com/story/im-58-divorced-and-will-retire-at-60-with-5-300-a-month-is-now-a-good-time-to-buy-a-house-845f27f6?mod=mw_rss_topstories",
+      "ts": "2025-10-06T22:06:00.000Z",
+      "headline": "AppLovin has been one of the year&#x2019;s hottest stocks. Here&#x2019;s why it&#x2019;s tumbling today.",
+      "url": "https://www.marketwatch.com/story/applovin-has-been-one-of-the-years-hottest-stocks-heres-why-its-tumbling-today-b39baf99?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Due to my two divorces, I had to leave the homes I bought and give up all the equity.&#x201d;",
+      "summary_en": "A report says the SEC is probing the app-monetization company&#x2019;s practices. AppLovin says it regularly engages with regulators and would disclose updates if any were material.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-06T12:26:00.000Z",
-      "headline": "Fifth Third paying $10.9 billion for Comerica as wave of bank mergers builds",
-      "url": "https://www.marketwatch.com/story/fifth-third-paying-10-9-billion-for-comerica-as-wave-of-bank-mergers-builds-4079bf46?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Fifth Third said combined company will operate in some of the fastest-growing areas of the country such as Texas.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-06T12:24:00.000Z",
-      "headline": "Micron&#x2019;s stock has doubled this year. Why Morgan Stanley is finally upgrading it.",
-      "url": "https://www.marketwatch.com/story/microns-stock-has-doubled-this-year-why-morgan-stanley-is-finally-upgrading-it-0f9dcd3a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "PG"
-      ],
-      "summary_en": "&#x201c;Better late than never,&#x201d; a Morgan Stanley analyst says as he cheers booming memory prices that could drive &#x201c;substantially higher earnings power&#x201d; for Micron.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-06T11:48:00.000Z",
-      "headline": "This AI skeptic got feedback from the industry &#x2014; and now he&#x2019;s even more pessimistic",
-      "url": "https://www.marketwatch.com/story/this-ai-skeptic-got-feedback-from-the-industry-and-now-hes-even-more-pessimistic-49284b40?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "What happens when an AI skeptic gets feedback from people in the industry? He gets even more bearish that the torrent of spending can be justified.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-06T12:38:00.000Z",
-      "headline": "Firefly is beefing up its national security story, and the stock is soaring",
-      "url": "https://www.marketwatch.com/story/firefly-is-beefing-up-its-national-security-story-and-the-stock-is-soaring-2675f448?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-10-06T20:33:00.000Z",
+      "headline": "Japan ETFs rally sharply as election of party leader Takaichi signals &#x2018;fiscal taps may stay open&#x2019;",
+      "url": "https://www.marketwatch.com/story/japan-etfs-rally-sharply-as-election-of-party-leader-takaichi-signals-fiscal-taps-may-stay-open-a92d6307?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Firefly&#x2019;s deal to acquire SciTech will bolster its efforts to support President Trump&#x2019;s &#x201c;Golden Dome&#x201d; missile-defense shield.",
+      "summary_en": "ETFs that buy Japanese stocks were rallying Monday, adding to their surge this year, after the weekend election of Sanae Takaichi to lead Japan&#x2019;s Liberal Democratic Party put her on track to become the country&#x2019;s next prime minister.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-06T12:30:00.000Z",
-      "headline": "Never mind France &#x2014; it&#x2019;s time to buy European stocks again, says JPMorgan",
-      "url": "https://www.marketwatch.com/story/never-mind-france-its-time-to-buy-european-stocks-again-says-jpmorgan-423f011f?mod=mw_rss_topstories",
+      "ts": "2025-10-06T21:03:00.000Z",
+      "headline": "Goodbye Zillow surfing? How megamergers in the real-estate industry could impact home buyers.",
+      "url": "https://www.marketwatch.com/story/goodbye-zillow-surfing-how-megamergers-in-the-real-estate-industry-could-impact-home-buyers-508e8669?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "JPMorgan books profits on Japan and recommends recycling those gains into Eurozone stocks.",
+      "summary_en": "Three years of terrible home sales have made the residential real-estate industry more territorial. That could be bad news for home buyers and sellers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-06T12:05:00.000Z",
-      "headline": "More famous than Warren Buffett in decades past, Peter Lynch of Fidelity says it&#x2019;s still all about investing in what you know",
-      "url": "https://www.marketwatch.com/story/more-famous-than-warren-buffett-in-decades-past-peter-lynch-of-fidelity-says-its-still-all-about-investing-in-what-you-know-808a7f8f?mod=mw_rss_topstories",
+      "ts": "2025-10-06T20:45:00.000Z",
+      "headline": "&#x2018;My monthly expenses are $6,500&#x2019;: I&#x2019;m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
+      "url": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "You should be able to explain in a minute or less &#x2014; even to an 11-year-old &#x2014; why you own shares in a company, he says.",
+      "summary_en": "&#x201c;I want to retire next year.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-06T20:35:00.000Z",
+      "headline": "Gen X is about to face the biggest Social Security decision &#x2014; and a lot of money is on the line",
+      "url": "https://www.marketwatch.com/story/generation-x-is-about-to-face-the-biggest-social-security-decision-and-tens-of-thousands-of-dollars-are-at-stake-for-each-person-9793bb77?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A new book, &#x201c;Retirement Bites,&#x201d; aims to school this age group about major decisions that lie ahead.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
