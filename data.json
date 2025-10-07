@@ -1,125 +1,126 @@
 {
-  "last_updated": "2025-10-07T13:31:24.489Z",
+  "last_updated": "2025-10-07T23:24:36.848Z",
   "items": [
     {
-      "ts": "2025-10-07T13:23:00.000Z",
-      "headline": "Billionaire Ken Griffin warns on consequences of gold&#x2019;s rally as Goldman targets nearly $5,000",
-      "url": "https://www.marketwatch.com/story/billionaire-ken-griffin-warns-on-golds-rally-as-goldman-targets-nearly-5-000-857edd74?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "Goldman Sachs is now forecasting gold to reach nearly $5,000 next year, but one billionaire investor says the precious metal&#x2019;s rally is a sign of trouble for U.S. assets.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-07T13:12:00.000Z",
-      "headline": "NYSE owner dives into prediction markets with $2 billion Polymarket investment",
-      "url": "https://www.marketwatch.com/story/nyse-owner-dives-into-prediction-markets-with-2-billion-polymarket-investment-db34302b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Intercontinental Exchange to invest up to $2 billion in Polymarket, the prediction-market company founded by Shayne Coplan.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-07T12:58:00.000Z",
-      "headline": "Carlyle, Bank of America use their own data to say U.S. jobs growth has slowed to trickle",
-      "url": "https://www.marketwatch.com/story/carlyle-bank-of-america-are-latest-to-use-their-own-data-to-say-u-s-jobs-growth-has-slowed-to-trickle-9e05623f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Carlyle&#x2019;s estimate comes in the middle of other numbers being released in an attempt to fill a gap left due to the government shutdown.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-07T11:35:00.000Z",
-      "headline": "Why China&#x2019;s &#x2018;slow&#x2019; bull market could turn into a stampede, according to strategist",
-      "url": "https://www.marketwatch.com/story/why-chinas-slow-bull-market-could-turn-into-a-stampede-according-to-strategist-ab1c9832?mod=mw_rss_topstories",
+      "ts": "2025-10-07T22:48:00.000Z",
+      "headline": "AMD gets upgrade after stock&#x2019;s 24% one-day surge. &#x2018;We rarely do this,&#x2019; says chagrined analyst.",
+      "url": "https://www.marketwatch.com/story/amd-gets-upgrade-after-24-surge-we-rarely-do-this-says-chagrinned-analyst-565f3cdf?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "ED"
+        "AMD",
+        "ED",
+        "PG"
       ],
-      "summary_en": "The steady but strong gains for Chinese stocks since it announced stimulus last year may soon lead to an acceleration, one strategist argues.",
+      "summary_en": "It&#x2019;s likely the first of many &#x2014; analysts at Jefferies upgraded Advanced Micro Devices to a buy, after the chipmaker&#x2019;s stock surged on a pact with ChatGPT maker OpenAI.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T12:04:00.000Z",
-      "headline": "Gold&#x2019;s rallying on borrowed time. That could mean contrarians get the last laugh.",
-      "url": "https://www.marketwatch.com/story/golds-rallying-on-borrowed-time-that-could-mean-contrarians-get-the-last-laugh-b70ae360?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "The metal can&#x2019;t rise forever in the face of all this exuberance.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-07T11:30:00.000Z",
-      "headline": "How Verizon frightened wireless investors with these four words",
-      "url": "https://www.marketwatch.com/story/how-verizon-frightened-wireless-investors-with-these-four-words-6fdbf0b9?mod=mw_rss_topstories",
+      "ts": "2025-10-07T22:52:00.000Z",
+      "headline": "How Corona seized on a spring-break trend to win back Gen Z beer drinkers",
+      "url": "https://www.marketwatch.com/story/how-corona-seized-on-a-spring-break-trend-to-win-back-gen-z-beer-drinkers-05841c40?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Verizon&#x2019;s new CEO says the company will be focused on &#x201c;growing our market share.&#x201d; Investors seem to think it&#x2019;s better for all if Verizon keeps losing ground.",
+      "summary_en": "Constellation Brands is having success with younger legal-age drinkers with Corona Sunbrew Citrus Cerveza, the top new beer brand.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T11:05:00.000Z",
-      "headline": "The Fed is divided on how fast to cut rates. The recap of its last big meeting may give us the inside scoop.",
-      "url": "https://www.marketwatch.com/story/the-fed-is-divided-on-how-fast-to-cut-rates-the-recap-of-its-last-big-meeting-may-give-us-the-inside-scoop-d095b766?mod=mw_rss_topstories",
+      "ts": "2025-10-07T22:45:00.000Z",
+      "headline": "Is Netflix&#x2019;s stock ready to catch up to its business momentum? This analyst thinks so.",
+      "url": "https://www.marketwatch.com/story/is-netflixs-momentum-moving-faster-than-its-stock-price-this-analyst-thinks-so-45fa58d1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Federal Reserve is a house divided on how aggressively to cut interest rates &#x2014; and a fresh recap of their last meeting could give Wall Street more clues on just how divided they are.",
+      "summary_en": "Seaport Research Partners believes Netflix is set to unleash huge growth through the development of its ad-supported subscription tier.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T12:23:00.000Z",
-      "headline": "IBM gets in on the AI-deal action with Anthropic partnership, and its stock is rising",
-      "url": "https://www.marketwatch.com/story/ibm-gets-in-on-the-ai-deal-action-with-anthropic-partnership-and-its-stock-is-rising-98aacc11?mod=mw_rss_topstories",
+      "ts": "2025-10-07T21:31:00.000Z",
+      "headline": "Furloughed by the government shutdown? Take these 4 steps to protect your financial future.",
+      "url": "https://www.marketwatch.com/story/furloughed-by-the-government-shutdown-take-these-4-steps-to-protect-your-financial-future-7eda150c?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As the government shutdown drags on, hundreds of thousands of federal workers are bracing for their first missed paycheck on Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-07T22:00:00.000Z",
+      "headline": "I&#x2019;m 58, divorced and will retire at 60 with $5,300 a month. Is now a good time to buy a house?",
+      "url": "https://www.marketwatch.com/story/im-58-divorced-and-will-retire-at-60-with-5-300-a-month-is-now-a-good-time-to-buy-a-house-845f27f6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Due to my two divorces, I had to leave the homes I bought and give up all the equity.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-07T22:00:00.000Z",
+      "headline": "My mother has dementia. If I put her into a facility without a conservatorship, would that be considered kidnapping?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-07T21:30:00.000Z",
+      "headline": "&#x2018;Be more concerned with outliving inflation than Social Security&#x2019;: I went back to work at 61. I&#x2019;m now 66. Was I right?",
+      "url": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I live frugally. I&#x2019;ve owned my home free and clear since 2008.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-07T21:55:00.000Z",
+      "headline": "Why two Rust Belt towns have the fastest-growing home prices in the U.S.",
+      "url": "https://www.marketwatch.com/story/why-two-rust-belt-towns-have-the-fastest-growing-home-prices-in-the-u-s-9886626f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The partnership integrates Anthropic&#x2019;s Claude into enterprise products and development tools to drive productivity gains",
+      "summary_en": "Two Northeastern U.S. cities saw the sharpest growth in home prices in September, according to Intercontinental Exchange.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T11:42:00.000Z",
-      "headline": "Here&#x2019;s how much shorter your life is if you&#x2019;re poor in America",
-      "url": "https://www.marketwatch.com/story/heres-how-much-shorter-your-life-is-if-youre-poor-in-america-4efe3b27?mod=mw_rss_topstories",
+      "ts": "2025-10-07T21:48:00.000Z",
+      "headline": "How this Middle East oil giant got a nuclear big brother &#x2014; and why your portfolio will feel the heat",
+      "url": "https://www.marketwatch.com/story/this-middle-east-oil-giant-just-got-a-nuclear-big-brother-and-your-portfolio-will-feel-the-heat-480d995a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Older adults with the fewest financial resources die much earlier than those with more wealth.",
+      "summary_en": "Middle East oil giant just got a nuclear big brother &#x2014; and your portfolio will feel the heat.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T11:15:00.000Z",
-      "headline": "&#x2018;My monthly expenses are $6,500&#x2019;: I&#x2019;m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
-      "url": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
+      "ts": "2025-10-07T20:48:00.000Z",
+      "headline": "I&#x2019;m 66. My mortgage is $250K and the rate is 3.4%. Would it be foolish to pay it off from my $770K investments?",
+      "url": "https://www.marketwatch.com/story/im-66-my-mortgage-is-250k-and-the-rate-is-3-4-would-it-be-foolish-to-pay-it-off-from-my-770k-investments-7868c918?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I want to retire next year.&#x201d;",
+      "summary_en": "&#x201c;I don&#x2019;t plan on taking Social Security until 70 and I will have one other small pension.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +145,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-09-30T20:30:00.000Z",
-      "headline": "Federal Reserve Board modifies Morgan Stanley's stress capital buffer requirement, after the firm requested reconsideration",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
