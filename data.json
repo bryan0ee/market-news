@@ -1,83 +1,105 @@
 {
-  "last_updated": "2025-10-07T10:42:37.645Z",
+  "last_updated": "2025-10-07T13:31:24.489Z",
   "items": [
     {
-      "ts": "2025-10-07T10:36:00.000Z",
-      "headline": "My mother has dementia. If I force her into memory care without a conservatorship, would that be considered kidnapping?",
-      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "ts": "2025-10-07T13:23:00.000Z",
+      "headline": "Billionaire Ken Griffin warns on consequences of gold&#x2019;s rally as Goldman targets nearly $5,000",
+      "url": "https://www.marketwatch.com/story/billionaire-ken-griffin-warns-on-golds-rally-as-goldman-targets-nearly-5-000-857edd74?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "Goldman Sachs is now forecasting gold to reach nearly $5,000 next year, but one billionaire investor says the precious metal&#x2019;s rally is a sign of trouble for U.S. assets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-07T13:12:00.000Z",
+      "headline": "NYSE owner dives into prediction markets with $2 billion Polymarket investment",
+      "url": "https://www.marketwatch.com/story/nyse-owner-dives-into-prediction-markets-with-2-billion-polymarket-investment-db34302b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "summary_en": "Intercontinental Exchange to invest up to $2 billion in Polymarket, the prediction-market company founded by Shayne Coplan.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T10:15:00.000Z",
-      "headline": "I&#x2019;m 58, divorced and will retire at 60 with $5,300 a month. Is now a good time to buy a house?",
-      "url": "https://www.marketwatch.com/story/im-58-divorced-and-will-retire-at-60-with-5-300-a-month-is-now-a-good-time-to-buy-a-house-845f27f6?mod=mw_rss_topstories",
+      "ts": "2025-10-07T12:58:00.000Z",
+      "headline": "Carlyle, Bank of America use their own data to say U.S. jobs growth has slowed to trickle",
+      "url": "https://www.marketwatch.com/story/carlyle-bank-of-america-are-latest-to-use-their-own-data-to-say-u-s-jobs-growth-has-slowed-to-trickle-9e05623f?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Due to my two divorces, I had to leave the homes I bought and give up all the equity.&#x201d;",
+      "summary_en": "Carlyle&#x2019;s estimate comes in the middle of other numbers being released in an attempt to fill a gap left due to the government shutdown.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T08:41:00.000Z",
-      "headline": "AMD gets upgrade after 24% surge. &#x2018;We rarely do this,&#x2019; says chagrinned analyst",
-      "url": "https://www.marketwatch.com/story/amd-gets-upgrade-after-24-surge-we-rarely-do-this-says-chagrinned-analyst-565f3cdf?mod=mw_rss_topstories",
+      "ts": "2025-10-07T11:35:00.000Z",
+      "headline": "Why China&#x2019;s &#x2018;slow&#x2019; bull market could turn into a stampede, according to strategist",
+      "url": "https://www.marketwatch.com/story/why-chinas-slow-bull-market-could-turn-into-a-stampede-according-to-strategist-ab1c9832?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "AMD",
-        "ED",
-        "PG"
-      ],
-      "summary_en": "It&#x2019;s likely the first of many &#x2014; analysts at Jefferies upgraded Advanced Micro Devices to a buy, after the chipmaker&#x2019;s stock surged on a pact with ChatGPT maker OpenAI.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-07T09:06:00.000Z",
-      "headline": "NBA&#x2019;s Michael Porter Jr. lists Denver high-rise home for $5.25 million",
-      "url": "https://www.marketwatch.com/story/nbas-michael-porter-jr-lists-denver-high-rise-home-for-5-25-million-7eb99e88?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
         "ED"
       ],
-      "summary_en": "NBA star Michael Porter Jr. is getting set to sever his ties to Denver by listing his opulent apartment for $5.25 million&#x2014;3 months after he was traded to the Brooklyn Nets.",
+      "summary_en": "The steady but strong gains for Chinese stocks since it announced stimulus last year may soon lead to an acceleration, one strategist argues.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T09:06:00.000Z",
-      "headline": "The U.S. just took a stake in another resources company &#x2014; and the stock is tripling",
-      "url": "https://www.marketwatch.com/story/the-u-s-just-took-a-stake-in-another-resources-company-and-the-stock-is-tripling-63e32269?mod=mw_rss_topstories",
+      "ts": "2025-10-07T12:04:00.000Z",
+      "headline": "Gold&#x2019;s rallying on borrowed time. That could mean contrarians get the last laugh.",
+      "url": "https://www.marketwatch.com/story/golds-rallying-on-borrowed-time-that-could-mean-contrarians-get-the-last-laugh-b70ae360?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "META",
         "ED"
       ],
-      "summary_en": "Trilogy Metals shares tripled in premarket trade on Tuesday as the U.S. government took a 10% stake in a company exploring in Alaska for copper and other metals.",
+      "summary_en": "The metal can&#x2019;t rise forever in the face of all this exuberance.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T09:01:00.000Z",
-      "headline": "Rapper A$AP Rocky sold his $4 million L.A. mansion in off-market deal months before Rihanna gave birth",
-      "url": "https://www.marketwatch.com/story/rapper-a-ap-rocky-sold-his-4-million-l-a-mansion-in-off-market-deal-months-before-rihanna-gave-birth-d2eb69a9?mod=mw_rss_topstories",
+      "ts": "2025-10-07T11:30:00.000Z",
+      "headline": "How Verizon frightened wireless investors with these four words",
+      "url": "https://www.marketwatch.com/story/how-verizon-frightened-wireless-investors-with-these-four-words-6fdbf0b9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Days before A$AP Rocky&#x2019;s longtime partner Rihanna debuted her baby bump on the red carpet in May, the rapper quietly sold his L.A. home.",
+      "summary_en": "Verizon&#x2019;s new CEO says the company will be focused on &#x201c;growing our market share.&#x201d; Investors seem to think it&#x2019;s better for all if Verizon keeps losing ground.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T05:00:00.000Z",
+      "ts": "2025-10-07T11:05:00.000Z",
+      "headline": "The Fed is divided on how fast to cut rates. The recap of its last big meeting may give us the inside scoop.",
+      "url": "https://www.marketwatch.com/story/the-fed-is-divided-on-how-fast-to-cut-rates-the-recap-of-its-last-big-meeting-may-give-us-the-inside-scoop-d095b766?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Federal Reserve is a house divided on how aggressively to cut interest rates &#x2014; and a fresh recap of their last meeting could give Wall Street more clues on just how divided they are.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-07T12:23:00.000Z",
+      "headline": "IBM gets in on the AI-deal action with Anthropic partnership, and its stock is rising",
+      "url": "https://www.marketwatch.com/story/ibm-gets-in-on-the-ai-deal-action-with-anthropic-partnership-and-its-stock-is-rising-98aacc11?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The partnership integrates Anthropic&#x2019;s Claude into enterprise products and development tools to drive productivity gains",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-07T11:42:00.000Z",
       "headline": "Here&#x2019;s how much shorter your life is if you&#x2019;re poor in America",
       "url": "https://www.marketwatch.com/story/heres-how-much-shorter-your-life-is-if-youre-poor-in-america-4efe3b27?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -89,15 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T00:38:00.000Z",
-      "headline": "Constellation Brands&#x2019; results lift stock, but executives warn consumers remain &#x2018;depressed&#x2019;",
-      "url": "https://www.marketwatch.com/story/constellation-brands-results-lift-stock-but-executives-warn-consumers-remain-depressed-df834c81?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-10-07T11:15:00.000Z",
+      "headline": "&#x2018;My monthly expenses are $6,500&#x2019;: I&#x2019;m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
+      "url": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Shares of Constellation Brands Inc. rose after hours Monday after the beer and wine maker reported quarterly results that beat expectations and stuck with its full-year outlook.",
+      "summary_en": "&#x201c;I want to retire next year.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -125,18 +147,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-07T02:21:00.000Z",
-      "headline": "Goodbye Zillow surfing? How megamergers in the real-estate industry could impact home buyers.",
-      "url": "https://www.marketwatch.com/story/goodbye-zillow-surfing-how-megamergers-in-the-real-estate-industry-could-impact-home-buyers-508e8669?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Three years of terrible home sales have made the residential real-estate industry more territorial. That could be bad news for home buyers and sellers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-09-30T20:30:00.000Z",
       "headline": "Federal Reserve Board modifies Morgan Stanley's stress capital buffer requirement, after the firm requested reconsideration",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm",
@@ -146,18 +156,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board modifies Morgan Stanley&#39;s stress capital buffer requirement, after the firm requested reconsideration",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-07T00:39:00.000Z",
-      "headline": "AppLovin has been one of the year&#x2019;s hottest stocks. Here&#x2019;s why it&#x2019;s tumbling today.",
-      "url": "https://www.marketwatch.com/story/applovin-has-been-one-of-the-years-hottest-stocks-heres-why-its-tumbling-today-b39baf99?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A report says the SEC is probing the app-monetization company&#x2019;s practices. AppLovin says it regularly engages with regulators and would disclose updates if any were material.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
