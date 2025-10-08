@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-10-08T13:31:38.976Z",
+  "last_updated": "2025-10-08T23:24:48.297Z",
   "items": [
     {
-      "ts": "2025-10-08T13:30:00.000Z",
-      "headline": "I&#x2019;m 70 and have Alzheimer&#x2019;s. My son&#x2019;s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
-      "url": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
+      "ts": "2025-10-08T22:50:00.000Z",
+      "headline": "Inflation angst lingers for investors even as Treasury yields are little moved by Fed minutes",
+      "url": "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I contacted the credit-card company, but was advised they could not reimburse me for the theft.&#x201d;",
+      "summary_en": "Inflation worries are lingering on the minds of investors, even if Treasury yields were little changed Wednesday by the release of minutes of the Federal Reserve&#x2019;s last policy meeting.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T13:26:00.000Z",
+      "ts": "2025-10-08T22:24:00.000Z",
       "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
       "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,81 +26,70 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T13:24:00.000Z",
-      "headline": "Intel&#x2019;s explosive stock gains this year are unsustainable, a new bear warns",
-      "url": "https://www.marketwatch.com/story/intels-explosive-stock-gains-this-year-are-unsustainable-a-new-bear-warns-e822077c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "HSBC sees 35% downside potential for Intel&#x2019;s stock, cautioning that the company would need a technology deal with TSMC to spark a true turnaround&#xa0;&#x2014; and that looks unlikely.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-08T13:04:00.000Z",
-      "headline": "Equifax&#x2019;s credit-score pricing counterpunch draws praise for potential profit boost",
-      "url": "https://www.marketwatch.com/story/equifaxs-credit-score-pricing-counterpunch-draws-praise-for-potential-profit-boost-cb392e35?mod=mw_rss_topstories",
+      "ts": "2025-10-08T22:21:00.000Z",
+      "headline": "Be ready with these portfolio changes if the shutdown damages the Fed&#x2019;s credibility",
+      "url": "https://www.marketwatch.com/story/be-ready-with-these-portfolio-changes-if-the-shutdown-damages-the-feds-credibility-e1944b57?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Equifax could realize $100 million of profit if mortgage activity remains at 2025 levels, or even up to $200 million if mortgages recover.",
+      "summary_en": "The Fed is making decisions without actual data &#x2014; but investors are still banking on rate cuts.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T11:46:00.000Z",
-      "headline": "I&#x2019;m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
-      "url": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
+      "ts": "2025-10-08T21:58:00.000Z",
+      "headline": "Costco stock runs higher after yet another monthly sales gain, helped by digital demand",
+      "url": "https://www.marketwatch.com/story/costco-sales-run-higher-after-yet-another-monthly-sales-gain-helped-by-digital-demand-2b908a7e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "&#x201c;My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.&#x201d;",
+      "summary_en": "Costco Wholesale Corp. on Wednesday said it notched an 8% year-over-year sales gain through last month, continuing its streak of sales gains and easing Wall Street&#x2019;s concerns about future growth.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T11:21:00.000Z",
-      "headline": "Inflation was eating me alive in retirement, so I went back to work. I&#x2019;m now 66. Was I right?",
-      "url": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
+      "ts": "2025-10-08T21:23:00.000Z",
+      "headline": "Higher costs, smaller dogs and more cat adoptions are all hitting Freshpet&#x2019;s sales, analysts say",
+      "url": "https://www.marketwatch.com/story/higher-costs-smaller-dogs-and-more-cat-adoptions-are-all-hitting-freshpets-sales-analysts-say-9066a8e9?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "&#x201c;Be more concerned with outliving inflation than Social Security.&#x201d;",
+      "summary_en": "Higher costs of living, slowing pet adoptions and a preference toward cats and smaller dogs have kept high-end pet-food maker Freshpet Inc. in the doghouse, BofA analysts said Wednesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T13:23:00.000Z",
-      "headline": "Goldman Sachs on the one thing that could turn the rally into a bubble",
-      "url": "https://www.marketwatch.com/story/heres-whats-keeping-goldmans-worries-over-a-stock-bubble-at-bay-for-now-a7a219c5?mod=mw_rss_topstories",
+      "ts": "2025-10-08T21:15:00.000Z",
+      "headline": "AMD&#x2019;s stock builds on its historic rally as the AI trade heats up again",
+      "url": "https://www.marketwatch.com/story/amds-stock-builds-on-its-historic-rally-as-the-ai-trade-heats-up-again-a956f050?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD"
+      ],
+      "summary_en": "AMD&#x2019;s stock is enjoying its best three-day run since 2016, and one analyst sees a nice path ahead.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-08T22:25:00.000Z",
+      "headline": "Can you be a DIY investor after you retire? Yes &#x2014; and here&#x2019;s what it takes.",
+      "url": "https://www.marketwatch.com/story/can-you-be-a-diy-investor-after-you-retire-yes-and-heres-what-it-takes-8717028a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Goldman Sachs strategists have taken a deep dive into current stock bubble worries for investors. They argue the puzzle pieces aren&#x2019;t in place yet.",
+      "summary_en": "If you have time, desire, and money smarts, dumping a financial adviser can make sense.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T12:45:00.000Z",
-      "headline": "Why two Rust Belt towns have the fastest-growing home prices in the U.S.",
-      "url": "https://www.marketwatch.com/story/why-two-rust-belt-towns-have-the-fastest-growing-home-prices-in-the-u-s-9886626f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "These former manufacturing hubs in eastern Pennsylvania and upstate New York saw the sharpest growth in home prices in September, according to Intercontinental Exchange.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-08T12:36:00.000Z",
-      "headline": "This &#x2018;boring&#x2019; stock and bond portfolio won&#x2019;t give you bragging rights &#x2014; but it does make you money",
+      "ts": "2025-10-08T22:22:00.000Z",
+      "headline": "This stock and bond portfolio won&#x2019;t give you bragging rights &#x2014; but it does make you money",
       "url": "https://www.marketwatch.com/story/this-boring-stock-and-bond-portfolio-wont-give-you-bragging-rights-but-it-does-make-you-money-0e2a82ef?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -111,15 +100,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T12:05:00.000Z",
-      "headline": "Can you be a DIY investor after you retire? Yes &#x2014; and here&#x2019;s what it takes.",
-      "url": "https://www.marketwatch.com/story/can-you-be-a-diy-investor-after-you-retire-yes-and-heres-what-it-takes-8717028a?mod=mw_rss_topstories",
+      "ts": "2025-10-08T21:26:00.000Z",
+      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "If you have time, desire, and money smarts, dumping a financial adviser can make sense.",
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-08T21:22:00.000Z",
+      "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
+      "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-08T18:00:00.000Z",
+      "headline": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +157,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Huntington Bancshares Incorporated",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-01T14:00:00.000Z",
-      "headline": "Agencies issue reminder to institutions on lending when the National Flood Insurance Program is unavailable",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251001a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Agencies issue reminder to institutions on lending when the National Flood Insurance Program is unavailable",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
