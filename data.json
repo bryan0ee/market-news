@@ -1,126 +1,125 @@
 {
-  "last_updated": "2025-10-08T10:43:06.302Z",
+  "last_updated": "2025-10-08T13:31:38.976Z",
   "items": [
     {
-      "ts": "2025-10-08T08:35:00.000Z",
-      "headline": "BMW shares skid on profit warning. The German experience in China keeps getting worse.",
-      "url": "https://www.marketwatch.com/story/bmw-shares-skid-on-profit-warning-the-german-experience-in-china-keeps-getting-worse-30d524f6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "BMW shares slumped on Tuesday, falling 7%, after the German automaker said volumes in China were below expectations and that the U.S.-European Union tariff agreement has yet to materialize..",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-08T09:27:00.000Z",
-      "headline": "Greece completes its comeback, reclaiming its position among the developed markets",
-      "url": "https://www.marketwatch.com/story/greece-completes-its-comeback-reclaiming-its-position-among-the-developed-markets-53d425eb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "PG"
-      ],
-      "summary_en": "Greece&#x2019;s upgrade back to developed-market status, by the global index provider FTSE Russell, represents an undeniable triumph for a country that barely a decade ago was in the midst of a sovereign default.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-08T09:02:00.000Z",
-      "headline": "Hollywood Hills home once owned by Kanye West hits the market for $4 million",
-      "url": "https://www.marketwatch.com/story/hollywood-hills-home-once-owned-by-kanye-west-hits-the-market-for-4-million-8ec10afc?mod=mw_rss_topstories",
+      "ts": "2025-10-08T13:30:00.000Z",
+      "headline": "I&#x2019;m 70 and have Alzheimer&#x2019;s. My son&#x2019;s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
+      "url": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Three of West&#x2019;s former homes are currently on the market, including this one, where he once had a Sistine Chapel-style mural of himself painted on the dining room ceiling.",
+      "summary_en": "&#x201c;I contacted the credit-card company, but was advised they could not reimburse me for the theft.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T08:58:00.000Z",
-      "headline": "Actress Sydney Sweeney eyes a $15 million retro &#x2018;time warp&#x2019; mansion in L.A.",
-      "url": "https://www.marketwatch.com/story/actress-sydney-sweeney-eyes-a-15-million-retro-time-warp-mansion-in-l-a-1ad55b8c?mod=mw_rss_topstories",
+      "ts": "2025-10-08T13:26:00.000Z",
+      "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Sydney Sweeney&#xa0;may have set her sights on a unique $15 million&#xa0;L.A.&#xa0;home that has played host to &#x201c;royalty, presidents, politicians, and notables for decades.&#x201d;",
+      "summary_en": "&#x201c;My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T07:50:00.000Z",
-      "headline": "SoftBank to pay $5.4 billion for robotics producer, one of four areas it&#x2019;s investing to realize &#x2018;artificial super intelligence.&#x2019;",
-      "url": "https://www.marketwatch.com/story/softbank-to-pay-5-4-billion-for-robotics-producer-one-of-four-areas-its-investing-to-realize-artificial-super-intelligence-df5b737b?mod=mw_rss_topstories",
+      "ts": "2025-10-08T13:24:00.000Z",
+      "headline": "Intel&#x2019;s explosive stock gains this year are unsustainable, a new bear warns",
+      "url": "https://www.marketwatch.com/story/intels-explosive-stock-gains-this-year-are-unsustainable-a-new-bear-warns-e822077c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "Japanese investment group SoftBank said it&#x2019;s paying $5.3 billion for the robotics division of Swiss-Swedish engineering company ABB to advance a bet on what it calls artificial super intelligence.",
+      "summary_en": "HSBC sees 35% downside potential for Intel&#x2019;s stock, cautioning that the company would need a technology deal with TSMC to spark a true turnaround&#xa0;&#x2014; and that looks unlikely.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T10:00:00.000Z",
-      "headline": "U.S. airlines are having a good year getting people to their destinations on time. But here comes the shutdown.",
-      "url": "https://www.marketwatch.com/story/u-s-airlines-are-having-a-good-year-getting-people-to-their-destinations-on-time-but-here-comes-the-shutdown-cde442b8?mod=mw_rss_topstories",
+      "ts": "2025-10-08T13:04:00.000Z",
+      "headline": "Equifax&#x2019;s credit-score pricing counterpunch draws praise for potential profit boost",
+      "url": "https://www.marketwatch.com/story/equifaxs-credit-score-pricing-counterpunch-draws-praise-for-potential-profit-boost-cb392e35?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Equifax could realize $100 million of profit if mortgage activity remains at 2025 levels, or even up to $200 million if mortgages recover.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-08T11:46:00.000Z",
+      "headline": "I&#x2019;m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
+      "url": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-08T11:21:00.000Z",
+      "headline": "Inflation was eating me alive in retirement, so I went back to work. I&#x2019;m now 66. Was I right?",
+      "url": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Be more concerned with outliving inflation than Social Security.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-08T13:23:00.000Z",
+      "headline": "Goldman Sachs on the one thing that could turn the rally into a bubble",
+      "url": "https://www.marketwatch.com/story/heres-whats-keeping-goldmans-worries-over-a-stock-bubble-at-bay-for-now-a7a219c5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The government shutdown is a new obstacle in U.S. airlines&#x2019; quest to improve on-time performance.",
+      "summary_en": "Goldman Sachs strategists have taken a deep dive into current stock bubble worries for investors. They argue the puzzle pieces aren&#x2019;t in place yet.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T09:15:00.000Z",
-      "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
-      "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
+      "ts": "2025-10-08T12:45:00.000Z",
+      "headline": "Why two Rust Belt towns have the fastest-growing home prices in the U.S.",
+      "url": "https://www.marketwatch.com/story/why-two-rust-belt-towns-have-the-fastest-growing-home-prices-in-the-u-s-9886626f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
+      "summary_en": "These former manufacturing hubs in eastern Pennsylvania and upstate New York saw the sharpest growth in home prices in September, according to Intercontinental Exchange.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T02:48:00.000Z",
-      "headline": "Elon Musk&#x2019;s xAI may be the next AI company to do a creative financing deal involving Nvidia",
-      "url": "https://www.marketwatch.com/story/elon-musks-xai-may-be-the-next-ai-company-to-do-a-creative-financing-deal-involving-nvidia-2d2705c0?mod=mw_rss_topstories",
+      "ts": "2025-10-08T12:36:00.000Z",
+      "headline": "This &#x2018;boring&#x2019; stock and bond portfolio won&#x2019;t give you bragging rights &#x2014; but it does make you money",
+      "url": "https://www.marketwatch.com/story/this-boring-stock-and-bond-portfolio-wont-give-you-bragging-rights-but-it-does-make-you-money-0e2a82ef?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "xAI reportedly is looking to raise $20 billion &#x2014; with Nvidia as one of the investors.",
+      "summary_en": "There&#x2019;s a surprisingly good long-term performance of a traditional blend of 60% stocks and 40% bonds.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-08T02:31:00.000Z",
-      "headline": "Is Netflix&#x2019;s stock ready to catch up to its business momentum? This analyst thinks so.",
-      "url": "https://www.marketwatch.com/story/is-netflixs-momentum-moving-faster-than-its-stock-price-this-analyst-thinks-so-45fa58d1?mod=mw_rss_topstories",
+      "ts": "2025-10-08T12:05:00.000Z",
+      "headline": "Can you be a DIY investor after you retire? Yes &#x2014; and here&#x2019;s what it takes.",
+      "url": "https://www.marketwatch.com/story/can-you-be-a-diy-investor-after-you-retire-yes-and-heres-what-it-takes-8717028a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Seaport Research Partners believes Netflix is set to unleash huge growth through the development of its ad-supported subscription tier.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-08T00:31:00.000Z",
-      "headline": "Tesla just unveiled a cheaper Model Y and Model 3. Why the stock is falling.",
-      "url": "https://www.marketwatch.com/story/tesla-just-unveiled-a-cheaper-model-y-and-model-3-why-the-stock-is-falling-fb2287c9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Newly announced trims still hover closer to $40,000 than $30,000 &#x2014; a price that many investors view as putting the vehicle within mass-market reach.",
+      "summary_en": "If you have time, desire, and money smarts, dumping a financial adviser can make sense.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
