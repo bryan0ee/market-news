@@ -1,93 +1,8 @@
 {
-  "last_updated": "2025-10-09T13:32:08.223Z",
+  "last_updated": "2025-10-09T23:24:39.909Z",
   "items": [
     {
-      "ts": "2025-10-09T12:32:00.000Z",
-      "headline": "PepsiCo&#x2019;s revenue grows, as higher prices offset a continued drop in beverage volumes",
-      "url": "https://www.marketwatch.com/story/pepsico-revenue-grows-even-as-beverage-volumes-keep-falling-and-its-stock-rises-03253d98?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "PepsiCo saw an earnings beat and an improved full-year outlook, even as beverage volumes in North America extended their long streak of declines.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-09T13:18:00.000Z",
-      "headline": "The bull market is turning 3 years old. Here&#x2019;s where stocks are likely headed next.",
-      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-3-years-old-this-week-heres-where-stocks-are-likely-headed-next-323967f6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "What began as a tech-driven rally has started to broaden out. According to some on Wall Street, that should help power indexes like the S&P 500 even higher.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-09T13:16:00.000Z",
-      "headline": "Want to avoid delayed flights and ruined trips during the shutdown? 6 steps for a smoother trip.",
-      "url": "https://www.marketwatch.com/story/want-to-avoid-delayed-flights-and-ruined-trips-during-the-shutdown-6-steps-for-a-smoother-trip-63ba90b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Airports have already been plagued by delays because of the government shutdown, so travelers need to be prepared.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-09T13:16:00.000Z",
-      "headline": "Jamie Dimon says there&#x2019;s a 30% chance of a correction. &#x2018;I&#x2019;m far more worried than others.&#x2019;",
-      "url": "https://www.marketwatch.com/story/jamie-dimon-says-theres-a-30-chance-of-a-correction-im-far-more-worried-than-others-435b7909?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The CEO of U.S. banking giant JPMorgan says most investors are not seeing the troubles that he is.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-09T12:00:00.000Z",
-      "headline": "Delta&#x2019;s stock jumps as travel demand accelerates, leads to record revenue",
-      "url": "https://www.marketwatch.com/story/deltas-stock-rises-as-a-recent-acceleration-in-demand-leads-to-record-revenue-f8ef0708?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Delta&#x2019;s stock surges, lifting those of its peers, after the air carrier beat earnings expectations as travel demand accelerated in recent weeks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-09T12:41:00.000Z",
-      "headline": "Google is looking to lock in an AI advantage with this move",
-      "url": "https://www.marketwatch.com/story/google-is-looking-to-solidify-its-ai-advantage-with-this-move-856c62c9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL"
-      ],
-      "summary_en": "With the launch of Gemini Enterprise, Google is betting that easy-to-build AI &#x2018;agents&#x2019; are the key to unlocking the corporate market and boosting Alphabet shares.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-09T12:14:00.000Z",
-      "headline": "Here&#x2019;s what the OpenAI-AMD deal says about Nvidia",
-      "url": "https://www.marketwatch.com/story/heres-what-the-openai-amd-deal-says-about-nvidia-9a305c69?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "AMD"
-      ],
-      "summary_en": "OpenAI says it&#x2019;s buying AMD chips to get more compute power. Analysts also see benefits to diversifying away from Nvidia and likely securing favorable pricing.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-09T11:14:00.000Z",
+      "ts": "2025-10-09T22:34:00.000Z",
       "headline": "I&#x2019;m having brain surgery. Will my heirs or the creditors get my money if I die?",
       "url": "https://www.marketwatch.com/story/im-having-brain-surgery-will-my-heirs-or-the-creditors-get-my-money-if-i-die-b0a73913?mod=mw_rss_topstories",
       "impact": "Bullish",
@@ -99,27 +14,123 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-09T11:45:00.000Z",
-      "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
-      "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
+      "ts": "2025-10-09T23:07:00.000Z",
+      "headline": "Inflation was eating me alive in retirement, so I went back to work. I&#x2019;m still working at 66. Was I right?",
+      "url": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Be more concerned with outliving inflation than Social Security.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-09T22:42:00.000Z",
+      "headline": "This stock turned $10,000 into $10 million tax-free in 25 years &#x2014; and it&#x2019;s still going strong",
+      "url": "https://www.marketwatch.com/story/this-stock-turned-10-000-into-10-million-tax-free-in-25-years-and-its-still-going-strong-8b3b27f1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.&#x201d;",
+      "summary_en": "Canadian Natural Resources is the oil company Wall Street refuses to recommend.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-09T11:30:00.000Z",
-      "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
-      "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
+      "ts": "2025-10-09T20:31:00.000Z",
+      "headline": "Delta&#x2019;s stock jumps as travel demand accelerates, leading to record revenue",
+      "url": "https://www.marketwatch.com/story/deltas-stock-rises-as-a-recent-acceleration-in-demand-leads-to-record-revenue-f8ef0708?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Delta Air Lines&#x2019;s stock surged Thursday, after the air carrier reported profit and revenue that rose well above expectations and signaled early signs of a strong holiday travel season.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-09T20:30:00.000Z",
+      "headline": "Federal Reserve Board announces expanded operating days of two large-value payments services, Fedwire® Funds Service and the National Settlement Service (NSS), to include Sundays and weekday holidays",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251009a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces expanded operating days of two large-value payments services, Fedwire&reg; Funds Service and the National Settlement Service (NSS), to include Sundays and weekday holidays",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-09T22:25:00.000Z",
+      "headline": "Levi&#x2019;s expects better yearly sales despite tougher tariff backdrop. Investors aren&#x2019;t buying it.",
+      "url": "https://www.marketwatch.com/story/levis-raises-outlook-despite-tougher-tariff-outlook-but-the-stock-falls-9000a4a2?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Levi&#x2019;s says efforts to sell more than just jeans are helping to drive &#x201c;a meaningful inflection in our financial performance.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-09T20:18:00.000Z",
+      "headline": "The new IRS tax brackets for 2026 are here. See where you fit in.",
+      "url": "https://www.marketwatch.com/story/the-irs-just-released-its-2026-tax-brackets-despite-the-government-shutdown-find-out-where-you-fit-in-ddbc3842?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The standard deduction is rising in the wake of the One Big Beautiful Bill Act. Here&#x2019;s the amount.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-09T23:09:00.000Z",
+      "headline": "Why rare-earth stocks are rallying as China gears up for Trump meeting on trade",
+      "url": "https://www.marketwatch.com/story/why-rare-earth-stocks-are-rallying-as-china-gears-up-for-trump-meeting-on-trade-b078e1a8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
+      "summary_en": "China is tightening export controls over rare earths amid ongoing trade tensions with the U.S.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-09T22:35:00.000Z",
+      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-09T22:33:00.000Z",
+      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
+      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-09T20:31:00.000Z",
+      "headline": "Stablecoins aren&#x2019;t the threat to your money that the banking industry would have you believe",
+      "url": "https://www.marketwatch.com/story/stablecoins-arent-the-threat-to-your-money-that-the-banking-industry-would-have-you-believe-3f90f3e3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Banks are hardly the fragile utilities they are claiming to be.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
