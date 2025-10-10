@@ -1,9 +1,69 @@
 {
-  "last_updated": "2025-10-10T10:42:45.721Z",
+  "last_updated": "2025-10-10T13:30:16.657Z",
   "items": [
     {
-      "ts": "2025-10-10T10:36:00.000Z",
-      "headline": "Traders&#x2019; talk of a 1999-like melt-up. But here&#x2019;s what really happened back then.",
+      "ts": "2025-10-10T13:24:00.000Z",
+      "headline": "I started collecting Social Security at 67, but I worked until 70. Will I get more money now?&#xa0;",
+      "url": "https://www.marketwatch.com/story/i-started-collecting-social-security-at-67-but-i-worked-until-70-will-i-get-more-money-now-e3e19da1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Continuing to work could result in increased benefits, the Social Security Administration said.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T12:56:00.000Z",
+      "headline": "Stop worrying about the AI bubble: SocGen strategists tell clients the dollar and fundamentals will sustain this rally.",
+      "url": "https://www.marketwatch.com/story/stop-worrying-about-the-ai-bubble-socgen-strategists-tell-clients-the-dollar-and-fundamentals-will-sustain-this-rally-b8c25628?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Soci&#xe9;t&#xe9; G&#xe9;n&#xe9;rale polled clients about which aspects of U.S. markets were cause for greatest concern.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T12:52:00.000Z",
+      "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T11:36:00.000Z",
+      "headline": "I&#x2019;m having brain surgery. Will my heirs or the creditors get my money if I die?",
+      "url": "https://www.marketwatch.com/story/im-having-brain-surgery-will-my-heirs-or-the-creditors-get-my-money-if-i-die-b0a73913?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m 47 and have a small amount of investments totaling about $45,000, and I also have the same amount in debt.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T12:00:00.000Z",
+      "headline": "This money-saving hack could save you over $700 a year &#x2014; and it&#x2019;s in the palm of your hand",
+      "url": "https://www.marketwatch.com/story/this-money-saving-hack-could-save-you-over-700-a-year-and-its-in-the-palm-of-your-hand-83e1d42c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Financial experts agree that cutting out social media can tackle an underlying cause of overspending.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T11:36:00.000Z",
+      "headline": "Traders talk of a 1999-like melt-up. But here&#x2019;s what really happened back then.",
       "url": "https://www.marketwatch.com/story/traders-talk-of-a-1999-like-melt-up-but-heres-what-really-happened-back-then-a2a9f6e6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -14,89 +74,52 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-10T09:04:00.000Z",
-      "headline": "John Goodman finally sold his historic New Orleans home&#x2014;at a big discount",
-      "url": "https://www.marketwatch.com/story/john-goodman-finally-sold-his-historic-new-orleans-homeat-a-big-discount-5456a77c?mod=mw_rss_topstories",
+      "ts": "2025-10-10T11:06:00.000Z",
+      "headline": "This stock turned $10,000 into $10 million tax-free in 25 years &#x2014; and it&#x2019;s still going strong",
+      "url": "https://www.marketwatch.com/story/this-stock-turned-10-000-into-10-million-tax-free-in-25-years-and-its-still-going-strong-8b3b27f1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Actor&#xa0;John Goodman&#xa0;has officially sold his longtime home in&#xa0;New Orleans&#x2014;but was forced to cut close to $1.5 million from his original asking price to secure a buyer.",
+      "summary_en": "Canadian Natural Resources is the oil company Wall Street refuses to recommend.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-10T10:30:00.000Z",
-      "headline": "S&P 500, Nasdaq holding above this key technical level for the longest stretch in over a decade. Here&#x2019;s what&#x2019;s next.",
-      "url": "https://www.marketwatch.com/story/s-p-500-nasdaq-holding-above-this-key-technical-level-for-the-longest-stretch-in-over-a-decade-heres-whats-next-363a8f83?mod=mw_rss_topstories",
+      "ts": "2025-10-10T11:02:00.000Z",
+      "headline": "Gold&#xa0;and&#xa0;gold&#xa0;miners suffered a big one-day retreat. Why it&#x2019;s still not time to sell.",
+      "url": "https://www.marketwatch.com/story/goldandgoldminers-suffered-a-big-one-day-retreat-why-its-still-not-time-to-sell-86fdd718?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "Gold took a hit on Thursday, and shares of gold miners tumbled along with it, as some investors booked profits after the metal&#x2019;s more than 50% climb so far this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T11:00:00.000Z",
+      "headline": "Is the stock market open on Columbus Day/Indigenous Peoples&#x2019; Day? Does the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Be prepared for plenty of closures on Monday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T11:33:00.000Z",
+      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
+      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The U.S. stock-market rally is showing no interest in hitting the brakes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T07:20:00.000Z",
-      "headline": "Follow the government money: the strategy that keeps working for UBS Wealth",
-      "url": "https://www.marketwatch.com/story/follow-the-government-money-the-strategy-that-keeps-working-for-ubs-wealth-5f4453af?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Mark Haefele, CIO at UBS Global Wealth Management says investors need to follow the government money.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T10:16:00.000Z",
-      "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
-      "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We aren&#x2019;t in debt outside of our mortgage, but I feel sick when I think about the money.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T09:15:00.000Z",
-      "headline": "My sister is 65. She has $80,000 in Treasury bonds and savings, and $2,600 in Social Security. Can she retire?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T02:41:00.000Z",
-      "headline": "Private equity and private credit may fit your 401(k) retirement plan &#x2014; but here&#x2019;s what you need to know",
-      "url": "https://www.marketwatch.com/story/private-equity-and-private-credit-may-fit-your-401-k-retirement-plan-but-heres-what-you-need-to-know-b6ef2f10?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Private credit is less risky than private equity. And be aware of the No. 1 rule for choosing a private-equity fund.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T00:46:00.000Z",
-      "headline": "Paramount has its eyes on Warner Bros. &#x2014; but the big question is how to pay for it",
-      "url": "https://www.marketwatch.com/story/paramount-has-its-eyes-on-warner-bros-but-the-big-question-is-how-to-pay-for-it-c207becf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Paramount is reportedly looking for private-equity help with a possible $60 billion bid for Warner Bros. Discovery, suggesting a deal may take longer than initially expected.",
+      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -145,30 +168,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T00:09:00.000Z",
-      "headline": "Levi&#x2019;s expects better yearly sales despite tougher tariff backdrop. Investors aren&#x2019;t buying it.",
-      "url": "https://www.marketwatch.com/story/levis-raises-outlook-despite-tougher-tariff-outlook-but-the-stock-falls-9000a4a2?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Levi&#x2019;s says efforts to sell more than just jeans are helping to drive &#x201c;a meaningful inflection in our financial performance.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T00:09:00.000Z",
-      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
