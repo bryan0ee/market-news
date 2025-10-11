@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-10-10T23:24:07.479Z",
+  "last_updated": "2025-10-11T10:39:11.911Z",
   "items": [
+    {
+      "ts": "2025-10-11T05:58:00.000Z",
+      "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
+      "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We aren&#x2019;t in debt outside of our mortgage, but I feel sick when I think about the money.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-10T22:10:00.000Z",
       "headline": "Crypto bulls were amped for potential solana ETF approvals this week. But the government shutdown threw it into limbo.",
@@ -50,18 +62,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-10T23:14:00.000Z",
-      "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
-      "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-10T20:02:00.000Z",
       "headline": "Bond market flashes signs of worry over shutdown-induced economic damage",
       "url": "https://www.marketwatch.com/story/bond-market-flashes-signs-of-worry-over-shutdown-induced-economic-damage-2b17760e?mod=mw_rss_topstories",
@@ -71,54 +71,6 @@
         "ED"
       ],
       "summary_en": "More than a week after the U.S. government&#x2019;s partial shutdown began on Oct. 1, bond-market traders were starting to express a greater degree of concern about the economic fallout.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T19:24:00.000Z",
-      "headline": "What to expect in the stock market after a three-year bull run",
-      "url": "https://www.marketwatch.com/story/what-to-expect-in-the-stock-market-after-a-three-year-bull-run-11f987df?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Also: A threat to online sports-betting platforms, AI bubble fears, Medicare enrollment, and advice from the Moneyist",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T22:09:00.000Z",
-      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
-      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T20:56:00.000Z",
-      "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
-      "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We aren&#x2019;t in debt outside of our mortgage, but I feel sick when I think about the money.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T20:55:00.000Z",
-      "headline": "My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -143,6 +95,54 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T00:17:00.000Z",
+      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T23:14:00.000Z",
+      "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
+      "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T22:09:00.000Z",
+      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
+      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-10T20:55:00.000Z",
+      "headline": "My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
+      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
