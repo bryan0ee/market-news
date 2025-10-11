@@ -1,8 +1,20 @@
 {
-  "last_updated": "2025-10-11T13:22:52.001Z",
+  "last_updated": "2025-10-11T23:23:49.743Z",
   "items": [
     {
-      "ts": "2025-10-11T11:39:00.000Z",
+      "ts": "2025-10-11T18:19:00.000Z",
+      "headline": "Is the stock market open on Columbus Day/Indigenous Peoples&#x2019; Day? Does the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Be prepared for plenty of closures on Monday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T16:47:00.000Z",
       "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
       "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -14,87 +26,99 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-11T13:00:00.000Z",
-      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
-      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-11T13:00:00.000Z",
-      "headline": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing?",
-      "url": "https://www.marketwatch.com/story/if-new-york-or-california-enter-a-recession-the-entire-u-s-economy-would-be-next-so-how-are-they-doing-19016cc9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "As two of the biggest states in the country, their economies &#x201d;may be canaries in the coal mine,&#x201d; one economist notes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-11T12:50:00.000Z",
-      "headline": "My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-11T12:00:00.000Z",
-      "headline": "How can Anthropic stand out in the AI wars? I went to a Greenwich Village pop-up to find out.",
-      "url": "https://www.marketwatch.com/story/how-can-anthropic-stand-out-in-the-ai-wars-i-went-to-a-greenwich-village-pop-up-to-find-out-e51937e5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Anthropic&#x2019;s brand-awareness effort drew thousands as the company competes for consumer attention amid increasing competition.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-11T11:50:00.000Z",
-      "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
-      "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We aren&#x2019;t in debt outside of our mortgage, but I feel sick when I think about the money.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-11T11:00:00.000Z",
-      "headline": "Some of the largest exchanges and financial institutions are embracing betting platforms and crypto. Is it just for the fees?",
-      "url": "https://www.marketwatch.com/story/some-of-the-largest-exchanges-and-financial-institutions-are-embracing-betting-platforms-and-crypto-is-it-just-for-the-fees-378b8840?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "If legacy financial institutions don&#x2019;t embrace new technology, their competitors may leave them in the dust.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T22:30:00.000Z",
-      "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
-      "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
+      "ts": "2025-10-11T17:18:00.000Z",
+      "headline": "Be ready with these portfolio changes if the shutdown damages the Fed&#x2019;s credibility",
+      "url": "https://www.marketwatch.com/story/be-ready-with-these-portfolio-changes-if-the-shutdown-damages-the-feds-credibility-e1944b57?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.&#x201d;",
+      "summary_en": "The Fed is making decisions without actual data &#x2014; but investors are still banking on rate cuts.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T17:15:00.000Z",
+      "headline": "Inflation was out of control in retirement, so I went back to work. I&#x2019;m still working at 66. Was I right?",
+      "url": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Be more concerned with outliving inflation than Social Security.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T20:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T16:44:00.000Z",
+      "headline": "Ray Dalio wants investors to have 15% of their portfolios in gold. Here&#x2019;s what others think of his advice.",
+      "url": "https://www.marketwatch.com/story/ray-dalio-says-investors-should-have-15-of-their-portfolios-in-gold-heres-what-others-think-of-his-advice-bb3d2852?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The hedge-fund billionaire says today&#x2019;s economic times remind him of the 1970s.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T16:30:00.000Z",
+      "headline": "Morgan Stanley is opening cryptocurrency investments to all clients. Here&#x2019;s what percentage of your portfolio should be in crypto.",
+      "url": "https://www.marketwatch.com/story/morgan-stanley-is-opening-cryptocurrency-investments-to-all-clients-heres-what-percentage-of-your-portfolio-should-be-in-crypto-8252b361?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Morgan Stanley will rely on its automated monitoring processes to make sure clients are not overly exposed to crypto.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T16:15:00.000Z",
+      "headline": "I&#x2019;m 58, divorced and will retire at 60 with $5,300 a month. Is now a good time to buy a house?",
+      "url": "https://www.marketwatch.com/story/im-58-divorced-and-will-retire-at-60-with-5-300-a-month-is-now-a-good-time-to-buy-a-house-845f27f6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Due to my two divorces, I had to leave the homes I bought and give up all the equity.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T14:52:00.000Z",
+      "headline": "Why your S&P 500 index fund might be more risky than the internet bubble",
+      "url": "https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The S&P 500&#x2019;s record concentration to a handful of stocks at a time of relatively high valuations makes a case for broadening investment portfolios.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T14:27:00.000Z",
+      "headline": "McDonald&#x2019;s to give away free food and $1 million with its Monopoly game &#x2014; and analysts say it could lift sales",
+      "url": "https://www.marketwatch.com/story/mcdonalds-is-bringing-back-its-popular-monopoly-game-and-analysts-say-it-could-lift-sales-52bb55c4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The promotion was a mainstay for the Golden Arches chain in a previous era.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,30 +143,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-11T00:17:00.000Z",
-      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T23:14:00.000Z",
-      "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
-      "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
