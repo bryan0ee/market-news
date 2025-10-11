@@ -1,8 +1,68 @@
 {
-  "last_updated": "2025-10-11T10:39:11.911Z",
+  "last_updated": "2025-10-11T13:22:52.001Z",
   "items": [
     {
-      "ts": "2025-10-11T05:58:00.000Z",
+      "ts": "2025-10-11T11:39:00.000Z",
+      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T13:00:00.000Z",
+      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
+      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T13:00:00.000Z",
+      "headline": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing?",
+      "url": "https://www.marketwatch.com/story/if-new-york-or-california-enter-a-recession-the-entire-u-s-economy-would-be-next-so-how-are-they-doing-19016cc9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "As two of the biggest states in the country, their economies &#x201d;may be canaries in the coal mine,&#x201d; one economist notes.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T12:50:00.000Z",
+      "headline": "My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
+      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T12:00:00.000Z",
+      "headline": "How can Anthropic stand out in the AI wars? I went to a Greenwich Village pop-up to find out.",
+      "url": "https://www.marketwatch.com/story/how-can-anthropic-stand-out-in-the-ai-wars-i-went-to-a-greenwich-village-pop-up-to-find-out-e51937e5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Anthropic&#x2019;s brand-awareness effort drew thousands as the company competes for consumer attention amid increasing competition.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-11T11:50:00.000Z",
       "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
       "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,27 +74,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-10T22:10:00.000Z",
-      "headline": "Crypto bulls were amped for potential solana ETF approvals this week. But the government shutdown threw it into limbo.",
-      "url": "https://www.marketwatch.com/story/crypto-bulls-were-amped-for-potential-solana-etf-approvals-this-week-but-the-government-shutdown-threw-it-into-limbo-7bde37a8?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-10-11T11:00:00.000Z",
+      "headline": "Some of the largest exchanges and financial institutions are embracing betting platforms and crypto. Is it just for the fees?",
+      "url": "https://www.marketwatch.com/story/some-of-the-largest-exchanges-and-financial-institutions-are-embracing-betting-platforms-and-crypto-is-it-just-for-the-fees-378b8840?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Crypto bulls have been buzzing with anticipation that several major Wall Street firms may win approval to launch exchange-traded funds investing in solana, a lesser-known crypto, as soon as this week, but a partial U.S. government shutdown has thrown the process into limbo.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T22:09:00.000Z",
-      "headline": "AstraZeneca becomes latest drugmaker to strike deal with Trump. Its stock is climbing after hours.",
-      "url": "https://www.marketwatch.com/story/astrazeneca-to-become-latest-drugmaker-to-strike-deal-with-trump-its-stock-is-down-but-outperforming-the-market-6f3fbe0e?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "AstraZeneca announced a deal with U.S. President Donald Trump that&#x2019;s focused on lowering drug prices, in a move that would see the British drugmaker follow in the footsteps of Pfizer.",
+      "summary_en": "If legacy financial institutions don&#x2019;t embrace new technology, their competitors may leave them in the dust.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -47,30 +95,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T21:01:00.000Z",
-      "headline": "Morgan Stanley is opening cryptocurrency investments to all clients. Here&#x2019;s what percentage of your portfolio should be in crypto.",
-      "url": "https://www.marketwatch.com/story/morgan-stanley-is-opening-cryptocurrency-investments-to-all-clients-heres-what-percentage-of-your-portfolio-should-be-in-crypto-8252b361?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Morgan Stanley will rely on its automated monitoring processes to make sure clients are not overly exposed to crypto.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T20:02:00.000Z",
-      "headline": "Bond market flashes signs of worry over shutdown-induced economic damage",
-      "url": "https://www.marketwatch.com/story/bond-market-flashes-signs-of-worry-over-shutdown-induced-economic-damage-2b17760e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "More than a week after the U.S. government&#x2019;s partial shutdown began on Oct. 1, bond-market traders were starting to express a greater degree of concern about the economic fallout.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,30 +143,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T22:09:00.000Z",
-      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
-      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-10T20:55:00.000Z",
-      "headline": "My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
