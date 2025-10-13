@@ -1,125 +1,124 @@
 {
-  "last_updated": "2025-10-13T13:31:59.048Z",
+  "last_updated": "2025-10-13T23:24:38.603Z",
   "items": [
     {
-      "ts": "2025-10-13T13:27:00.000Z",
-      "headline": "Broadcom&#x2019;s stock is soaring on a new OpenAI deal. Here&#x2019;s what to know.",
-      "url": "https://www.marketwatch.com/story/broadcoms-stock-is-soaring-on-a-new-openai-deal-heres-what-to-know-ad52ff64?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "AMD",
-        "ED"
-      ],
-      "summary_en": "OpenAI, which recently inked arrangements with Nvidia and AMD, is now turning to Broadcom&#x2019;s custom chips as it continues its quest for computing power.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T13:16:00.000Z",
-      "headline": "These stocks are surging as JPMorgan follows Trump&#x2019;s lead with investments in &#x2018;critical&#x2019; industries",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-surging-as-jpmorgan-follows-trumps-lead-with-investments-in-critical-industries-dbf3c900?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-10-13T21:25:00.000Z",
+      "headline": "Papa John&#x2019;s stock rallies, as report adds to takeover speculation",
+      "url": "https://www.marketwatch.com/story/papa-johns-stock-rallies-as-report-adds-to-takeover-speculation-9ddca0db?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "JPMorgan launches $1.5 trillion initiative to boost industries deemed vital for national security, after the Trump administration took stakes in rare-earth, lithium and chip companies.",
+      "summary_en": "Shares of pizza chain Papa John&#x2019;s rallied on Monday, following the latest report that it could become a takeover target, as the restaurant industry struggles with inflation-battered consumers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T12:52:00.000Z",
-      "headline": "Deal mania is back on Wall Street. Here&#x2019;s what it means for JPMorgan &#x2014; and for banking-sector earnings.",
-      "url": "https://www.marketwatch.com/story/deal-mania-is-back-on-wall-street-heres-what-it-means-for-jpmorgan-and-for-banking-sector-earnings-fd548009?mod=mw_rss_topstories",
+      "ts": "2025-10-13T21:01:00.000Z",
+      "headline": "It&#x2019;s too good to be true &#x2014; but you may not believe it. How to listen when investment pros say &#x2018;back off.&#x2019;",
+      "url": "https://www.marketwatch.com/story/its-too-good-to-be-true-but-you-may-not-believe-it-how-to-listen-when-investment-pros-say-back-off-cc38ef50?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A rise in M&A and IPO activity during the quarter takes center stage as JPMorgan leads a parade of bank earnings on Tuesday, followed by Bank of America and Morgan Stanley on Wednesday.",
+      "summary_en": "Losing $150,000 in crypto, being convinced of easy money in real estate, and other dangers from unrealistic expectations.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T12:21:00.000Z",
-      "headline": "&#x2018;We&#x2019;re in a market bubble based on AI exuberance&#x2019;: I&#x2019;m moving my $200K IRA to a money-market account. Is that wise?",
-      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
+      "ts": "2025-10-13T19:46:00.000Z",
+      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T20:37:00.000Z",
+      "headline": "My real-estate agent wants me to spend $8,000 on a new driveway.&#xa0;Will that really help sell my house?",
+      "url": "https://www.marketwatch.com/story/my-real-estate-agent-wants-me-to-spend-8-000-on-a-new-driveway-will-that-really-help-sell-my-house-ee32803a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
+      "summary_en": "Regardless of which renovations you choose to make, don&#x2019;t expect them to rapidly reduce how much time your home spends on the market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T11:46:00.000Z",
-      "headline": "Is the stock market open today? Does the post office deliver mail on Columbus Day/Indigenous Peoples&#x2019; Day?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories",
+      "ts": "2025-10-13T20:32:00.000Z",
+      "headline": "Tesla made a gamble with its latest price cuts. Will it pay off?",
+      "url": "https://www.marketwatch.com/story/tesla-made-a-gamble-with-its-latest-price-cuts-will-it-pay-off-5c168243?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Be prepared for plenty of closures on Monday.",
+      "summary_en": "The new &#x2018;standard&#x2019; Tesla models might not be priced low enough for consumers to justify the tradeoffs, one expert says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T11:33:00.000Z",
-      "headline": "Stocks to buy and others to avoid heading into a possibly volatile earnings season, according to Evercore",
-      "url": "https://www.marketwatch.com/story/a-high-bar-for-earnings-means-the-market-reaction-may-be-varied-and-violent-says-evercore-heres-what-to-do-ffd1d6a0?mod=mw_rss_topstories",
+      "ts": "2025-10-13T20:10:00.000Z",
+      "headline": "Investors should brace for more trade-war volatility as &#x2018;high-stakes game of chicken&#x2019; between U.S. and China begins",
+      "url": "https://www.marketwatch.com/story/investors-should-brace-for-more-trade-war-volatility-as-high-stakes-game-of-chicken-between-u-s-and-china-begins-adde326e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Valuations show stocks are priced for perfection, says this strategist.",
+      "summary_en": "Calm was largely restored to financial markets on Monday, following a weekend update in which President Donald Trump assured people that there was no reason to worry about China. Nonetheless, the China-U.S. trade detente that had helped global stocks power higher all summer looks to be on shaky ground once again.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T11:00:00.000Z",
-      "headline": "Bank of America now sees $65 silver, as price spike reduces London market to a &#x2018;state of seizure.&#x2019;",
-      "url": "https://www.marketwatch.com/story/bank-of-america-now-sees-65-silver-as-price-spike-reduces-london-market-to-a-state-of-seizure-4338f28d?mod=mw_rss_topstories",
+      "ts": "2025-10-13T19:51:00.000Z",
+      "headline": "America&#x2019;s middle class has not been hollowed out. Far from it.",
+      "url": "https://www.marketwatch.com/story/americans-income-growth-has-been-strong-for-decades-and-not-just-for-the-rich-4a9321ba?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A shortage of physical inventories threatens to disrupt the world&#x2019;s most important silver trading hub &#x2013; the LBMA.",
+      "summary_en": "Misguided populist policies are threatening the American dream.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T12:41:00.000Z",
-      "headline": "&#x2018;She&#x2019;s been moving money from his account&#x2019;: My late father wrote a will before meeting his current wife. Who gets his money?",
-      "url": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
+      "ts": "2025-10-13T22:27:00.000Z",
+      "headline": "Where Penn State football coach James Franklin&#x2019;s $49 million buyout ranks among the biggest of all time",
+      "url": "https://www.marketwatch.com/story/where-penn-state-football-coach-james-franklins-49-million-buyout-ranks-among-the-biggest-of-all-time-7ee9f16e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;He gave his fourth wife power of attorney and access to his bank account to pay bills.&#x201d;",
+      "summary_en": "Buyouts are becoming a big trend among college football coaches. Why schools are so willing to pay up.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T11:01:00.000Z",
-      "headline": "&#x2018;She may have a spending problem&#x2019;: Would it be wrong to secretly give our son money &#x2014; without telling his wife?",
-      "url": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
+      "ts": "2025-10-13T19:17:00.000Z",
+      "headline": "Some people are spending $200 on Halloween candy &#x2014; and others are skipping the holiday &#x2014; as &#x2018;greedy&#x2019; trick-or-treaters spoil the fun",
+      "url": "https://www.marketwatch.com/story/some-people-are-spending-200-on-halloween-candy-and-others-are-skipping-the-holiday-as-greedy-trick-or-treaters-spoil-the-fun-3e84109b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Forget those mini candy bars &#x2014; these days, the pressure is on to dole out full-size versions.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T19:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Our son and his wife, who are in their 30s with a child in preschool, are having marital problems.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T10:31:00.000Z",
-      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
-      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
