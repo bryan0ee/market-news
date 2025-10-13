@@ -1,21 +1,70 @@
 {
-  "last_updated": "2025-10-13T10:45:01.320Z",
+  "last_updated": "2025-10-13T13:31:59.048Z",
   "items": [
     {
-      "ts": "2025-10-13T10:31:00.000Z",
-      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2025-10-13T13:27:00.000Z",
+      "headline": "Broadcom&#x2019;s stock is soaring on a new OpenAI deal. Here&#x2019;s what to know.",
+      "url": "https://www.marketwatch.com/story/broadcoms-stock-is-soaring-on-a-new-openai-deal-heres-what-to-know-ad52ff64?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
+        "AMD",
         "ED"
       ],
-      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "summary_en": "OpenAI, which recently inked arrangements with Nvidia and AMD, is now turning to Broadcom&#x2019;s custom chips as it continues its quest for computing power.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T10:35:00.000Z",
-      "headline": "A high bar for earnings means the market reaction may be &#x2018;varied and violent,&#x2019; says Evercore. Here&#x2019;s what to do.",
+      "ts": "2025-10-13T13:16:00.000Z",
+      "headline": "These stocks are surging as JPMorgan follows Trump&#x2019;s lead with investments in &#x2018;critical&#x2019; industries",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-surging-as-jpmorgan-follows-trumps-lead-with-investments-in-critical-industries-dbf3c900?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "JPMorgan launches $1.5 trillion initiative to boost industries deemed vital for national security, after the Trump administration took stakes in rare-earth, lithium and chip companies.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T12:52:00.000Z",
+      "headline": "Deal mania is back on Wall Street. Here&#x2019;s what it means for JPMorgan &#x2014; and for banking-sector earnings.",
+      "url": "https://www.marketwatch.com/story/deal-mania-is-back-on-wall-street-heres-what-it-means-for-jpmorgan-and-for-banking-sector-earnings-fd548009?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A rise in M&A and IPO activity during the quarter takes center stage as JPMorgan leads a parade of bank earnings on Tuesday, followed by Bank of America and Morgan Stanley on Wednesday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T12:21:00.000Z",
+      "headline": "&#x2018;We&#x2019;re in a market bubble based on AI exuberance&#x2019;: I&#x2019;m moving my $200K IRA to a money-market account. Is that wise?",
+      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T11:46:00.000Z",
+      "headline": "Is the stock market open today? Does the post office deliver mail on Columbus Day/Indigenous Peoples&#x2019; Day?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Be prepared for plenty of closures on Monday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T11:33:00.000Z",
+      "headline": "Stocks to buy and others to avoid heading into a possibly volatile earnings season, according to Evercore",
       "url": "https://www.marketwatch.com/story/a-high-bar-for-earnings-means-the-market-reaction-may-be-varied-and-violent-says-evercore-heres-what-to-do-ffd1d6a0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -26,15 +75,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T09:02:00.000Z",
-      "headline": "&#x2018;I have to go where the ice exists&#x2019;: Olympic figure skater Oksana Baiul lists her $1.2 million Louisiana home",
-      "url": "https://www.marketwatch.com/story/i-have-to-go-where-the-ice-exists-olympic-figure-skater-oksana-baiul-lists-her-1-2-million-louisiana-home-2e85d8be?mod=mw_rss_topstories",
+      "ts": "2025-10-13T11:00:00.000Z",
+      "headline": "Bank of America now sees $65 silver, as price spike reduces London market to a &#x2018;state of seizure.&#x2019;",
+      "url": "https://www.marketwatch.com/story/bank-of-america-now-sees-65-silver-as-price-spike-reduces-london-market-to-a-state-of-seizure-4338f28d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Olympic gold medalist Oksana Baiul has put her Louisiana mansion on the market and is moving back to Las Vegas because she &#x201c;can&#x2019;t make a living&#x201d; in Shreveport.",
+      "summary_en": "A shortage of physical inventories threatens to disrupt the world&#x2019;s most important silver trading hub &#x2013; the LBMA.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T12:41:00.000Z",
+      "headline": "&#x2018;She&#x2019;s been moving money from his account&#x2019;: My late father wrote a will before meeting his current wife. Who gets his money?",
+      "url": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;He gave his fourth wife power of attorney and access to his bank account to pay bills.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T11:01:00.000Z",
+      "headline": "&#x2018;She may have a spending problem&#x2019;: Would it be wrong to secretly give our son money &#x2014; without telling his wife?",
+      "url": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Our son and his wife, who are in their 30s with a child in preschool, are having marital problems.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -47,54 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T09:04:00.000Z",
-      "headline": "Real estate tycoon Barbara Corcoran sells her palatial $13.5 million New York penthouse in one day",
-      "url": "https://www.marketwatch.com/story/real-estate-tycoon-barbara-corcoran-sells-her-palatial-13-5-million-new-york-penthouse-in-one-day-1c540211?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Shark Tank&#x201d; star Barbara Corcoran has sold her iconic New York City apartment&#x2014;for $1.5 million over her original asking price.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T02:56:00.000Z",
-      "headline": "U.S. stock futures rebound as Trump dismisses latest China tariff tensions: &#x2018;It will all be fine&#x2019;",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-surge-as-trump-dismisses-latest-china-tariff-tensions-it-will-all-be-fine-60ee8581?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stock-index futures bounced back strongly Sunday, following Friday&#x2019;s market plunge after President Donald Trump threatened China with additional 100% tariffs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T00:45:00.000Z",
-      "headline": "&#x2018;We will have a crash&#x2019;: Why Andrew Ross Sorkin thinks this market bubble will eventually pop",
-      "url": "https://www.marketwatch.com/story/we-will-have-a-crash-why-andrew-ross-sorkin-thinks-this-market-bubble-will-eventually-pop-99ed039b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m anxious that we are at prices that may not feel sustainable,&#x201d; Sorkin told &#x201c;60 Minutes,&#x201d; noting that we&#x2019;re either in a &#x201c;remarkable boom&#x201d; fueled by artificial-intelligence stocks, or else &#x201c;everything&#x2019;s overpriced.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T21:25:00.000Z",
-      "headline": "&#x2018;We&#x2019;re in a market bubble based on AI exuberance&#x2019;: I&#x2019;m moving my $200K IRA to a money-market account. Is that wise?",
-      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,30 +144,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T23:23:00.000Z",
-      "headline": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing?",
-      "url": "https://www.marketwatch.com/story/if-new-york-or-california-enter-a-recession-the-entire-u-s-economy-would-be-next-so-how-are-they-doing-19016cc9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "As two of the country&#x2019;s biggest states by GDP, their economies &#x2018;may be canaries in the coal mine,&#x2019; one economist notes",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T21:27:00.000Z",
-      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
