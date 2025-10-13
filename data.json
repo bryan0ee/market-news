@@ -1,8 +1,68 @@
 {
-  "last_updated": "2025-10-12T23:24:07.612Z",
+  "last_updated": "2025-10-13T10:45:01.320Z",
   "items": [
     {
-      "ts": "2025-10-12T22:58:00.000Z",
+      "ts": "2025-10-13T10:31:00.000Z",
+      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T10:35:00.000Z",
+      "headline": "A high bar for earnings means the market reaction may be &#x2018;varied and violent,&#x2019; says Evercore. Here&#x2019;s what to do.",
+      "url": "https://www.marketwatch.com/story/a-high-bar-for-earnings-means-the-market-reaction-may-be-varied-and-violent-says-evercore-heres-what-to-do-ffd1d6a0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Valuations show stocks are priced for perfection, says this strategist.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T09:02:00.000Z",
+      "headline": "&#x2018;I have to go where the ice exists&#x2019;: Olympic figure skater Oksana Baiul lists her $1.2 million Louisiana home",
+      "url": "https://www.marketwatch.com/story/i-have-to-go-where-the-ice-exists-olympic-figure-skater-oksana-baiul-lists-her-1-2-million-louisiana-home-2e85d8be?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Olympic gold medalist Oksana Baiul has put her Louisiana mansion on the market and is moving back to Las Vegas because she &#x201c;can&#x2019;t make a living&#x201d; in Shreveport.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T10:31:00.000Z",
+      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
+      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T09:04:00.000Z",
+      "headline": "Real estate tycoon Barbara Corcoran sells her palatial $13.5 million New York penthouse in one day",
+      "url": "https://www.marketwatch.com/story/real-estate-tycoon-barbara-corcoran-sells-her-palatial-13-5-million-new-york-penthouse-in-one-day-1c540211?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Shark Tank&#x201d; star Barbara Corcoran has sold her iconic New York City apartment&#x2014;for $1.5 million over her original asking price.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T02:56:00.000Z",
       "headline": "U.S. stock futures rebound as Trump dismisses latest China tariff tensions: &#x2018;It will all be fine&#x2019;",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-surge-as-trump-dismisses-latest-china-tariff-tensions-it-will-all-be-fine-60ee8581?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -11,6 +71,18 @@
         "ED"
       ],
       "summary_en": "U.S. stock-index futures bounced back strongly Sunday, following Friday&#x2019;s market plunge after President Donald Trump threatened China with additional 100% tariffs.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-13T00:45:00.000Z",
+      "headline": "&#x2018;We will have a crash&#x2019;: Why Andrew Ross Sorkin thinks this market bubble will eventually pop",
+      "url": "https://www.marketwatch.com/story/we-will-have-a-crash-why-andrew-ross-sorkin-thinks-this-market-bubble-will-eventually-pop-99ed039b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m anxious that we are at prices that may not feel sustainable,&#x201d; Sorkin told &#x201c;60 Minutes,&#x201d; noting that we&#x2019;re either in a &#x201c;remarkable boom&#x201d; fueled by artificial-intelligence stocks, or else &#x201c;everything&#x2019;s overpriced.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -23,102 +95,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T21:21:00.000Z",
-      "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
-      "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T20:14:00.000Z",
-      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T20:13:00.000Z",
-      "headline": "A dividend-paying &#x2018;vending machine&#x2019; &#x2014; this oil stock weathers tariffs and OPEC",
-      "url": "https://www.marketwatch.com/story/a-dividend-paying-vending-machine-this-oil-stock-weathers-tariffs-and-opec-d2d9ae51?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Charlie Garcia responds to readers about an underfollowed stock with a long history of rewarding shareholders.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T23:23:00.000Z",
-      "headline": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing?",
-      "url": "https://www.marketwatch.com/story/if-new-york-or-california-enter-a-recession-the-entire-u-s-economy-would-be-next-so-how-are-they-doing-19016cc9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "As two of the country&#x2019;s biggest states by GDP, their economies &#x2018;may be canaries in the coal mine,&#x2019; one economist notes",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T22:21:00.000Z",
-      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
-      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T21:27:00.000Z",
-      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T20:15:00.000Z",
-      "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
-      "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We aren&#x2019;t in debt outside of our mortgage, but I feel sick when I think about the money.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-12T20:13:00.000Z",
-      "headline": "My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -143,6 +119,30 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-12T23:23:00.000Z",
+      "headline": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing?",
+      "url": "https://www.marketwatch.com/story/if-new-york-or-california-enter-a-recession-the-entire-u-s-economy-would-be-next-so-how-are-they-doing-19016cc9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "As two of the country&#x2019;s biggest states by GDP, their economies &#x2018;may be canaries in the coal mine,&#x2019; one economist notes",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-12T21:27:00.000Z",
+      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
