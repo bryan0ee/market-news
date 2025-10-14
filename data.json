@@ -1,113 +1,125 @@
 {
-  "last_updated": "2025-10-14T10:44:12.284Z",
+  "last_updated": "2025-10-14T13:32:04.369Z",
   "items": [
     {
-      "ts": "2025-10-14T10:09:00.000Z",
-      "headline": "My father died leaving an old will predating his fourth wife. Who inherits his estate?",
-      "url": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
+      "ts": "2025-10-14T13:19:00.000Z",
+      "headline": "Why your stock and bond index funds outsmart Wall Street&#x2019;s best and brightest",
+      "url": "https://www.marketwatch.com/story/why-your-stock-and-bond-index-funds-outsmart-managers-of-college-endowments-db81876e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "WM",
+        "ED"
+      ],
+      "summary_en": "College and university endowments lag a basic diversified portfolio.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T13:10:00.000Z",
+      "headline": "U.S. economy still vulnerable to tariff shocks, IMF says, and labor shortages tied to immigration crackdown could also sting",
+      "url": "https://www.marketwatch.com/story/u-s-economy-still-vulnerable-to-tariff-shocks-imf-says-and-labor-shortages-tied-to-immigration-crackdown-could-also-sting-8987be99?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;He gave his fourth wife power of attorney and access to his bank account to pay bills.&#x201d;",
+      "summary_en": "The U.S. economy hasn&#x2019;t suffered much so far from big increases in tariffs or a decline in the labor supply due to tighter immigration rules. But that might change.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T09:30:00.000Z",
-      "headline": "My stepdaughter is buying a house. Can her soon-to-be ex-husband claim a share?",
-      "url": "https://www.marketwatch.com/story/my-stepdaughter-is-buying-a-house-can-her-soon-to-be-ex-husband-claim-a-share-320a8394?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Her real-estate agent has assured her that she has nothing to worry about.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T09:04:00.000Z",
-      "headline": "Maroon 5&#x2019;s Adam Levine and supermodel Behati Prinsloo get a $60 million offer on their Montecito mansion",
-      "url": "https://www.marketwatch.com/story/maroon-5s-adam-levine-and-supermodel-behati-prinsloo-get-a-60-million-offer-on-their-montecito-mansion-439891f9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The couple are set to make another incredibly lucrative real estate deal after finding a buyer for their extraordinary Montecito, Calif., estate.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T10:07:00.000Z",
-      "headline": "&#x2018;She may have a spending problem&#x2019;: Would it be wrong to secretly give our son money &#x2014; without telling his wife?",
-      "url": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Our son and his wife, who are in their 30s with a child in preschool, are having marital problems.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T08:43:00.000Z",
-      "headline": "A new front opens in the Sino-American trade war &#x2013; this time at sea.",
-      "url": "https://www.marketwatch.com/story/a-new-front-opens-in-the-sino-american-trade-war-this-time-at-sea-6498fd98?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-10-14T11:44:00.000Z",
+      "headline": "Johnson & Johnson&#x2019;s stock heads for a record after a profit beat and plans for another spinoff",
+      "url": "https://www.marketwatch.com/story/johnson-johnsons-stock-heads-for-a-record-after-a-profit-beat-and-plans-for-another-spinoff-af403f00?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
+        "ED"
+      ],
+      "summary_en": "Johnson & Johnson&#x2019;s stock rose toward a record after a beat-and-raise earnings report and announcement of plans to separate its orthopedics business.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T11:38:00.000Z",
+      "headline": "Ericsson&#x2019;s stock rallies as bears surprised by earnings beat and positive guidance",
+      "url": "https://www.marketwatch.com/story/ericssons-stock-rallies-as-bears-surprised-by-earnings-beat-and-positive-guidance-a6f6732b?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Ericsson&#x2019;s CEO hinted that there may be higher dividends or share buybacks coming.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T12:36:00.000Z",
+      "headline": "&#x2018;We&#x2019;re in a market bubble based on AI exuberance&#x2019;: I&#x2019;m moving my $200K IRA to a money-market account. Is that wise?",
+      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T12:26:00.000Z",
+      "headline": "GM will take a $1.6 billion hit as it predicts a drop in EV demand. Here&#x2019;s the latest setback.",
+      "url": "https://www.marketwatch.com/story/gm-will-take-a-1-6-billion-hit-as-it-predicts-a-drop-in-ev-demand-heres-the-latest-setback-2a3b792d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "GM&#x2019;s stock is falling as the end of a critical tax credit will force the company to scale back its plans for EV investments.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T12:10:00.000Z",
+      "headline": "America&#x2019;s middle class has not been hollowed out. Far from it.",
+      "url": "https://www.marketwatch.com/story/americans-income-growth-has-been-strong-for-decades-and-not-just-for-the-rich-4a9321ba?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Misguided populist policies are threatening the American dream.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T11:47:00.000Z",
+      "headline": "It&#x2019;s too good to be true &#x2014; but you may not believe it. How to listen when investment pros say &#x2018;back off.&#x2019;",
+      "url": "https://www.marketwatch.com/story/its-too-good-to-be-true-but-you-may-not-believe-it-how-to-listen-when-investment-pros-say-back-off-cc38ef50?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Losing $150,000 in crypto, being convinced of easy money in real estate, and other dangers from unrealistic expectations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T12:43:00.000Z",
+      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "China imposes sanctions on five subsidiaries of South Korea&#x2019;s Hanwha Ocean.",
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T09:02:00.000Z",
-      "headline": "Former Falcons star Grady Jarrett lists his $6.3 million luxury bachelor pad in Atlanta",
-      "url": "https://www.marketwatch.com/story/former-falcons-star-grady-jarrett-lists-his-6-3-million-luxury-bachelor-pad-in-atlanta-134de014?mod=mw_rss_topstories",
+      "ts": "2025-10-14T11:50:00.000Z",
+      "headline": "Friday&#x2019;s selloff broke something in the stock market. Here&#x2019;s what that means for investors.",
+      "url": "https://www.marketwatch.com/story/fridays-selloff-broke-something-in-the-stock-market-heres-what-that-means-for-investors-f93ae0c3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Grady Jarrett&#xa0;is going all in on&#xa0;Illinois&#xa0;by putting his sprawling&#xa0;Georgia&#xa0;mansion on the market just months after signing a $43.5 million contract with the&#xa0;Chicago Bears.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T01:58:00.000Z",
-      "headline": "Is Meta&#x2019;s stock in trouble? OpenAI&#x2019;s new app has Wall Street worried.",
-      "url": "https://www.marketwatch.com/story/is-metas-stock-in-trouble-openais-new-app-has-wall-street-worried-30b2bea9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "OpenAI&#x2019;s Sora app could fundamentally change the social-media landscape and leave Meta scrambling to catch up.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T00:40:00.000Z",
-      "headline": "Is there such a thing as too much Taylor Swift? Not for Disney.",
-      "url": "https://www.marketwatch.com/story/is-there-such-a-thing-as-too-much-taylor-swift-not-for-disney-e13b0882?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "There is no sign yet of Taylor Swift fatigue, as a docuseries on Swift&#x2019;s &#x201c;The Eras Tour&#x201d; is set to be released on Disney+ in December, just months after her latest album was released.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T00:11:00.000Z",
-      "headline": "Amazon and TikTok are helping Estee Lauder reinvent itself, Goldman Sachs says",
-      "url": "https://www.marketwatch.com/story/amazon-and-tiktok-are-helping-estee-lauder-reinvent-itself-goldman-sachs-says-3ce1195e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Cosmetics giant Estee Lauder Cos.&#x2019;s rebound could take hold sooner than expected, Goldman Sachs analysts said on Monday, as trends firm up in the U.S. and China and the company puts more focus on newer and higher-end products and sales through TikTok and Amazon.",
+      "summary_en": "Longview Economics says investors should tread carefully with stocks as something was broken with Friday&#x2019;s selloff last week.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,18 +144,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T00:32:00.000Z",
-      "headline": "Tech earnings are coming, and perhaps &#x2018;nothing looms larger&#x2019; than this factor",
-      "url": "https://www.marketwatch.com/story/tech-earnings-are-coming-and-perhaps-nothing-looms-larger-than-this-factor-6ff2e04b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "OpenAI&#x2019;s actions are having a growing impact on Big Tech financials, driving up spending figures and boosting revenue &#x2014; for now.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
