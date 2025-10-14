@@ -1,69 +1,44 @@
 {
-  "last_updated": "2025-10-14T13:32:04.369Z",
+  "last_updated": "2025-10-14T23:25:32.727Z",
   "items": [
     {
-      "ts": "2025-10-14T13:19:00.000Z",
-      "headline": "Why your stock and bond index funds outsmart Wall Street&#x2019;s best and brightest",
-      "url": "https://www.marketwatch.com/story/why-your-stock-and-bond-index-funds-outsmart-managers-of-college-endowments-db81876e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "WM",
-        "ED"
-      ],
-      "summary_en": "College and university endowments lag a basic diversified portfolio.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T13:10:00.000Z",
-      "headline": "U.S. economy still vulnerable to tariff shocks, IMF says, and labor shortages tied to immigration crackdown could also sting",
-      "url": "https://www.marketwatch.com/story/u-s-economy-still-vulnerable-to-tariff-shocks-imf-says-and-labor-shortages-tied-to-immigration-crackdown-could-also-sting-8987be99?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S. economy hasn&#x2019;t suffered much so far from big increases in tariffs or a decline in the labor supply due to tighter immigration rules. But that might change.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-14T11:44:00.000Z",
-      "headline": "Johnson & Johnson&#x2019;s stock heads for a record after a profit beat and plans for another spinoff",
-      "url": "https://www.marketwatch.com/story/johnson-johnsons-stock-heads-for-a-record-after-a-profit-beat-and-plans-for-another-spinoff-af403f00?mod=mw_rss_topstories",
+      "ts": "2025-10-14T22:39:00.000Z",
+      "headline": "Walmart was the Dow&#x2019;s biggest gainer today, thanks to shopping partnership with OpenAI",
+      "url": "https://www.marketwatch.com/story/walmarts-stock-is-on-pace-for-a-new-high-thanks-to-shopping-partnership-with-openai-6aabd465?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Johnson & Johnson&#x2019;s stock rose toward a record after a beat-and-raise earnings report and announcement of plans to separate its orthopedics business.",
+      "summary_en": "Walmart Inc. was the Dow Jones Industrial Average&#x2019;s top percentage gainer on Tuesday and closed at a record high, after the big-box chain announced a partnership that will soon allow customers to buy items at the retailer through OpenAI&#x2019;s artificial-intelligence chatbot ChatGPT.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T11:38:00.000Z",
-      "headline": "Ericsson&#x2019;s stock rallies as bears surprised by earnings beat and positive guidance",
-      "url": "https://www.marketwatch.com/story/ericssons-stock-rallies-as-bears-surprised-by-earnings-beat-and-positive-guidance-a6f6732b?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-10-14T22:16:00.000Z",
+      "headline": "Trump&#x2019;s tariffs on cabinets, furniture and lumber are live today, as trade tensions with China ramp up again",
+      "url": "https://www.marketwatch.com/story/trumps-tariffs-on-cabinets-furniture-and-lumber-are-live-today-as-trade-tensions-with-china-ramp-up-again-556e5ff4?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Ericsson&#x2019;s CEO hinted that there may be higher dividends or share buybacks coming.",
+      "summary_en": "Concerns about U.S. trade policy are back in the spotlight after being overshadowed by the government shutdown and other matters.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T12:36:00.000Z",
-      "headline": "&#x2018;We&#x2019;re in a market bubble based on AI exuberance&#x2019;: I&#x2019;m moving my $200K IRA to a money-market account. Is that wise?",
-      "url": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-10-14T22:07:00.000Z",
+      "headline": "Buy these stocks, analyst says, as Pentagon urges missile suppliers to increase production",
+      "url": "https://www.marketwatch.com/story/buy-these-stocks-analyst-says-as-pentagon-urges-missile-suppliers-to-increase-production-d3abcdaf?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I will also draw Social Security when I reach 70, which will be $3,500 per month.&#x201d;",
+      "summary_en": "The Pentagon reportedly wants its missile suppliers to double or even quadruple production.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T12:26:00.000Z",
+      "ts": "2025-10-14T22:03:00.000Z",
       "headline": "GM will take a $1.6 billion hit as it predicts a drop in EV demand. Here&#x2019;s the latest setback.",
       "url": "https://www.marketwatch.com/story/gm-will-take-a-1-6-billion-hit-as-it-predicts-a-drop-in-ev-demand-heres-the-latest-setback-2a3b792d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -75,51 +50,89 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T12:10:00.000Z",
-      "headline": "America&#x2019;s middle class has not been hollowed out. Far from it.",
-      "url": "https://www.marketwatch.com/story/americans-income-growth-has-been-strong-for-decades-and-not-just-for-the-rich-4a9321ba?mod=mw_rss_topstories",
+      "ts": "2025-10-14T21:48:00.000Z",
+      "headline": "AMD&#x2019;s stock is rising. Here are two reasons for Wall Street&#x2019;s optimism.",
+      "url": "https://www.marketwatch.com/story/amd-is-keeping-its-momentum-alive-here-are-two-reasons-for-optimism-f12ce20c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED",
+        "PG"
+      ],
+      "summary_en": "AMD just announced an extension of its relationship with Oracle. Plus, an analyst upgraded the stock and implied Wall Street&#x2019;s profit expectations aren&#x2019;t high enough.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T20:42:00.000Z",
+      "headline": "Wall Street&#x2019;s &#x2018;fear gauge&#x2019; surges to highest level since May. Here&#x2019;s what investors should know.",
+      "url": "https://www.marketwatch.com/story/wall-streets-fear-gauge-surges-to-highest-level-since-may-heres-what-investors-should-know-cda56479?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "After one of the quietest summers for the stock market in years, Wall Street&#x2019;s fear gauge has once again shot higher as investors fretted that a trade standoff between the U.S. and China could escalate further.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T20:54:00.000Z",
+      "headline": "AI isn&#x2019;t the solution to financial fraud &#x2014; it actually might be the biggest problem",
+      "url": "https://www.marketwatch.com/story/ai-isnt-the-solution-to-financial-fraud-it-actually-might-be-the-biggest-problem-4605aa66?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Misguided populist policies are threatening the American dream.",
+      "summary_en": "AI-generated scams are becoming more widespread.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T11:47:00.000Z",
-      "headline": "It&#x2019;s too good to be true &#x2014; but you may not believe it. How to listen when investment pros say &#x2018;back off.&#x2019;",
-      "url": "https://www.marketwatch.com/story/its-too-good-to-be-true-but-you-may-not-believe-it-how-to-listen-when-investment-pros-say-back-off-cc38ef50?mod=mw_rss_topstories",
+      "ts": "2025-10-14T20:48:00.000Z",
+      "headline": "Investors may finally be admitting that the government shutdown has consequences",
+      "url": "https://www.marketwatch.com/story/the-stock-market-performs-much-better-when-the-government-is-actually-doing-its-job-d071f9d1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Losing $150,000 in crypto, being convinced of easy money in real estate, and other dangers from unrealistic expectations.",
+      "summary_en": "Politically polarized &#x2018;gridlock&#x2019; in Washington impacts corporate investment and stock prices.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T12:43:00.000Z",
-      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "ts": "2025-10-14T20:59:00.000Z",
+      "headline": "Gen Z is shutting off their screens  &#x2014; how this &#x2018;great unplugging&#x2019; will charge your portfolio",
+      "url": "https://www.marketwatch.com/story/religion-bookstores-and-running-clubs-are-in-gen-zs-great-unplugging-is-charging-up-these-6-stocks-842f3055?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "summary_en": "Younger Americans are discovering the physical world, and these stocks stand to benefit.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-14T11:50:00.000Z",
-      "headline": "Friday&#x2019;s selloff broke something in the stock market. Here&#x2019;s what that means for investors.",
-      "url": "https://www.marketwatch.com/story/fridays-selloff-broke-something-in-the-stock-market-heres-what-that-means-for-investors-f93ae0c3?mod=mw_rss_topstories",
+      "ts": "2025-10-14T20:56:00.000Z",
+      "headline": "Jamie Dimon warns, &#x2018;When you see one cockroach, there are probably more,&#x2019; after Tricolor loan loss",
+      "url": "https://www.marketwatch.com/story/jamie-dimon-warns-when-you-see-one-cockroach-there-are-probably-more-after-tricolor-loan-loss-d04b7504?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Longview Economics says investors should tread carefully with stocks as something was broken with Friday&#x2019;s selloff last week.",
+      "summary_en": "JPMorgan CEO Jamie Dimon said losses stemming from a bankrupt auto lender Tricolor may be immaterial to the bank, it could be a warning of other loan losses are coming.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T18:00:00.000Z",
+      "headline": "Minutes of the Board's discount rate meetings on August 18 and September 17, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251014a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Minutes of the Board&#39;s discount rate meetings on August 18 and September 17, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
