@@ -1,124 +1,113 @@
 {
-  "last_updated": "2025-10-13T23:24:38.603Z",
+  "last_updated": "2025-10-14T10:44:12.284Z",
   "items": [
     {
-      "ts": "2025-10-13T21:25:00.000Z",
-      "headline": "Papa John&#x2019;s stock rallies, as report adds to takeover speculation",
-      "url": "https://www.marketwatch.com/story/papa-johns-stock-rallies-as-report-adds-to-takeover-speculation-9ddca0db?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of pizza chain Papa John&#x2019;s rallied on Monday, following the latest report that it could become a takeover target, as the restaurant industry struggles with inflation-battered consumers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T21:01:00.000Z",
-      "headline": "It&#x2019;s too good to be true &#x2014; but you may not believe it. How to listen when investment pros say &#x2018;back off.&#x2019;",
-      "url": "https://www.marketwatch.com/story/its-too-good-to-be-true-but-you-may-not-believe-it-how-to-listen-when-investment-pros-say-back-off-cc38ef50?mod=mw_rss_topstories",
+      "ts": "2025-10-14T10:09:00.000Z",
+      "headline": "My father died leaving an old will predating his fourth wife. Who inherits his estate?",
+      "url": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Losing $150,000 in crypto, being convinced of easy money in real estate, and other dangers from unrealistic expectations.",
+      "summary_en": "&#x201c;He gave his fourth wife power of attorney and access to his bank account to pay bills.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T19:46:00.000Z",
-      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "ts": "2025-10-14T09:30:00.000Z",
+      "headline": "My stepdaughter is buying a house. Can her soon-to-be ex-husband claim a share?",
+      "url": "https://www.marketwatch.com/story/my-stepdaughter-is-buying-a-house-can-her-soon-to-be-ex-husband-claim-a-share-320a8394?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Her real-estate agent has assured her that she has nothing to worry about.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T09:04:00.000Z",
+      "headline": "Maroon 5&#x2019;s Adam Levine and supermodel Behati Prinsloo get a $60 million offer on their Montecito mansion",
+      "url": "https://www.marketwatch.com/story/maroon-5s-adam-levine-and-supermodel-behati-prinsloo-get-a-60-million-offer-on-their-montecito-mansion-439891f9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The couple are set to make another incredibly lucrative real estate deal after finding a buyer for their extraordinary Montecito, Calif., estate.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T10:07:00.000Z",
+      "headline": "&#x2018;She may have a spending problem&#x2019;: Would it be wrong to secretly give our son money &#x2014; without telling his wife?",
+      "url": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Our son and his wife, who are in their 30s with a child in preschool, are having marital problems.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T08:43:00.000Z",
+      "headline": "A new front opens in the Sino-American trade war &#x2013; this time at sea.",
+      "url": "https://www.marketwatch.com/story/a-new-front-opens-in-the-sino-american-trade-war-this-time-at-sea-6498fd98?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "summary_en": "China imposes sanctions on five subsidiaries of South Korea&#x2019;s Hanwha Ocean.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T20:37:00.000Z",
-      "headline": "My real-estate agent wants me to spend $8,000 on a new driveway.&#xa0;Will that really help sell my house?",
-      "url": "https://www.marketwatch.com/story/my-real-estate-agent-wants-me-to-spend-8-000-on-a-new-driveway-will-that-really-help-sell-my-house-ee32803a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Regardless of which renovations you choose to make, don&#x2019;t expect them to rapidly reduce how much time your home spends on the market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T20:32:00.000Z",
-      "headline": "Tesla made a gamble with its latest price cuts. Will it pay off?",
-      "url": "https://www.marketwatch.com/story/tesla-made-a-gamble-with-its-latest-price-cuts-will-it-pay-off-5c168243?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The new &#x2018;standard&#x2019; Tesla models might not be priced low enough for consumers to justify the tradeoffs, one expert says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T20:10:00.000Z",
-      "headline": "Investors should brace for more trade-war volatility as &#x2018;high-stakes game of chicken&#x2019; between U.S. and China begins",
-      "url": "https://www.marketwatch.com/story/investors-should-brace-for-more-trade-war-volatility-as-high-stakes-game-of-chicken-between-u-s-and-china-begins-adde326e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Calm was largely restored to financial markets on Monday, following a weekend update in which President Donald Trump assured people that there was no reason to worry about China. Nonetheless, the China-U.S. trade detente that had helped global stocks power higher all summer looks to be on shaky ground once again.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T19:51:00.000Z",
-      "headline": "America&#x2019;s middle class has not been hollowed out. Far from it.",
-      "url": "https://www.marketwatch.com/story/americans-income-growth-has-been-strong-for-decades-and-not-just-for-the-rich-4a9321ba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Misguided populist policies are threatening the American dream.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-13T22:27:00.000Z",
-      "headline": "Where Penn State football coach James Franklin&#x2019;s $49 million buyout ranks among the biggest of all time",
-      "url": "https://www.marketwatch.com/story/where-penn-state-football-coach-james-franklins-49-million-buyout-ranks-among-the-biggest-of-all-time-7ee9f16e?mod=mw_rss_topstories",
+      "ts": "2025-10-14T09:02:00.000Z",
+      "headline": "Former Falcons star Grady Jarrett lists his $6.3 million luxury bachelor pad in Atlanta",
+      "url": "https://www.marketwatch.com/story/former-falcons-star-grady-jarrett-lists-his-6-3-million-luxury-bachelor-pad-in-atlanta-134de014?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Buyouts are becoming a big trend among college football coaches. Why schools are so willing to pay up.",
+      "summary_en": "Grady Jarrett&#xa0;is going all in on&#xa0;Illinois&#xa0;by putting his sprawling&#xa0;Georgia&#xa0;mansion on the market just months after signing a $43.5 million contract with the&#xa0;Chicago Bears.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T19:17:00.000Z",
-      "headline": "Some people are spending $200 on Halloween candy &#x2014; and others are skipping the holiday &#x2014; as &#x2018;greedy&#x2019; trick-or-treaters spoil the fun",
-      "url": "https://www.marketwatch.com/story/some-people-are-spending-200-on-halloween-candy-and-others-are-skipping-the-holiday-as-greedy-trick-or-treaters-spoil-the-fun-3e84109b?mod=mw_rss_topstories",
+      "ts": "2025-10-14T01:58:00.000Z",
+      "headline": "Is Meta&#x2019;s stock in trouble? OpenAI&#x2019;s new app has Wall Street worried.",
+      "url": "https://www.marketwatch.com/story/is-metas-stock-in-trouble-openais-new-app-has-wall-street-worried-30b2bea9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "OpenAI&#x2019;s Sora app could fundamentally change the social-media landscape and leave Meta scrambling to catch up.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T00:40:00.000Z",
+      "headline": "Is there such a thing as too much Taylor Swift? Not for Disney.",
+      "url": "https://www.marketwatch.com/story/is-there-such-a-thing-as-too-much-taylor-swift-not-for-disney-e13b0882?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Forget those mini candy bars &#x2014; these days, the pressure is on to dole out full-size versions.",
+      "summary_en": "There is no sign yet of Taylor Swift fatigue, as a docuseries on Swift&#x2019;s &#x201c;The Eras Tour&#x201d; is set to be released on Disney+ in December, just months after her latest album was released.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-13T19:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "ts": "2025-10-14T00:11:00.000Z",
+      "headline": "Amazon and TikTok are helping Estee Lauder reinvent itself, Goldman Sachs says",
+      "url": "https://www.marketwatch.com/story/amazon-and-tiktok-are-helping-estee-lauder-reinvent-itself-goldman-sachs-says-3ce1195e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "summary_en": "Cosmetics giant Estee Lauder Cos.&#x2019;s rebound could take hold sooner than expected, Goldman Sachs analysts said on Monday, as trends firm up in the U.S. and China and the company puts more focus on newer and higher-end products and sales through TikTok and Amazon.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -143,6 +132,18 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-14T00:32:00.000Z",
+      "headline": "Tech earnings are coming, and perhaps &#x2018;nothing looms larger&#x2019; than this factor",
+      "url": "https://www.marketwatch.com/story/tech-earnings-are-coming-and-perhaps-nothing-looms-larger-than-this-factor-6ff2e04b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "OpenAI&#x2019;s actions are having a growing impact on Big Tech financials, driving up spending figures and boosting revenue &#x2014; for now.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
