@@ -1,69 +1,118 @@
 {
-  "last_updated": "2025-10-15T10:45:27.326Z",
+  "last_updated": "2025-10-15T13:33:46.428Z",
   "items": [
     {
-      "ts": "2025-10-15T10:35:00.000Z",
-      "headline": "My stepdaughter is buying a house. Can her soon-to-be ex-husband claim a share?",
-      "url": "https://www.marketwatch.com/story/my-stepdaughter-is-buying-a-house-can-her-soon-to-be-ex-husband-claim-a-share-320a8394?mod=mw_rss_topstories",
+      "ts": "2025-10-15T13:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T13:30:00.000Z",
+      "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Her real-estate agent has assured her that she has nothing to worry about.&#x201d;",
+      "summary_en": "&#x201c;My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T09:34:00.000Z",
-      "headline": "My father died leaving an old will predating his fourth wife. Who inherits his estate?",
-      "url": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
+      "ts": "2025-10-15T13:13:00.000Z",
+      "headline": "One of the last holdouts on Nvidia&#x2019;s stock now predicts 78% upside. Here&#x2019;s the thesis.",
+      "url": "https://www.marketwatch.com/story/one-of-the-last-holdouts-on-nvidias-stock-now-predicts-78-upside-heres-the-thesis-24dcb911?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;He gave his fourth wife power of attorney and access to his bank account to pay bills.&#x201d;",
+      "summary_en": "HSBC analysts now think Nvidia has the potential to vastly exceed Wall Street expectations for data-center revenue as the company&#x2019;s customer base broadens.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T09:30:00.000Z",
-      "headline": "I&#x2019;m 77. Despite my $1.4 million wealth, my expenses exceed my income. Do I sell stocks to pay off my mortgage?",
-      "url": "https://www.marketwatch.com/story/im-77-despite-my-1-4-million-wealth-my-expenses-exceed-my-income-do-i-sell-stocks-to-pay-off-my-mortgage-9cf66b23?mod=mw_rss_topstories",
+      "ts": "2025-10-15T12:49:00.000Z",
+      "headline": "These cooking oil stocks are surging, as Trump-China trade tensions heat up",
+      "url": "https://www.marketwatch.com/story/these-cooking-oil-stocks-are-surging-as-trump-china-trade-tensions-heat-up-66802f1c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Shares of Bunge and Archer-Daniels-Midland rallied, after President Trump said America didn&#x2019;t need to buy cooking oil from China, and can &#x2018;easily produce cooking oil ourselves.&#x2019;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T12:47:00.000Z",
+      "headline": "The AI boom really isn&#x2019;t &#x2014; for the broader economy, according to these economists",
+      "url": "https://www.marketwatch.com/story/the-ai-boom-really-isnt-for-the-broader-economy-according-to-these-economists-299bfd9e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I started my own tax-preparation and representation firm. My annual revenue is $60,000 before taxes.&#x201d;",
+      "summary_en": "For all the spending being done by the so-called hyperscalers, the effect on the broader economy is overstated and pales in comparison to previous investment booms.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T09:00:00.000Z",
-      "headline": "Actress Bella Thorne sells flower-adorned Topanga Canyon estate for $3.9 million",
-      "url": "https://www.marketwatch.com/story/actress-bella-thorne-sells-flower-adorned-topanga-canyon-estate-for-3-9-million-6689f225?mod=mw_rss_topstories",
+      "ts": "2025-10-15T13:03:00.000Z",
+      "headline": "Bank of America rides 43% jump in investment-banking revenue to big profit beat",
+      "url": "https://www.marketwatch.com/story/bank-of-america-rides-a-43-jump-in-investment-banking-revenue-to-a-big-profit-beat-dff86a58?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Stock rises toward an 18-year high, after bank&#x2019;s net interest income hits a record and CEO Brian Moynihan cites strength across the board.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T13:25:00.000Z",
+      "headline": "Younger Americans are ditching apps for activities &#x2014; and these stocks are benefitting",
+      "url": "https://www.marketwatch.com/story/religion-bookstores-and-running-clubs-are-in-gen-zs-great-unplugging-is-charging-up-these-6-stocks-842f3055?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "The floral-filled hilltop villa sold for just shy of the $3.99 million asking price the home was listed for in late June.",
+      "summary_en": "Gen Z is shutting off screens &#x2014; how this &#x2018;great unplugging&#x2019; will charge your portfolio.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T08:58:00.000Z",
-      "headline": "Roseanne Barr sells $2.6 million Hawaii macadamia ranch from reality show",
-      "url": "https://www.marketwatch.com/story/roseanne-barr-sells-2-6-million-hawaii-macadamia-ranch-from-reality-show-02ca5686?mod=mw_rss_topstories",
+      "ts": "2025-10-15T13:23:00.000Z",
+      "headline": "&#x2018;Expensive, but not nutty.&#x2019; Howard Marks on U.S. stocks and the one thing investors should be doing right now.",
+      "url": "https://www.marketwatch.com/story/expensive-but-not-nutty-howard-marks-on-u-s-stocks-and-the-one-thing-investors-should-be-doing-right-now-74c75960?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Comedian Roseanne Barr sold her longtime Hawaii ranch for $650,000 over her $1.95 million asking price within days of listing the property.",
+      "summary_en": "Oaktree co-founder Howard Marks says investors should start taking some &#x201c;chips off the table,&#x201d; after a strong run for markets.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T10:32:00.000Z",
-      "headline": "Europe&#x2019;s largest company and AI play delivers on earnings but warns of China slowdown.",
+      "ts": "2025-10-15T13:17:00.000Z",
+      "headline": "Crypto hype is affecting everything from real estate to Treasurys. Here&#x2019;s how to play it.",
+      "url": "https://www.marketwatch.com/story/crypto-hype-is-affecting-everything-from-real-estate-to-treasurys-heres-how-to-play-it-51f501ed?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Tokenization is unlikely to make you rich overnight. But it could make your portfolio more transparent, liquid and efficient.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T12:46:00.000Z",
+      "headline": "Europe&#x2019;s largest company and AI play delivers on earnings but warns of China slowdown",
       "url": "https://www.marketwatch.com/story/europes-largest-company-and-ai-play-delivers-on-earnings-but-warns-of-china-slowdown-60c168eb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -71,42 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "ASML&#x2019;s 3Q earnings justify the optimism on the stock that saw its shares rally from a low of &#x20ac;597 in August to almost &#x20ac;900.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T10:00:00.000Z",
-      "headline": "&#x2018;It&#x2019;s getting scary close to retirement&#x2019;: We&#x2019;re 70. We have no debt, no stocks and $275K in savings. Are we in trouble?",
-      "url": "https://www.marketwatch.com/story/its-getting-scary-close-to-retirement-were-70-we-have-no-debt-no-stocks-and-275k-in-savings-are-we-in-trouble-1a4ba5f6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We will have $4,300 a month in Social Security.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T07:31:00.000Z",
-      "headline": "&#x2018;She may have a spending problem&#x2019;: Would it be wrong to secretly give our son money &#x2014; without telling his wife?",
-      "url": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Our son and his wife, who are in their 30s with a child in preschool, are having marital problems.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T02:05:00.000Z",
-      "headline": "The cheapest ticket to see Team USA play in the FIFA World Cup is $1,640. And prices will likely go even higher.",
-      "url": "https://www.marketwatch.com/story/the-cheapest-ticket-to-see-team-usa-play-in-the-fifa-world-cup-is-1-640-and-prices-will-likely-go-even-higher-05698fce?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "These are the factors driving up ticket prices to the global soccer tournament, which experts note is &#x201c;not for your typical fan&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +144,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T00:08:00.000Z",
-      "headline": "Gen Z is shutting off their screens &#x2014; how this &#x2018;great unplugging&#x2019; will charge your portfolio",
-      "url": "https://www.marketwatch.com/story/religion-bookstores-and-running-clubs-are-in-gen-zs-great-unplugging-is-charging-up-these-6-stocks-842f3055?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Younger Americans are discovering the physical world, and these stocks stand to benefit.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
