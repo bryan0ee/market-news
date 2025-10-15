@@ -1,20 +1,56 @@
 {
-  "last_updated": "2025-10-15T13:33:46.428Z",
+  "last_updated": "2025-10-15T23:24:40.422Z",
   "items": [
     {
-      "ts": "2025-10-15T13:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "ts": "2025-10-15T23:07:00.000Z",
+      "headline": "Why America gets a &#x2018;D&#x2019; grade when it comes to retirement",
+      "url": "https://www.marketwatch.com/story/america-gets-a-d-in-retirement-34b30f11?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. adults are generally underprepared to live well in older age, according to a new report.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T21:52:00.000Z",
+      "headline": "This AI stock has soared 1,600% in three years &#x2014; and Deutsche Bank predicts more gains",
+      "url": "https://www.marketwatch.com/story/this-ai-stock-has-soared-1-600-in-three-years-and-deutsche-bank-predicts-more-gains-8a1728d2?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A Deutsche Bank analyst is upbeat about Vertiv&#x2019;s stock and says the rush of new data-center deals suggests &#x201c;the bull case may not even be bullish enough.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T21:44:00.000Z",
+      "headline": "United Airlines expects premium flyers to fuel record revenue for the rest of the year",
+      "url": "https://www.marketwatch.com/story/united-airlines-expects-premium-flyers-to-fuel-record-revenue-for-the-rest-of-the-year-8d49bd27?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "summary_en": "United Airlines expects strong travel demand leading to record revenue in the holiday quarter, but the stock fell after third-quarter revenue missed expectations, again.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T13:30:00.000Z",
+      "ts": "2025-10-15T21:06:00.000Z",
+      "headline": "You may feel stressed about money, but the big banks say you&#x2019;re not acting like it",
+      "url": "https://www.marketwatch.com/story/you-may-feel-stressed-about-money-but-the-big-banks-say-youre-not-acting-like-it-2d7df40b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "JPMorgan&#x2019;s CFO says while there&#x2019;s a lot of uncertainty and the economy has slowed, &#x2018;the facts say&#x2019; consumers and the economy are just fine",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T20:46:00.000Z",
       "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
       "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,57 +62,56 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T13:13:00.000Z",
-      "headline": "One of the last holdouts on Nvidia&#x2019;s stock now predicts 78% upside. Here&#x2019;s the thesis.",
-      "url": "https://www.marketwatch.com/story/one-of-the-last-holdouts-on-nvidias-stock-now-predicts-78-upside-heres-the-thesis-24dcb911?mod=mw_rss_topstories",
+      "ts": "2025-10-15T23:03:00.000Z",
+      "headline": "Weight-loss drugs shook up the stock market. Menopause treatments could be next.",
+      "url": "https://www.marketwatch.com/story/weight-loss-drugs-shook-up-the-stock-market-menopause-treatments-could-be-next-8bb87fd4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "HSBC analysts now think Nvidia has the potential to vastly exceed Wall Street expectations for data-center revenue as the company&#x2019;s customer base broadens.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T12:49:00.000Z",
-      "headline": "These cooking oil stocks are surging, as Trump-China trade tensions heat up",
-      "url": "https://www.marketwatch.com/story/these-cooking-oil-stocks-are-surging-as-trump-china-trade-tensions-heat-up-66802f1c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Shares of Bunge and Archer-Daniels-Midland rallied, after President Trump said America didn&#x2019;t need to buy cooking oil from China, and can &#x2018;easily produce cooking oil ourselves.&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T12:47:00.000Z",
-      "headline": "The AI boom really isn&#x2019;t &#x2014; for the broader economy, according to these economists",
-      "url": "https://www.marketwatch.com/story/the-ai-boom-really-isnt-for-the-broader-economy-according-to-these-economists-299bfd9e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "For all the spending being done by the so-called hyperscalers, the effect on the broader economy is overstated and pales in comparison to previous investment booms.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T13:03:00.000Z",
-      "headline": "Bank of America rides 43% jump in investment-banking revenue to big profit beat",
-      "url": "https://www.marketwatch.com/story/bank-of-america-rides-a-43-jump-in-investment-banking-revenue-to-a-big-profit-beat-dff86a58?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Stock rises toward an 18-year high, after bank&#x2019;s net interest income hits a record and CEO Brian Moynihan cites strength across the board.",
+      "summary_en": "Hims & Hers is taking aim at menopause and perimenopause in an attempt to tap in to a huge and potentially highly lucrative market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T13:25:00.000Z",
-      "headline": "Younger Americans are ditching apps for activities &#x2014; and these stocks are benefitting",
+      "ts": "2025-10-15T21:30:00.000Z",
+      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
+      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T21:26:00.000Z",
+      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T20:30:00.000Z",
+      "headline": "&#x2018;It&#x2019;s getting scary close to retirement&#x2019;: We&#x2019;re 70. We have no debt, no stocks and $275K in savings. Are we in trouble?",
+      "url": "https://www.marketwatch.com/story/its-getting-scary-close-to-retirement-were-70-we-have-no-debt-no-stocks-and-275k-in-savings-are-we-in-trouble-1a4ba5f6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We will have $4,300 a month in Social Security.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-15T20:08:00.000Z",
+      "headline": "Younger Americans are ditching apps for activities &#x2014; and these stocks are moving",
       "url": "https://www.marketwatch.com/story/religion-bookstores-and-running-clubs-are-in-gen-zs-great-unplugging-is-charging-up-these-6-stocks-842f3055?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -84,42 +119,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Gen Z is shutting off screens &#x2014; how this &#x2018;great unplugging&#x2019; will charge your portfolio.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T13:23:00.000Z",
-      "headline": "&#x2018;Expensive, but not nutty.&#x2019; Howard Marks on U.S. stocks and the one thing investors should be doing right now.",
-      "url": "https://www.marketwatch.com/story/expensive-but-not-nutty-howard-marks-on-u-s-stocks-and-the-one-thing-investors-should-be-doing-right-now-74c75960?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Oaktree co-founder Howard Marks says investors should start taking some &#x201c;chips off the table,&#x201d; after a strong run for markets.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T13:17:00.000Z",
-      "headline": "Crypto hype is affecting everything from real estate to Treasurys. Here&#x2019;s how to play it.",
-      "url": "https://www.marketwatch.com/story/crypto-hype-is-affecting-everything-from-real-estate-to-treasurys-heres-how-to-play-it-51f501ed?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Tokenization is unlikely to make you rich overnight. But it could make your portfolio more transparent, liquid and efficient.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T12:46:00.000Z",
-      "headline": "Europe&#x2019;s largest company and AI play delivers on earnings but warns of China slowdown",
-      "url": "https://www.marketwatch.com/story/europes-largest-company-and-ai-play-delivers-on-earnings-but-warns-of-china-slowdown-60c168eb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "ASML&#x2019;s 3Q earnings justify the optimism on the stock that saw its shares rally from a low of &#x20ac;597 in August to almost &#x20ac;900.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,18 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces expanded operating days of two large-value payments services, Fedwire&reg; Funds Service and the National Settlement Service (NSS), to include Sundays and weekday holidays",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-08T18:00:00.000Z",
-      "headline": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Minutes of the Federal Open Market Committee, September 16–17, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
