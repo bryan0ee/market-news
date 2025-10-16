@@ -1,45 +1,9 @@
 {
-  "last_updated": "2025-10-15T23:24:40.422Z",
+  "last_updated": "2025-10-16T10:44:16.820Z",
   "items": [
     {
-      "ts": "2025-10-15T23:07:00.000Z",
-      "headline": "Why America gets a &#x2018;D&#x2019; grade when it comes to retirement",
-      "url": "https://www.marketwatch.com/story/america-gets-a-d-in-retirement-34b30f11?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. adults are generally underprepared to live well in older age, according to a new report.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T21:52:00.000Z",
-      "headline": "This AI stock has soared 1,600% in three years &#x2014; and Deutsche Bank predicts more gains",
-      "url": "https://www.marketwatch.com/story/this-ai-stock-has-soared-1-600-in-three-years-and-deutsche-bank-predicts-more-gains-8a1728d2?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A Deutsche Bank analyst is upbeat about Vertiv&#x2019;s stock and says the rush of new data-center deals suggests &#x201c;the bull case may not even be bullish enough.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T21:44:00.000Z",
-      "headline": "United Airlines expects premium flyers to fuel record revenue for the rest of the year",
-      "url": "https://www.marketwatch.com/story/united-airlines-expects-premium-flyers-to-fuel-record-revenue-for-the-rest-of-the-year-8d49bd27?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "United Airlines expects strong travel demand leading to record revenue in the holiday quarter, but the stock fell after third-quarter revenue missed expectations, again.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T21:06:00.000Z",
-      "headline": "You may feel stressed about money, but the big banks say you&#x2019;re not acting like it",
+      "ts": "2025-10-16T10:41:00.000Z",
+      "headline": "Are you feeling stressed about money? The big banks say you&#x2019;re not acting like it.",
       "url": "https://www.marketwatch.com/story/you-may-feel-stressed-about-money-but-the-big-banks-say-youre-not-acting-like-it-2d7df40b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -50,55 +14,55 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T20:46:00.000Z",
-      "headline": "My uncle&#x2019;s widow is threatening to sue me. She wants money from my grandmother&#x2019;s estate. Should I be worried?",
-      "url": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
+      "ts": "2025-10-16T09:06:00.000Z",
+      "headline": "Taiwan Semiconductor tops earnings expectations, raises guidance again on AI boom.",
+      "url": "https://www.marketwatch.com/story/taiwan-semiconductor-tops-earnings-expectations-raises-guidance-again-on-ai-boom-6df838fc?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "TSMC&#x2019;s ADRs have rallied more than 50% already in 2025 and raised guidance will reinforce trading sentiment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T09:30:00.000Z",
+      "headline": "We&#x2019;re in our 70s. How do we withdraw $6 million from our retirement fund without getting killed on taxes?",
+      "url": "https://www.marketwatch.com/story/were-in-our-70s-how-do-we-withdraw-6-million-from-our-retirement-fund-without-getting-killed-on-taxes-e0748c25?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary.&#x201d;",
+      "summary_en": "&#x201c;Some of the stocks pay dividends totaling around $90,000 annually.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T23:03:00.000Z",
-      "headline": "Weight-loss drugs shook up the stock market. Menopause treatments could be next.",
-      "url": "https://www.marketwatch.com/story/weight-loss-drugs-shook-up-the-stock-market-menopause-treatments-could-be-next-8bb87fd4?mod=mw_rss_topstories",
+      "ts": "2025-10-16T09:11:00.000Z",
+      "headline": "I&#x2019;m 77. Despite my $1.4 million wealth, my expenses exceed my income. Do I sell stocks to pay off my mortgage?",
+      "url": "https://www.marketwatch.com/story/im-77-despite-my-1-4-million-wealth-my-expenses-exceed-my-income-do-i-sell-stocks-to-pay-off-my-mortgage-9cf66b23?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Hims & Hers is taking aim at menopause and perimenopause in an attempt to tap in to a huge and potentially highly lucrative market.",
+      "summary_en": "&#x201c;I started my own tax-preparation and representation firm. My annual revenue is $60,000 before taxes.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T21:30:00.000Z",
-      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
-      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+      "ts": "2025-10-16T08:57:00.000Z",
+      "headline": "Former L.A. home of Neil Patrick Harris, seen in Oprah interview, listed for $4 million",
+      "url": "https://www.marketwatch.com/story/former-l-a-home-of-neil-patrick-harris-seen-in-oprah-interview-listed-for-4-million-aa33ed46?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "summary_en": "A southern California home once famously owned by Neil Patrick Harris and his husband David Burtka is on the market for $4 million.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T21:26:00.000Z",
-      "headline": "&#x2018;I&#x2019;d hate to turn her over to the state&#x2019;: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She has never been willing to sign a power of attorney.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-15T20:30:00.000Z",
+      "ts": "2025-10-16T10:00:00.000Z",
       "headline": "&#x2018;It&#x2019;s getting scary close to retirement&#x2019;: We&#x2019;re 70. We have no debt, no stocks and $275K in savings. Are we in trouble?",
       "url": "https://www.marketwatch.com/story/its-getting-scary-close-to-retirement-were-70-we-have-no-debt-no-stocks-and-275k-in-savings-are-we-in-trouble-1a4ba5f6?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -110,15 +74,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-15T20:08:00.000Z",
-      "headline": "Younger Americans are ditching apps for activities &#x2014; and these stocks are moving",
-      "url": "https://www.marketwatch.com/story/religion-bookstores-and-running-clubs-are-in-gen-zs-great-unplugging-is-charging-up-these-6-stocks-842f3055?mod=mw_rss_topstories",
+      "ts": "2025-10-16T06:30:00.000Z",
+      "headline": "This veteran strategist is poking holes on the hype surrounding stablecoins",
+      "url": "https://www.marketwatch.com/story/this-veteran-strategist-is-poking-holes-on-the-hype-surrounding-stablecoins-f6fbb1f1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Gen Z is shutting off screens &#x2014; how this &#x2018;great unplugging&#x2019; will charge your portfolio.",
+      "summary_en": "For all the hype around stablecoins, it&#x2019;s tokenization that may revolutionize finance, says a veteran financial markets strategist.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T02:16:00.000Z",
+      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T02:18:00.000Z",
+      "headline": "LeBron James on why he won&#x2019;t take risks with his money: &#x2018;I can&#x2019;t start over. There&#x2019;s no way.&#x2019;",
+      "url": "https://www.marketwatch.com/story/lebron-james-on-why-he-wont-take-risks-with-his-money-i-cant-start-over-theres-no-way-dd6e1558?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Lakers star recently shared his financial fears &#x2014; and the warning he gave to his financial adviser should he ever steal from him.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T02:12:00.000Z",
+      "headline": "My father died leaving an old will predating his fourth wife. Who inherits his estate?",
+      "url": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He gave his fourth wife power of attorney and access to his bank account to pay bills.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
