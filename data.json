@@ -1,6 +1,78 @@
 {
-  "last_updated": "2025-10-16T10:44:16.820Z",
+  "last_updated": "2025-10-16T13:33:35.289Z",
   "items": [
+    {
+      "ts": "2025-10-16T13:26:00.000Z",
+      "headline": "Nio&#x2019;s stock is cratering after the EV company was accused of fraud &#x2014; again",
+      "url": "https://www.marketwatch.com/story/nios-stock-is-cratering-after-the-ev-company-was-accused-of-fraud-again-9969bcff?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Nio was sued by Singapore&#x2019;s sovereign wealth fund over claims the Chinese electric-vehicle maker juiced its numbers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T11:39:00.000Z",
+      "headline": "Nestle earnings beat and 16,000 job cuts prompt biggest one-day jump in shares since 2008",
+      "url": "https://www.marketwatch.com/story/nestle-earnings-beat-and-16-000-job-cuts-prompt-biggest-one-day-jump-in-shares-since-2008-6040dc8d?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "New CEO Navratil has effected massive organizational changes since his recent appointment barely a month ago.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T12:00:00.000Z",
+      "headline": "A major lender wants to turn mortgages into rewards points. Here&#x2019;s why you should think twice.",
+      "url": "https://www.marketwatch.com/story/a-major-lender-wants-to-turn-mortgages-into-rewards-points-heres-why-you-should-think-twice-9ad34011?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "United Wholesale Mortgage is teaming up with Bilt to offer rewards points &#x2014; part of a broader push by lenders to attract scarce borrowers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T12:00:00.000Z",
+      "headline": "&#x2018;It kind of takes the joy out of cruising.&#x2019; Some Norwegian Cruise Line passengers balk at new food-and-drink policies.",
+      "url": "https://www.marketwatch.com/story/it-kind-of-takes-the-joy-out-of-cruising-some-norwegian-cruise-line-passengers-balk-at-new-food-and-drink-policies-fd86ad13?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "But it&#x2019;s all about paying heed to the bottom line, say Wall Street analysts.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T11:28:00.000Z",
+      "headline": "We&#x2019;re in our 70s and want to leave $2.8 million to our children. Is 90% in stocks too risky?",
+      "url": "https://www.marketwatch.com/story/were-in-our-70s-and-want-to-leave-2-8-million-to-our-children-is-90-in-stocks-too-risky-6f4346d5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We plan to leave this money to our kids someday.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T12:57:00.000Z",
+      "headline": "Here&#x2019;s a better way to invest for income before money-market yields plunge",
+      "url": "https://www.marketwatch.com/story/heres-a-better-way-to-invest-for-income-before-money-market-yields-plunge-15597689?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "This is a good time to expand your horizons to make sure investment income continues to flow if interest rates tumble.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-16T10:41:00.000Z",
       "headline": "Are you feeling stressed about money? The big banks say you&#x2019;re not acting like it.",
@@ -14,15 +86,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T09:06:00.000Z",
-      "headline": "Taiwan Semiconductor tops earnings expectations, raises guidance again on AI boom.",
-      "url": "https://www.marketwatch.com/story/taiwan-semiconductor-tops-earnings-expectations-raises-guidance-again-on-ai-boom-6df838fc?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-10-16T12:39:00.000Z",
+      "headline": "Forget the wealthy. Why this value manager is betting on average Americans, and the stocks he&#x2019;s buying now.",
+      "url": "https://www.marketwatch.com/story/forget-the-wealthy-why-this-value-manager-is-betting-on-average-americans-and-the-stocks-hes-buying-now-a521b2f4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "TSMC&#x2019;s ADRs have rallied more than 50% already in 2025 and raised guidance will reinforce trading sentiment.",
+      "summary_en": "Smead Capital Management&#x2019;s Bill Smead says when the market correction eventually comes, wealthy Americans won&#x2019;t help investors&#x2019; portfolios.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,30 +110,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T09:11:00.000Z",
-      "headline": "I&#x2019;m 77. Despite my $1.4 million wealth, my expenses exceed my income. Do I sell stocks to pay off my mortgage?",
-      "url": "https://www.marketwatch.com/story/im-77-despite-my-1-4-million-wealth-my-expenses-exceed-my-income-do-i-sell-stocks-to-pay-off-my-mortgage-9cf66b23?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I started my own tax-preparation and representation firm. My annual revenue is $60,000 before taxes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T08:57:00.000Z",
-      "headline": "Former L.A. home of Neil Patrick Harris, seen in Oprah interview, listed for $4 million",
-      "url": "https://www.marketwatch.com/story/former-l-a-home-of-neil-patrick-harris-seen-in-oprah-interview-listed-for-4-million-aa33ed46?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A southern California home once famously owned by Neil Patrick Harris and his husband David Burtka is on the market for $4 million.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-16T10:00:00.000Z",
       "headline": "&#x2018;It&#x2019;s getting scary close to retirement&#x2019;: We&#x2019;re 70. We have no debt, no stocks and $275K in savings. Are we in trouble?",
       "url": "https://www.marketwatch.com/story/its-getting-scary-close-to-retirement-were-70-we-have-no-debt-no-stocks-and-275k-in-savings-are-we-in-trouble-1a4ba5f6?mod=mw_rss_topstories",
@@ -71,54 +119,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;We will have $4,300 a month in Social Security.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T06:30:00.000Z",
-      "headline": "This veteran strategist is poking holes on the hype surrounding stablecoins",
-      "url": "https://www.marketwatch.com/story/this-veteran-strategist-is-poking-holes-on-the-hype-surrounding-stablecoins-f6fbb1f1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "For all the hype around stablecoins, it&#x2019;s tokenization that may revolutionize finance, says a veteran financial markets strategist.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T02:16:00.000Z",
-      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T02:18:00.000Z",
-      "headline": "LeBron James on why he won&#x2019;t take risks with his money: &#x2018;I can&#x2019;t start over. There&#x2019;s no way.&#x2019;",
-      "url": "https://www.marketwatch.com/story/lebron-james-on-why-he-wont-take-risks-with-his-money-i-cant-start-over-theres-no-way-dd6e1558?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Lakers star recently shared his financial fears &#x2014; and the warning he gave to his financial adviser should he ever steal from him.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T02:12:00.000Z",
-      "headline": "My father died leaving an old will predating his fourth wife. Who inherits his estate?",
-      "url": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He gave his fourth wife power of attorney and access to his bank account to pay bills.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
