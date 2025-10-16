@@ -1,9 +1,21 @@
 {
-  "last_updated": "2025-10-16T13:33:35.289Z",
+  "last_updated": "2025-10-16T23:22:44.302Z",
   "items": [
     {
-      "ts": "2025-10-16T13:26:00.000Z",
-      "headline": "Nio&#x2019;s stock is cratering after the EV company was accused of fraud &#x2014; again",
+      "ts": "2025-10-16T21:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251016a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T22:22:00.000Z",
+      "headline": "Nio&#x2019;s stock recoups losses as Wall Street assesses a shareholder suit. What to know.",
       "url": "https://www.marketwatch.com/story/nios-stock-is-cratering-after-the-ev-company-was-accused-of-fraud-again-9969bcff?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -14,19 +26,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T11:39:00.000Z",
-      "headline": "Nestle earnings beat and 16,000 job cuts prompt biggest one-day jump in shares since 2008",
-      "url": "https://www.marketwatch.com/story/nestle-earnings-beat-and-16-000-job-cuts-prompt-biggest-one-day-jump-in-shares-since-2008-6040dc8d?mod=mw_rss_topstories",
+      "ts": "2025-10-16T20:45:00.000Z",
+      "headline": "Lithium Americas is deemed vital by Trump, but investors beware, J.P. Morgan says",
+      "url": "https://www.marketwatch.com/story/lithium-americas-is-deemed-vital-by-trump-but-investors-beware-j-p-morgan-says-ce5e0bd8?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "New CEO Navratil has effected massive organizational changes since his recent appointment barely a month ago.",
+      "summary_en": "Lithium Americas Corp. saw its stock surge recently after the federal government took a stake in the company, but J.P. Morgan warns that investors should not get carried away with the the lithium producer&#x2019;s newfound popularity in Washington.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T12:00:00.000Z",
+      "ts": "2025-10-16T21:43:00.000Z",
+      "headline": "Why record cash in money-market funds won&#x2019;t necessarily flood into stocks, bonds",
+      "url": "https://www.marketwatch.com/story/why-record-cash-in-money-market-funds-wont-necessarily-flood-into-stocks-bonds-f5de2571?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The record amount of cash in money-market funds isn&#x2019;t about to flood into riskier assets in the stock and bond markets &#x2014; despite the Federal Reserve recently resuming its interest-rate-cutting cycle, according to research from J.P. Morgan.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T21:40:00.000Z",
       "headline": "A major lender wants to turn mortgages into rewards points. Here&#x2019;s why you should think twice.",
       "url": "https://www.marketwatch.com/story/a-major-lender-wants-to-turn-mortgages-into-rewards-points-heres-why-you-should-think-twice-9ad34011?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,99 +62,88 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T12:00:00.000Z",
-      "headline": "&#x2018;It kind of takes the joy out of cruising.&#x2019; Some Norwegian Cruise Line passengers balk at new food-and-drink policies.",
-      "url": "https://www.marketwatch.com/story/it-kind-of-takes-the-joy-out-of-cruising-some-norwegian-cruise-line-passengers-balk-at-new-food-and-drink-policies-fd86ad13?mod=mw_rss_topstories",
+      "ts": "2025-10-16T20:39:00.000Z",
+      "headline": "Did Salesforce finally prove the bears wrong? The stock is rising off an upbeat AI forecast.",
+      "url": "https://www.marketwatch.com/story/did-salesforce-finally-prove-the-bears-wrong-the-stock-is-rising-off-an-upbeat-ai-forecast-95516e2f?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Salesforce guided for $60 billion in revenue by fiscal 2030, igniting optimism about the company&#x2019;s AI-monetization strategy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T21:17:00.000Z",
+      "headline": "Jerome Powell may have just given stock investors a new reason to be worried",
+      "url": "https://www.marketwatch.com/story/jerome-powell-may-have-just-given-stock-investors-a-new-reason-to-be-worried-d2ce23ad?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "But it&#x2019;s all about paying heed to the bottom line, say Wall Street analysts.",
+      "summary_en": "The Fed plans to end its quantitative-tightening program &#x2014; but stocks do better under those conditions.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T11:28:00.000Z",
-      "headline": "We&#x2019;re in our 70s and want to leave $2.8 million to our children. Is 90% in stocks too risky?",
-      "url": "https://www.marketwatch.com/story/were-in-our-70s-and-want-to-leave-2-8-million-to-our-children-is-90-in-stocks-too-risky-6f4346d5?mod=mw_rss_topstories",
+      "ts": "2025-10-16T20:57:00.000Z",
+      "headline": "Trump rolls out his latest deal with a drugmaker. This one stems from his campaign promise to cover all IVF costs.",
+      "url": "https://www.marketwatch.com/story/trump-rolls-out-his-latest-deal-with-a-drugmaker-this-one-stems-from-his-campaign-promise-to-cover-all-ivf-costs-c54597bc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "President Donald Trump on Thursday announced a deal with EMD Serono, a subsidiary of German drugmaker Merck KGaA, that aims to cut the out-of-pocket costs for in vitro fertilization, with the move coming more than a year after his campaign promise to eliminate all such costs for the fertility treatment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T20:49:00.000Z",
+      "headline": "Praxis Precision&#x2019;s tremor-drug trial succeeds where others have failed. The stock is skyrocketing.",
+      "url": "https://www.marketwatch.com/story/praxis-precisions-tremor-drug-trial-has-succeeded-where-others-have-failed-the-stock-is-skyrocketing-de114950?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We plan to leave this money to our kids someday.&#x201d;",
+      "summary_en": "Shares of Praxis Precision Medicines hit their highest intraday level since March 2022.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T12:57:00.000Z",
-      "headline": "Here&#x2019;s a better way to invest for income before money-market yields plunge",
-      "url": "https://www.marketwatch.com/story/heres-a-better-way-to-invest-for-income-before-money-market-yields-plunge-15597689?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-10-16T20:36:00.000Z",
+      "headline": "Oracle&#x2019;s stock rises as Wall Street&#x2019;s AI profitability concerns are put to rest",
+      "url": "https://www.marketwatch.com/story/oracles-stock-rises-as-wall-streets-ai-profitability-concerns-are-put-to-rest-f151b580?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The tech giant raised its long-term financial targets and projected strong cloud margins, reassuring investors that its massive AI spending spree is on a path to profitability",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T22:46:00.000Z",
+      "headline": "Most Americans are falling behind in saving for retirement. Here&#x2019;s how they can make up the difference.",
+      "url": "https://www.marketwatch.com/story/most-americans-are-falling-behind-in-saving-for-retirement-heres-how-they-can-make-up-the-difference-be8ee47e?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "This is a good time to expand your horizons to make sure investment income continues to flow if interest rates tumble.",
+      "summary_en": "The savings shortfall comes as Social Security faces insolvency, people are living longer and inflation outpaces earnings gains.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T10:41:00.000Z",
-      "headline": "Are you feeling stressed about money? The big banks say you&#x2019;re not acting like it.",
-      "url": "https://www.marketwatch.com/story/you-may-feel-stressed-about-money-but-the-big-banks-say-youre-not-acting-like-it-2d7df40b?mod=mw_rss_topstories",
+      "ts": "2025-10-16T19:00:00.000Z",
+      "headline": "Agencies announce withdrawal of principles for climate-related financial risk management",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251016a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "JPMorgan&#x2019;s CFO says while there&#x2019;s a lot of uncertainty and the economy has slowed, &#x2018;the facts say&#x2019; consumers and the economy are just fine",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T12:39:00.000Z",
-      "headline": "Forget the wealthy. Why this value manager is betting on average Americans, and the stocks he&#x2019;s buying now.",
-      "url": "https://www.marketwatch.com/story/forget-the-wealthy-why-this-value-manager-is-betting-on-average-americans-and-the-stocks-hes-buying-now-a521b2f4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Smead Capital Management&#x2019;s Bill Smead says when the market correction eventually comes, wealthy Americans won&#x2019;t help investors&#x2019; portfolios.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T09:30:00.000Z",
-      "headline": "We&#x2019;re in our 70s. How do we withdraw $6 million from our retirement fund without getting killed on taxes?",
-      "url": "https://www.marketwatch.com/story/were-in-our-70s-how-do-we-withdraw-6-million-from-our-retirement-fund-without-getting-killed-on-taxes-e0748c25?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Some of the stocks pay dividends totaling around $90,000 annually.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T10:00:00.000Z",
-      "headline": "&#x2018;It&#x2019;s getting scary close to retirement&#x2019;: We&#x2019;re 70. We have no debt, no stocks and $275K in savings. Are we in trouble?",
-      "url": "https://www.marketwatch.com/story/its-getting-scary-close-to-retirement-were-70-we-have-no-debt-no-stocks-and-275k-in-savings-are-we-in-trouble-1a4ba5f6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We will have $4,300 a month in Social Security.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-09T20:30:00.000Z",
-      "headline": "Federal Reserve Board announces expanded operating days of two large-value payments services, Fedwire® Funds Service and the National Settlement Service (NSS), to include Sundays and weekday holidays",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251009a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces expanded operating days of two large-value payments services, Fedwire&reg; Funds Service and the National Settlement Service (NSS), to include Sundays and weekday holidays",
+      "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
