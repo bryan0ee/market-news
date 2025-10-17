@@ -1,44 +1,80 @@
 {
-  "last_updated": "2025-10-17T13:30:06.487Z",
+  "last_updated": "2025-10-17T23:24:32.958Z",
   "items": [
     {
-      "ts": "2025-10-17T13:17:00.000Z",
-      "headline": "&#x2018;We have been married for 10 years&#x2019;: My children will get my estate &#x2014; not my husband, who has $1.3 million. Is that fair?",
-      "url": "https://www.marketwatch.com/story/we-have-been-married-for-10-years-my-children-will-get-my-estate-not-my-husband-who-has-1-3-million-is-that-fair-fbed0c8c?mod=mw_rss_topstories",
+      "ts": "2025-10-17T22:45:00.000Z",
+      "headline": "Federal Reserve Board denies application by Canandaigua National Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251017a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;He plans to leave me a life estate in the condo and the ability to receive rent from his properties.&#x201d;",
+      "summary_en": "Federal Reserve Board denies application by Canandaigua National Corporation",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-17T12:53:00.000Z",
-      "headline": "Fifth Third looks to calm investors, says loan losses are falling",
+      "ts": "2025-10-17T20:46:00.000Z",
+      "headline": "Here&#x2019;s what banks are looking at to spot economic trouble, as credit quality sparks concerns",
+      "url": "https://www.marketwatch.com/story/heres-what-banks-are-looking-at-to-spot-economic-trouble-as-credit-quality-sparks-concerns-0e72a32f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Despite some fresh doubts about credit that banks addressed this week, the U.S. economy seems to be chugging along.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T20:26:00.000Z",
+      "headline": "&#x2018;Rocky IV&#x2019; star Dolph Lundgren shares the money mistake that made him more hands-on with his finances",
+      "url": "https://www.marketwatch.com/story/rocky-iv-star-dolph-lundgren-shares-the-money-mistake-that-made-him-more-hands-on-with-his-finances-ddf9bfdd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Swedish-born actor, who played the boxer Ivan Drago in &#x2018;Rocky IV,&#x2019; has now gone into the vodka-making business and taken a more hands-on approach with his finances.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T19:23:00.000Z",
+      "headline": "Free returns are not a given anymore, as retailers deal with rising costs",
+      "url": "https://www.marketwatch.com/story/free-returns-are-not-a-given-anymore-as-retailers-deal-with-rising-costs-c2e50de0?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "A surge in product returns seen through the pandemic is leveling off as retailers&#x2019; generous return policies have become &#x201c;harder to sustain,&#x201d; a new report says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T20:20:00.000Z",
+      "headline": "Concerns about banks&#x2019; credit exposure help power latest leg of bond-market rally",
+      "url": "https://www.marketwatch.com/story/concerns-about-banks-credit-exposure-help-power-latest-leg-of-bond-market-rally-41119da6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The 10-year Treasury yield briefly fell to its lowest intraday level since April on Friday, as traders assessed the potential for a deeper push below 4% on any further fallout from bad loans in the banking industry.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T19:01:00.000Z",
+      "headline": "Fifth Third Bank&#x2019;s message on credit jitters: There&#x2019;s nothing to worry about",
       "url": "https://www.marketwatch.com/story/fifth-third-says-nothing-more-about-its-tricolor-loan-loss-and-the-stock-rises-df183534?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Fifth Third&#x2019;s provision for credit losses rises but were less than analyst expectations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T11:52:00.000Z",
-      "headline": "American Express sees credit card spending accelerate, fueling a profit beat and raise",
-      "url": "https://www.marketwatch.com/story/american-express-sees-credit-card-spending-accelerate-fueling-a-profit-beat-and-raise-a81f05a2?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "American Express beat earnings expectations and raised its outlook, amid strong demand for its higher-priced premium Platinum card.",
+      "summary_en": "The regional bank&#x2019;s stock bounced as its earnings beat expectations and provisions for credit losses were less than feared.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-17T12:38:00.000Z",
+      "ts": "2025-10-17T19:30:00.000Z",
       "headline": "We&#x2019;re in our 70s. How do we withdraw $6 million from our retirement fund without getting killed on taxes?",
       "url": "https://www.marketwatch.com/story/were-in-our-70s-how-do-we-withdraw-6-million-from-our-retirement-fund-without-getting-killed-on-taxes-e0748c25?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,69 +86,44 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-17T11:53:00.000Z",
-      "headline": "There is credit market fear right now. But here&#x2019;s why stocks will still rally into year-end, says this bull.",
-      "url": "https://www.marketwatch.com/story/yes-there-is-credit-market-apprehension-right-now-but-heres-why-stocks-will-still-rally-into-year-end-says-this-bull-cf9d4275?mod=mw_rss_topstories",
+      "ts": "2025-10-17T19:16:00.000Z",
+      "headline": "Want to stream every NBA game this season? It&#x2019;s going to cost you nearly $1,000.",
+      "url": "https://www.marketwatch.com/story/want-to-stream-every-nba-game-this-season-its-going-to-cost-you-nearly-1-000-e9683d57?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
-      ],
-      "summary_en": "A rush by fund managers to boost portfolios will help take the S&P 500 to 7,000, says Tom Lee",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T11:00:00.000Z",
-      "headline": "China is the world leader when it comes to rare earths. This can be used this as leverage in a trade war with the U.S.",
-      "url": "https://www.marketwatch.com/story/china-is-the-world-leader-when-it-comes-to-rare-earths-this-can-be-used-this-as-leverage-in-a-trade-war-with-the-u-s-d108ab55?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "China leads the world when it comes to the production and processing of rare earths. That may be a key weapon in its trade battle with the U.S. &#x2014; and its move to expand export restrictions on those elements shows that China knows it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T10:05:00.000Z",
-      "headline": "Weight-loss drug stocks are tumbling after Trump promised their costs &#x2018;will be much lower&#x2019;",
-      "url": "https://www.marketwatch.com/story/weight-loss-drug-stocks-are-tumbling-after-trump-promised-their-costs-will-be-much-lower-c4a20201?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
         "COST"
       ],
-      "summary_en": "President Trump is skeptical about the efficacy of weight-loss drugs and wants to lower the prices.",
+      "summary_en": "2025-26 NBA games will air on several new streaming services this year, including Amazon Prime and Peacock.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-17T12:31:00.000Z",
-      "headline": "Winning stock investors make money spotting trends early &#x2014; and this one is just starting",
-      "url": "https://www.marketwatch.com/story/winning-stock-investors-make-money-spotting-trends-early-and-this-one-is-just-starting-acf615d5?mod=mw_rss_topstories",
+      "ts": "2025-10-17T21:23:00.000Z",
+      "headline": "This government shutdown could be the longest ever &#x2014; maybe running until Thanksgiving. What might the economic damage be?",
+      "url": "https://www.marketwatch.com/story/this-government-shutdown-could-be-the-longest-ever-maybe-running-until-thanksgiving-what-might-the-economic-damage-be-0bd7c46e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Charlie Garcia responds to readers about why younger Americans choosing real-world activities is the real deal.",
+      "summary_en": "A MarketWatch poll finds that 47% of respondents say their No. 1 shutdown concern is the potential hit to the U.S. economy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-17T09:03:00.000Z",
-      "headline": "Barstool Sports founder Dave Portnoy buys record-setting $28 million waterfront estate in Florida Keys",
-      "url": "https://www.marketwatch.com/story/barstool-sports-founder-dave-portnoy-buys-record-setting-28-million-waterfront-estate-in-florida-keys-e1d93760?mod=mw_rss_topstories",
+      "ts": "2025-10-17T19:31:00.000Z",
+      "headline": "Can&#x2019;t invest in SpaceX? Investors can buy this stock instead.",
+      "url": "https://www.marketwatch.com/story/cant-invest-in-spacex-investors-can-buy-this-stock-instead-a6c94479?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Barstool Sports president&#xa0;Dave Portnoy&#xa0;has reportedly purchased a new &#x201c;sanctuary&#x201d; in the&#xa0;Florida Keys for a staggering price.",
+      "summary_en": "SpaceX may be the highest-profile name in the space industry, but analysts say launch rival Rocket Lab Corp. provides an alternative for investors who wish they could invest in Elon Musk&#x2019;s privately held company.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-17T09:30:00.000Z",
-      "headline": "I&#x2019;m 42, a single parent with $372K. I won&#x2019;t invest in the S&P 500. Am I wrong?",
+      "ts": "2025-10-17T18:53:00.000Z",
+      "headline": "I&#x2019;m 42, a single parent with $372K in cash and CDs. I won&#x2019;t invest in stocks. Am I wrong?",
       "url": "https://www.marketwatch.com/story/im-42-a-single-parent-with-372k-i-wont-invest-in-the-s-p-500-am-i-wrong-fd26ce67?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
