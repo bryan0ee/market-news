@@ -1,6 +1,91 @@
 {
-  "last_updated": "2025-10-16T23:22:44.302Z",
+  "last_updated": "2025-10-17T10:42:52.396Z",
   "items": [
+    {
+      "ts": "2025-10-17T10:38:00.000Z",
+      "headline": "Yes, there is credit market apprehension right now. But here&#x2019;s why stocks will still rally into year-end, says this bull.",
+      "url": "https://www.marketwatch.com/story/yes-there-is-credit-market-apprehension-right-now-but-heres-why-stocks-will-still-rally-into-year-end-says-this-bull-cf9d4275?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A rush by fund managers to boost portfolios will help take the S&P 500 to 7,000, says Tom Lee",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T10:05:00.000Z",
+      "headline": "Weight-loss drug stocks are tumbling after Trump promised their costs &#x2018;will be much lower&#x2019;",
+      "url": "https://www.marketwatch.com/story/weight-loss-drug-stocks-are-tumbling-after-trump-promised-their-costs-will-be-much-lower-c4a20201?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "President Trump is skeptical about the efficacy of weight-loss drugs and wants to lower the prices.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T09:03:00.000Z",
+      "headline": "Barstool Sports founder Dave Portnoy buys record-setting $28 million waterfront estate in Florida Keys",
+      "url": "https://www.marketwatch.com/story/barstool-sports-founder-dave-portnoy-buys-record-setting-28-million-waterfront-estate-in-florida-keys-e1d93760?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Barstool Sports president&#xa0;Dave Portnoy&#xa0;has reportedly purchased a new &#x201c;sanctuary&#x201d; in the&#xa0;Florida Keys for a staggering price.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T09:30:00.000Z",
+      "headline": "I&#x2019;m 42, a single parent with $372K. I won&#x2019;t invest in the S&P 500. Am I wrong?",
+      "url": "https://www.marketwatch.com/story/im-42-a-single-parent-with-372k-i-wont-invest-in-the-s-p-500-am-i-wrong-fd26ce67?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am not comfortable putting too much cash in stocks, especially given I have two young kids.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T03:00:00.000Z",
+      "headline": "My father died leaving an old will predating his fourth wife. Who inherits his estate?",
+      "url": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He gave his fourth wife power of attorney and access to his bank account to pay bills.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T02:23:00.000Z",
+      "headline": "Spotify says it&#x2019;s working to protect artists from AI abuse, but the streaming company&#x2019;s track record is shaky",
+      "url": "https://www.marketwatch.com/story/spotify-says-its-working-to-protect-artists-from-ai-abuse-but-the-streaming-companys-track-record-is-shaky-cf3c029b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "After years of fighting scams and fraud, the music-streaming company announced it is joining forces with three major music labels to develop AI products that can help artists.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T01:04:00.000Z",
+      "headline": "Lithium Americas is deemed vital by Trump, but investors beware, J.P. Morgan says",
+      "url": "https://www.marketwatch.com/story/lithium-americas-is-deemed-vital-by-trump-but-investors-beware-j-p-morgan-says-ce5e0bd8?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Lithium Americas Corp. saw its stock surge recently after the federal government took a stake in the company, but J.P. Morgan warns that investors should not get carried away with the the lithium producer&#x2019;s newfound popularity in Washington.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-16T21:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
@@ -14,124 +99,16 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-16T22:22:00.000Z",
-      "headline": "Nio&#x2019;s stock recoups losses as Wall Street assesses a shareholder suit. What to know.",
-      "url": "https://www.marketwatch.com/story/nios-stock-is-cratering-after-the-ev-company-was-accused-of-fraud-again-9969bcff?mod=mw_rss_topstories",
+      "ts": "2025-10-16T23:31:00.000Z",
+      "headline": "Banks&#x2019; credit &#x2018;cockroaches&#x2019; are spooking the stock market. Here&#x2019;s what investors need to know.",
+      "url": "https://www.marketwatch.com/story/banks-credit-cockroaches-are-spooking-the-stock-market-heres-what-investors-need-to-know-e3dcf635?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "Nio was sued by Singapore&#x2019;s sovereign wealth fund over claims the Chinese electric-vehicle maker juiced its numbers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T20:45:00.000Z",
-      "headline": "Lithium Americas is deemed vital by Trump, but investors beware, J.P. Morgan says",
-      "url": "https://www.marketwatch.com/story/lithium-americas-is-deemed-vital-by-trump-but-investors-beware-j-p-morgan-says-ce5e0bd8?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Lithium Americas Corp. saw its stock surge recently after the federal government took a stake in the company, but J.P. Morgan warns that investors should not get carried away with the the lithium producer&#x2019;s newfound popularity in Washington.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T21:43:00.000Z",
-      "headline": "Why record cash in money-market funds won&#x2019;t necessarily flood into stocks, bonds",
-      "url": "https://www.marketwatch.com/story/why-record-cash-in-money-market-funds-wont-necessarily-flood-into-stocks-bonds-f5de2571?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The record amount of cash in money-market funds isn&#x2019;t about to flood into riskier assets in the stock and bond markets &#x2014; despite the Federal Reserve recently resuming its interest-rate-cutting cycle, according to research from J.P. Morgan.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T21:40:00.000Z",
-      "headline": "A major lender wants to turn mortgages into rewards points. Here&#x2019;s why you should think twice.",
-      "url": "https://www.marketwatch.com/story/a-major-lender-wants-to-turn-mortgages-into-rewards-points-heres-why-you-should-think-twice-9ad34011?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "United Wholesale Mortgage is teaming up with Bilt to offer rewards points &#x2014; part of a broader push by lenders to attract scarce borrowers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T20:39:00.000Z",
-      "headline": "Did Salesforce finally prove the bears wrong? The stock is rising off an upbeat AI forecast.",
-      "url": "https://www.marketwatch.com/story/did-salesforce-finally-prove-the-bears-wrong-the-stock-is-rising-off-an-upbeat-ai-forecast-95516e2f?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Salesforce guided for $60 billion in revenue by fiscal 2030, igniting optimism about the company&#x2019;s AI-monetization strategy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T21:17:00.000Z",
-      "headline": "Jerome Powell may have just given stock investors a new reason to be worried",
-      "url": "https://www.marketwatch.com/story/jerome-powell-may-have-just-given-stock-investors-a-new-reason-to-be-worried-d2ce23ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Fed plans to end its quantitative-tightening program &#x2014; but stocks do better under those conditions.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T20:57:00.000Z",
-      "headline": "Trump rolls out his latest deal with a drugmaker. This one stems from his campaign promise to cover all IVF costs.",
-      "url": "https://www.marketwatch.com/story/trump-rolls-out-his-latest-deal-with-a-drugmaker-this-one-stems-from-his-campaign-promise-to-cover-all-ivf-costs-c54597bc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "President Donald Trump on Thursday announced a deal with EMD Serono, a subsidiary of German drugmaker Merck KGaA, that aims to cut the out-of-pocket costs for in vitro fertilization, with the move coming more than a year after his campaign promise to eliminate all such costs for the fertility treatment.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T20:49:00.000Z",
-      "headline": "Praxis Precision&#x2019;s tremor-drug trial succeeds where others have failed. The stock is skyrocketing.",
-      "url": "https://www.marketwatch.com/story/praxis-precisions-tremor-drug-trial-has-succeeded-where-others-have-failed-the-stock-is-skyrocketing-de114950?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Praxis Precision Medicines hit their highest intraday level since March 2022.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T20:36:00.000Z",
-      "headline": "Oracle&#x2019;s stock rises as Wall Street&#x2019;s AI profitability concerns are put to rest",
-      "url": "https://www.marketwatch.com/story/oracles-stock-rises-as-wall-streets-ai-profitability-concerns-are-put-to-rest-f151b580?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The tech giant raised its long-term financial targets and projected strong cloud margins, reassuring investors that its massive AI spending spree is on a path to profitability",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T22:46:00.000Z",
-      "headline": "Most Americans are falling behind in saving for retirement. Here&#x2019;s how they can make up the difference.",
-      "url": "https://www.marketwatch.com/story/most-americans-are-falling-behind-in-saving-for-retirement-heres-how-they-can-make-up-the-difference-be8ee47e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The savings shortfall comes as Social Security faces insolvency, people are living longer and inflation outpaces earnings gains.",
+      "summary_en": "Struggling to find their way amid an ongoing economic-data blackout and renewed trade war tensions between the U.S. and China, investors already had enough to worry about this week. Then a regional lender piled on one more thing.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,6 +121,30 @@
         "ED"
       ],
       "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T23:55:00.000Z",
+      "headline": "&#x2018;Sell&#x2019; signs are showing up in the stock market &#x2014; but this number matters most",
+      "url": "https://www.marketwatch.com/story/sell-signs-are-showing-up-in-the-stock-market-but-this-number-matters-most-e33ec9d7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The S&P 500 can climb a &#x2018;wall of worry&#x2019; &#x2014; if it stays above 6,500.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T22:46:00.000Z",
+      "headline": "Most Americans are falling behind in saving for retirement. Here&#x2019;s how they can make up the difference.",
+      "url": "https://www.marketwatch.com/story/most-americans-are-falling-behind-in-saving-for-retirement-heres-how-they-can-make-up-the-difference-be8ee47e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The savings shortfall comes as Social Security faces insolvency, people are living longer and inflation outpaces earnings gains.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
