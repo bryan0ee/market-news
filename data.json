@@ -1,28 +1,124 @@
 {
-  "last_updated": "2025-10-18T10:40:15.471Z",
+  "last_updated": "2025-10-18T13:24:43.670Z",
   "items": [
     {
-      "ts": "2025-10-17T19:23:00.000Z",
-      "headline": "Free returns are not a given anymore, as retailers deal with rising costs",
-      "url": "https://www.marketwatch.com/story/free-returns-are-not-a-given-anymore-as-retailers-deal-with-rising-costs-c2e50de0?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "A surge in product returns seen through the pandemic is leveling off as retailers&#x2019; generous return policies have become &#x201c;harder to sustain,&#x201d; a new report says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T19:01:00.000Z",
-      "headline": "Fifth Third Bank&#x2019;s message on credit jitters: There&#x2019;s nothing to worry about",
-      "url": "https://www.marketwatch.com/story/fifth-third-says-nothing-more-about-its-tricolor-loan-loss-and-the-stock-rises-df183534?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-10-18T13:00:00.000Z",
+      "headline": "This secret ingredient of the economy says things are OK &#x2014; and no recession is brewing",
+      "url": "https://www.marketwatch.com/story/this-secret-ingredient-of-the-economy-says-things-are-ok-and-no-recession-is-brewing-246cb0d8?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The regional bank&#x2019;s stock bounced as its earnings beat expectations and provisions for credit losses were less than feared.",
+      "summary_en": "When the economy shows sign of stress, one of the first things Americans strike from their budgets are frequent takeout dinners and restaurant reservations. It&#x2019;s one of the best early warning signs of recession.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T13:00:00.000Z",
+      "headline": "U.S. passport power plunges &#x2014; and &#x2018;worried&#x2019; Americans are searching for second passports and golden visas",
+      "url": "https://www.marketwatch.com/story/u-s-passport-power-plunges-and-worried-americans-are-searching-for-second-passports-and-golden-visas-40d5bf87?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Many Americans aren&#x2019;t necessarily looking to move overseas. They&#x2019;re looking for a Plan B.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T13:03:00.000Z",
+      "headline": "My stepdaughter is buying a house. Can her soon-to-be ex-husband claim a share?",
+      "url": "https://www.marketwatch.com/story/my-stepdaughter-is-buying-a-house-can-her-soon-to-be-ex-husband-claim-a-share-320a8394?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Her real-estate agent has assured her that she has nothing to worry about.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T12:36:00.000Z",
+      "headline": "We&#x2019;re in our 70s. How do we withdraw $6 million from our retirement fund without getting killed on taxes?",
+      "url": "https://www.marketwatch.com/story/were-in-our-70s-how-do-we-withdraw-6-million-from-our-retirement-fund-without-getting-killed-on-taxes-e0748c25?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Some of the stocks pay dividends totaling around $90,000 annually.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T12:30:00.000Z",
+      "headline": "Why EVs are still so expensive that they&#x2019;re driving up the cost of all new cars",
+      "url": "https://www.marketwatch.com/story/why-evs-are-still-so-expensive-that-theyre-driving-up-the-cost-of-all-new-cars-8592e1ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Drivers still largely pay a premium for electric vehicles, in part because they&#x2019;re still costly for most companies to make.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T11:58:00.000Z",
+      "headline": "&#x2018;We have been married for 10 years&#x2019;: My children will get my estate &#x2014; not my husband, who has $1.3 million. Is that fair?",
+      "url": "https://www.marketwatch.com/story/we-have-been-married-for-10-years-my-children-will-get-my-estate-not-my-husband-who-has-1-3-million-is-that-fair-fbed0c8c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He plans to leave me a life estate in the condo and the ability to receive rent from his properties.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T13:22:00.000Z",
+      "headline": "My sister, 65, has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
+      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T13:15:00.000Z",
+      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
+      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T12:00:00.000Z",
+      "headline": "5 bubble-resistant tech stocks to guard your portfolio from an AI crash",
+      "url": "https://www.marketwatch.com/story/5-bubble-resistant-tech-stocks-to-guard-your-portfolio-from-an-ai-crash-86568516?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "At a time where some companies are seeing declining free cash flow due to AI spending, these five tech stocks are doing the opposite.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T12:00:00.000Z",
+      "headline": "Small caps are having a good year &#x2014; but here&#x2019;s why the S&P 500 will win in the end",
+      "url": "https://www.marketwatch.com/story/small-caps-are-having-a-good-year-but-heres-why-the-s-p-500-will-win-in-the-end-398f5404?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "After years of being the market&#x2019;s forgotten children, small-cap stocks are back in the spotlight in 2025. But are they catching up to their older, richer S&P 500 siblings? Not a chance.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -50,66 +146,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-17T20:46:00.000Z",
-      "headline": "Here&#x2019;s what banks are looking at to spot economic trouble, as credit quality sparks concerns",
-      "url": "https://www.marketwatch.com/story/heres-what-banks-are-looking-at-to-spot-economic-trouble-as-credit-quality-sparks-concerns-0e72a32f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Despite some fresh doubts about credit that banks addressed this week, the U.S. economy seems to be chugging along.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T20:26:00.000Z",
-      "headline": "&#x2018;Rocky IV&#x2019; star Dolph Lundgren shares the money mistake that made him more hands-on with his finances",
-      "url": "https://www.marketwatch.com/story/rocky-iv-star-dolph-lundgren-shares-the-money-mistake-that-made-him-more-hands-on-with-his-finances-ddf9bfdd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Swedish-born actor, who played the boxer Ivan Drago in &#x2018;Rocky IV,&#x2019; has now gone into the vodka-making business and taken a more hands-on approach with his finances.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T20:20:00.000Z",
-      "headline": "Concerns about banks&#x2019; credit exposure help power latest leg of bond-market rally",
-      "url": "https://www.marketwatch.com/story/concerns-about-banks-credit-exposure-help-power-latest-leg-of-bond-market-rally-41119da6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The 10-year Treasury yield briefly fell to its lowest intraday level since April on Friday, as traders assessed the potential for a deeper push below 4% on any further fallout from bad loans in the banking industry.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T19:30:00.000Z",
-      "headline": "We&#x2019;re in our 70s. How do we withdraw $6 million from our retirement fund without getting killed on taxes?",
-      "url": "https://www.marketwatch.com/story/were-in-our-70s-how-do-we-withdraw-6-million-from-our-retirement-fund-without-getting-killed-on-taxes-e0748c25?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Some of the stocks pay dividends totaling around $90,000 annually.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T19:16:00.000Z",
-      "headline": "Want to stream every NBA game this season? It&#x2019;s going to cost you nearly $1,000.",
-      "url": "https://www.marketwatch.com/story/want-to-stream-every-nba-game-this-season-its-going-to-cost-you-nearly-1-000-e9683d57?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "2025-26 NBA games will air on several new streaming services this year, including Amazon Prime and Peacock.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-16T19:00:00.000Z",
       "headline": "Agencies announce withdrawal of principles for climate-related financial risk management",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251016a.htm",
@@ -119,42 +155,6 @@
         "ED"
       ],
       "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T21:23:00.000Z",
-      "headline": "This government shutdown could be the longest ever &#x2014; maybe running until Thanksgiving. What might the economic damage be?",
-      "url": "https://www.marketwatch.com/story/this-government-shutdown-could-be-the-longest-ever-maybe-running-until-thanksgiving-what-might-the-economic-damage-be-0bd7c46e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A MarketWatch poll finds that 47% of respondents say their No. 1 shutdown concern is the potential hit to the U.S. economy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T19:31:00.000Z",
-      "headline": "Can&#x2019;t invest in SpaceX? Investors can buy this stock instead.",
-      "url": "https://www.marketwatch.com/story/cant-invest-in-spacex-investors-can-buy-this-stock-instead-a6c94479?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "SpaceX may be the highest-profile name in the space industry, but analysts say launch rival Rocket Lab Corp. provides an alternative for investors who wish they could invest in Elon Musk&#x2019;s privately held company.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T18:53:00.000Z",
-      "headline": "I&#x2019;m 42, a single parent with $372K in cash and CDs. I won&#x2019;t invest in stocks. Am I wrong?",
-      "url": "https://www.marketwatch.com/story/im-42-a-single-parent-with-372k-i-wont-invest-in-the-s-p-500-am-i-wrong-fd26ce67?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am not comfortable putting too much cash in stocks, especially given I have two young kids.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
