@@ -1,124 +1,112 @@
 {
-  "last_updated": "2025-10-18T13:24:43.670Z",
+  "last_updated": "2025-10-18T23:24:48.533Z",
   "items": [
     {
-      "ts": "2025-10-18T13:00:00.000Z",
-      "headline": "This secret ingredient of the economy says things are OK &#x2014; and no recession is brewing",
-      "url": "https://www.marketwatch.com/story/this-secret-ingredient-of-the-economy-says-things-are-ok-and-no-recession-is-brewing-246cb0d8?mod=mw_rss_topstories",
+      "ts": "2025-10-18T22:34:00.000Z",
+      "headline": "I&#x2019;m 77. Despite my $1.4 million wealth, my expenses exceed my income. Do I sell stocks to pay off my mortgage?",
+      "url": "https://www.marketwatch.com/story/im-77-despite-my-1-4-million-wealth-my-expenses-exceed-my-income-do-i-sell-stocks-to-pay-off-my-mortgage-9cf66b23?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I started my own tax-preparation and representation firm. My annual revenue is $60,000 before taxes.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T22:20:00.000Z",
+      "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
+      "url": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He refuses to take their names off the mortgage without getting paid.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T23:08:00.000Z",
+      "headline": "&#x2018;It&#x2019;s getting scary close to retirement&#x2019;: We&#x2019;re 70. We have no debt, no stocks and $275K in savings. Are we in trouble?",
+      "url": "https://www.marketwatch.com/story/its-getting-scary-close-to-retirement-were-70-we-have-no-debt-no-stocks-and-275k-in-savings-are-we-in-trouble-1a4ba5f6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We will have $4,300 a month in Social Security.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T22:37:00.000Z",
+      "headline": "&#x2018;She may have a spending problem&#x2019;: Would it be wrong to secretly give our son money &#x2014; without telling his wife?",
+      "url": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Our son and his wife, who are in their 30s with a child in preschool, are having marital problems.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T22:35:00.000Z",
+      "headline": "I&#x2019;m 42, a single parent with $372K in cash and CDs. I won&#x2019;t invest in stocks. Am I wrong?",
+      "url": "https://www.marketwatch.com/story/im-42-a-single-parent-with-372k-i-wont-invest-in-the-s-p-500-am-i-wrong-fd26ce67?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am not comfortable putting too much cash in stocks, especially given I have two young kids.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T15:39:00.000Z",
+      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "When the economy shows sign of stress, one of the first things Americans strike from their budgets are frequent takeout dinners and restaurant reservations. It&#x2019;s one of the best early warning signs of recession.",
+      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-18T13:00:00.000Z",
-      "headline": "U.S. passport power plunges &#x2014; and &#x2018;worried&#x2019; Americans are searching for second passports and golden visas",
-      "url": "https://www.marketwatch.com/story/u-s-passport-power-plunges-and-worried-americans-are-searching-for-second-passports-and-golden-visas-40d5bf87?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Many Americans aren&#x2019;t necessarily looking to move overseas. They&#x2019;re looking for a Plan B.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T13:03:00.000Z",
-      "headline": "My stepdaughter is buying a house. Can her soon-to-be ex-husband claim a share?",
-      "url": "https://www.marketwatch.com/story/my-stepdaughter-is-buying-a-house-can-her-soon-to-be-ex-husband-claim-a-share-320a8394?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Her real-estate agent has assured her that she has nothing to worry about.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T12:36:00.000Z",
-      "headline": "We&#x2019;re in our 70s. How do we withdraw $6 million from our retirement fund without getting killed on taxes?",
-      "url": "https://www.marketwatch.com/story/were-in-our-70s-how-do-we-withdraw-6-million-from-our-retirement-fund-without-getting-killed-on-taxes-e0748c25?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Some of the stocks pay dividends totaling around $90,000 annually.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T12:30:00.000Z",
-      "headline": "Why EVs are still so expensive that they&#x2019;re driving up the cost of all new cars",
-      "url": "https://www.marketwatch.com/story/why-evs-are-still-so-expensive-that-theyre-driving-up-the-cost-of-all-new-cars-8592e1ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Drivers still largely pay a premium for electric vehicles, in part because they&#x2019;re still costly for most companies to make.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T11:58:00.000Z",
-      "headline": "&#x2018;We have been married for 10 years&#x2019;: My children will get my estate &#x2014; not my husband, who has $1.3 million. Is that fair?",
-      "url": "https://www.marketwatch.com/story/we-have-been-married-for-10-years-my-children-will-get-my-estate-not-my-husband-who-has-1-3-million-is-that-fair-fbed0c8c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He plans to leave me a life estate in the condo and the ability to receive rent from his properties.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T13:22:00.000Z",
-      "headline": "My sister, 65, has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
+      "ts": "2025-10-18T18:39:00.000Z",
+      "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
+      "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;She is single and makes $55,000 a year.&#x201d;",
+      "summary_en": "&#x201c;We aren&#x2019;t in debt outside of our mortgage, but I feel sick when I think about the money.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-18T13:15:00.000Z",
-      "headline": "&#x2018;I watch antenna TV&#x2019;: I&#x2019;m 66. Will I lose my disability benefits if Social Security goes belly up?",
-      "url": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+      "ts": "2025-10-18T14:00:00.000Z",
+      "headline": "Some people are spending $200 on Halloween candy &#x2014; and others are skipping the holiday &#x2014; as &#x2018;greedy&#x2019; trick-or-treaters spoil the fun",
+      "url": "https://www.marketwatch.com/story/some-people-are-spending-200-on-halloween-candy-and-others-are-skipping-the-holiday-as-greedy-trick-or-treaters-spoil-the-fun-3e84109b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;I read that the Social Security Disability Insurance Trust Fund is good until 2099.&#x201d;",
+      "summary_en": "Forget those mini candy bars &#x2014; these days, the pressure is on to dole out full-size versions.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-18T12:00:00.000Z",
-      "headline": "5 bubble-resistant tech stocks to guard your portfolio from an AI crash",
-      "url": "https://www.marketwatch.com/story/5-bubble-resistant-tech-stocks-to-guard-your-portfolio-from-an-ai-crash-86568516?mod=mw_rss_topstories",
+      "ts": "2025-10-18T14:00:00.000Z",
+      "headline": "&#x2018;Rocky IV&#x2019; star Dolph Lundgren shares the money mistake that made him more hands-on with his finances",
+      "url": "https://www.marketwatch.com/story/rocky-iv-star-dolph-lundgren-shares-the-money-mistake-that-made-him-more-hands-on-with-his-finances-ddf9bfdd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "At a time where some companies are seeing declining free cash flow due to AI spending, these five tech stocks are doing the opposite.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T12:00:00.000Z",
-      "headline": "Small caps are having a good year &#x2014; but here&#x2019;s why the S&P 500 will win in the end",
-      "url": "https://www.marketwatch.com/story/small-caps-are-having-a-good-year-but-heres-why-the-s-p-500-will-win-in-the-end-398f5404?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "After years of being the market&#x2019;s forgotten children, small-cap stocks are back in the spotlight in 2025. But are they catching up to their older, richer S&P 500 siblings? Not a chance.",
+      "summary_en": "The Swedish-born actor, who played the boxer Ivan Drago in &#x2018;Rocky IV,&#x2019; has now gone into the vodka-making business and taken a more hands-on approach with his finances.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,6 +119,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T14:30:00.000Z",
+      "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
+      "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
