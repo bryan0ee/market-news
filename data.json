@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-10-17T23:24:32.958Z",
+  "last_updated": "2025-10-18T10:40:15.471Z",
   "items": [
+    {
+      "ts": "2025-10-17T19:23:00.000Z",
+      "headline": "Free returns are not a given anymore, as retailers deal with rising costs",
+      "url": "https://www.marketwatch.com/story/free-returns-are-not-a-given-anymore-as-retailers-deal-with-rising-costs-c2e50de0?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "A surge in product returns seen through the pandemic is leveling off as retailers&#x2019; generous return policies have become &#x201c;harder to sustain,&#x201d; a new report says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T19:01:00.000Z",
+      "headline": "Fifth Third Bank&#x2019;s message on credit jitters: There&#x2019;s nothing to worry about",
+      "url": "https://www.marketwatch.com/story/fifth-third-says-nothing-more-about-its-tricolor-loan-loss-and-the-stock-rises-df183534?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The regional bank&#x2019;s stock bounced as its earnings beat expectations and provisions for credit losses were less than feared.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T21:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251016a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-17T22:45:00.000Z",
       "headline": "Federal Reserve Board denies application by Canandaigua National Corporation",
@@ -38,18 +74,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-17T19:23:00.000Z",
-      "headline": "Free returns are not a given anymore, as retailers deal with rising costs",
-      "url": "https://www.marketwatch.com/story/free-returns-are-not-a-given-anymore-as-retailers-deal-with-rising-costs-c2e50de0?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "A surge in product returns seen through the pandemic is leveling off as retailers&#x2019; generous return policies have become &#x201c;harder to sustain,&#x201d; a new report says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-17T20:20:00.000Z",
       "headline": "Concerns about banks&#x2019; credit exposure help power latest leg of bond-market rally",
       "url": "https://www.marketwatch.com/story/concerns-about-banks-credit-exposure-help-power-latest-leg-of-bond-market-rally-41119da6?mod=mw_rss_topstories",
@@ -59,18 +83,6 @@
         "ED"
       ],
       "summary_en": "The 10-year Treasury yield briefly fell to its lowest intraday level since April on Friday, as traders assessed the potential for a deeper push below 4% on any further fallout from bad loans in the banking industry.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T19:01:00.000Z",
-      "headline": "Fifth Third Bank&#x2019;s message on credit jitters: There&#x2019;s nothing to worry about",
-      "url": "https://www.marketwatch.com/story/fifth-third-says-nothing-more-about-its-tricolor-loan-loss-and-the-stock-rises-df183534?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The regional bank&#x2019;s stock bounced as its earnings beat expectations and provisions for credit losses were less than feared.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -95,6 +107,18 @@
         "COST"
       ],
       "summary_en": "2025-26 NBA games will air on several new streaming services this year, including Amazon Prime and Peacock.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T19:00:00.000Z",
+      "headline": "Agencies announce withdrawal of principles for climate-related financial risk management",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251016a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,30 +155,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I am not comfortable putting too much cash in stocks, especially given I have two young kids.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T21:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251016a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T19:00:00.000Z",
-      "headline": "Agencies announce withdrawal of principles for climate-related financial risk management",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251016a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
