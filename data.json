@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-10-18T23:24:48.533Z",
+  "last_updated": "2025-10-19T10:39:44.120Z",
   "items": [
+    {
+      "ts": "2025-10-19T10:33:00.000Z",
+      "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
+      "url": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He refuses to take their names off the mortgage without getting paid.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T15:39:00.000Z",
+      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T21:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251016a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-18T22:34:00.000Z",
       "headline": "I&#x2019;m 77. Despite my $1.4 million wealth, my expenses exceed my income. Do I sell stocks to pay off my mortgage?",
@@ -14,15 +50,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-18T22:20:00.000Z",
-      "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
-      "url": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+      "ts": "2025-10-18T14:00:00.000Z",
+      "headline": "Some people are spending $200 on Halloween candy &#x2014; and others are skipping the holiday &#x2014; as &#x2018;greedy&#x2019; trick-or-treaters spoil the fun",
+      "url": "https://www.marketwatch.com/story/some-people-are-spending-200-on-halloween-candy-and-others-are-skipping-the-holiday-as-greedy-trick-or-treaters-spoil-the-fun-3e84109b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;He refuses to take their names off the mortgage without getting paid.&#x201d;",
+      "summary_en": "Forget those mini candy bars &#x2014; these days, the pressure is on to dole out full-size versions.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-18T14:00:00.000Z",
+      "headline": "&#x2018;Rocky IV&#x2019; star Dolph Lundgren shares the money mistake that made him more hands-on with his finances",
+      "url": "https://www.marketwatch.com/story/rocky-iv-star-dolph-lundgren-shares-the-money-mistake-that-made-him-more-hands-on-with-his-finances-ddf9bfdd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Swedish-born actor, who played the boxer Ivan Drago in &#x2018;Rocky IV,&#x2019; has now gone into the vodka-making business and taken a more hands-on approach with his finances.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-17T22:45:00.000Z",
+      "headline": "Federal Reserve Board denies application by Canandaigua National Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251017a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board denies application by Canandaigua National Corporation",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-16T19:00:00.000Z",
+      "headline": "Agencies announce withdrawal of principles for climate-related financial risk management",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251016a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -62,18 +134,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-18T15:39:00.000Z",
-      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-18T18:39:00.000Z",
       "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
       "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
@@ -86,42 +146,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-18T14:00:00.000Z",
-      "headline": "Some people are spending $200 on Halloween candy &#x2014; and others are skipping the holiday &#x2014; as &#x2018;greedy&#x2019; trick-or-treaters spoil the fun",
-      "url": "https://www.marketwatch.com/story/some-people-are-spending-200-on-halloween-candy-and-others-are-skipping-the-holiday-as-greedy-trick-or-treaters-spoil-the-fun-3e84109b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Forget those mini candy bars &#x2014; these days, the pressure is on to dole out full-size versions.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T14:00:00.000Z",
-      "headline": "&#x2018;Rocky IV&#x2019; star Dolph Lundgren shares the money mistake that made him more hands-on with his finances",
-      "url": "https://www.marketwatch.com/story/rocky-iv-star-dolph-lundgren-shares-the-money-mistake-that-made-him-more-hands-on-with-his-finances-ddf9bfdd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Swedish-born actor, who played the boxer Ivan Drago in &#x2018;Rocky IV,&#x2019; has now gone into the vodka-making business and taken a more hands-on approach with his finances.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T21:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251016a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-18T14:30:00.000Z",
       "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
       "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
@@ -131,30 +155,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T22:45:00.000Z",
-      "headline": "Federal Reserve Board denies application by Canandaigua National Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251017a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board denies application by Canandaigua National Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-16T19:00:00.000Z",
-      "headline": "Agencies announce withdrawal of principles for climate-related financial risk management",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251016a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
