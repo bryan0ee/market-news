@@ -1,28 +1,16 @@
 {
-  "last_updated": "2025-10-19T13:24:36.517Z",
+  "last_updated": "2025-10-19T23:25:15.845Z",
   "items": [
     {
-      "ts": "2025-10-19T13:00:00.000Z",
-      "headline": "There&#x2019;s one key piece of chart evidence missing to call for a stock-market correction",
-      "url": "https://www.marketwatch.com/story/theres-one-key-piece-of-chart-evidence-missing-to-call-for-a-stock-market-correction-2304cf46?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Despite concerns that a stock-market correction is imminent, repeating patterns of success by bulls show the uptrend is still intact &#x2014; for now.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-19T10:33:00.000Z",
-      "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
-      "url": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+      "ts": "2025-10-19T14:00:00.000Z",
+      "headline": "Investors have reasons to be nervous about markets right now. How to separate the warning signs from the noise.",
+      "url": "https://www.marketwatch.com/story/investors-have-reasons-to-be-nervous-about-markets-right-now-how-to-separate-the-warning-signs-from-the-noise-69d8eed3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;He refuses to take their names off the mortgage without getting paid.&#x201d;",
+      "summary_en": "Throughout all the market choppiness, stocks pushed higher this past week.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -50,6 +38,18 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-10-19T10:33:00.000Z",
+      "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
+      "url": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He refuses to take their names off the mortgage without getting paid.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-10-18T22:34:00.000Z",
       "headline": "I&#x2019;m 77. Despite my $1.4 million wealth, my expenses exceed my income. Do I sell stocks to pay off my mortgage?",
       "url": "https://www.marketwatch.com/story/im-77-despite-my-1-4-million-wealth-my-expenses-exceed-my-income-do-i-sell-stocks-to-pay-off-my-mortgage-9cf66b23?mod=mw_rss_topstories",
@@ -59,18 +59,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I started my own tax-preparation and representation firm. My annual revenue is $60,000 before taxes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T14:00:00.000Z",
-      "headline": "Some people are spending $200 on Halloween candy &#x2014; and others are skipping the holiday &#x2014; as &#x2018;greedy&#x2019; trick-or-treaters spoil the fun",
-      "url": "https://www.marketwatch.com/story/some-people-are-spending-200-on-halloween-candy-and-others-are-skipping-the-holiday-as-greedy-trick-or-treaters-spoil-the-fun-3e84109b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Forget those mini candy bars &#x2014; these days, the pressure is on to dole out full-size versions.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -95,6 +83,18 @@
         "ED"
       ],
       "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-19T13:00:00.000Z",
+      "headline": "There&#x2019;s one key piece of chart evidence missing to call for a stock-market correction",
+      "url": "https://www.marketwatch.com/story/theres-one-key-piece-of-chart-evidence-missing-to-call-for-a-stock-market-correction-2304cf46?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Despite concerns that a stock-market correction is imminent, repeating patterns of success by bulls show the uptrend is still intact &#x2014; for now.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
