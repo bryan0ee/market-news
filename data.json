@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-10-19T10:39:44.120Z",
+  "last_updated": "2025-10-19T13:24:36.517Z",
   "items": [
+    {
+      "ts": "2025-10-19T13:00:00.000Z",
+      "headline": "There&#x2019;s one key piece of chart evidence missing to call for a stock-market correction",
+      "url": "https://www.marketwatch.com/story/theres-one-key-piece-of-chart-evidence-missing-to-call-for-a-stock-market-correction-2304cf46?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Despite concerns that a stock-market correction is imminent, repeating patterns of success by bulls show the uptrend is still intact &#x2014; for now.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-19T10:33:00.000Z",
       "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
@@ -59,18 +71,6 @@
         "ED"
       ],
       "summary_en": "Forget those mini candy bars &#x2014; these days, the pressure is on to dole out full-size versions.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T14:00:00.000Z",
-      "headline": "&#x2018;Rocky IV&#x2019; star Dolph Lundgren shares the money mistake that made him more hands-on with his finances",
-      "url": "https://www.marketwatch.com/story/rocky-iv-star-dolph-lundgren-shares-the-money-mistake-that-made-him-more-hands-on-with-his-finances-ddf9bfdd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Swedish-born actor, who played the boxer Ivan Drago in &#x2018;Rocky IV,&#x2019; has now gone into the vodka-making business and taken a more hands-on approach with his finances.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
