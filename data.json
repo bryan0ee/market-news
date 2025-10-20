@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-10-20T10:45:16.414Z",
+  "last_updated": "2025-10-20T13:31:35.149Z",
   "items": [
+    {
+      "ts": "2025-10-20T12:55:00.000Z",
+      "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
+      "url": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He refuses to take their names off the mortgage without getting paid.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T12:38:00.000Z",
+      "headline": "&#x2018;A friend calls it the everything bubble&#x2019;: Why do so many economists fear a 1929-style crash?",
+      "url": "https://www.marketwatch.com/story/a-friend-calls-it-the-everything-bubble-why-do-so-many-economists-fear-a-1929-style-crash-084df040?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "We have faced fears, for more than 10 years, that the market is going to experience the kind of crash not seen in nearly a century.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T10:53:00.000Z",
+      "headline": "AstraZeneca hails major breakthroughs with breast-cancer drugs",
+      "url": "https://www.marketwatch.com/story/astrazeneca-hails-major-breakthroughs-with-breast-cancer-drugs-7a61ba96?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "An executive at AstraZeneca says breast-cancer drugs that the company highlighted at an industry conference over the weekend could represent $10 billion worth of company sales in five years&#x2019; time.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T13:12:00.000Z",
+      "headline": "It&#x2019;s a &#x2018;historically opportunistic&#x2019; time for stock picking, says Morgan Stanley. Here are the bank&#x2019;s picks.",
+      "url": "https://www.marketwatch.com/story/its-a-historically-opportunistic-time-for-stock-picking-says-morgan-stanley-here-are-the-banks-picks-37c376b3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It&#x2019;s a prime time to pick stocks right now, says Morgan Stanley, they have some ideas.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-20T10:00:00.000Z",
       "headline": "The Fed has a big decision to make without key data. Here&#x2019;s what it could do.",
@@ -27,15 +75,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-20T09:45:00.000Z",
-      "headline": "&#x2018;A friend calls it the everything bubble&#x2019;: Why do so many economists fear a 1929-style crash?",
-      "url": "https://www.marketwatch.com/story/a-friend-calls-it-the-everything-bubble-why-do-so-many-economists-fear-a-1929-style-crash-084df040?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-10-20T11:41:00.000Z",
+      "headline": "With Apple stock near a record high as earnings loom, here&#x2019;s the options trade to make",
+      "url": "https://www.marketwatch.com/story/with-apple-stock-near-a-record-high-as-earnings-loom-heres-the-options-trade-to-make-73ef26ae?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "We have faced fears, for more than 10 years, that the market is going to experience the kind of crash not seen in nearly a century.",
+      "summary_en": "The iPhone maker&#x2019;s shares tend to rise in the last 3 months of the year, says Evercore",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -63,18 +111,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-20T09:27:00.000Z",
-      "headline": "&#x2018;I&#x2019;m worried about hurt feelings&#x2019;: I regret hiring my brother-in-law as my financial adviser. How do I fire him?",
-      "url": "https://www.marketwatch.com/story/im-worried-about-hurt-feelings-i-regret-hiring-my-brother-in-law-as-my-financial-adviser-how-do-i-fire-him-530a570c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I do not know how to tell my brother-in-law that I am switching.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-20T10:24:00.000Z",
       "headline": "U.S. stocks remain a strong bet, thanks to a resilient consumer, says this European wealth manager",
       "url": "https://www.marketwatch.com/story/u-s-stocks-remain-a-strong-bet-thanks-to-a-resilient-consumer-says-this-european-wealth-manager-ccaca898?mod=mw_rss_topstories",
@@ -87,30 +123,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-20T02:22:00.000Z",
-      "headline": "This vital ingredient suggests the U.S. economy is still faring OK &#x2014; with no recession brewing",
-      "url": "https://www.marketwatch.com/story/this-secret-ingredient-of-the-economy-says-things-are-ok-and-no-recession-is-brewing-246cb0d8?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "When the economy shows sign of stress, one of the first things Americans strike from their budgets are frequent takeout dinners and restaurant reservations. It&#x2019;s one of the best early warning signs of recession.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-20T01:12:00.000Z",
-      "headline": "U.S. passport power plunges &#x2014; and &#x2018;worried&#x2019; Americans are searching for second passports and golden visas",
-      "url": "https://www.marketwatch.com/story/u-s-passport-power-plunges-and-worried-americans-are-searching-for-second-passports-and-golden-visas-40d5bf87?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Many Americans aren&#x2019;t necessarily looking to move overseas. They&#x2019;re looking for a Plan B.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-16T21:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251016a.htm",
@@ -120,18 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-20T01:57:00.000Z",
-      "headline": "This government shutdown could be the longest ever &#x2014; maybe running until Thanksgiving. What might the economic damage be?",
-      "url": "https://www.marketwatch.com/story/this-government-shutdown-could-be-the-longest-ever-maybe-running-until-thanksgiving-what-might-the-economic-damage-be-0bd7c46e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A MarketWatch poll finds that 47% of respondents say their No. 1 shutdown concern is the potential hit to the U.S. economy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
