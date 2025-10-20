@@ -1,28 +1,113 @@
 {
-  "last_updated": "2025-10-19T23:25:15.845Z",
+  "last_updated": "2025-10-20T10:45:16.414Z",
   "items": [
     {
-      "ts": "2025-10-19T14:00:00.000Z",
-      "headline": "Investors have reasons to be nervous about markets right now. How to separate the warning signs from the noise.",
-      "url": "https://www.marketwatch.com/story/investors-have-reasons-to-be-nervous-about-markets-right-now-how-to-separate-the-warning-signs-from-the-noise-69d8eed3?mod=mw_rss_topstories",
+      "ts": "2025-10-20T10:00:00.000Z",
+      "headline": "The Fed has a big decision to make without key data. Here&#x2019;s what it could do.",
+      "url": "https://www.marketwatch.com/story/the-fed-has-a-big-decision-to-make-without-key-data-heres-what-it-could-do-929e1949?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Throughout all the market choppiness, stocks pushed higher this past week.",
+      "summary_en": "As they prepare to meet in 10 days on interest rates, Federal Reserve officials are very divided over a key question: How worried they ought to be about the U.S. labor market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-18T15:39:00.000Z",
-      "headline": "&#x2018;I&#x2019;m stumped&#x2019;: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-      "url": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+      "ts": "2025-10-20T10:00:00.000Z",
+      "headline": "&#x2018;I would like to know the truth&#x2019;: My stepgrandmother told me she left me her IRA. How do I find it?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-know-the-truth-my-stepgrandmother-told-me-she-left-me-her-ira-how-do-i-find-it-4340924b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "PG"
+      ],
+      "summary_en": "&#x201c;She passed away in December 2025. So far, no one in the family has received anything from her estate.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T09:45:00.000Z",
+      "headline": "&#x2018;A friend calls it the everything bubble&#x2019;: Why do so many economists fear a 1929-style crash?",
+      "url": "https://www.marketwatch.com/story/a-friend-calls-it-the-everything-bubble-why-do-so-many-economists-fear-a-1929-style-crash-084df040?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "We have faced fears, for more than 10 years, that the market is going to experience the kind of crash not seen in nearly a century.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T09:27:00.000Z",
+      "headline": "Diane Keaton&#x2019;s $29 million &#x2018;house that Pinterest built&#x2019; was taken off market 2 weeks before she died",
+      "url": "https://www.marketwatch.com/story/diane-keatons-29-million-house-that-pinterest-built-was-taken-off-market-2-weeks-before-she-died-b16909d2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hollywood legend&#xa0;Diane Keaton&#x2019;s beloved &#x201c;house that Pinterest built&#x201d;&#xa0;was quietly taken off the market just 2 weeks before her death at the age of 79.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T09:27:00.000Z",
+      "headline": "Brad Pitt and Ines de Ramon are &#x2018;really making their home into a home&#x2019;",
+      "url": "https://www.marketwatch.com/story/brad-pitt-and-ines-de-ramon-are-really-making-their-home-into-a-home-0644d9a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Brad Pitt and his girlfriend, Ines de Ramon, have reportedly moved in together&#x2014;just weeks after the actor snapped up a brand-new $12 million home in Los Angeles.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T09:27:00.000Z",
+      "headline": "&#x2018;I&#x2019;m worried about hurt feelings&#x2019;: I regret hiring my brother-in-law as my financial adviser. How do I fire him?",
+      "url": "https://www.marketwatch.com/story/im-worried-about-hurt-feelings-i-regret-hiring-my-brother-in-law-as-my-financial-adviser-how-do-i-fire-him-530a570c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I do not know how to tell my brother-in-law that I am switching.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T10:24:00.000Z",
+      "headline": "U.S. stocks remain a strong bet, thanks to a resilient consumer, says this European wealth manager",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-remain-a-strong-bet-thanks-to-a-resilient-consumer-says-this-european-wealth-manager-ccaca898?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Investors are climbing a &#x201c;wall of worry,&#x201d; when it comes to all-important U.S. assets. That shouldn&#x2019;t deter them, says Indosuez Wealth Management&#x2019;s chief strategist.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T02:22:00.000Z",
+      "headline": "This vital ingredient suggests the U.S. economy is still faring OK &#x2014; with no recession brewing",
+      "url": "https://www.marketwatch.com/story/this-secret-ingredient-of-the-economy-says-things-are-ok-and-no-recession-is-brewing-246cb0d8?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Doesn&#x2019;t a 30-year history of good credit count for anything?&#x201d;",
+      "summary_en": "When the economy shows sign of stress, one of the first things Americans strike from their budgets are frequent takeout dinners and restaurant reservations. It&#x2019;s one of the best early warning signs of recession.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-20T01:12:00.000Z",
+      "headline": "U.S. passport power plunges &#x2014; and &#x2018;worried&#x2019; Americans are searching for second passports and golden visas",
+      "url": "https://www.marketwatch.com/story/u-s-passport-power-plunges-and-worried-americans-are-searching-for-second-passports-and-golden-visas-40d5bf87?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Many Americans aren&#x2019;t necessarily looking to move overseas. They&#x2019;re looking for a Plan B.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,27 +123,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-19T10:33:00.000Z",
-      "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
-      "url": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+      "ts": "2025-10-20T01:57:00.000Z",
+      "headline": "This government shutdown could be the longest ever &#x2014; maybe running until Thanksgiving. What might the economic damage be?",
+      "url": "https://www.marketwatch.com/story/this-government-shutdown-could-be-the-longest-ever-maybe-running-until-thanksgiving-what-might-the-economic-damage-be-0bd7c46e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;He refuses to take their names off the mortgage without getting paid.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T22:34:00.000Z",
-      "headline": "I&#x2019;m 77. Despite my $1.4 million wealth, my expenses exceed my income. Do I sell stocks to pay off my mortgage?",
-      "url": "https://www.marketwatch.com/story/im-77-despite-my-1-4-million-wealth-my-expenses-exceed-my-income-do-i-sell-stocks-to-pay-off-my-mortgage-9cf66b23?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I started my own tax-preparation and representation firm. My annual revenue is $60,000 before taxes.&#x201d;",
+      "summary_en": "A MarketWatch poll finds that 47% of respondents say their No. 1 shutdown concern is the potential hit to the U.S. economy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -83,78 +156,6 @@
         "ED"
       ],
       "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-19T13:00:00.000Z",
-      "headline": "There&#x2019;s one key piece of chart evidence missing to call for a stock-market correction",
-      "url": "https://www.marketwatch.com/story/theres-one-key-piece-of-chart-evidence-missing-to-call-for-a-stock-market-correction-2304cf46?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Despite concerns that a stock-market correction is imminent, repeating patterns of success by bulls show the uptrend is still intact &#x2014; for now.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T23:08:00.000Z",
-      "headline": "&#x2018;It&#x2019;s getting scary close to retirement&#x2019;: We&#x2019;re 70. We have no debt, no stocks and $275K in savings. Are we in trouble?",
-      "url": "https://www.marketwatch.com/story/its-getting-scary-close-to-retirement-were-70-we-have-no-debt-no-stocks-and-275k-in-savings-are-we-in-trouble-1a4ba5f6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We will have $4,300 a month in Social Security.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T22:37:00.000Z",
-      "headline": "&#x2018;She may have a spending problem&#x2019;: Would it be wrong to secretly give our son money &#x2014; without telling his wife?",
-      "url": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Our son and his wife, who are in their 30s with a child in preschool, are having marital problems.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T22:35:00.000Z",
-      "headline": "I&#x2019;m 42, a single parent with $372K in cash and CDs. I won&#x2019;t invest in stocks. Am I wrong?",
-      "url": "https://www.marketwatch.com/story/im-42-a-single-parent-with-372k-i-wont-invest-in-the-s-p-500-am-i-wrong-fd26ce67?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am not comfortable putting too much cash in stocks, especially given I have two young kids.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T18:39:00.000Z",
-      "headline": "&#x2018;I can&#x2019;t stop thinking about money&#x2019;: I&#x2019;m struggling with guilt over my $135K in financial mistakes. How do I move on?",
-      "url": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We aren&#x2019;t in debt outside of our mortgage, but I feel sick when I think about the money.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-18T14:30:00.000Z",
-      "headline": "&#x2018;I have no retirement savings&#x2019;: My wife and I are in our 40s. She has an $85K Roth IRA. Is it too late for me?",
-      "url": "https://www.marketwatch.com/story/i-have-no-retirement-savings-my-wife-and-i-are-in-our-40s-she-has-an-85k-roth-ira-is-it-too-late-for-me-0706ada8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Historically, we&#x2019;ve been keeping the contribution to her Roth at $50-$200 a month.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
