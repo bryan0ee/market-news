@@ -1,6 +1,128 @@
 {
-  "last_updated": "2025-10-21T10:44:21.779Z",
+  "last_updated": "2025-10-21T13:35:28.690Z",
   "items": [
+    {
+      "ts": "2025-10-21T12:53:00.000Z",
+      "headline": "GM&#x2019;s stock is soaring as these factors drive a better profit forecast",
+      "url": "https://www.marketwatch.com/story/gms-stock-is-soaring-as-these-factors-drive-a-better-profit-forecast-96b4e1ce?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "GM doesn&#x2019;t anticipate tariff costs to be as steep as it previously expected. The automaker is also benefiting from higher prices, and says its move to trim EV production will pay off next year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T12:46:00.000Z",
+      "headline": "GE Aerospace&#x2019;s stock surges to a record as profit outlook raised to highest level in nine years",
+      "url": "https://www.marketwatch.com/story/ges-stock-surges-toward-a-record-as-profit-outlook-raised-to-highest-level-in-eight-years-9e277fff?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "GE Aerospace shares rallied into record territory after a big earnings beat and a raised full-year outlook.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T13:30:00.000Z",
+      "headline": "&#x2018;I would like to know the truth&#x2019;: My stepgrandmother told me she left me her IRA. How do I find it?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-know-the-truth-my-stepgrandmother-told-me-she-left-me-her-ira-how-do-i-find-it-4340924b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "PG"
+      ],
+      "summary_en": "&#x201c;She passed away in December. So far, no one in the family has received anything from her estate.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T13:08:00.000Z",
+      "headline": "&#x2018;A friend calls it the everything bubble&#x2019;: Why do so many economists fear a 1929-style crash?",
+      "url": "https://www.marketwatch.com/story/a-friend-calls-it-the-everything-bubble-why-do-so-many-economists-fear-a-1929-style-crash-084df040?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "We have faced fears, for more than 10 years, that the market is going to experience the kind of crash not seen in nearly a century.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T13:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m worried about hurt feelings&#x2019;: I regret hiring my brother-in-law as my financial adviser. How do I fire him?",
+      "url": "https://www.marketwatch.com/story/im-worried-about-hurt-feelings-i-regret-hiring-my-brother-in-law-as-my-financial-adviser-how-do-i-fire-him-530a570c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I do not know how to tell my brother-in-law that I am switching.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T12:55:00.000Z",
+      "headline": "Want to stream every NBA game this season? It&#x2019;s going to cost you nearly $1,000.",
+      "url": "https://www.marketwatch.com/story/want-to-stream-every-nba-game-this-season-its-going-to-cost-you-nearly-1-000-e9683d57?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Basketball is back today, and the 2025-26 NBA season will see games playing on several new streaming services this year &#x2014; including Amazon Prime and Peacock",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T12:05:00.000Z",
+      "headline": "Social Security could adopt a &#x2018;senior-friendly&#x2019; COLA index &#x2014; but retirees still won&#x2019;t get more money",
+      "url": "https://www.marketwatch.com/story/social-security-could-adopt-a-senior-friendly-cola-index-but-retirees-still-wont-get-more-money-aad88350?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "BLS&#x2019;s September inflation report will set Social Security&#x2019;s 2026 cost-of-living adjustment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T12:31:00.000Z",
+      "headline": "Coca-Cola&#x2019;s stock rises as revenue beats forecasts and profit increases",
+      "url": "https://www.marketwatch.com/story/coca-colas-stock-rises-as-revenue-beats-forecasts-and-profit-increases-4acebef6?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Price increases offset flat sales in certain business units.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T13:02:00.000Z",
+      "headline": "Here&#x2019;s how the Louvre heist gems could end up being sold at your local jeweler",
+      "url": "https://www.marketwatch.com/story/where-could-the-louvre-heist-gems-turn-up-the-black-market-is-the-mainstream-market-for-most-stolen-jewelry-fd185662?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Experts warn that stolen jewelry finds its way into the mainstream market all the time, so buyer beware.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T12:54:00.000Z",
+      "headline": "The Ozempic maker shakes up its board. It has been a year of turmoil for Novo Nordisk.",
+      "url": "https://www.marketwatch.com/story/the-ozempic-maker-shakes-up-its-board-it-has-been-a-year-of-turmoil-for-novo-nordisk-00ef5f13?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Ozempic maker Novo Nordisk is shaking up its board.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-16T21:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
