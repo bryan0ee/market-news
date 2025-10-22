@@ -1,124 +1,125 @@
 {
-  "last_updated": "2025-10-22T13:35:11.667Z",
+  "last_updated": "2025-10-22T23:24:30.969Z",
   "items": [
     {
-      "ts": "2025-10-22T13:25:00.000Z",
-      "headline": "Berkshire&#x2019;s stock presents Warren Buffett with a &#x2018;golden cross&#x2019; as his retirement nears",
-      "url": "https://www.marketwatch.com/story/berkshires-stock-presents-buffett-with-a-golden-cross-as-his-retirement-nears-86ed0d20?mod=mw_rss_topstories",
+      "ts": "2025-10-22T21:18:00.000Z",
+      "headline": "IBM&#x2019;s stock falls after growth slows in this key segment",
+      "url": "https://www.marketwatch.com/story/ibms-stock-falls-after-growth-slows-in-this-key-segment-7de33801?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The company saw growth decelerate in its Red Hat business, which analysts see as a major focus for investors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T22:15:00.000Z",
+      "headline": "U.S. stocks are hitting a speed bump. Why the rally could soon resume.",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-are-hitting-a-speed-bump-why-the-rally-could-soon-resume-acb4750b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of Warren Buffett&#x2019;s Berkshire Hathaway have produced a bullish &#x201c;golden cross&#x201d; chart pattern, less than three months before the famed investor is set to retire.",
+      "summary_en": "Investors encountered another rough patch for the market on Wednesday. But more good news likely lies ahead, experts say.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-22T12:21:00.000Z",
-      "headline": "Hilton, expecting travel demand and economic growth to accelerate, boosts profit outlook",
-      "url": "https://www.marketwatch.com/story/hilton-expecting-travel-demand-and-economic-growth-to-accelerate-boosts-profit-outlook-eb9d7956?mod=mw_rss_topstories",
+      "ts": "2025-10-22T21:37:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s propping up oil prices after a recent drop to 5-month lows",
+      "url": "https://www.marketwatch.com/story/heres-whats-propping-up-oil-prices-after-a-recent-drop-to-5-month-lows-d8c91297?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Oil prices on Wednesday scored their biggest one-day gain in a month, as traders weighed how the recent drop in prices could keep a lid on the flow of global crude supplies.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T21:15:00.000Z",
+      "headline": "Hotel operators say they&#x2019;ve lost $650 million in the government shutdown. They&#x2019;re calling for it to end.",
+      "url": "https://www.marketwatch.com/story/hotel-operators-say-theyve-lost-650-million-in-the-government-shutdown-theyre-calling-for-it-to-end-5a9b8423?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The hotel industry is sounding the alarm, saying Wednesday that the government shutdown has resulted in an estimated $650 million in lost business for its members.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T20:13:00.000Z",
+      "headline": "After gold&#x2019;s big plunge, here&#x2019;s what history shows could happen next",
+      "url": "https://www.marketwatch.com/story/golds-plunge-raises-questions-about-its-role-in-one-of-the-most-popular-trades-of-the-year-d495ac82?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "The retreat in gold prices raises questions about the metal&#x2019;s role in one of the year&#x2019;s most popular trades.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T20:25:00.000Z",
+      "headline": "Trump&#x2019;s China trip could bring good news for markets &#x2014; but also prolong the government shutdown into November",
+      "url": "https://www.marketwatch.com/story/trumps-china-trip-could-bring-good-news-for-markets-but-also-prolong-the-government-shutdown-into-november-f38f3473?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "There&#x2019;s a view that President Trump needs to be at the center of talks in Washington for the shutdown to end.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T19:42:00.000Z",
+      "headline": "Why this earnings season is different: Investors are more interested in companies&#x2019; cash than growth",
+      "url": "https://www.marketwatch.com/story/why-stock-market-investors-will-be-hanging-on-every-ceos-word-this-earnings-season-078d82e8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "This earnings season, companies&#x2019; financial results aren&#x2019;t just numbers &#x2014; they are tea leaves, tarot cards and macro signals all rolled into one.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T22:28:00.000Z",
+      "headline": "Jittery investors are pushing down Treasury yields ahead of crucial CPI inflation report",
+      "url": "https://www.marketwatch.com/story/jittery-investors-are-pushing-down-treasury-yields-ahead-of-crucial-cpi-inflation-report-38a0247b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Investors are bracing for an upcoming reading on inflation from the Bureau of Labor Statistics &#x2014; a crucial piece of the U.S. economic picture in an otherwise vacuum of government data during the shutdown.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T20:51:00.000Z",
+      "headline": "Winnebago&#x2019;s stock rockets to biggest gain in 45 years as younger buyers eye RVs",
+      "url": "https://www.marketwatch.com/story/winnebagos-stock-rockets-to-biggest-gain-in-45-years-as-younger-buyers-eye-rvs-f489854d?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "ED"
-      ],
-      "summary_en": "Hotel giant beats its earnings target and raises its profit outlook as its predicts less sluggish revenue per room figures ahead",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T13:20:00.000Z",
-      "headline": "Here&#x2019;s a theory on why gold suffered its biggest one-day fall in more than ten years, and it&#x2019;s linked to the U.S. economy.",
-      "url": "https://www.marketwatch.com/story/one-theory-on-why-gold-suffered-its-biggest-one-day-fall-in-more-than-ten-years-1ece9762?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Robin Brooks, senior fellow at the Brookings Institution, sought to explain the flows driving the price of gold",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T13:07:00.000Z",
-      "headline": "The U.S. jobs market was wobbling before the shutdown. Now what?",
-      "url": "https://www.marketwatch.com/story/the-u-s-jobs-market-was-wobbling-before-the-shutdown-now-what-948e2b81?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S. labor market had started to sputter well before the government shutdown began in October &#x2014; and there&#x2019;s little evidence to suggest finding a job has gotten any easier.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T12:26:00.000Z",
-      "headline": "Barclays takes a victory lap over lack of First Brands exposure. But it did get burned on Tricolor.",
-      "url": "https://www.marketwatch.com/story/barclays-takes-a-victory-lap-over-lack-of-first-brands-exposure-but-it-did-get-burned-on-tricolor-e74213ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The CEO of Barclays said the bank wasn&#x2019;t stuck with exposure to fallen auto-parts company First Brands because of its own due diligence, but it was lumbered with Tricolor exposure.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T12:23:00.000Z",
-      "headline": "&#x2018;Fingers crossed&#x2019; is not what investors want to hear as L&#x2019;Oreal shares get slammed",
-      "url": "https://www.marketwatch.com/story/fingers-crossed-is-not-what-investors-want-to-hear-as-loreal-shares-get-slammed-e7c1c743?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "L&#x2019;Oreal shares slumped on Wednesday as the chief executive of the highly valued cosmetics company didn&#x2019;t express huge confidence over upcoming sales.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T13:29:00.000Z",
-      "headline": "Here&#x2019;s when the shutdown will really hurt the quality of key reports like CPI and the unemployment rate",
-      "url": "https://www.marketwatch.com/story/the-labor-department-is-set-to-release-september-inflation-data-october-will-be-a-real-challenge-0c80b0ea?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The longer the U.S. government shutdown, the trickier it will get for the Labor Department to publish key reports, even were it to get White House approval to do so.",
+      "summary_en": "Winnebago&#x2019;s stock soars after an earnings beat and a upbeat full-year outlook, but also following comments about RVs appealing to younger buyers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-22T12:50:00.000Z",
-      "headline": "GE Vernova&#x2019;s revenue beats by widest-ever margin, as electrification orders double",
-      "url": "https://www.marketwatch.com/story/ge-vernovas-revenue-beats-by-widest-ever-margin-as-electrification-orders-double-749e6279?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "GE Vernova&#x2019;s stock rallies toward its first gain in seven sessions after quarterly orders and revenue blow past expectations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T12:01:00.000Z",
-      "headline": "Why David Einhorn&#x2019;s Greenlight prefers this tiny biotech over AI &#x2018;excitement&#x2019;",
-      "url": "https://www.marketwatch.com/story/why-david-einhorns-greenlight-prefers-this-tiny-biotech-over-ai-excitement-df60d93f?mod=mw_rss_topstories",
+      "ts": "2025-10-22T21:06:00.000Z",
+      "headline": "Southwest says its &#x2018;transformation&#x2019; is in full swing, and the stock is surging",
+      "url": "https://www.marketwatch.com/story/southwest-says-its-transformation-is-in-full-swing-and-the-stock-is-surging-5a949dc1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Greenlight Capital&#x2019;s third-quarter investor letter had almost nothing good to say about the hot AI trend, but it does have faith in a tiny biotech.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T12:00:00.000Z",
-      "headline": "This one number explains the growing gulf between people who can afford to buy a house today &#x2014; and those who can&#x2019;t",
-      "url": "https://www.marketwatch.com/story/this-one-number-explains-the-growing-gulf-between-people-who-can-afford-to-buy-a-house-today-and-those-who-cant-2fd6dcd7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The housing market remains expensive and unaffordable to most people, yet one group remains relatively active &#x2014; and they&#x2019;re likely to be more affluent.",
+      "summary_en": "The airline&#x2019;s surprise profit stokes hopes for more momentum.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
