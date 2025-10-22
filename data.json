@@ -1,127 +1,88 @@
 {
-  "last_updated": "2025-10-21T23:26:52.050Z",
+  "last_updated": "2025-10-22T10:46:07.909Z",
   "items": [
     {
-      "ts": "2025-10-21T23:17:00.000Z",
-      "headline": "Going back to work after you start claiming Social Security could cost you. Is it worth it?",
-      "url": "https://www.marketwatch.com/story/going-back-to-work-after-you-start-claiming-social-security-could-cost-you-how-to-know-when-its-worth-it-63c13fa9?mod=mw_rss_topstories",
+      "ts": "2025-10-22T10:23:00.000Z",
+      "headline": "One theory on why gold suffered its biggest one-day fall in more than ten years",
+      "url": "https://www.marketwatch.com/story/one-theory-on-why-gold-suffered-its-biggest-one-day-fall-in-more-than-ten-years-1ece9762?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "COST"
+        "ED"
       ],
-      "summary_en": "If you&#x2019;re already claiming Social Security, there&#x2019;s a limit on how much you can earn.",
+      "summary_en": "Robin Brooks, senior fellow at the Brookings Institution, sought to explain the flows driving the price of gold",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-21T22:02:00.000Z",
-      "headline": "Netflix misses big on profit, but remains firm that its growth will continue unabated",
-      "url": "https://www.marketwatch.com/story/netflix-shares-fall-after-company-reports-profit-miss-287a90b0?mod=mw_rss_topstories",
+      "ts": "2025-10-22T09:04:00.000Z",
+      "headline": "&#x2018;Murdaugh: Death in the Family&#x2019; star Jason Clarke sells L.A. home at big discount for $3 million",
+      "url": "https://www.marketwatch.com/story/murdaugh-death-in-the-family-star-jason-clarke-sells-l-a-home-at-big-discount-for-3-million-88ab013f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Jason Clarke&#xa0;has finally offloaded&#xa0;his Los Angeles home&#xa0;after it spent more than a year on the market and underwent several markdowns.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T08:16:00.000Z",
+      "headline": "&#x2018;Fingers crossed&#x2019; is not what investors want to hear as L&#x2019;Oreal shares get slammed",
+      "url": "https://www.marketwatch.com/story/fingers-crossed-is-not-what-investors-want-to-hear-as-loreal-shares-get-slammed-e7c1c743?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "L&#x2019;Oreal shares slumped on Wednesday as the chief executive of the highly valued cosmetics company didn&#x2019;t express huge confidence over upcoming sales.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T09:43:00.000Z",
+      "headline": "The Labor Department is set to release September inflation data. October will be a real challenge.",
+      "url": "https://www.marketwatch.com/story/the-labor-department-is-set-to-release-september-inflation-data-october-will-be-a-real-challenge-0c80b0ea?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The longer the U.S. government shutdown, the trickier it will get for the Labor Department to publish key reports, even were it to get White House approval to do so.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T09:30:00.000Z",
+      "headline": "&#x2018;I&#x2019;m in the home stretch&#x2019;: I&#x2019;m 80. Do I leave my kids a &#x2018;Magnificent Seven&#x2019; dynasty trust or a brokerage account?",
+      "url": "https://www.marketwatch.com/story/im-in-the-home-stretch-im-80-do-i-leave-my-kids-a-magnificent-seven-dynasty-trust-or-a-brokerage-account-dc45c172?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Do I leave them to pay capital-gains tax on the dynasty trust or estate tax on my personal account?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-22T08:47:00.000Z",
+      "headline": "China&#x2019;s &#x2018;slow bull market&#x2019; is developing momentum as Goldman Sachs joins the party",
+      "url": "https://www.marketwatch.com/story/chinas-slow-bull-market-is-developing-momentum-as-goldman-sachs-joins-the-party-a49eb307?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Goldman Sachs sees 30% upside in Chinese stocks to the end of 2027.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T23:42:00.000Z",
+      "headline": "Holiday optimism and a &#x2018;KPop Demon Hunters&#x2019; deal aren&#x2019;t enough for Mattel&#x2019;s stock after earnings miss",
+      "url": "https://www.marketwatch.com/story/mattel-sees-good-holiday-season-but-stays-cautious-on-outlook-59d20e08?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The company blamed a tax dispute in Brazil for dragging down margins, but said the stage is set for big gains in its ad business.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-21T22:57:00.000Z",
-      "headline": "Berkshire&#x2019;s stock presents Buffett with a &#x2018;golden cross&#x2019; as his retirement nears",
-      "url": "https://www.marketwatch.com/story/berkshires-stock-presents-buffett-with-a-golden-cross-as-his-retirement-nears-86ed0d20?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Warren Buffett&#x2019;s Berkshire Hathaway have produced a bullish &#x201c;golden cross&#x201d; chart pattern, less than three months before the famed investor is set to retire.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-21T22:53:00.000Z",
-      "headline": "Meta, Blue Owl and AI: Here are the details of Wall Street&#x2019;s biggest private-credit deal ever",
-      "url": "https://www.marketwatch.com/story/meta-blue-owl-and-ai-here-are-the-details-of-wall-streets-biggest-private-capital-deal-ever-bf3ad4f7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "Meta and Blue Owl struck a record $27 billion joint venture for the tech giant&#x2019;s Hyperion data center, signaling a pivot in how Big Tech is funding its AI ambitions.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-21T22:46:00.000Z",
-      "headline": "&#x2018;I&#x2019;m worried about hurt feelings&#x2019;: I regret hiring my brother-in-law as my financial adviser. How do I fire him?",
-      "url": "https://www.marketwatch.com/story/im-worried-about-hurt-feelings-i-regret-hiring-my-brother-in-law-as-my-financial-adviser-how-do-i-fire-him-530a570c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I do not know how to tell my brother-in-law that I am switching.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-21T22:45:00.000Z",
-      "headline": "&#x2018;Big Brother is watching how we spend our dollars&#x2019;: I asked to withdraw money from my bank. The teller started grilling me. Is this normal?",
-      "url": "https://www.marketwatch.com/story/big-brother-is-watching-how-we-spend-our-dollars-i-asked-to-withdraw-money-from-my-bank-the-teller-started-grilling-me-is-this-normal-bd572391?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We are going on a trip that could include casino visits, but I didn&#x2019;t want her to know that.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-21T21:51:00.000Z",
-      "headline": "This Blackstone-TPG deal joins over $700 billion worth of private-equity buyouts this year. That&#x2019;s good news for shareholders.",
-      "url": "https://www.marketwatch.com/story/this-blackstone-tpg-deal-joins-over-700-billion-worth-of-private-equity-buyouts-this-year-thats-good-news-for-shareholders-efe49460?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "PG"
-      ],
-      "summary_en": "Private-equity sponsors are stepping up their dealmaking with larger buyouts that have boosted stock prices and advisory fees.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-21T21:25:00.000Z",
-      "headline": "GM&#x2019;s stock surges to a record high. Why investors are cheering.",
-      "url": "https://www.marketwatch.com/story/gms-stock-is-soaring-as-these-factors-drive-a-better-profit-forecast-96b4e1ce?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "GM doesn&#x2019;t anticipate tariff costs to be as steep as it previously expected. The automaker is also benefiting from higher prices, and says its move to trim EV production will pay off next year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-21T21:10:00.000Z",
-      "headline": "OpenAI&#x2019;s new browser puts Google in the hot seat, and Alphabet&#x2019;s stock drops",
-      "url": "https://www.marketwatch.com/story/openais-new-browser-puts-google-in-the-hot-seat-and-alphabets-stock-drops-b3357f53?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL"
-      ],
-      "summary_en": "OpenAI&#x2019;s new ChatGPT Atlas browser is the latest in a series of new products that are challenging Alphabet&#x2019;s ecosystem.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-21T22:07:00.000Z",
-      "headline": "This 35-year-old is stockpiling $250,000 in nickels as a bet against inflation: &#x2018;This has zero downside&#x2019;",
-      "url": "https://www.marketwatch.com/story/this-35-year-old-is-stockpiling-250-000-in-nickels-as-a-bet-against-inflation-this-has-zero-downside-abd6243d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Kyle Mitchell tells MarketWatch it took him and some paid helpers more than four months to acquire the 5 million coins, which weigh almost 30 tons.",
+      "summary_en": "Mattel said its U.S. business was &#x201c;challenged&#x201d; as retailers changed up toy orders and shoppers remained cautious.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -134,6 +95,43 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T23:46:00.000Z",
+      "headline": "&#x2018;I would like to know the truth&#x2019;: My stepgrandmother told me she left me her IRA. How do I find it?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-know-the-truth-my-stepgrandmother-told-me-she-left-me-her-ira-how-do-i-find-it-4340924b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "PG"
+      ],
+      "summary_en": "&#x201c;She passed away in December. So far, no one in the family has received anything from her estate.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T23:38:00.000Z",
+      "headline": "&#x2018;My family is having a crisis&#x2019;: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
+      "url": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He refuses to take their names off the mortgage without getting paid.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-21T23:17:00.000Z",
+      "headline": "Going back to work after you start claiming Social Security could cost you. Is it worth it?",
+      "url": "https://www.marketwatch.com/story/going-back-to-work-after-you-start-claiming-social-security-could-cost-you-how-to-know-when-its-worth-it-63c13fa9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "If you&#x2019;re already claiming Social Security, there&#x2019;s a limit on how much you can earn.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
