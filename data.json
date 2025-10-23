@@ -1,70 +1,34 @@
 {
-  "last_updated": "2025-10-23T10:43:48.396Z",
+  "last_updated": "2025-10-23T13:33:53.158Z",
   "items": [
     {
-      "ts": "2025-10-23T10:00:00.000Z",
-      "headline": "Social Security&#x2019;s COLA is coming. Here&#x2019;s how you can stretch your benefits the most.",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-is-coming-heres-how-you-can-stretch-your-benefits-the-most-d578a712?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "The cost-of-living adjustment could be as high as 2.8% for 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T10:00:00.000Z",
-      "headline": "Ford has a secret weapon that could help its earnings as EV concerns swirl",
-      "url": "https://www.marketwatch.com/story/ford-has-a-secret-weapon-that-could-help-its-earnings-as-ev-concerns-swirl-9e821789?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Ford sold a record number of hybrid vehicles in the third quarter. Still, it will have a high bar to clear after GM boosted profit expectations for the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T08:55:00.000Z",
-      "headline": "Goldman trader answers why the so-called dumb money has been beating the pros this year",
-      "url": "https://www.marketwatch.com/story/goldman-trader-answers-why-the-so-called-dumb-money-has-been-beating-the-pros-this-year-b4eefa95?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-10-23T12:56:00.000Z",
+      "headline": "Inflation is still rising, CPI likely to show &#x2014; but maybe not fast enough to stop Fed rate cuts",
+      "url": "https://www.marketwatch.com/story/inflation-is-still-rising-cpi-likely-to-show-but-maybe-not-fast-enough-to-stop-fed-rate-cuts-6a8665c9?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "A Goldman Sachs trader has taken on one of the big questions in markets this year:&#xa0;why retail investors, who typically capture trends too late, have been beating the pros.",
+      "summary_en": "Inflation has been creeping higher from a postpandemic low of 2.3% earlier this year due in part to the highest U.S. tariffs in decades.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-23T09:46:00.000Z",
-      "headline": "Volvo Car shares enjoying best day since going public",
-      "url": "https://www.marketwatch.com/story/volvo-car-shares-enjoying-best-day-since-going-public-84799e63?mod=mw_rss_topstories",
+      "ts": "2025-10-23T12:57:00.000Z",
+      "headline": "Gold just stumbled. A JPMorgan strategist says the metal could double in value.",
+      "url": "https://www.marketwatch.com/story/gold-just-stumbled-a-jpmorgan-strategist-says-the-metal-could-double-in-value-c97eb6fd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Volvo Car shares were surging by the most in the four years it&#x2019;s been public as the Swedish automaker&#x2019;s cost-cutting surprised investors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T09:01:00.000Z",
-      "headline": "Simone Biles reveals her custom Texas mansion is complete&#x2014;after 2 years of work",
-      "url": "https://www.marketwatch.com/story/simone-biles-reveals-her-custom-texas-mansion-is-completeafter-2-years-of-work-66e73c85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
+        "META",
         "ED"
       ],
-      "summary_en": "Biles shared a glimpse of the home on Instagram during her official walk-through this week.",
+      "summary_en": "JPMorgan believes gold will increasingly become an investor favored hedge against equities, to the tune of 110%.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-23T03:25:00.000Z",
-      "headline": "Why quantum-computing stocks may be the Trump White House&#x2019;s next investment",
+      "ts": "2025-10-23T12:39:00.000Z",
+      "headline": "Quantum stocks are rising. Why they may be the Trump White House&#x2019;s next investment.",
       "url": "https://www.marketwatch.com/story/why-quantum-computing-stocks-could-be-due-for-u-s-government-stakes-b8d62845?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -75,15 +39,87 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-23T01:01:00.000Z",
-      "headline": "&#x2018;Big Brother is watching how we spend our dollars&#x2019;: I asked to withdraw money from my bank. The teller started grilling me. Is this normal?",
-      "url": "https://www.marketwatch.com/story/big-brother-is-watching-how-we-spend-our-dollars-i-asked-to-withdraw-money-from-my-bank-the-teller-started-grilling-me-is-this-normal-bd572391?mod=mw_rss_topstories",
+      "ts": "2025-10-23T12:33:00.000Z",
+      "headline": "Smaller is better for Honeywell, as profit outlook is raised ahead of Solstice spinoff",
+      "url": "https://www.marketwatch.com/story/smaller-is-better-for-honeywell-as-profit-outlook-is-raised-ahead-of-solstice-spinoff-4802097e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We are going on a trip that could include casino visits, but I didn&#x2019;t want her to know that.&#x201d;",
+      "summary_en": "Honeywell raised its profit outlook above Wall Street expectations, even when accounting for the separation of its advanced-materials business, slated for the end of October.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-23T12:15:00.000Z",
+      "headline": "American Airlines lifts profit outlook as travelers flock to premium seats",
+      "url": "https://www.marketwatch.com/story/american-airlines-lifts-profit-outlook-as-travelers-flock-to-premium-seats-7b18e812?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "American Airlines&#x2019; stock was set to rise Thursday after the full-year profit outlook was raised, amid continued strong demand for premium-seating options.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-23T11:13:00.000Z",
+      "headline": "Goldman trader on the one big reason why the so-called dumb money has beaten the pros this year",
+      "url": "https://www.marketwatch.com/story/goldman-trader-answers-why-the-so-called-dumb-money-has-been-beating-the-pros-this-year-b4eefa95?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A Goldman Sachs trader has taken on one of the big questions in markets this year:&#xa0;why retail investors, who typically capture trends too late, have been beating the pros.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-23T12:05:00.000Z",
+      "headline": "Investors are tired of having to view stocks and earnings through political fog",
+      "url": "https://www.marketwatch.com/story/investors-are-tired-of-having-to-view-stocks-and-earnings-through-political-fog-f31f79b7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Government shutdown forces investors to trade on faith, not facts.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-23T11:50:00.000Z",
+      "headline": "Wall Street is chasing bubbles &#x2014; these 10 stocks are the real power behind AI",
+      "url": "https://www.marketwatch.com/story/wall-street-is-chasing-bubbles-these-10-stocks-are-the-real-power-behind-ai-b457a2a8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Wall Street has mispriced the AI boom. The biggest moneymaker for investors is infrastructure.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-23T11:40:00.000Z",
+      "headline": "Our two daughters are struggling with student debt. Should we dip into our $1.8 million 401(k)s to buy them apartments?",
+      "url": "https://www.marketwatch.com/story/our-two-daughters-are-struggling-with-student-debt-should-we-dip-into-our-1-8-million-401-k-s-to-buy-them-apartments-47916e67?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Each apartment would be priced close to $225,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-23T12:02:00.000Z",
+      "headline": "&#x2018;I&#x2019;m in the home stretch&#x2019;: I&#x2019;m 80. Do I leave my kids a &#x2018;Magnificent Seven&#x2019; dynasty trust or a brokerage account?",
+      "url": "https://www.marketwatch.com/story/im-in-the-home-stretch-im-80-do-i-leave-my-kids-a-magnificent-seven-dynasty-trust-or-a-brokerage-account-dc45c172?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Do I leave them to pay capital-gains tax on the dynasty trust or estate tax on my personal account?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -96,18 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by HPB Holdings, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T22:15:00.000Z",
-      "headline": "U.S. stocks are hitting a speed bump. Why the rally could soon resume.",
-      "url": "https://www.marketwatch.com/story/u-s-stocks-are-hitting-a-speed-bump-why-the-rally-could-soon-resume-acb4750b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors encountered another rough patch for the market on Wednesday. But more good news likely lies ahead, experts say.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,30 +156,6 @@
         "ED"
       ],
       "summary_en": "Agencies announce withdrawal of principles for climate-related financial risk management",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T00:26:00.000Z",
-      "headline": "&#x2018;I&#x2019;m in the home stretch&#x2019;: I&#x2019;m 80. Do I leave my kids a &#x2018;Magnificent Seven&#x2019; dynasty trust or a brokerage account?",
-      "url": "https://www.marketwatch.com/story/im-in-the-home-stretch-im-80-do-i-leave-my-kids-a-magnificent-seven-dynasty-trust-or-a-brokerage-account-dc45c172?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Do I leave them to pay capital-gains tax on the dynasty trust or estate tax on my personal account?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-22T22:28:00.000Z",
-      "headline": "Jittery investors are pushing down Treasury yields ahead of crucial CPI inflation report",
-      "url": "https://www.marketwatch.com/story/jittery-investors-are-pushing-down-treasury-yields-ahead-of-crucial-cpi-inflation-report-38a0247b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Investors are bracing for an upcoming reading on inflation from the Bureau of Labor Statistics &#x2014; a crucial piece of the U.S. economic picture in an otherwise vacuum of government data during the shutdown.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
