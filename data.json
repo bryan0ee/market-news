@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-10-23T23:25:15.604Z",
+  "last_updated": "2025-10-24T10:44:57.368Z",
   "items": [
+    {
+      "ts": "2025-10-24T10:10:00.000Z",
+      "headline": "What the Reagan speech on tariffs that caused Trump to cut off Canadian talks actually says",
+      "url": "https://www.marketwatch.com/story/what-the-reagan-speech-on-tariffs-that-caused-trump-to-cut-off-canadian-talks-actually-says-9054e6d7?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The speech on tariffs from President Ronald Reagan that the Ontario government used in a $75 million ad blitz did omit a key section that calls into question the thrust of the message.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T10:34:00.000Z",
+      "headline": "Why Ford is doubling down on the F-150 &#x2014; and redeploying EV workers",
+      "url": "https://www.marketwatch.com/story/why-ford-is-doubling-down-on-the-f-150-and-redeploying-ev-workers-850d3946?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Ford is adding extra workers and taking other measures to meet &#x201c;strong&#x201d; customer demand for its F-Series pickup trucks, while making up for production losses stemming from a fire at an aluminum supplier&#x2019;s plant.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T09:01:00.000Z",
+      "headline": "After going into foreclosure on Manhattan homes, Bill Cosby finds a buyer for $29 million townhouse",
+      "url": "https://www.marketwatch.com/story/after-going-into-foreclosure-on-manhattan-homes-bill-cosby-finds-a-buyer-for-29-million-townhouse-6d559261?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Actor&#xa0;Bill Cosby has secured a buyer for his&#xa0;$29 million New York City townhouse&#x2014;months after it was revealed he had gone into&#xa0;foreclosure on both of his Manhattan homes.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T03:53:00.000Z",
+      "headline": "Trump says he&#x2019;s ending trade talks with Canada, cites antitariff ad featuring Reagan",
+      "url": "https://www.marketwatch.com/story/trump-says-hes-ending-trade-talks-with-canada-cites-antitariff-ad-featuring-reagan-f2978dfd?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. President Donald Trump said late Thursday that he was terminating &#x201c;all trade negotiations&#x201d; with Canada &#x2014; citing a Canadian advertising campaign targeting the White House&#x2019;s tariffs that featured former President Ronald Reagan speaking critically of import duties.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-10-23T23:03:00.000Z",
       "headline": "Intel&#x2019;s stock is climbing as earnings show a turnaround slowly taking hold",
@@ -74,54 +122,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T22:01:00.000Z",
-      "headline": "Target plans to cut jobs as incoming CEO tries to fix &#x2018;complexity&#x2019;: WSJ",
-      "url": "https://www.marketwatch.com/story/target-plans-to-cut-jobs-as-incoming-ceo-tries-to-fix-complexity-report-bdb277ff?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "As Target prepares for a new era with Michael Fiddelke at the helm, the retailer is reportedly cutting jobs in an effort to reduce the &#x201c;complexity&#x201d; that its new CEO says slowed down the company.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T21:45:00.000Z",
-      "headline": "&#x2018;I&#x2019;m worried about hurt feelings&#x2019;: I regret hiring my brother-in-law as my financial adviser. How do I fire him?",
-      "url": "https://www.marketwatch.com/story/im-worried-about-hurt-feelings-i-regret-hiring-my-brother-in-law-as-my-financial-adviser-how-do-i-fire-him-530a570c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I do not know how to tell my brother-in-law that I am switching.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T21:32:00.000Z",
-      "headline": "Why Ford is doubling down on the F-150 &#x2014; and redeploying EV workers",
-      "url": "https://www.marketwatch.com/story/why-ford-is-doubling-down-on-the-f-150-and-redeploying-ev-workers-850d3946?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Ford is adding extra workers and taking other measures to meet &#x201c;strong&#x201d; customer demand for its F-Series pickup trucks, while making up for production losses stemming from a fire at an aluminum supplier&#x2019;s plant.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T21:51:00.000Z",
-      "headline": "Trump&#x2019;s pardon of Binance founder Changpeng &#x2018;CZ&#x2019; Zhao could be a game changer for crypto in America",
-      "url": "https://www.marketwatch.com/story/trumps-pardon-of-binance-founder-changpeng-cz-zhao-could-be-a-game-changer-for-crypto-in-america-d3138a40?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The road for a potential Binance comeback won&#x2019;t be an easy one, however",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
