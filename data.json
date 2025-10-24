@@ -1,8 +1,69 @@
 {
-  "last_updated": "2025-10-24T10:44:57.368Z",
+  "last_updated": "2025-10-24T13:32:54.893Z",
   "items": [
     {
-      "ts": "2025-10-24T10:10:00.000Z",
+      "ts": "2025-10-24T13:29:00.000Z",
+      "headline": "Sorry, the trusted 60/40 portfolio might not save your 401(k) from this silent wealth killer",
+      "url": "https://www.marketwatch.com/story/sorry-the-trusted-60-40-portfolio-might-not-save-your-401-k-from-a-lost-decade-feb10fe8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The risk of a calamitous &#x201c;lost decade&#x201d; for investors is higher than you think",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T13:29:00.000Z",
+      "headline": "I&#x2019;m a veteran, 57, and on disability benefits. How do I persuade my wife, 52, to downsize so we can both retire?",
+      "url": "https://www.marketwatch.com/story/im-a-veteran-57-and-on-disability-benefits-how-do-i-persuade-my-wife-52-to-downsize-so-we-can-both-retire-1fd3a923?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am now medically disabled/retired and receive $2,100 a month from Social Security.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T13:26:00.000Z",
+      "headline": "Social Security&#x2019;s COLA will be 2.8% in 2026 &#x2014; first percentage increase in four years",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-2-8-in-2026-6ed3aa4c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Social Security&#x2019;s cost-of-living adjustment will be 2.8% in 2026, up from 2.5% this year, the Social Security Administration said on Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T13:14:00.000Z",
+      "headline": "Beyond Meat jumps on the latest twist in its meme-stock saga",
+      "url": "https://www.marketwatch.com/story/beyond-meat-jumps-on-the-latest-twist-in-its-meme-stock-saga-90f85398?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Beyond Meat have been on a wild meme-stock ride recently. The meat-substitute company announced preliminary third-quarter results early Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T13:13:00.000Z",
+      "headline": "I received an inheritance from my father&#x2019;s estate, but the executor wants me to give it back. What should I do?",
+      "url": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T11:54:00.000Z",
       "headline": "What the Reagan speech on tariffs that caused Trump to cut off Canadian talks actually says",
       "url": "https://www.marketwatch.com/story/what-the-reagan-speech-on-tariffs-that-caused-trump-to-cut-off-canadian-talks-actually-says-9054e6d7?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -14,114 +75,52 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-24T10:34:00.000Z",
-      "headline": "Why Ford is doubling down on the F-150 &#x2014; and redeploying EV workers",
-      "url": "https://www.marketwatch.com/story/why-ford-is-doubling-down-on-the-f-150-and-redeploying-ev-workers-850d3946?mod=mw_rss_topstories",
+      "ts": "2025-10-24T12:38:00.000Z",
+      "headline": "This strategist&#x2019;s theory of relativity says it&#x2019;s time to be underweight U.S. stocks",
+      "url": "https://www.marketwatch.com/story/this-strategists-theory-of-relativity-says-its-time-to-be-underweight-u-s-stocks-5a5ba30a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Ford is adding extra workers and taking other measures to meet &#x201c;strong&#x201d; customer demand for its F-Series pickup trucks, while making up for production losses stemming from a fire at an aluminum supplier&#x2019;s plant.",
+      "summary_en": "Japan and emerging markets should be bought says Ned Davis Research strategist",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-24T09:01:00.000Z",
-      "headline": "After going into foreclosure on Manhattan homes, Bill Cosby finds a buyer for $29 million townhouse",
-      "url": "https://www.marketwatch.com/story/after-going-into-foreclosure-on-manhattan-homes-bill-cosby-finds-a-buyer-for-29-million-townhouse-6d559261?mod=mw_rss_topstories",
+      "ts": "2025-10-24T12:30:00.000Z",
+      "headline": "You can be a supersaver for retirement &#x2014; but it&#x2019;ll cost you",
+      "url": "https://www.marketwatch.com/story/you-can-be-a-supersaver-for-retirement-but-itll-cost-you-78f09252?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Not spending your money could bring a higher tax bill and a lower enjoyment of life.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T12:15:00.000Z",
+      "headline": "Procter & Gamble&#x2019;s stock jumps as easing of tariff effects leads to earnings beat",
+      "url": "https://www.marketwatch.com/story/procter-gambles-stock-jumps-as-easing-of-tariff-effects-leads-to-earnings-beat-87d60332?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Consumer-goods giant Procter & Gamble has lowered its estimate for tariff costs in fiscal 2026, while keeping its profit outlook intact.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T12:00:00.000Z",
+      "headline": "Beware of this tax shock when buying a newly built home &#x2014; one first-time homeowner&#x2019;s monthly payment jumped $1,000",
+      "url": "https://www.marketwatch.com/story/beware-of-this-tax-shock-when-buying-a-newly-built-home-one-first-time-homeowners-monthly-payment-jumped-1-000-a22da1af?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Actor&#xa0;Bill Cosby has secured a buyer for his&#xa0;$29 million New York City townhouse&#x2014;months after it was revealed he had gone into&#xa0;foreclosure on both of his Manhattan homes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-24T03:53:00.000Z",
-      "headline": "Trump says he&#x2019;s ending trade talks with Canada, cites antitariff ad featuring Reagan",
-      "url": "https://www.marketwatch.com/story/trump-says-hes-ending-trade-talks-with-canada-cites-antitariff-ad-featuring-reagan-f2978dfd?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. President Donald Trump said late Thursday that he was terminating &#x201c;all trade negotiations&#x201d; with Canada &#x2014; citing a Canadian advertising campaign targeting the White House&#x2019;s tariffs that featured former President Ronald Reagan speaking critically of import duties.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T23:03:00.000Z",
-      "headline": "Intel&#x2019;s stock is climbing as earnings show a turnaround slowly taking hold",
-      "url": "https://www.marketwatch.com/story/intels-stock-is-climbing-as-earnings-show-a-turnaround-slowly-taking-hold-017a84c0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The company topped revenue expectations and said it&#x2019;s &#x201c;having a difficult time meeting all the demand that&#x2019;s out there&#x201d; because of supply constraints.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T23:00:00.000Z",
-      "headline": "These stocks are the real deal for investors in AI &#x2014; Wall Street is just chasing bubbles",
-      "url": "https://www.marketwatch.com/story/wall-street-is-chasing-bubbles-these-10-stocks-are-the-real-power-behind-ai-b457a2a8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The stock market has mispriced the AI boom. The big moneymakers are providing the electrical power and infrastructure.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T22:54:00.000Z",
-      "headline": "The government shutdown is forcing investors to trade on faith. What they need are facts.",
-      "url": "https://www.marketwatch.com/story/investors-are-tired-of-having-to-view-stocks-and-earnings-through-political-fog-f31f79b7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Investors are wary of stocks and earnings viewed through political fog.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T22:22:00.000Z",
-      "headline": "Google&#x2019;s new Anthropic deal is a validation moment for this under-the-radar asset",
-      "url": "https://www.marketwatch.com/story/googles-new-anthropic-deal-is-a-validation-moment-for-this-under-the-radar-asset-e78a46ec?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "Alphabet&#x2019;s cloud business secured a key AI partnership with Anthropic, signaling an increasingly competitive landscape for high-performance chips.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T22:17:00.000Z",
-      "headline": "&#x2018;I&#x2019;m furloughed due to the government shutdown&#x2019;: Do I pull money from my Roth 401(k) or $450K home?",
-      "url": "https://www.marketwatch.com/story/im-furloughed-due-to-the-government-shutdown-do-i-pull-money-from-my-roth-ira-savings-or-450k-home-0d60c216?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m in my late 40s and I am a civilian employee who is reporting for duty but not getting paid.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T22:17:00.000Z",
-      "headline": "I received an inheritance from my father&#x2019;s estate, but the executor wants me to give it back. What should I do?",
-      "url": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.&#x201d;",
+      "summary_en": "Americans&#x2019; property-tax bills have risen sharply in recent years. But the newest cohort of homeowners &#x2014; particularly those who bought newly constructed homes &#x2014; may be facing the biggest payment shocks of all.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
