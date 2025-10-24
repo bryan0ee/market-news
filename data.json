@@ -1,20 +1,94 @@
 {
-  "last_updated": "2025-10-24T13:32:54.893Z",
+  "last_updated": "2025-10-24T23:25:21.164Z",
   "items": [
     {
-      "ts": "2025-10-24T13:29:00.000Z",
-      "headline": "Sorry, the trusted 60/40 portfolio might not save your 401(k) from this silent wealth killer",
-      "url": "https://www.marketwatch.com/story/sorry-the-trusted-60-40-portfolio-might-not-save-your-401-k-from-a-lost-decade-feb10fe8?mod=mw_rss_topstories",
+      "ts": "2025-10-24T20:07:00.000Z",
+      "headline": "Why 10-year Treasury yield may hit 6% in next year or two on &#x2018;problematic&#x2019; inflation",
+      "url": "https://www.marketwatch.com/story/why-10-year-treasury-yield-may-hit-6-in-next-year-or-two-on-problematic-inflation-9ce0f90d?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stocks jumped to all-time highs on Friday after September&#x2019;s consumer-price index came in below expectations, helping to support the case for Federal Reserve interest-rate cuts next week and in December. Yet there are reasons to be cautious about where inflation may be headed beyond the next handful of months.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T21:06:00.000Z",
+      "headline": "The blistering AMD stock rally just culminated in a milestone",
+      "url": "https://www.marketwatch.com/story/the-blistering-amd-stock-rally-is-about-to-culminate-in-a-milestone-351aa084?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "Advanced Micro Devices shares have more than doubled this year, and the company joined the $400 billion market-cap club at Friday&#x2019;s close.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T21:02:00.000Z",
+      "headline": "IBM&#x2019;s stock has its best day since January, and quantum is a big reason why",
+      "url": "https://www.marketwatch.com/story/ibms-stock-is-having-its-best-day-since-january-and-quantum-is-a-big-reason-why-17dfd3b1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "A soon-to-be-published IBM paper discusses progress made in the realm of quantum error correction when using an AMD chip.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T20:45:00.000Z",
+      "headline": "Social Security&#x2019;s COLA will be 2.8% in 2026 &#x2014; but prices are now rising faster than that",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-2-8-in-2026-6ed3aa4c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Social Security&#x2019;s cost-of-living adjustment will be 2.8% in 2026, up from 2.5% this year, the Social Security Administration said on Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T19:43:00.000Z",
+      "headline": "Here&#x2019;s who is behind the Reagan anti-tariff ads that got Trump to ditch trade talks with Canada",
+      "url": "https://www.marketwatch.com/story/heres-who-is-behind-the-reagan-anti-tariff-ads-that-got-trump-to-ditch-trade-talks-with-canada-71e998a7?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Ontario&#x2019;s center-right leader, Doug Ford, says he launched the $75 million U.S. ad campaign hoping to spark a war between free-trade Reagan Republicans and Trump&#x2019;s MAGA supporters.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T20:32:00.000Z",
+      "headline": "&#x2018;Big Brother is watching how we spend our dollars&#x2019;: I asked to withdraw money from my bank. The teller started grilling me. Is this normal?",
+      "url": "https://www.marketwatch.com/story/big-brother-is-watching-how-we-spend-our-dollars-i-asked-to-withdraw-money-from-my-bank-the-teller-started-grilling-me-is-this-normal-bd572391?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The risk of a calamitous &#x201c;lost decade&#x201d; for investors is higher than you think",
+      "summary_en": "&#x201c;We are going on a trip that could include casino visits, but I didn&#x2019;t want her to know that.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-24T13:29:00.000Z",
+      "ts": "2025-10-24T20:26:00.000Z",
+      "headline": "Why Ford is doubling down on the F-150 &#x2014; and redeploying EV workers",
+      "url": "https://www.marketwatch.com/story/why-ford-is-doubling-down-on-the-f-150-and-redeploying-ev-workers-850d3946?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Ford is adding extra workers and taking other measures to meet &#x201c;strong&#x201d; customer demand for its F-Series pickup trucks, while making up for production losses stemming from a fire at an aluminum supplier&#x2019;s plant.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T20:23:00.000Z",
       "headline": "I&#x2019;m a veteran, 57, and on disability benefits. How do I persuade my wife, 52, to downsize so we can both retire?",
       "url": "https://www.marketwatch.com/story/im-a-veteran-57-and-on-disability-benefits-how-do-i-persuade-my-wife-52-to-downsize-so-we-can-both-retire-1fd3a923?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,101 +100,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-24T13:26:00.000Z",
-      "headline": "Social Security&#x2019;s COLA will be 2.8% in 2026 &#x2014; first percentage increase in four years",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-2-8-in-2026-6ed3aa4c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Social Security&#x2019;s cost-of-living adjustment will be 2.8% in 2026, up from 2.5% this year, the Social Security Administration said on Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-24T13:14:00.000Z",
-      "headline": "Beyond Meat jumps on the latest twist in its meme-stock saga",
-      "url": "https://www.marketwatch.com/story/beyond-meat-jumps-on-the-latest-twist-in-its-meme-stock-saga-90f85398?mod=mw_rss_topstories",
+      "ts": "2025-10-24T20:08:00.000Z",
+      "headline": "Sportsbooks were called &#x2018;victims&#x2019; in new NBA gambling probe. Here&#x2019;s what DraftKings, FanDuel have to say.",
+      "url": "https://www.marketwatch.com/story/sportsbooks-were-called-victims-in-new-nba-gambling-probe-heres-what-draftkings-fanduel-have-to-say-f1ee99e3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of Beyond Meat have been on a wild meme-stock ride recently. The meat-substitute company announced preliminary third-quarter results early Friday.",
+      "summary_en": "The sportsbooks say they play a key role in helping regulators identify suspicious betting activity.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-24T13:13:00.000Z",
-      "headline": "I received an inheritance from my father&#x2019;s estate, but the executor wants me to give it back. What should I do?",
-      "url": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-24T11:54:00.000Z",
-      "headline": "What the Reagan speech on tariffs that caused Trump to cut off Canadian talks actually says",
-      "url": "https://www.marketwatch.com/story/what-the-reagan-speech-on-tariffs-that-caused-trump-to-cut-off-canadian-talks-actually-says-9054e6d7?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The speech on tariffs from President Ronald Reagan that the Ontario government used in a $75 million ad blitz did omit a key section that calls into question the thrust of the message.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-24T12:38:00.000Z",
-      "headline": "This strategist&#x2019;s theory of relativity says it&#x2019;s time to be underweight U.S. stocks",
-      "url": "https://www.marketwatch.com/story/this-strategists-theory-of-relativity-says-its-time-to-be-underweight-u-s-stocks-5a5ba30a?mod=mw_rss_topstories",
+      "ts": "2025-10-24T19:30:00.000Z",
+      "headline": "Federal Reserve Board requests comment on proposals to enhance the transparency and public accountability of its annual stress test",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251024a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Japan and emerging markets should be bought says Ned Davis Research strategist",
+      "summary_en": "Federal Reserve Board requests comment on proposals to enhance the transparency and public accountability of its annual stress test",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-24T12:30:00.000Z",
-      "headline": "You can be a supersaver for retirement &#x2014; but it&#x2019;ll cost you",
-      "url": "https://www.marketwatch.com/story/you-can-be-a-supersaver-for-retirement-but-itll-cost-you-78f09252?mod=mw_rss_topstories",
+      "ts": "2025-10-24T21:04:00.000Z",
+      "headline": "Why Nov. 1 is a make-or-break day for millions of Americans&#x2019; finances",
+      "url": "https://www.marketwatch.com/story/why-nov-1-is-a-make-or-break-day-for-millions-of-americans-finances-0883ed11?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "COST"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Not spending your money could bring a higher tax bill and a lower enjoyment of life.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-24T12:15:00.000Z",
-      "headline": "Procter & Gamble&#x2019;s stock jumps as easing of tariff effects leads to earnings beat",
-      "url": "https://www.marketwatch.com/story/procter-gambles-stock-jumps-as-easing-of-tariff-effects-leads-to-earnings-beat-87d60332?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Consumer-goods giant Procter & Gamble has lowered its estimate for tariff costs in fiscal 2026, while keeping its profit outlook intact.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-24T12:00:00.000Z",
-      "headline": "Beware of this tax shock when buying a newly built home &#x2014; one first-time homeowner&#x2019;s monthly payment jumped $1,000",
-      "url": "https://www.marketwatch.com/story/beware-of-this-tax-shock-when-buying-a-newly-built-home-one-first-time-homeowners-monthly-payment-jumped-1-000-a22da1af?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Americans&#x2019; property-tax bills have risen sharply in recent years. But the newest cohort of homeowners &#x2014; particularly those who bought newly constructed homes &#x2014; may be facing the biggest payment shocks of all.",
+      "summary_en": "If the government shutdown stretches beyond October, experts warn that Nov. 1 could mark a grim cutoff for low- and middle-income families.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -133,18 +145,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-17T22:45:00.000Z",
-      "headline": "Federal Reserve Board denies application by Canandaigua National Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251017a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board denies application by Canandaigua National Corporation",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
