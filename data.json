@@ -1,16 +1,29 @@
 {
-  "last_updated": "2025-10-24T23:25:21.164Z",
+  "last_updated": "2025-10-25T10:40:06.470Z",
   "items": [
     {
-      "ts": "2025-10-24T20:07:00.000Z",
-      "headline": "Why 10-year Treasury yield may hit 6% in next year or two on &#x2018;problematic&#x2019; inflation",
-      "url": "https://www.marketwatch.com/story/why-10-year-treasury-yield-may-hit-6-in-next-year-or-two-on-problematic-inflation-9ce0f90d?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2025-10-25T01:15:00.000Z",
+      "headline": "Our two daughters are struggling with student debt. Should we dip into our $1.8 million 401(k)s to buy them apartments?",
+      "url": "https://www.marketwatch.com/story/our-two-daughters-are-struggling-with-student-debt-should-we-dip-into-our-1-8-million-401-k-s-to-buy-them-apartments-47916e67?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. stocks jumped to all-time highs on Friday after September&#x2019;s consumer-price index came in below expectations, helping to support the case for Federal Reserve interest-rate cuts next week and in December. Yet there are reasons to be cautious about where inflation may be headed beyond the next handful of months.",
+      "summary_en": "&#x201c;Each apartment would be priced close to $225,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-25T01:00:00.000Z",
+      "headline": "I received an inheritance from my father&#x2019;s estate, but the executor wants me to give it back. What should I do?",
+      "url": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -49,18 +62,6 @@
         "COST"
       ],
       "summary_en": "Social Security&#x2019;s cost-of-living adjustment will be 2.8% in 2026, up from 2.5% this year, the Social Security Administration said on Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-24T19:43:00.000Z",
-      "headline": "Here&#x2019;s who is behind the Reagan anti-tariff ads that got Trump to ditch trade talks with Canada",
-      "url": "https://www.marketwatch.com/story/heres-who-is-behind-the-reagan-anti-tariff-ads-that-got-trump-to-ditch-trade-talks-with-canada-71e998a7?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Ontario&#x2019;s center-right leader, Doug Ford, says he launched the $75 million U.S. ad campaign hoping to spark a war between free-trade Reagan Republicans and Trump&#x2019;s MAGA supporters.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -124,18 +125,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-24T21:04:00.000Z",
-      "headline": "Why Nov. 1 is a make-or-break day for millions of Americans&#x2019; finances",
-      "url": "https://www.marketwatch.com/story/why-nov-1-is-a-make-or-break-day-for-millions-of-americans-finances-0883ed11?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "If the government shutdown stretches beyond October, experts warn that Nov. 1 could mark a grim cutoff for low- and middle-income families.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-23T18:00:00.000Z",
       "headline": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251023a.htm",
@@ -145,6 +134,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-24T21:04:00.000Z",
+      "headline": "Why Nov. 1 is a make-or-break day for millions of Americans&#x2019; finances",
+      "url": "https://www.marketwatch.com/story/why-nov-1-is-a-make-or-break-day-for-millions-of-americans-finances-0883ed11?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "If the government shutdown stretches beyond October, experts warn that Nov. 1 could mark a grim cutoff for low- and middle-income families.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
