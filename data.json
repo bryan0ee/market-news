@@ -1,8 +1,20 @@
 {
-  "last_updated": "2025-10-26T10:40:19.280Z",
+  "last_updated": "2025-10-26T13:25:37.744Z",
   "items": [
     {
-      "ts": "2025-10-25T21:20:00.000Z",
+      "ts": "2025-10-26T13:21:00.000Z",
+      "headline": "&#x2018;She did a lot of things behind my back&#x2019;: My father excluded me from his will. My &#x2018;sneaky&#x2019; sister, his executor, is to blame.",
+      "url": "https://www.marketwatch.com/story/she-did-a-lot-of-things-behind-my-back-my-father-excluded-me-from-his-will-my-sneaky-sister-his-executor-is-to-blame-7a5b3643?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I believe she forged my signature on legal documents and excluded me from my portion of my inheritance.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-26T12:20:00.000Z",
       "headline": "&#x2018;We don&#x2019;t want to get into trouble&#x2019;: Can we give our daughter a $30K wedding gift without involving the IRS?",
       "url": "https://www.marketwatch.com/story/we-dont-want-to-get-into-trouble-can-we-give-our-daughter-a-30k-wedding-gift-without-involving-the-irs-fd706051?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -11,6 +23,18 @@
         "ED"
       ],
       "summary_en": "&#x201c;What is the best way to go about this?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-26T13:00:00.000Z",
+      "headline": "The surprising stocks leading the tech sector this year thanks to an AI renaissance",
+      "url": "https://www.marketwatch.com/story/the-surprising-stocks-leading-the-tech-sector-this-year-thanks-to-an-ai-renaissance-f4407f5d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Western Digital and Seagate were once sleepy cyclical stocks. But storage technology is now at the heart of the AI boom, and analysts see no signs of a slowdown ahead.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -88,18 +112,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-25T16:15:00.000Z",
-      "headline": "Trump&#x2019;s reversal on furloughed workers shows even he is afraid of ticking off seniors",
-      "url": "https://www.marketwatch.com/story/trumps-reversal-on-furloughed-workers-shows-even-he-is-afraid-of-ticking-off-seniors-6896c523?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "During the second-longest government shutdown, the administration brings back workers for Social Security and Medicare",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-24T19:30:00.000Z",
       "headline": "Federal Reserve Board requests comment on proposals to enhance the transparency and public accountability of its annual stress test",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251024a.htm",
@@ -133,18 +145,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "The problems and concerns supporting higher gold prices aren&#x2019;t going away.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-25T16:28:00.000Z",
-      "headline": "&#x2018;I&#x2019;m in the home stretch&#x2019;: I&#x2019;m 80. Do I leave my kids a &#x2018;Magnificent Seven&#x2019; dynasty trust or a brokerage account?",
-      "url": "https://www.marketwatch.com/story/im-in-the-home-stretch-im-80-do-i-leave-my-kids-a-magnificent-seven-dynasty-trust-or-a-brokerage-account-dc45c172?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Do I leave them to pay capital-gains tax on the dynasty trust or estate tax on my personal account?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
