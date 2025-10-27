@@ -1,93 +1,81 @@
 {
-  "last_updated": "2025-10-27T13:33:59.042Z",
+  "last_updated": "2025-10-27T23:25:38.466Z",
   "items": [
     {
-      "ts": "2025-10-27T13:26:00.000Z",
-      "headline": "My son&#x2019;s credit-card company will write off $10K on a $25K debt. Should he accept or declare bankruptcy?",
-      "url": "https://www.marketwatch.com/story/my-sons-credit-card-company-will-write-off-10k-on-a-25k-debt-should-he-accept-or-declare-bankruptcy-11d656fd?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-10-27T21:59:00.000Z",
+      "headline": "Amazon reportedly plans to cut 30,000 jobs. The nation&#x2019;s second-biggest private employer is remaking its workforce.",
+      "url": "https://www.marketwatch.com/story/amazon-plans-its-biggest-job-cut-in-roughly-three-years-reuters-reports-4e0ad594?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
+        "META",
         "ED"
       ],
-      "summary_en": "&#x201c;What are the negative consequences of a second bankruptcy?&#x201d;",
+      "summary_en": "Move would follow reports of cuts at Target, Meta and elsewhere.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-27T13:20:00.000Z",
-      "headline": "I&#x2019;m a veteran, 57, and on disability benefits. How do I persuade my wife, 52, to downsize so we can both retire?",
-      "url": "https://www.marketwatch.com/story/im-a-veteran-57-and-on-disability-benefits-how-do-i-persuade-my-wife-52-to-downsize-so-we-can-both-retire-1fd3a923?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am now medically disabled/retired and receive $2,100 a month from Social Security.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-27T13:01:00.000Z",
-      "headline": "GameStop gets back in the spotlight, as it draws the attention of the re-energized meme-stock crowd",
-      "url": "https://www.marketwatch.com/story/gamestop-gets-back-in-the-spotlight-as-it-draws-the-attention-of-the-re-energized-meme-stock-crowd-798d58cb?mod=mw_rss_topstories",
+      "ts": "2025-10-27T21:09:00.000Z",
+      "headline": "&#x2018;I think we&#x2019;ve been lied to&#x2019;: Who exactly is considered rich in America?&#xa0;",
+      "url": "https://www.marketwatch.com/story/i-think-weve-been-lied-to-who-exactly-is-considered-rich-in-america-d4ec2567?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The OG meme stock&#x2019;s social-media post declaring the end of &#x201c;the console wars&#x201d; has created plenty of buzz.",
+      "summary_en": "A middle-class person in America would be considered rich beyond most people&#x2019;s wildest dreams in many parts of the world.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-27T12:47:00.000Z",
-      "headline": "Banks are still compensating investors over Madoff fraud. Another $1.1 billion might be paid out.",
-      "url": "https://www.marketwatch.com/story/banks-are-still-compensating-investors-over-madoff-fraud-another-1-1-billion-might-be-paid-out-86409bf5?mod=mw_rss_topstories",
+      "ts": "2025-10-27T20:54:00.000Z",
+      "headline": "This biotech&#x2019;s stock soared as investors look for the next buyout target",
+      "url": "https://www.marketwatch.com/story/this-biotechs-stock-soared-as-investors-look-for-the-next-buyout-target-cd9378e3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "HSBC has said it has set aside $1.1 billion related to the biggest Ponzi scheme in history.",
+      "summary_en": "Dyne Therapeutics&#x2019; stock sees record rally, but one analyst says it could still climb a lot further, after a rival got bought out for a big premium.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-27T12:06:00.000Z",
-      "headline": "I&#x2019;m 30 and I inherited $50,000. I want to make a high-return, low-risk investment. What are my best options?",
-      "url": "https://www.marketwatch.com/story/im-30-and-i-inherited-50-000-i-want-to-make-a-high-return-low-risk-investment-what-are-my-best-options-8b570512?mod=mw_rss_topstories",
+      "ts": "2025-10-27T20:35:00.000Z",
+      "headline": "Qualcomm ups its game in AI, sending its stock to a 15-month high",
+      "url": "https://www.marketwatch.com/story/qualcomm-ups-its-game-in-ai-sending-its-stock-toward-a-15-month-high-907b7181?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Along with investing your money, I&#x2019;d invest some time in learning how to trust yourself.",
+      "summary_en": "The company is launching chip-based AI accelerator cards for AI inference and data center racks, and is counting Saudi Arabian AI firm Humain as its first customer.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-27T12:03:00.000Z",
-      "headline": "How Trump&#x2019;s new White House ballroom will actually cost taxpayers up to $110 million",
-      "url": "https://www.marketwatch.com/story/trumps-new-white-house-ballroom-will-actually-cost-taxpayers-up-to-110-million-988a3d92?mod=mw_rss_topstories",
+      "ts": "2025-10-27T20:03:00.000Z",
+      "headline": "The Fed has a strong case for an October rate cut &#x2014; but investors should brace for anything",
+      "url": "https://www.marketwatch.com/story/the-fed-has-a-strong-case-for-an-october-rate-cut-but-investors-should-brace-for-anything-ff8f36b0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED",
-        "COST"
+        "ED"
       ],
-      "summary_en": "You know how the fabulous refurbishment of the White House, to include the greatest ballroom ever, will supposedly have &#x201c;zero cost&#x201d; to us taxpayers? Nope &#x2014; sorry.",
+      "summary_en": "Here&#x2019;s what investors should do when the central bank doesn&#x2019;t have official data.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-27T13:31:00.000Z",
-      "headline": "History shows this year&#x2019;s stock-market losers are actually likely to be November&#x2019;s winners",
-      "url": "https://www.marketwatch.com/story/why-history-shows-this-years-stock-losers-can-be-november-winners-ffaeddea?mod=mw_rss_topstories",
+      "ts": "2025-10-27T20:00:00.000Z",
+      "headline": "&#x2018;Big Brother is watching how we spend our dollars&#x2019;: I asked to withdraw money from my bank. The teller started grilling me. Is this normal?",
+      "url": "https://www.marketwatch.com/story/big-brother-is-watching-how-we-spend-our-dollars-i-asked-to-withdraw-money-from-my-bank-the-teller-started-grilling-me-is-this-normal-bd572391?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "A tax-loss trade sets up some stocks for better times, according to Evercore ISI",
+      "summary_en": "&#x201c;We are going on a trip that could include casino visits, but I didn&#x2019;t want her to know that.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-27T12:59:00.000Z",
+      "ts": "2025-10-27T22:36:00.000Z",
       "headline": "These stocks are falling back to Earth as Trump and China play nice",
       "url": "https://www.marketwatch.com/story/these-stocks-are-falling-back-to-earth-as-trump-and-china-play-nice-de83e8d7?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -99,27 +87,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-27T12:08:00.000Z",
-      "headline": "My husband and I have $7K in Social Security and $2.5 million in stocks. What could go wrong?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-have-7k-in-social-security-and-2-5-million-in-stocks-what-could-go-wrong-5ef5e4e9?mod=mw_rss_topstories",
+      "ts": "2025-10-27T22:06:00.000Z",
+      "headline": "CarMax to leave the S&P 500 to give way to this famous industrial company&#x2019;s spinoff",
+      "url": "https://www.marketwatch.com/story/carmax-to-leave-the-s-p-500-to-give-way-to-this-famous-industrial-companys-spinoff-7f65db4d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I hope to live off of the combination of Social Security and the TIPS ladder.&#x201d;",
+      "summary_en": "A place in the S&P 500 is a sought-after spot for companies, as it exposes their stock to a broad swath of active investors and to countless passive funds that track the benchmark automatically.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-27T12:00:00.000Z",
-      "headline": "A college grad earning $62K can have $1 million in just 10 years, podcasters say. Experts think it&#x2019;s actually a solid plan.",
-      "url": "https://www.marketwatch.com/story/a-college-grad-earning-62k-can-have-1-million-in-just-10-years-podcasters-say-experts-think-its-actually-a-solid-plan-1d845e5d?mod=mw_rss_topstories",
+      "ts": "2025-10-27T20:28:00.000Z",
+      "headline": "&#x2018;I&#x2019;m in the home stretch&#x2019;: I&#x2019;m 80. Do I leave my kids a &#x2018;Magnificent Seven&#x2019; dynasty trust or a brokerage account?",
+      "url": "https://www.marketwatch.com/story/im-in-the-home-stretch-im-80-do-i-leave-my-kids-a-magnificent-seven-dynasty-trust-or-a-brokerage-account-dc45c172?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "How a 22-year-old college graduate with no assets, no debt and an annual salary of $62,000 can accrue a $1 million net worth in a decade.",
+      "summary_en": "&#x201c;Do I leave them to pay capital-gains tax on the dynasty trust or estate tax on my personal account?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-27T20:07:00.000Z",
+      "headline": "Why the odds of gas prices falling below $2 anytime soon are one in a million",
+      "url": "https://www.marketwatch.com/story/why-the-odds-of-gas-prices-falling-below-2-anytime-soon-are-one-in-a-million-140ccc07?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Gasoline prices at the pump last week fell to their lowest average intraday price in four years, but aren&#x2019;t likely to see a dip below $2 a gallon any time soon.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
