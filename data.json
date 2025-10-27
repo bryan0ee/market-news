@@ -1,8 +1,80 @@
 {
-  "last_updated": "2025-10-26T23:25:43.503Z",
+  "last_updated": "2025-10-27T10:46:12.997Z",
   "items": [
     {
-      "ts": "2025-10-26T22:18:00.000Z",
+      "ts": "2025-10-27T10:10:00.000Z",
+      "headline": "This hedge-fund giant studied over 30 bubbles &#x2014; and came away more convinced that the AI trade is the right one",
+      "url": "https://www.marketwatch.com/story/this-hedge-fund-giant-studied-over-30-bubbles-and-came-away-more-convinced-that-the-ai-trade-is-the-right-one-2eb92035?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hedge-fund giant Coatue has heard all the bubble arguments &#x2014; and still comes away convinced that the right move is betting on artificial intelligence and its potential.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-27T09:00:00.000Z",
+      "headline": "Lionel Messi commits to life in Miami&#x2014;with purchase of 4 luxury multimillion-dollar condos",
+      "url": "https://www.marketwatch.com/story/lionel-messi-commits-to-life-in-miamiwith-purchase-of-4-luxury-multimillion-dollar-condos-19caca1f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Just a few months before signing his Inter Miami contract extension, the soccer star snapped up 4 units in a luxury Miami high-rise.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-27T08:58:00.000Z",
+      "headline": "NBA star Jrue Holiday lists Newton, Mass., luxury mansion for $6.9 million",
+      "url": "https://www.marketwatch.com/story/nba-star-jrue-holiday-lists-newton-mass-luxury-mansion-for-6-9-million-75b00dd4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Jrue Holiday is wasting no time cutting ties to the Boston Celtics, listing his home just months after being traded to the Portland Trail Blazers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-27T08:40:00.000Z",
+      "headline": "A global &#x2018;polycrisis&#x2019; is looming, sparked by China, Taiwan and AI, say these researchers",
+      "url": "https://www.marketwatch.com/story/a-global-polycrisis-is-looming-sparked-by-china-taiwan-and-ai-say-these-researchers-3b409cd0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "TSMC&#x2019;s advanced semiconductors are the crux of a brewing crisis, says this intelligence firm.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-27T10:41:00.000Z",
+      "headline": "Why history shows this year&#x2019;s stock losers can be November winners",
+      "url": "https://www.marketwatch.com/story/why-history-shows-this-years-stock-losers-can-be-november-winners-ffaeddea?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A tax-loss trade sets up some stocks for better times, according to Evercore ISI",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-27T09:04:00.000Z",
+      "headline": "5 spooky-good historic towns to visit for a seasonal getaway",
+      "url": "https://www.marketwatch.com/story/5-spooky-good-historic-towns-to-visit-for-a-seasonal-getaway-d43723b5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Curate some fall vibes to truly enjoy the chillier months&#x2014;check out these cities rich in history for an eerily cool weekend.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-27T03:11:00.000Z",
       "headline": "Stock futures rise over optimism for U.S.-China trade deal ahead of Trump-Xi meeting",
       "url": "https://www.marketwatch.com/story/u-s-china-say-trade-deal-groundwork-has-been-laid-ahead-of-trump-xi-meeting-9f1fbe34?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,31 +86,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-26T21:09:00.000Z",
-      "headline": "These 5 tech stocks could let you play earnings season like a pro",
-      "url": "https://www.marketwatch.com/story/these-five-tech-stocks-could-let-you-play-earnings-season-like-a-pro-b589f8d4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "We surveyed experts on their favored picks heading into earnings season &#x2014;&#xa0;and identified companies across the tech sector.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-26T23:21:00.000Z",
-      "headline": "The AI revolution may actually benefit older workers the most. 6 ways you can get ahead.",
-      "url": "https://www.marketwatch.com/story/the-ai-revolution-may-actually-benefit-older-workers-the-most-6-ways-you-can-get-ahead-d1ffc940?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Why artificial intelligence might help older workers more than younger ones.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-26T18:34:00.000Z",
+      "ts": "2025-10-27T01:15:00.000Z",
       "headline": "My son&#x2019;s credit-card company will write off $10K on a $25K debt. Should he accept or declare bankruptcy?",
       "url": "https://www.marketwatch.com/story/my-sons-credit-card-company-will-write-off-10k-on-a-25k-debt-should-he-accept-or-declare-bankruptcy-11d656fd?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -47,81 +95,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;What are the negative consequences of a second bankruptcy?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-26T17:02:00.000Z",
-      "headline": "&#x2018;Big Brother is watching how we spend our dollars&#x2019;: I asked to withdraw money from my bank. The teller started grilling me. Is this normal?",
-      "url": "https://www.marketwatch.com/story/big-brother-is-watching-how-we-spend-our-dollars-i-asked-to-withdraw-money-from-my-bank-the-teller-started-grilling-me-is-this-normal-bd572391?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We are going on a trip that could include casino visits, but I didn&#x2019;t want her to know that.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-26T16:02:00.000Z",
-      "headline": "Our two daughters are struggling with student debt. Should we dip into our $1.8 million 401(k)s to buy them apartments?",
-      "url": "https://www.marketwatch.com/story/our-two-daughters-are-struggling-with-student-debt-should-we-dip-into-our-1-8-million-401-k-s-to-buy-them-apartments-47916e67?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Each apartment would be priced close to $225,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-26T16:00:00.000Z",
-      "headline": "Stock market faces midweek double whammy as Fed decision collides with megacap tech earnings. Here&#x2019;s what to watch.&#xa0;",
-      "url": "https://www.marketwatch.com/story/stock-market-faces-midweek-double-whammy-as-fed-decision-collides-with-megacap-tech-earnings-heres-what-to-watch-a1b83ce6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The stock market&#x2019;s record-setting rally faces a midweek double whammy as a pivotal Federal Reserve&#x2019;s interest-rate decision collides with a flood of megacap tech earnings.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-26T15:25:00.000Z",
-      "headline": "Why Trump&#x2019;s new White House ballroom may actually cost taxpayers up to $110 million",
-      "url": "https://www.marketwatch.com/story/trumps-new-white-house-ballroom-will-actually-cost-taxpayers-up-to-110-million-988a3d92?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "You know how the fabulous refurbishment of the White House, to include the greatest ballroom ever, will supposedly have &#x201c;zero cost&#x201d; to us taxpayers? Nope &#x2014; sorry.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-26T15:00:00.000Z",
-      "headline": "I received an inheritance from my father&#x2019;s estate, but the executor wants me to give it back. What should I do?",
-      "url": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-26T13:30:00.000Z",
-      "headline": "Target might be cutting jobs, but its &#x2018;kitchen sink&#x2019; moment hasn&#x2019;t hit yet",
-      "url": "https://www.marketwatch.com/story/target-might-be-cutting-jobs-but-its-kitchen-sink-moment-hasnt-hit-yet-e8e0c91d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "Wall Street analysts suggested the worst was still yet to come for Target. Molson, Amazon, Meta and GM are also trimming staff.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -146,6 +119,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-27T00:09:00.000Z",
+      "headline": "Big Tech is spending on power for AI &#x2014; whether Washington functions or not",
+      "url": "https://www.marketwatch.com/story/the-biggest-infrastructure-spending-cycle-in-american-history-is-happening-whether-washington-functions-or-not-e58f0b74?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Charlie Garcia responds to readers about AI doubters, nuclear reactors &#x2014; and why Blackstone fixes what City Hall won&#x2019;t.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-26T23:21:00.000Z",
+      "headline": "The AI revolution may actually benefit older workers the most. 6 ways you can get ahead.",
+      "url": "https://www.marketwatch.com/story/the-ai-revolution-may-actually-benefit-older-workers-the-most-6-ways-you-can-get-ahead-d1ffc940?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Why artificial intelligence might help older workers more than younger ones.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
