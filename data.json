@@ -1,57 +1,69 @@
 {
-  "last_updated": "2025-10-28T10:46:04.192Z",
+  "last_updated": "2025-10-28T13:32:59.817Z",
   "items": [
     {
-      "ts": "2025-10-28T10:38:00.000Z",
-      "headline": "U.S. says $80 billion worth of nuclear reactors will be built. Cameco&#x2019;s stock jumps.",
-      "url": "https://www.marketwatch.com/story/u-s-says-80-billion-worth-of-nuclear-reactors-will-be-built-camecos-stock-jumps-356b5b0f?mod=mw_rss_topstories",
+      "ts": "2025-10-28T13:08:00.000Z",
+      "headline": "Wayfair&#x2019;s stock rallies as repeat customers help lift revenue above Wall Street&#x2019;s estimate",
+      "url": "https://www.marketwatch.com/story/wayfairs-stock-rallies-as-repeat-customers-help-lift-revenue-above-wall-streets-estimate-c41f34d0?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Existing customer boosted their buying activity by nearly 7%, while the total number of active shoppers dipped.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-28T12:35:00.000Z",
+      "headline": "UPS has cut 34,000 jobs &#x2014; a lot more than planned &#x2014; and earnings show the move paid off",
+      "url": "https://www.marketwatch.com/story/ups-beats-profit-expectations-by-the-widest-margin-in-years-and-the-stock-surges-ca0a2d7e?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "UPS&#x2019;s stock looked to surge after the company announced it beat profits by the widest margin in more than four years.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-28T13:19:00.000Z",
+      "headline": "U.S. labor market was expanding in mid-October, new weekly ADP report shows",
+      "url": "https://www.marketwatch.com/story/u-s-labor-market-continued-to-expand-in-mid-october-new-weekly-adp-report-shows-1411762c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Job growth was cooling prior to the government shutdown, which started on Oct. 1 and has delayed the release of the September jobs report.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-28T13:16:00.000Z",
+      "headline": "AI is gobbling up power and money &#x2014; and sidelining this big issue, Blackstone and BlackRock CEOs say",
+      "url": "https://www.marketwatch.com/story/ai-is-gobbling-up-power-and-money-and-sidelining-this-big-issue-blackstone-and-blackrock-ceo-say-c493f9da?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The U.S. government announced a pact to build at least $80 billion worth of nuclear reactors, in a pact to meet the growing power demands caused by artificial intelligence.",
+      "summary_en": "The biggest minds in finance weighed in on AI, investing and the U.S. economy at a Saudi Arabia conference on Tuesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-28T10:18:00.000Z",
-      "headline": "Amazon to cut 14,000 jobs. Credit &#x2014; or blame &#x2014; goes to AI.",
-      "url": "https://www.marketwatch.com/story/amazon-to-cut-14-000-jobs-credit-or-blame-goes-to-ai-0cef9769?mod=mw_rss_topstories",
+      "ts": "2025-10-28T13:00:00.000Z",
+      "headline": "Stablecoins are a shaky proposition for investors: Here&#x2019;s what you need to know",
+      "url": "https://www.marketwatch.com/story/stablecoins-are-a-shaky-proposition-for-investors-heres-what-you-need-to-know-2aae3feb?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "Amazon.com on Tuesday announced job cuts of 14,000, as the megacap tech company said it needs to better prepare for the impact of artificial intelligence.",
+      "summary_en": "This so-called &#x201c;safer&#x201d; cryptocurrency offers some advantages to investors. But can you trust the providers?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-28T09:44:00.000Z",
-      "headline": "Why tech evangelist Cathie Wood predicts a &#x2018;shudder&#x2019; in markets next year.",
-      "url": "https://www.marketwatch.com/story/why-tech-evangelist-cathie-wood-predicts-a-shudder-in-markets-next-year-db2766b5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Wood foresees a reality check on AI valuations at some point but she does not think we&#x2019;re in a bubble.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-28T09:03:00.000Z",
-      "headline": "Mark Wahlberg buys a $37 million Florida mansion on &#x2018;Billionaire&#x2019;s Row&#x2019;",
-      "url": "https://www.marketwatch.com/story/mark-wahlberg-buys-a-37-million-florida-mansion-on-billionaires-row-735bb77a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Hollywood heavyweight Mark Wahlberg has forked over $37 million to buy a newly flipped, fully furnished Florida mansion on an exclusive stretch known as &#x201c;Billionaires Row.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-28T01:53:00.000Z",
+      "ts": "2025-10-28T12:00:00.000Z",
       "headline": "My son&#x2019;s credit-card company will write off $10K on a $25K debt. Should he accept or declare bankruptcy?",
       "url": "https://www.marketwatch.com/story/my-sons-credit-card-company-will-write-off-10k-on-a-25k-debt-should-he-accept-or-declare-bankruptcy-11d656fd?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -63,15 +75,52 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-28T00:11:00.000Z",
-      "headline": "The Fed has a strong case for an October rate cut &#x2014; but investors should brace for anything",
-      "url": "https://www.marketwatch.com/story/the-fed-has-a-strong-case-for-an-october-rate-cut-but-investors-should-brace-for-anything-ff8f36b0?mod=mw_rss_topstories",
+      "ts": "2025-10-28T12:32:00.000Z",
+      "headline": "United and Delta are now making billions catering to the highest fliers among us",
+      "url": "https://www.marketwatch.com/story/how-united-and-delta-are-making-billions-catering-to-the-high-flyers-among-us-85578bf2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Here&#x2019;s what investors should do when the central bank doesn&#x2019;t have official data.",
+      "summary_en": "Executives at United Airlines and Delta Air Lines bet that, after a post-pandemic&#x2019;s era of pent-up demand and &#x201c;revenge travel,&#x201d; well-heeled Americans would no longer fly just to get to point A from point B.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-28T12:06:00.000Z",
+      "headline": "Royal Caribbean sees cruise demand accelerate &#x2014; but here&#x2019;s why the stock is dropping",
+      "url": "https://www.marketwatch.com/story/royal-caribbean-sees-cruise-demand-accelerate-but-heres-why-the-stock-is-dropping-a53aaf47?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Royal Caribbean&#x2019;s stock looked set to fall as a another revenue miss overshadowed a profit beat and accelerating demand for cruises.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-28T12:00:00.000Z",
+      "headline": "Microsoft&#x2019;s stock is in need of a jolt. Here&#x2019;s how earnings could fuel a breakout.",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-is-in-need-of-a-jolt-heres-how-earnings-could-fuel-a-breakout-2b65f2d9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Microsoft reports earnings on Wednesday, and analysts see the potential for further acceleration in its cloud business as well as major benefits from a Windows refresh cycle.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-28T13:30:00.000Z",
+      "headline": "&#x2018;Luckily, I did not mix our finances&#x2019;: My husband is 7 years younger and has dementia. What happens now?",
+      "url": "https://www.marketwatch.com/story/luckily-i-did-not-mix-our-finances-my-husband-is-7-years-younger-and-has-dementia-what-happens-now-3cd137ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I have gotten our living expenses as low as I can, and I have dental and healthcare insurance for both of us.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -96,54 +145,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-28T01:15:00.000Z",
-      "headline": "My husband and I have $7K in Social Security and $2.5 million in stocks. What could go wrong?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-have-7k-in-social-security-and-2-5-million-in-stocks-what-could-go-wrong-5ef5e4e9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I hope to live off of the combination of Social Security and the TIPS ladder.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-28T00:51:00.000Z",
-      "headline": "&#x2018;Luckily, I did not mix our finances&#x2019;: My husband is 7 years younger and has dementia. What happens now?",
-      "url": "https://www.marketwatch.com/story/luckily-i-did-not-mix-our-finances-my-husband-is-7-years-younger-and-has-dementia-what-happens-now-3cd137ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I have gotten our living expenses as low as I can, and I have dental and healthcare insurance for both of us.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-28T00:21:00.000Z",
-      "headline": "The smart money is done with crypto gambling. Now they&#x2019;re betting on the dealers.",
-      "url": "https://www.marketwatch.com/story/how-this-unknown-crypto-trade-could-make-money-for-stock-investors-and-fix-the-fed-0a8d91f3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Shares of crypto-friendly exchanges could soar if this little-known trade gains traction.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-28T00:10:00.000Z",
-      "headline": "The stock market is shattering records &#x2014; but picking winners still isn&#x2019;t easy",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-shattering-records-but-picking-winners-still-isnt-easy-8495e1c5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "More stocks are making money, but there are more losers too.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
