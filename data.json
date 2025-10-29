@@ -1,101 +1,127 @@
 {
-  "last_updated": "2025-10-29T10:45:49.036Z",
+  "last_updated": "2025-10-29T13:35:05.712Z",
   "items": [
     {
-      "ts": "2025-10-29T10:30:00.000Z",
-      "headline": "Why Amazon&#x2019;s stock is a &#x2018;coiled spring&#x2019; ahead of earnings, according to analysts",
-      "url": "https://www.marketwatch.com/story/why-amazons-stock-is-a-coiled-spring-ahead-of-earnings-according-to-analysts-53dca47f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "After lagging the &#x2018;Magnificent Seven&#x2019; all year, Amazon has an opportunity to prove to investors that its investments in AWS and AI are finally paying off",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-29T10:30:00.000Z",
-      "headline": "&#x2018;I feel slighted&#x2019;: My late husband&#x2019;s parents left me nothing in their will. Is that thoughtless?",
-      "url": "https://www.marketwatch.com/story/i-feel-slighted-my-late-husbands-parents-left-me-nothing-in-their-will-is-that-thoughtless-1c0dcff9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I was his complete caregiver for at least 10 of those years while raising our children.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-29T09:30:00.000Z",
-      "headline": "&#x2018;I fear a significant decline in the S&P 500&#x2019;: I&#x2019;m 78. Do I sell my tech stocks before it&#x2019;s too late?",
-      "url": "https://www.marketwatch.com/story/i-fear-a-significant-decline-in-the-s-p-500-im-78-do-i-sell-my-tech-stocks-before-its-too-late-bafb15ca?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have a considerable amount of unrealized capital gains.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-29T08:57:00.000Z",
-      "headline": "Kim Kardashian buys $7 million house next door to her $60 million L.A. megamansion",
-      "url": "https://www.marketwatch.com/story/kim-kardashian-buys-7-million-house-next-door-to-her-60-million-l-a-megamansion-c4f4ac37?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Kim Kardashian is reportedly planning to use the home as an expansion of her existing Hidden Hills, Calif., mansion, which is located just next door.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-29T09:04:00.000Z",
-      "headline": "After demolishing $37 million Beverly Hills estate, LeBron James is now building 2 huge homes on the site",
-      "url": "https://www.marketwatch.com/story/after-demolishing-37-million-beverly-hills-estate-lebron-james-is-now-building-2-huge-homes-on-the-site-f6c2ceb5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "NBA star LeBron James&#x2019; Beverly Hills compound will feature not one but two enormous mansions that are currently being built on the site of a historic estate.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-29T09:01:00.000Z",
-      "headline": "10 top places to live, work and play in the southeast U.S.",
-      "url": "https://www.marketwatch.com/story/10-top-places-to-live-work-and-play-in-the-southeast-u-s-1c2753ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "From the serene coastlines of the Carolinas and Florida to the peaks of the Appalachian Mountains, the region offers a blend of natural beauty, history and vibrant culture.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-29T00:25:00.000Z",
-      "headline": "Visa earnings offer an upbeat read on consumer-spending habits",
-      "url": "https://www.marketwatch.com/story/visa-earnings-offer-an-upbeat-read-on-consumer-spending-habits-9e452110?mod=mw_rss_topstories",
+      "ts": "2025-10-29T12:36:00.000Z",
+      "headline": "Why Boeing&#x2019;s commercial-airplanes business had another large loss even as revenue surged",
+      "url": "https://www.marketwatch.com/story/why-boeings-commercial-airplanes-business-had-another-large-loss-even-as-revenue-surged-c92664c7?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Volume growth picked up in the latest quarter, suggestive of healthy payment activity.",
+      "summary_en": "Airplane deliveries rose and revenue surged while Boeing&#x2019;s defense and space business showed strength. But losses were wider than expected.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-29T00:22:00.000Z",
-      "headline": "Here&#x2019;s why Oreo maker Mondelez gave Wall Street a cloudier outlook for the year",
-      "url": "https://www.marketwatch.com/story/heres-why-oreo-maker-mondelez-gave-wall-street-a-cloudier-outlook-for-the-year-7a5fe82a?mod=mw_rss_topstories",
+      "ts": "2025-10-29T13:18:00.000Z",
+      "headline": "Fiserv&#x2019;s stock slides toward worst day ever as outlook reset is called &#x2018;difficult to comprehend&#x2019;",
+      "url": "https://www.marketwatch.com/story/fiservs-stock-slides-toward-its-worst-day-ever-upon-a-reset-thats-difficult-to-comprehend-589a9b1f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED",
-        "COST"
+        "ED"
       ],
-      "summary_en": "Mondelez says it reached &#x2018;peak costs&#x2019; in the quarter.",
+      "summary_en": "The company, which sells payment processing, mobile banking and billing solutions to banks and merchants, dramatically lowered its guidance for the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-29T11:55:00.000Z",
+      "headline": "Caterpillar&#x2019;s stock surges to a record after a big revenue beat and a surprisingly upbeat outlook",
+      "url": "https://www.marketwatch.com/story/caterpillars-stock-surges-to-a-record-after-a-big-revenue-beat-and-a-surprisingly-upbeat-outlook-a4beb17e?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Caterpillar Inc.&#x2019;s stock rose in early trading on Wednesday after the earth-moving company said it&#x2019;ll grow its revenue this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-29T12:54:00.000Z",
+      "headline": "All five of his hedge funds have doubled this year. What this manager is saying now about gold and tech.",
+      "url": "https://www.marketwatch.com/story/all-five-of-his-hedge-funds-have-doubled-this-year-what-this-manager-is-saying-now-about-gold-and-tech-acac9b29?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "Through the end of September, Crescat&#x2019;s five funds have soared in value. The firm that&#x2019;s bullish on gold hasn&#x2019;t been deterred by a recent slide in the yellow metal.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-29T12:42:00.000Z",
+      "headline": "Apple earnings need to resolve this major investor question",
+      "url": "https://www.marketwatch.com/story/apple-earnings-are-coming-up-with-the-stocks-move-dependent-on-one-key-debate-6795a98a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Apple&#x2019;s iPhone business exceeded expectations in the June quarter, and early iPhone 17 indications have been encouraging. But is that demand sustainable?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-29T12:37:00.000Z",
+      "headline": "Nvidia could become the first $5 trillion company today. Here&#x2019;s just how big that is.",
+      "url": "https://www.marketwatch.com/story/nvidia-could-become-the-first-5-trillion-company-today-heres-just-how-big-that-is-773ab46e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "A $5 trillion market capitalization would be larger than the combined market values of Broadcom, TSMC, AMD, ASML, Micron, Lam Research, Qualcomm, Intel and Arm.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-29T12:03:00.000Z",
+      "headline": "Mercedes CEO says carmaker is scurrying for chips after Nexperia nationalization",
+      "url": "https://www.marketwatch.com/story/mercedes-ceo-says-carmaker-is-scurrying-for-chips-after-nexperia-nationalization-502f357d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The chief executive of Mercedes said the luxury automaker is &#x201c;scurrying&#x201d; around looking for alternatives after a key microchip maker was caught in the geopolitical crossfire between the U.S. and China.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-29T13:19:00.000Z",
+      "headline": "I&#x2019;m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
+      "url": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Should I just maintain the status quo or marry the love of my life?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-29T12:33:00.000Z",
+      "headline": "&#x2018;There&#x2019;s talk of a mutiny&#x2019;: My employer made us sign new contracts to return to the office. Should we fight back?",
+      "url": "https://www.marketwatch.com/story/theres-talk-of-a-mutiny-my-employer-made-us-sign-new-contracts-to-return-to-the-office-should-we-fight-back-62596be7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;There are several team members with very long commutes.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-29T12:19:00.000Z",
+      "headline": "&#x2018;Luckily, I did not mix our finances&#x2019;: My husband is 7 years younger and has dementia. What happens now?",
+      "url": "https://www.marketwatch.com/story/luckily-i-did-not-mix-our-finances-my-husband-is-7-years-younger-and-has-dementia-what-happens-now-3cd137ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I have gotten our living expenses as low as I can, and I have dental and healthcare insurance for both of us.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -120,30 +146,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-29T01:21:00.000Z",
-      "headline": "Inflation is quietly chipping away at most Americans&#x2019; main source of wealth",
-      "url": "https://www.marketwatch.com/story/inflation-is-quietly-chipping-away-at-most-americans-main-source-of-wealth-13baf83d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Home-price growth continues to slow in the 20 biggest metro areas in the U.S., as the housing market buckles under the weight of high mortgage rates and high home prices.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-28T23:45:00.000Z",
-      "headline": "&#x2018;Luckily, I did not mix our finances&#x2019;: My husband is 7 years younger and has dementia. What happens now?",
-      "url": "https://www.marketwatch.com/story/luckily-i-did-not-mix-our-finances-my-husband-is-7-years-younger-and-has-dementia-what-happens-now-3cd137ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I have gotten our living expenses as low as I can, and I have dental and healthcare insurance for both of us.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
