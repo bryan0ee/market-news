@@ -1,20 +1,8 @@
 {
-  "last_updated": "2025-10-30T13:33:16.331Z",
+  "last_updated": "2025-10-30T23:26:13.439Z",
   "items": [
     {
-      "ts": "2025-10-30T13:30:00.000Z",
-      "headline": "My son&#x2019;s credit-card company will write off $10K on a $25K debt. Should he accept or declare bankruptcy?",
-      "url": "https://www.marketwatch.com/story/my-sons-credit-card-company-will-write-off-10k-on-a-25k-debt-should-he-accept-or-declare-bankruptcy-11d656fd?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;What are the negative consequences of a second bankruptcy?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T12:30:00.000Z",
+      "ts": "2025-10-30T22:50:00.000Z",
       "headline": "&#x2018;I fear a significant decline in the S&P 500&#x2019;: Do I sell my tech stocks before it&#x2019;s too late?",
       "url": "https://www.marketwatch.com/story/i-fear-a-significant-decline-in-the-s-p-500-im-78-do-i-sell-my-tech-stocks-before-its-too-late-bafb15ca?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -26,7 +14,59 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T12:54:00.000Z",
+      "ts": "2025-10-30T23:03:00.000Z",
+      "headline": "Hershey&#x2019;s Halloween sales have disappointed, but there&#x2019;s hope for last-minute buying",
+      "url": "https://www.marketwatch.com/story/hersheys-halloween-sales-have-disappointed-but-theres-hope-for-last-minute-buying-53ec3a4a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hershey said Halloween sales have been soft this year but last-minute buying is expected to bring the business up to 2024 levels.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T22:58:00.000Z",
+      "headline": "Why Alphabet&#x2019;s stock looks like a better play than Meta&#x2019;s in the AI race",
+      "url": "https://www.marketwatch.com/story/why-alphabets-stock-looks-like-a-better-play-than-metas-in-the-ai-race-0697ad19?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "META",
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Both companies are spending big on AI, but Google&#x2019;s diversified business and cost discipline could help it pull ahead",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T22:30:00.000Z",
+      "headline": "Reddit rides search and globalization efforts to blow past revenue and earnings expectations",
+      "url": "https://www.marketwatch.com/story/reddit-rides-search-and-globalization-efforts-to-blow-past-revenue-and-earnings-expectations-f82d8a16?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Growth around its search offerings and globalization efforts helped Reddit blow past Wall Street&#x2019;s expectations for its third-quarter earnings Thursday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T22:10:00.000Z",
+      "headline": "Netflix plans 10-for-1 stock split that will take its price below $1,000",
+      "url": "https://www.marketwatch.com/story/netflixs-stock-pops-on-announcement-of-stock-split-e2178b82?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The streaming giant cited the need to make its share price more accessible to employees.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T21:52:00.000Z",
       "headline": "Growth is slowing, and inflation is easing. More Fed rate cuts are the right response.",
       "url": "https://www.marketwatch.com/story/growth-is-slowing-and-inflation-is-easing-more-fed-rate-cuts-are-the-right-response-92fe2728?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,88 +78,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T12:52:00.000Z",
-      "headline": "Mastercard cheers healthy consumer spending, echoing Visa&#x2019;s resilient tone",
-      "url": "https://www.marketwatch.com/story/mastercard-cheers-healthy-consumer-spending-echoing-visas-resilient-tone-747c27a7?mod=mw_rss_topstories",
+      "ts": "2025-10-30T21:48:00.000Z",
+      "headline": "Watch out for these potential traps when signing up for Medicare",
+      "url": "https://www.marketwatch.com/story/watch-out-for-these-potential-traps-when-signing-up-for-medicare-4f2f078e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Economic cracks don&#x2019;t seem to be stopping the card networks from registering sustained spending growth.",
+      "summary_en": "Original Medicare or Medicare Advantage? Here&#x2019;s how to make sense of open enrollment.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T12:27:00.000Z",
-      "headline": "Space is the next frontier for the U.S. and China to fight over. These stocks are ready for launch.",
+      "ts": "2025-10-30T23:20:00.000Z",
+      "headline": "It&#x2019;s &#x2018;Top Gun&#x2019; in orbit: Future wars will be fought in space &#x2014; and these stocks are lifting off",
       "url": "https://www.marketwatch.com/story/space-is-the-next-frontier-for-the-u-s-and-china-to-fight-over-these-stocks-are-ready-for-launch-fcdda128?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Space is the next frontier for the U.S. and China to fight over.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T22:56:00.000Z",
+      "headline": "I&#x2019;m planning to retire at 65 when my twins are 15. How will this impact their healthcare coverage?",
+      "url": "https://www.marketwatch.com/story/im-planning-to-retire-at-65-when-my-twins-are-15-how-will-this-impact-their-healthcare-coverage-1579c475?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;By retiring when they are in the 10th grade my income will be low when they apply for college scholarships.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T22:11:00.000Z",
+      "headline": "Stock investors head into November saying thanks to a market that keeps on giving",
+      "url": "https://www.marketwatch.com/story/stock-investors-head-into-november-saying-thanks-to-a-market-that-keeps-on-giving-dfbbdfed?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Stay the course, but be cautious.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T15:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of NobleBank & Trust",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251030a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
         "ED"
       ],
-      "summary_en": "Investors don&#x2019;t need to know when the shooting starts. They need to own the companies that get paid, whether it starts or not.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T13:09:00.000Z",
-      "headline": "Fiserv&#x2019;s former CEO left the fintech company in crisis. Trump put him in charge of Social Security.",
-      "url": "https://www.marketwatch.com/story/fiservs-former-ceo-left-the-fintech-company-in-crisis-trump-put-him-in-charge-of-social-security-d2109ef8?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Social Security Commissioner Frank Bisignano also sold his Fiserv stock for at least $500 million before the stock&#x2018;s collapse",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T12:48:00.000Z",
-      "headline": "Stocks are at record highs. How to lower risk without junking returns.",
-      "url": "https://www.marketwatch.com/story/why-junk-bonds-right-now-might-paradoxically-be-a-way-of-reducing-risk-with-stocks-at-record-highs-64169aa5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "High-yields bonds historically have half the volatility of stocks and also outperform during low-growth periods.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T13:22:00.000Z",
-      "headline": "I&#x2019;m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
-      "url": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Should I just maintain the status quo or marry the love of my life?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T13:14:00.000Z",
-      "headline": "This growth portfolio looks far beyond &#x2018;Magnificent Seven&#x2019; stocks to profit from AI",
-      "url": "https://www.marketwatch.com/story/this-growth-portfolio-looks-far-beyond-magnificent-seven-stocks-to-profit-from-ai-3d921f4e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Daniel Kim of Saturna Capital touts gains in corporate profitability while pointing out that Nvidia &#x201c;is still a cyclical business.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T12:20:00.000Z",
-      "headline": "&#x2018;Luckily, I did not mix our finances&#x2019;: My husband is 7 years younger and has dementia. What happens now?",
-      "url": "https://www.marketwatch.com/story/luckily-i-did-not-mix-our-finances-my-husband-is-7-years-younger-and-has-dementia-what-happens-now-3cd137ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I have gotten our living expenses as low as I can, and I have dental and healthcare insurance for both of us.&#x201d;",
+      "summary_en": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of NobleBank &amp; Trust",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +159,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board requests comment on proposals to enhance the transparency and public accountability of its annual stress test",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-23T18:00:00.000Z",
-      "headline": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251023a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
