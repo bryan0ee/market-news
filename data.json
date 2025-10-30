@@ -1,81 +1,20 @@
 {
-  "last_updated": "2025-10-30T10:44:33.797Z",
+  "last_updated": "2025-10-30T13:33:16.331Z",
   "items": [
     {
-      "ts": "2025-10-30T10:41:00.000Z",
-      "headline": "Why junk bonds right now might paradoxically be a way of reducing risk with stocks at record highs",
-      "url": "https://www.marketwatch.com/story/why-junk-bonds-right-now-might-paradoxically-be-a-way-of-reducing-risk-with-stocks-at-record-highs-64169aa5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "High-yields bonds historically have half the volatility of stocks and also outperform during low-growth periods.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T08:49:00.000Z",
-      "headline": "Fiserv attracted hot money ahead of 44% stock-price nosedive",
-      "url": "https://www.marketwatch.com/story/fiserv-attracted-hot-money-ahead-of-44-stock-price-nosedive-dda04e7d?mod=mw_rss_topstories",
+      "ts": "2025-10-30T13:30:00.000Z",
+      "headline": "My son&#x2019;s credit-card company will write off $10K on a $25K debt. Should he accept or declare bankruptcy?",
+      "url": "https://www.marketwatch.com/story/my-sons-credit-card-company-will-write-off-10k-on-a-25k-debt-should-he-accept-or-declare-bankruptcy-11d656fd?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Fiserv, the fintech whose stock dived 44% on Wednesday after a profit warning, was bought by hedge funds who actively trade stocks prior to the collapse.",
+      "summary_en": "&#x201c;What are the negative consequences of a second bankruptcy?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T08:23:00.000Z",
-      "headline": "What&#x2019;s in the Trump-Xi agreement struck on fentanyl, rare-earths, shipbuilding",
-      "url": "https://www.marketwatch.com/story/whats-in-the-trump-xi-agreement-struck-on-fentanyl-rare-earths-shipbuilding-ace5f6c5?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The agreement stuck between President Donald Trump and Chinese leader Xi Jinping in South Korea on Thursday includes an agreement to reduce U.S. tariffs put on China overselling a precursor to fentanyl as well as a halt to shipbuilding levies for a year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T09:01:00.000Z",
-      "headline": "Ellen DeGeneres&#x2019; former $35 million oceanfront mansion is back on the market",
-      "url": "https://www.marketwatch.com/story/ellen-degeneres-former-35-million-oceanfront-mansion-is-back-on-the-market-182b17b4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Perched atop a bluff above the ocean, the home boasts 77 feet of beach on the California coast known as &#x201c;Billionaires&#x2019; Beach&#x201d; thanks to the extraordinary net worth of its residents.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T03:09:00.000Z",
-      "headline": "I received an inheritance from my father&#x2019;s estate, but the executor wants me to give it back. What should I do?",
-      "url": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T03:07:00.000Z",
-      "headline": "I&#x2019;m a veteran, 57, and on disability benefits. How do I persuade my wife, 52, to downsize so we can both retire?",
-      "url": "https://www.marketwatch.com/story/im-a-veteran-57-and-on-disability-benefits-how-do-i-persuade-my-wife-52-to-downsize-so-we-can-both-retire-1fd3a923?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am now medically disabled/retired and receive $2,100 a month from Social Security.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T02:05:00.000Z",
+      "ts": "2025-10-30T12:30:00.000Z",
       "headline": "&#x2018;I fear a significant decline in the S&P 500&#x2019;: Do I sell my tech stocks before it&#x2019;s too late?",
       "url": "https://www.marketwatch.com/story/i-fear-a-significant-decline-in-the-s-p-500-im-78-do-i-sell-my-tech-stocks-before-its-too-late-bafb15ca?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -87,7 +26,92 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T03:09:00.000Z",
+      "ts": "2025-10-30T12:54:00.000Z",
+      "headline": "Growth is slowing, and inflation is easing. More Fed rate cuts are the right response.",
+      "url": "https://www.marketwatch.com/story/growth-is-slowing-and-inflation-is-easing-more-fed-rate-cuts-are-the-right-response-92fe2728?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Weakening economy makes the central bank&#x2019;s December interest-rate decision clearer.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T12:52:00.000Z",
+      "headline": "Mastercard cheers healthy consumer spending, echoing Visa&#x2019;s resilient tone",
+      "url": "https://www.marketwatch.com/story/mastercard-cheers-healthy-consumer-spending-echoing-visas-resilient-tone-747c27a7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Economic cracks don&#x2019;t seem to be stopping the card networks from registering sustained spending growth.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T12:27:00.000Z",
+      "headline": "Space is the next frontier for the U.S. and China to fight over. These stocks are ready for launch.",
+      "url": "https://www.marketwatch.com/story/space-is-the-next-frontier-for-the-u-s-and-china-to-fight-over-these-stocks-are-ready-for-launch-fcdda128?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Investors don&#x2019;t need to know when the shooting starts. They need to own the companies that get paid, whether it starts or not.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T13:09:00.000Z",
+      "headline": "Fiserv&#x2019;s former CEO left the fintech company in crisis. Trump put him in charge of Social Security.",
+      "url": "https://www.marketwatch.com/story/fiservs-former-ceo-left-the-fintech-company-in-crisis-trump-put-him-in-charge-of-social-security-d2109ef8?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Social Security Commissioner Frank Bisignano also sold his Fiserv stock for at least $500 million before the stock&#x2018;s collapse",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T12:48:00.000Z",
+      "headline": "Stocks are at record highs. How to lower risk without junking returns.",
+      "url": "https://www.marketwatch.com/story/why-junk-bonds-right-now-might-paradoxically-be-a-way-of-reducing-risk-with-stocks-at-record-highs-64169aa5?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "High-yields bonds historically have half the volatility of stocks and also outperform during low-growth periods.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T13:22:00.000Z",
+      "headline": "I&#x2019;m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
+      "url": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Should I just maintain the status quo or marry the love of my life?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T13:14:00.000Z",
+      "headline": "This growth portfolio looks far beyond &#x2018;Magnificent Seven&#x2019; stocks to profit from AI",
+      "url": "https://www.marketwatch.com/story/this-growth-portfolio-looks-far-beyond-magnificent-seven-stocks-to-profit-from-ai-3d921f4e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Daniel Kim of Saturna Capital touts gains in corporate profitability while pointing out that Nvidia &#x201c;is still a cyclical business.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T12:20:00.000Z",
       "headline": "&#x2018;Luckily, I did not mix our finances&#x2019;: My husband is 7 years younger and has dementia. What happens now?",
       "url": "https://www.marketwatch.com/story/luckily-i-did-not-mix-our-finances-my-husband-is-7-years-younger-and-has-dementia-what-happens-now-3cd137ee?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -96,18 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I have gotten our living expenses as low as I can, and I have dental and healthcare insurance for both of us.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T02:30:00.000Z",
-      "headline": "My late husband&#x2019;s parents left me nothing in their will. Am I wrong to think they are thoughtless?",
-      "url": "https://www.marketwatch.com/story/i-feel-slighted-my-late-husbands-parents-left-me-nothing-in-their-will-is-that-thoughtless-1c0dcff9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I was his complete caregiver for at least 10 of those years while raising our children.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +156,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve and FDIC release public sections of resolution plans for several large banking organizations",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T00:26:00.000Z",
-      "headline": "How Carvana&#x2019;s same-day car deliveries have become the company&#x2019;s secret weapon",
-      "url": "https://www.marketwatch.com/story/how-carvanas-same-day-car-deliveries-have-become-the-companys-secret-weapon-2fb105f7?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Carvana shows another sales beat and set its sights on same-day deliveries to keep on going.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
