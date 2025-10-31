@@ -1,92 +1,117 @@
 {
-  "last_updated": "2025-10-31T13:32:20.021Z",
+  "last_updated": "2025-10-31T23:26:10.950Z",
   "items": [
     {
-      "ts": "2025-10-31T12:02:00.000Z",
-      "headline": "Chevron, Exxon profits keep falling, but beat expectations as production hits records",
-      "url": "https://www.marketwatch.com/story/exxon-chevron-have-been-on-a-roll-heres-how-today-could-be-different-108c4514?mod=mw_rss_topstories",
+      "ts": "2025-10-31T22:23:00.000Z",
+      "headline": "Trump could give automakers relief from Nexperia chip shortage with China deal",
+      "url": "https://www.marketwatch.com/story/trump-could-give-automakers-relief-from-nexperia-chip-shortage-a81b6b4e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The White House and the Chinese government have reached an agreement to resume chip shipments from semiconductor company Nexperia, according to the Wall Street Journal.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T20:53:00.000Z",
+      "headline": "Why betting companies like DraftKings are rooting for the Blue Jays to win the World Series",
+      "url": "https://www.marketwatch.com/story/why-betting-companies-like-draftkings-are-rooting-for-the-blue-jays-to-win-the-world-series-34ba945c?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Falling oil prices continued to hurt earnings for both Chevron and Exxon Mobil, but both oil giants managed to beat Wall Street&#x2019;s profit expectations",
+      "summary_en": "One sportsbook had 96.7% of World Series bets on the Dodgers to beat the Blue Jays once the matchup was finalized.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T12:51:00.000Z",
-      "headline": "The biggest risks of 2025 turned out to be no threat at all",
-      "url": "https://www.marketwatch.com/story/the-biggest-risks-of-2025-turned-out-to-be-no-threat-at-all-39fb98c5?mod=mw_rss_topstories",
+      "ts": "2025-10-31T20:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by First Security Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251031a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by First Security Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T20:32:00.000Z",
+      "headline": "Home buyers are being left in limbo as the shutdown delays mortgage and insurance applications",
+      "url": "https://www.marketwatch.com/story/home-buyers-are-being-left-in-limbo-as-the-shutdown-delays-mortgage-and-insurance-applications-0972acf6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Worries about bond yields, the Fed hiking interest rates and trade wars transpired not to threaten 2025 investment returns in the end.",
+      "summary_en": "Home buyers were already spooked by uncertainty in the job market. Now the shutdown is putting some buyers in limbo.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T12:30:00.000Z",
-      "headline": "Will Palantir follow Netflix with a stock split of its own?",
-      "url": "https://www.marketwatch.com/story/will-palantir-follow-netflix-with-a-stock-split-of-its-own-c231a255?mod=mw_rss_topstories",
+      "ts": "2025-10-31T19:06:00.000Z",
+      "headline": "Retiring abroad is touted as a money saver &#x2014; but it isn&#x2019;t always cheaper",
+      "url": "https://www.marketwatch.com/story/retiring-abroad-is-touted-as-a-money-saver-but-it-isnt-always-cheaper-over-there-662921d4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A D.A. Davidson analyst &#x201c;would not be surprised&#x201d; if Palantir splits its stock, given that it caters heavily to retail investors and has seen a strong rally.",
+      "summary_en": "Taxes, investments, healthcare &#x2014; everything adds up. Here&#x2019;s how to plan now to relocate later.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T12:15:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in November 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-november-2025-on-netflix-hulu-hbo-max-and-more-149f086e?mod=mw_rss_topstories",
+      "ts": "2025-10-31T19:05:00.000Z",
+      "headline": "Hotel stays now can easily cost $100 extra, thanks to local &#x2018;bed taxes&#x2019;",
+      "url": "https://www.marketwatch.com/story/hotel-stays-now-can-easily-cost-100-extra-thanks-to-local-bed-taxes-f00188c1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "Netflix&#x2019;s &#x2018;Stranger Things&#x2019; kicks off its final season, &#x2018;Pluribus&#x2019; is revealed on Apple, and &#x2018;Landman&#x2019; returns to Paramount+",
+      "summary_en": "Some locales, like Kyoto and San Diego, are increasing the taxes they levy on visitors.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T12:00:00.000Z",
-      "headline": "Banks like Chase, Capital One are offering financial help to customers affected by the shutdown. Here are the potential downsides.",
-      "url": "https://www.marketwatch.com/story/banks-like-chase-capital-one-are-offering-financial-help-to-customers-affected-by-the-shutdown-here-are-the-potential-downsides-2fa7275c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Banks and credit unions are offering financial relief in the form of interest-free loans, fee waivers, loan-payment accommodations and more to those impacted by the government shutdown.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T11:35:00.000Z",
-      "headline": "Hershey&#x2019;s Halloween sales have disappointed, but there&#x2019;s hope for last-minute buying",
-      "url": "https://www.marketwatch.com/story/hersheys-halloween-sales-have-disappointed-but-theres-hope-for-last-minute-buying-53ec3a4a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Hershey said Halloween sales have been soft this year but last-minute buying is expected to bring the business up to 2024 levels.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T12:00:00.000Z",
-      "headline": "I&#x2019;m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
-      "url": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
+      "ts": "2025-10-31T21:00:00.000Z",
+      "headline": "I&#x2019;m planning to retire at 65 when my twins are 15. How will this impact their healthcare coverage?",
+      "url": "https://www.marketwatch.com/story/im-planning-to-retire-at-65-when-my-twins-are-15-how-will-this-impact-their-healthcare-coverage-1579c475?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Should I just maintain the status quo or marry the love of my life?&#x201d;",
+      "summary_en": "&#x201c;By retiring when they are in the 10th grade my income will be low when they apply for college scholarships.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T12:00:00.000Z",
+      "ts": "2025-10-31T20:30:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t want to worry about money&#x2019;: I&#x2019;m 64 with $400K in savings and $700 in Social Security. Can I retire next year?",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-worry-about-money-im-64-with-400k-in-savings-and-700-in-social-security-can-i-retire-next-year-40011032?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I take in about $2,200 in monthly rent from four properties.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T20:12:00.000Z",
+      "headline": "College financial aid can look more generous than it is. Use this checklist to find out what you&#x2019;re really getting.",
+      "url": "https://www.marketwatch.com/story/college-financial-aid-can-look-more-generous-than-it-is-use-this-checklist-to-find-out-what-youre-really-getting-f678d59c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Make sure to fully understand a college award letter before signing it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T19:46:00.000Z",
       "headline": "Social Security is hurtling towards insolvency. Could these new proposals help save it in time?",
       "url": "https://www.marketwatch.com/story/social-security-is-hurtling-towards-insolvency-could-these-new-proposals-help-save-it-in-time-6f889a3f?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,27 +123,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T11:55:00.000Z",
-      "headline": "AI might not take your job &#x2014; if you can use it to be even more productive",
-      "url": "https://www.marketwatch.com/story/ai-might-not-take-your-job-if-you-can-use-it-to-be-even-more-productive-4eaf775b?mod=mw_rss_topstories",
+      "ts": "2025-10-31T19:04:00.000Z",
+      "headline": "Growing U.S.-Venezuela tensions, new OPEC+ targets mark a crucial week for oil ahead",
+      "url": "https://www.marketwatch.com/story/growing-u-s-venezuela-tensions-new-opec-targets-mark-a-crucial-week-for-oil-ahead-f10b3b7c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Venture capitalist Hemant Taneja: AI won&#x2019;t just build on the internet boom &#x2014; it will be bigger.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T11:52:00.000Z",
-      "headline": "&#x2018;Sometimes the only winning move is not to play,&#x2019; says Michael Burry in bubble warning",
-      "url": "https://www.marketwatch.com/story/sometimes-the-only-winning-move-is-not-to-play-says-michael-burry-in-bubble-warning-698c90ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Concerns about stock market exuberance build as AI tech spending sees shift to debt",
+      "summary_en": "Escalating U.S. tensions with Venezuela and an upcoming monthly decision by major oil producers on crude output targets were the focus of traders heading into the weekend.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -143,18 +156,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve issues FOMC statement",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-24T19:30:00.000Z",
-      "headline": "Federal Reserve Board requests comment on proposals to enhance the transparency and public accountability of its annual stress test",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251024a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board requests comment on proposals to enhance the transparency and public accountability of its annual stress test",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
