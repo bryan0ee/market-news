@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-30T23:26:13.439Z",
+  "last_updated": "2025-10-31T10:44:02.869Z",
   "items": [
     {
-      "ts": "2025-10-30T22:50:00.000Z",
+      "ts": "2025-10-31T10:35:00.000Z",
       "headline": "&#x2018;I fear a significant decline in the S&P 500&#x2019;: Do I sell my tech stocks before it&#x2019;s too late?",
       "url": "https://www.marketwatch.com/story/i-fear-a-significant-decline-in-the-s-p-500-im-78-do-i-sell-my-tech-stocks-before-its-too-late-bafb15ca?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -14,46 +14,79 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T23:03:00.000Z",
-      "headline": "Hershey&#x2019;s Halloween sales have disappointed, but there&#x2019;s hope for last-minute buying",
-      "url": "https://www.marketwatch.com/story/hersheys-halloween-sales-have-disappointed-but-theres-hope-for-last-minute-buying-53ec3a4a?mod=mw_rss_topstories",
+      "ts": "2025-10-31T10:00:00.000Z",
+      "headline": "Exxon, Chevron have been on a roll. Here&#x2019;s how today could be different.",
+      "url": "https://www.marketwatch.com/story/exxon-chevron-have-been-on-a-roll-heres-how-today-could-be-different-108c4514?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Exxon and Chevron have posted a string of upbeat quarters, surprising Wall Street. This time around they have to contend with worsening oil prices.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T09:02:00.000Z",
+      "headline": "Kanye West sells his Wyoming ranch back to original owners for $14 million",
+      "url": "https://www.marketwatch.com/story/kanye-west-sells-his-wyoming-ranch-back-to-original-owners-for-14-million-db026fce?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Hershey said Halloween sales have been soft this year but last-minute buying is expected to bring the business up to 2024 levels.",
+      "summary_en": "Kanye West has reportedly sold off his second Wyoming ranch, back to the original owners for $14 million, in the midst of reported money woes.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T22:58:00.000Z",
-      "headline": "Why Alphabet&#x2019;s stock looks like a better play than Meta&#x2019;s in the AI race",
-      "url": "https://www.marketwatch.com/story/why-alphabets-stock-looks-like-a-better-play-than-metas-in-the-ai-race-0697ad19?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "META",
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Both companies are spending big on AI, but Google&#x2019;s diversified business and cost discipline could help it pull ahead",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T22:30:00.000Z",
-      "headline": "Reddit rides search and globalization efforts to blow past revenue and earnings expectations",
-      "url": "https://www.marketwatch.com/story/reddit-rides-search-and-globalization-efforts-to-blow-past-revenue-and-earnings-expectations-f82d8a16?mod=mw_rss_topstories",
+      "ts": "2025-10-31T08:29:00.000Z",
+      "headline": "Jensen Huang spreads Nvidia magic to fried-chicken stocks",
+      "url": "https://www.marketwatch.com/story/jensen-huang-spreads-nvidia-magic-to-fried-chicken-stocks-06b49648?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Growth around its search offerings and globalization efforts helped Reddit blow past Wall Street&#x2019;s expectations for its third-quarter earnings Thursday.",
+      "summary_en": "Jensen Huang spreads Nvidia magic to fried-chicken stocks",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T22:10:00.000Z",
+      "ts": "2025-10-31T10:25:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t want to worry about money&#x2019;: I&#x2019;m 64 with $400K in savings and $700 in Social Security. Can I retire next year?",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-worry-about-money-im-64-with-400k-in-savings-and-700-in-social-security-can-i-retire-next-year-40011032?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I take in about $2,200 in monthly rent from four properties.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T04:15:00.000Z",
+      "headline": "Air-traffic controllers miss their first paycheck. The shutdown&#x2019;s effects on airports are getting worse.",
+      "url": "https://www.marketwatch.com/story/air-traffic-controllers-miss-their-first-paycheck-shutdown-effects-on-airports-could-get-much-worse-05c4d3a2?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shutdown-related staffing shortages are driving some air-travel delays and cancellations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T02:38:00.000Z",
+      "headline": "Amazon&#x2019;s stock soars toward its best day since 2022: &#x2018;The AI narrative has flipped positive&#x2019;",
+      "url": "https://www.marketwatch.com/story/amazons-stock-soars-toward-its-best-day-since-2022-the-ai-narrative-has-flipped-positive-9e7fadc5?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors were worried AWS was falling behind in AI. A new growth trajectory has restored confidence in Amazon&#x2019;s cloud business.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T00:54:00.000Z",
       "headline": "Netflix plans 10-for-1 stock split that will take its price below $1,000",
       "url": "https://www.marketwatch.com/story/netflixs-stock-pops-on-announcement-of-stock-split-e2178b82?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -66,63 +99,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-30T21:52:00.000Z",
-      "headline": "Growth is slowing, and inflation is easing. More Fed rate cuts are the right response.",
-      "url": "https://www.marketwatch.com/story/growth-is-slowing-and-inflation-is-easing-more-fed-rate-cuts-are-the-right-response-92fe2728?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Weakening economy makes the central bank&#x2019;s December interest-rate decision clearer.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T21:48:00.000Z",
-      "headline": "Watch out for these potential traps when signing up for Medicare",
-      "url": "https://www.marketwatch.com/story/watch-out-for-these-potential-traps-when-signing-up-for-medicare-4f2f078e?mod=mw_rss_topstories",
+      "ts": "2025-10-31T00:52:00.000Z",
+      "headline": "Reddit rides search and globalization efforts to blow past revenue and earnings expectations",
+      "url": "https://www.marketwatch.com/story/reddit-rides-search-and-globalization-efforts-to-blow-past-revenue-and-earnings-expectations-f82d8a16?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Original Medicare or Medicare Advantage? Here&#x2019;s how to make sense of open enrollment.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T23:20:00.000Z",
-      "headline": "It&#x2019;s &#x2018;Top Gun&#x2019; in orbit: Future wars will be fought in space &#x2014; and these stocks are lifting off",
-      "url": "https://www.marketwatch.com/story/space-is-the-next-frontier-for-the-u-s-and-china-to-fight-over-these-stocks-are-ready-for-launch-fcdda128?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Space is the next frontier for the U.S. and China to fight over.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T22:56:00.000Z",
-      "headline": "I&#x2019;m planning to retire at 65 when my twins are 15. How will this impact their healthcare coverage?",
-      "url": "https://www.marketwatch.com/story/im-planning-to-retire-at-65-when-my-twins-are-15-how-will-this-impact-their-healthcare-coverage-1579c475?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;By retiring when they are in the 10th grade my income will be low when they apply for college scholarships.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T22:11:00.000Z",
-      "headline": "Stock investors head into November saying thanks to a market that keeps on giving",
-      "url": "https://www.marketwatch.com/story/stock-investors-head-into-november-saying-thanks-to-a-market-that-keeps-on-giving-dfbbdfed?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Stay the course, but be cautious.",
+      "summary_en": "Growth around its search offerings and globalization efforts helped Reddit blow past Wall Street&#x2019;s expectations for its third-quarter earnings Thursday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -159,6 +144,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board requests comment on proposals to enhance the transparency and public accountability of its annual stress test",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-30T23:36:00.000Z",
+      "headline": "The AI boom is over &#x2014; here&#x2019;s your bubble survival guide",
+      "url": "https://www.marketwatch.com/story/everyones-asking-the-wrong-question-about-an-ai-bubble-here-are-the-stocks-to-buy-and-when-b3fddce5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Everyone&#x2019;s asking the wrong question about an AI bubble. Here are the stocks to buy &#x2014; and when.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
