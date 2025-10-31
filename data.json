@@ -1,113 +1,124 @@
 {
-  "last_updated": "2025-10-31T10:44:02.869Z",
+  "last_updated": "2025-10-31T13:32:20.021Z",
   "items": [
     {
-      "ts": "2025-10-31T10:35:00.000Z",
-      "headline": "&#x2018;I fear a significant decline in the S&P 500&#x2019;: Do I sell my tech stocks before it&#x2019;s too late?",
-      "url": "https://www.marketwatch.com/story/i-fear-a-significant-decline-in-the-s-p-500-im-78-do-i-sell-my-tech-stocks-before-its-too-late-bafb15ca?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Analysts are closely watching Trump&#x2019;s tariff negotiations, the labor market, the Fed and inflation, but they are stymied by delayed economic data.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T10:00:00.000Z",
-      "headline": "Exxon, Chevron have been on a roll. Here&#x2019;s how today could be different.",
+      "ts": "2025-10-31T12:02:00.000Z",
+      "headline": "Chevron, Exxon profits keep falling, but beat expectations as production hits records",
       "url": "https://www.marketwatch.com/story/exxon-chevron-have-been-on-a-roll-heres-how-today-could-be-different-108c4514?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Exxon and Chevron have posted a string of upbeat quarters, surprising Wall Street. This time around they have to contend with worsening oil prices.",
+      "summary_en": "Falling oil prices continued to hurt earnings for both Chevron and Exxon Mobil, but both oil giants managed to beat Wall Street&#x2019;s profit expectations",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T09:02:00.000Z",
-      "headline": "Kanye West sells his Wyoming ranch back to original owners for $14 million",
-      "url": "https://www.marketwatch.com/story/kanye-west-sells-his-wyoming-ranch-back-to-original-owners-for-14-million-db026fce?mod=mw_rss_topstories",
+      "ts": "2025-10-31T12:51:00.000Z",
+      "headline": "The biggest risks of 2025 turned out to be no threat at all",
+      "url": "https://www.marketwatch.com/story/the-biggest-risks-of-2025-turned-out-to-be-no-threat-at-all-39fb98c5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Kanye West has reportedly sold off his second Wyoming ranch, back to the original owners for $14 million, in the midst of reported money woes.",
+      "summary_en": "Worries about bond yields, the Fed hiking interest rates and trade wars transpired not to threaten 2025 investment returns in the end.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T08:29:00.000Z",
-      "headline": "Jensen Huang spreads Nvidia magic to fried-chicken stocks",
-      "url": "https://www.marketwatch.com/story/jensen-huang-spreads-nvidia-magic-to-fried-chicken-stocks-06b49648?mod=mw_rss_topstories",
+      "ts": "2025-10-31T12:30:00.000Z",
+      "headline": "Will Palantir follow Netflix with a stock split of its own?",
+      "url": "https://www.marketwatch.com/story/will-palantir-follow-netflix-with-a-stock-split-of-its-own-c231a255?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Jensen Huang spreads Nvidia magic to fried-chicken stocks",
+      "summary_en": "A D.A. Davidson analyst &#x201c;would not be surprised&#x201d; if Palantir splits its stock, given that it caters heavily to retail investors and has seen a strong rally.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T10:25:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t want to worry about money&#x2019;: I&#x2019;m 64 with $400K in savings and $700 in Social Security. Can I retire next year?",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-worry-about-money-im-64-with-400k-in-savings-and-700-in-social-security-can-i-retire-next-year-40011032?mod=mw_rss_topstories",
+      "ts": "2025-10-31T12:15:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in November 2025 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-november-2025-on-netflix-hulu-hbo-max-and-more-149f086e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Netflix&#x2019;s &#x2018;Stranger Things&#x2019; kicks off its final season, &#x2018;Pluribus&#x2019; is revealed on Apple, and &#x2018;Landman&#x2019; returns to Paramount+",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T12:00:00.000Z",
+      "headline": "Banks like Chase, Capital One are offering financial help to customers affected by the shutdown. Here are the potential downsides.",
+      "url": "https://www.marketwatch.com/story/banks-like-chase-capital-one-are-offering-financial-help-to-customers-affected-by-the-shutdown-here-are-the-potential-downsides-2fa7275c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Banks and credit unions are offering financial relief in the form of interest-free loans, fee waivers, loan-payment accommodations and more to those impacted by the government shutdown.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T11:35:00.000Z",
+      "headline": "Hershey&#x2019;s Halloween sales have disappointed, but there&#x2019;s hope for last-minute buying",
+      "url": "https://www.marketwatch.com/story/hersheys-halloween-sales-have-disappointed-but-theres-hope-for-last-minute-buying-53ec3a4a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hershey said Halloween sales have been soft this year but last-minute buying is expected to bring the business up to 2024 levels.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T12:00:00.000Z",
+      "headline": "I&#x2019;m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
+      "url": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I take in about $2,200 in monthly rent from four properties.&#x201d;",
+      "summary_en": "&#x201c;Should I just maintain the status quo or marry the love of my life?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T04:15:00.000Z",
-      "headline": "Air-traffic controllers miss their first paycheck. The shutdown&#x2019;s effects on airports are getting worse.",
-      "url": "https://www.marketwatch.com/story/air-traffic-controllers-miss-their-first-paycheck-shutdown-effects-on-airports-could-get-much-worse-05c4d3a2?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shutdown-related staffing shortages are driving some air-travel delays and cancellations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T02:38:00.000Z",
-      "headline": "Amazon&#x2019;s stock soars toward its best day since 2022: &#x2018;The AI narrative has flipped positive&#x2019;",
-      "url": "https://www.marketwatch.com/story/amazons-stock-soars-toward-its-best-day-since-2022-the-ai-narrative-has-flipped-positive-9e7fadc5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors were worried AWS was falling behind in AI. A new growth trajectory has restored confidence in Amazon&#x2019;s cloud business.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T00:54:00.000Z",
-      "headline": "Netflix plans 10-for-1 stock split that will take its price below $1,000",
-      "url": "https://www.marketwatch.com/story/netflixs-stock-pops-on-announcement-of-stock-split-e2178b82?mod=mw_rss_topstories",
+      "ts": "2025-10-31T12:00:00.000Z",
+      "headline": "Social Security is hurtling towards insolvency. Could these new proposals help save it in time?",
+      "url": "https://www.marketwatch.com/story/social-security-is-hurtling-towards-insolvency-could-these-new-proposals-help-save-it-in-time-6f889a3f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "The streaming giant cited the need to make its share price more accessible to employees.",
+      "summary_en": "Ideas for reform churn up opposition from advocacy groups.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T00:52:00.000Z",
-      "headline": "Reddit rides search and globalization efforts to blow past revenue and earnings expectations",
-      "url": "https://www.marketwatch.com/story/reddit-rides-search-and-globalization-efforts-to-blow-past-revenue-and-earnings-expectations-f82d8a16?mod=mw_rss_topstories",
+      "ts": "2025-10-31T11:55:00.000Z",
+      "headline": "AI might not take your job &#x2014; if you can use it to be even more productive",
+      "url": "https://www.marketwatch.com/story/ai-might-not-take-your-job-if-you-can-use-it-to-be-even-more-productive-4eaf775b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Growth around its search offerings and globalization efforts helped Reddit blow past Wall Street&#x2019;s expectations for its third-quarter earnings Thursday.",
+      "summary_en": "Venture capitalist Hemant Taneja: AI won&#x2019;t just build on the internet boom &#x2014; it will be bigger.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-10-31T11:52:00.000Z",
+      "headline": "&#x2018;Sometimes the only winning move is not to play,&#x2019; says Michael Burry in bubble warning",
+      "url": "https://www.marketwatch.com/story/sometimes-the-only-winning-move-is-not-to-play-says-michael-burry-in-bubble-warning-698c90ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Concerns about stock market exuberance build as AI tech spending sees shift to debt",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board requests comment on proposals to enhance the transparency and public accountability of its annual stress test",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-30T23:36:00.000Z",
-      "headline": "The AI boom is over &#x2014; here&#x2019;s your bubble survival guide",
-      "url": "https://www.marketwatch.com/story/everyones-asking-the-wrong-question-about-an-ai-bubble-here-are-the-stocks-to-buy-and-when-b3fddce5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Everyone&#x2019;s asking the wrong question about an AI bubble. Here are the stocks to buy &#x2014; and when.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
