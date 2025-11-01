@@ -1,8 +1,56 @@
 {
-  "last_updated": "2025-11-01T10:40:35.990Z",
+  "last_updated": "2025-11-01T13:25:29.668Z",
   "items": [
     {
-      "ts": "2025-11-01T00:12:00.000Z",
+      "ts": "2025-11-01T13:00:00.000Z",
+      "headline": "No jobs report again. But these numbers show how the U.S. economy is doing.",
+      "url": "https://www.marketwatch.com/story/no-jobs-report-again-but-these-numbers-show-how-the-u-s-economy-is-doing-9bbc764a?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors are set to miss out on the second U.S. jobs report in a row due to the government shutdown, but there&#x2019;s enough scattered evidence to suggest the economy is hanging in there.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-01T13:15:00.000Z",
+      "headline": "The government shutdown is about to become the longest ever. Here&#x2019;s what could finally end it.",
+      "url": "https://www.marketwatch.com/story/the-government-shutdown-is-about-to-become-the-longest-ever-heres-what-could-finally-end-it-3e78b505?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The government shutdown is poised to mark a major milestone next week in the absence of a deal, as the partial closure heads towards the longest on record.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-01T13:04:00.000Z",
+      "headline": "A financial firm gave me the wrong advice about my inherited IRA. Should I get a lawyer?",
+      "url": "https://www.marketwatch.com/story/a-financial-firm-gave-me-the-wrong-advice-about-my-inherited-ira-should-i-get-a-lawyer-b90159f1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I made a choice based on the information given.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-01T12:30:00.000Z",
+      "headline": "AMD just had its best month in a quarter-century. Two big events are now on the horizon.",
+      "url": "https://www.marketwatch.com/story/amd-just-had-its-best-month-in-a-quarter-century-two-big-events-are-now-on-the-horizon-35fb2a83?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD"
+      ],
+      "summary_en": "The chip company faces a &#x201c;solid&#x201d; setup into next week&#x2019;s earnings report, and will host an analyst day later in November.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-01T11:30:00.000Z",
       "headline": "&#x2018;I fear a significant decline in the S&P 500&#x2019;: Do I sell my tech stocks before it&#x2019;s too late?",
       "url": "https://www.marketwatch.com/story/i-fear-a-significant-decline-in-the-s-p-500-im-78-do-i-sell-my-tech-stocks-before-its-too-late-bafb15ca?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -14,28 +62,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-01T00:13:00.000Z",
-      "headline": "I received an inheritance from my father&#x2019;s estate, but the executor wants me to give it back. What should I do?",
-      "url": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
+      "ts": "2025-11-01T12:00:00.000Z",
+      "headline": "This stock-market rally isn&#x2019;t letting up. Could it be making investors too greedy ahead of year-end?",
+      "url": "https://www.marketwatch.com/story/this-stock-market-rally-isnt-letting-up-could-it-be-making-investors-too-greedy-ahead-of-year-end-68245a95?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.&#x201d;",
+      "summary_en": "Stocks just logged their best midyear stretch since 1950. Is it time to take some profits?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-10-31T20:53:00.000Z",
-      "headline": "Why betting companies like DraftKings are rooting for the Blue Jays to win the World Series",
-      "url": "https://www.marketwatch.com/story/why-betting-companies-like-draftkings-are-rooting-for-the-blue-jays-to-win-the-world-series-34ba945c?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-11-01T11:30:00.000Z",
+      "headline": "10 stocks that let you invest like Nvidia in the next hot AI trade",
+      "url": "https://www.marketwatch.com/story/10-stocks-that-let-you-invest-like-nvidia-in-the-next-hot-ai-trade-d7af3161?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "One sportsbook had 96.7% of World Series bets on the Dodgers to beat the Blue Jays once the matchup was finalized.",
+      "summary_en": "Here&#x2019;s why Lumentum, Credo and eight other stocks are at the center of this &#x2018;least understood&#x2019; part of the AI boom.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-01T11:21:00.000Z",
+      "headline": "Retiring abroad is touted as a money saver &#x2014; here&#x2019;s why it isn&#x2019;t always cheaper",
+      "url": "https://www.marketwatch.com/story/retiring-abroad-is-touted-as-a-money-saver-but-it-isnt-always-cheaper-over-there-662921d4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Taxes, investments, healthcare &#x2014; everything adds up. Here&#x2019;s how to plan now to relocate later.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-01T12:00:00.000Z",
+      "headline": "Real progress against dementia is finally coming",
+      "url": "https://www.marketwatch.com/story/real-progress-against-dementia-is-finally-coming-b55de7e4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There are glimmers of hope &#x2014; from nanotechnology and brain games, to diet and exercise.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-01T11:12:00.000Z",
+      "headline": "College financial aid can look more generous than it is. Use this checklist to find out what you&#x2019;re really getting.",
+      "url": "https://www.marketwatch.com/story/college-financial-aid-can-look-more-generous-than-it-is-use-this-checklist-to-find-out-what-youre-really-getting-f678d59c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Make sure to fully understand a college award letter before signing it.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -48,30 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by First Security Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T22:23:00.000Z",
-      "headline": "Trump could give automakers relief from Nexperia chip shortage with China deal",
-      "url": "https://www.marketwatch.com/story/trump-could-give-automakers-relief-from-nexperia-chip-shortage-a81b6b4e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The White House and the Chinese government have reached an agreement to resume chip shipments from semiconductor company Nexperia, according to the Wall Street Journal.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T20:32:00.000Z",
-      "headline": "Home buyers are being left in limbo as the shutdown delays mortgage and insurance applications",
-      "url": "https://www.marketwatch.com/story/home-buyers-are-being-left-in-limbo-as-the-shutdown-delays-mortgage-and-insurance-applications-0972acf6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Home buyers were already spooked by uncertainty in the job market. Now the shutdown is putting some buyers in limbo.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -96,66 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve issues FOMC statement",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T00:06:00.000Z",
-      "headline": "&#x2018;Luckily, I did not mix our finances&#x2019;: My husband is 7 years younger and has dementia. What happens now?",
-      "url": "https://www.marketwatch.com/story/luckily-i-did-not-mix-our-finances-my-husband-is-7-years-younger-and-has-dementia-what-happens-now-3cd137ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I have gotten our living expenses as low as I can, and I have dental and healthcare insurance for both of us.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T21:00:00.000Z",
-      "headline": "I&#x2019;m planning to retire at 65 when my twins are 15. How will this impact their healthcare coverage?",
-      "url": "https://www.marketwatch.com/story/im-planning-to-retire-at-65-when-my-twins-are-15-how-will-this-impact-their-healthcare-coverage-1579c475?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;By retiring when they are in the 10th grade my income will be low when they apply for college scholarships.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T20:30:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t want to worry about money&#x2019;: I&#x2019;m 64 with $400K in savings and $700 in Social Security. Can I retire next year?",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-worry-about-money-im-64-with-400k-in-savings-and-700-in-social-security-can-i-retire-next-year-40011032?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I take in about $2,200 in monthly rent from four properties.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T20:12:00.000Z",
-      "headline": "College financial aid can look more generous than it is. Use this checklist to find out what you&#x2019;re really getting.",
-      "url": "https://www.marketwatch.com/story/college-financial-aid-can-look-more-generous-than-it-is-use-this-checklist-to-find-out-what-youre-really-getting-f678d59c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Make sure to fully understand a college award letter before signing it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T19:46:00.000Z",
-      "headline": "Social Security is hurtling towards insolvency. Could these new proposals help save it in time?",
-      "url": "https://www.marketwatch.com/story/social-security-is-hurtling-towards-insolvency-could-these-new-proposals-help-save-it-in-time-6f889a3f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Ideas for reform churn up opposition from advocacy groups.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
