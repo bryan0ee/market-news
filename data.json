@@ -1,16 +1,125 @@
 {
-  "last_updated": "2025-11-02T13:24:48.654Z",
+  "last_updated": "2025-11-02T23:25:03.124Z",
   "items": [
     {
-      "ts": "2025-11-01T16:30:00.000Z",
-      "headline": "&#x2018;I fear a significant decline in the S&P 500&#x2019;: Do I sell my tech stocks before it&#x2019;s too late?",
-      "url": "https://www.marketwatch.com/story/i-fear-a-significant-decline-in-the-s-p-500-im-78-do-i-sell-my-tech-stocks-before-its-too-late-bafb15ca?mod=mw_rss_topstories",
+      "ts": "2025-11-02T23:21:00.000Z",
+      "headline": "U.S. stock futures inch higher as Wall Street looks to extend winning streak in November",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-as-wall-street-looks-to-extend-winning-streak-in-november-b26c2fae?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock-index futures rose slightly Sunday, after the major equity benchmarks extended their monthly winning streaks in October.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T21:47:00.000Z",
+      "headline": "This stock-market rally isn&#x2019;t letting up. Could it be making investors too greedy ahead of year&#x2019;s end?",
+      "url": "https://www.marketwatch.com/story/this-stock-market-rally-isnt-letting-up-could-it-be-making-investors-too-greedy-ahead-of-year-end-68245a95?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Stocks just logged their best midyear stretch since 1950. Is it time to take some profits?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T20:17:00.000Z",
+      "headline": "My father&#x2019;s estate was awarded $50K in a class-action lawsuit. My brother, as executor, kept the money. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-fathers-estate-was-awarded-50k-in-a-class-action-lawsuit-my-brother-as-executor-kept-the-money-what-can-we-do-10c360ee?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Analysts are closely watching Trump&#x2019;s tariff negotiations, the labor market, the Fed and inflation, but they are stymied by delayed economic data.",
+      "summary_en": "&#x201c;My brother retains the money awarded to my father to this day. My mom is still alive.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T21:16:00.000Z",
+      "headline": "Corporate America&#x2019;s hefty profit streak continues amid worries over job market",
+      "url": "https://www.marketwatch.com/story/corporate-americas-hefty-profit-streak-continues-amid-worries-over-job-market-e2a81764?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Earnings Watch: Even as fretting over the economy remains a pastime on Wall Street, third-quarter corporate profit growth has held up, helped by big banks and big tech.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T21:10:00.000Z",
+      "headline": "Nvidia is the biggest winner from earnings season &#x2014; and it hasn&#x2019;t even reported yet",
+      "url": "https://www.marketwatch.com/story/nvidia-is-the-biggest-winner-from-earnings-season-and-it-hasnt-even-reported-yet-0131f39e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "The swelling AI budgets at Amazon, Meta and other Big Tech players bode well for Nvidia in the near term.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T20:31:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in November 2025 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-november-2025-on-netflix-hulu-hbo-max-and-more-149f086e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Netflix&#x2019;s &#x2018;Stranger Things&#x2019; kicks off its final season, &#x2018;Pluribus&#x2019; is revealed on Apple, and &#x2018;Landman&#x2019; returns to Paramount+",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T20:27:00.000Z",
+      "headline": "OPEC+ to pause output hikes in first quarter to ease fears of glut, after one more boost in December",
+      "url": "https://www.marketwatch.com/story/opec-to-pause-output-hikes-in-first-quarter-to-ease-fears-of-glut-after-one-more-boost-in-december-b04efd32?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The eight nations of OPEC+ announced Sunday they will pause oil-production hikes in the first quarter of 2026, following a modest increase in December, as part of an effort to avoid a glut of crude.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T20:17:00.000Z",
+      "headline": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
+      "url": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I saw her transfer $150 after we were done shopping.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T22:51:00.000Z",
+      "headline": "I&#x2019;m planning to retire at 65 when my twins are 15. How will this impact their healthcare coverage?",
+      "url": "https://www.marketwatch.com/story/im-planning-to-retire-at-65-when-my-twins-are-15-how-will-this-impact-their-healthcare-coverage-1579c475?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;By retiring when they are in the 10th grade my income will be low when they apply for college scholarships.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-02T21:07:00.000Z",
+      "headline": "Is Big Tech&#x2019;s soaring AI spending creating a bubble? Here&#x2019;s what it means for stocks.",
+      "url": "https://www.marketwatch.com/story/is-big-techs-soaring-ai-spending-creating-a-bubble-heres-what-it-means-for-stocks-39fdd0d3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Bulls say the tech rally can keep going, while bears warn of a repeat of the early-2000s dot-com crash.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -23,42 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by First Security Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T22:31:00.000Z",
-      "headline": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I saw her transfer $150 after we were done shopping.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T18:05:00.000Z",
-      "headline": "Retiring abroad is touted as a money saver &#x2014; here&#x2019;s why it isn&#x2019;t always cheaper",
-      "url": "https://www.marketwatch.com/story/retiring-abroad-is-touted-as-a-money-saver-but-it-isnt-always-cheaper-over-there-662921d4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Taxes, investments, healthcare &#x2014; everything adds up. Here&#x2019;s how to plan now to relocate later.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T16:48:00.000Z",
-      "headline": "Here&#x2019;s how the smart money is buying gold &#x2014; now that it&#x2019;s likely peaked for the year",
-      "url": "https://www.marketwatch.com/story/heres-how-the-smart-money-is-buying-gold-now-that-its-likely-peaked-for-the-year-fcbe2aac?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Structural problems including high debt levels, deficits and geopolitical risks remain.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -83,78 +156,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve issues FOMC statement",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-02T00:00:00.000Z",
-      "headline": "My husband and I have $7K in Social Security and $2.5 million in stocks. What could go wrong?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-have-7k-in-social-security-and-2-5-million-in-stocks-what-could-go-wrong-5ef5e4e9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I hope to live off of the combination of Social Security and the TIPS ladder.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T22:30:00.000Z",
-      "headline": "I&#x2019;m planning to retire at 65 when my twins are 15. How will this impact their healthcare coverage?",
-      "url": "https://www.marketwatch.com/story/im-planning-to-retire-at-65-when-my-twins-are-15-how-will-this-impact-their-healthcare-coverage-1579c475?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;By retiring when they are in the 10th grade my income will be low when they apply for college scholarships.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T20:54:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t want to worry about money&#x2019;: I&#x2019;m 64 with $400K in savings and $700 in Social Security. Can I retire next year?",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-worry-about-money-im-64-with-400k-in-savings-and-700-in-social-security-can-i-retire-next-year-40011032?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I take in about $2,200 in monthly rent from four properties.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T17:34:00.000Z",
-      "headline": "It&#x2019;s &#x2018;Top Gun&#x2019; in orbit: Future wars will be fought in space &#x2014; and these stocks are lifting off",
-      "url": "https://www.marketwatch.com/story/space-is-the-next-frontier-for-the-u-s-and-china-to-fight-over-these-stocks-are-ready-for-launch-fcdda128?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Space is the next frontier for the U.S. and China to fight over.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T16:33:00.000Z",
-      "headline": "We&#x2019;re spending over $100 a week on lunch. How did ordering food at work become a luxury?",
-      "url": "https://www.marketwatch.com/story/why-are-we-normalizing-20-lunches-workers-balk-at-the-surging-price-of-the-midday-meal-7614a1ff?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Why are we normalizing $20 lunches?!&#x201d; Workers balk at the surging price of the midday meal.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-01T16:29:00.000Z",
-      "headline": "My late husband&#x2019;s parents did not mention me in their will. Should they have left me something?",
-      "url": "https://www.marketwatch.com/story/i-feel-slighted-my-late-husbands-parents-left-me-nothing-in-their-will-is-that-thoughtless-1c0dcff9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I was his complete caregiver for at least 10 of those years while raising our children.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
