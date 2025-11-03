@@ -1,6 +1,78 @@
 {
-  "last_updated": "2025-11-03T10:46:53.870Z",
+  "last_updated": "2025-11-03T13:33:07.319Z",
   "items": [
+    {
+      "ts": "2025-11-03T13:00:00.000Z",
+      "headline": "My father&#x2019;s estate was awarded $50K in a class-action lawsuit. My brother, as executor, kept the money. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-fathers-estate-was-awarded-50k-in-a-class-action-lawsuit-my-brother-as-executor-kept-the-money-what-can-we-do-10c360ee?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My brother retains the money awarded to my father to this day. My mom is still alive.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-03T13:27:00.000Z",
+      "headline": "Kimberly-Clark to buy embattled Tylenol maker Kenvue in a deal valued at more than $48 billion",
+      "url": "https://www.marketwatch.com/story/kimberly-clark-to-buy-embattled-tylenol-maker-kenvue-in-a-deal-valued-at-more-than-48-billion-6685eea7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Kenvue&#x2019;s stock, which had hit a record low in recent weeks, was headed for its best day ever while Kimberly-Clark&#x2019;s stock tumbled.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-03T13:15:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in November 2025 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-november-2025-on-netflix-hulu-hbo-max-and-more-149f086e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Netflix&#x2019;s &#x2018;Stranger Things&#x2019; kicks off its final season, &#x2018;Pluribus&#x2019; is revealed on Apple, and &#x2018;Landman&#x2019; returns to Paramount+",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-03T13:05:00.000Z",
+      "headline": "Nike and Target named new CEOs. Why investors shot first and asked questions later.",
+      "url": "https://www.marketwatch.com/story/nike-and-target-named-new-ceos-why-investors-shot-first-and-asked-questions-later-d0a66f4c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "How to know when a CEO shakeup is a buy signal &#x2014; and when it screams &#x201c;sell.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-03T11:38:00.000Z",
+      "headline": "Earnings are supporting stocks, but there are two risks to watch, says Morgan Stanley",
+      "url": "https://www.marketwatch.com/story/earnings-are-supporting-stocks-but-there-are-two-risks-to-watch-says-morgan-stanley-8a8d0dca?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Fed policy and funding markets may be a headwind, says Michael Wilson, even as earnings growth comes in stronger than expected.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-03T11:01:00.000Z",
+      "headline": "Sam Altman was finally asked how OpenAI can target trillions in spending on very little revenue",
+      "url": "https://www.marketwatch.com/story/sam-altman-was-finally-asked-the-big-question-on-openai-and-its-spending-spree-8f43af29?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "OpenAI&#x2019;s Sam Altman sat down with Microsoft chief Satya Nadella for what he must&#x2019;ve imagined would be a friendly interview with Altimeter Capital founder Brad Gerstner &#x2014; but the venture capitalist asked the big question that is puzzling the entire market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-03T10:30:00.000Z",
       "headline": "My friend, 72, has COPD. She has one son, 32. She says she doesn&#x2019;t need a will. Is she right?",
@@ -15,15 +87,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-03T09:18:00.000Z",
-      "headline": "Sam Altman was finally asked the big question on OpenAI and its spending spree",
-      "url": "https://www.marketwatch.com/story/sam-altman-was-finally-asked-the-big-question-on-openai-and-its-spending-spree-8f43af29?mod=mw_rss_topstories",
+      "ts": "2025-11-03T12:55:00.000Z",
+      "headline": "Investors are buying into AI that can&#x2019;t spell. Smart money is buying these stocks.",
+      "url": "https://www.marketwatch.com/story/investors-are-buying-into-ai-that-cant-spell-smart-money-is-buying-these-stocks-b1e8fbc0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "OpenAI&#x2019;s Sam Altman sat down with Microsoft chief Satya Nadella for what he must&#x2019;ve imagined would be a friendly interview with Altimeter Capital founder Brad Gerstner &#x2014; but the venture capitalist asked the big question that is puzzling the entire market.",
+      "summary_en": "AI fails at questions a 4-year-old can answer. Here&#x2019;s where the real money is.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -51,30 +123,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-03T03:54:00.000Z",
-      "headline": "U.S. stock futures rise as Wall Street looks to extend winning streak in November",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-as-wall-street-looks-to-extend-winning-streak-in-november-b26c2fae?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stock-index futures gained Sunday, after the major equity benchmarks extended their monthly winning streaks in October.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-03T00:21:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in November 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-november-2025-on-netflix-hulu-hbo-max-and-more-149f086e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Netflix&#x2019;s &#x2018;Stranger Things&#x2019; kicks off its final season, &#x2018;Pluribus&#x2019; is revealed on Apple, and &#x2018;Landman&#x2019; returns to Paramount+",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-10-31T20:45:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by First Security Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251031a.htm",
@@ -84,30 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by First Security Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-02T21:47:00.000Z",
-      "headline": "This stock-market rally isn&#x2019;t letting up. Could it be making investors too greedy ahead of year&#x2019;s end?",
-      "url": "https://www.marketwatch.com/story/this-stock-market-rally-isnt-letting-up-could-it-be-making-investors-too-greedy-ahead-of-year-end-68245a95?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Stocks just logged their best midyear stretch since 1950. Is it time to take some profits?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-02T21:16:00.000Z",
-      "headline": "Corporate America&#x2019;s hefty profit streak continues amid worries over job market",
-      "url": "https://www.marketwatch.com/story/corporate-americas-hefty-profit-streak-continues-amid-worries-over-job-market-e2a81764?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Earnings Watch: Even as fretting over the economy remains a pastime on Wall Street, third-quarter corporate profit growth has held up, helped by big banks and big tech.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,30 +156,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve issues FOMC statement",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-03T00:00:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t want to worry about money&#x2019;: I&#x2019;m 64 with $400K in savings and $700 in Social Security. Can I retire next year?",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-worry-about-money-im-64-with-400k-in-savings-and-700-in-social-security-can-i-retire-next-year-40011032?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I take in about $2,200 in monthly rent from four properties.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-02T22:51:00.000Z",
-      "headline": "I&#x2019;m planning to retire at 65 when my twins are 15. How will this impact their healthcare coverage?",
-      "url": "https://www.marketwatch.com/story/im-planning-to-retire-at-65-when-my-twins-are-15-how-will-this-impact-their-healthcare-coverage-1579c475?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;By retiring when they are in the 10th grade my income will be low when they apply for college scholarships.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
