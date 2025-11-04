@@ -1,68 +1,44 @@
 {
-  "last_updated": "2025-11-04T10:47:57.485Z",
+  "last_updated": "2025-11-04T13:36:02.695Z",
   "items": [
     {
-      "ts": "2025-11-04T10:29:00.000Z",
-      "headline": "Primark sale now on: Associated British Foods considers placing its crown jewel on the market.",
-      "url": "https://www.marketwatch.com/story/primark-sale-now-on-associated-british-foods-considers-placing-its-crown-jewel-on-the-market-96a98823?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-11-04T12:48:00.000Z",
+      "headline": "This hidden force trips up investors in retirement. Here&#x2019;s how I recovered.",
+      "url": "https://www.marketwatch.com/story/this-hidden-force-trips-up-investors-in-retirement-heres-how-i-recovered-cee3b1c4?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "With operating profits of &#xa3;1.7 billion last year, a sale of Primark may unlock significant value for Associated Britshs Foods.",
+      "summary_en": "I held my biggest stock winner too long and missed buying crypto at the bottom.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T08:39:00.000Z",
-      "headline": "Michael Burry challenges the AI trade with big short bets on Nvidia and Palantir",
-      "url": "https://www.marketwatch.com/story/michael-burry-challenges-the-ai-trade-with-big-short-bets-on-nvidia-and-palantir-2ffeacc0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-11-04T12:46:00.000Z",
+      "headline": "Norwegian Cruise sets a revenue record, but Wall Street wanted even more",
+      "url": "https://www.marketwatch.com/story/norwegian-cruise-sets-a-revenue-record-but-wall-street-wanted-even-more-25a85840?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Michael Burry, hedge fund manager of &#x201c;The Big Short&#x201d; fame, is calling the top in two of the stock market&#x2019;s favorite plays &#x2014; and somewhat contradicting himself in the process.",
+      "summary_en": "Norwegian Cruise Line&#x2019;s stock looked set to fall after revenue rose to a record but missed expectations for a third straight quarter.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T10:30:00.000Z",
-      "headline": "I&#x2019;m selling my condo and have $130K to invest. Is this a bad time to invest in the S&P 500?",
-      "url": "https://www.marketwatch.com/story/im-selling-my-condo-and-have-130k-to-invest-is-this-a-bad-time-to-invest-in-the-s-p-500-2f96163e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-11-04T12:40:00.000Z",
+      "headline": "Spotify&#x2019;s profit jumps after streaming service increases prices and attracts more subscribers",
+      "url": "https://www.marketwatch.com/story/spotifys-profit-jumps-after-streaming-service-increases-prices-and-attracts-more-subscribers-8b5ba915?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x2018;What is the smartest way to create income with this money?&#x2019;",
+      "summary_en": "Streaming giant Spotify Technology said its third-quarter profit virtually tripled after attracting users who were willing to pay for the service.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T10:03:00.000Z",
-      "headline": "The modest property portfolio of Beyond Meat CEO Ethan Brown",
-      "url": "https://www.marketwatch.com/story/the-modest-property-portfolio-of-beyond-meat-ceo-ethan-brown-39a88d74?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Beyond Meat has become a meme stock on a wild ride. Here&#x2019;s what to know about his relatively humble real estate holdings.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T09:52:00.000Z",
-      "headline": "Elon Musk&#x2019;s $1 trillion pay package gets a &#x2018;no&#x2019; from Norway. Historically, the fund hasn&#x2019;t been a bellwether.",
-      "url": "https://www.marketwatch.com/story/elon-musks-1-trillion-pay-package-gets-a-no-from-norway-historically-the-fund-hasnt-been-a-bellwether-4a7633a0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Norway&#x2019;s sovereign wealth fund, one of the biggest investors in Tesla, is opposing a plan to award Elon Musk up to $1 trillion in pay. But historically, the fund has not been a bellwether on key Tesla votes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T03:45:00.000Z",
+      "ts": "2025-11-04T12:30:00.000Z",
       "headline": "My father&#x2019;s estate was awarded $50K in a class-action lawsuit. My brother, as executor, kept the money. What can we do?",
       "url": "https://www.marketwatch.com/story/my-fathers-estate-was-awarded-50k-in-a-class-action-lawsuit-my-brother-as-executor-kept-the-money-what-can-we-do-10c360ee?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -74,19 +50,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T03:28:00.000Z",
-      "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
-      "url": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-11-04T13:22:00.000Z",
+      "headline": "Here&#x2019;s what America can learn from Germany, Japan and Sweden about how to save Social Security",
+      "url": "https://www.marketwatch.com/story/heres-what-america-can-learn-from-germany-japan-and-sweden-about-how-to-save-social-security-13ed49d9?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
+      "summary_en": "The 2026 Social Security COLA increase of 2.8% won&#x2019;t be enough to keep up with the current inflation rate.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T04:00:00.000Z",
+      "ts": "2025-11-04T13:07:00.000Z",
+      "headline": "Denny&#x2019;s stock heads for its biggest gain in decades after the best of multiple buyout bids is accepted",
+      "url": "https://www.marketwatch.com/story/dennys-stock-heads-for-its-biggest-gain-in-decades-after-the-best-of-multiple-buyout-bids-is-accepted-0bae71c3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Denny&#x2019;s received multiple offers, according to CEO Kelli Valade.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T13:00:00.000Z",
       "headline": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
       "url": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,7 +86,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T05:01:00.000Z",
+      "ts": "2025-11-04T12:56:00.000Z",
+      "headline": "How a new report convinced Deutsche Bank it&#x2019;s time to short the 10-year Treasury.",
+      "url": "https://www.marketwatch.com/story/how-a-new-report-convinced-deutsche-bank-its-time-to-short-the-10-year-treasury-03980b49?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "There&#x2019;s not much economic data about &#x2014; but the little there is has convinced Deutsche Bank to bet against the U.S. Treasury.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T13:19:00.000Z",
+      "headline": "Uber&#x2019;s upbeat earnings may not be enough to carry the stock to fresh highs",
+      "url": "https://www.marketwatch.com/story/ubers-upbeat-earnings-may-not-be-enough-to-carry-the-stock-to-fresh-highs-2af3e6d3?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The ride-hailing company plans to be live in at least 10 markets with its autonomous-vehicle fleet by the end of 2026.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T13:22:00.000Z",
       "headline": "Quality of life, even more than affordability, elevates this city to the best place to retire",
       "url": "https://www.marketwatch.com/story/quality-of-life-even-more-than-affordability-elevates-this-city-to-the-best-place-to-retire-035c04f8?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -107,18 +119,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "This Midwest locale nabs the top spot for retirees, but Florida and Texas still prove popular.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T04:58:00.000Z",
-      "headline": "Novo Nordisk&#x2019;s weight-loss drug Wegovy could soon have a new sales outlet in the U.S.",
-      "url": "https://www.marketwatch.com/story/novo-nordisks-wegovy-could-soon-have-a-new-sales-outlet-in-the-u-s-34a323d8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Telehealth company Hims & Hers says it is in &#x201c;active discussions&#x201d; with Novo Nordisk about selling Wegovy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
