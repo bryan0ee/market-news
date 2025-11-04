@@ -1,124 +1,137 @@
 {
-  "last_updated": "2025-11-04T13:36:02.695Z",
+  "last_updated": "2025-11-04T23:27:01.787Z",
   "items": [
     {
-      "ts": "2025-11-04T12:48:00.000Z",
-      "headline": "This hidden force trips up investors in retirement. Here&#x2019;s how I recovered.",
+      "ts": "2025-11-04T23:24:00.000Z",
+      "headline": "Strategy&#x2019;s stock falls to 7-month low. Why the leveraged bitcoin play is losing steam.",
+      "url": "https://www.marketwatch.com/story/strategys-stock-falls-to-7-month-low-why-the-leveraged-bitcoin-play-is-losing-steam-119ff1a8?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Strategy ended at their lowest level in seven months, a sign that investors may be growing cautious about Saylor&#x2019;s highly leveraged bitcoin-buying playbook.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T23:08:00.000Z",
+      "headline": "Rivian rides expiring EV credits to a revenue beat, and its stock moves higher",
+      "url": "https://www.marketwatch.com/story/rivian-rides-expiring-ev-credits-to-a-revenue-beat-and-its-stock-moves-higher-d794a266?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The electric-vehicle maker expects its third-quarter delivery performance to be its best of the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T22:23:00.000Z",
+      "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
+      "url": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T22:07:00.000Z",
+      "headline": "Cava trims sales outlook amid heavy competition. But it&#x2019;s wary of diving into the discounting fray.",
+      "url": "https://www.marketwatch.com/story/cava-trims-sales-outlook-amid-heavy-competition-but-its-wary-of-diving-into-the-discounting-fray-a07d7b29?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Mediterranean fast-casual chain Cava Group reported third-quarter results that missed Wall Street&#x2019;s estimates, as younger and middle-income consumers struggle with higher costs and competition remains stiff.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T22:02:00.000Z",
+      "headline": "These are my biggest investing regrets &#x2014; and how I&#x2019;m hitting reset in retirement",
       "url": "https://www.marketwatch.com/story/this-hidden-force-trips-up-investors-in-retirement-heres-how-i-recovered-cee3b1c4?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "I held my biggest stock winner too long and missed buying crypto at the bottom.",
+      "summary_en": "For retirees, missed opportunities can feel extremely painful. Here&#x2019;s how to move forward.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T12:46:00.000Z",
-      "headline": "Norwegian Cruise sets a revenue record, but Wall Street wanted even more",
-      "url": "https://www.marketwatch.com/story/norwegian-cruise-sets-a-revenue-record-but-wall-street-wanted-even-more-25a85840?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Norwegian Cruise Line&#x2019;s stock looked set to fall after revenue rose to a record but missed expectations for a third straight quarter.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T12:40:00.000Z",
-      "headline": "Spotify&#x2019;s profit jumps after streaming service increases prices and attracts more subscribers",
-      "url": "https://www.marketwatch.com/story/spotifys-profit-jumps-after-streaming-service-increases-prices-and-attracts-more-subscribers-8b5ba915?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Streaming giant Spotify Technology said its third-quarter profit virtually tripled after attracting users who were willing to pay for the service.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T12:30:00.000Z",
-      "headline": "My father&#x2019;s estate was awarded $50K in a class-action lawsuit. My brother, as executor, kept the money. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-fathers-estate-was-awarded-50k-in-a-class-action-lawsuit-my-brother-as-executor-kept-the-money-what-can-we-do-10c360ee?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My brother retains the money awarded to my father to this day. My mom is still alive.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T13:22:00.000Z",
-      "headline": "Here&#x2019;s what America can learn from Germany, Japan and Sweden about how to save Social Security",
-      "url": "https://www.marketwatch.com/story/heres-what-america-can-learn-from-germany-japan-and-sweden-about-how-to-save-social-security-13ed49d9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The 2026 Social Security COLA increase of 2.8% won&#x2019;t be enough to keep up with the current inflation rate.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T13:07:00.000Z",
-      "headline": "Denny&#x2019;s stock heads for its biggest gain in decades after the best of multiple buyout bids is accepted",
-      "url": "https://www.marketwatch.com/story/dennys-stock-heads-for-its-biggest-gain-in-decades-after-the-best-of-multiple-buyout-bids-is-accepted-0bae71c3?mod=mw_rss_topstories",
+      "ts": "2025-11-04T22:39:00.000Z",
+      "headline": "Medicare recipients may get obesity drugs for just $149 a month under a reported White House deal in the works",
+      "url": "https://www.marketwatch.com/story/obesity-drugs-may-get-medicare-access-under-deal-with-white-house-reports-e0472b38?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Denny&#x2019;s received multiple offers, according to CEO Kelli Valade.",
+      "summary_en": "The White House is close to announcing a deal with drugmakers Eli Lilly and Novo Nordisk that would cut the price of obesity drugs to $149 per month in some cases and extend coverage to certain Medicare and Medicaid beneficiaries, according to media reports Tuesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T13:00:00.000Z",
-      "headline": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
+      "ts": "2025-11-04T22:33:00.000Z",
+      "headline": "Stocks are falling for reasons that go beyond AI jitters",
+      "url": "https://www.marketwatch.com/story/stocks-are-falling-for-reasons-that-go-beyond-ai-jitters-737e32cc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I saw her transfer $150 after we were done shopping.&#x201d;",
+      "summary_en": "U.S. stocks wobbled on Tuesday, with several high-flying tech names leading the way lower.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T12:56:00.000Z",
-      "headline": "How a new report convinced Deutsche Bank it&#x2019;s time to short the 10-year Treasury.",
-      "url": "https://www.marketwatch.com/story/how-a-new-report-convinced-deutsche-bank-its-time-to-short-the-10-year-treasury-03980b49?mod=mw_rss_topstories",
+      "ts": "2025-11-04T22:05:00.000Z",
+      "headline": "Here&#x2019;s how Pinterest&#x2019;s holiday quarter just became a worry for Wall Street",
+      "url": "https://www.marketwatch.com/story/heres-how-pinterests-holiday-quarter-just-became-a-worry-for-wall-street-61d57d62?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "There&#x2019;s not much economic data about &#x2014; but the little there is has convinced Deutsche Bank to bet against the U.S. Treasury.",
+      "summary_en": "Pinterest&#x2019;s stock drops more than 16% on weaker revenue forecast for the shopping-heavy holiday quarter, usually the social-media company&#x2019;s strongest.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T13:19:00.000Z",
-      "headline": "Uber&#x2019;s upbeat earnings may not be enough to carry the stock to fresh highs",
-      "url": "https://www.marketwatch.com/story/ubers-upbeat-earnings-may-not-be-enough-to-carry-the-stock-to-fresh-highs-2af3e6d3?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-11-04T21:54:00.000Z",
+      "headline": "Why more people make estate plans for their pets than their children",
+      "url": "https://www.marketwatch.com/story/more-people-make-estate-plans-for-their-pets-than-their-children-6914e930?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "The ride-hailing company plans to be live in at least 10 markets with its autonomous-vehicle fleet by the end of 2026.",
+      "summary_en": "&#x201c;My Mother&#x2019;s Money&#x201d; tells the story of what the author learned as a financial caregiver while managing her mother&#x2019;s end-of-life affairs",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T13:22:00.000Z",
-      "headline": "Quality of life, even more than affordability, elevates this city to the best place to retire",
-      "url": "https://www.marketwatch.com/story/quality-of-life-even-more-than-affordability-elevates-this-city-to-the-best-place-to-retire-035c04f8?mod=mw_rss_topstories",
+      "ts": "2025-11-04T22:20:00.000Z",
+      "headline": "I&#x2019;m selling my condo and have $130K to invest. Is this a bad time to invest in the S&P 500?",
+      "url": "https://www.marketwatch.com/story/im-selling-my-condo-and-have-130k-to-invest-is-this-a-bad-time-to-invest-in-the-s-p-500-2f96163e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "This Midwest locale nabs the top spot for retirees, but Florida and Texas still prove popular.",
+      "summary_en": "&#x2018;What is the smartest way to create income with this money?&#x2019;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T16:00:00.000Z",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251104a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
