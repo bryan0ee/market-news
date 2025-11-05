@@ -1,126 +1,126 @@
 {
-  "last_updated": "2025-11-05T10:46:17.399Z",
+  "last_updated": "2025-11-05T13:34:11.335Z",
   "items": [
     {
-      "ts": "2025-11-05T10:15:00.000Z",
-      "headline": "I invested $200K in my daughter&#x2019;s 529 plan. She doesn&#x2019;t want to go to college. What should I do with this money?",
-      "url": "https://www.marketwatch.com/story/i-invested-200k-in-my-daughters-529-plan-she-doesnt-want-to-go-to-college-what-should-i-do-with-this-money-780695a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Are there any other ways I can consider transferring the wealth to her?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T10:42:00.000Z",
-      "headline": "Novo Nordisk downgrades sales outlook again amid bidding war with Pfizer for Metsera",
-      "url": "https://www.marketwatch.com/story/novo-nordisk-downgrades-sales-outlook-again-amid-bidding-war-with-pfizer-for-metsera-2578299c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Management lowers full-year guidance, warns about competition, launches bid for Metsera.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T02:53:00.000Z",
-      "headline": "&#x2018;It&#x2019;s survival math every month&#x2019;: The rent crisis that got Zohran Mamdani elected goes far beyond New York City",
-      "url": "https://www.marketwatch.com/story/its-survival-math-every-month-the-rent-crisis-that-got-zohran-mamdani-elected-goes-far-beyond-new-york-city-d27149ba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "AMD",
-        "ED"
-      ],
-      "summary_en": "The mayor-elect built his campaign around rent affordability. But the same issue applies across the country, according to experts &#x2014; and the many people struggling to pay their rent each month.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T01:30:00.000Z",
-      "headline": "My father&#x2019;s estate was awarded $50K in a class-action lawsuit. My brother, as executor, kept the money. What can we do?",
-      "url": "https://www.marketwatch.com/story/my-fathers-estate-was-awarded-50k-in-a-class-action-lawsuit-my-brother-as-executor-kept-the-money-what-can-we-do-10c360ee?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My brother retains the money awarded to my father to this day. My mom is still alive.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T01:13:00.000Z",
-      "headline": "Cava trims sales outlook amid heavy competition. But it&#x2019;s wary of diving into the discounting fray.",
-      "url": "https://www.marketwatch.com/story/cava-trims-sales-outlook-amid-heavy-competition-but-its-wary-of-diving-into-the-discounting-fray-a07d7b29?mod=mw_rss_topstories",
+      "ts": "2025-11-05T13:20:00.000Z",
+      "headline": "Humana&#x2019;s stock falls as Medicaid, health-benefit costs are still problems",
+      "url": "https://www.marketwatch.com/story/humanas-stock-falls-as-medicaid-health-benefit-costs-are-still-problems-091e8e15?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED",
         "COST"
       ],
-      "summary_en": "Mediterranean fast-casual chain Cava Group reported third-quarter results that missed Wall Street&#x2019;s estimates, as younger and middle-income consumers struggle with higher costs and competition remains stiff.",
+      "summary_en": "Medicaid-membership growth outlook was slashed, and as medical costs are still a problem.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T01:11:00.000Z",
-      "headline": "Rivian rides expiring EV credits to a revenue beat, and its stock moves higher",
-      "url": "https://www.marketwatch.com/story/rivian-rides-expiring-ev-credits-to-a-revenue-beat-and-its-stock-moves-higher-d794a266?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-11-05T13:12:00.000Z",
+      "headline": "These are my biggest investing regrets &#x2014; and how I&#x2019;m hitting reset in retirement",
+      "url": "https://www.marketwatch.com/story/this-hidden-force-trips-up-investors-in-retirement-heres-how-i-recovered-cee3b1c4?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The electric-vehicle maker expects its third-quarter delivery performance to be its best of the year.",
+      "summary_en": "For retirees, missed opportunities can feel extremely painful. Here&#x2019;s how to move forward.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T01:15:00.000Z",
-      "headline": "Here&#x2019;s how Pinterest&#x2019;s holiday quarter just became a worry for Wall Street",
-      "url": "https://www.marketwatch.com/story/heres-how-pinterests-holiday-quarter-just-became-a-worry-for-wall-street-61d57d62?mod=mw_rss_topstories",
+      "ts": "2025-11-05T13:30:00.000Z",
+      "headline": "Those millions of dead people supposedly claiming Social Security? It&#x2019;s obvious now that they were bogus.",
+      "url": "https://www.marketwatch.com/story/those-millions-of-dead-people-supposedly-claiming-social-security-its-obvious-now-that-they-were-bogus-12f71c14?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Pinterest&#x2019;s stock drops about 20% on weaker revenue forecast for the shopping-heavy holiday quarter, usually the social-media company&#x2019;s strongest.",
+      "summary_en": "They don&#x2019;t exist. They never did. The numbers that Musk and Trump implied were evidence of massive fraud were merely database errors.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T01:12:00.000Z",
-      "headline": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
+      "ts": "2025-11-05T13:24:00.000Z",
+      "headline": "ADP says businesses create 42,000 job in October &#x2014; but the labor market is still not great",
+      "url": "https://www.marketwatch.com/story/adp-says-businesses-create-42-000-job-in-october-but-the-labor-market-is-still-not-great-667628e7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Privately run businesses created 42,000 new jobs in October &#x2014; the biggest increase in three months &#x2014; in a possible sign of stabilization in a weakening U.S. labor market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T13:00:00.000Z",
+      "headline": "America is divided into two countries &#x2014; Trump&#x2019;s pro-billionaires and Mamdani&#x2019;s anti-billionaires",
+      "url": "https://www.marketwatch.com/story/america-is-divided-into-two-countries-trumps-pro-billionaires-and-mamdanis-anti-billionaires-3dd07f90?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "The 0.1% as an avatar for political polarization makes sense when you look at the world that tech billionaires have helped create.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T12:50:00.000Z",
+      "headline": "Treasury bonds are good investments at this time of year &#x2014; but not because of the Fed",
+      "url": "https://www.marketwatch.com/story/treasury-bonds-are-good-investments-at-this-time-of-year-but-not-because-of-the-fed-5625f325?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I saw her transfer $150 after we were done shopping.&#x201d;",
+      "summary_en": "Prices peak in the late fall and bottom in the spring.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T01:10:00.000Z",
-      "headline": "Stadiums, shows abroad keep Live Nation upbeat on next year after sales miss expectations",
-      "url": "https://www.marketwatch.com/story/stadiums-shows-abroad-keep-live-nation-upbeat-on-next-year-after-sales-miss-expectations-ec1014d2?mod=mw_rss_topstories",
+      "ts": "2025-11-05T11:06:00.000Z",
+      "headline": "Social Security survivor benefits from my late husband are not enough. Can I claim more on his record?",
+      "url": "https://www.marketwatch.com/story/social-security-survivor-benefits-from-my-late-husband-are-not-enough-can-i-claim-more-on-his-record-dba7f149?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Live Nation Entertainment said concert demand is set to stay strong into next year, helped by shows abroad and concerts at its biggest venues. However, the Ticketmaster parent company&#x2019;s third-quarter sales came up short of Wall Street&#x2019;s expectations.",
+      "summary_en": "&#x201c;My ex-husband passed away four years ago. We were married for 20 years.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T01:08:00.000Z",
-      "headline": "Why Super Micro&#x2019;s stock is falling after earnings &#x2014; even as guidance moves higher",
-      "url": "https://www.marketwatch.com/story/why-super-micros-stock-is-falling-after-earnings-even-as-guidance-moves-higher-7bcf04b3?mod=mw_rss_topstories",
+      "ts": "2025-11-05T13:05:00.000Z",
+      "headline": "AI companies have money and momentum. But look who&#x2019;s stuck with their utility bill.",
+      "url": "https://www.marketwatch.com/story/ai-companies-have-money-and-momentum-but-look-whos-stuck-with-their-utility-bill-e68ce9d3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Super Micro continued to exhibit margin pressure in the latest quarter, reflecting a competitive server market.",
+      "summary_en": "Big Tech&#x2019;s data center expansion efforts are spurring rate hikes for consumers. They don&#x2019;t have to stand for it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T12:34:00.000Z",
+      "headline": "As bubble debate rages, a new study finds why companies are getting stuck by the AI productivity paradox",
+      "url": "https://www.marketwatch.com/story/as-bubble-debate-rages-a-new-study-finds-why-companies-are-getting-stuck-by-the-ai-productivity-paradox-f1123c7d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Companies do benefit from attracting AI workers, but only from lean organizations, study finds",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T12:24:00.000Z",
+      "headline": "15 stocks of S&P 500 companies growing sales the most while improving profit margins",
+      "url": "https://www.marketwatch.com/story/15-stocks-of-s-p-500-companies-growing-sales-the-most-while-improving-profit-margins-975c2be5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "These companies combine high sales growth with improving productivity and efficiency.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
