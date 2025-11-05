@@ -1,44 +1,57 @@
 {
-  "last_updated": "2025-11-04T23:27:01.787Z",
+  "last_updated": "2025-11-05T10:46:17.399Z",
   "items": [
     {
-      "ts": "2025-11-04T23:24:00.000Z",
-      "headline": "Strategy&#x2019;s stock falls to 7-month low. Why the leveraged bitcoin play is losing steam.",
-      "url": "https://www.marketwatch.com/story/strategys-stock-falls-to-7-month-low-why-the-leveraged-bitcoin-play-is-losing-steam-119ff1a8?mod=mw_rss_topstories",
+      "ts": "2025-11-05T10:15:00.000Z",
+      "headline": "I invested $200K in my daughter&#x2019;s 529 plan. She doesn&#x2019;t want to go to college. What should I do with this money?",
+      "url": "https://www.marketwatch.com/story/i-invested-200k-in-my-daughters-529-plan-she-doesnt-want-to-go-to-college-what-should-i-do-with-this-money-780695a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Are there any other ways I can consider transferring the wealth to her?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T10:42:00.000Z",
+      "headline": "Novo Nordisk downgrades sales outlook again amid bidding war with Pfizer for Metsera",
+      "url": "https://www.marketwatch.com/story/novo-nordisk-downgrades-sales-outlook-again-amid-bidding-war-with-pfizer-for-metsera-2578299c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Management lowers full-year guidance, warns about competition, launches bid for Metsera.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T02:53:00.000Z",
+      "headline": "&#x2018;It&#x2019;s survival math every month&#x2019;: The rent crisis that got Zohran Mamdani elected goes far beyond New York City",
+      "url": "https://www.marketwatch.com/story/its-survival-math-every-month-the-rent-crisis-that-got-zohran-mamdani-elected-goes-far-beyond-new-york-city-d27149ba?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "The mayor-elect built his campaign around rent affordability. But the same issue applies across the country, according to experts &#x2014; and the many people struggling to pay their rent each month.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T01:30:00.000Z",
+      "headline": "My father&#x2019;s estate was awarded $50K in a class-action lawsuit. My brother, as executor, kept the money. What can we do?",
+      "url": "https://www.marketwatch.com/story/my-fathers-estate-was-awarded-50k-in-a-class-action-lawsuit-my-brother-as-executor-kept-the-money-what-can-we-do-10c360ee?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of Strategy ended at their lowest level in seven months, a sign that investors may be growing cautious about Saylor&#x2019;s highly leveraged bitcoin-buying playbook.",
+      "summary_en": "&#x201c;My brother retains the money awarded to my father to this day. My mom is still alive.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T23:08:00.000Z",
-      "headline": "Rivian rides expiring EV credits to a revenue beat, and its stock moves higher",
-      "url": "https://www.marketwatch.com/story/rivian-rides-expiring-ev-credits-to-a-revenue-beat-and-its-stock-moves-higher-d794a266?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The electric-vehicle maker expects its third-quarter delivery performance to be its best of the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T22:23:00.000Z",
-      "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
-      "url": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T22:07:00.000Z",
+      "ts": "2025-11-05T01:13:00.000Z",
       "headline": "Cava trims sales outlook amid heavy competition. But it&#x2019;s wary of diving into the discounting fray.",
       "url": "https://www.marketwatch.com/story/cava-trims-sales-outlook-amid-heavy-competition-but-its-wary-of-diving-into-the-discounting-fray-a07d7b29?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -51,43 +64,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T22:02:00.000Z",
-      "headline": "These are my biggest investing regrets &#x2014; and how I&#x2019;m hitting reset in retirement",
-      "url": "https://www.marketwatch.com/story/this-hidden-force-trips-up-investors-in-retirement-heres-how-i-recovered-cee3b1c4?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-11-05T01:11:00.000Z",
+      "headline": "Rivian rides expiring EV credits to a revenue beat, and its stock moves higher",
+      "url": "https://www.marketwatch.com/story/rivian-rides-expiring-ev-credits-to-a-revenue-beat-and-its-stock-moves-higher-d794a266?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "For retirees, missed opportunities can feel extremely painful. Here&#x2019;s how to move forward.",
+      "summary_en": "The electric-vehicle maker expects its third-quarter delivery performance to be its best of the year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T22:39:00.000Z",
-      "headline": "Medicare recipients may get obesity drugs for just $149 a month under a reported White House deal in the works",
-      "url": "https://www.marketwatch.com/story/obesity-drugs-may-get-medicare-access-under-deal-with-white-house-reports-e0472b38?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The White House is close to announcing a deal with drugmakers Eli Lilly and Novo Nordisk that would cut the price of obesity drugs to $149 per month in some cases and extend coverage to certain Medicare and Medicaid beneficiaries, according to media reports Tuesday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T22:33:00.000Z",
-      "headline": "Stocks are falling for reasons that go beyond AI jitters",
-      "url": "https://www.marketwatch.com/story/stocks-are-falling-for-reasons-that-go-beyond-ai-jitters-737e32cc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stocks wobbled on Tuesday, with several high-flying tech names leading the way lower.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T22:05:00.000Z",
+      "ts": "2025-11-05T01:15:00.000Z",
       "headline": "Here&#x2019;s how Pinterest&#x2019;s holiday quarter just became a worry for Wall Street",
       "url": "https://www.marketwatch.com/story/heres-how-pinterests-holiday-quarter-just-became-a-worry-for-wall-street-61d57d62?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -95,43 +84,43 @@
       "affected": [
         "ED"
       ],
-      "summary_en": "Pinterest&#x2019;s stock drops more than 16% on weaker revenue forecast for the shopping-heavy holiday quarter, usually the social-media company&#x2019;s strongest.",
+      "summary_en": "Pinterest&#x2019;s stock drops about 20% on weaker revenue forecast for the shopping-heavy holiday quarter, usually the social-media company&#x2019;s strongest.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T21:54:00.000Z",
-      "headline": "Why more people make estate plans for their pets than their children",
-      "url": "https://www.marketwatch.com/story/more-people-make-estate-plans-for-their-pets-than-their-children-6914e930?mod=mw_rss_topstories",
+      "ts": "2025-11-05T01:12:00.000Z",
+      "headline": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
+      "url": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My Mother&#x2019;s Money&#x201d; tells the story of what the author learned as a financial caregiver while managing her mother&#x2019;s end-of-life affairs",
+      "summary_en": "&#x201c;I saw her transfer $150 after we were done shopping.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-04T22:20:00.000Z",
-      "headline": "I&#x2019;m selling my condo and have $130K to invest. Is this a bad time to invest in the S&P 500?",
-      "url": "https://www.marketwatch.com/story/im-selling-my-condo-and-have-130k-to-invest-is-this-a-bad-time-to-invest-in-the-s-p-500-2f96163e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x2018;What is the smartest way to create income with this money?&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T16:00:00.000Z",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251104a.htm",
+      "ts": "2025-11-05T01:10:00.000Z",
+      "headline": "Stadiums, shows abroad keep Live Nation upbeat on next year after sales miss expectations",
+      "url": "https://www.marketwatch.com/story/stadiums-shows-abroad-keep-live-nation-upbeat-on-next-year-after-sales-miss-expectations-ec1014d2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
+      "summary_en": "Live Nation Entertainment said concert demand is set to stay strong into next year, helped by shows abroad and concerts at its biggest venues. However, the Ticketmaster parent company&#x2019;s third-quarter sales came up short of Wall Street&#x2019;s expectations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T01:08:00.000Z",
+      "headline": "Why Super Micro&#x2019;s stock is falling after earnings &#x2014; even as guidance moves higher",
+      "url": "https://www.marketwatch.com/story/why-super-micros-stock-is-falling-after-earnings-even-as-guidance-moves-higher-7bcf04b3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Super Micro continued to exhibit margin pressure in the latest quarter, reflecting a competitive server market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,6 +133,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by First Security Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-04T16:00:00.000Z",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251104a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
