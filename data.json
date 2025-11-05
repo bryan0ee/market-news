@@ -1,33 +1,57 @@
 {
-  "last_updated": "2025-11-05T13:34:11.335Z",
+  "last_updated": "2025-11-05T23:27:17.215Z",
   "items": [
     {
-      "ts": "2025-11-05T13:20:00.000Z",
-      "headline": "Humana&#x2019;s stock falls as Medicaid, health-benefit costs are still problems",
-      "url": "https://www.marketwatch.com/story/humanas-stock-falls-as-medicaid-health-benefit-costs-are-still-problems-091e8e15?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Medicaid-membership growth outlook was slashed, and as medical costs are still a problem.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T13:12:00.000Z",
-      "headline": "These are my biggest investing regrets &#x2014; and how I&#x2019;m hitting reset in retirement",
-      "url": "https://www.marketwatch.com/story/this-hidden-force-trips-up-investors-in-retirement-heres-how-i-recovered-cee3b1c4?mod=mw_rss_topstories",
+      "ts": "2025-11-05T23:13:00.000Z",
+      "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
+      "url": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "For retirees, missed opportunities can feel extremely painful. Here&#x2019;s how to move forward.",
+      "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T13:30:00.000Z",
+      "ts": "2025-11-05T23:07:00.000Z",
+      "headline": "AMC beats revenue expectations despite demand softness &#x2014; and says it wants to work more with Netflix",
+      "url": "https://www.marketwatch.com/story/amc-beats-revenue-expectations-despite-third-quarter-softness-the-stock-is-climbing-8082c253?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "AMC Entertainment&#x2019;s third-quarter revenue topped Wall Street expectations despite &#x201c;softening&#x201d; demand from moviegoers, the company said Wednesday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T23:23:00.000Z",
+      "headline": "Treasury bonds are good investments right now &#x2014; but not because of the Fed",
+      "url": "https://www.marketwatch.com/story/treasury-bonds-are-good-investments-at-this-time-of-year-but-not-because-of-the-fed-5625f325?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Prices peak in the late fall and bottom in the spring.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T23:18:00.000Z",
+      "headline": "The gold rush is over. October&#x2019;s &#x2018;flash crash&#x2019; is just what buyers needed.",
+      "url": "https://www.marketwatch.com/story/the-gold-rush-is-over-octobers-flash-crash-is-just-what-buyers-needed-d5836900?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Gold is newly attractive now that speculative fever has broken &#x2014; but stocks are still overheated.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T23:15:00.000Z",
       "headline": "Those millions of dead people supposedly claiming Social Security? It&#x2019;s obvious now that they were bogus.",
       "url": "https://www.marketwatch.com/story/those-millions-of-dead-people-supposedly-claiming-social-security-its-obvious-now-that-they-were-bogus-12f71c14?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -39,19 +63,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T13:24:00.000Z",
-      "headline": "ADP says businesses create 42,000 job in October &#x2014; but the labor market is still not great",
-      "url": "https://www.marketwatch.com/story/adp-says-businesses-create-42-000-job-in-october-but-the-labor-market-is-still-not-great-667628e7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Privately run businesses created 42,000 new jobs in October &#x2014; the biggest increase in three months &#x2014; in a possible sign of stabilization in a weakening U.S. labor market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T13:00:00.000Z",
+      "ts": "2025-11-05T23:01:00.000Z",
       "headline": "America is divided into two countries &#x2014; Trump&#x2019;s pro-billionaires and Mamdani&#x2019;s anti-billionaires",
       "url": "https://www.marketwatch.com/story/america-is-divided-into-two-countries-trumps-pro-billionaires-and-mamdanis-anti-billionaires-3dd07f90?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -60,35 +72,35 @@
         "AMD",
         "ED"
       ],
-      "summary_en": "The 0.1% as an avatar for political polarization makes sense when you look at the world that tech billionaires have helped create.",
+      "summary_en": "The 0.001% as an avatar for political polarization makes sense when you look at the world that tech billionaires have helped create.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T12:50:00.000Z",
-      "headline": "Treasury bonds are good investments at this time of year &#x2014; but not because of the Fed",
-      "url": "https://www.marketwatch.com/story/treasury-bonds-are-good-investments-at-this-time-of-year-but-not-because-of-the-fed-5625f325?mod=mw_rss_topstories",
+      "ts": "2025-11-05T22:52:00.000Z",
+      "headline": "Robinhood doubles its revenue as customers flock to its prediction markets, other new businesses",
+      "url": "https://www.marketwatch.com/story/robinhood-doubles-its-revenue-as-customers-flock-to-prediction-markets-other-new-businesses-dc2b75ee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Prices peak in the late fall and bottom in the spring.",
+      "summary_en": "Robinhood reported third-quarter earnings late Wednesday, posting revenue that doubled year on year to $1.27 billion, and profit of 61 cents a share, up 259% compared with last year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T11:06:00.000Z",
-      "headline": "Social Security survivor benefits from my late husband are not enough. Can I claim more on his record?",
-      "url": "https://www.marketwatch.com/story/social-security-survivor-benefits-from-my-late-husband-are-not-enough-can-i-claim-more-on-his-record-dba7f149?mod=mw_rss_topstories",
+      "ts": "2025-11-05T22:00:00.000Z",
+      "headline": "Federal Reserve Board finalizes changes to its supervisory rating framework for large bank holding companies",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251105a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My ex-husband passed away four years ago. We were married for 20 years.&#x201d;",
+      "summary_en": "Federal Reserve Board finalizes changes to its supervisory rating framework for large bank holding companies",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T13:05:00.000Z",
+      "ts": "2025-11-05T23:19:00.000Z",
       "headline": "AI companies have money and momentum. But look who&#x2019;s stuck with their utility bill.",
       "url": "https://www.marketwatch.com/story/ai-companies-have-money-and-momentum-but-look-whos-stuck-with-their-utility-bill-e68ce9d3?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -100,27 +112,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T12:34:00.000Z",
-      "headline": "As bubble debate rages, a new study finds why companies are getting stuck by the AI productivity paradox",
-      "url": "https://www.marketwatch.com/story/as-bubble-debate-rages-a-new-study-finds-why-companies-are-getting-stuck-by-the-ai-productivity-paradox-f1123c7d?mod=mw_rss_topstories",
+      "ts": "2025-11-05T23:09:00.000Z",
+      "headline": "Arm steps up its AI investments as it cashes in on another billion-dollar quarter",
+      "url": "https://www.marketwatch.com/story/arm-steps-up-its-ai-investments-as-it-cashes-in-on-another-billion-dollar-quarter-8bde856e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Companies do benefit from attracting AI workers, but only from lean organizations, study finds",
+      "summary_en": "Arm says its rising revenue allows it to spend up on research and development that helps meet growing customer demand.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T12:24:00.000Z",
-      "headline": "15 stocks of S&P 500 companies growing sales the most while improving profit margins",
-      "url": "https://www.marketwatch.com/story/15-stocks-of-s-p-500-companies-growing-sales-the-most-while-improving-profit-margins-975c2be5?mod=mw_rss_topstories",
+      "ts": "2025-11-05T22:29:00.000Z",
+      "headline": "Qualcomm takes a big tax charge that hits earnings, and the stock falls",
+      "url": "https://www.marketwatch.com/story/qualcomm-takes-a-big-tax-charge-as-it-looks-toward-the-future-051e3c53?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "These companies combine high sales growth with improving productivity and efficiency.",
+      "summary_en": "The chip company&#x2019;s results were upbeat when excluding the charge, with its CEO cheering strong business momentum and new opportunities in data centers",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -157,18 +169,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement actions with former employee of First Horizon Bank and former employee of NobleBank &amp; Trust",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-29T18:00:00.000Z",
-      "headline": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve issues FOMC statement",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
