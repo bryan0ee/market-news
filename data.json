@@ -1,57 +1,8 @@
 {
-  "last_updated": "2025-11-06T10:46:32.495Z",
+  "last_updated": "2025-11-06T13:33:39.224Z",
   "items": [
     {
-      "ts": "2025-11-06T10:30:00.000Z",
-      "headline": "&#x2018;He constantly assures me that things are improving&#x2019;: I feel betrayed by my husband&#x2019;s financial misdeeds. How do I fix it?",
-      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings and lives paycheck to paycheck.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-06T10:08:00.000Z",
-      "headline": "Dipping bond yields will boost growth stocks over value again, strategist says",
-      "url": "https://www.marketwatch.com/story/dipping-bond-yields-will-boost-growth-stocks-over-value-again-strategist-says-71d9cc2b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Growth stocks are the best place to be positioned in 2026 across all three markets, because bond yields, rather than earnings growth, is the key performance determinant, a strategist says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-06T10:00:00.000Z",
-      "headline": "America is divided into two countries &#x2014; Trump&#x2019;s pro-billionaires and Mamdani&#x2019;s anti-billionaires",
-      "url": "https://www.marketwatch.com/story/america-is-divided-into-two-countries-trumps-pro-billionaires-and-mamdanis-anti-billionaires-3dd07f90?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "AMD",
-        "ED"
-      ],
-      "summary_en": "The 0.001% as an avatar for political polarization makes sense when you look at the world that tech billionaires have helped create.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-06T09:59:00.000Z",
-      "headline": "Marvell Technology stock is jumping. An M&A report is the trigger.",
-      "url": "https://www.marketwatch.com/story/marvell-technology-stock-is-jumping-an-m-a-report-is-the-trigger-b4fafec4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Marvell Technology rallied in premarket trade on Thursday after a report that SoftBank considered buying the U.S. chipmaker in what would have been a record deal.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-06T04:42:00.000Z",
+      "ts": "2025-11-06T13:30:00.000Z",
       "headline": "OpenAI walks back comments about government support for its AI spending",
       "url": "https://www.marketwatch.com/story/how-will-openai-cover-its-heavy-spending-it-now-suggests-maybe-the-government-could-help-e1ca64f5?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -63,19 +14,68 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-06T02:54:00.000Z",
-      "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
-      "url": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2025-11-06T13:26:00.000Z",
+      "headline": "Google may be Nvidia&#x2019;s biggest rival in chips &#x2014;&#xa0;and now it&#x2019;s upping its game",
+      "url": "https://www.marketwatch.com/story/google-may-be-nvidias-biggest-rival-in-chips-and-now-its-upping-its-game-a85c0092?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "GOOGL"
       ],
-      "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
+      "summary_en": "The company&#x2019;s seventh-generation TPU chip is custom-built to handle tasks such as large-scale AI model training and high-volume AI inference.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-06T02:55:00.000Z",
+      "ts": "2025-11-06T13:20:00.000Z",
+      "headline": "Stablecoin&#x2019;s promoters want you using it like cash. What could possibly go wrong?",
+      "url": "https://www.marketwatch.com/story/stablecoins-promoters-want-you-using-it-like-cash-what-could-possibly-go-wrong-85619768?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Stablecoin could become mainstream digital money &#x2014; or a risky, leveraged speculation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T13:05:00.000Z",
+      "headline": "America is open for AI&#x2019;s business &#x2014; China and Europe aren&#x2019;t even close",
+      "url": "https://www.marketwatch.com/story/america-is-open-for-ais-business-china-and-europe-arent-even-close-03c5d271?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "AI needs market-driven innovation to thrive. China&#x2019;s top-down approach and Europe&#x2019;s regulations stifle growth.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T12:57:00.000Z",
+      "headline": "After major deleveraging, bitcoin now has &#x2018;significant upside&#x2019; and looks more attractive than gold, claims JPMorgan",
+      "url": "https://www.marketwatch.com/story/after-major-deleveraging-bitcoin-now-has-significant-upside-and-looks-more-attractive-than-gold-claims-jpmorgan-00715293?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Deleveraging in bitcoin futures was responsible for its sheer decline, but on a volatility-adjusted basis, it now seems cheaper than gold.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T12:51:00.000Z",
+      "headline": "Ray Dalio is back with a fresh warning, and it&#x2019;s about the Fed&#x2019;s new policy",
+      "url": "https://www.marketwatch.com/story/ray-dalio-is-back-with-a-fresh-warning-and-its-about-the-feds-new-policy-3362e20b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The legendary investor is warning about the impact of a move at the Fed others might call technical.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T12:30:00.000Z",
       "headline": "&#x2018;Housing is extremely expensive&#x2019;: My husband and I are building a house on my mother-in-law&#x2019;s land. Are we asking for trouble?",
       "url": "https://www.marketwatch.com/story/housing-is-extremely-expensive-were-building-a-house-on-my-mother-in-laws-land-are-we-asking-for-trouble-d58c70e2?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -87,40 +87,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-06T02:15:00.000Z",
-      "headline": "AMD just passed one test &#x2014;&#xa0;but it&#x2019;s not done yet",
-      "url": "https://www.marketwatch.com/story/amd-just-passed-one-test-but-an-even-bigger-one-sits-on-the-horizon-0975fb32?mod=mw_rss_topstories",
+      "ts": "2025-11-06T12:00:00.000Z",
+      "headline": "I invested $200K in my daughter&#x2019;s 529 plan. She doesn&#x2019;t want to go to college. What should I do with this money?",
+      "url": "https://www.marketwatch.com/story/i-invested-200k-in-my-daughters-529-plan-she-doesnt-want-to-go-to-college-what-should-i-do-with-this-money-780695a9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "AMD",
         "ED"
       ],
-      "summary_en": "Analysts are less focused on the latest earnings as AMD prepares to deliver long-term AI targets at next week&#x2019;s analyst day.",
+      "summary_en": "&#x201c;Are there any other ways I can consider transferring the wealth to her?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-06T01:31:00.000Z",
-      "headline": "Robinhood doubles its revenue as customers flock to its prediction markets, other new businesses",
-      "url": "https://www.marketwatch.com/story/robinhood-doubles-its-revenue-as-customers-flock-to-prediction-markets-other-new-businesses-dc2b75ee?mod=mw_rss_topstories",
+      "ts": "2025-11-06T12:45:00.000Z",
+      "headline": "This little-known connection between gold and platinum spells big trouble for stocks",
+      "url": "https://www.marketwatch.com/story/this-little-known-connection-between-gold-and-platinum-spells-big-trouble-for-stocks-37b392ea?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Robinhood reported third-quarter earnings late Wednesday, posting revenue that doubled year on year to $1.27 billion, and profit of 61 cents a share, up 259% compared with last year.",
+      "summary_en": "The gold/platinum ratio is an excellent market-timing indicator &#x2014; and recently had one of its biggest drops ever.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-06T01:30:00.000Z",
-      "headline": "Hailey Bieber&#x2019;s Rhode brand was a huge win for Elf Beauty. Why the stock is losing a fifth of its value anyway.",
-      "url": "https://www.marketwatch.com/story/hailey-biebers-rhode-brand-was-a-huge-win-for-elf-beauty-why-the-stock-is-losing-a-quarter-of-its-value-anyway-169b2018?mod=mw_rss_topstories",
+      "ts": "2025-11-06T12:30:00.000Z",
+      "headline": "One reason that hotel stay was your most expensive one ever",
+      "url": "https://www.marketwatch.com/story/hotel-stays-now-can-easily-cost-100-extra-thanks-to-local-bed-taxes-f00188c1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Elf Beauty surprised Wall Street with a weaker outlook and profit, sending the stock more than 25% lower.",
+      "summary_en": "Some cities including Kyoto and San Diego are tacking on this extra expense &#x2014; and it can add upwards of $100 to the bill.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
