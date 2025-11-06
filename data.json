@@ -1,69 +1,32 @@
 {
-  "last_updated": "2025-11-05T23:27:17.215Z",
+  "last_updated": "2025-11-06T10:46:32.495Z",
   "items": [
     {
-      "ts": "2025-11-05T23:13:00.000Z",
-      "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
-      "url": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T23:07:00.000Z",
-      "headline": "AMC beats revenue expectations despite demand softness &#x2014; and says it wants to work more with Netflix",
-      "url": "https://www.marketwatch.com/story/amc-beats-revenue-expectations-despite-third-quarter-softness-the-stock-is-climbing-8082c253?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "AMC Entertainment&#x2019;s third-quarter revenue topped Wall Street expectations despite &#x201c;softening&#x201d; demand from moviegoers, the company said Wednesday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T23:23:00.000Z",
-      "headline": "Treasury bonds are good investments right now &#x2014; but not because of the Fed",
-      "url": "https://www.marketwatch.com/story/treasury-bonds-are-good-investments-at-this-time-of-year-but-not-because-of-the-fed-5625f325?mod=mw_rss_topstories",
+      "ts": "2025-11-06T10:30:00.000Z",
+      "headline": "&#x2018;He constantly assures me that things are improving&#x2019;: I feel betrayed by my husband&#x2019;s financial misdeeds. How do I fix it?",
+      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Prices peak in the late fall and bottom in the spring.",
+      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings and lives paycheck to paycheck.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T23:18:00.000Z",
-      "headline": "The gold rush is over. October&#x2019;s &#x2018;flash crash&#x2019; is just what buyers needed.",
-      "url": "https://www.marketwatch.com/story/the-gold-rush-is-over-octobers-flash-crash-is-just-what-buyers-needed-d5836900?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Gold is newly attractive now that speculative fever has broken &#x2014; but stocks are still overheated.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T23:15:00.000Z",
-      "headline": "Those millions of dead people supposedly claiming Social Security? It&#x2019;s obvious now that they were bogus.",
-      "url": "https://www.marketwatch.com/story/those-millions-of-dead-people-supposedly-claiming-social-security-its-obvious-now-that-they-were-bogus-12f71c14?mod=mw_rss_topstories",
+      "ts": "2025-11-06T10:08:00.000Z",
+      "headline": "Dipping bond yields will boost growth stocks over value again, strategist says",
+      "url": "https://www.marketwatch.com/story/dipping-bond-yields-will-boost-growth-stocks-over-value-again-strategist-says-71d9cc2b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "They don&#x2019;t exist. They never did. The numbers that Musk and Trump implied were evidence of massive fraud were merely database errors.",
+      "summary_en": "Growth stocks are the best place to be positioned in 2026 across all three markets, because bond yields, rather than earnings growth, is the key performance determinant, a strategist says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T23:01:00.000Z",
+      "ts": "2025-11-06T10:00:00.000Z",
       "headline": "America is divided into two countries &#x2014; Trump&#x2019;s pro-billionaires and Mamdani&#x2019;s anti-billionaires",
       "url": "https://www.marketwatch.com/story/america-is-divided-into-two-countries-trumps-pro-billionaires-and-mamdanis-anti-billionaires-3dd07f90?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -76,7 +39,68 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T22:52:00.000Z",
+      "ts": "2025-11-06T09:59:00.000Z",
+      "headline": "Marvell Technology stock is jumping. An M&A report is the trigger.",
+      "url": "https://www.marketwatch.com/story/marvell-technology-stock-is-jumping-an-m-a-report-is-the-trigger-b4fafec4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Marvell Technology rallied in premarket trade on Thursday after a report that SoftBank considered buying the U.S. chipmaker in what would have been a record deal.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T04:42:00.000Z",
+      "headline": "OpenAI walks back comments about government support for its AI spending",
+      "url": "https://www.marketwatch.com/story/how-will-openai-cover-its-heavy-spending-it-now-suggests-maybe-the-government-could-help-e1ca64f5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "OpenAI&#x2019;s CFO mentioned a potential government &#x201c;backstop&#x201d; for AI financing on Wednesday, but later said her choice of words &#x201c;muddied the point.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T02:54:00.000Z",
+      "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
+      "url": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T02:55:00.000Z",
+      "headline": "&#x2018;Housing is extremely expensive&#x2019;: My husband and I are building a house on my mother-in-law&#x2019;s land. Are we asking for trouble?",
+      "url": "https://www.marketwatch.com/story/housing-is-extremely-expensive-were-building-a-house-on-my-mother-in-laws-land-are-we-asking-for-trouble-d58c70e2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "&#x201c;A single-family home where we live costs $600,000 or more.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T02:15:00.000Z",
+      "headline": "AMD just passed one test &#x2014;&#xa0;but it&#x2019;s not done yet",
+      "url": "https://www.marketwatch.com/story/amd-just-passed-one-test-but-an-even-bigger-one-sits-on-the-horizon-0975fb32?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "Analysts are less focused on the latest earnings as AMD prepares to deliver long-term AI targets at next week&#x2019;s analyst day.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-06T01:31:00.000Z",
       "headline": "Robinhood doubles its revenue as customers flock to its prediction markets, other new businesses",
       "url": "https://www.marketwatch.com/story/robinhood-doubles-its-revenue-as-customers-flock-to-prediction-markets-other-new-businesses-dc2b75ee?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -88,51 +112,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-05T22:00:00.000Z",
-      "headline": "Federal Reserve Board finalizes changes to its supervisory rating framework for large bank holding companies",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251105a.htm",
+      "ts": "2025-11-06T01:30:00.000Z",
+      "headline": "Hailey Bieber&#x2019;s Rhode brand was a huge win for Elf Beauty. Why the stock is losing a fifth of its value anyway.",
+      "url": "https://www.marketwatch.com/story/hailey-biebers-rhode-brand-was-a-huge-win-for-elf-beauty-why-the-stock-is-losing-a-quarter-of-its-value-anyway-169b2018?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board finalizes changes to its supervisory rating framework for large bank holding companies",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T23:19:00.000Z",
-      "headline": "AI companies have money and momentum. But look who&#x2019;s stuck with their utility bill.",
-      "url": "https://www.marketwatch.com/story/ai-companies-have-money-and-momentum-but-look-whos-stuck-with-their-utility-bill-e68ce9d3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Big Tech&#x2019;s data center expansion efforts are spurring rate hikes for consumers. They don&#x2019;t have to stand for it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T23:09:00.000Z",
-      "headline": "Arm steps up its AI investments as it cashes in on another billion-dollar quarter",
-      "url": "https://www.marketwatch.com/story/arm-steps-up-its-ai-investments-as-it-cashes-in-on-another-billion-dollar-quarter-8bde856e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Arm says its rising revenue allows it to spend up on research and development that helps meet growing customer demand.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-05T22:29:00.000Z",
-      "headline": "Qualcomm takes a big tax charge that hits earnings, and the stock falls",
-      "url": "https://www.marketwatch.com/story/qualcomm-takes-a-big-tax-charge-as-it-looks-toward-the-future-051e3c53?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The chip company&#x2019;s results were upbeat when excluding the charge, with its CEO cheering strong business momentum and new opportunities in data centers",
+      "summary_en": "Elf Beauty surprised Wall Street with a weaker outlook and profit, sending the stock more than 25% lower.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -145,6 +133,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by First Security Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-05T22:00:00.000Z",
+      "headline": "Federal Reserve Board finalizes changes to its supervisory rating framework for large bank holding companies",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251105a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board finalizes changes to its supervisory rating framework for large bank holding companies",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
