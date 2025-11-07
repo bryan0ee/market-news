@@ -1,94 +1,116 @@
 {
-  "last_updated": "2025-11-07T13:30:33.739Z",
+  "last_updated": "2025-11-07T23:25:55.039Z",
   "items": [
     {
-      "ts": "2025-11-07T13:27:00.000Z",
-      "headline": "Where next for Big Tech stocks? Pay attention to bitcoin, says Citi.",
-      "url": "https://www.marketwatch.com/story/where-next-for-big-tech-stocks-pay-attention-to-bitcoin-says-citi-44bb15f4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The crypto is closely correlated with the Nasdaq",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T12:00:00.000Z",
-      "headline": "Gold has a shot at $5,000 if investors rekindle this popular trade",
-      "url": "https://www.marketwatch.com/story/gold-has-a-shot-at-5-000-if-investors-rekindle-this-popular-trade-55936975?mod=mw_rss_topstories",
+      "ts": "2025-11-07T22:03:00.000Z",
+      "headline": "Expedia is treating AI as a friend rather than a mortal enemy &#x2014; and its stock is soaring",
+      "url": "https://www.marketwatch.com/story/expedia-is-treating-ai-as-a-friend-rather-a-mortal-enemy-and-its-stock-is-soaring-1ccb1043?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "META",
         "ED"
       ],
-      "summary_en": "It has been more than two weeks since gold prices notched record highs, but the debasement trade that has played a key role in the precious metal&#x2019;s rally this year is alive and well.",
+      "summary_en": "Expedia shares climbed to a record close as the online travel agent has embraced AI to help boost business, rather than try to find ways to beat it.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T12:41:00.000Z",
-      "headline": "This viral visualization of AI-driven job destruction might actually be &#x2018;the stupidest chart in the world&#x2019;",
-      "url": "https://www.marketwatch.com/story/why-a-viral-chart-about-ai-driven-job-destruction-might-actually-be-the-stupidest-chart-in-the-world-30f357da?mod=mw_rss_topstories",
+      "ts": "2025-11-07T22:56:00.000Z",
+      "headline": "As stocks wobbled, the S&P 500 held a critical threshold. Here&#x2019;s what history says happens next.",
+      "url": "https://www.marketwatch.com/story/as-stocks-wobbled-the-s-p-500-held-a-critical-threshold-heres-what-history-says-happens-next-872e02f9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A viral chart that has been bouncing around social-media platforms like X over the past few weeks has caught the attention of investing professionals and amateur observers alike.",
+      "summary_en": "The benchmark index has been above its 50-day moving average for 133 sessions, the longest streak since 2007. But that nearly came to an end on Friday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T12:00:00.000Z",
-      "headline": "Trade wars are dying down, but the U.S. economy is still licking its wounds",
-      "url": "https://www.marketwatch.com/story/trade-wars-are-dying-down-but-the-u-s-economy-is-still-licking-its-wounds-3c7766b0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-11-07T21:40:00.000Z",
+      "headline": "Tech stocks just had their worst week since the April tariff selloff. Why it&#x2019;s about time.",
+      "url": "https://www.marketwatch.com/story/tech-stocks-are-having-their-worst-week-since-the-april-tariff-selloff-why-its-about-time-6334cbc3?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The trade wars have died down, but they have not disappeared &#x2014; and that has left a cloud over the U.S. economy that&#x2019;s unlikely to go away soon.",
+      "summary_en": "Strong tech earnings weren&#x2019;t enough to reassure investors worried about high valuations.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T12:00:00.000Z",
-      "headline": "Meta&#x2019;s stock is the new &#x2018;Magnificent Seven&#x2019; doormat. Should you buy the dip?",
-      "url": "https://www.marketwatch.com/story/metas-stock-is-the-new-magnificent-seven-doormat-should-you-buy-the-dip-82068b28?mod=mw_rss_topstories",
+      "ts": "2025-11-07T22:29:00.000Z",
+      "headline": "&#x2018;We can&#x2019;t afford to buy a house&#x2019;: My husband and I are building a house on my mother-in-law&#x2019;s land. Are we asking for trouble?",
+      "url": "https://www.marketwatch.com/story/housing-is-extremely-expensive-were-building-a-house-on-my-mother-in-laws-land-are-we-asking-for-trouble-d58c70e2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "META",
-        "ED"
+        "COST"
       ],
-      "summary_en": "Shares have slumped 17% since the company signaled aggressive AI spending ahead. While some are concerned, others see a prime buying opportunity.",
+      "summary_en": "&#x201c;A single-family home where we live costs $600,000 or more.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T11:30:00.000Z",
-      "headline": "I invested $200K in my daughter&#x2019;s 529 plan. She doesn&#x2019;t want to go to college. What should I do with this money?",
-      "url": "https://www.marketwatch.com/story/i-invested-200k-in-my-daughters-529-plan-she-doesnt-want-to-go-to-college-what-should-i-do-with-this-money-780695a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Are there any other ways I can consider transferring the wealth to her?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T10:30:00.000Z",
-      "headline": "I&#x2019;m 83 and have a monthly income of $3,800. My estranged wife wants me to join her in Colombia. Do I go?",
+      "ts": "2025-11-07T22:13:00.000Z",
+      "headline": "I&#x2019;m 83 and will have $500K if I sell my house. My estranged wife wants me to join her in Colombia. Do I go?",
       "url": "https://www.marketwatch.com/story/im-83-and-have-a-monthly-income-of-3-800-my-estranged-wife-wants-me-to-join-her-in-colombia-do-i-go-a5850fe9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I have about $220,000 in savings and I have close to $300,000 in equity if I sell the house.&#x201d;",
+      "summary_en": "&#x201c;I can just barely handle my expenses with a mortgage payment of $984 and an income of $3,800.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T11:00:00.000Z",
+      "ts": "2025-11-07T21:58:00.000Z",
+      "headline": "The shutdown is starting to &#x2018;bite the economy,&#x2019; top Trump aide warns. The Senate is struggling to make a deal.",
+      "url": "https://www.marketwatch.com/story/the-shutdown-is-starting-to-bite-the-economy-top-trump-aide-warns-the-senate-is-struggling-to-make-a-deal-3104a8da?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A top economist in the Trump administration offered a fresh warning Friday about the record-setting government shutdown&#x2019;s damaging effects, as the Senate struggled to make a deal to end the closure and airports began to reduce flights.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T21:40:00.000Z",
+      "headline": "The real risk to your bond fund isn&#x2019;t defaults. It&#x2019;s you.",
+      "url": "https://www.marketwatch.com/story/the-real-risk-to-your-bond-fund-isnt-defaults-its-you-af177815?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Charlie Garcia responds to a reader worried about a bond fund&#x2019;s lower-quality holdings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T21:35:00.000Z",
+      "headline": "Even with all the flight cancellations, airline stocks had a surprisingly good week",
+      "url": "https://www.marketwatch.com/story/even-with-all-the-flight-cancellations-airline-stocks-are-having-a-surprisingly-good-week-eab6d740?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "For Wall Street, shutdown-related flight cancellations may not be all that scary.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T22:47:00.000Z",
+      "headline": "Bitcoin rebounds after a dip into bear-market territory. Are buyers coming back for crypto?",
+      "url": "https://www.marketwatch.com/story/bitcoins-bear-market-is-exposing-a-new-buy-the-dip-weakness-in-markets-8db02ff3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The token&#x2019;s break below $100,000 earlier this week could be a warning of more losses ahead, one analyst says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T20:44:00.000Z",
       "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
       "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -97,30 +119,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T10:42:00.000Z",
-      "headline": "U.S. jobless-claims data are not as bleak as Challenger report suggests",
-      "url": "https://www.marketwatch.com/story/jobless-claims-data-isnt-as-bleak-as-challenger-report-suggests-9ce67ba2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Citigroup and Goldman Sachs both flag a rise in continuing unemployment-benefits claims as indicating that those who are jobless are finding it hard to find new employment.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-10-31T20:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by First Security Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251031a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by First Security Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -157,18 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T01:21:00.000Z",
-      "headline": "Airbnb suggests consumers are starting to feel better about taking vacations. Here&#x2019;s why profits could still take a hit.",
-      "url": "https://www.marketwatch.com/story/airbnb-suggests-consumers-are-starting-to-feel-better-about-vacations-heres-why-profits-could-still-take-a-hit-36320b1c?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Vacation-rental platform Airbnb Inc. on Thursday said demand held up through October and forecast fourth-quarter sales that were above expectations, but the company said spending on new services and political battles would cut into profits.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
