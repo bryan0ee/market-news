@@ -1,6 +1,80 @@
 {
-  "last_updated": "2025-11-07T10:44:48.803Z",
+  "last_updated": "2025-11-07T13:30:33.739Z",
   "items": [
+    {
+      "ts": "2025-11-07T13:27:00.000Z",
+      "headline": "Where next for Big Tech stocks? Pay attention to bitcoin, says Citi.",
+      "url": "https://www.marketwatch.com/story/where-next-for-big-tech-stocks-pay-attention-to-bitcoin-says-citi-44bb15f4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The crypto is closely correlated with the Nasdaq",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T12:00:00.000Z",
+      "headline": "Gold has a shot at $5,000 if investors rekindle this popular trade",
+      "url": "https://www.marketwatch.com/story/gold-has-a-shot-at-5-000-if-investors-rekindle-this-popular-trade-55936975?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "It has been more than two weeks since gold prices notched record highs, but the debasement trade that has played a key role in the precious metal&#x2019;s rally this year is alive and well.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T12:41:00.000Z",
+      "headline": "This viral visualization of AI-driven job destruction might actually be &#x2018;the stupidest chart in the world&#x2019;",
+      "url": "https://www.marketwatch.com/story/why-a-viral-chart-about-ai-driven-job-destruction-might-actually-be-the-stupidest-chart-in-the-world-30f357da?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A viral chart that has been bouncing around social-media platforms like X over the past few weeks has caught the attention of investing professionals and amateur observers alike.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T12:00:00.000Z",
+      "headline": "Trade wars are dying down, but the U.S. economy is still licking its wounds",
+      "url": "https://www.marketwatch.com/story/trade-wars-are-dying-down-but-the-u-s-economy-is-still-licking-its-wounds-3c7766b0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The trade wars have died down, but they have not disappeared &#x2014; and that has left a cloud over the U.S. economy that&#x2019;s unlikely to go away soon.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T12:00:00.000Z",
+      "headline": "Meta&#x2019;s stock is the new &#x2018;Magnificent Seven&#x2019; doormat. Should you buy the dip?",
+      "url": "https://www.marketwatch.com/story/metas-stock-is-the-new-magnificent-seven-doormat-should-you-buy-the-dip-82068b28?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "Shares have slumped 17% since the company signaled aggressive AI spending ahead. While some are concerned, others see a prime buying opportunity.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T11:30:00.000Z",
+      "headline": "I invested $200K in my daughter&#x2019;s 529 plan. She doesn&#x2019;t want to go to college. What should I do with this money?",
+      "url": "https://www.marketwatch.com/story/i-invested-200k-in-my-daughters-529-plan-she-doesnt-want-to-go-to-college-what-should-i-do-with-this-money-780695a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Are there any other ways I can consider transferring the wealth to her?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-07T10:30:00.000Z",
       "headline": "I&#x2019;m 83 and have a monthly income of $3,800. My estranged wife wants me to join her in Colombia. Do I go?",
@@ -14,77 +88,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-11-07T11:00:00.000Z",
+      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
+      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-11-07T10:42:00.000Z",
-      "headline": "Jobless claims data isn&#x2019;t as bleak as Challenger report suggests",
+      "headline": "U.S. jobless-claims data are not as bleak as Challenger report suggests",
       "url": "https://www.marketwatch.com/story/jobless-claims-data-isnt-as-bleak-as-challenger-report-suggests-9ce67ba2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "U.S. jobless claims rose last week but didn&#x2019;t spike, according to investment banks crunching state-level data.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T01:20:00.000Z",
-      "headline": "Opendoor is an &#x2018;AI company,&#x2019; new CEO says. The stock is still falling after earnings.",
-      "url": "https://www.marketwatch.com/story/opendoor-is-an-ai-company-says-ceo-vowing-to-achieve-profitability-by-end-of-next-year-d8d4cbff?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Opendoor Technologies, the online real-estate platform whose stock has recently attracted a surge of meme-like attention, will ride the artificial-intelligence wave to profitability, according to its new chief executive.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T02:16:00.000Z",
-      "headline": "I invested $200K in my daughter&#x2019;s 529 plan. She doesn&#x2019;t want to go to college. What should I do with this money?",
-      "url": "https://www.marketwatch.com/story/i-invested-200k-in-my-daughters-529-plan-she-doesnt-want-to-go-to-college-what-should-i-do-with-this-money-780695a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Are there any other ways I can consider transferring the wealth to her?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T00:52:00.000Z",
-      "headline": "AI needs an innovative free market to grow &#x2014; and only one country offers it",
-      "url": "https://www.marketwatch.com/story/america-is-open-for-ais-business-china-and-europe-arent-even-close-03c5d271?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "China&#x2019;s top-down approach and Europe&#x2019;s regulations only stifle AI&#x2019;s growth.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T00:44:00.000Z",
-      "headline": "Stablecoin&#x2019;s promoters bank on it becoming digital cash &#x2014; or a risky crypto play",
-      "url": "https://www.marketwatch.com/story/stablecoins-promoters-want-you-using-it-like-cash-what-could-possibly-go-wrong-85619768?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Stablecoin could go mainstream or morph into yet another leveraged speculation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T00:37:00.000Z",
-      "headline": "The U.S. just gave away this key leverage over China &#x2014; and it&#x2019;s a costly mistake",
-      "url": "https://www.marketwatch.com/story/the-u-s-just-gave-up-this-key-leverage-over-china-and-its-a-costly-mistake-d3aaa841?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Access to America&#x2019;s ports &#x2014; like its markets &#x2014; is a privilege that must be protected.",
+      "summary_en": "Citigroup and Goldman Sachs both flag a rise in continuing unemployment-benefits claims as indicating that those who are jobless are finding it hard to find new employment.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -97,30 +121,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by First Security Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T01:21:00.000Z",
-      "headline": "Airbnb suggests consumers are starting to feel better about taking vacations. Here&#x2019;s why profits could still take a hit.",
-      "url": "https://www.marketwatch.com/story/airbnb-suggests-consumers-are-starting-to-feel-better-about-vacations-heres-why-profits-could-still-take-a-hit-36320b1c?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Vacation-rental platform Airbnb Inc. on Thursday said demand held up through October and forecast fourth-quarter sales that were above expectations, but the company said spending on new services and political battles would cut into profits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T02:14:00.000Z",
-      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
-      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -160,15 +160,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T00:54:00.000Z",
-      "headline": "Why a little-known link between gold and platinum should worry stock investors",
-      "url": "https://www.marketwatch.com/story/this-little-known-connection-between-gold-and-platinum-spells-big-trouble-for-stocks-37b392ea?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-11-07T01:21:00.000Z",
+      "headline": "Airbnb suggests consumers are starting to feel better about taking vacations. Here&#x2019;s why profits could still take a hit.",
+      "url": "https://www.marketwatch.com/story/airbnb-suggests-consumers-are-starting-to-feel-better-about-vacations-heres-why-profits-could-still-take-a-hit-36320b1c?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The gold/platinum ratio is an excellent market-timing indicator &#x2014; and recently had one of its biggest drops ever.",
+      "summary_en": "Vacation-rental platform Airbnb Inc. on Thursday said demand held up through October and forecast fourth-quarter sales that were above expectations, but the company said spending on new services and political battles would cut into profits.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
