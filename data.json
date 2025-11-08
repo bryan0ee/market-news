@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-11-08T10:40:46.145Z",
+  "last_updated": "2025-11-08T13:25:37.828Z",
   "items": [
+    {
+      "ts": "2025-11-08T13:00:00.000Z",
+      "headline": "Here&#x2019;s what the U.S.-China trade truce really means for the U.S. soybean market",
+      "url": "https://www.marketwatch.com/story/heres-what-the-u-s-china-trade-truce-really-means-for-the-u-s-soybean-market-627a6cfe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "China has made a pledge to buy U.S. soybeans over the next few years, fueling hope for farmers who have been caught in the middle of a trade war between the two nations. Yet the damage to the U.S. agricultural market may have already been done.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-08T12:30:00.000Z",
+      "headline": "4 things worrying investors as U.S. stocks see worst start to a month since April",
+      "url": "https://www.marketwatch.com/story/4-things-worrying-investors-as-u-s-stocks-see-worst-start-to-a-month-since-april-8b0ca874?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The U.S. stock market is off to its worst start to a month since April as investors grapple with the longest U.S. government shutdown in history, among other worries.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-08T12:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m in a financial mess&#x2019;: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
+      "url": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We can move 10 miles south, where property is much cheaper.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-08T12:00:00.000Z",
+      "headline": "Small businesses say this will likely be the last year they can keep prices from going up",
+      "url": "https://www.marketwatch.com/story/small-businesses-say-this-will-likely-be-the-last-year-they-can-keep-prices-from-going-up-7927e3e6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "After doing everything they can to keep prices from rising this holiday season, many small businesses say 2025 may be the last year they can pull it off.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-07T22:03:00.000Z",
       "headline": "Expedia is treating AI as a friend rather than a mortal enemy &#x2014; and its stock is soaring",
@@ -11,18 +59,6 @@
         "ED"
       ],
       "summary_en": "Expedia shares climbed to a record close as the online travel agent has embraced AI to help boost business, rather than try to find ways to beat it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T21:40:00.000Z",
-      "headline": "Tech stocks just had their worst week since the April tariff selloff. Why it&#x2019;s about time.",
-      "url": "https://www.marketwatch.com/story/tech-stocks-are-having-their-worst-week-since-the-april-tariff-selloff-why-its-about-time-6334cbc3?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Strong tech earnings weren&#x2019;t enough to reassure investors worried about high valuations.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -74,30 +110,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T21:40:00.000Z",
-      "headline": "The real risk to your bond fund isn&#x2019;t defaults. It&#x2019;s you.",
-      "url": "https://www.marketwatch.com/story/the-real-risk-to-your-bond-fund-isnt-defaults-its-you-af177815?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Charlie Garcia responds to a reader worried about a bond fund&#x2019;s lower-quality holdings.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T21:35:00.000Z",
-      "headline": "Even with all the flight cancellations, airline stocks had a surprisingly good week",
-      "url": "https://www.marketwatch.com/story/even-with-all-the-flight-cancellations-airline-stocks-are-having-a-surprisingly-good-week-eab6d740?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "For Wall Street, shutdown-related flight cancellations may not be all that scary.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-06T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement actions with Belt Valley Bank and The Halstead Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251106a.htm",
@@ -143,18 +155,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "The token&#x2019;s break below $100,000 earlier this week could be a warning of more losses ahead, one analyst says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T20:44:00.000Z",
-      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
-      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
