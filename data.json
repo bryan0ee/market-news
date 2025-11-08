@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07T23:25:55.039Z",
+  "last_updated": "2025-11-08T10:40:46.145Z",
   "items": [
     {
       "ts": "2025-11-07T22:03:00.000Z",
@@ -14,18 +14,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T22:56:00.000Z",
-      "headline": "As stocks wobbled, the S&P 500 held a critical threshold. Here&#x2019;s what history says happens next.",
-      "url": "https://www.marketwatch.com/story/as-stocks-wobbled-the-s-p-500-held-a-critical-threshold-heres-what-history-says-happens-next-872e02f9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The benchmark index has been above its 50-day moving average for 133 sessions, the longest streak since 2007. But that nearly came to an end on Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-07T21:40:00.000Z",
       "headline": "Tech stocks just had their worst week since the April tariff selloff. Why it&#x2019;s about time.",
       "url": "https://www.marketwatch.com/story/tech-stocks-are-having-their-worst-week-since-the-april-tariff-selloff-why-its-about-time-6334cbc3?mod=mw_rss_topstories",
@@ -35,6 +23,18 @@
         "ED"
       ],
       "summary_en": "Strong tech earnings weren&#x2019;t enough to reassure investors worried about high valuations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T22:56:00.000Z",
+      "headline": "As stocks wobbled, the S&P 500 held a critical threshold. Here&#x2019;s what history says happens next.",
+      "url": "https://www.marketwatch.com/story/as-stocks-wobbled-the-s-p-500-held-a-critical-threshold-heres-what-history-says-happens-next-872e02f9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The benchmark index has been above its 50-day moving average for 133 sessions, the longest streak since 2007. But that nearly came to an end on Friday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -98,30 +98,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-07T22:47:00.000Z",
-      "headline": "Bitcoin rebounds after a dip into bear-market territory. Are buyers coming back for crypto?",
-      "url": "https://www.marketwatch.com/story/bitcoins-bear-market-is-exposing-a-new-buy-the-dip-weakness-in-markets-8db02ff3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The token&#x2019;s break below $100,000 earlier this week could be a warning of more losses ahead, one analyst says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-07T20:44:00.000Z",
-      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
-      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-06T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement actions with Belt Valley Bank and The Halstead Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251106a.htm",
@@ -155,6 +131,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T22:47:00.000Z",
+      "headline": "Bitcoin rebounds after a dip into bear-market territory. Are buyers coming back for crypto?",
+      "url": "https://www.marketwatch.com/story/bitcoins-bear-market-is-exposing-a-new-buy-the-dip-weakness-in-markets-8db02ff3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The token&#x2019;s break below $100,000 earlier this week could be a warning of more losses ahead, one analyst says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-07T20:44:00.000Z",
+      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
+      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
