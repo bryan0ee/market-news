@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-11-09T10:40:23.489Z",
+  "last_updated": "2025-11-09T13:25:44.389Z",
   "items": [
-    {
-      "ts": "2025-11-09T02:45:00.000Z",
-      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
-      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
     {
       "ts": "2025-11-08T21:27:00.000Z",
       "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
@@ -23,18 +11,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-09T02:30:00.000Z",
-      "headline": "&#x2018;I&#x2019;m in a financial mess&#x2019;: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
-      "url": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We can move 10 miles south, where property is much cheaper.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,6 +108,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-09T02:45:00.000Z",
+      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
+      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-09T02:30:00.000Z",
+      "headline": "&#x2018;I&#x2019;m in a financial mess&#x2019;: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
+      "url": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We can move 10 miles south, where property is much cheaper.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
