@@ -1,118 +1,81 @@
 {
-  "last_updated": "2025-11-10T13:33:24.623Z",
+  "last_updated": "2025-11-10T23:27:32.821Z",
   "items": [
     {
-      "ts": "2025-11-10T13:18:00.000Z",
-      "headline": "Here&#x2019;s how high tariff rates would have to rise to bring manufacturing back to its glory days. Even Trump would be shocked.",
-      "url": "https://www.marketwatch.com/story/heres-how-high-tariff-rates-would-have-to-rise-to-bring-manufacturing-back-to-its-glory-days-even-trump-would-be-shocked-09cca30f?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-11-10T23:21:00.000Z",
+      "headline": "CoreWeave beat earnings, but a data-center delay is dragging on shares",
+      "url": "https://www.marketwatch.com/story/coreweaves-earnings-beat-shows-that-the-ai-trade-is-far-from-over-51c141b1?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Economists at UBS pointed to analysis done by the center-right American Enterprise Institute, which calculated that tariffs would have to be set at 42.5% to level out manufacturing imports and exports.",
+      "summary_en": "While CoreWeave locked down several large cloud deals in the third quarter, an unexpected delay in delivering capacity has some investors concerned",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-10T13:10:00.000Z",
-      "headline": "Who is reshaping the way we live, work, spend and invest? Meet the MarketWatch 25.",
-      "url": "https://www.marketwatch.com/story/who-is-reshaping-the-way-we-live-work-spend-and-invest-meet-the-marketwatch-25-94072730?mod=mw_rss_topstories",
+      "ts": "2025-11-10T23:17:00.000Z",
+      "headline": "Stocks surge on hopes for an end to the government shutdown. Why the reopening could get tricky.",
+      "url": "https://www.marketwatch.com/story/stocks-surge-on-hopes-for-an-end-to-the-government-shutdown-why-the-reopening-could-get-tricky-e4aeb782?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A trove of delayed U.S. economic data could also spark volatility",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T21:40:00.000Z",
+      "headline": "Here&#x2019;s when to expect key jobs and inflation reports after the government reopens",
+      "url": "https://www.marketwatch.com/story/heres-when-to-expect-key-jobs-and-inflation-reports-after-the-government-reopens-26da416c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The seeming end of the government shutdown means Wall Street could soon get flooded with a raft of crucial reports on the economy that were delayed during the impasse. First up: September employment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T21:24:00.000Z",
+      "headline": "Electric bills are shooting up more than 7% this winter. Here&#x2019;s what you can do now to lower your costs.",
+      "url": "https://www.marketwatch.com/story/electric-bills-are-shooting-up-more-than-7-this-winter-heres-what-you-can-do-now-to-lower-your-costs-3a7cbf3a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Utility costs are on the rise, and with winter on the way, they are adding another financial burden to households already facing mounting debts and a weakening job market, while consumer sentiment slides.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T20:50:00.000Z",
+      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The leaders and thinkers whose ideas have impacted the way the government, companies and American society at large are grappling with technological change, higher prices and more.",
+      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-10T13:00:00.000Z",
-      "headline": "I have $12K in credit-card debt due to health issues and a 30% pay cut. Is it finally time to take a loan from my 401(k)?",
-      "url": "https://www.marketwatch.com/story/i-have-12k-in-credit-card-debt-due-to-health-issues-and-a-30-pay-cut-is-it-finally-time-to-take-a-loan-from-my-401-k-e2dec117?mod=mw_rss_topstories",
+      "ts": "2025-11-10T20:09:00.000Z",
+      "headline": "Medicare fraud spikes during open enrollment. Here&#x2019;s how to protect yourself.",
+      "url": "https://www.marketwatch.com/story/medicare-fraud-spikes-during-open-enrollment-heres-how-to-protect-yourself-f52f4906?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Because of a downturn in my industry, my pay was cut 30%.&#x201d;",
+      "summary_en": "The annual marketing blitz puts beneficiaries at a higher risk of falling victim to scams.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-10T12:23:00.000Z",
-      "headline": "Chanos declares victory in his bet vs. Strategy&#x2019;s Saylor",
-      "url": "https://www.marketwatch.com/story/chanos-declares-victory-in-his-bet-vs-strategys-saylor-591f9af4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Questions about Microstrategy&#x2019;s business model, copycat products and a stalling in the bitcoin price might have contributed to the decline in MSTR&#x2019;s mNAV.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T12:00:00.000Z",
-      "headline": "The lone bear on Meta&#x2019;s stock foresaw its struggles &#x2014; and sees more trouble ahead",
-      "url": "https://www.marketwatch.com/story/the-lone-bear-on-metas-stock-foresaw-its-struggles-and-sees-more-trouble-ahead-5e21c791?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "BNP Paribas&#x2019;s Stefan Slowinski warned about Meta&#x2019;s unchecked AI spending. Now he thinks the stock&#x2019;s recent selloff is just the beginning.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T13:05:00.000Z",
-      "headline": "Pfizer won its fight to buy an obesity-drug maker. It took an extra $1.7 billion and a phone call.",
-      "url": "https://www.marketwatch.com/story/pfizer-won-its-fight-to-buy-an-obesity-drug-maker-it-took-an-extra-1-7-billion-and-a-phone-call-a9670e80?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Pfizer is buying its way back into the obesity-drug game after fighting off a rival bid from Novo Nordisk to buy Metsera, with more money and help from the Trump administration.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T12:47:00.000Z",
-      "headline": "By one measure the bull market is 16 years old. Here&#x2019;s why investors face a &#x2018;challenging decade&#x2019; ahead.",
-      "url": "https://www.marketwatch.com/story/by-one-measure-the-bull-market-is-16-years-old-heres-why-investors-face-a-challenging-decade-ahead-f6a668c9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Some of the long-term supportive tailwinds are shifting, according to MRB",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T12:11:00.000Z",
-      "headline": "How the math would work on a 50-year mortgage that Trump envisions",
-      "url": "https://www.marketwatch.com/story/how-the-math-would-work-on-a-50-year-mortgage-that-trump-envisions-fcb97d68?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The key question, beyond the logistics of actually introducing such a product, is how much of a benefit in terms of affordability would it provide.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T12:06:00.000Z",
-      "headline": "Goldman Sachs insists AI is not a bubble yet, stocks still have room to run",
-      "url": "https://www.marketwatch.com/story/goldman-sachs-insists-ai-is-not-a-bubble-yet-stocks-still-have-room-to-run-7cab1d93?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Goldman Sachs note thinks there&#x2019;s still plenty of scope for the current bonanza in AI stocks to continue but investors should be wary of the risks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T11:30:00.000Z",
-      "headline": "I found an out-of-state buyer for my grandmother&#x2019;s classic car. He wants me to cash a check. Is this a scam?",
+      "ts": "2025-11-10T21:30:00.000Z",
+      "headline": "I found an out-of-state buyer for my grandmother&#x2019;s classic car. He wants me to cash a check. Is this a financial scam?",
       "url": "https://www.marketwatch.com/story/i-found-an-out-of-state-buyer-for-my-grandmothers-classic-car-he-wants-me-to-cash-a-check-is-this-a-scam-b958ee25?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -120,6 +83,42 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;Once the check clears, the buyer will send a trailer to pick up the car.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T21:05:00.000Z",
+      "headline": "Bond market may set tone for stocks with $125 billion in Treasury auctions",
+      "url": "https://www.marketwatch.com/story/bond-market-may-set-tone-for-stocks-with-125-billion-in-treasury-auctions-ahead-8cb7e522?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There&#x2019;s still a lack of U.S. economic data during the government shutdown, which makes Treasury auctions all the more important to watch.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T20:06:00.000Z",
+      "headline": "Warren Buffett is giving away $1.4 billion just before he retires, and has nearly $150 billion to go",
+      "url": "https://www.marketwatch.com/story/warren-buffett-is-giving-away-1-4-billion-just-before-he-retires-and-has-nearly-150-billion-to-go-9af87312?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Warren Buffett says he&#x2019;s giving away about $1.4 billion to four family foundations in the weeks before he retires, then will eventually give away the rest of his $150 billion fortune.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T19:59:00.000Z",
+      "headline": "&#x2018;I&#x2019;m in a financial mess&#x2019;: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
+      "url": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We can move 10 miles south, where property is much cheaper.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
