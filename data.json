@@ -1,8 +1,68 @@
 {
-  "last_updated": "2025-11-09T23:25:20.570Z",
+  "last_updated": "2025-11-10T10:46:25.221Z",
   "items": [
     {
-      "ts": "2025-11-09T22:58:00.000Z",
+      "ts": "2025-11-10T10:30:00.000Z",
+      "headline": "I&#x2019;m in my 50s, happily divorced, and fell in love with an old school friend. Do we marry?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have a mortgage balance of $600,000 on a $1.7 million house.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T10:02:00.000Z",
+      "headline": "L.A. Lakers coach JJ Redick lists his Brooklyn &#x2018;trophy&#x2019; penthouse for $6.2 million",
+      "url": "https://www.marketwatch.com/story/l-a-lakers-coach-jj-redick-lists-his-brooklyn-trophy-penthouse-for-6-2-million-1ecff28c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Redick&#x2019;s lavish New York penthouse has four bedrooms and 4.5 bathrooms and is perched atop a seven-story converted warehouse.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T10:02:00.000Z",
+      "headline": "Leonardo DiCaprio lowers the price of his Malibu beach house to $20 million",
+      "url": "https://www.marketwatch.com/story/leonardo-dicaprio-lowers-the-price-of-his-malibu-beach-house-to-20-million-832fb341?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "DiCaprio put the &#x201c;rare and special&#x201d; waterfront dwelling on the market in July for $23 million.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T04:06:00.000Z",
+      "headline": "U.S. stock futures rise as Senate advances deal to end government shutdown",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-amid-new-hope-of-imminent-deal-to-end-government-shutdown-3f66f418?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock futures gained Sunday, despite coming off the worst week for tech stocks since April, as investors welcomed a tentative Senate deal that may soon end the government shutdown.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T04:46:00.000Z",
+      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
+      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-09T23:56:00.000Z",
       "headline": "Trump floats idea of $2,000 tariff dividend checks to most Americans",
       "url": "https://www.marketwatch.com/story/trump-floats-idea-of-2-000-tariff-dividend-checks-to-most-americans-e8ec5952?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -14,15 +74,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-09T23:20:00.000Z",
-      "headline": "U.S. stock futures rise amid new hope of imminent deal to end government shutdown",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-amid-new-hope-of-imminent-deal-to-end-government-shutdown-3f66f418?mod=mw_rss_topstories",
+      "ts": "2025-11-10T00:22:00.000Z",
+      "headline": "More than 2,500 flights were cancelled on Sunday. Business travelers are scrambling to deal with the air-traffic cutbacks.",
+      "url": "https://www.marketwatch.com/story/ive-got-a-plan-a-b-c-d-e-and-f-business-travelers-are-frantically-working-around-air-travel-cutbacks-a8d04155?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. stock futures gained Sunday, despite coming off the worst week for tech stocks since April, as investors clung to indications that a deal may be in the works to end the government shutdown.",
+      "summary_en": "From flying privately to gassing up cars, different ways of getting from one destination to another are quickly being considered.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,18 +98,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-09T20:15:00.000Z",
-      "headline": "My siblings don&#x2019;t earn nearly as much as me. Should my parents leave me less money in their will?",
-      "url": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m concerned that my parents are going to strike me from any will.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-09T20:34:00.000Z",
       "headline": "&#x2018;We can&#x2019;t afford to buy a house&#x2019;: My husband and I are building a house on my mother-in-law&#x2019;s land. Are we asking for trouble?",
       "url": "https://www.marketwatch.com/story/housing-is-extremely-expensive-were-building-a-house-on-my-mother-in-laws-land-are-we-asking-for-trouble-d58c70e2?mod=mw_rss_topstories",
@@ -59,66 +107,6 @@
         "COST"
       ],
       "summary_en": "&#x201c;A single-family home where we live costs $600,000 or more.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-09T20:16:00.000Z",
-      "headline": "I&#x2019;m 83 and will have $500K if I sell my house. My estranged wife wants me to join her in Colombia. Do I go?",
-      "url": "https://www.marketwatch.com/story/im-83-and-have-a-monthly-income-of-3-800-my-estranged-wife-wants-me-to-join-her-in-colombia-do-i-go-a5850fe9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I can just barely handle my expenses with a mortgage payment of $984 and an income of $3,800.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-09T19:45:00.000Z",
-      "headline": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I saw her transfer $150 after we were done shopping.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-09T19:00:00.000Z",
-      "headline": "I invested $200K in my daughter&#x2019;s 529 plan. She doesn&#x2019;t want to go to college. What should I do with this money?",
-      "url": "https://www.marketwatch.com/story/i-invested-200k-in-my-daughters-529-plan-she-doesnt-want-to-go-to-college-what-should-i-do-with-this-money-780695a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Are there any other ways I can consider transferring the wealth to her?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-09T20:31:00.000Z",
-      "headline": "The &#x2018;buy everything&#x2019; rally now feels like an uphill battle, putting bull market to the test",
-      "url": "https://www.marketwatch.com/story/the-bull-market-in-stocks-and-the-buy-everything-rally-now-feel-like-an-uphill-battle-a4352bb0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Tech and speculative assets are now in focus after the Nasdaq&#x2019;s worst week since April.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-09T19:25:00.000Z",
-      "headline": "I&#x2019;m selling my condo and have $130K to invest. Is this a bad time to invest in the S&P 500?",
-      "url": "https://www.marketwatch.com/story/im-selling-my-condo-and-have-130k-to-invest-is-this-a-bad-time-to-invest-in-the-s-p-500-2f96163e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x2018;What is the smartest way to create income with this money?&#x2019;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,6 +143,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-09T20:31:00.000Z",
+      "headline": "The &#x2018;buy everything&#x2019; rally now feels like an uphill battle, putting bull market to the test",
+      "url": "https://www.marketwatch.com/story/the-bull-market-in-stocks-and-the-buy-everything-rally-now-feel-like-an-uphill-battle-a4352bb0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Tech and speculative assets are now in focus after the Nasdaq&#x2019;s worst week since April.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
