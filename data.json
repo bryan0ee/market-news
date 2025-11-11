@@ -1,125 +1,124 @@
 {
-  "last_updated": "2025-11-11T13:32:36.301Z",
+  "last_updated": "2025-11-11T23:26:44.876Z",
   "items": [
     {
-      "ts": "2025-11-11T13:12:00.000Z",
-      "headline": "CoreWeave beats on earnings, but a data-center delay is dragging on the stock",
-      "url": "https://www.marketwatch.com/story/coreweaves-earnings-beat-shows-that-the-ai-trade-is-far-from-over-51c141b1?mod=mw_rss_topstories",
+      "ts": "2025-11-11T21:28:00.000Z",
+      "headline": "Dow&#x2019;s banner day points to investor pivot beyond S&P 500&#x2019;s top winners",
+      "url": "https://www.marketwatch.com/story/dows-banner-day-points-to-investor-pivot-beyond-s-p-500s-top-winners-4bce59df?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "While CoreWeave locked down several large cloud deals in the third quarter, an unexpected delay in delivering capacity has some investors concerned",
+      "summary_en": "The Dow Jones Industrial Average closed at a fresh record high Tuesday as investors piled into stocks beyond the hot AI plays",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-11T13:26:00.000Z",
-      "headline": "Is the stock market open today for Veterans Day? Will banks be closed?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-veterans-day-will-banks-be-closed-69605fcd?mod=mw_rss_topstories",
+      "ts": "2025-11-11T22:27:00.000Z",
+      "headline": "Why Target&#x2019;s price cuts on thousands of items are more than just a sales gimmick",
+      "url": "https://www.marketwatch.com/story/why-targets-price-cuts-on-thousands-of-items-are-more-than-just-a-sales-gimmick-be32cd7d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Here&#x2019;s how trading hours are being affected by the Nov. 11 holiday, which honors those who have served in the military",
+      "summary_en": "Coupled with the company&#x2019;s recent layoff announcement, the price cuts reflect a decisive move by the incoming CEO to change the status quo.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-11T13:23:00.000Z",
-      "headline": "Here&#x2019;s when to expect shutdown-delayed jobs and inflation reports once the government reopens",
-      "url": "https://www.marketwatch.com/story/heres-when-to-expect-key-jobs-and-inflation-reports-after-the-government-reopens-26da416c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The seeming end of the government shutdown means Wall Street could soon get flooded with a raft of crucial reports on the economy that were delayed during the impasse. First up: September employment.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-11T13:00:00.000Z",
-      "headline": "She survived breast cancer. Now her AI tool could help you skip annual mammograms.",
-      "url": "https://www.marketwatch.com/story/she-survived-breast-cancer-now-her-ai-tool-could-help-you-skip-annual-mammograms-dc532960?mod=mw_rss_topstories",
+      "ts": "2025-11-11T22:05:00.000Z",
+      "headline": "My husband, 73, is giving me a life estate in his home, yet leaving his son a $200K Porsche. Is this cause for divorce?",
+      "url": "https://www.marketwatch.com/story/i-am-considering-calling-it-quits-my-husband-73-is-only-giving-me-a-life-estate-in-his-home-but-leaving-his-son-a-200k-porsche-9f50ddba?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "MIT computer-science professor Regina Barzilay lands on the MarketWatch 25 list of people who are reshaping how we live, work, save, spend and invest",
+      "summary_en": "&#x201c;I am not listed on his bank accounts.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-11T11:47:00.000Z",
-      "headline": "Michael Burry says Oracle and Meta are wildly overvalued. Here&#x2019;s the root of his criticism.",
-      "url": "https://www.marketwatch.com/story/michael-burrys-latest-ai-criticism-is-on-depreciation-what-its-all-about-fbc8893a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "Michael Burry, the hedge-fund manager of &#x201c;The Big Short&#x201d; fame who is betting against two of the stock market&#x2019;s favorite AI plays, is back with a new criticism of valuations in the sector.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-11T11:15:00.000Z",
-      "headline": "SoftBank fully cashed out its Nvidia stake for an even bigger AI bet",
-      "url": "https://www.marketwatch.com/story/softbank-fully-cashed-out-its-nvidia-stake-for-an-even-bigger-ai-bet-aaffeaa5?mod=mw_rss_topstories",
+      "ts": "2025-11-11T22:05:00.000Z",
+      "headline": "Why cutting drug prices is pushing Eli Lilly&#x2019;s stock to all-time highs",
+      "url": "https://www.marketwatch.com/story/why-cutting-drug-prices-is-pushing-eli-lillys-stock-toward-an-all-time-high-edc0c453?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "SoftBank Group , owned by the richest man in Japan, Masayoshi Son, revealed on Tuesday it had sold its entire stake in Nvidia last month &#x2014; for an even bigger bet on artificial intelligence.",
+      "summary_en": "Even by dramatically lowering the prices of some of its medications, the drug giant is still outpacing its rivals and nearing a trillion-dollar valuation.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-11T13:16:00.000Z",
-      "headline": "Wells Fargo says lock in gains in tech and invest here instead",
-      "url": "https://www.marketwatch.com/story/wells-fargo-says-lock-in-gains-in-tech-and-invest-here-instead-58a3e45b?mod=mw_rss_topstories",
+      "ts": "2025-11-11T22:01:00.000Z",
+      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-11T23:08:00.000Z",
+      "headline": "&#x2018;I&#x2019;m in a financial mess&#x2019;: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
+      "url": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Wells Fargo Investment Institute has taken a step back on tech stocks after a strong run since April. They have better ideas on where to put money right now.",
+      "summary_en": "&#x201c;We can move 10 miles south, where property is much cheaper.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-11T12:15:00.000Z",
-      "headline": "Buying the dip has been especially successful for traders this year. Can it last through the final weeks of 2025?",
-      "url": "https://www.marketwatch.com/story/buying-the-dip-has-been-especially-successful-for-traders-this-year-can-it-last-through-the-final-weeks-of-2025-6d0a9b52?mod=mw_rss_topstories",
+      "ts": "2025-11-11T22:45:00.000Z",
+      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
+      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Buying the dip has long been a winning strategy for investors, but it is doing particularly well this year, according to data from Fundstrat.",
+      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-11T11:13:00.000Z",
-      "headline": "Quality of life, even more than affordability, elevates this city to the best place to retire",
-      "url": "https://www.marketwatch.com/story/quality-of-life-even-more-than-affordability-elevates-this-city-to-the-best-place-to-retire-035c04f8?mod=mw_rss_topstories",
+      "ts": "2025-11-11T20:55:00.000Z",
+      "headline": "McDonald&#x2019;s, Tyson and other companies have gotten more anxious about the fallout from SNAP delays",
+      "url": "https://www.marketwatch.com/story/mcdonalds-tyson-and-other-companies-have-gotten-more-anxious-about-the-fallout-from-snap-delays-a1c1894b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "This Midwest locale nabs the top spot for retirees, but Florida and Texas still prove popular.",
+      "summary_en": "One analyst says payment delays across states are likely, even after the government&#x2019;s reopening.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-11T10:56:00.000Z",
-      "headline": "Trump says &#x2018;polls are fake&#x2019; after Ingraham says people are anxious over economy. What the data says.",
-      "url": "https://www.marketwatch.com/story/trump-says-polls-are-fake-after-ingraham-says-people-are-anxious-over-economy-what-the-data-says-33110332?mod=mw_rss_topstories",
+      "ts": "2025-11-11T20:39:00.000Z",
+      "headline": "My friends say it&#x2019;s weird I&#x2019;ve kept my finances separate from my husband&#x2019;s for over 10 years. Should we get a joint account?",
+      "url": "https://www.marketwatch.com/story/my-friends-say-its-weird-ive-kept-my-finances-separate-from-my-husbands-for-over-10-years-should-we-get-a-joint-account-a3a4808e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A viral clip from President Donald Trump&#x2019;s interview with Fox News host Laura Ingraham shows the president on defense over the state of the economy.",
+      "summary_en": "Creating a joint bank account from which you automate your bill payments may help with the surface-level issue of covering utilities. But the underlying problem here is that you don&#x2019;t feel like you and your husband are on the same team.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-11T20:16:00.000Z",
+      "headline": "What&#x2019;s the right time of year to take my RMD?",
+      "url": "https://www.marketwatch.com/story/whats-the-right-time-of-year-to-take-my-rmd-13a4187d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "An important factor is what you plan to do with the money once it is out of your IRA.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board finalizes changes to its supervisory rating framework for large bank holding companies",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-04T16:00:00.000Z",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251104a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
