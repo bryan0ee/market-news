@@ -1,9 +1,33 @@
 {
-  "last_updated": "2025-11-10T23:27:32.821Z",
+  "last_updated": "2025-11-11T10:46:26.237Z",
   "items": [
     {
-      "ts": "2025-11-10T23:21:00.000Z",
-      "headline": "CoreWeave beat earnings, but a data-center delay is dragging on shares",
+      "ts": "2025-11-11T10:04:00.000Z",
+      "headline": "Michael Burry&#x2019;s latest AI criticism is on depreciation. What it&#x2019;s all about.",
+      "url": "https://www.marketwatch.com/story/michael-burrys-latest-ai-criticism-is-on-depreciation-what-its-all-about-fbc8893a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Michael Burry, the hedge-fund manager of &#x201c;The Big Short&#x201d; fame who is betting against two of the stock market&#x2019;s favorite AI plays, is back with a new criticism of valuations in the sector.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-11T10:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m in a financial mess&#x2019;: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
+      "url": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We can move 10 miles south, where property is much cheaper.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-11T01:20:00.000Z",
+      "headline": "CoreWeave beats on earnings, but a data-center delay is dragging on the stock",
       "url": "https://www.marketwatch.com/story/coreweaves-earnings-beat-shows-that-the-ai-trade-is-far-from-over-51c141b1?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
@@ -11,6 +35,42 @@
         "ED"
       ],
       "summary_en": "While CoreWeave locked down several large cloud deals in the third quarter, an unexpected delay in delivering capacity has some investors concerned",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-11T01:58:00.000Z",
+      "headline": "I&#x2019;m 83 and will have $500K if I sell my house. My estranged wife wants me to join her in Colombia. Do I go?",
+      "url": "https://www.marketwatch.com/story/im-83-and-have-a-monthly-income-of-3-800-my-estranged-wife-wants-me-to-join-her-in-colombia-do-i-go-a5850fe9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I can just barely handle my expenses with a mortgage payment of $984 and an income of $3,800.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-11T01:45:00.000Z",
+      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-10T23:57:00.000Z",
+      "headline": "Visa, Mastercard reach new settlement with merchants. Will it shake up credit-card rewards?",
+      "url": "https://www.marketwatch.com/story/visa-mastercard-reach-new-settlement-with-merchants-will-it-shake-up-credit-card-rewards-2c0d018a?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A proposed settlement in a long-running merchant lawsuit would give stores more freedom to block rewards cards &#x2014; but it remains to be seen if they&#x2019;d risk angering customers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -26,99 +86,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-10T21:40:00.000Z",
-      "headline": "Here&#x2019;s when to expect key jobs and inflation reports after the government reopens",
-      "url": "https://www.marketwatch.com/story/heres-when-to-expect-key-jobs-and-inflation-reports-after-the-government-reopens-26da416c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The seeming end of the government shutdown means Wall Street could soon get flooded with a raft of crucial reports on the economy that were delayed during the impasse. First up: September employment.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T21:24:00.000Z",
-      "headline": "Electric bills are shooting up more than 7% this winter. Here&#x2019;s what you can do now to lower your costs.",
-      "url": "https://www.marketwatch.com/story/electric-bills-are-shooting-up-more-than-7-this-winter-heres-what-you-can-do-now-to-lower-your-costs-3a7cbf3a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Utility costs are on the rise, and with winter on the way, they are adding another financial burden to households already facing mounting debts and a weakening job market, while consumer sentiment slides.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T20:50:00.000Z",
-      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
-      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T20:09:00.000Z",
-      "headline": "Medicare fraud spikes during open enrollment. Here&#x2019;s how to protect yourself.",
-      "url": "https://www.marketwatch.com/story/medicare-fraud-spikes-during-open-enrollment-heres-how-to-protect-yourself-f52f4906?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The annual marketing blitz puts beneficiaries at a higher risk of falling victim to scams.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T21:30:00.000Z",
-      "headline": "I found an out-of-state buyer for my grandmother&#x2019;s classic car. He wants me to cash a check. Is this a financial scam?",
-      "url": "https://www.marketwatch.com/story/i-found-an-out-of-state-buyer-for-my-grandmothers-classic-car-he-wants-me-to-cash-a-check-is-this-a-scam-b958ee25?mod=mw_rss_topstories",
+      "ts": "2025-11-11T02:32:00.000Z",
+      "headline": "The government shutdown looks on track to end this week. A House vote is the remaining hurdle.",
+      "url": "https://www.marketwatch.com/story/the-government-shutdown-looks-on-track-to-end-this-week-here-are-key-remaining-hurdles-d55815ee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Once the check clears, the buyer will send a trailer to pick up the car.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T21:05:00.000Z",
-      "headline": "Bond market may set tone for stocks with $125 billion in Treasury auctions",
-      "url": "https://www.marketwatch.com/story/bond-market-may-set-tone-for-stocks-with-125-billion-in-treasury-auctions-ahead-8cb7e522?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There&#x2019;s still a lack of U.S. economic data during the government shutdown, which makes Treasury auctions all the more important to watch.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T20:06:00.000Z",
-      "headline": "Warren Buffett is giving away $1.4 billion just before he retires, and has nearly $150 billion to go",
-      "url": "https://www.marketwatch.com/story/warren-buffett-is-giving-away-1-4-billion-just-before-he-retires-and-has-nearly-150-billion-to-go-9af87312?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Warren Buffett says he&#x2019;s giving away about $1.4 billion to four family foundations in the weeks before he retires, then will eventually give away the rest of his $150 billion fortune.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-10T19:59:00.000Z",
-      "headline": "&#x2018;I&#x2019;m in a financial mess&#x2019;: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
-      "url": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We can move 10 miles south, where property is much cheaper.&#x201d;",
+      "summary_en": "The record-setting government shutdown appears on course to conclude in a matter of days.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,6 +131,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement actions with Riverbend Financial Corporation, Northwest Bancorporation of Illinois, Inc., and First Citizens Bank of Butte",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-11T01:26:00.000Z",
+      "headline": "I found an out-of-state buyer for my grandmother&#x2019;s classic car. He wants me to cash a check. Is this a financial scam?",
+      "url": "https://www.marketwatch.com/story/i-found-an-out-of-state-buyer-for-my-grandmothers-classic-car-he-wants-me-to-cash-a-check-is-this-a-scam-b958ee25?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Once the check clears, the buyer will send a trailer to pick up the car.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-11T01:19:00.000Z",
+      "headline": "Beyond Meat&#x2019;s losses widen as demand shrinks. Is its meme-stock run over?",
+      "url": "https://www.marketwatch.com/story/beyond-meats-losses-widen-as-demand-shrinks-is-its-meme-stock-run-over-df32a960?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Beyond Meat is selling fewer products at fewer outlets as its struggles continue.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
