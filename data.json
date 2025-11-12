@@ -1,100 +1,124 @@
 {
-  "last_updated": "2025-11-12T10:47:42.635Z",
+  "last_updated": "2025-11-12T13:34:52.395Z",
   "items": [
     {
-      "ts": "2025-11-12T10:15:00.000Z",
-      "headline": "&#x2018;Our HOA fees are too high&#x2019;: Do my husband and I sell our $700K condo and rent by the beach?",
-      "url": "https://www.marketwatch.com/story/our-hoa-fees-are-too-high-do-my-husband-and-i-sell-our-700k-condo-and-rent-by-the-beach-ee064cab?mod=mw_rss_topstories",
+      "ts": "2025-11-12T13:30:00.000Z",
+      "headline": "How to tariff-proof your holiday shopping list",
+      "url": "https://www.marketwatch.com/story/how-to-tariff-proof-your-holiday-shopping-list-db7bda63?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "This year, the strategy for savvy holiday shoppers is not just finding a discount, but entirely avoiding the tariff burden by focusing on U.S.-made gifts, imported products with low tariff rates, gift cards and experiences.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T13:33:00.000Z",
+      "headline": "Where Goldman Sachs says the S&P 500 is headed next year and the next decade",
+      "url": "https://www.marketwatch.com/story/where-goldman-sachs-says-the-s-p-500-is-headed-next-year-and-the-next-decade-721dc97b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My husband, 71, and I, 66, are retired, with total combined assets of $1.5 million.&#x201d;",
+      "summary_en": "Goldman strategists expect the S&P 500 will see annualized gains of 6.5% in the next 10 years. But that&#x2019;s not exactly shooting for the moon.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-12T10:38:00.000Z",
-      "headline": "Professional and wealthy investors still plan to boost crypto holdings even after sharp slide",
-      "url": "https://www.marketwatch.com/story/professional-and-wealthy-investors-still-plan-to-boost-crypto-holdings-even-after-sharp-slide-6354ee75?mod=mw_rss_topstories",
+      "ts": "2025-11-12T12:19:00.000Z",
+      "headline": "Banks just sent this upbeat signal about the economy. Here&#x2019;s why investors aren&#x2019;t buying it.",
+      "url": "https://www.marketwatch.com/story/banks-just-sent-this-upbeat-signal-about-the-economy-heres-why-investors-arent-buying-it-6433652f?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Banks stockpiled less money for troubled loans during the most recent quarter despite fears over bad-debt &#x201c;cockroaches.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T12:59:00.000Z",
+      "headline": "What typically comes next when the stock market sputters at the start of November",
+      "url": "https://www.marketwatch.com/story/the-santa-rally-still-arrives-when-the-stock-market-sputters-to-open-november-history-shows-cc272981?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The S&P 500 slumped 1.6% last week &#x2014; but bad first weeks in November usually don&#x2019;t hang over the stock market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T12:37:00.000Z",
+      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T12:23:00.000Z",
+      "headline": "Citi strategists say a narrowing of index performance doesn&#x2019;t mean the market won&#x2019;t rise",
+      "url": "https://www.marketwatch.com/story/citi-strategists-say-a-narrowing-of-index-performance-doesnt-mean-the-market-wont-rise-9ff310fc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Citi predicts modest global-equity gains through mid-2026, despite the concentration of stock-market performance.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T12:00:00.000Z",
+      "headline": "Sick of hearing about the AI trade? BofA offers 16 hot stock picks that go far beyond tech.",
+      "url": "https://www.marketwatch.com/story/sick-of-hearing-about-the-ai-trade-bofa-offers-16-hot-stock-picks-that-go-far-beyond-tech-cbf0975a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Valuations for AI stocks could come down if monetization doesn&#x2019;t play out as expected. But BofA sees plenty of opportunities elsewhere among stocks &#x201c;overshadowed&#x201d; by the tech buzz.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T11:04:00.000Z",
+      "headline": "IBM sees a big milestone ahead for quantum computing &#x2014;&#xa0;and it hinges on these new chips",
+      "url": "https://www.marketwatch.com/story/ibm-sees-a-big-milestone-ahead-for-quantum-computing-and-it-hinges-on-these-new-chips-4ca0521f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "IBM announced new processors that it said will help it build a &#x201c;fault-tolerant quantum computer&#x201d; by the end of the decade.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T12:53:00.000Z",
+      "headline": "It might not be Peak Oil after all. What the IEA&#x2019;s new scenarios mean for oil prices.",
+      "url": "https://www.marketwatch.com/story/it-might-not-be-peak-oil-after-all-iea-now-says-on-current-path-that-demand-will-grow-until-2050-5c7f8c3d?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The key international agency forecasting energy demand now says the current path will have consumption of oil and gas growing through 2050, as electric-vehicle adoption misses its earlier estimates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T12:30:00.000Z",
+      "headline": "U.S. stocks and gold are rallying on hopes that the shutdown ends. What happens once the government reopens?",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-and-gold-are-rallying-on-hopes-that-the-shutdown-ends-what-happens-once-the-government-reopens-3929055a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The recent drop in crypto prices isn&#x2019;t denting enthusiasm from wealthy and professional investors to boost allocations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-12T01:31:00.000Z",
-      "headline": "My brother is the trustee of our parents&#x2019; $10 million estate. He&#x2019;s threatened to bleed the estate dry. What now?",
-      "url": "https://www.marketwatch.com/story/my-brother-is-the-trustee-of-our-parents-10-million-estate-hes-threatened-to-bleed-the-estate-dry-what-now-9b6eebd5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He is paying himself $40 per hour or $1,600 per week to manage the estate.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-12T03:21:00.000Z",
-      "headline": "McDonald&#x2019;s and other companies are calling out the impact of SNAP delays on consumers",
-      "url": "https://www.marketwatch.com/story/mcdonalds-tyson-and-other-companies-have-gotten-more-anxious-about-the-fallout-from-snap-delays-a1c1894b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "One analyst says payment delays across states are likely, even after the government&#x2019;s reopening.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-11T23:30:00.000Z",
-      "headline": "I&#x2019;m 83 and will have $500K if I sell my house. My estranged wife wants me to join her in Colombia. Do I go?",
-      "url": "https://www.marketwatch.com/story/im-83-and-have-a-monthly-income-of-3-800-my-estranged-wife-wants-me-to-join-her-in-colombia-do-i-go-a5850fe9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I can just barely handle my expenses with a mortgage payment of $984 and an income of $3,800.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-12T02:17:00.000Z",
-      "headline": "Yes, stock investors, there is a Santa Claus rally. No, it isn&#x2019;t coming early.",
-      "url": "https://www.marketwatch.com/story/yes-investors-there-is-a-santa-claus-rally-no-he-isnt-coming-early-885ef555?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Wall Street wants you to believe that a year-end stock-market rally starts now.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-11T22:27:00.000Z",
-      "headline": "Why Target&#x2019;s price cuts on thousands of items are more than just a sales gimmick",
-      "url": "https://www.marketwatch.com/story/why-targets-price-cuts-on-thousands-of-items-are-more-than-just-a-sales-gimmick-be32cd7d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Coupled with the company&#x2019;s recent layoff announcement, the price cuts reflect a decisive move by the incoming CEO to change the status quo.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-11T22:05:00.000Z",
-      "headline": "My husband, 73, is giving me a life estate in his home, yet leaving his son a $200K Porsche. Is this cause for divorce?",
-      "url": "https://www.marketwatch.com/story/i-am-considering-calling-it-quits-my-husband-73-is-only-giving-me-a-life-estate-in-his-home-but-leaving-his-son-a-200k-porsche-9f50ddba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am not listed on his bank accounts.&#x201d;",
+      "summary_en": "The S&P 500 and gold are both rallying, with stocks nearing a return to record territory. Why the assets could diverge when the shutdown finally ends.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,30 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board finalizes changes to its supervisory rating framework for large bank holding companies",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-11T23:08:00.000Z",
-      "headline": "&#x2018;I&#x2019;m in a financial mess&#x2019;: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
-      "url": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We can move 10 miles south, where property is much cheaper.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-11T22:45:00.000Z",
-      "headline": "&#x2018;He lives paycheck to paycheck&#x2019;: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
-      "url": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He seems to think &#x2018;bill due&#x2019; dates are a suggestion. He has literally no savings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
