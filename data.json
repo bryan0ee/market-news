@@ -1,44 +1,20 @@
 {
-  "last_updated": "2025-11-13T13:34:43.035Z",
+  "last_updated": "2025-11-13T23:27:26.151Z",
   "items": [
     {
-      "ts": "2025-11-13T13:17:00.000Z",
-      "headline": "JD.com&#x2019;s stock jumps as Chinese e-commerce giant triumphs over low expectations",
-      "url": "https://www.marketwatch.com/story/jd-coms-stock-jumps-as-chinese-e-commerce-giant-triumphs-over-low-expectations-193682a7?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-11-13T22:37:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s different about this year&#x2019;s Starbucks strikes, as union drive nears 4-year anniversary",
+      "url": "https://www.marketwatch.com/story/here-are-the-cities-where-more-than-1-000-starbucks-baristas-are-said-to-be-striking-3bad9d4f?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Third-quarter earnings were way below the corresponding period for 2024. More important was that the company beat relatively conservative analyst predictions.",
+      "summary_en": "A labor strike by more than 1,000 Starbucks baristas in 42 cities has been timed alongside the coffee chain&#x2019;s annual &#x201c;Red Cup Day&#x201d; giveaway.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-13T13:07:00.000Z",
-      "headline": "Streaming gains a bright spot for Walt Disney in an otherwise mixed earnings report",
-      "url": "https://www.marketwatch.com/story/streaming-drives-the-way-for-walt-disney-amid-an-otherwise-mixed-earnings-report-ad9d56b5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Walt Disney Co. had a difficult quarter with the fallout from pulling Jimmy Kimmel off the air, its fight with YouTube and switching gears with its betting partner at ESPN.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-13T12:52:00.000Z",
-      "headline": "Here&#x2019;s an unexpected twist that could throw the stock-market rally off course next year",
-      "url": "https://www.marketwatch.com/story/heres-an-unexpected-twist-that-could-throw-the-stock-market-rally-off-course-next-year-bd302bdf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors are not considering the risk that the economy poses to the stock market rally, warns Nomura&#x2019;s Charlie McElligott.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-13T12:24:00.000Z",
+      "ts": "2025-11-13T22:54:00.000Z",
       "headline": "My brother is the trustee of our parents&#x2019; $10 million estate. He&#x2019;s threatened to bleed the estate dry. What now?",
       "url": "https://www.marketwatch.com/story/my-brother-is-the-trustee-of-our-parents-10-million-estate-hes-threatened-to-bleed-the-estate-dry-what-now-9b6eebd5?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,75 +26,112 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-13T12:15:00.000Z",
-      "headline": "My late husband&#x2019;s son is listed as beneficiary on his IRAs. Where does that leave me?",
-      "url": "https://www.marketwatch.com/story/my-late-husbands-son-is-listed-as-beneficiary-on-his-iras-where-does-that-leave-me-23c20b2b?mod=mw_rss_topstories",
+      "ts": "2025-11-13T22:52:00.000Z",
+      "headline": "Why the U.S.-China trade truce has a catch for the U.S. soybean market &#x2014; and American farmers",
+      "url": "https://www.marketwatch.com/story/heres-what-the-u-s-china-trade-truce-really-means-for-the-u-s-soybean-market-627a6cfe?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My husband&#x2019;s son said he doesn&#x2019;t want any part of the IRAs or the insurance policies.&#x201d;",
+      "summary_en": "China has made a pledge to buy U.S. soybeans over the next few years, fueling hope for farmers who have been caught in the middle of a trade war between the two nations. Yet the damage to the U.S. agricultural market may have already been done.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-13T11:24:00.000Z",
-      "headline": "&#x2018;Our HOA fees are too high&#x2019;: My husband and I are retired. Should we sell our $700K condo and rent instead?",
-      "url": "https://www.marketwatch.com/story/our-hoa-fees-are-too-high-do-my-husband-and-i-sell-our-700k-condo-and-rent-by-the-beach-ee064cab?mod=mw_rss_topstories",
+      "ts": "2025-11-13T22:14:00.000Z",
+      "headline": "A stock market that was only going up now seems to need direction",
+      "url": "https://www.marketwatch.com/story/a-stock-market-that-could-only-go-up-now-seems-to-need-direction-f1e26847?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The S&P 500 is likely in a trading range.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-13T22:10:00.000Z",
+      "headline": "Bitcoin&#x2019;s bear-market rout deepens as prices hit a 6-month low. Why long-term holders stepping up selling could be a bad sign.",
+      "url": "https://www.marketwatch.com/story/bitcoin-sinks-to-a-6-month-low-deepening-its-bear-market-rout-as-long-term-holders-step-up-selling-9d122a90?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We have total combined assets of $1.5 million.&#x201d;",
+      "summary_en": "Bitcoin fell to its lowest level in six months Thursday afternoon, deeping its bear-market rout as long-term holders of the cryptocurrency stepped up their selling.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-13T10:33:00.000Z",
-      "headline": "FanDuel owner to launch prediction market as competition heats up",
-      "url": "https://www.marketwatch.com/story/fanduel-owner-to-launch-prediction-market-as-competition-heats-up-ac5f3c82?mod=mw_rss_topstories",
+      "ts": "2025-11-13T22:08:00.000Z",
+      "headline": "Jeff Bezos&#x2019;s Blue Origin matches SpaceX as it lands its mega-rocket&#x2019;s booster",
+      "url": "https://www.marketwatch.com/story/jeff-bezoss-blue-origin-matches-spacex-as-it-lands-its-mega-rockets-booster-e991ce68?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Flutter announces third quarter loss and downgrades guidance for full-year but the underlying earnings trend is positive.",
+      "summary_en": "The company&#x2019;s second-ever New Glenn test accomplished all three of its main objectives.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-13T10:24:00.000Z",
-      "headline": "My husband, 73, is giving me a life estate in his home, yet leaving his son a $200K Porsche. Is this cause for divorce?",
-      "url": "https://www.marketwatch.com/story/i-am-considering-calling-it-quits-my-husband-73-is-only-giving-me-a-life-estate-in-his-home-but-leaving-his-son-a-200k-porsche-9f50ddba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-11-13T22:51:00.000Z",
+      "headline": "Dow&#x2019;s big drop after a record close is fairly rare. How doubts about December rate cut are weighing on Wall Street.",
+      "url": "https://www.marketwatch.com/story/dows-big-drop-after-a-record-close-is-fairly-rare-how-doubts-about-december-rate-cut-are-weighing-on-wall-street-0e6bbff9?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I am not listed on his bank accounts.&#x201d;",
+      "summary_en": "The Dow&#x2019;s large drop on Thursday was fairly rare in the wake of its close at a fresh record high, according to Dow Jones Market Data",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-13T11:01:00.000Z",
-      "headline": "Nearly 900,000 new homeowners are underwater on their mortgages, signaling a troubling shift in the housing market",
-      "url": "https://www.marketwatch.com/story/nearly-900-000-new-homeowners-are-underwater-on-their-mortgages-signaling-a-troubling-shift-in-the-housing-market-21fce9fc?mod=mw_rss_topstories",
+      "ts": "2025-11-13T22:53:00.000Z",
+      "headline": "I have a $10K expense. Do I withdraw money from my investments or my high-yield savings account?",
+      "url": "https://www.marketwatch.com/story/i-have-a-10k-expense-do-i-withdraw-money-from-my-investments-or-my-high-yield-savings-account-d1d871db?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "As existing-home sales remain on track to hit a 30-year low, home prices are losing steam &#x2014; and homeowners are feeling the sting.",
+      "summary_en": "&#x201c;It will likely take me about a year to replace the $10,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-13T10:30:00.000Z",
-      "headline": "&#x2018;It&#x2019;s unlikely to ever increase in value&#x2019;: Should I give my daughter my $300K house or gift her the cash to buy it?",
+      "ts": "2025-11-13T22:52:00.000Z",
+      "headline": "&#x2018;She&#x2019;ll probably marry her current boyfriend&#x2019;: Should I give my daughter my $300K house &#x2014; or gift her the cash to buy it?",
       "url": "https://www.marketwatch.com/story/its-unlikely-to-ever-increase-in-value-should-i-give-my-daughter-my-300k-house-or-gift-her-the-cash-to-buy-it-f9bd0764?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A reader mulls over the implications for capital gains tax, property tax and the future appreciation of the property&#x2019;s value.",
+      "summary_en": "&#x201c;I bought it for $175,000 in 2001.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-13T22:42:00.000Z",
+      "headline": "Has AI gotten too big to fail? How the U.S. government is backstopping the tech boom.",
+      "url": "https://www.marketwatch.com/story/has-ai-gotten-too-big-to-fail-how-the-u-s-government-is-backstopping-the-tech-boom-a2523dff?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Big Tech is betting everything on AI, and it could leave the U.S. government on the hook",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-13T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-06T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement actions with Belt Valley Bank and The Halstead Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251106a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement actions with Belt Valley Bank and The Halstead Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
