@@ -1,57 +1,8 @@
 {
-  "last_updated": "2025-11-14T13:31:54.368Z",
+  "last_updated": "2025-11-14T23:26:57.756Z",
   "items": [
     {
-      "ts": "2025-11-14T13:20:00.000Z",
-      "headline": "Here are November&#x2019;s worst-performing S&P 500 stocks so far &#x2014; including some surprises",
-      "url": "https://www.marketwatch.com/story/here-are-novembers-worst-performing-s-p-500-stocks-so-far-including-some-surprises-783101fb?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "As the technology sector has been sliding, the healthcare sector has surged",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T12:55:00.000Z",
-      "headline": "Wall Street&#x2019;s on edge. These are the levels that stocks must not violate, says Fundstrat.",
-      "url": "https://www.marketwatch.com/story/wall-streets-on-edge-these-are-the-levels-that-stocks-must-not-violate-says-fundstrat-2e4bbfd3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Poor market breadth remains a concern according to Mark Newton",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T12:42:00.000Z",
-      "headline": "Trump claims Thanksgiving is cheaper this year &#x2014; even as Americans spend hundreds on turkey and travel",
-      "url": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "So how much will your Thanksgiving cost?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T12:35:00.000Z",
-      "headline": "Here&#x2019;s how Robinhood will deliver bags of cash to your doorstep safely",
-      "url": "https://www.marketwatch.com/story/need-cash-fast-heres-how-robinhood-plans-to-safely-deliver-bags-of-money-to-your-doorstep-2a98ce57?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The brokerage has teamed up with courier service Gopuff to roll out its same-day cash delivery service",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T12:26:00.000Z",
+      "ts": "2025-11-14T23:09:00.000Z",
       "headline": "Gold is holding above $4,000 for reasons that could drive it to $5,000",
       "url": "https://www.marketwatch.com/story/gold-is-holding-above-4-000-for-reasons-that-could-drive-it-to-5-000-7ea08755?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -63,63 +14,113 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-14T12:00:00.000Z",
-      "headline": "&#x2018;Our HOA fees are too high&#x2019;: My husband and I are retired. Should we sell our $700K condo and rent instead?",
-      "url": "https://www.marketwatch.com/story/our-hoa-fees-are-too-high-do-my-husband-and-i-sell-our-700k-condo-and-rent-by-the-beach-ee064cab?mod=mw_rss_topstories",
+      "ts": "2025-11-14T23:09:00.000Z",
+      "headline": "Think robotics stocks are overhyped? In fact, they&#x2019;re just taking off.",
+      "url": "https://www.marketwatch.com/story/think-robotics-stocks-are-overhyped-in-fact-theyre-just-taking-off-e8d070b7?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We have total combined assets of $1.5 million.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T11:52:00.000Z",
-      "headline": "Nomura strategist warned the market selloff was coming. Here are the forces he says are taking stocks down.",
-      "url": "https://www.marketwatch.com/story/nomura-strategist-warned-the-market-selloff-was-coming-here-are-the-forces-he-says-are-taking-stocks-down-b3083358?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Leveraged ETFs, and a highly unbalanced market have been among the forces bubbling away at this market for weeks, a highly respected strategist notes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T11:30:00.000Z",
-      "headline": "My late husband&#x2019;s son is listed as beneficiary on his IRAs. Where does that leave me?",
-      "url": "https://www.marketwatch.com/story/my-late-husbands-son-is-listed-as-beneficiary-on-his-iras-where-does-that-leave-me-23c20b2b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My husband&#x2019;s son said he doesn&#x2019;t want any part of the IRAs or the insurance policies.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T12:30:00.000Z",
-      "headline": "Why any U.S. military strike on Venezuela could damage America&#x2019;s fuel supply and the global oil market",
-      "url": "https://www.marketwatch.com/story/why-any-u-s-military-strike-on-venezuela-could-damage-americas-fuel-supply-and-the-global-oil-market-5b82b565?mod=mw_rss_topstories",
-      "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "A buildup of U.S. military forces in the Caribbean Sea are raising concerns about a potential strike on Venezuela, which is home to the world&#x2019;s largest&#xa0;oil&#xa0;reserves.",
+      "summary_en": "Columnist Charlie Garcia responds to readers concerned about robots replacing jobs and about the companies that make them.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-14T11:00:00.000Z",
-      "headline": "&#x2018;She&#x2019;ll probably marry her current boyfriend&#x2019;: Should I give my daughter my $300K house &#x2014; or gift her the cash to buy it?",
-      "url": "https://www.marketwatch.com/story/its-unlikely-to-ever-increase-in-value-should-i-give-my-daughter-my-300k-house-or-gift-her-the-cash-to-buy-it-f9bd0764?mod=mw_rss_topstories",
+      "ts": "2025-11-14T22:57:00.000Z",
+      "headline": "Soros fund goes for this legacy automaker &#x2014; and sells off Tesla and Rivian stakes",
+      "url": "https://www.marketwatch.com/story/soross-fund-goes-for-this-legacy-automaker-and-sells-off-tesla-and-rivian-stakes-bd53a05b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Billionaire investor George Soros&#x2019;s investment fund sold stakes in electric-vehicle makers Tesla and Rivian in the quarter ended Sept. 30 &#x2014; instead preferring to open a fresh position in legacy automaker Ford, according to a securities filing released late Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T22:55:00.000Z",
+      "headline": "Google Gemini&#x2019;s investment advice is much more conservative than a human adviser &#x2014; here&#x2019;s what that could cost you",
+      "url": "https://www.marketwatch.com/story/if-you-take-investing-advice-from-ai-it-could-cost-you-thousands-heres-why-b1f5397f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "COST"
+      ],
+      "summary_en": "Three things ordinary investors should know before seeking financial advice from a human being &#x2014; or a machine.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T22:48:00.000Z",
+      "headline": "Steph Curry likely made $300 million with Under Armour. Can his next move match Roger Federer&#x2019;s post-Nike success?",
+      "url": "https://www.marketwatch.com/story/steph-curry-likely-made-300-million-with-under-armour-can-his-next-step-match-roger-federers-post-nike-success-8d8fc9cf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Golden State Warriors star could take his Curry Brand independent or to another retailer &#x2014; something Federer and Tiger Woods scored success with after splitting from Nike.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T22:15:00.000Z",
+      "headline": "One of Warren Buffett&#x2019;s last moves as Berkshire CEO was to buy this &#x2018;Magnificent Seven&#x2019; tech stock",
+      "url": "https://www.marketwatch.com/story/one-of-warren-buffetts-last-moves-as-berkshire-ceo-was-to-buy-this-magnificent-seven-tech-stock-cb781323?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "Berkshire Hathaway has disclosed a stake in Google parent Alphabet that&#x2019;s now worth about $5 billion.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T23:11:00.000Z",
+      "headline": "These dividend stocks are good bets for risk-averse investors &#x2014; even during a bear market",
+      "url": "https://www.marketwatch.com/story/these-dividend-stocks-are-good-bets-for-risk-averse-investors-even-during-a-bear-market-f338a0c7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I bought it for $175,000 in 2001.&#x201d;",
+      "summary_en": "&#x201c;Dividend aristocrats&#x201d; can do more for risk-averse portfolios than supersafe Treasury bonds.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T22:50:00.000Z",
+      "headline": "Elon Musk now says xAI is delaying the Grok 5 launch till next year",
+      "url": "https://www.marketwatch.com/story/elon-musk-now-says-xai-is-delaying-the-grok-5-launch-till-next-year-b9f43a81?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Musk said in August that the AI chatbot Grok 5 will &#x2018;feel sentient,&#x2019; and there&#x2019;s a chance it will achieve human-level intelligence",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T22:46:00.000Z",
+      "headline": "&#x2018;I&#x2019;m a big fan of DIY investing&#x2019;: I&#x2019;m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
+      "url": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T22:39:00.000Z",
+      "headline": "I have a $10K expense. Do I withdraw money from my investments or my high-yield savings account?",
+      "url": "https://www.marketwatch.com/story/i-have-a-10k-expense-do-i-withdraw-money-from-my-investments-or-my-high-yield-savings-account-d1d871db?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;It will likely take me about a year to replace the $10,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
