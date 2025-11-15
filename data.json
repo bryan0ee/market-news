@@ -1,52 +1,126 @@
 {
-  "last_updated": "2025-11-15T13:26:27.517Z",
+  "last_updated": "2025-11-15T23:25:45.526Z",
   "items": [
     {
-      "ts": "2025-11-15T13:05:00.000Z",
-      "headline": "How $5,000 became $31 billion: 5 market lessons from the greatest trader ever",
-      "url": "https://www.marketwatch.com/story/how-5-000-became-31-billion-5-market-lessons-from-the-greatest-trader-ever-41a2ad47?mod=mw_rss_topstories",
+      "ts": "2025-11-15T21:14:00.000Z",
+      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Jim Simons&#x2019;s Medallion Fund averaged 66% annual returns for three decades, using math that would make ChatGPT weep.",
+      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-15T12:30:00.000Z",
-      "headline": "These 13 tech stocks have grown profits rapidly &#x2014;&#xa0;and their stocks are still on sale",
-      "url": "https://www.marketwatch.com/story/these-13-tech-stocks-have-grown-profits-rapidly-and-their-stocks-are-still-on-sale-2175c2d2?mod=mw_rss_topstories",
+      "ts": "2025-11-15T17:38:00.000Z",
+      "headline": "How to tariff-proof your holiday shopping list",
+      "url": "https://www.marketwatch.com/story/how-to-tariff-proof-your-holiday-shopping-list-db7bda63?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "This year, the strategy for savvy holiday shoppers is not just finding a discount, but entirely avoiding the tariff burden by focusing on U.S.-made gifts, imported products with low tariff rates, gift cards and experiences.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T17:39:00.000Z",
+      "headline": "Google Gemini&#x2019;s investment advice is much more conservative than a human adviser &#x2014; here&#x2019;s what that could cost you",
+      "url": "https://www.marketwatch.com/story/if-you-take-investing-advice-from-ai-it-could-cost-you-thousands-heres-why-b1f5397f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "META"
+        "GOOGL",
+        "COST"
       ],
-      "summary_en": "Meta, Nvidia and Microsoft shares trade at discounts to their historical valuations, along with other plays in the chip and software sectors.",
+      "summary_en": "Three things ordinary investors should know before seeking financial advice from a human being &#x2014; or a machine.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-15T13:00:00.000Z",
-      "headline": "Gold&#x2019;s moves in &#x2018;lockstep&#x2019; with U.S. stocks could point to a brewing market danger",
-      "url": "https://www.marketwatch.com/story/golds-moves-in-lockstep-with-u-s-stocks-could-point-to-a-brewing-market-danger-265b94e1?mod=mw_rss_topstories",
+      "ts": "2025-11-15T17:39:00.000Z",
+      "headline": "What&#x2019;s our FIRE number? We make $475,000 together and have more than $2 million saved",
+      "url": "https://www.marketwatch.com/story/whats-our-fire-number-we-make-475-000-together-and-have-more-than-2-million-saved-79c412b8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I think If I live in India between the ages of 60 to 65 years old, I will save a lot of money.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T17:39:00.000Z",
+      "headline": "If you thought getting approved for Medicaid was hard, wait until you try to use it for this",
+      "url": "https://www.marketwatch.com/story/if-you-thought-getting-approved-for-medicaid-was-hard-wait-until-you-try-to-use-it-for-this-7f38a927?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Strategizing in advance &#xad;can really pay off when it comes to Medicaid-funded nursing-home placements.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T17:38:00.000Z",
+      "headline": "Robinhood rolls out same-day cash delivery to your door so you don&#x2019;t have to go to an ATM anymore",
+      "url": "https://www.marketwatch.com/story/need-cash-fast-heres-how-robinhood-plans-to-safely-deliver-bags-of-money-to-your-doorstep-2a98ce57?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The brokerage has teamed up with courier service Gopuff to roll out its same-day cash delivery service.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T17:37:00.000Z",
+      "headline": "What&#x2019;s the true price of Thanksgiving? Trump says groceries are getting cheaper, but many Americans are still concerned about costs.",
+      "url": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "A new survey finds Americans expect to spend $175 on food and as much as $952 overall on this Thanksgiving, including turkey, travel and decor",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T17:36:00.000Z",
+      "headline": "Steph Curry likely made $300 million with Under Armour. Can his next move match Roger Federer&#x2019;s post-Nike success?",
+      "url": "https://www.marketwatch.com/story/steph-curry-likely-made-300-million-with-under-armour-can-his-next-step-match-roger-federers-post-nike-success-8d8fc9cf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Golden State Warriors star could take his Curry Brand independent or to another retailer &#x2014; something Federer and Tiger Woods scored success with after splitting from Nike.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T20:13:00.000Z",
+      "headline": "I found an out-of-state buyer for my grandmother&#x2019;s classic car. He wants me to cash a check. Is this a financial scam?",
+      "url": "https://www.marketwatch.com/story/i-found-an-out-of-state-buyer-for-my-grandmothers-classic-car-he-wants-me-to-cash-a-check-is-this-a-scam-b958ee25?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Gold&#x2019;s selloff alongside U.S. stocks and bitcoin suggests that trouble could be brewing in financial markets.",
+      "summary_en": "&#x201c;Once the check clears, the buyer will send a trailer to pick up the car.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-15T12:00:00.000Z",
-      "headline": "Stocks are caught up in a powerful rotation. Here&#x2019;s what could deliver a shock.",
-      "url": "https://www.marketwatch.com/story/stocks-are-caught-up-in-a-powerful-rotation-heres-what-could-deliver-a-shock-931b0375?mod=mw_rss_topstories",
+      "ts": "2025-11-15T17:38:00.000Z",
+      "headline": "Only one analyst has a sell rating on Nvidia &#x2014; and he says &#x2018;it feels fantastic&#x2019;",
+      "url": "https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A smooth stock market on the surface is masking nerves and turbulence.",
+      "summary_en": "Lone Nvidia bear Jay Goldberg shares why he&#x2019;s still not a buyer of the AI superstock.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -62,42 +136,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-14T23:09:00.000Z",
-      "headline": "Gold is holding above $4,000 for reasons that could drive it to $5,000",
-      "url": "https://www.marketwatch.com/story/gold-is-holding-above-4-000-for-reasons-that-could-drive-it-to-5-000-7ea08755?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. budget uncertainty and Fed rate-cut hopes fuel safe-haven demand.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T23:09:00.000Z",
-      "headline": "Think robotics stocks are overhyped? In fact, they&#x2019;re just taking off.",
-      "url": "https://www.marketwatch.com/story/think-robotics-stocks-are-overhyped-in-fact-theyre-just-taking-off-e8d070b7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Columnist Charlie Garcia responds to readers concerned about robots replacing jobs and about the companies that make them.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T22:57:00.000Z",
-      "headline": "Soros fund goes for this legacy automaker &#x2014; and sells off Tesla and Rivian stakes",
-      "url": "https://www.marketwatch.com/story/soross-fund-goes-for-this-legacy-automaker-and-sells-off-tesla-and-rivian-stakes-bd53a05b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Billionaire investor George Soros&#x2019;s investment fund sold stakes in electric-vehicle makers Tesla and Rivian in the quarter ended Sept. 30 &#x2014; instead preferring to open a fresh position in legacy automaker Ford, according to a securities filing released late Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-13T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
@@ -107,42 +145,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T23:26:00.000Z",
-      "headline": "Only one analyst has a sell rating on Nvidia &#x2014; and he says &#x2018;it feels fantastic&#x2019;",
-      "url": "https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Lone Nvidia bear Jay Goldberg shares why he&#x2019;s still not a buyer of the AI superstock.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T23:25:00.000Z",
-      "headline": "&#x2018;Santa Flaws Rally&#x2019; has legs so don&#x2019;t sell stocks yet, advises Bank of America strategist",
-      "url": "https://www.marketwatch.com/story/santa-flaws-rally-has-legs-so-dont-sell-stocks-yet-advises-bank-of-america-strategist-f79f67be?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Bank of America&#x2019;s Michael Hartnett says most asset allocators are likely to stay bullish on stocks and less so on bonds.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T23:11:00.000Z",
-      "headline": "These dividend stocks are good bets for risk-averse investors &#x2014; even during a bear market",
-      "url": "https://www.marketwatch.com/story/these-dividend-stocks-are-good-bets-for-risk-averse-investors-even-during-a-bear-market-f338a0c7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Dividend aristocrats&#x201d; can do more for risk-averse portfolios than supersafe Treasury bonds.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
