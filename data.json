@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-11-15T10:40:34.866Z",
+  "last_updated": "2025-11-15T13:26:27.517Z",
   "items": [
+    {
+      "ts": "2025-11-15T13:05:00.000Z",
+      "headline": "How $5,000 became $31 billion: 5 market lessons from the greatest trader ever",
+      "url": "https://www.marketwatch.com/story/how-5-000-became-31-billion-5-market-lessons-from-the-greatest-trader-ever-41a2ad47?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Jim Simons&#x2019;s Medallion Fund averaged 66% annual returns for three decades, using math that would make ChatGPT weep.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T12:30:00.000Z",
+      "headline": "These 13 tech stocks have grown profits rapidly &#x2014;&#xa0;and their stocks are still on sale",
+      "url": "https://www.marketwatch.com/story/these-13-tech-stocks-have-grown-profits-rapidly-and-their-stocks-are-still-on-sale-2175c2d2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "Meta, Nvidia and Microsoft shares trade at discounts to their historical valuations, along with other plays in the chip and software sectors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T13:00:00.000Z",
+      "headline": "Gold&#x2019;s moves in &#x2018;lockstep&#x2019; with U.S. stocks could point to a brewing market danger",
+      "url": "https://www.marketwatch.com/story/golds-moves-in-lockstep-with-u-s-stocks-could-point-to-a-brewing-market-danger-265b94e1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Gold&#x2019;s selloff alongside U.S. stocks and bitcoin suggests that trouble could be brewing in financial markets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T12:00:00.000Z",
+      "headline": "Stocks are caught up in a powerful rotation. Here&#x2019;s what could deliver a shock.",
+      "url": "https://www.marketwatch.com/story/stocks-are-caught-up-in-a-powerful-rotation-heres-what-could-deliver-a-shock-931b0375?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A smooth stock market on the surface is masking nerves and turbulence.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-12T22:00:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
@@ -50,31 +98,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-14T22:55:00.000Z",
-      "headline": "Google Gemini&#x2019;s investment advice is much more conservative than a human adviser &#x2014; here&#x2019;s what that could cost you",
-      "url": "https://www.marketwatch.com/story/if-you-take-investing-advice-from-ai-it-could-cost-you-thousands-heres-why-b1f5397f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "COST"
-      ],
-      "summary_en": "Three things ordinary investors should know before seeking financial advice from a human being &#x2014; or a machine.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T22:48:00.000Z",
-      "headline": "Steph Curry likely made $300 million with Under Armour. Can his next move match Roger Federer&#x2019;s post-Nike success?",
-      "url": "https://www.marketwatch.com/story/steph-curry-likely-made-300-million-with-under-armour-can-his-next-step-match-roger-federers-post-nike-success-8d8fc9cf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Golden State Warriors star could take his Curry Brand independent or to another retailer &#x2014; something Federer and Tiger Woods scored success with after splitting from Nike.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-13T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
@@ -120,30 +143,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;Dividend aristocrats&#x201d; can do more for risk-averse portfolios than supersafe Treasury bonds.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T22:50:00.000Z",
-      "headline": "Elon Musk now says xAI is delaying its Grok 5 launch until next year",
-      "url": "https://www.marketwatch.com/story/elon-musk-now-says-xai-is-delaying-the-grok-5-launch-till-next-year-b9f43a81?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Musk has said the AI chatbot will &#x201c;feel sentient&#x201d; and there&#x2019;s a chance it will achieve human-level intelligence.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T22:46:00.000Z",
-      "headline": "&#x2018;I&#x2019;m a big fan of DIY investing&#x2019;: I&#x2019;m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
-      "url": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
