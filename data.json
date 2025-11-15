@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-11-14T23:26:57.756Z",
+  "last_updated": "2025-11-15T10:40:34.866Z",
   "items": [
+    {
+      "ts": "2025-11-12T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-14T23:09:00.000Z",
       "headline": "Gold is holding above $4,000 for reasons that could drive it to $5,000",
@@ -63,16 +75,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-14T22:15:00.000Z",
-      "headline": "One of Warren Buffett&#x2019;s last moves as Berkshire CEO was to buy this &#x2018;Magnificent Seven&#x2019; tech stock",
-      "url": "https://www.marketwatch.com/story/one-of-warren-buffetts-last-moves-as-berkshire-ceo-was-to-buy-this-magnificent-seven-tech-stock-cb781323?mod=mw_rss_topstories",
+      "ts": "2025-11-13T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "GOOGL",
         "ED"
       ],
-      "summary_en": "Berkshire Hathaway has disclosed a stake in Google parent Alphabet that&#x2019;s now worth about $5 billion.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T23:26:00.000Z",
+      "headline": "Only one analyst has a sell rating on Nvidia &#x2014; and he says &#x2018;it feels fantastic&#x2019;",
+      "url": "https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Lone Nvidia bear Jay Goldberg shares why he&#x2019;s still not a buyer of the AI superstock.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-14T23:25:00.000Z",
+      "headline": "&#x2018;Santa Flaws Rally&#x2019; has legs so don&#x2019;t sell stocks yet, advises Bank of America strategist",
+      "url": "https://www.marketwatch.com/story/santa-flaws-rally-has-legs-so-dont-sell-stocks-yet-advises-bank-of-america-strategist-f79f67be?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Bank of America&#x2019;s Michael Hartnett says most asset allocators are likely to stay bullish on stocks and less so on bonds.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -89,14 +124,14 @@
     },
     {
       "ts": "2025-11-14T22:50:00.000Z",
-      "headline": "Elon Musk now says xAI is delaying the Grok 5 launch till next year",
+      "headline": "Elon Musk now says xAI is delaying its Grok 5 launch until next year",
       "url": "https://www.marketwatch.com/story/elon-musk-now-says-xai-is-delaying-the-grok-5-launch-till-next-year-b9f43a81?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Musk said in August that the AI chatbot Grok 5 will &#x2018;feel sentient,&#x2019; and there&#x2019;s a chance it will achieve human-level intelligence",
+      "summary_en": "Musk has said the AI chatbot will &#x201c;feel sentient&#x201d; and there&#x2019;s a chance it will achieve human-level intelligence.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -109,42 +144,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-14T22:39:00.000Z",
-      "headline": "I have a $10K expense. Do I withdraw money from my investments or my high-yield savings account?",
-      "url": "https://www.marketwatch.com/story/i-have-a-10k-expense-do-i-withdraw-money-from-my-investments-or-my-high-yield-savings-account-d1d871db?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;It will likely take me about a year to replace the $10,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-12T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-13T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
