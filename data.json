@@ -1,16 +1,41 @@
 {
-  "last_updated": "2025-11-15T23:25:45.526Z",
+  "last_updated": "2025-11-16T10:41:22.235Z",
   "items": [
     {
-      "ts": "2025-11-15T21:14:00.000Z",
-      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
-      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
+      "ts": "2025-11-16T03:37:00.000Z",
+      "headline": "I&#x2019;m 51, married and pay $200 a month for a $1.5 million term life insurance policy. When should I cancel it?",
+      "url": "https://www.marketwatch.com/story/im-51-married-and-pay-200-a-month-for-a-1-5-million-term-life-insurance-policy-when-should-i-cancel-it-fd4fc019?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
+      "summary_en": "&#x201c;I am five years from financial independence.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T03:37:00.000Z",
+      "headline": "&#x2018;I&#x2019;m a big fan of DIY investing&#x2019;: I&#x2019;m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
+      "url": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T00:28:00.000Z",
+      "headline": "What&#x2019;s the true price of Thanksgiving? Trump says groceries are getting cheaper, but many Americans are still concerned about costs.",
+      "url": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "A new survey finds Americans expect to spend $175 on food and as much as $952 overall on this Thanksgiving, including turkey, travel and decor",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -23,6 +48,30 @@
         "ED"
       ],
       "summary_en": "This year, the strategy for savvy holiday shoppers is not just finding a discount, but entirely avoiding the tariff burden by focusing on U.S.-made gifts, imported products with low tariff rates, gift cards and experiences.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-15T21:14:00.000Z",
+      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -63,40 +112,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-15T17:38:00.000Z",
-      "headline": "Robinhood rolls out same-day cash delivery to your door so you don&#x2019;t have to go to an ATM anymore",
-      "url": "https://www.marketwatch.com/story/need-cash-fast-heres-how-robinhood-plans-to-safely-deliver-bags-of-money-to-your-doorstep-2a98ce57?mod=mw_rss_topstories",
+      "ts": "2025-11-13T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The brokerage has teamed up with courier service Gopuff to roll out its same-day cash delivery service.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-15T17:37:00.000Z",
-      "headline": "What&#x2019;s the true price of Thanksgiving? Trump says groceries are getting cheaper, but many Americans are still concerned about costs.",
-      "url": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
+      "ts": "2025-11-16T00:33:00.000Z",
+      "headline": "I have a $10K expense. Do I withdraw money from my investments or my high-yield savings account?",
+      "url": "https://www.marketwatch.com/story/i-have-a-10k-expense-do-i-withdraw-money-from-my-investments-or-my-high-yield-savings-account-d1d871db?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED",
-        "COST"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "A new survey finds Americans expect to spend $175 on food and as much as $952 overall on this Thanksgiving, including turkey, travel and decor",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-15T17:36:00.000Z",
-      "headline": "Steph Curry likely made $300 million with Under Armour. Can his next move match Roger Federer&#x2019;s post-Nike success?",
-      "url": "https://www.marketwatch.com/story/steph-curry-likely-made-300-million-with-under-armour-can-his-next-step-match-roger-federers-post-nike-success-8d8fc9cf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Golden State Warriors star could take his Curry Brand independent or to another retailer &#x2014; something Federer and Tiger Woods scored success with after splitting from Nike.",
+      "summary_en": "&#x201c;It will likely take me about a year to replace the $10,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -109,42 +145,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;Once the check clears, the buyer will send a trailer to pick up the car.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-15T17:38:00.000Z",
-      "headline": "Only one analyst has a sell rating on Nvidia &#x2014; and he says &#x2018;it feels fantastic&#x2019;",
-      "url": "https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Lone Nvidia bear Jay Goldberg shares why he&#x2019;s still not a buyer of the AI superstock.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-12T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-13T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
