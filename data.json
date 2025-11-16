@@ -1,20 +1,32 @@
 {
-  "last_updated": "2025-11-16T13:26:08.843Z",
+  "last_updated": "2025-11-16T23:26:18.667Z",
   "items": [
     {
-      "ts": "2025-11-16T12:40:00.000Z",
-      "headline": "My brother is the trustee of our parents&#x2019; $10 million estate. He&#x2019;s threatened to bleed the estate dry. What now?",
-      "url": "https://www.marketwatch.com/story/my-brother-is-the-trustee-of-our-parents-10-million-estate-hes-threatened-to-bleed-the-estate-dry-what-now-9b6eebd5?mod=mw_rss_topstories",
+      "ts": "2025-11-16T23:22:00.000Z",
+      "headline": "My husband, 73, is giving me a life estate in his home, yet leaving his son a $200K Porsche. Is this cause for divorce?",
+      "url": "https://www.marketwatch.com/story/i-am-considering-calling-it-quits-my-husband-73-is-only-giving-me-a-life-estate-in-his-home-but-leaving-his-son-a-200k-porsche-9f50ddba?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;He is paying himself $40 per hour or $1,600 per week to manage the estate.&#x201d;",
+      "summary_en": "&#x201c;I am not listed on his bank accounts.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-16T03:37:00.000Z",
+      "ts": "2025-11-16T23:20:00.000Z",
+      "headline": "U.S. stock futures little changed as investors anxiously await Nvidia earnings",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-anxiously-await-nvidia-earnings-69f72426?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock futures were little changed on Sunday, following a choppy week on Wall Street.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T23:03:00.000Z",
       "headline": "I&#x2019;m 51, married and pay $200 a month for a $1.5 million term life insurance policy. When should I cancel it?",
       "url": "https://www.marketwatch.com/story/im-51-married-and-pay-200-a-month-for-a-1-5-million-term-life-insurance-policy-when-should-i-cancel-it-fd4fc019?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -23,6 +35,78 @@
         "ED"
       ],
       "summary_en": "&#x201c;I am five years from financial independence.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T21:41:00.000Z",
+      "headline": "Trump has bought at least $82 million in bonds since late August, disclosures show",
+      "url": "https://www.marketwatch.com/story/trump-has-bought-at-least-82-million-in-bonds-since-late-august-disclosures-show-3a2a4caf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump purchased at least $82 million in corporate and municipal bonds between late August and early October, according to newly released disclosures.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T20:38:00.000Z",
+      "headline": "The stock market faces big questions about the economy this week. How to be strategic as delayed data comes out.",
+      "url": "https://www.marketwatch.com/story/the-stock-market-faces-big-questions-about-the-economy-this-week-how-to-be-strategic-as-delayed-data-comes-out-fd7f5e2c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Stock investors may be in for an unsettling start to the week if doubts about the AI trade keep colliding with concerns around the upcoming release of backlogged economic data.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T20:10:00.000Z",
+      "headline": "Chevron, Exxon plan to keep boosting oil production, even as crude gets cheaper. What gives?",
+      "url": "https://www.marketwatch.com/story/chevron-exxon-plan-to-keep-boosting-oil-production-even-as-crude-gets-cheaper-what-gives-74851e21?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Chevron and Exxon are &#x201c;deep-pocketed names that are thinking 20 and 30 years out.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T17:11:00.000Z",
+      "headline": "401(k) hardship withdrawals more than double as people raid their retirement savings for emergencies",
+      "url": "https://www.marketwatch.com/story/401-k-hardship-withdrawals-more-than-double-as-people-raid-their-retirement-savings-for-emergencies-d2217ef4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Soaring cost of living pressures workers to take hardship withdrawals. &#x2018;Life has just gotten more expensive.&#x2019;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T15:32:00.000Z",
+      "headline": "Medicare Part B premiums will rise 10% in 2026, wiping away a third of Social Security&#x2019;s COLA",
+      "url": "https://www.marketwatch.com/story/medicare-part-b-premiums-will-rise-10-in-2026-wiping-away-a-third-of-social-securitys-cola-abb08324?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Premiums will be $202.90 a month, coming directly out of monthly Social Security checks",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T17:30:00.000Z",
+      "headline": "&#x2018;I&#x2019;m a big fan of DIY investing&#x2019;: I&#x2019;m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
+      "url": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,65 +122,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-16T00:28:00.000Z",
-      "headline": "What&#x2019;s the true price of Thanksgiving? Trump says groceries are getting cheaper, but many Americans are still concerned about costs.",
-      "url": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
+      "ts": "2025-11-16T14:41:00.000Z",
+      "headline": "I found an out-of-state buyer for my grandmother&#x2019;s classic car. He wants me to cash a check. Is this a financial scam?",
+      "url": "https://www.marketwatch.com/story/i-found-an-out-of-state-buyer-for-my-grandmothers-classic-car-he-wants-me-to-cash-a-check-is-this-a-scam-b958ee25?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED",
-        "COST"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "A new survey finds Americans expect to spend $175 on food and as much as $952 overall on this Thanksgiving, including turkey, travel and decor",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-15T21:14:00.000Z",
-      "headline": "I&#x2019;m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
-      "url": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-15T17:39:00.000Z",
-      "headline": "Google Gemini&#x2019;s investment advice is much more conservative than a human adviser &#x2014; here&#x2019;s what that could cost you",
-      "url": "https://www.marketwatch.com/story/if-you-take-investing-advice-from-ai-it-could-cost-you-thousands-heres-why-b1f5397f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "COST"
-      ],
-      "summary_en": "Three things ordinary investors should know before seeking financial advice from a human being &#x2014; or a machine.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-15T17:39:00.000Z",
-      "headline": "What&#x2019;s our FIRE number? We make $475,000 together and have more than $2 million saved",
-      "url": "https://www.marketwatch.com/story/whats-our-fire-number-we-make-475-000-together-and-have-more-than-2-million-saved-79c412b8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I think If I live in India between the ages of 60 to 65 years old, I will save a lot of money.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-15T17:39:00.000Z",
-      "headline": "If you thought getting approved for Medicaid was hard, wait until you try to use it for this",
-      "url": "https://www.marketwatch.com/story/if-you-thought-getting-approved-for-medicaid-was-hard-wait-until-you-try-to-use-it-for-this-7f38a927?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Strategizing in advance &#xad;can really pay off when it comes to Medicaid-funded nursing-home placements.",
+      "summary_en": "&#x201c;Once the check clears, the buyer will send a trailer to pick up the car.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -109,42 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-16T03:37:00.000Z",
-      "headline": "&#x2018;I&#x2019;m a big fan of DIY investing&#x2019;: I&#x2019;m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
-      "url": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-16T00:33:00.000Z",
-      "headline": "I have a $10K expense. Do I withdraw money from my investments or my high-yield savings account?",
-      "url": "https://www.marketwatch.com/story/i-have-a-10k-expense-do-i-withdraw-money-from-my-investments-or-my-high-yield-savings-account-d1d871db?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;It will likely take me about a year to replace the $10,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-15T20:13:00.000Z",
-      "headline": "I found an out-of-state buyer for my grandmother&#x2019;s classic car. He wants me to cash a check. Is this a financial scam?",
-      "url": "https://www.marketwatch.com/story/i-found-an-out-of-state-buyer-for-my-grandmothers-classic-car-he-wants-me-to-cash-a-check-is-this-a-scam-b958ee25?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Once the check clears, the buyer will send a trailer to pick up the car.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
