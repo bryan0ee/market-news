@@ -1,56 +1,8 @@
 {
-  "last_updated": "2025-11-17T13:34:06.790Z",
+  "last_updated": "2025-11-17T23:27:59.677Z",
   "items": [
     {
-      "ts": "2025-11-17T13:28:00.000Z",
-      "headline": "This stock trader was called a &#x2018;market wizard&#x2019; &#x2014; she&#x2019;s now revealing how her magic works",
-      "url": "https://www.marketwatch.com/story/this-stock-trader-was-called-a-market-wizard-shes-now-revealing-how-her-magic-works-c9767416?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Linda Raschke shares the secret to her successful trading career and how to play to win.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T13:10:00.000Z",
-      "headline": "Boeing&#x2019;s 777X has had its problems, but the orders keep coming",
-      "url": "https://www.marketwatch.com/story/boeings-777x-has-had-its-problems-but-the-orders-keep-coming-4f7de0cb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Boeing announced an order of 65 777X twin-engine aircraft from Dubai-based Emirates, while GE Aerospace received orders for 130 engines to fly those jets.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T12:44:00.000Z",
-      "headline": "Morgan Stanley hikes S&P 500 target for next year. Here are the plays to make.",
-      "url": "https://www.marketwatch.com/story/morgan-stanley-hikes-s-p-500-target-for-next-year-here-are-the-plays-to-make-388cad9a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Earnings growth and an accommodative Fed will support market multiples says Mike Wilson",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T12:43:00.000Z",
-      "headline": "Peter Thiel follows SoftBank in quitting Nvidia position as talk of AI bubble intensifies",
-      "url": "https://www.marketwatch.com/story/first-softbank-and-now-peter-thiel-dumps-nvidia-position-as-talk-of-ai-bubble-intensifies-06d184b4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A week after Japan&#x2019;s richest man disclosed that his firm fully divested his $5.8 billion stake in Nvidia, one of America&#x2019;s richest, Peter Thiel, has said he&#x2019;s done the same.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T12:43:00.000Z",
+      "ts": "2025-11-17T22:59:00.000Z",
       "headline": "Alphabet&#x2019;s stock gets a Buffett bump. Here&#x2019;s the next big Google catalyst.",
       "url": "https://www.marketwatch.com/story/alphabets-stock-gets-a-buffett-bump-heres-the-next-big-google-catalyst-c4dd2ed4?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,64 +14,111 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-17T12:00:00.000Z",
-      "headline": "I&#x2019;m 51, married and pay $200 a month for a $1.5 million term life insurance policy. When should I cancel it?",
-      "url": "https://www.marketwatch.com/story/im-51-married-and-pay-200-a-month-for-a-1-5-million-term-life-insurance-policy-when-should-i-cancel-it-fd4fc019?mod=mw_rss_topstories",
+      "ts": "2025-11-17T22:54:00.000Z",
+      "headline": "Tesla&#x2019;s stock could climb by more than 25% as robotaxi efforts intensify, analyst says",
+      "url": "https://www.marketwatch.com/story/teslas-stock-could-climb-by-more-than-25-as-robotaxi-efforts-intensify-analyst-says-1d8c0bac?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I am five years from financial independence.&#x201d;",
+      "summary_en": "The bulk of Stifel&#x2019;s new Tesla price target is predicated on the company&#x2019;s Full Self-Driving and robotaxi technologies.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-17T11:22:00.000Z",
-      "headline": "These 13 tech stocks have grown profits rapidly &#x2014;&#xa0;and they&#x2019;re still on sale",
-      "url": "https://www.marketwatch.com/story/these-13-tech-stocks-have-grown-profits-rapidly-and-their-stocks-are-still-on-sale-2175c2d2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "Meta, Nvidia and Microsoft shares trade at discounts to their historical valuations, along with other plays in the chip and software sectors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T11:06:00.000Z",
-      "headline": "&#x2018;I still have horrible memories of the Bernie Madoff scandal&#x2019;: I&#x2019;m 63. Who can I trust with my $655,000 401(k)?",
-      "url": "https://www.marketwatch.com/story/i-still-have-horrible-memories-of-the-bernie-madoff-scandal-im-63-who-can-i-trust-with-my-655-000-401-k-e6fca6d8?mod=mw_rss_topstories",
+      "ts": "2025-11-17T22:51:00.000Z",
+      "headline": "Boeing&#x2019;s 777X has had its problems, but the orders keep coming",
+      "url": "https://www.marketwatch.com/story/boeings-777x-has-had-its-problems-but-the-orders-keep-coming-4f7de0cb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I was forced into early retirement.&#x201d;",
+      "summary_en": "Boeing announced an order of 65 777X twin-engine aircraft from Dubai-based Emirates, while GE Aerospace received orders for 130 engines to fly those jets.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-17T10:52:00.000Z",
-      "headline": "One of Warren Buffett&#x2019;s last moves as Berkshire CEO was to buy this &#x2018;Magnificent Seven&#x2019; tech stock",
-      "url": "https://www.marketwatch.com/story/one-of-warren-buffetts-last-moves-as-berkshire-ceo-was-to-buy-this-magnificent-seven-tech-stock-cb781323?mod=mw_rss_topstories",
+      "ts": "2025-11-17T22:49:00.000Z",
+      "headline": "The memory boom has been great for Micron &#x2014; but could hurt these other tech stocks",
+      "url": "https://www.marketwatch.com/story/the-memory-boom-has-been-great-for-micron-but-could-hurt-these-other-tech-stocks-cda5f363?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "GOOGL",
         "ED"
       ],
-      "summary_en": "Berkshire Hathaway has disclosed a stake in Google parent Alphabet that&#x2019;s now worth about $5 billion.",
+      "summary_en": "Morgan Stanley analysts are getting worried about potential profit pressure at Dell and HP due to surging memory prices.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-17T12:46:00.000Z",
-      "headline": "&#x2018;I&#x2019;m a big fan of DIY investing&#x2019;: I&#x2019;m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
-      "url": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
+      "ts": "2025-11-17T21:49:00.000Z",
+      "headline": "Bitcoin just wiped out all of its 2025 gains. What a crypto winter could look like.",
+      "url": "https://www.marketwatch.com/story/bitcoin-just-wiped-out-all-of-its-2025-gains-what-a-crypto-winter-could-look-like-a4f206fe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "So far, this bitcoin selloff mostly consists of holders taking profits, not sellers getting hit with margin calls, says CryptoQuant",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T21:49:00.000Z",
+      "headline": "S&P 500, Nasdaq book their worst day in a month. More selling could be on the way.",
+      "url": "https://www.marketwatch.com/story/s-p-500-nasdaq-book-their-worst-day-in-a-month-more-selling-could-be-on-the-way-91cdcca0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Monday&#x2019;s selloff in U.S. stocks was accompanied by a troubling development that could signal more selling pressure on the way.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T21:20:00.000Z",
+      "headline": "Sinclair makes a move for Scripps as Trump&#x2019;s deregulation push makes previously unthinkable deals possible",
+      "url": "https://www.marketwatch.com/story/sinclair-makes-a-move-for-scripps-as-trumps-deregulation-push-makes-previously-unthinkable-deals-possible-95668041?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The FCC has moved to loosen restrictions on local TV ownership, and remove caps on how many TV stations one company can own, which could pave the way for a Sinclair-Scripps merger",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T21:13:00.000Z",
+      "headline": "SpaceX hits a new milestone that shows why it&#x2019;s dominating modern spaceflight",
+      "url": "https://www.marketwatch.com/story/spacex-hits-a-new-milestone-that-shows-why-its-dominating-modern-spaceflight-d3d3063b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Elon Musk says his aerospace company will launch 90% of the world&#x2019;s payload this year. Key to that goal is keeping costs down with reusable boosters.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T20:56:00.000Z",
+      "headline": "Fed&#x2019;s Waller backs December rate cut &#x2014; and he&#x2019;s &#x2018;unlikely&#x2019; to change his mind. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/feds-waller-backs-december-rate-cut-and-hes-unlikely-to-change-his-mind-heres-why-b7dbaffa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve governor Christopher Waller said he supports another quarter-point cut in a key U.S. interest rate in December to help boost an ailing U.S. labor market &#x2014; and he doubts that he&#x2019;ll change his mind.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T22:12:00.000Z",
+      "headline": "Bitcoin isn&#x2019;t dead &#x2014; it&#x2019;s having an IPO moment. Here&#x2019;s when the selling will stop.",
+      "url": "https://www.marketwatch.com/story/bitcoin-isnt-dead-its-having-an-ipo-moment-heres-when-the-selling-will-stop-ef9d4026?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
+      "summary_en": "Why bitcoin is in a bear market and why it may go lower. And why I&#x2019;m still buying it for my grandkids.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
