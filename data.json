@@ -1,6 +1,90 @@
 {
-  "last_updated": "2025-11-16T23:26:18.667Z",
+  "last_updated": "2025-11-17T10:47:08.682Z",
   "items": [
+    {
+      "ts": "2025-11-17T09:59:00.000Z",
+      "headline": "Kugler&#x2019;s active stock-market trades violated Fed rules. Here&#x2019;s how they performed.",
+      "url": "https://www.marketwatch.com/story/kuglers-active-stock-market-trades-violated-fed-rules-heres-how-they-performed-41e4346f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The stock-market trades that former Federal Reserve Gov. Adriana Kugler made while serving on the central bank&#x2019;s board violated policy. At least one buy and sale was very profitable.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T09:42:00.000Z",
+      "headline": "First SoftBank, and now Peter Thiel dumps Nvidia position as talk of AI bubble intensifies",
+      "url": "https://www.marketwatch.com/story/first-softbank-and-now-peter-thiel-dumps-nvidia-position-as-talk-of-ai-bubble-intensifies-06d184b4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A week after Japan&#x2019;s richest man disclosed that his firm fully divested his $5.8 billion stake in Nvidia, one of America&#x2019;s richest, Peter Thiel, has said he&#x2019;s done the same.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T10:29:00.000Z",
+      "headline": "&#x2018;This is not a money grab&#x2019;: Against our mom&#x2019;s wishes, our father is leaving their estate to his church. How do we stop him?",
+      "url": "https://www.marketwatch.com/story/this-is-not-a-money-grab-against-our-moms-wishes-our-father-is-leaving-their-estate-to-his-church-how-do-we-stop-him-c10e9fe6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;It is about respecting our mother&#x2019;s wishes.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T03:59:00.000Z",
+      "headline": "U.S. stock futures inch higher as investors anxiously await Nvidia earnings",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-anxiously-await-nvidia-earnings-69f72426?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock futures were little changed on Sunday, following a choppy week on Wall Street.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T03:22:00.000Z",
+      "headline": "The economy survived the government shutdown &#x2014; but all is not well",
+      "url": "https://www.marketwatch.com/story/the-economy-survived-the-government-shutdown-but-all-is-not-well-6e1afb0e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The U.S. economy didn&#x2019;t get any better during the longest government shutdown in history, but the good news is that it probably didn&#x2019;t get much worse.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T00:31:00.000Z",
+      "headline": "&#x2018;My pay was cut 30%&#x2019;: I have $12K in credit-card debt. Is it time to take a loan from my 401(k)?",
+      "url": "https://www.marketwatch.com/story/i-have-12k-in-credit-card-debt-due-to-health-issues-and-a-30-pay-cut-is-it-finally-time-to-take-a-loan-from-my-401-k-e2dec117?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Because of a downturn in my industry, my pay was cut 30%.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-16T23:22:00.000Z",
       "headline": "My husband, 73, is giving me a life estate in his home, yet leaving his son a $200K Porsche. Is this cause for divorce?",
@@ -11,18 +95,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I am not listed on his bank accounts.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-16T23:20:00.000Z",
-      "headline": "U.S. stock futures little changed as investors anxiously await Nvidia earnings",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-anxiously-await-nvidia-earnings-69f72426?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stock futures were little changed on Sunday, following a choppy week on Wall Street.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -50,90 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-16T20:38:00.000Z",
-      "headline": "The stock market faces big questions about the economy this week. How to be strategic as delayed data comes out.",
-      "url": "https://www.marketwatch.com/story/the-stock-market-faces-big-questions-about-the-economy-this-week-how-to-be-strategic-as-delayed-data-comes-out-fd7f5e2c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Stock investors may be in for an unsettling start to the week if doubts about the AI trade keep colliding with concerns around the upcoming release of backlogged economic data.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-16T20:10:00.000Z",
-      "headline": "Chevron, Exxon plan to keep boosting oil production, even as crude gets cheaper. What gives?",
-      "url": "https://www.marketwatch.com/story/chevron-exxon-plan-to-keep-boosting-oil-production-even-as-crude-gets-cheaper-what-gives-74851e21?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Chevron and Exxon are &#x201c;deep-pocketed names that are thinking 20 and 30 years out.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-16T17:11:00.000Z",
-      "headline": "401(k) hardship withdrawals more than double as people raid their retirement savings for emergencies",
-      "url": "https://www.marketwatch.com/story/401-k-hardship-withdrawals-more-than-double-as-people-raid-their-retirement-savings-for-emergencies-d2217ef4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Soaring cost of living pressures workers to take hardship withdrawals. &#x2018;Life has just gotten more expensive.&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-16T15:32:00.000Z",
-      "headline": "Medicare Part B premiums will rise 10% in 2026, wiping away a third of Social Security&#x2019;s COLA",
-      "url": "https://www.marketwatch.com/story/medicare-part-b-premiums-will-rise-10-in-2026-wiping-away-a-third-of-social-securitys-cola-abb08324?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Premiums will be $202.90 a month, coming directly out of monthly Social Security checks",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-16T17:30:00.000Z",
-      "headline": "&#x2018;I&#x2019;m a big fan of DIY investing&#x2019;: I&#x2019;m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
-      "url": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-12T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-16T14:41:00.000Z",
-      "headline": "I found an out-of-state buyer for my grandmother&#x2019;s classic car. He wants me to cash a check. Is this a financial scam?",
-      "url": "https://www.marketwatch.com/story/i-found-an-out-of-state-buyer-for-my-grandmothers-classic-car-he-wants-me-to-cash-a-check-is-this-a-scam-b958ee25?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Once the check clears, the buyer will send a trailer to pick up the car.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-13T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
@@ -143,6 +131,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-16T23:35:00.000Z",
+      "headline": "&#x2018;I&#x2019;m a big fan of DIY investing&#x2019;: I&#x2019;m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
+      "url": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&P 500.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
