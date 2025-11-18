@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-11-18T13:34:01.848Z",
+  "last_updated": "2025-11-18T23:26:56.493Z",
   "items": [
     {
-      "ts": "2025-11-18T13:09:00.000Z",
+      "ts": "2025-11-18T22:38:00.000Z",
       "headline": "&#x2018;I still have horrible memories of the Bernie Madoff scandal&#x2019;: At 63, who can I trust with my $655K retirement fund?",
       "url": "https://www.marketwatch.com/story/i-still-have-horrible-memories-of-the-bernie-madoff-scandal-im-63-who-can-i-trust-with-my-655-000-401-k-e6fca6d8?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,8 +14,8 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T13:05:00.000Z",
-      "headline": "OpenAI isn&#x2019;t too big to fail &#x2014; and Big Tech would be fine with that",
+      "ts": "2025-11-18T22:36:00.000Z",
+      "headline": "OpenAI is AI&#x2019;s leading indicator. Does that make it too big to fail?",
       "url": "https://www.marketwatch.com/story/openai-isnt-too-big-to-fail-and-big-tech-would-be-fine-with-that-dd4c9a89?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -26,67 +26,80 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T12:45:00.000Z",
-      "headline": "Why the Fed has less sway over the stock market than investors think",
-      "url": "https://www.marketwatch.com/story/why-the-fed-has-less-sway-over-the-stock-market-than-investors-think-c8f6d5ad?mod=mw_rss_topstories",
+      "ts": "2025-11-18T21:55:00.000Z",
+      "headline": "President Trump is threatening to relocate some 2026 FIFA World Cup games. Should fans be worried?",
+      "url": "https://www.marketwatch.com/story/president-trump-is-threatening-to-relocate-some-2026-fifa-world-cup-games-should-fans-be-worried-e64219a4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Interest-rate moves have surprisingly little market-forecasting ability.",
+      "summary_en": "&#x201c;The governors and mayors are going to have to behave,&#x201d; Trump said about certain Democratic leaders.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T12:43:00.000Z",
-      "headline": "Home Depot&#x2019;s stock sinks as good weather and housing weakness lead to a profit miss",
-      "url": "https://www.marketwatch.com/story/home-depots-stock-drops-as-housing-market-weakness-lack-of-storms-hurt-demand-174a026d?mod=mw_rss_topstories",
+      "ts": "2025-11-18T21:53:00.000Z",
+      "headline": "Callaway Golf is selling off most of Topgolf on the cheap &#x2014; and ditching the name",
+      "url": "https://www.marketwatch.com/story/callaway-golf-is-selling-off-most-of-topgolf-on-the-cheap-and-ditching-the-name-7e1bbfe6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "PG"
       ],
-      "summary_en": "Home Depot&#x2019;s stock dropped toward a seven month low after an earnings miss and downbeat outlook.",
+      "summary_en": "The Callaway golf company is selling off 60% of its stake in its Topgolf business at a significantly discounted valuation, and changing its name back to what it was before the business was purchased.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T12:35:00.000Z",
-      "headline": "Fund managers are bullish. Bank of America warns of trouble ahead if the Fed doesn&#x2019;t cut.",
-      "url": "https://www.marketwatch.com/story/fund-managers-are-bullish-bank-of-america-warns-of-trouble-ahead-if-the-fed-doesnt-cut-959459d3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bank of America&#x2019;s fund management survey for November highlights clear and present danger: investors are the most overweight stocks they&#x2019;ve been since February, portfolio cash levels of just 3.7% are generating a technical sell signal and that &#x201c;positioning is a headwind, not tailwind for risk assets.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T13:23:00.000Z",
-      "headline": "What is Cloudflare, and why is it causing outages across the internet today",
+      "ts": "2025-11-18T21:46:00.000Z",
+      "headline": "What is Cloudflare, and why did it cause outages across the internet today?",
       "url": "https://www.marketwatch.com/story/what-is-cloudflare-and-why-is-it-causing-outages-across-the-internet-today-55fe35af?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "As services like X and ChatGPT experience disruptions, attention turns to Cloudflare, the $70 billion company that helps route network traffic behind the scenes.",
+      "summary_en": "As services like X and ChatGPT experienced disruptions, attention turned to Cloudflare, the $70 billion company that helps route network traffic behind the scenes.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T13:16:00.000Z",
-      "headline": "Bitcoin isn&#x2019;t dead &#x2014; it&#x2019;s having an IPO moment. Here&#x2019;s when the selling will stop.",
-      "url": "https://www.marketwatch.com/story/bitcoin-isnt-dead-its-having-an-ipo-moment-heres-when-the-selling-will-stop-ef9d4026?mod=mw_rss_topstories",
+      "ts": "2025-11-18T21:43:00.000Z",
+      "headline": "I&#x2019;m 51, married and pay $200 a month for a $1.5 million term life insurance policy. When should I cancel it?",
+      "url": "https://www.marketwatch.com/story/im-51-married-and-pay-200-a-month-for-a-1-5-million-term-life-insurance-policy-when-should-i-cancel-it-fd4fc019?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am five years from financial independence.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T22:54:00.000Z",
+      "headline": "Why Apple&#x2019;s stock is beating the market even as tech stocks sell off",
+      "url": "https://www.marketwatch.com/story/why-apples-stock-is-beating-the-market-even-as-tech-stocks-sell-off-67178f96?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Apple has been seen as an AI loser. That means its stock hasn&#x2019;t gotten caught up in the heavy selling pressure on AI stocks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T23:15:00.000Z",
+      "headline": "Living to 100 is becoming a reality. Can you afford it?",
+      "url": "https://www.marketwatch.com/story/theres-a-good-chance-youll-live-to-be-100-will-your-money-let-you-c5f7e52c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Why bitcoin is in a bear market and why it may go lower. And why I&#x2019;m still buying it for my grandkids.",
+      "summary_en": "The odds of becoming a centenarian are growing &#x2014; how to plan for the possibility",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T13:09:00.000Z",
+      "ts": "2025-11-18T22:42:00.000Z",
       "headline": "&#x2018;Our mom is fuming&#x2019;: Defying our dying mother&#x2019;s wishes, our dad is leaving our family&#x2019;s money to his church. How do we stop him?",
       "url": "https://www.marketwatch.com/story/this-is-not-a-money-grab-against-our-moms-wishes-our-father-is-leaving-their-estate-to-his-church-how-do-we-stop-him-c10e9fe6?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,27 +111,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T13:00:00.000Z",
-      "headline": "There&#x2019;s a good chance you&#x2019;ll live to be 100. Will your money let you?",
-      "url": "https://www.marketwatch.com/story/theres-a-good-chance-youll-live-to-be-100-will-your-money-let-you-c5f7e52c?mod=mw_rss_topstories",
+      "ts": "2025-11-18T22:16:00.000Z",
+      "headline": "Nio&#x2019;s stock suffers longest losing streak in nearly two years as earnings pressure builds",
+      "url": "https://www.marketwatch.com/story/nios-stock-suffers-longest-losing-streak-in-nearly-two-years-as-earnings-pressure-builds-5e28f78e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The odds of becoming a centenarian are growing &#x2014; how to plan for the possibility",
+      "summary_en": "Nio reports third-quarter results next week. After that the company will be in the hot seat, as it&#x2019;s set out to reach profitability by the fourth quarter.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T12:36:00.000Z",
-      "headline": "This sector is heating up as investors get skittish on tech. Why it may be the dark horse for 2026.",
-      "url": "https://www.marketwatch.com/story/this-sector-is-heating-up-as-investors-get-skittish-on-tech-why-it-may-be-the-dark-horse-for-2026-8ace2f65?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-11-18T14:00:00.000Z",
+      "headline": "Federal Reserve Board releases information regarding enhancements to bank supervision",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251118a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "With doubts building among some investors over the staying power of tech stocks, here&#x2019;s one sector idea that is starting to come into its own.",
+      "summary_en": "Federal Reserve Board releases information regarding enhancements to bank supervision",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
