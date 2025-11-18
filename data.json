@@ -1,6 +1,114 @@
 {
-  "last_updated": "2025-11-17T23:27:59.677Z",
+  "last_updated": "2025-11-18T10:47:08.006Z",
   "items": [
+    {
+      "ts": "2025-11-18T10:30:00.000Z",
+      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
+      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T10:26:00.000Z",
+      "headline": "This hedge fund says the trouble with bubbles is that they&#x2019;re not predictive",
+      "url": "https://www.marketwatch.com/story/this-hedge-fund-says-the-trouble-with-bubbles-is-that-theyre-not-predictive-0b1e25a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The November newsletter of one of the more successful hedge funds of recent times makes it clear that while U.S. valuations are indisputably stretched, it&#x2019;s not at all useful for market timing.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T10:07:00.000Z",
+      "headline": "Here&#x2019;s the message to draw from the S&P 500 falling below the 50-day average for the first time in 139 sessions",
+      "url": "https://www.marketwatch.com/story/heres-the-message-to-draw-from-the-s-p-500-falling-below-the-50-day-average-for-the-first-time-in-139-sessions-b34ae303?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As the S&P 500 broke below the 50-day average for the first time in 139 sessions, MarketWatch looked back to find out what happened when the benchmark index broke below that technical level in the past.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T04:06:00.000Z",
+      "headline": "Once you reach this magic number in emergency savings, &#x2018;you no longer have to give up hope&#x2019; financially",
+      "url": "https://www.marketwatch.com/story/this-is-how-much-cash-you-need-to-start-transforming-your-financial-well-being-61854a2c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "While having $2,000 saved is still well below the amount financial planners recommend for a full emergency fund, surveys show that it is a critical threshold for people&#x2019;s financial well-being. Here&#x2019;s why.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T02:45:00.000Z",
+      "headline": "This chart shows how badly Strategy&#x2019;s stock has performed since bitcoin&#x2019;s peak",
+      "url": "https://www.marketwatch.com/story/this-chart-shows-how-badly-strategys-stock-has-performed-since-bitcoins-peak-13d45776?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "While Strategy&#x2019;s stock has fallen a lot more than bitcoin, since bitcoin peaked in early October, the correlation between the two has actually increased.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T01:58:00.000Z",
+      "headline": "SpaceX hits a new milestone that shows why it&#x2019;s dominating modern spaceflight",
+      "url": "https://www.marketwatch.com/story/spacex-hits-a-new-milestone-that-shows-why-its-dominating-modern-spaceflight-d3d3063b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Elon Musk says his aerospace company will launch 90% of the world&#x2019;s payload this year. Key to that goal is keeping costs down with reusable boosters.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-12T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-17T23:44:00.000Z",
+      "headline": "This stock trader was called a &#x2018;market wizard&#x2019; &#x2014; she&#x2019;s now revealing how she performs her magic",
+      "url": "https://www.marketwatch.com/story/this-stock-trader-was-called-a-market-wizard-shes-now-revealing-how-her-magic-works-c9767416?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Linda Raschke shares the secret to her successful trading career and how to play to win.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T02:23:00.000Z",
+      "headline": "Tech on pace to snap seven straight months of gains as AI fuels bubble fears",
+      "url": "https://www.marketwatch.com/story/tech-on-pace-to-snap-seven-straight-months-of-gains-as-ai-fuels-bubble-fears-b10c5d5a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The S&P 500&#x2019;s tech sector is under increasing pressure this month, with some investors fearing a stock-market bubble amid the AI race.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-17T22:59:00.000Z",
       "headline": "Alphabet&#x2019;s stock gets a Buffett bump. Here&#x2019;s the next big Google catalyst.",
@@ -23,114 +131,6 @@
         "ED"
       ],
       "summary_en": "The bulk of Stifel&#x2019;s new Tesla price target is predicated on the company&#x2019;s Full Self-Driving and robotaxi technologies.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T22:51:00.000Z",
-      "headline": "Boeing&#x2019;s 777X has had its problems, but the orders keep coming",
-      "url": "https://www.marketwatch.com/story/boeings-777x-has-had-its-problems-but-the-orders-keep-coming-4f7de0cb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Boeing announced an order of 65 777X twin-engine aircraft from Dubai-based Emirates, while GE Aerospace received orders for 130 engines to fly those jets.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T22:49:00.000Z",
-      "headline": "The memory boom has been great for Micron &#x2014; but could hurt these other tech stocks",
-      "url": "https://www.marketwatch.com/story/the-memory-boom-has-been-great-for-micron-but-could-hurt-these-other-tech-stocks-cda5f363?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Morgan Stanley analysts are getting worried about potential profit pressure at Dell and HP due to surging memory prices.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T21:49:00.000Z",
-      "headline": "Bitcoin just wiped out all of its 2025 gains. What a crypto winter could look like.",
-      "url": "https://www.marketwatch.com/story/bitcoin-just-wiped-out-all-of-its-2025-gains-what-a-crypto-winter-could-look-like-a4f206fe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "So far, this bitcoin selloff mostly consists of holders taking profits, not sellers getting hit with margin calls, says CryptoQuant",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T21:49:00.000Z",
-      "headline": "S&P 500, Nasdaq book their worst day in a month. More selling could be on the way.",
-      "url": "https://www.marketwatch.com/story/s-p-500-nasdaq-book-their-worst-day-in-a-month-more-selling-could-be-on-the-way-91cdcca0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Monday&#x2019;s selloff in U.S. stocks was accompanied by a troubling development that could signal more selling pressure on the way.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T21:20:00.000Z",
-      "headline": "Sinclair makes a move for Scripps as Trump&#x2019;s deregulation push makes previously unthinkable deals possible",
-      "url": "https://www.marketwatch.com/story/sinclair-makes-a-move-for-scripps-as-trumps-deregulation-push-makes-previously-unthinkable-deals-possible-95668041?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The FCC has moved to loosen restrictions on local TV ownership, and remove caps on how many TV stations one company can own, which could pave the way for a Sinclair-Scripps merger",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T21:13:00.000Z",
-      "headline": "SpaceX hits a new milestone that shows why it&#x2019;s dominating modern spaceflight",
-      "url": "https://www.marketwatch.com/story/spacex-hits-a-new-milestone-that-shows-why-its-dominating-modern-spaceflight-d3d3063b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Elon Musk says his aerospace company will launch 90% of the world&#x2019;s payload this year. Key to that goal is keeping costs down with reusable boosters.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T20:56:00.000Z",
-      "headline": "Fed&#x2019;s Waller backs December rate cut &#x2014; and he&#x2019;s &#x2018;unlikely&#x2019; to change his mind. Here&#x2019;s why.",
-      "url": "https://www.marketwatch.com/story/feds-waller-backs-december-rate-cut-and-hes-unlikely-to-change-his-mind-heres-why-b7dbaffa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve governor Christopher Waller said he supports another quarter-point cut in a key U.S. interest rate in December to help boost an ailing U.S. labor market &#x2014; and he doubts that he&#x2019;ll change his mind.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-17T22:12:00.000Z",
-      "headline": "Bitcoin isn&#x2019;t dead &#x2014; it&#x2019;s having an IPO moment. Here&#x2019;s when the selling will stop.",
-      "url": "https://www.marketwatch.com/story/bitcoin-isnt-dead-its-having-an-ipo-moment-heres-when-the-selling-will-stop-ef9d4026?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Why bitcoin is in a bear market and why it may go lower. And why I&#x2019;m still buying it for my grandkids.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-12T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
