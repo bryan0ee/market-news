@@ -1,104 +1,128 @@
 {
-  "last_updated": "2025-11-19T13:34:01.998Z",
+  "last_updated": "2025-11-19T23:27:24.332Z",
   "items": [
     {
-      "ts": "2025-11-19T13:25:00.000Z",
-      "headline": "TJ Maxx parent&#x2019;s sales surge, as consumers continue to enjoy the hunt for off-price goods",
-      "url": "https://www.marketwatch.com/story/tj-maxx-parents-sales-surge-as-consumers-continue-to-enjoy-the-hunt-for-off-price-goods-96b1419e?mod=mw_rss_topstories",
+      "ts": "2025-11-19T22:33:00.000Z",
+      "headline": "Bitcoin&#x2019;s bear market is dragging the crypto below $90,000. Follow its price since President Trump&#x2019;s election.",
+      "url": "https://www.marketwatch.com/story/bitcoins-bear-market-is-dragging-the-crypto-below-90-000-follow-its-price-since-president-trumps-election-37743369?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The crypto market has shed $1.2 trillion in market value amid a dramatic selloff since October.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T22:12:00.000Z",
+      "headline": "Scandals aren&#x2019;t slowing America&#x2019;s sports-betting boom. But they&#x2019;ve led some prop bets to shrink to a maximum win of just $200.",
+      "url": "https://www.marketwatch.com/story/scandals-arent-slowing-americas-sports-betting-boom-but-theyve-led-some-prop-bets-to-shrink-to-a-maximum-win-of-just-200-1cadf12e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The NBA, MLB and NFL have all worked with betting companies to put restrictions on prop bets &#x2014; wagers placed on a specific statistic within a game",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T22:10:00.000Z",
+      "headline": "Palo Alto Networks&#x2019; earnings fail to wow Wall Street &#x2014; even with a new AI deal",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-earnings-fail-to-wow-wall-street-even-with-a-new-ai-deal-ded5d1fb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The cybersecurity company&#x2019;s stock has lagged the S&P 500 this year, and that underperformance could continue after its latest results.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T21:27:00.000Z",
+      "headline": "OpenAI is AI&#x2019;s leading indicator. Does that make it too big to fail?",
+      "url": "https://www.marketwatch.com/story/openai-isnt-too-big-to-fail-and-big-tech-would-be-fine-with-that-dd4c9a89?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "No tech company owed money by OpenAI would be bankrupted by the AI giant&#x2019;s demise.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T20:27:00.000Z",
+      "headline": "Block&#x2019;s stock has suffered in a &#x2018;dismal&#x2019; fintech market. Can these new numbers change its course?",
+      "url": "https://www.marketwatch.com/story/blocks-stock-has-suffered-in-a-dismal-fintech-market-can-these-new-numbers-change-its-course-29f01fa3?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of the parent company of T.J. Maxx and Marshalls climbed into record territory as quarterly results beat on all the key metrics, as customers continued to flock to its off-price goods.",
+      "summary_en": "The parent company of Square and Cash App offers an upbeat long-term earnings forecast as it hosts its first investor day since 2022.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-19T12:25:00.000Z",
-      "headline": "Target sales disappoint as store traffic and spending decline",
+      "ts": "2025-11-19T21:10:00.000Z",
+      "headline": "Fed minutes suggest there may not be majority support for a December rate cut",
+      "url": "https://www.marketwatch.com/story/fed-minutes-show-strongly-differing-views-over-whether-to-cut-interest-rates-again-in-december-df3b15b2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Fed officials noted last month elevated uncertainty about the U.S. economic outlook.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T21:00:00.000Z",
+      "headline": "Microsoft is at risk of falling behind Google in this measure of tech supremacy",
+      "url": "https://www.marketwatch.com/story/microsoft-is-at-risk-of-falling-behind-google-in-this-measure-of-tech-supremacy-20f09e9a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL"
+      ],
+      "summary_en": "Google&#x2019;s AI momentum has brought its market capitalization within striking distance of Microsoft&#x2019;s. Can Microsoft keep its lead?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T20:04:00.000Z",
+      "headline": "Investors beware: Red flags are going up across the stock market.",
+      "url": "https://www.marketwatch.com/story/the-red-flags-are-going-up-across-the-stock-market-will-investors-notice-1edc3603?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Now is a good time to check your risk level.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T20:04:00.000Z",
+      "headline": "As sales keep falling, Target says bigger stores and AI-assisted styles are its path to salvation",
       "url": "https://www.marketwatch.com/story/target-sales-disappoint-as-store-traffic-and-spending-decline-5e1f8efa?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Target&#x2019;s stock was falling as profit beat expectations, but the full-year outlook was trimmed and comparable sales declined for a third consecutive quarter.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-19T13:00:00.000Z",
-      "headline": "Roth conversions will bring my income up to $400K. I&#x2019;m 68. How much should I move over?",
-      "url": "https://www.marketwatch.com/story/roth-conversions-will-bring-my-income-up-to-400k-im-68-how-much-should-i-move-over-29837257?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201d;I know all about taxes, Medicare, growth rate, inflation, Roth conversions, etc.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-19T12:18:00.000Z",
-      "headline": "Lowe&#x2019;s delivers an earnings beat, and tops Home Depot on a key sales metric",
-      "url": "https://www.marketwatch.com/story/lowes-bests-home-depot-on-a-key-sales-metric-and-with-an-earnings-beat-bfc69c4f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Lowe&#x2019;s stock bounces after comparable-sales growth missed expectations but outpaced that of its key rival, as profit beat expectations.",
+      "summary_en": "As Target&#x2019;s quarterly results and holiday outlook on Wednesday offered up more disappointment for investors, the big-box retailer tried to focus Wall Street&#x2019;s attention on the future.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-19T10:31:00.000Z",
-      "headline": "Bud Light&#x2019;s struggling. Now its owner is reportedly buying a punch maker.",
-      "url": "https://www.marketwatch.com/story/bud-lights-struggling-now-its-owner-is-reportedly-buying-a-punch-maker-62f42c5c?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-11-19T19:00:00.000Z",
+      "headline": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Anheuser-Busch InBev , one of the world&#x2019;s largest beer companies and owner of brands like Budweiser, Stella Artois and Michelob, is reportedly in talks to buy BeatBox, a manufacturer of boxed, wine-based punch, for around $700 million.",
+      "summary_en": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-19T12:54:00.000Z",
-      "headline": "T-bill and chill: Robinhood CIO on what to do after the selloff and the danger markets are ignoring",
-      "url": "https://www.marketwatch.com/story/t-bill-and-chill-robinhood-cio-on-what-to-do-after-the-selloff-and-the-danger-markets-are-ignoring-7a5e1ade?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The best move investors can make right now may be to just &#x2018;sit tight,&#x2019; says Robinhood&#x2019;s CIO Stephanie Guild.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-19T12:30:00.000Z",
-      "headline": "I&#x2019;m 27. I earn $105K and my boyfriend, 28, earns $63K. What percentage of our rent should I be paying?",
-      "url": "https://www.marketwatch.com/story/im-27-i-earn-105k-and-my-boyfriend-28-earns-63k-what-percentage-of-our-rent-should-i-be-paying-b4d1d610?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He doesn&#x2019;t have a lot of savings because of his lower income and student-loan payments.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-19T12:00:00.000Z",
-      "headline": "Expect more secondhand holiday gifts this year &#x2014; thanks in part to Gen Z&#x2019;s love of thrifting",
-      "url": "https://www.marketwatch.com/story/expect-more-secondhand-holiday-gifts-this-year-thanks-in-part-to-gen-zs-love-of-thrifting-12035cfe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "As households face tighter budgets, experts anticipate more people will shop secondhand for gifts this holiday season.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-19T10:15:00.000Z",
+      "ts": "2025-11-19T21:49:00.000Z",
       "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
       "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -107,18 +131,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-19T02:52:00.000Z",
-      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
-      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board releases information regarding enhancements to bank supervision",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-12T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by ID Bank CJSC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251112a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by ID Bank CJSC",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
