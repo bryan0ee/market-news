@@ -1,33 +1,71 @@
 {
-  "last_updated": "2025-11-18T23:26:56.493Z",
+  "last_updated": "2025-11-19T10:46:04.170Z",
   "items": [
     {
-      "ts": "2025-11-18T22:38:00.000Z",
-      "headline": "&#x2018;I still have horrible memories of the Bernie Madoff scandal&#x2019;: At 63, who can I trust with my $655K retirement fund?",
-      "url": "https://www.marketwatch.com/story/i-still-have-horrible-memories-of-the-bernie-madoff-scandal-im-63-who-can-i-trust-with-my-655-000-401-k-e6fca6d8?mod=mw_rss_topstories",
+      "ts": "2025-11-19T10:31:00.000Z",
+      "headline": "Bud Light&#x2019;s struggling. Now its owner is reportedly buying a punch maker.",
+      "url": "https://www.marketwatch.com/story/bud-lights-struggling-now-its-owner-is-reportedly-buying-a-punch-maker-62f42c5c?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Anheuser-Busch InBev , one of the world&#x2019;s largest beer companies and owner of brands like Budweiser, Stella Artois and Michelob, is reportedly in talks to buy BeatBox, a manufacturer of boxed, wine-based punch, for around $700 million.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T10:15:00.000Z",
+      "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
+      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T02:52:00.000Z",
+      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
+      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I was forced into early retirement.&#x201d;",
+      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T22:36:00.000Z",
-      "headline": "OpenAI is AI&#x2019;s leading indicator. Does that make it too big to fail?",
-      "url": "https://www.marketwatch.com/story/openai-isnt-too-big-to-fail-and-big-tech-would-be-fine-with-that-dd4c9a89?mod=mw_rss_topstories",
+      "ts": "2025-11-19T02:08:00.000Z",
+      "headline": "Meta&#x2019;s stock has been under heavy pressure. Now the company is undergoing a shakeup.",
+      "url": "https://www.marketwatch.com/story/meta-is-undergoing-a-shakeup-will-it-help-the-company-make-more-money-off-ai-0dc4ae65?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "META",
         "ED"
       ],
-      "summary_en": "No tech company owed money by OpenAI would be bankrupted by the AI giant&#x2019;s demise.",
+      "summary_en": "Meta&#x2019;s chief revenue officer is leaving at a time when Wall Street has become more concerned about the return on AI investments.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T21:55:00.000Z",
-      "headline": "President Trump is threatening to relocate some 2026 FIFA World Cup games. Should fans be worried?",
+      "ts": "2025-11-19T00:47:00.000Z",
+      "headline": "Why it&#x2019;s not too late to buy Alphabet&#x2019;s stock, according to the newest Google bull",
+      "url": "https://www.marketwatch.com/story/why-its-not-too-late-to-buy-alphabets-stock-according-to-the-newest-google-bull-911f6d77?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "Alphabet&#x2019;s stock has already doubled off its 2025 lows, but an analyst is still upbeat about Google&#x2019;s resilience in search and its growing presence in semiconductors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T01:42:00.000Z",
+      "headline": "Trump is threatening to relocate some 2026 FIFA World Cup games. Should fans be worried?",
       "url": "https://www.marketwatch.com/story/president-trump-is-threatening-to-relocate-some-2026-fifa-world-cup-games-should-fans-be-worried-e64219a4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -38,7 +76,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-18T21:53:00.000Z",
+      "ts": "2025-11-19T01:13:00.000Z",
       "headline": "Callaway Golf is selling off most of Topgolf on the cheap &#x2014; and ditching the name",
       "url": "https://www.marketwatch.com/story/callaway-golf-is-selling-off-most-of-topgolf-on-the-cheap-and-ditching-the-name-7e1bbfe6?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -48,78 +86,6 @@
         "PG"
       ],
       "summary_en": "The Callaway golf company is selling off 60% of its stake in its Topgolf business at a significantly discounted valuation, and changing its name back to what it was before the business was purchased.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T21:46:00.000Z",
-      "headline": "What is Cloudflare, and why did it cause outages across the internet today?",
-      "url": "https://www.marketwatch.com/story/what-is-cloudflare-and-why-is-it-causing-outages-across-the-internet-today-55fe35af?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "As services like X and ChatGPT experienced disruptions, attention turned to Cloudflare, the $70 billion company that helps route network traffic behind the scenes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T21:43:00.000Z",
-      "headline": "I&#x2019;m 51, married and pay $200 a month for a $1.5 million term life insurance policy. When should I cancel it?",
-      "url": "https://www.marketwatch.com/story/im-51-married-and-pay-200-a-month-for-a-1-5-million-term-life-insurance-policy-when-should-i-cancel-it-fd4fc019?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am five years from financial independence.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T22:54:00.000Z",
-      "headline": "Why Apple&#x2019;s stock is beating the market even as tech stocks sell off",
-      "url": "https://www.marketwatch.com/story/why-apples-stock-is-beating-the-market-even-as-tech-stocks-sell-off-67178f96?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Apple has been seen as an AI loser. That means its stock hasn&#x2019;t gotten caught up in the heavy selling pressure on AI stocks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T23:15:00.000Z",
-      "headline": "Living to 100 is becoming a reality. Can you afford it?",
-      "url": "https://www.marketwatch.com/story/theres-a-good-chance-youll-live-to-be-100-will-your-money-let-you-c5f7e52c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The odds of becoming a centenarian are growing &#x2014; how to plan for the possibility",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T22:42:00.000Z",
-      "headline": "&#x2018;Our mom is fuming&#x2019;: Defying our dying mother&#x2019;s wishes, our dad is leaving our family&#x2019;s money to his church. How do we stop him?",
-      "url": "https://www.marketwatch.com/story/this-is-not-a-money-grab-against-our-moms-wishes-our-father-is-leaving-their-estate-to-his-church-how-do-we-stop-him-c10e9fe6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;This is not a money grab on our part.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T22:16:00.000Z",
-      "headline": "Nio&#x2019;s stock suffers longest losing streak in nearly two years as earnings pressure builds",
-      "url": "https://www.marketwatch.com/story/nios-stock-suffers-longest-losing-streak-in-nearly-two-years-as-earnings-pressure-builds-5e28f78e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Nio reports third-quarter results next week. After that the company will be in the hot seat, as it&#x2019;s set out to reach profitability by the fourth quarter.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -147,6 +113,18 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-11-19T02:38:00.000Z",
+      "headline": "&#x2018;He&#x2019;s executor of his dad&#x2019;s estate&#x2019;: Should my son use his late father&#x2019;s bank account to pay for funeral expenses?",
+      "url": "https://www.marketwatch.com/story/can-my-son-take-money-from-his-late-fathers-100k-estate-to-pay-for-funeral-expenses-b4abea10?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;There&#x2019;s no trust in place, but there is a will.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-11-13T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Société Générale S.A. and Industrial and Commercial Bank of China Ltd.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251113a.htm",
@@ -156,6 +134,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank and announces termination of enforcement actions with Soci&eacute;t&eacute; G&eacute;n&eacute;rale S.A. and Industrial and Commercial Bank of China Ltd.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T01:01:00.000Z",
+      "headline": "Nio&#x2019;s stock suffers longest losing streak in nearly two years as earnings pressure builds",
+      "url": "https://www.marketwatch.com/story/nios-stock-suffers-longest-losing-streak-in-nearly-two-years-as-earnings-pressure-builds-5e28f78e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Nio reports third-quarter results next week. After that the company will be in the hot seat, as it&#x2019;s set out to reach profitability by the fourth quarter.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-19T00:51:00.000Z",
+      "headline": "Target and Walmart lead retail earnings this week, as a &#x2018;tale of two consumers&#x2019; emerges in the economy",
+      "url": "https://www.marketwatch.com/story/target-and-walmart-lead-retail-earnings-this-week-as-a-tale-of-two-consumers-emerges-in-the-economy-a3dd9e71?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Gap, Ross, TJX and other retailers also report, as new leadership and the government shutdown&#x2019;s impact could be topics of discussion on earnings calls.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
