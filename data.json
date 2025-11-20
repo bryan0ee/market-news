@@ -1,124 +1,125 @@
 {
-  "last_updated": "2025-11-20T10:45:41.466Z",
+  "last_updated": "2025-11-20T13:32:17.430Z",
   "items": [
     {
-      "ts": "2025-11-20T10:30:00.000Z",
-      "headline": "&#x2018;We almost lost $10,000&#x2019;: My late father-in-law&#x2019;s company claimed his life-insurance policy didn&#x2019;t exist. It did.",
-      "url": "https://www.marketwatch.com/story/we-almost-lost-10-000-my-late-father-in-laws-company-claimed-his-life-insurance-policy-didnt-exist-it-did-85d02a21?mod=mw_rss_topstories",
+      "ts": "2025-11-20T12:49:00.000Z",
+      "headline": "Small stocks haven&#x2019;t beaten large caps in more than two decades &#x2014; but they&#x2019;re trying",
+      "url": "https://www.marketwatch.com/story/small-stocks-havent-beaten-large-caps-in-more-than-two-decades-but-theyre-trying-984cf9ff?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Odds are against small caps after long stretches where they&#x2019;ve lagged behind.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-20T13:07:00.000Z",
+      "headline": "Why Verizon&#x2019;s new CEO is cutting 13,000 jobs at the wireless company",
+      "url": "https://www.marketwatch.com/story/why-verizons-new-ceo-is-cutting-13-000-jobs-at-the-wireless-company-5b2d433e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Verizon&#x2019;s stock has been a major laggard and the company has failed to show annual earnings growth recently. CEO Dan Schulman says layoffs will make Verizon &#x201c;faster and more focused.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-20T12:58:00.000Z",
+      "headline": "The war&#x2019;s not over: JPMorgan says investors were too quick to sell Europe defense stocks on hopes of Ukraine peace",
+      "url": "https://www.marketwatch.com/story/the-wars-not-over-jpmorgan-says-investors-were-too-quick-to-sell-europe-defense-stocks-on-hopes-of-ukraine-peace-0205739a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;The company changed names several times, and it was very difficult tracking them down for payment of benefits.&#x201d;",
+      "summary_en": "The war in Ukraine has catalyzed a dramatic rerating of defense stocks in Europe.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-20T10:05:00.000Z",
-      "headline": "Why former &#x2018;Saturday Night Live&#x2019; star Kate McKinnon is living on a homestead in the woods",
-      "url": "https://www.marketwatch.com/story/why-former-saturday-night-live-star-kate-mckinnon-is-living-on-a-homestead-in-the-woods-569bfcdc?mod=mw_rss_topstories",
+      "ts": "2025-11-20T12:55:00.000Z",
+      "headline": "Walmart&#x2019;s stock falls as disappointing Sam&#x2019;s Club sales mar an otherwise upbeat report",
+      "url": "https://www.marketwatch.com/story/walmarts-stock-falls-as-disappointing-sams-club-sales-mar-an-otherwise-upbeat-report-461eea76?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Sales at Sam&#x2019;s Club stores open more than a year rose less than Wall Street had expected. When rival Costco last reported, the average person was spending less than a year earlier.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-20T12:15:00.000Z",
+      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
+      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Comedian Kate McKinnon has come a long way since her days on the NBC show, having turned her back on Hollywood in favor of living the quiet life.",
+      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-20T10:02:00.000Z",
-      "headline": "Nike&#x2019;s fallen on tough times. Now the stock has hit a death cross.",
-      "url": "https://www.marketwatch.com/story/nikes-fallen-on-tough-times-now-the-stock-has-hit-a-death-cross-b3c7815e?mod=mw_rss_topstories",
+      "ts": "2025-11-20T11:29:00.000Z",
+      "headline": "IBM and Cisco have a new partnership as they target a &#x2018;quantum-computing internet&#x2019;",
+      "url": "https://www.marketwatch.com/story/ibm-and-cisco-have-a-new-quantum-partnership-though-the-fruits-of-it-are-years-away-503a0961?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Nike&#x2019;s stock has entered a pessimistic technical formation called a &#x201c;death cross,&#x201d; a sign of the tough times the sneaker maker has encountered.",
+      "summary_en": "The fruits of the partnership are admittedly years away as the companies strive for a connected fault-scale network by the &#x201c;early 2030s.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-20T10:01:00.000Z",
-      "headline": "Racing superstar Robby Gordon is selling his waterfront luxury estate on North Carolina&#x2019;s Lake Norman for $3.4M",
-      "url": "https://www.marketwatch.com/story/racing-superstar-robby-gordon-is-selling-his-waterfront-luxury-estate-on-north-carolinas-lake-norman-for-3-4m-1bde88d4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Home buyers, start your engines and get ready to race to the real estate finish line&#x2014;where the chance to snap up a Lake Norman property owned by Nascar legend Robby Gordon awaits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-20T10:40:00.000Z",
-      "headline": "While Nvidia is thriving, this CEO hails an anti-AI bet &#x2014; and is winning",
-      "url": "https://www.marketwatch.com/story/while-nvidia-is-thriving-this-ceo-hails-an-anti-ai-bet-and-is-winning-fd447dae?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "TKO Holdings wants to sell real-life experiences expensively, not the virtual for free.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-20T10:15:00.000Z",
-      "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
-      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-20T10:00:00.000Z",
-      "headline": "If robots replace workers, what happens to Social Security?",
-      "url": "https://www.marketwatch.com/story/if-robots-replace-workers-what-happens-to-social-security-a24ce1f7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Robots don&#x2019;t pay into Social Security. Maybe we should we tax them instead.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-20T05:01:00.000Z",
-      "headline": "The number of 401(k) millionaires just hit a record high: &#x2018;People are staying the course.&#x2019;",
-      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-hit-a-record-high-people-are-staying-the-course-339b6b08?mod=mw_rss_topstories",
+      "ts": "2025-11-20T13:13:00.000Z",
+      "headline": "This sleeper AI risk for stocks in 2026 has got Wall Street talking over the past few weeks",
+      "url": "https://www.marketwatch.com/story/this-sleeper-ai-risk-for-stocks-in-2026-has-got-wall-street-talking-over-the-past-few-weeks-5a2ea177?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Women hit a new investment milestone but still trail men in some metrics, Fidelity said.",
+      "summary_en": "A slowdown in corporate buybacks as AI players add debt could steal an important source of demand from the market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-20T01:26:00.000Z",
-      "headline": "Elon Musk says all of Tesla depends on one tiny &#x2014;&#xa0;but very expensive &#x2014;&#xa0;proposition",
-      "url": "https://www.marketwatch.com/story/musk-says-all-of-tesla-depends-on-one-tiny-but-very-expensive-proposition-58b020d4?mod=mw_rss_topstories",
+      "ts": "2025-11-20T12:45:00.000Z",
+      "headline": "There&#x2019;s no turning back on AI now, this firm says as it boosts S&P 500 forecast",
+      "url": "https://www.marketwatch.com/story/theres-no-turning-back-on-ai-now-this-firm-says-as-it-boosts-s-p-500-forecast-69bec507?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "COST"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Tesla CEO says the future of the company hinges on its next-generation microchips &#x2014; but securing enough of them will be costly.",
+      "summary_en": "As Nvidia offers blowout results, Barclays says back the AI trade as it&#x2019;s not going away and that means tech dominance is here to stay.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-20T01:20:00.000Z",
-      "headline": "Palo Alto Networks&#x2019; earnings fail to wow Wall Street &#x2014; even with a new AI deal",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-earnings-fail-to-wow-wall-street-even-with-a-new-ai-deal-ded5d1fb?mod=mw_rss_topstories",
+      "ts": "2025-11-20T12:10:00.000Z",
+      "headline": "Americans in rural areas are struggling the most with housing affordability",
+      "url": "https://www.marketwatch.com/story/americans-in-rural-areas-are-struggling-the-most-with-housing-affordability-41732e6f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "The cybersecurity company&#x2019;s stock has lagged the S&P 500 this year, and that underperformance could continue after its latest results.",
+      "summary_en": "Rural America is feeling the painful toll of the housing-affordability crisis.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-20T11:15:00.000Z",
+      "headline": "&#x2018;He&#x2019;s executor of his dad&#x2019;s estate&#x2019;: Should my son use his late father&#x2019;s bank account to pay for funeral expenses?",
+      "url": "https://www.marketwatch.com/story/can-my-son-take-money-from-his-late-fathers-100k-estate-to-pay-for-funeral-expenses-b4abea10?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;There&#x2019;s no trust in place, but there is a will.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
