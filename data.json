@@ -1,32 +1,46 @@
 {
-  "last_updated": "2025-11-21T13:30:45.900Z",
+  "last_updated": "2025-11-21T23:27:18.193Z",
   "items": [
     {
-      "ts": "2025-11-21T12:18:00.000Z",
-      "headline": "Liz Truss redux? Simultaneous drop for Japanese currency and bonds draws eerie parallels",
-      "url": "https://www.marketwatch.com/story/strategist-warns-of-capital-flight-risk-from-japan-drawing-parallels-with-liz-truss-era-4b06e36e?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-11-21T22:35:00.000Z",
+      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
+      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "New Japanese Prime Minister Sanae Takaichi differs from Truss in that she wants to spend rather than cut taxes, but both plans amount to aggressive fiscal stimulus, says Deutsche Bank.",
+      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T12:16:00.000Z",
-      "headline": "BJ&#x2019;s Wholesale&#x2019;s keeps beating profit views and the stock rises, even as sales growth disappoints",
-      "url": "https://www.marketwatch.com/story/bjs-wholesales-keeps-beating-profit-views-and-the-stock-rises-even-as-sales-growth-disappoints-d2298287?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-11-21T22:20:00.000Z",
+      "headline": "Is GLP-1 the new AI? Drugmaker Eli Lilly joins the $1 trillion market-cap club.",
+      "url": "https://www.marketwatch.com/story/is-glp-1-the-new-ai-drugmaker-eli-lilly-briefly-joined-the-1-trillion-market-cap-club-b684cd2d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "BJ&#x2019;s Wholesale&#x2019;s stock gains after profit beat expectations and the full-year outlook was raised again, to offset disappointing growth in a key sales metric.",
+      "summary_en": "Eli Lilly on Friday crossed the $1 trillion market-cap threshold, becoming the first drugmaker to ever reach that milestone.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T13:05:00.000Z",
+      "ts": "2025-11-21T21:51:00.000Z",
+      "headline": "Mamdani and Trump say they agree on cutting the cost of living &#x2014; including a big utility company&#x2019;s rates",
+      "url": "https://www.marketwatch.com/story/mamdani-is-meeting-trump-at-the-white-house-the-mayor-elect-says-theyre-connected-by-this-one-big-issue-d62e7b29?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED",
+        "COST"
+      ],
+      "summary_en": "ConEd&#x2019;s stock dropped as the utility company&#x2019;s rates got the attention of the president and New York City&#x2019;s mayor-elect.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T21:19:00.000Z",
       "headline": "China controls this key resource AI needs &#x2014; threatening stocks and the U.S. economy",
       "url": "https://www.marketwatch.com/story/china-controls-this-key-resource-ai-needs-threatening-stocks-and-the-u-s-economy-8f5f9f62?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -39,80 +53,67 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T11:04:00.000Z",
-      "headline": "The stock market has peaked, and a three-year downturn is starting, says this veteran strategist",
-      "url": "https://www.marketwatch.com/story/the-stock-market-has-peaked-and-a-three-year-downturn-is-starting-says-this-veteran-strategist-126396be?mod=mw_rss_topstories",
+      "ts": "2025-11-21T21:00:00.000Z",
+      "headline": "Federal Reserve announces College Fed Challenge winners",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121b.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Governments can only deal with their debt loads by printing money; bitcoin and gold are the answer to fiat currency debasement.",
+      "summary_en": "Federal Reserve announces College Fed Challenge winners",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T10:40:00.000Z",
-      "headline": "Tom Lee says there were five big reasons why markets stumbled. He has familiar advice.",
-      "url": "https://www.marketwatch.com/story/tom-lee-says-there-were-five-big-reasons-why-markets-stumbled-he-has-familiar-advice-622f5262?mod=mw_rss_topstories",
+      "ts": "2025-11-21T20:59:00.000Z",
+      "headline": "The first-ever 3x levered bitcoin funds are launching in Europe next week. The timing couldn&#x2019;t be worse.",
+      "url": "https://www.marketwatch.com/story/the-first-ever-3x-levered-bitcoin-funds-are-launching-in-europe-next-week-the-timing-couldnt-be-worse-7bb8ae29?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Fundstrat&#x2019;s Tom Lee says investors should not fear this market, but be ready to buy the dip.",
+      "summary_en": "Leveraged ETFs bring even more risk to volatile assets like crypto.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T10:15:00.000Z",
-      "headline": "&#x2018;There&#x2019;s a lot of tension&#x2019;: My brother and I manage a $5 million trust. How do we solve our many disagreements?",
-      "url": "https://www.marketwatch.com/story/theres-a-lot-of-tension-my-brother-and-i-manage-a-5-million-trust-how-do-we-solve-our-many-disagreements-20e57138?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;We have a good estate attorney, but he just repeats the facts; we need someone to help with the feelings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T10:02:00.000Z",
-      "headline": "The late Ozzy Osbourne&#x2019;s swanky L.A. condo is for sale for $2.4 million",
-      "url": "https://www.marketwatch.com/story/the-late-ozzy-osbournes-swanky-l-a-condo-is-for-sale-for-2-4-million-3d786e8a?mod=mw_rss_topstories",
+      "ts": "2025-11-21T20:09:00.000Z",
+      "headline": "Doing your holiday shopping with a credit card? Use these 6 tips to preserve your credit score &#x2014; and your sanity.",
+      "url": "https://www.marketwatch.com/story/doing-your-holiday-shopping-with-a-credit-card-use-these-6-tips-to-preserve-your-credit-score-and-your-sanity-cb8907b8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Ozzy Osbourne&#x2019;s stunning&#xa0;West Hollywood, Calif., condo&#xa0;is on the market for $2.375 million, four months after the rock &#x2018;n&#x2019; roll legend died in his native England.",
+      "summary_en": "Americans will be leaning hard on their credit cards this holiday season. A few key rules can keep you from slipping into a debt spiral.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T11:42:00.000Z",
-      "headline": "Bitcoin falls below $82,000 as selling isn&#x2019;t letting up. Here&#x2019;s why stock-market investors are keeping close watch.",
-      "url": "https://www.marketwatch.com/story/bitcoin-falls-below-82-000-as-selling-isnt-letting-up-heres-why-stock-market-investors-are-keeping-close-watch-acbece69?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-11-21T19:00:00.000Z",
+      "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121a.htm",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Bitcoin prices were pushing into fresh April lows on Friday, and some say the selling, which could drag stocks with it, has more to go.",
+      "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T12:40:00.000Z",
-      "headline": "As AI angst hits markets, this stock &#x2014; not Nvidia &#x2014; is the canary in the coal mine",
-      "url": "https://www.marketwatch.com/story/as-ai-angst-hits-markets-this-stock-not-nvidia-is-the-canary-in-the-coalmine-5073e840?mod=mw_rss_topstories",
+      "ts": "2025-11-21T22:55:00.000Z",
+      "headline": "&#x2018;Our mom is fuming&#x2019;: Defying our dying mother&#x2019;s wishes, our dad is leaving our family&#x2019;s money to his church. How do we stop him?",
+      "url": "https://www.marketwatch.com/story/this-is-not-a-money-grab-against-our-moms-wishes-our-father-is-leaving-their-estate-to-his-church-how-do-we-stop-him-c10e9fe6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "There&#x2019;s a way to keep an eye on how the market is valuing OpenAI, according to Citi",
+      "summary_en": "&#x201c;This is not a money grab on our part.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T03:37:00.000Z",
+      "ts": "2025-11-21T19:47:00.000Z",
       "headline": "&#x2018;We almost lost $10,000&#x2019;: My late father-in-law&#x2019;s company claimed his life-insurance policy didn&#x2019;t exist. It did.",
       "url": "https://www.marketwatch.com/story/we-almost-lost-10-000-my-late-father-in-laws-company-claimed-his-life-insurance-policy-didnt-exist-it-did-85d02a21?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -121,6 +122,42 @@
         "ED"
       ],
       "summary_en": "&#x201c;The company changed names several times, and it was very difficult tracking them down for payment of benefits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T18:30:00.000Z",
+      "headline": "Federal Reserve Board announces it will extend until February 21, 2026, the comment period on proposal to improve stress test model and scenario transparency and accountability",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251121a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces it will extend until February 21, 2026, the comment period on proposal to improve stress test model and scenario transparency and accountability",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T21:09:00.000Z",
+      "headline": "Why trouble for the biggest foreign buyer of U.S. debt could ripple through America&#x2019;s bond market",
+      "url": "https://www.marketwatch.com/story/why-trouble-for-the-biggest-foreign-buyer-of-u-s-debt-could-ripple-through-americas-bond-market-d70ba933?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Developments in Japan are creating a risk that investors in the U.S. Treasury market may one day pull the rug out by keeping more of their savings at home.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T19:47:00.000Z",
+      "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
+      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
