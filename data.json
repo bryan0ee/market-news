@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-11-21T10:44:27.957Z",
+  "last_updated": "2025-11-21T13:30:45.900Z",
   "items": [
+    {
+      "ts": "2025-11-21T12:18:00.000Z",
+      "headline": "Liz Truss redux? Simultaneous drop for Japanese currency and bonds draws eerie parallels",
+      "url": "https://www.marketwatch.com/story/strategist-warns-of-capital-flight-risk-from-japan-drawing-parallels-with-liz-truss-era-4b06e36e?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "New Japanese Prime Minister Sanae Takaichi differs from Truss in that she wants to spend rather than cut taxes, but both plans amount to aggressive fiscal stimulus, says Deutsche Bank.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T12:16:00.000Z",
+      "headline": "BJ&#x2019;s Wholesale&#x2019;s keeps beating profit views and the stock rises, even as sales growth disappoints",
+      "url": "https://www.marketwatch.com/story/bjs-wholesales-keeps-beating-profit-views-and-the-stock-rises-even-as-sales-growth-disappoints-d2298287?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "BJ&#x2019;s Wholesale&#x2019;s stock gains after profit beat expectations and the full-year outlook was raised again, to offset disappointing growth in a key sales metric.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T13:05:00.000Z",
+      "headline": "China controls this key resource AI needs &#x2014; threatening stocks and the U.S. economy",
+      "url": "https://www.marketwatch.com/story/china-controls-this-key-resource-ai-needs-threatening-stocks-and-the-u-s-economy-8f5f9f62?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "AI relies on rare-earth elements to grow its infrastructure &#x2014; and the U.S. relies on AI to grow GDP.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T11:04:00.000Z",
+      "headline": "The stock market has peaked, and a three-year downturn is starting, says this veteran strategist",
+      "url": "https://www.marketwatch.com/story/the-stock-market-has-peaked-and-a-three-year-downturn-is-starting-says-this-veteran-strategist-126396be?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Governments can only deal with their debt loads by printing money; bitcoin and gold are the answer to fiat currency debasement.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-21T10:40:00.000Z",
       "headline": "Tom Lee says there were five big reasons why markets stumbled. He has familiar advice.",
@@ -39,15 +88,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T10:23:00.000Z",
-      "headline": "Strategist warns of capital flight risk from Japan, drawing parallels with Liz Truss era",
-      "url": "https://www.marketwatch.com/story/strategist-warns-of-capital-flight-risk-from-japan-drawing-parallels-with-liz-truss-era-4b06e36e?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2025-11-21T11:42:00.000Z",
+      "headline": "Bitcoin falls below $82,000 as selling isn&#x2019;t letting up. Here&#x2019;s why stock-market investors are keeping close watch.",
+      "url": "https://www.marketwatch.com/story/bitcoin-falls-below-82-000-as-selling-isnt-letting-up-heres-why-stock-market-investors-are-keeping-close-watch-acbece69?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "New Japanese Prime Minister Sanae Takaichi differs from Truss in that she wants to spend rather than cut taxes, but both plans amount to aggressive fiscal stimulus, says Deutsche Bank.",
+      "summary_en": "Bitcoin prices were pushing into fresh April lows on Friday, and some say the selling, which could drag stocks with it, has more to go.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T12:40:00.000Z",
+      "headline": "As AI angst hits markets, this stock &#x2014; not Nvidia &#x2014; is the canary in the coal mine",
+      "url": "https://www.marketwatch.com/story/as-ai-angst-hits-markets-this-stock-not-nvidia-is-the-canary-in-the-coalmine-5073e840?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There&#x2019;s a way to keep an eye on how the market is valuing OpenAI, according to Citi",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -60,42 +121,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;The company changed names several times, and it was very difficult tracking them down for payment of benefits.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T01:13:00.000Z",
-      "headline": "Gap says higher-income shoppers are visiting its namesake stores, while lower-income ones go to Old Navy",
-      "url": "https://www.marketwatch.com/story/gap-gets-a-little-more-upbeat-on-clothing-demand-for-the-rest-of-the-year-despite-tariffs-b0f6d9e6?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Gap Inc. rallied after hours on Thursday after the clothing chain offered a more upbeat full-year outlook, saying that strong momentum in most of its stores has set it up well for the holiday shopping season.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T01:16:00.000Z",
-      "headline": "Another off-price retailer just turned more optimistic about its future. Bargain hunting is the name of the game.",
-      "url": "https://www.marketwatch.com/story/another-off-price-retailer-just-turned-more-optimistic-about-its-future-bargain-hunting-is-the-name-of-the-game-ed1ed084?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Plenty of analysts believe that Ross Stores stands to benefit as people see prices creeping up elsewhere in their budgets and decide to trade down in apparel.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T00:03:00.000Z",
-      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
-      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -120,30 +145,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T00:12:00.000Z",
-      "headline": "These two corners of the stock market haven&#x2019;t fallen this far together since 1990 &#x2014; a cautious sign for the economy",
-      "url": "https://www.marketwatch.com/story/these-two-corners-of-the-stock-market-havent-fallen-this-far-together-since-1990-a-cautious-sign-for-the-economy-0a0c00da?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The consumer discretionary and consumer staples sectors now rank among the S&P 500&#x2019;s bottom performers for 2025 &#x2014; a sign that Wall Street sees cracks in the American wallet",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-20T23:35:00.000Z",
-      "headline": "&#x2018;Our mom is fuming&#x2019;: Defying our dying mother&#x2019;s wishes, our dad is leaving our family&#x2019;s money to his church. How do we stop him?",
-      "url": "https://www.marketwatch.com/story/this-is-not-a-money-grab-against-our-moms-wishes-our-father-is-leaving-their-estate-to-his-church-how-do-we-stop-him-c10e9fe6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;This is not a money grab on our part.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
