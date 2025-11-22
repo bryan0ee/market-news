@@ -1,6 +1,45 @@
 {
-  "last_updated": "2025-11-22T10:40:22.577Z",
+  "last_updated": "2025-11-22T13:25:33.078Z",
   "items": [
+    {
+      "ts": "2025-11-22T13:00:00.000Z",
+      "headline": "At Thanksgiving, how awful do your relatives need to be for you to pay for a hotel room?",
+      "url": "https://www.marketwatch.com/story/at-thanksgiving-how-awful-do-your-relatives-need-to-be-for-you-to-pay-for-a-hotel-room-19dc4136?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED",
+        "COST"
+      ],
+      "summary_en": "As economists warn that the cost-of-living crunch may worsen, Americans are looking to trim travel costs this holiday season.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-22T12:30:00.000Z",
+      "headline": "These two &#x2018;Magnificent Seven&#x2019; stocks could be the strongest survivors of an AI apocalypse",
+      "url": "https://www.marketwatch.com/story/these-two-magnificent-seven-stocks-could-be-the-strongest-survivors-of-an-ai-apocalypse-d7169fad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "The recent tech selloff has rewarded Google&#x2019;s and Apple&#x2019;s AI strategies while punishing other Big Tech players.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-22T12:00:00.000Z",
+      "headline": "A Fed rate cut next month seemed doubtful. Here&#x2019;s why it&#x2019;s now likely to happen.",
+      "url": "https://www.marketwatch.com/story/a-fed-rate-cut-next-month-seemed-doubtful-heres-why-its-now-likely-to-happen-d9738dac?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Despite dramatic differences among Fed officials, opinions are coalescing behind a third interest-rate cut in succession.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-21T19:00:00.000Z",
       "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
@@ -89,30 +128,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T20:09:00.000Z",
-      "headline": "Doing your holiday shopping with a credit card? Use these 6 tips to preserve your credit score &#x2014; and your sanity.",
-      "url": "https://www.marketwatch.com/story/doing-your-holiday-shopping-with-a-credit-card-use-these-6-tips-to-preserve-your-credit-score-and-your-sanity-cb8907b8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Americans will be leaning hard on their credit cards this holiday season. A few key rules can keep you from slipping into a debt spiral.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T19:47:00.000Z",
-      "headline": "&#x2018;We almost lost $10,000&#x2019;: My late father-in-law&#x2019;s company claimed his life-insurance policy didn&#x2019;t exist. It did.",
-      "url": "https://www.marketwatch.com/story/we-almost-lost-10-000-my-late-father-in-laws-company-claimed-his-life-insurance-policy-didnt-exist-it-did-85d02a21?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The company changed names several times, and it was very difficult tracking them down for payment of benefits.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-21T21:00:00.000Z",
       "headline": "Federal Reserve announces College Fed Challenge winners",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121b.htm",
@@ -170,18 +185,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Developments in Japan are creating a risk that investors in the U.S. Treasury market may one day pull the rug out by keeping more of their savings at home.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T19:47:00.000Z",
-      "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
-      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
