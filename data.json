@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-11-22T23:27:04.180Z",
+  "last_updated": "2025-11-23T10:41:17.848Z",
   "items": [
+    {
+      "ts": "2025-11-22T19:18:00.000Z",
+      "headline": "Small stocks have lagged large caps for years &#x2014; can they beat the odds now?",
+      "url": "https://www.marketwatch.com/story/small-stocks-havent-beaten-large-caps-in-more-than-two-decades-but-theyre-trying-984cf9ff?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Small caps typically struggle after long stretches of underperformance.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T19:00:00.000Z",
+      "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T14:00:00.000Z",
+      "headline": "Federal Reserve Board releases information regarding enhancements to bank supervision",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251118a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board releases information regarding enhancements to bank supervision",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-22T23:19:00.000Z",
       "headline": "&#x2018;We almost lost $10,000&#x2019;: My late father-in-law&#x2019;s company claimed his life-insurance policy didn&#x2019;t exist. It did.",
@@ -39,30 +75,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-22T19:18:00.000Z",
-      "headline": "Small stocks have lagged large caps for years &#x2014; can they beat the odds now?",
-      "url": "https://www.marketwatch.com/story/small-stocks-havent-beaten-large-caps-in-more-than-two-decades-but-theyre-trying-984cf9ff?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Small caps typically struggle after long stretches of underperformance.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-22T23:15:00.000Z",
-      "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
-      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-22T18:47:00.000Z",
       "headline": "China controls this key resource AI needs &#x2014; threatening stocks and the U.S. economy",
       "url": "https://www.marketwatch.com/story/china-controls-this-key-resource-ai-needs-threatening-stocks-and-the-u-s-economy-8f5f9f62?mod=mw_rss_topstories",
@@ -85,66 +97,6 @@
         "ED"
       ],
       "summary_en": "The latest jobs shock shows he&#x2019;s been right all along.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-22T20:08:00.000Z",
-      "headline": "Americans&#x2019; happiness is at a record low. Are we just using our money the wrong way?",
-      "url": "https://www.marketwatch.com/story/americans-happiness-is-at-a-record-low-or-are-we-just-using-our-money-the-wrong-way-48be7f0e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Fewer than half of Americans say they are financially secure, but there are indications that it&#x2019;s not just a lack of money that&#x2019;s stripping away Americans&#x2019; happiness.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-22T19:34:00.000Z",
-      "headline": "Fears about the &#x2018;sketchy&#x2019; economy have Americans turning to secondhand stores for Christmas shopping",
-      "url": "https://www.marketwatch.com/story/expect-more-secondhand-holiday-gifts-this-year-thanks-in-part-to-gen-zs-love-of-thrifting-12035cfe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "As households face tighter budgets, experts anticipate more people will shop secondhand for gifts this holiday season.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-22T17:27:00.000Z",
-      "headline": "The number of 401(k) millionaires just hit a record high: &#x2018;People are staying the course.&#x2019;",
-      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-hit-a-record-high-people-are-staying-the-course-339b6b08?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Women hit a new investment milestone but still trail men in some metrics, Fidelity said.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T19:00:00.000Z",
-      "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T14:00:00.000Z",
-      "headline": "Federal Reserve Board releases information regarding enhancements to bank supervision",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251118a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board releases information regarding enhancements to bank supervision",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -181,6 +133,54 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-22T17:27:00.000Z",
+      "headline": "The number of 401(k) millionaires just hit a record high: &#x2018;People are staying the course.&#x2019;",
+      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-hit-a-record-high-people-are-staying-the-course-339b6b08?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Women hit a new investment milestone but still trail men in some metrics, Fidelity said.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-22T23:15:00.000Z",
+      "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
+      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-22T20:08:00.000Z",
+      "headline": "Americans&#x2019; happiness is at a record low. Are we just using our money the wrong way?",
+      "url": "https://www.marketwatch.com/story/americans-happiness-is-at-a-record-low-or-are-we-just-using-our-money-the-wrong-way-48be7f0e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Fewer than half of Americans say they are financially secure, but there are indications that it&#x2019;s not just a lack of money that&#x2019;s stripping away Americans&#x2019; happiness.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-22T19:34:00.000Z",
+      "headline": "Fears about the &#x2018;sketchy&#x2019; economy have Americans turning to secondhand stores for Christmas shopping",
+      "url": "https://www.marketwatch.com/story/expect-more-secondhand-holiday-gifts-this-year-thanks-in-part-to-gen-zs-love-of-thrifting-12035cfe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "As households face tighter budgets, experts anticipate more people will shop secondhand for gifts this holiday season.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
