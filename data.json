@@ -1,117 +1,81 @@
 {
-  "last_updated": "2025-11-24T13:35:28.156Z",
+  "last_updated": "2025-11-24T23:27:46.557Z",
   "items": [
     {
-      "ts": "2025-11-24T12:54:00.000Z",
-      "headline": "Rebuffed for the second time, BHP walks away from Anglo American, leaving the path clear for $60 billion merger",
-      "url": "https://www.marketwatch.com/story/rebuffed-for-the-second-time-bhp-walks-away-from-anglo-american-leaving-the-path-clear-for-60-billion-merger-1cf82294?mod=mw_rss_topstories",
+      "ts": "2025-11-24T23:08:00.000Z",
+      "headline": "This booming tech stock will join the S&P 500 &#x2014; and it&#x2019;s not Strategy",
+      "url": "https://www.marketwatch.com/story/this-booming-tech-stock-will-join-the-s-p-500-and-its-not-strategy-6b340451?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "BHP made one last-gasp attempt to seduce Anglo but it looks like they have now accepted defeat.",
+      "summary_en": "A place in the S&P 500 is a coveted spot for companies, as it exposes their shares to a much broader range of investors.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-24T12:50:00.000Z",
-      "headline": "Is it finally &#x2018;game over&#x2019; for AI and Big Tech stocks?",
-      "url": "https://www.marketwatch.com/story/is-it-finally-game-over-for-ai-and-big-tech-stocks-d9b0655c?mod=mw_rss_topstories",
+      "ts": "2025-11-24T23:05:00.000Z",
+      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
+      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Potential Fed rate cut in December could reignite a &#x2018;risk-on&#x2019; flame. Why the market looks to be in &#x2018;early 1999&#x2019;.",
+      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-24T12:30:00.000Z",
-      "headline": "Novo Nordisk&#x2019;s oral GLP-1 drug didn&#x2019;t work on Alzheimer&#x2019;s as hoped, and the stock tumbles",
-      "url": "https://www.marketwatch.com/story/novo-nordisks-oral-glp-1-drug-didnt-work-on-alzheimers-as-hoped-and-the-stock-tumbles-76a8d78f?mod=mw_rss_topstories",
+      "ts": "2025-11-24T22:44:00.000Z",
+      "headline": "Nasdaq has best day since May as Alphabet drives AI rebound. Here&#x2019;s what it means for the rest of Thanksgiving week.",
+      "url": "https://www.marketwatch.com/story/nasdaq-has-best-day-since-may-as-alphabet-drives-ai-rebound-heres-what-it-means-for-the-rest-of-thanksgiving-week-c526053f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Novo Nordisk&#x2019;s stock tumbles after its oral GLP-1 drug failed to show much benefit over a placebo against Alzheimer&#x2019;s.",
+      "summary_en": "U.S. stocks continued their comeback on Monday, with the tech-heavy Nasdaq Composite scoring its best session since May after nearly slipping into correction territory last week.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-24T12:00:00.000Z",
-      "headline": "Carvana survived a debt crunch. Can it survive Amazon?",
-      "url": "https://www.marketwatch.com/story/carvana-survived-a-debt-crunch-can-it-survive-amazon-6f1e72cb?mod=mw_rss_topstories",
+      "ts": "2025-11-24T22:09:00.000Z",
+      "headline": "Trump&#x2019;s healthcare plan could extend Obamacare subsidies. Here&#x2019;s what we know so far.",
+      "url": "https://www.marketwatch.com/story/trumps-healthcare-plan-could-be-revealed-today-heres-what-we-know-so-far-734225b1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Carvana&#x2019;s stunning rebound is facing its biggest test yet: Amazon.",
+      "summary_en": "President Donald Trump is working on a healthcare plan that could address expiring Obamacare subsidies, the issue that triggered this fall&#x2019;s record-breaking government shutdown.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-24T10:05:00.000Z",
-      "headline": "Don&#x2019;t miss the Eddie Murphy documentary to get a peek of his $85 million Beverly Hills mansion",
-      "url": "https://www.marketwatch.com/story/dont-miss-the-eddie-murphy-documentary-to-get-a-peek-of-his-85-million-beverly-hills-mansion-4d50a5a8?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Comedian Eddie Murphy offers fans a look inside his extraordinary Beverly Hills mansion&#x2014;and his life as a father of 10 children.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T10:23:00.000Z",
-      "headline": "Why Morgan Stanley&#x2019;s Mike Wilson is doubling down on his buy-the-dip advice for stock investors",
-      "url": "https://www.marketwatch.com/story/why-morgan-stanleys-mike-wilson-is-doubling-down-on-his-buy-the-dip-advice-for-stock-investors-22f692c6?mod=mw_rss_topstories",
+      "ts": "2025-11-24T21:57:00.000Z",
+      "headline": "There&#x2019;s still hope GLP-1 drugs could slow the second-biggest type of dementia",
+      "url": "https://www.marketwatch.com/story/theres-still-hope-glp-1-drugs-could-slow-the-second-biggest-type-of-dementia-c81b7db0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Earnings per share revisions breadth continues to reinforce Morgan Stanley&#x2019;s medium-term conviction in stock markets.",
+      "summary_en": "Can GLP-1s treat vascular dementia? One study failed, but some researchers are holding out hope.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-24T13:10:00.000Z",
-      "headline": "Why the real poverty line is $140,000, this strategist argues",
-      "url": "https://www.marketwatch.com/story/why-the-real-poverty-line-is-140-000-this-strategist-argues-f459ed96?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A 1963-era calculation no longer makes sense, one strategist says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T10:02:00.000Z",
-      "headline": "Rob Lowe sells $4 million Beverly Hills home after a year on the market",
-      "url": "https://www.marketwatch.com/story/rob-lowe-sells-4-million-beverly-hills-home-after-a-year-on-the-market-874c4511?mod=mw_rss_topstories",
+      "ts": "2025-11-24T20:32:00.000Z",
+      "headline": "Supersavers who can put $72,000 in their 401(k)s in 2026 should make this smart &#x2018;mega&#x2019; Roth move",
+      "url": "https://www.marketwatch.com/story/supersavers-who-can-put-72-000-in-their-401-k-s-in-2026-should-make-this-smart-mega-roth-move-2ab7ad20?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Actor&#xa0;Rob Lowe&#xa0;has finally managed to offload the&#xa0;Beverly Hills&#xa0;estate he has spent more than a year trying to sell&#x2014;but by chopping a big chunk off his original asking price.",
+      "summary_en": "&#x201c;This is a strategy that is so incredibly beneficial for highly compensated employees because they can&#x2019;t contribute to a regular Roth IRA.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-24T11:44:00.000Z",
-      "headline": "Bitcoin&#x2019;s trading around $86,000. The &#x2018;Tinkerbell&#x2019; effect is haunting crypto, says Deutsche Bank",
-      "url": "https://www.marketwatch.com/story/bitcoins-trading-around-86-000-the-tinkerbell-effect-is-haunting-crypto-says-deutsche-bank-aff9f2f7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Fading investor belief may be one of the biggest obstacles for bitcoin to overcome, says Deutsche Bank.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T10:15:00.000Z",
-      "headline": "&#x2018;I regret not buying 10 years ago&#x2019;: I&#x2019;m 59 and pay $2,300 in rent. Do I dip into my IRA to buy a home?",
+      "ts": "2025-11-24T23:16:00.000Z",
+      "headline": "&#x2018;I regret not buying&#x2019;: I&#x2019;m 59 and pay $2,300 rent. Is it too late to dip into my IRA to buy a home?",
       "url": "https://www.marketwatch.com/story/i-regret-not-buying-10-years-ago-im-59-and-pay-2-300-in-rent-do-i-dip-into-my-ira-to-buy-a-home-d581e678?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -119,6 +83,42 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;Our retirement funds include $2.5 million in a traditional IRA and $250,000 in a Roth IRA.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-24T19:31:00.000Z",
+      "headline": "AI and tech stocks are giving &#x2018;early 1999&#x2019; dot-com bubble vibes. Is their rally finished?",
+      "url": "https://www.marketwatch.com/story/is-it-finally-game-over-for-ai-and-big-tech-stocks-d9b0655c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Potential Fed rate cut in December could ignite a &#x2018;risk-on&#x2019; flame &#x2014; but just for a short time.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-24T19:28:00.000Z",
+      "headline": "How Tesla can leave &#x2018;obsolete&#x2019; rivals in the dust, according to this analyst",
+      "url": "https://www.marketwatch.com/story/how-tesla-can-leave-obsolete-rivals-in-the-dust-according-to-this-analyst-1c9c4e51?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The automaker can collect more data and move faster than legacy competitors, a Melius analyst noted.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-24T20:14:00.000Z",
+      "headline": "Target-date funds and other autopilot investments may offer you free money",
+      "url": "https://www.marketwatch.com/story/target-date-funds-and-other-autopilot-investments-may-offer-you-free-money-64c5479b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "At&#xa0;times of violent market moves, their impact can be far bigger than most people realize.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
