@@ -1,6 +1,102 @@
 {
-  "last_updated": "2025-11-23T23:26:51.441Z",
+  "last_updated": "2025-11-24T10:47:43.231Z",
   "items": [
+    {
+      "ts": "2025-11-24T10:05:00.000Z",
+      "headline": "Don&#x2019;t miss the Eddie Murphy documentary to get a peek of his $85 million Beverly Hills mansion",
+      "url": "https://www.marketwatch.com/story/dont-miss-the-eddie-murphy-documentary-to-get-a-peek-of-his-85-million-beverly-hills-mansion-4d50a5a8?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Comedian Eddie Murphy offers fans a look inside his extraordinary Beverly Hills mansion&#x2014;and his life as a father of 10 children.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-24T10:23:00.000Z",
+      "headline": "Why Morgan Stanley&#x2019;s Mike Wilson is doubling down on his buy-the-dip advice for stock investors",
+      "url": "https://www.marketwatch.com/story/why-morgan-stanleys-mike-wilson-is-doubling-down-on-his-buy-the-dip-advice-for-stock-investors-22f692c6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Earnings per share revisions breadth continues to reinforce Morgan Stanley&#x2019;s medium-term conviction in stock markets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-24T10:02:00.000Z",
+      "headline": "Rob Lowe sells $4 million Beverly Hills home after a year on the market",
+      "url": "https://www.marketwatch.com/story/rob-lowe-sells-4-million-beverly-hills-home-after-a-year-on-the-market-874c4511?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Actor&#xa0;Rob Lowe&#xa0;has finally managed to offload the&#xa0;Beverly Hills&#xa0;estate he has spent more than a year trying to sell&#x2014;but by chopping a big chunk off his original asking price.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-24T09:47:00.000Z",
+      "headline": "Bayer&#x2019;s stock is jumping on secondary stroke drug&#x2019;s trial success",
+      "url": "https://www.marketwatch.com/story/bayers-stock-is-jumping-on-secondary-stroke-drugs-trial-success-d28e06b2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bayer stock jumped on Monday after the German healthcare company said a late-stage stroke drug trial achieved its goals.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-24T10:15:00.000Z",
+      "headline": "&#x2018;I regret not buying 10 years ago&#x2019;: I&#x2019;m 59 and pay $2,300 in rent. Do I dip into my IRA to buy a home?",
+      "url": "https://www.marketwatch.com/story/i-regret-not-buying-10-years-ago-im-59-and-pay-2-300-in-rent-do-i-dip-into-my-ira-to-buy-a-home-d581e678?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Our retirement funds include $2.5 million in a traditional IRA and $250,000 in a Roth IRA.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-24T04:08:00.000Z",
+      "headline": "U.S. stock futures gain ahead of Thanksgiving week &#x2014; and the crucial holiday shopping season",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-gain-ahead-of-thanksgiving-week-and-the-crucial-holiday-shopping-season-c6ea13ea?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "U.S. stock futures rose Sunday, in hopes of building on Friday&#x2019;s rebound, as investors await the start of the critical holiday shopping season following a wild week on Wall Street.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T19:00:00.000Z",
+      "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-18T14:00:00.000Z",
+      "headline": "Federal Reserve Board releases information regarding enhancements to bank supervision",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251118a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board releases information regarding enhancements to bank supervision",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-23T20:47:00.000Z",
       "headline": "&#x2018;I&#x2019;ve always lived hand-to-mouth&#x2019;: I&#x2019;m 64. My father left me $400K from his 457(b) plan. My brother is suing me. How can I defend myself?",
@@ -26,18 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-23T23:17:00.000Z",
-      "headline": "U.S. stock futures gain ahead of Thanksgiving week &#x2014; and the crucial holiday shopping season",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-gain-ahead-of-thanksgiving-week-and-the-crucial-holiday-shopping-season-c6ea13ea?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "U.S. stock futures rose Sunday, in hopes of building on Friday&#x2019;s rebound, as investors await the start of the critical holiday shopping season following a wild week on Wall Street.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-23T19:59:00.000Z",
       "headline": "&#x2018;There&#x2019;s a lot of tension&#x2019;: My brother and I manage a $5 million trust. How do we solve our many disagreements?",
       "url": "https://www.marketwatch.com/story/theres-a-lot-of-tension-my-brother-and-i-manage-a-5-million-trust-how-do-we-solve-our-many-disagreements-20e57138?mod=mw_rss_topstories",
@@ -48,102 +132,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;We have a good estate attorney, but he just repeats the facts; we need someone to help with the feelings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-23T22:26:00.000Z",
-      "headline": "Retailers try to downplay worries about lower-income shoppers, as bargains reign supreme",
-      "url": "https://www.marketwatch.com/story/retailers-try-to-downplay-worries-about-lower-income-shoppers-as-bargains-reign-supreme-057cf776?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Earnings Watch: Burlington, Kohl&#x2019;s, Best Buy and other chains report this week ahead of Black Friday as concerns about the economy linger.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-23T17:00:00.000Z",
-      "headline": "Why the stakes for stocks are so high in this short Thanksgiving trading week ahead",
-      "url": "https://www.marketwatch.com/story/why-the-stakes-for-stocks-are-so-high-in-this-short-thanksgiving-trading-week-ahead-b60a6279?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S. stock market is heading into a shortened trading week, as investors break for Thanksgiving, with a lot riding on American consumers after a recent tumultuous stretch.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-23T18:29:00.000Z",
-      "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
-      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-23T15:11:00.000Z",
-      "headline": "&#x2018;We almost lost $10,000&#x2019;: My late father-in-law&#x2019;s company claimed his life-insurance policy didn&#x2019;t exist. It did.",
-      "url": "https://www.marketwatch.com/story/we-almost-lost-10-000-my-late-father-in-laws-company-claimed-his-life-insurance-policy-didnt-exist-it-did-85d02a21?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The company changed names several times, and it was very difficult tracking them down for payment of benefits.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-23T14:30:00.000Z",
-      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
-      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-23T17:01:00.000Z",
-      "headline": "Why the once-invincible Nvidia can&#x2019;t save the AI trade",
-      "url": "https://www.marketwatch.com/story/why-the-once-invincible-nvidia-cant-save-the-ai-trade-893d307a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The stock market is sensitive to everything from the path of interest rates to ominous OpenAI commentary &#x2014; and now investors are digging more closely into Nvidia&#x2019;s earnings.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T19:00:00.000Z",
-      "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-18T14:00:00.000Z",
-      "headline": "Federal Reserve Board releases information regarding enhancements to bank supervision",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251118a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board releases information regarding enhancements to bank supervision",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -180,6 +168,18 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-23T22:26:00.000Z",
+      "headline": "Retailers try to downplay worries about lower-income shoppers, as bargains reign supreme",
+      "url": "https://www.marketwatch.com/story/retailers-try-to-downplay-worries-about-lower-income-shoppers-as-bargains-reign-supreme-057cf776?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Earnings Watch: Burlington, Kohl&#x2019;s, Best Buy and other chains report this week ahead of Black Friday as concerns about the economy linger.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
