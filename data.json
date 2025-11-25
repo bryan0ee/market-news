@@ -1,8 +1,82 @@
 {
-  "last_updated": "2025-11-24T23:27:46.557Z",
+  "last_updated": "2025-11-25T10:48:53.596Z",
   "items": [
     {
-      "ts": "2025-11-24T23:08:00.000Z",
+      "ts": "2025-11-25T10:15:00.000Z",
+      "headline": "&#x2018;I have no paperwork&#x2019;: My father gave my mother&#x2019;s jewelry before he died. Will I owe taxes if I sell?",
+      "url": "https://www.marketwatch.com/story/i-have-no-paperwork-my-father-gave-my-mothers-jewelry-before-he-died-will-i-owe-taxes-if-i-sell-768ee7dc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I do have current appraisals.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T10:04:00.000Z",
+      "headline": "Nvidia says it&#x2019;s not Enron. Michael Burry makes a different dot-com parallel.",
+      "url": "https://www.marketwatch.com/story/nvidia-says-its-not-enron-michael-burry-makes-a-different-dot-com-parallel-65df9e9b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Nvidia and Michael Burry, the famed investor who was chronicled in The Big Short by spotting the subprime bubble, appear to be in a war of words.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T10:01:00.000Z",
+      "headline": "She&#x2019;s the &#x2018;Oprah of China&#x2019; and she&#x2019;s selling her lavish New York City townhouse &#x2018;very cheap&#x2019; for $20 million",
+      "url": "https://www.marketwatch.com/story/shes-the-oprah-of-china-and-shes-selling-her-lavish-new-york-city-townhouse-very-cheap-for-20-million-4551a656?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "An emmy-winning TV host known as the &#x201c;Oprah of China&#x201d; has opened the doors to her lavish $20 million New York City townhouse as she looks for a buyer for the iconic abode.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T09:58:00.000Z",
+      "headline": "Jeff Bezos makes extravagant renovations of 3 &#x2018;Billionaire Bunker&#x2019; homes",
+      "url": "https://www.marketwatch.com/story/jeff-bezos-makes-extravagant-renovations-of-3-billionaire-bunker-homes-53c8b929?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Bezos&#xa0;has spent years building his dream compound inside the exclusive Florida&#xa0;enclave of&#xa0;Indian Creek Island.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T09:25:00.000Z",
+      "headline": "Jack Dorsey as Satoshi? These analysts note the coincidences.",
+      "url": "https://www.marketwatch.com/story/jack-dorsey-as-satoshi-these-analysts-note-the-coincidences-2cf02e0c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Jack Dorsey as Satoshi? These analysts note the coincidences.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T03:23:00.000Z",
+      "headline": "Alphabet&#x2019;s stock rises as possible Meta chip deal highlights new twist in the AI trade",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-rises-as-possible-meta-chip-deal-highlights-new-twist-in-the-ai-trade-e697d12f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "META",
+        "ED"
+      ],
+      "summary_en": "Meta reportedly is considering using Alphabet&#x2019;s custom chips for its data centers. Nvidia and AMD shares are falling on the prospect of more formidable competition.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T01:34:00.000Z",
       "headline": "This booming tech stock will join the S&P 500 &#x2014; and it&#x2019;s not Strategy",
       "url": "https://www.marketwatch.com/story/this-booming-tech-stock-will-join-the-s-p-500-and-its-not-strategy-6b340451?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,79 +88,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-24T23:05:00.000Z",
-      "headline": "&#x2018;He lived alone in Section 8 housing&#x2019;: My late uncle&#x2019;s landlord disposed of his art collection. What can we do?",
-      "url": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The management company said they would store his belongings.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T22:44:00.000Z",
-      "headline": "Nasdaq has best day since May as Alphabet drives AI rebound. Here&#x2019;s what it means for the rest of Thanksgiving week.",
-      "url": "https://www.marketwatch.com/story/nasdaq-has-best-day-since-may-as-alphabet-drives-ai-rebound-heres-what-it-means-for-the-rest-of-thanksgiving-week-c526053f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stocks continued their comeback on Monday, with the tech-heavy Nasdaq Composite scoring its best session since May after nearly slipping into correction territory last week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T22:09:00.000Z",
-      "headline": "Trump&#x2019;s healthcare plan could extend Obamacare subsidies. Here&#x2019;s what we know so far.",
-      "url": "https://www.marketwatch.com/story/trumps-healthcare-plan-could-be-revealed-today-heres-what-we-know-so-far-734225b1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump is working on a healthcare plan that could address expiring Obamacare subsidies, the issue that triggered this fall&#x2019;s record-breaking government shutdown.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T21:57:00.000Z",
-      "headline": "There&#x2019;s still hope GLP-1 drugs could slow the second-biggest type of dementia",
-      "url": "https://www.marketwatch.com/story/theres-still-hope-glp-1-drugs-could-slow-the-second-biggest-type-of-dementia-c81b7db0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Can GLP-1s treat vascular dementia? One study failed, but some researchers are holding out hope.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T20:32:00.000Z",
-      "headline": "Supersavers who can put $72,000 in their 401(k)s in 2026 should make this smart &#x2018;mega&#x2019; Roth move",
-      "url": "https://www.marketwatch.com/story/supersavers-who-can-put-72-000-in-their-401-k-s-in-2026-should-make-this-smart-mega-roth-move-2ab7ad20?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;This is a strategy that is so incredibly beneficial for highly compensated employees because they can&#x2019;t contribute to a regular Roth IRA.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T23:16:00.000Z",
-      "headline": "&#x2018;I regret not buying&#x2019;: I&#x2019;m 59 and pay $2,300 rent. Is it too late to dip into my IRA to buy a home?",
-      "url": "https://www.marketwatch.com/story/i-regret-not-buying-10-years-ago-im-59-and-pay-2-300-in-rent-do-i-dip-into-my-ira-to-buy-a-home-d581e678?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Our retirement funds include $2.5 million in a traditional IRA and $250,000 in a Roth IRA.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T19:31:00.000Z",
+      "ts": "2025-11-25T00:22:00.000Z",
       "headline": "AI and tech stocks are giving &#x2018;early 1999&#x2019; dot-com bubble vibes. Is their rally finished?",
       "url": "https://www.marketwatch.com/story/is-it-finally-game-over-for-ai-and-big-tech-stocks-d9b0655c?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,27 +100,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-24T19:28:00.000Z",
-      "headline": "How Tesla can leave &#x2018;obsolete&#x2019; rivals in the dust, according to this analyst",
-      "url": "https://www.marketwatch.com/story/how-tesla-can-leave-obsolete-rivals-in-the-dust-according-to-this-analyst-1c9c4e51?mod=mw_rss_topstories",
+      "ts": "2025-11-25T00:21:00.000Z",
+      "headline": "Why a functional U.S. government could actually trigger a bear market",
+      "url": "https://www.marketwatch.com/story/why-a-balanced-u-s-budget-could-actually-trigger-a-bear-market-52f80a8c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The automaker can collect more data and move faster than legacy competitors, a Melius analyst noted.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-24T20:14:00.000Z",
-      "headline": "Target-date funds and other autopilot investments may offer you free money",
-      "url": "https://www.marketwatch.com/story/target-date-funds-and-other-autopilot-investments-may-offer-you-free-money-64c5479b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "At&#xa0;times of violent market moves, their impact can be far bigger than most people realize.",
+      "summary_en": "Big federal deficits are bullish for stocks &#x2014; in the short-term, at least.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -179,6 +169,18 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T01:23:00.000Z",
+      "headline": "I&#x2019;m 59. Does it make financial sense to dip into my $2.5 million IRA to buy a $400K home?",
+      "url": "https://www.marketwatch.com/story/i-regret-not-buying-10-years-ago-im-59-and-pay-2-300-in-rent-do-i-dip-into-my-ira-to-buy-a-home-d581e678?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I regret not buying a home 10 years ago, but we were both going through divorces.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
