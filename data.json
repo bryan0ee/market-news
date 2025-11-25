@@ -1,114 +1,125 @@
 {
-  "last_updated": "2025-11-25T10:48:53.596Z",
+  "last_updated": "2025-11-25T13:36:09.084Z",
   "items": [
     {
-      "ts": "2025-11-25T10:15:00.000Z",
-      "headline": "&#x2018;I have no paperwork&#x2019;: My father gave my mother&#x2019;s jewelry before he died. Will I owe taxes if I sell?",
-      "url": "https://www.marketwatch.com/story/i-have-no-paperwork-my-father-gave-my-mothers-jewelry-before-he-died-will-i-owe-taxes-if-i-sell-768ee7dc?mod=mw_rss_topstories",
+      "ts": "2025-11-25T12:52:00.000Z",
+      "headline": "How Burlington missed the mark on sales and bucked an off-price retail trend",
+      "url": "https://www.marketwatch.com/story/how-burlington-missed-the-mark-on-sales-and-bucked-an-off-price-retail-trend-562b962e?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Burlington Stores&#x2019; stock drops after the company missed sales expectations, as unusually warm weather led to a significant drop in store traffic.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T13:25:00.000Z",
+      "headline": "Personal-finance superstar Priceless Tay says just two money decisions can nail retirement success",
+      "url": "https://www.marketwatch.com/story/personal-finance-superstar-priceless-tay-says-just-two-money-decisions-can-nail-retirement-success-a5548cc1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I do have current appraisals.&#x201d;",
+      "summary_en": "Taylor Price tells her millions of social media followers to maximize compound interest and fund a Roth IRA.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-25T10:04:00.000Z",
-      "headline": "Nvidia says it&#x2019;s not Enron. Michael Burry makes a different dot-com parallel.",
-      "url": "https://www.marketwatch.com/story/nvidia-says-its-not-enron-michael-burry-makes-a-different-dot-com-parallel-65df9e9b?mod=mw_rss_topstories",
+      "ts": "2025-11-25T13:15:00.000Z",
+      "headline": "The kids are not all right &#x2014; how young stock investors are bringing on a bear market",
+      "url": "https://www.marketwatch.com/story/the-kids-are-not-all-right-how-young-stock-investors-are-bringing-on-a-bear-market-4be33bcd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Nvidia and Michael Burry, the famed investor who was chronicled in The Big Short by spotting the subprime bubble, appear to be in a war of words.",
+      "summary_en": "Shareholders who&#x2019;ve never endured a prolonged market downturn believe they have nothing to lose.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-25T10:01:00.000Z",
-      "headline": "She&#x2019;s the &#x2018;Oprah of China&#x2019; and she&#x2019;s selling her lavish New York City townhouse &#x2018;very cheap&#x2019; for $20 million",
-      "url": "https://www.marketwatch.com/story/shes-the-oprah-of-china-and-shes-selling-her-lavish-new-york-city-townhouse-very-cheap-for-20-million-4551a656?mod=mw_rss_topstories",
+      "ts": "2025-11-25T13:09:00.000Z",
+      "headline": "Alibaba shows off its AI credentials as revenue tops expectations",
+      "url": "https://www.marketwatch.com/story/alibaba-shows-off-its-ai-credentials-as-revenue-tops-expectations-4cb47301?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "An emmy-winning TV host known as the &#x201c;Oprah of China&#x201d; has opened the doors to her lavish $20 million New York City townhouse as she looks for a buyer for the iconic abode.",
+      "summary_en": "Alibaba stock spiked 5% Tuesday morning after third-quarter results impressed the market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-25T09:58:00.000Z",
-      "headline": "Jeff Bezos makes extravagant renovations of 3 &#x2018;Billionaire Bunker&#x2019; homes",
-      "url": "https://www.marketwatch.com/story/jeff-bezos-makes-extravagant-renovations-of-3-billionaire-bunker-homes-53c8b929?mod=mw_rss_topstories",
+      "ts": "2025-11-25T13:05:00.000Z",
+      "headline": "As Fed hawks and doves battle over rate cuts, investors need to watch these critical clues",
+      "url": "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Bezos&#xa0;has spent years building his dream compound inside the exclusive Florida&#xa0;enclave of&#xa0;Indian Creek Island.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T09:25:00.000Z",
-      "headline": "Jack Dorsey as Satoshi? These analysts note the coincidences.",
-      "url": "https://www.marketwatch.com/story/jack-dorsey-as-satoshi-these-analysts-note-the-coincidences-2cf02e0c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Jack Dorsey as Satoshi? These analysts note the coincidences.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T03:23:00.000Z",
-      "headline": "Alphabet&#x2019;s stock rises as possible Meta chip deal highlights new twist in the AI trade",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-rises-as-possible-meta-chip-deal-highlights-new-twist-in-the-ai-trade-e697d12f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "AMD",
-        "META",
+        "NEE",
         "ED"
       ],
-      "summary_en": "Meta reportedly is considering using Alphabet&#x2019;s custom chips for its data centers. Nvidia and AMD shares are falling on the prospect of more formidable competition.",
+      "summary_en": "Stocks and bonds will react to new data on job openings, wages and labor market perceptions.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-25T01:34:00.000Z",
-      "headline": "This booming tech stock will join the S&P 500 &#x2014; and it&#x2019;s not Strategy",
-      "url": "https://www.marketwatch.com/story/this-booming-tech-stock-will-join-the-s-p-500-and-its-not-strategy-6b340451?mod=mw_rss_topstories",
+      "ts": "2025-11-25T13:04:00.000Z",
+      "headline": "Novo Nordisk&#x2019;s weight-loss-drug trial provides rare good news in a rocky year",
+      "url": "https://www.marketwatch.com/story/novo-nordisks-weight-loss-drug-trial-provides-rare-good-news-in-a-rocky-year-899741ee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A place in the S&P 500 is a coveted spot for companies, as it exposes their shares to a much broader range of investors.",
+      "summary_en": "Novo Nordisk, whose shares have stumbled this year, on Tuesday announced a positive trial result for a weight-loss drug in development.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-25T00:22:00.000Z",
-      "headline": "AI and tech stocks are giving &#x2018;early 1999&#x2019; dot-com bubble vibes. Is their rally finished?",
-      "url": "https://www.marketwatch.com/story/is-it-finally-game-over-for-ai-and-big-tech-stocks-d9b0655c?mod=mw_rss_topstories",
+      "ts": "2025-11-25T13:00:00.000Z",
+      "headline": "Shake Shack&#x2019;s Big Shack burger is more than an internet sensation. Here&#x2019;s what it says about the restaurant business.",
+      "url": "https://www.marketwatch.com/story/shake-shacks-big-shack-burger-is-more-than-an-internet-sensation-heres-what-it-says-about-the-restaurant-business-965677ae?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Potential Fed rate cut in December could ignite a &#x2018;risk-on&#x2019; flame &#x2014; but just for a short time.",
+      "summary_en": "So-called &#x201c;value hooks&#x201d; like the Big Shack burger have blurred the price boundaries in the restaurant industry.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-25T00:21:00.000Z",
-      "headline": "Why a functional U.S. government could actually trigger a bear market",
-      "url": "https://www.marketwatch.com/story/why-a-balanced-u-s-budget-could-actually-trigger-a-bear-market-52f80a8c?mod=mw_rss_topstories",
+      "ts": "2025-11-25T12:58:00.000Z",
+      "headline": "There&#x2019;s still hope GLP-1 drugs could slow the second most common type of dementia",
+      "url": "https://www.marketwatch.com/story/theres-still-hope-glp-1-drugs-could-slow-the-second-biggest-type-of-dementia-c81b7db0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Big federal deficits are bullish for stocks &#x2014; in the short-term, at least.",
+      "summary_en": "Can GLP-1s treat vascular dementia? One study failed, but some researchers are holding out hope.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T12:50:00.000Z",
+      "headline": "Washington bought an election. Argentina got a president. You got the bill.&#xa0;",
+      "url": "https://www.marketwatch.com/story/washington-bought-an-election-argentina-got-a-president-you-got-the-bill-e1b6ff15?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The U.S. Treasury&#x2019;s $43 billion slush fund just bailed out Argentina President Javier Milei &#x2014; and some big investors. Central banks paid attention &#x2014; and you should too.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T12:47:00.000Z",
+      "headline": "Fund manager who &#x2018;pounded the table&#x2019; to own Nvidia in 2017 now likes these AI stocks",
+      "url": "https://www.marketwatch.com/story/fund-manager-who-pounded-the-table-to-own-nvidia-in-2017-now-likes-these-ai-stocks-24840810?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tony Wang, who has a knack for spotting tech winners like Nvidia, talks about the companies that are exciting him now.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -169,18 +180,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T01:23:00.000Z",
-      "headline": "I&#x2019;m 59. Does it make financial sense to dip into my $2.5 million IRA to buy a $400K home?",
-      "url": "https://www.marketwatch.com/story/i-regret-not-buying-10-years-ago-im-59-and-pay-2-300-in-rent-do-i-dip-into-my-ira-to-buy-a-home-d581e678?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I regret not buying a home 10 years ago, but we were both going through divorces.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
