@@ -1,96 +1,37 @@
 {
-  "last_updated": "2025-11-26T10:47:42.897Z",
+  "last_updated": "2025-11-26T13:36:46.930Z",
   "items": [
     {
-      "ts": "2025-11-26T09:19:00.000Z",
-      "headline": "Bets surge on Kevin Hassett becoming next Fed chair",
-      "url": "https://www.marketwatch.com/story/bets-surge-on-kevin-hassett-becoming-next-fed-chair-3f87ebd5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The current White House National Economic Council Director is in tune with Trump&#x2019;s view on interest rates",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T10:15:00.000Z",
-      "headline": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
-      "url": "https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;This money is likely to be saved for the purchase of homes in 10 years or so.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T10:05:00.000Z",
-      "headline": "Steelers QB Aaron Rodgers lists Wisconsin mansion for $3.7 million, despite &#x2018;sentimental attachment&#x2019;",
-      "url": "https://www.marketwatch.com/story/steelers-qb-aaron-rodgers-lists-wisconsin-mansion-for-3-7-million-despite-sentimental-attachment-a818fbe4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "NFL star Aaron Rodgers put his longtime Wisconsin mansion on the market just over two years after he was traded to the New York Jets by the Green Bay Packers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T10:02:00.000Z",
-      "headline": "Bill Cosby sells N.Y. townhouse for a whopping $28 million; he&#x2019;s still facing foreclosure on another home",
-      "url": "https://www.marketwatch.com/story/bill-cosby-sells-n-y-townhouse-for-a-whopping-28-million-hes-still-facing-foreclosure-on-another-home-044a0cc5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bill Cosby&#xa0;has saved at least one of his&#xa0;New York City&#xa0;homes from foreclosure&#x2014;after selling the historic townhouse less than two months after he put it on the market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T07:09:00.000Z",
-      "headline": "The U.K. just hiked its minimum wage again. Now it&#x2019;s more than double the U.S.&#x2019;s hourly pay floor.",
-      "url": "https://www.marketwatch.com/story/the-u-k-just-hiked-its-minimum-wage-again-now-its-more-than-double-the-u-s-s-hourly-pay-floor-406b19fc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "British workers are about to get a minimum-wage bump higher, putting the U.K. near the top of a world ranking.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T09:58:00.000Z",
-      "headline": "The 2026 Subaru Crosstrek is impressively functional with  adventurous flair, and now a quieter cabin, too",
-      "url": "https://www.marketwatch.com/story/the-2026-subaru-crosstrek-is-impressively-functional-with-adventurous-flair-and-now-a-quieter-cabin-too-22a58777?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Affordable, capable, and practical, the subcompact 2026 Subaru Crosstrek is also a passel of fun.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T01:16:00.000Z",
-      "headline": "Nvidia&#x2019;s stock drops on Google fears. Are investors missing the point?",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-on-google-fears-are-investors-missing-the-point-f38b39a4?mod=mw_rss_topstories",
+      "ts": "2025-11-26T12:31:00.000Z",
+      "headline": "Deere&#x2019;s outlook disappoints, as it means the agriculture sector hasn&#x2019;t bottomed yet",
+      "url": "https://www.marketwatch.com/story/deeres-outlook-disappoints-as-it-means-the-agriculture-sector-hasnt-bottomed-yet-8bcdcffc?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "GOOGL"
+        "ED"
       ],
-      "summary_en": "While investors debate which company will win in the AI chip market, a Bernstein analyst says the question is more about whether or not the market is still growing.",
+      "summary_en": "Deere&#x2019;s stock falls as the full-year outlook suggests the worst of the agriculture cycle isn&#x2019;t over yet.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-26T01:18:00.000Z",
-      "headline": "Urban Outfitters says shoppers are holding out for deals, but sees little pushback on its prices",
-      "url": "https://www.marketwatch.com/story/urban-outfitters-shares-rally-as-turnaround-at-namesake-stores-pays-off-099f5948?mod=mw_rss_topstories",
+      "ts": "2025-11-26T13:27:00.000Z",
+      "headline": "Is the stock market open on Black Friday? Are any stores open on Thanksgiving Day?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-are-any-stores-open-on-thanksgiving-day-1f590970?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Thanksgiving week comes with plenty of holiday-adjusted business hours, including, of course on Wall Street &#x2014; so here&#x2019;s what you need to know.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-26T12:25:00.000Z",
+      "headline": "Urban Outfitters&#x2019; stock soars toward a record as &#x2018;lively&#x2019; shoppers are paying full-price for clothes",
+      "url": "https://www.marketwatch.com/story/urban-outfitters-shares-rally-as-turnaround-at-namesake-stores-pays-off-099f5948?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
@@ -98,7 +39,55 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-26T00:52:00.000Z",
+      "ts": "2025-11-26T13:01:00.000Z",
+      "headline": "China&#x2019;s reclusive young &#x2018;rat people&#x2019; stay in bed all day and gnaw away at the country&#x2019;s economic outlook",
+      "url": "https://www.marketwatch.com/story/quiet-wallets-hidden-rooms-how-chinas-young-rat-people-are-rewriting-the-consumer-outlook-62a1732b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A growing youth trend of withdrawal and low-desire living is complicating Beijing&#x2019;s push for consumption-led growth.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-26T13:00:00.000Z",
+      "headline": "Why scoring the best Black Friday deals feels more important than it has in years &#x2014; for both shoppers and the economy",
+      "url": "https://www.marketwatch.com/story/why-scoring-the-best-black-friday-deals-feels-more-important-than-it-has-in-years-for-both-shoppers-and-the-economy-7e6ab04c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "After several years of rising prices and economic uncertainty, consumers are more focused on scoring the best deals.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-26T13:00:00.000Z",
+      "headline": "JPMorgan just one-upped the most bullish call on Wall Street for the S&P 500 next year",
+      "url": "https://www.marketwatch.com/story/jpmorgan-just-one-upped-the-most-bullish-call-on-wall-street-for-the-s-p-500-next-year-c6ae8ba7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "JPMorgan has an optimistic view on U.S. stock markets next year, and AI momentum will be playing a starring role.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-26T12:00:00.000Z",
+      "headline": "Mortgage rates fall sharply on expectations of a Fed rate cut. Will they keep on dropping from here?",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-fall-sharply-on-expectations-of-a-fed-rate-cut-will-they-keep-on-dropping-from-here-18d03650?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Mortgage rates took a dive on Tuesday, pushing the 30-year rate to the lowest level in a month.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-26T11:30:00.000Z",
       "headline": "Beware of this Black Friday scam",
       "url": "https://www.marketwatch.com/story/is-it-a-black-friday-scam-ebay-said-id-set-up-an-account-there-was-only-one-problem-i-hadnt-b4b8c169?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -107,6 +96,30 @@
         "ED"
       ],
       "summary_en": "&#x201c;I received an email from eBay, or at least it looked like it was from an official eBay address.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-26T13:27:00.000Z",
+      "headline": "Alphabet gets closer to $4 trillion as Morgan Stanley puts a big number around its chip potential",
+      "url": "https://www.marketwatch.com/story/alphabet-gets-closer-to-4-trillion-as-morgan-stanley-puts-a-big-number-around-its-chip-potential-8a0fa5cb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Alphabet could be selling 1 million AI chips by 2027, say analysts.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-26T12:00:00.000Z",
+      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
+      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T01:19:00.000Z",
-      "headline": "Dell rides a boom in AI servers to deliver an upbeat forecast",
-      "url": "https://www.marketwatch.com/story/dell-rides-a-boom-in-ai-servers-to-deliver-an-upbeat-forecast-62049790?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The server maker says it&#x2019;s broadening its AI business to include more from neocloud, sovereign and enterprise customers",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
