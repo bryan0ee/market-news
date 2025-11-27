@@ -1,33 +1,56 @@
 {
-  "last_updated": "2025-11-27T10:46:24.096Z",
+  "last_updated": "2025-11-27T13:34:04.137Z",
   "items": [
     {
-      "ts": "2025-11-27T10:03:00.000Z",
-      "headline": "Kevin Spacey says he is living in hotels after Baltimore foreclosure; &#x2018;I&#x2019;m going where the work is&#x2019;",
-      "url": "https://www.marketwatch.com/story/kevin-spacey-says-he-is-living-in-hotels-after-baltimore-foreclosure-im-going-where-the-work-is-0069a5b6?mod=mw_rss_topstories",
+      "ts": "2025-11-27T13:01:00.000Z",
+      "headline": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
+      "url": "https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED",
-        "COST"
+        "ED"
       ],
-      "summary_en": "Hollywood legend Kevin Spacey has revealed that he is homeless, having lost his lavish Baltimore property to foreclosure while dealing with the soaring cost of legal fees.",
+      "summary_en": "&#x201c;This money is likely to be saved for the purchase of homes in 10 years or so.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-27T10:21:00.000Z",
-      "headline": "Beaten-down Puma shares are soaring. The sportswear maker may have a suitor.",
-      "url": "https://www.marketwatch.com/story/beaten-down-puma-shares-are-soaring-the-sportswear-maker-may-have-a-suitor-33a83834?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-11-27T12:53:00.000Z",
+      "headline": "Relentless financial pressure has Black Friday shoppers of all incomes even more hungry for deals than usual",
+      "url": "https://www.marketwatch.com/story/why-scoring-the-best-black-friday-deals-feels-more-important-than-it-has-in-years-for-both-shoppers-and-the-economy-7e6ab04c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Puma shares are climbing on Thursday after a report that a China sportswear maker may consider a bid for the struggling German sportswear maker.",
+      "summary_en": "After several years of rising prices and economic uncertainty, consumers are more focused on scoring the best deals.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-27T00:18:00.000Z",
+      "ts": "2025-11-27T12:00:00.000Z",
+      "headline": "Doing your holiday shopping with a credit card? Use these 6 tips to preserve your credit score &#x2014; and your sanity.",
+      "url": "https://www.marketwatch.com/story/doing-your-holiday-shopping-with-a-credit-card-use-these-6-tips-to-preserve-your-credit-score-and-your-sanity-cb8907b8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Americans will be leaning hard on their credit cards this holiday season. A few key rules can keep you from slipping into a debt spiral.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-27T12:00:00.000Z",
+      "headline": "Beware of this Black Friday scam",
+      "url": "https://www.marketwatch.com/story/is-it-a-black-friday-scam-ebay-said-id-set-up-an-account-there-was-only-one-problem-i-hadnt-b4b8c169?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I received an email from eBay, or at least it looked like it was from an official eBay address.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-27T11:38:00.000Z",
       "headline": "Scoring great Black Friday deals is getting harder. These 6 tips can help you shop smarter this weekend.",
       "url": "https://www.marketwatch.com/story/scoring-great-black-friday-deals-is-getting-harder-these-6-tips-can-help-you-shop-smarter-this-weekend-ae2a5d2a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -36,6 +59,66 @@
         "ED"
       ],
       "summary_en": "Deals aren&#x2019;t as enticing this Black Friday compared with years past &#x2014; but it&#x2019;s still possible to find bargains if you know where to look.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-27T11:01:00.000Z",
+      "headline": "Feeding your friendships this Thanksgiving can be as fruitful as investing in your 401(k)",
+      "url": "https://www.marketwatch.com/story/what-your-friendships-and-401-k-have-in-common-and-how-to-get-the-best-return-on-investment-279f5be6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Sustaining healthy friendships throughout your life can reap long-term dividends for both your health and your finances.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-27T12:07:00.000Z",
+      "headline": "Stop and do this before you buy anything on Black Friday",
+      "url": "https://www.marketwatch.com/story/stop-and-do-this-before-you-buy-anything-on-black-friday-50dc1ccb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Be sure to &#x2018;pay yourself first&#x2019; before you spend a dollar on deals,&#x201d; says financial planner.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-27T11:32:00.000Z",
+      "headline": "Trump&#x2019;s One Big Beautiful Bill Act will really kick into gear next year. These are the stocks to watch, says SocGen.",
+      "url": "https://www.marketwatch.com/story/trumps-one-big-beautiful-bill-act-will-really-kick-into-gear-next-year-these-are-the-stocks-to-watch-says-socgen-a31725a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The OBBBA may provide an additional tailwind for equities in 2026",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-27T11:06:00.000Z",
+      "headline": "Even thrift stores are holding Black Friday sales as Americans seek holiday bargains",
+      "url": "https://www.marketwatch.com/story/expect-more-secondhand-holiday-gifts-this-year-thanks-in-part-to-gen-zs-love-of-thrifting-12035cfe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "As households face tighter budgets, experts anticipate more people will shop secondhand for gifts this holiday season.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-27T11:00:00.000Z",
+      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
+      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -60,54 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T23:35:00.000Z",
-      "headline": "After years of rising drug prices, more discounts are here &#x2014; at least for Medicare",
-      "url": "https://www.marketwatch.com/story/after-years-of-rising-drug-prices-more-discounts-are-here-at-least-for-medicare-b6a013ed?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Price are falling sharply for Medicare beneficiaries prescribed Novo Nordisk&#x2019;s GLP-1 drugs like Ozempic in 2027.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T23:31:00.000Z",
-      "headline": "Beware of this Black Friday scam",
-      "url": "https://www.marketwatch.com/story/is-it-a-black-friday-scam-ebay-said-id-set-up-an-account-there-was-only-one-problem-i-hadnt-b4b8c169?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I received an email from eBay, or at least it looked like it was from an official eBay address.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T23:30:00.000Z",
-      "headline": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
-      "url": "https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;This money is likely to be saved for the purchase of homes in 10 years or so.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T21:29:00.000Z",
-      "headline": "Stocks stage powerful comeback ahead of Thanksgiving. It wasn&#x2019;t enough to erase November&#x2019;s losses.",
-      "url": "https://www.marketwatch.com/story/stocks-stage-powerful-comeback-ahead-of-thanksgiving-it-wasnt-enough-to-erase-novembers-losses-32106e03?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stocks rallied for a fourth straight day on Wednesday, having clawed back all of last week&#x2019;s losses ahead of the Thanksgiving holiday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,42 +179,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will extend until February 21, 2026, the comment period on proposal to improve stress test model and scenario transparency and accountability",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T23:35:00.000Z",
-      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
-      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T22:58:00.000Z",
-      "headline": "Alphabet gets closer to $4 trillion as Morgan Stanley puts a big number around its chip potential",
-      "url": "https://www.marketwatch.com/story/alphabet-gets-closer-to-4-trillion-as-morgan-stanley-puts-a-big-number-around-its-chip-potential-8a0fa5cb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Alphabet could be selling 1 million AI chips by 2027, analysts say.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-26T21:52:00.000Z",
-      "headline": "&#x2018;Stranger Things&#x2019; has made at least $1 billion for Netflix already. Now Season 5 could deliver another $200 million.",
-      "url": "https://www.marketwatch.com/story/stranger-things-has-made-at-least-1-billion-for-netflix-already-now-season-5-could-deliver-another-200-million-b8827337?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "At least that&#x2019;s what one expert says, but the bigger question is whether the hit show could become a &#x2018;Star Wars&#x2019;-type franchise worth billions more",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
