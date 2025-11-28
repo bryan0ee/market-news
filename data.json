@@ -1,126 +1,125 @@
 {
-  "last_updated": "2025-11-28T13:32:28.186Z",
+  "last_updated": "2025-11-28T23:27:13.766Z",
   "items": [
     {
-      "ts": "2025-11-28T13:23:00.000Z",
-      "headline": "These tech stocks join Alphabet among the sector&#x2019;s rare gainers for November",
-      "url": "https://www.marketwatch.com/story/these-tech-stocks-join-alphabet-among-the-sectors-rare-gainers-for-november-76dd7ea0?mod=mw_rss_topstories",
+      "ts": "2025-11-28T22:56:00.000Z",
+      "headline": "Airbus recalls &#x2018;significant number&#x2019; of planes. How airlines say it will affect holiday travel.",
+      "url": "https://www.marketwatch.com/story/airbus-says-some-jets-face-issues-stemming-from-intense-solar-radiation-u-s-airlines-say-it-wont-be-a-huge-flight-disruption-ce306cfa?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Certain AI plays bucked the tech sector&#x2019;s selloff as the market got more discerning.",
+      "summary_en": "American says it expects &#x2018;some delays&#x2019; but a quick fix. Delta predicts &#x2018;limited&#x2019; impact. United says it&#x2019;s not affected.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-28T13:18:00.000Z",
-      "headline": "CME says trading will restart soon after glitch causes Black Friday outage for U.S. equity futures",
-      "url": "https://www.marketwatch.com/story/cme-halts-futures-trading-on-stocks-currencies-and-other-markets-citing-data-center-cooling-issue-772a0d6d?mod=mw_rss_topstories",
+      "ts": "2025-11-28T22:27:00.000Z",
+      "headline": "Stocks stage big comeback in best Thanksgiving week since 2008. What comes next?",
+      "url": "https://www.marketwatch.com/story/stocks-stage-big-comeback-in-best-thanksgiving-week-since-2008-what-comes-next-a18a6bdf?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Exchange operator CME Group said trading in U.S. equity futures should be restarting soon after a glitch knocked it out for several hours.",
+      "summary_en": "Strong performance during Thanksgiving week is often followed by gains in December.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-28T12:44:00.000Z",
-      "headline": "These stocks may benefit from a shift towards Google&#x2019;s highly specialized AI microchips",
-      "url": "https://www.marketwatch.com/story/these-stocks-may-benefit-from-a-shift-towards-googles-highly-specialized-ai-microchips-f3b51124?mod=mw_rss_topstories",
+      "ts": "2025-11-28T19:57:00.000Z",
+      "headline": "Beware of this Black Friday scam",
+      "url": "https://www.marketwatch.com/story/is-it-a-black-friday-scam-ebay-said-id-set-up-an-account-there-was-only-one-problem-i-hadnt-b4b8c169?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "GOOGL",
         "ED"
       ],
-      "summary_en": "If there&#x2019;s widespread adoption of Google&#x2019;s TPU ecosystem, there are plenty of stocks that may flourish as a consequence.",
+      "summary_en": "&#x201c;I received an email from eBay, or at least it looked like it was from an official eBay address.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-28T12:31:00.000Z",
-      "headline": "The facts from Social Security dump on Elon Musk&#x2019;s fraud claims yet again",
+      "ts": "2025-11-28T19:57:00.000Z",
+      "headline": "&#x2018;We&#x2019;re struggling&#x2019;: I&#x2019;m 41 with 5 kids and $46K in credit-card debt. Do I raid my $1.2 million IRAs to pay it off?",
+      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T18:16:00.000Z",
+      "headline": "Is Big Tech back? Meta&#x2019;s and Microsoft&#x2019;s stocks score largest weekly gains since May.",
+      "url": "https://www.marketwatch.com/story/is-big-tech-back-metas-and-microsofts-stocks-score-largest-weekly-gains-since-may-d5ee370a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "Meta and Microsoft shares have struggled for momentum over the past three months but rode improving market sentiment this week.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T16:54:00.000Z",
+      "headline": "Big retailers like Walmart, Best Buy project confidence this holiday shopping season, while smaller businesses scramble",
+      "url": "https://www.marketwatch.com/story/big-retailers-project-calm-and-confidence-this-holiday-season-while-smaller-businesses-scramble-0d146dec?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As businesses dive into Black Friday following a year upended by tariffs, the rule seems to be that the bigger you are, the more optimistic you feel.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T17:33:00.000Z",
+      "headline": "Newly released facts from Social Security demolish Elon Musk&#x2019;s fraud claims &#x2014; again",
       "url": "https://www.marketwatch.com/story/the-facts-from-social-security-dump-on-elon-musks-fraud-claims-yet-again-10399461?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The latest inspector-general report confirms what has long been suspected: Namely that Elon Musk and Donald Trump were talking total nonsense for the first six months of this year.",
+      "summary_en": "We taxpayers are still waiting for our $1 trillion of annual savings. This latest report shows we will be waiting a long time. Until eternity, actually.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-28T12:16:00.000Z",
-      "headline": "Is the stock market open today for Black Friday?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-are-any-stores-open-on-thanksgiving-day-1f590970?mod=mw_rss_topstories",
+      "ts": "2025-11-28T20:30:00.000Z",
+      "headline": "&#x2018;My retirement is completely in bitcoin&#x2019;: Why don&#x2019;t more people do what I do?",
+      "url": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;&#x2018;I also borrow against bitcoin. What&#x2019;s the catch?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T17:07:00.000Z",
+      "headline": "&#x2018;At 55, I am the only single one in the family&#x2019;: Was I wrong to skip Thanksgiving dinner?",
+      "url": "https://www.marketwatch.com/story/im-burned-out-by-the-drama-is-it-wrong-to-skip-my-thanksgiving-family-dinner-last-year-was-fraught-0731f498?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
         "ED"
       ],
-      "summary_en": "Thanksgiving week comes with plenty of holiday-adjusted business hours, including, of course on Wall Street &#x2014; so here&#x2019;s what you need to know.",
+      "summary_en": "&#x201c;The same snarky political comments leave me with a bad taste in my mouth. That, and the undercooked turkey.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-28T13:29:00.000Z",
-      "headline": "Alphabet&#x2019;s stock is the most overbought ever by one measure. Is that a problem?",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-is-the-most-overbought-ever-by-one-measure-is-that-a-problem-3c1d6f7e?mod=mw_rss_topstories",
+      "ts": "2025-11-28T18:22:00.000Z",
+      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
+      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Alphabet&#x2019;s stock is technically very overbought. While that&#x2019;s not necessarily a reason to sell, new buyers may want to hold off for a little while.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-28T13:00:00.000Z",
-      "headline": "Why oil is on track to post its largest yearly decline since the pandemic",
-      "url": "https://www.marketwatch.com/story/why-oil-is-on-track-to-post-its-largest-yearly-decline-since-the-pandemic-28702bd2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Oil prices remain on track for their largest yearly loss since the pandemic. They may be near a short-term bottom, however, with the lower prices likely to boost demand and temper global production.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-28T12:50:00.000Z",
-      "headline": "Black Friday isn&#x2019;t just for sales &#x2014; it often kicks off a stretch of stock-market gains",
-      "url": "https://www.marketwatch.com/story/black-friday-isnt-just-for-sales-it-often-kicks-off-a-stretch-of-stock-market-gains-57c4fd30?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Investors can expect several seasonally bullish trading patterns from now into the new year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-28T12:40:00.000Z",
-      "headline": "Midterm elections are coming in 2026. Here&#x2019;s what 100 years of data tell us about how stocks may react.",
-      "url": "https://www.marketwatch.com/story/midterm-elections-are-coming-in-2026-heres-what-100-years-of-data-tell-us-about-how-stocks-may-react-00cf00c9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The &#x2018;midterm curse&#x2019; means its likely the ruling party will fare badly",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-28T12:39:00.000Z",
-      "headline": "Super Micro, Oracle headline this list of the worst-performing tech stocks in November",
-      "url": "https://www.marketwatch.com/story/super-micro-oracle-headline-this-list-of-the-worst-performing-tech-stocks-in-november-143825d9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "As the AI trade fizzles, major technology stocks have seen month-to-date declines of as much as 37%.",
+      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -136,18 +135,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-21T19:00:00.000Z",
-      "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-25T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251125a.htm",
@@ -157,30 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T21:00:00.000Z",
-      "headline": "Federal Reserve announces College Fed Challenge winners",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121b.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve announces College Fed Challenge winners",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T18:30:00.000Z",
-      "headline": "Federal Reserve Board announces it will extend until February 21, 2026, the comment period on proposal to improve stress test model and scenario transparency and accountability",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251121a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces it will extend until February 21, 2026, the comment period on proposal to improve stress test model and scenario transparency and accountability",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
