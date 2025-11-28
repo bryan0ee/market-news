@@ -1,57 +1,58 @@
 {
-  "last_updated": "2025-11-28T10:45:39.251Z",
+  "last_updated": "2025-11-28T13:32:28.186Z",
   "items": [
     {
-      "ts": "2025-11-28T10:30:00.000Z",
-      "headline": "&#x2018;We&#x2019;re struggling&#x2019;: I&#x2019;m 41 with 5 kids and $46K in credit-card debt. Do I raid my $1.2 million IRAs to pay it off?",
-      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "ts": "2025-11-28T13:23:00.000Z",
+      "headline": "These tech stocks join Alphabet among the sector&#x2019;s rare gainers for November",
+      "url": "https://www.marketwatch.com/story/these-tech-stocks-join-alphabet-among-the-sectors-rare-gainers-for-november-76dd7ea0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "summary_en": "Certain AI plays bucked the tech sector&#x2019;s selloff as the market got more discerning.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-28T10:11:00.000Z",
-      "headline": "Bitcoin has moved back above $90,000. Why this strategist says a return to $100,000 is not far away",
-      "url": "https://www.marketwatch.com/story/bitcoin-has-moved-back-above-90-000-why-this-strategist-says-a-return-to-100-000-is-not-far-away-cc79cb41?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "BTIG&#x2019;s chief technical strategist Jonathan Krinksy said bitcoin has just exited seasonal period of bottoming.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-28T10:00:00.000Z",
-      "headline": "&#x2018;Today&#x2019; host Dylan Dreyer sells New York apartment for $1.8 million following split-up with Brian Fichera",
-      "url": "https://www.marketwatch.com/story/today-host-dylan-dreyer-sells-new-york-apartment-for-1-8-million-following-split-up-with-brian-fichera-efa5aead?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Today&#x201d; host&#xa0;Dylan Dreyer and her&#xa0;estranged husband,&#xa0;Brian Fichera, have sold their longtime marital home in&#xa0;New York City.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-28T09:06:00.000Z",
-      "headline": "CME halts futures trading on stocks, currencies and other markets, citing data center cooling issue",
+      "ts": "2025-11-28T13:18:00.000Z",
+      "headline": "CME says trading will restart soon after glitch causes Black Friday outage for U.S. equity futures",
       "url": "https://www.marketwatch.com/story/cme-halts-futures-trading-on-stocks-currencies-and-other-markets-citing-data-center-cooling-issue-772a0d6d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Black Friday trading was off to an auspicious start after exchange operator CME was forced to halt futures trading on Friday.",
+      "summary_en": "Exchange operator CME Group said trading in U.S. equity futures should be restarting soon after a glitch knocked it out for several hours.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-28T07:03:00.000Z",
-      "headline": "Is the stock market open on Black Friday?",
+      "ts": "2025-11-28T12:44:00.000Z",
+      "headline": "These stocks may benefit from a shift towards Google&#x2019;s highly specialized AI microchips",
+      "url": "https://www.marketwatch.com/story/these-stocks-may-benefit-from-a-shift-towards-googles-highly-specialized-ai-microchips-f3b51124?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "If there&#x2019;s widespread adoption of Google&#x2019;s TPU ecosystem, there are plenty of stocks that may flourish as a consequence.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T12:31:00.000Z",
+      "headline": "The facts from Social Security dump on Elon Musk&#x2019;s fraud claims yet again",
+      "url": "https://www.marketwatch.com/story/the-facts-from-social-security-dump-on-elon-musks-fraud-claims-yet-again-10399461?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The latest inspector-general report confirms what has long been suspected: Namely that Elon Musk and Donald Trump were talking total nonsense for the first six months of this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T12:16:00.000Z",
+      "headline": "Is the stock market open today for Black Friday?",
       "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-are-any-stores-open-on-thanksgiving-day-1f590970?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -60,6 +61,66 @@
         "ED"
       ],
       "summary_en": "Thanksgiving week comes with plenty of holiday-adjusted business hours, including, of course on Wall Street &#x2014; so here&#x2019;s what you need to know.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T13:29:00.000Z",
+      "headline": "Alphabet&#x2019;s stock is the most overbought ever by one measure. Is that a problem?",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-is-the-most-overbought-ever-by-one-measure-is-that-a-problem-3c1d6f7e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Alphabet&#x2019;s stock is technically very overbought. While that&#x2019;s not necessarily a reason to sell, new buyers may want to hold off for a little while.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T13:00:00.000Z",
+      "headline": "Why oil is on track to post its largest yearly decline since the pandemic",
+      "url": "https://www.marketwatch.com/story/why-oil-is-on-track-to-post-its-largest-yearly-decline-since-the-pandemic-28702bd2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Oil prices remain on track for their largest yearly loss since the pandemic. They may be near a short-term bottom, however, with the lower prices likely to boost demand and temper global production.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T12:50:00.000Z",
+      "headline": "Black Friday isn&#x2019;t just for sales &#x2014; it often kicks off a stretch of stock-market gains",
+      "url": "https://www.marketwatch.com/story/black-friday-isnt-just-for-sales-it-often-kicks-off-a-stretch-of-stock-market-gains-57c4fd30?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Investors can expect several seasonally bullish trading patterns from now into the new year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T12:40:00.000Z",
+      "headline": "Midterm elections are coming in 2026. Here&#x2019;s what 100 years of data tell us about how stocks may react.",
+      "url": "https://www.marketwatch.com/story/midterm-elections-are-coming-in-2026-heres-what-100-years-of-data-tell-us-about-how-stocks-may-react-00cf00c9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The &#x2018;midterm curse&#x2019; means its likely the ruling party will fare badly",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T12:39:00.000Z",
+      "headline": "Super Micro, Oracle headline this list of the worst-performing tech stocks in November",
+      "url": "https://www.marketwatch.com/story/super-micro-oracle-headline-this-list-of-the-worst-performing-tech-stocks-in-november-143825d9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "As the AI trade fizzles, major technology stocks have seen month-to-date declines of as much as 37%.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -84,55 +145,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T23:09:00.000Z",
-      "headline": "Beware of this Black Friday scam",
-      "url": "https://www.marketwatch.com/story/is-it-a-black-friday-scam-ebay-said-id-set-up-an-account-there-was-only-one-problem-i-hadnt-b4b8c169?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I received an email from eBay, or at least it looked like it was from an official eBay address.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T23:06:00.000Z",
-      "headline": "&#x2018;I&#x2019;m burned out by the drama&#x2019;: Is it wrong to skip Thanksgiving dinner? Last year was fraught.",
-      "url": "https://www.marketwatch.com/story/im-burned-out-by-the-drama-is-it-wrong-to-skip-my-thanksgiving-family-dinner-last-year-was-fraught-0731f498?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m invited because, at 55, I am the only single one in the family.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T22:26:00.000Z",
-      "headline": "America is aging into a caregiving desert. Nobody is ready.",
-      "url": "https://www.marketwatch.com/story/america-is-aging-into-a-caregiving-desert-nobody-is-ready-6f5bcbcc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The U.S. desperately needs to evolve its caregiving system, as adults who end up caring for their aging parents and family members are struggling. What happens next?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T17:57:00.000Z",
-      "headline": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
-      "url": "https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;This money is likely to be saved for the purchase of homes in 10 years or so.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -169,18 +181,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces it will extend until February 21, 2026, the comment period on proposal to improve stress test model and scenario transparency and accountability",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T23:15:00.000Z",
-      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
-      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
