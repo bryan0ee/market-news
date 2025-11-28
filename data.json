@@ -1,6 +1,91 @@
 {
-  "last_updated": "2025-11-27T23:27:18.252Z",
+  "last_updated": "2025-11-28T10:45:39.251Z",
   "items": [
+    {
+      "ts": "2025-11-28T10:30:00.000Z",
+      "headline": "&#x2018;We&#x2019;re struggling&#x2019;: I&#x2019;m 41 with 5 kids and $46K in credit-card debt. Do I raid my $1.2 million IRAs to pay it off?",
+      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T10:11:00.000Z",
+      "headline": "Bitcoin has moved back above $90,000. Why this strategist says a return to $100,000 is not far away",
+      "url": "https://www.marketwatch.com/story/bitcoin-has-moved-back-above-90-000-why-this-strategist-says-a-return-to-100-000-is-not-far-away-cc79cb41?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "BTIG&#x2019;s chief technical strategist Jonathan Krinksy said bitcoin has just exited seasonal period of bottoming.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T10:00:00.000Z",
+      "headline": "&#x2018;Today&#x2019; host Dylan Dreyer sells New York apartment for $1.8 million following split-up with Brian Fichera",
+      "url": "https://www.marketwatch.com/story/today-host-dylan-dreyer-sells-new-york-apartment-for-1-8-million-following-split-up-with-brian-fichera-efa5aead?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Today&#x201d; host&#xa0;Dylan Dreyer and her&#xa0;estranged husband,&#xa0;Brian Fichera, have sold their longtime marital home in&#xa0;New York City.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T09:06:00.000Z",
+      "headline": "CME halts futures trading on stocks, currencies and other markets, citing data center cooling issue",
+      "url": "https://www.marketwatch.com/story/cme-halts-futures-trading-on-stocks-currencies-and-other-markets-citing-data-center-cooling-issue-772a0d6d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Black Friday trading was off to an auspicious start after exchange operator CME was forced to halt futures trading on Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-28T07:03:00.000Z",
+      "headline": "Is the stock market open on Black Friday?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-are-any-stores-open-on-thanksgiving-day-1f590970?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Thanksgiving week comes with plenty of holiday-adjusted business hours, including, of course on Wall Street &#x2014; so here&#x2019;s what you need to know.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T22:15:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251125a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-21T19:00:00.000Z",
+      "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-27T23:09:00.000Z",
       "headline": "Beware of this Black Friday scam",
@@ -39,18 +124,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-27T23:15:00.000Z",
-      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
-      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-27T17:57:00.000Z",
       "headline": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
       "url": "https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories",
@@ -60,79 +133,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;This money is likely to be saved for the purchase of homes in 10 years or so.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T16:53:00.000Z",
-      "headline": "&#x2018;I have no paperwork&#x2019;: My father gave me my mother&#x2019;s jewelry before he died. Will I owe taxes if I sell?",
-      "url": "https://www.marketwatch.com/story/i-have-no-paperwork-my-father-gave-my-mothers-jewelry-before-he-died-will-i-owe-taxes-if-i-sell-768ee7dc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "&#x201c;I am selling the jewelry and trying to understand how I determine the cost basis.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T12:53:00.000Z",
-      "headline": "Relentless financial pressure has Black Friday shoppers of all incomes even more hungry for deals than usual",
-      "url": "https://www.marketwatch.com/story/why-scoring-the-best-black-friday-deals-feels-more-important-than-it-has-in-years-for-both-shoppers-and-the-economy-7e6ab04c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "After several years of rising prices and economic uncertainty, consumers are more focused on scoring the best deals.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T22:15:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251125a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-21T19:00:00.000Z",
-      "headline": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251121a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board releases results of survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T12:00:00.000Z",
-      "headline": "Doing your holiday shopping with a credit card? Use these 6 tips to preserve your credit score &#x2014; and your sanity.",
-      "url": "https://www.marketwatch.com/story/doing-your-holiday-shopping-with-a-credit-card-use-these-6-tips-to-preserve-your-credit-score-and-your-sanity-cb8907b8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Americans will be leaning hard on their credit cards this holiday season. A few key rules can keep you from slipping into a debt spiral.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-27T13:58:00.000Z",
-      "headline": "Beaten-down Puma shares are soaring. The sportswear maker may have a suitor.",
-      "url": "https://www.marketwatch.com/story/beaten-down-puma-shares-are-soaring-the-sportswear-maker-may-have-a-suitor-33a83834?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Puma shares are climbing on Thursday after a report that a China sportswear maker may consider a bid for the struggling German sportswear maker.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -172,15 +172,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-27T12:07:00.000Z",
-      "headline": "Stop and do this before you buy anything on Black Friday",
-      "url": "https://www.marketwatch.com/story/stop-and-do-this-before-you-buy-anything-on-black-friday-50dc1ccb?mod=mw_rss_topstories",
+      "ts": "2025-11-27T23:15:00.000Z",
+      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
+      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Be sure to &#x2018;pay yourself first&#x2019; before you spend a dollar on deals,&#x201d; says financial planner.",
+      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
