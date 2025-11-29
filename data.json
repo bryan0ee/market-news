@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-11-29T10:42:23.634Z",
+  "last_updated": "2025-11-29T13:28:55.256Z",
   "items": [
+    {
+      "ts": "2025-11-29T13:00:00.000Z",
+      "headline": "As ChatGPT turns 3, here&#x2019;s what&#x2019;s crashing the party",
+      "url": "https://www.marketwatch.com/story/as-chatgpt-turns-3-heres-whats-crashing-the-party-9edbb95a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "OpenAI sits at the center of the AI boom that it started. But it faces increasing challenges around both the business and the technology itself.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-29T09:02:00.000Z",
       "headline": "&#x2018;We&#x2019;re struggling&#x2019;: I&#x2019;m 41 with 5 kids and $46K in credit-card debt. Do I raid my $1.2 million IRAs to pay it off?",
@@ -11,18 +23,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-28T16:54:00.000Z",
-      "headline": "Big retailers like Walmart, Best Buy project confidence this holiday shopping season, while smaller businesses scramble",
-      "url": "https://www.marketwatch.com/story/big-retailers-project-calm-and-confidence-this-holiday-season-while-smaller-businesses-scramble-0d146dec?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "As businesses dive into Black Friday following a year upended by tariffs, the rule seems to be that the bigger you are, the more optimistic you feel.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
