@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-30T10:41:44.784Z",
+  "last_updated": "2025-11-30T13:28:45.456Z",
   "items": [
+    {
+      "ts": "2025-11-30T11:50:00.000Z",
+      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
+      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-30T11:00:00.000Z",
+      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
+      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-30T10:14:00.000Z",
       "headline": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
@@ -14,27 +38,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-29T23:56:00.000Z",
-      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
-      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
+      "ts": "2025-11-30T12:00:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-december-2025-on-netflix-hulu-hbo-max-and-more-37b75584?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-29T23:55:00.000Z",
-      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
-      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "summary_en": "&#x2018;Stranger Things&#x2019; finally wraps up on Netflix, &#x2018;Fallout&#x2019; is back with a new season on Amazon and Taylor Swift takes over Disney+",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -95,18 +107,6 @@
         "ED"
       ],
       "summary_en": "Americans will be leaning hard on their credit cards this holiday season. A few key rules can keep you from slipping into a debt spiral.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-29T17:30:00.000Z",
-      "headline": "&#x2018;At 55, I&#x2019;m the only single one in the family&#x2019;: Was I wrong to skip my family&#x2019;s Thanksgiving dinner?",
-      "url": "https://www.marketwatch.com/story/im-burned-out-by-the-drama-is-it-wrong-to-skip-my-thanksgiving-family-dinner-last-year-was-fraught-0731f498?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The same snarky political comments leave me with a bad taste in my mouth. That, and the undercooked turkey.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
