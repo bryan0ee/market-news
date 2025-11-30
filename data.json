@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-11-29T23:27:29.156Z",
+  "last_updated": "2025-11-30T10:41:44.784Z",
   "items": [
+    {
+      "ts": "2025-11-30T10:14:00.000Z",
+      "headline": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
+      "url": "https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;This money is likely to be saved for the purchase of homes in 10 years or so.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-29T23:56:00.000Z",
+      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
+      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-29T23:55:00.000Z",
+      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
+      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-25T22:15:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251125a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-11-29T19:36:00.000Z",
       "headline": "Fed hawks and doves are battling over December rate cuts &#x2014; watch these clues to see who wins",
@@ -26,18 +74,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-29T19:05:00.000Z",
-      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
-      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-29T18:44:00.000Z",
       "headline": "How the U.S. government bought an election, rescued some Wall Street bigshots &#x2014; and left you with the tab",
       "url": "https://www.marketwatch.com/story/washington-bought-an-election-argentina-got-a-president-you-got-the-bill-e1b6ff15?mod=mw_rss_topstories",
@@ -47,18 +83,6 @@
         "ED"
       ],
       "summary_en": "The U.S. Treasury bailed out Argentina President Javier Milei &#x2014; major bond investors. Central banks paid attention &#x2014; and you should too.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-29T18:05:00.000Z",
-      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
-      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -86,15 +110,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-29T17:14:00.000Z",
-      "headline": "The kids are not all right &#x2014; how young stock investors are bringing on a bear market",
-      "url": "https://www.marketwatch.com/story/the-kids-are-not-all-right-how-young-stock-investors-are-bringing-on-a-bear-market-4be33bcd?mod=mw_rss_topstories",
+      "ts": "2025-11-25T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251125a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shareholders who&#x2019;ve never endured a prolonged market downturn believe they have nothing to lose.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,30 +143,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "As households face tighter budgets, experts anticipate more people will shop secondhand for gifts this holiday season.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T22:15:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251125a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251125a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
