@@ -1,44 +1,68 @@
 {
-  "last_updated": "2025-12-01T13:37:50.649Z",
+  "last_updated": "2025-12-01T23:28:52.936Z",
   "items": [
     {
-      "ts": "2025-12-01T13:28:00.000Z",
-      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
-      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "ts": "2025-12-01T23:22:00.000Z",
+      "headline": "Vaccine stocks slide as FDA official links COVID vaccines and heart conditions in young men",
+      "url": "https://www.marketwatch.com/story/vaccine-stocks-take-a-hit-as-fda-official-points-to-link-between-covid-19-vaccines-and-rare-heart-condition-in-young-men-265ab5ab?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "summary_en": "Memo also reportedly mentions vaccines for flu and pneumonia.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-01T13:27:00.000Z",
-      "headline": "Could &#x2018;Stranger Things&#x2019; become the next &#x2018;Star Wars&#x2019;&#x2013;style franchise? The Netflix show has already earned $1 billion.",
-      "url": "https://www.marketwatch.com/story/stranger-things-has-made-at-least-1-billion-for-netflix-already-now-season-5-could-deliver-another-200-million-b8827337?mod=mw_rss_topstories",
+      "ts": "2025-12-01T23:00:00.000Z",
+      "headline": "Apple is making a big shakeup as it looks for an edge in AI",
+      "url": "https://www.marketwatch.com/story/apple-is-making-a-big-shakeup-as-it-looks-for-an-edge-in-ai-d183a451?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The series has gone from being a quirky show, rooted in &#x2019;80s-era pop culture, into a global phenomenon. But it all comes down to what else Netflix can develop.",
+      "summary_en": "Apple has brought in an outsider who will lead the company&#x2019;s efforts in machine-learning research and foundation models.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-01T12:57:00.000Z",
-      "headline": "A320 troubles send Airbus shares to their worst day in a year",
-      "url": "https://www.marketwatch.com/story/a320-troubles-send-airbus-shares-to-their-worst-day-in-a-year-61a194ec?mod=mw_rss_topstories",
+      "ts": "2025-12-01T22:37:00.000Z",
+      "headline": "U.S. stocks see shaky start to December in post-Thanksgiving &#x2018;hangover&#x2019;",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-see-shaky-start-to-december-in-post-thanksgiving-hangover-a9f91a07?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Airbus had already disclosed problems impacting over 6,000 aircraft.",
+      "summary_en": "The U.S. stock market kicked off December in the red, with the S&P 500 off to a shaky start to the month after its big bounce last week erased its November losses.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-01T12:49:00.000Z",
+      "ts": "2025-12-01T21:26:00.000Z",
+      "headline": "Here&#x2019;s a new way to shave hundreds of dollars off your tax bill &#x2014; but it might make you feel like Scrooge on Giving Tuesday",
+      "url": "https://www.marketwatch.com/story/heres-a-new-way-to-shave-hundreds-of-dollars-off-your-tax-bill-but-it-might-make-you-feel-like-scrooge-on-giving-tuesday-c186f469?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Some people have an incentive to hold off on charitable giving until next year, in order to get the full tax reward for their generosity when new rules take effect.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-01T21:02:00.000Z",
+      "headline": "Bank of Japan&#x2019;s Ueda rattles global bond markets with the prospect of a rate hike this month",
+      "url": "https://www.marketwatch.com/story/bank-of-japans-ueda-rattles-global-bond-markets-with-the-prospect-of-a-rate-hike-this-month-73e6e290?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A stronger yen and rising Japanese bond yields could pull capital away from the U.S. equity and bond markets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-01T20:15:00.000Z",
       "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
       "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,7 +74,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-01T11:29:00.000Z",
+      "ts": "2025-12-01T20:00:00.000Z",
+      "headline": "&#x2018;She&#x2019;ll let him live there for free&#x2019;: My sister wants to buy our impoverished brother&#x2019;s house. Is that a bad idea?",
+      "url": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Her only concern is that it will show up as an asset or rental property on her end.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-01T19:37:00.000Z",
+      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
+      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-01T19:22:00.000Z",
       "headline": "&#x2018;She&#x2019;s young enough to be his granddaughter&#x2019;: My dad, 85, is being seduced by his caregiver. What can I do?",
       "url": "https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,63 +110,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-01T13:30:00.000Z",
-      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
-      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
+      "ts": "2025-12-01T20:40:00.000Z",
+      "headline": "Will bitcoin keep dropping? Why this technical analyst is eyeing a turnaround as soon as Tuesday.",
+      "url": "https://www.marketwatch.com/story/will-bitcoin-keep-dropping-why-this-technical-analyst-is-eyeing-a-turnaround-as-soon-as-tuesday-f8406499?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-01T13:30:00.000Z",
-      "headline": "Synopsys&#x2019; stock gets an Nvidia boost. Here&#x2019;s what to know.",
-      "url": "https://www.marketwatch.com/story/synopsys-stock-gets-an-nvidia-boost-heres-what-to-know-d52a38bb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Nvidia has made a $2 billion investment in Synopsys and has a new partnership with the maker of chip-design software.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-01T13:02:00.000Z",
-      "headline": "My brother has fallen on hard times. My sister wants to buy his house. Is that a good idea?",
-      "url": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She will let him live in it free of charge and continue to take care of the maintenance.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-01T12:37:00.000Z",
-      "headline": "Follow the leader. New research finds these politicians are the savviest stock pickers.",
-      "url": "https://www.marketwatch.com/story/follow-the-leader-new-research-finds-these-politicians-are-the-savviest-stock-pickers-f7f37bc5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Follow the leader. New research shows one specific group of Congress members are savvy stock pickers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-01T12:30:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-december-2025-on-netflix-hulu-hbo-max-and-more-37b75584?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x2018;Stranger Things&#x2019; finally wraps up on Netflix, &#x2018;Fallout&#x2019; is back with a new season on Amazon and Taylor Swift takes over Disney+",
+      "summary_en": "Technical analysis suggests bitcoin could be set for a short-term reversal as early as Tuesday, signaling the recent decline may be approaching its end.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
