@@ -1,32 +1,56 @@
 {
-  "last_updated": "2025-11-30T23:27:47.138Z",
+  "last_updated": "2025-12-01T10:49:19.936Z",
   "items": [
     {
-      "ts": "2025-11-30T23:19:00.000Z",
-      "headline": "U.S. stock futures flat as investors look to end 2025 on a high note",
+      "ts": "2025-12-01T10:30:00.000Z",
+      "headline": "Bitcoin&#x2019;s slumping again. The biggest corporate owner admits it may have to sell if things get worse.",
+      "url": "https://www.marketwatch.com/story/bitcoins-slumping-again-the-biggest-corporate-owner-admits-it-may-have-to-sell-if-things-get-worse-ce77b7a3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bitcoin sprinted higher over the holiday, but that&#x2019;s now fading and bitcoin&#x2019;s biggest corporate holder says they&#x2019;d be forced to sell if things worsen.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-01T10:03:00.000Z",
+      "headline": "Judge may force sale of Nicki Minaj&#x2019;s $20 million SoCal mansion over debt owed to former security guard",
+      "url": "https://www.marketwatch.com/story/judge-may-force-sale-of-nicki-minajs-20-million-socal-mansion-over-debt-owed-to-former-security-guard-48ae15b3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A&#xa0;judge says she is close to forcing the sale of&#xa0;Nicki Minaj&#x2019;s L.A. home after the rapper allegedly refused to pay damages awarded to a former security guard who claims he was assaulted by Minaj&#x2019;s husband.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-01T07:28:00.000Z",
+      "headline": "Carnival, NCL and Royal Caribbean have Cyber Monday cruise sales. But is now the best time to shop for a deal?",
+      "url": "https://www.marketwatch.com/story/this-years-black-friday-cruise-deals-can-save-you-hundreds-of-dollars-six-tips-for-shopping-the-sales-c48c593b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Cruise offers abound during the January-March &#x2018;wave season&#x2019; as well",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-01T04:04:00.000Z",
+      "headline": "U.S. stock futures dip after last week&#x2019;s rally capped a rocky November",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-look-to-end-2025-on-a-high-note-f82b11be?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. stock futures were little changed on Sunday, as investors look to end the year on a positive note after a volatile November.",
+      "summary_en": "U.S. stock futures retreated on Sunday, as investors took profits after markets rallied last week to end a volatile November.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-30T20:31:00.000Z",
-      "headline": "Could &#x2018;Stranger Things&#x2019; be the next &#x2018;Star Wars&#x2019;-style franchise? The Netflix show has already earned $1 billion.",
-      "url": "https://www.marketwatch.com/story/stranger-things-has-made-at-least-1-billion-for-netflix-already-now-season-5-could-deliver-another-200-million-b8827337?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The series has gone from being a quirky show, rooted in &#x2019;80s-era pop culture, into a global phenomenon. But it all comes down to what else Netflix can develop.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-30T19:30:00.000Z",
+      "ts": "2025-12-01T01:37:00.000Z",
       "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
       "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,7 +62,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-30T18:56:00.000Z",
+      "ts": "2025-12-01T01:37:00.000Z",
       "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
       "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -47,42 +71,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-30T20:00:00.000Z",
-      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
-      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-30T16:07:00.000Z",
-      "headline": "Tesla&#x2019;s Cybertruck is turning 2. It&#x2019;s been a big flop.",
-      "url": "https://www.marketwatch.com/story/teslas-cybertruck-is-turning-2-its-been-a-big-flop-587eb398?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "CEO Elon Musk once described the Cybertruck as Tesla&#x2019;s &#x201c;best ever&#x201d; product. But demand for the controversial pickup truck has dried up.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-30T17:00:00.000Z",
-      "headline": "These 5 charts hint at where stocks might go next after a wild November for the market",
-      "url": "https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "November historically has been a strong month for the U.S. stock market. This year&#x2019;s gains didn&#x2019;t come easy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -98,27 +86,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-30T10:14:00.000Z",
-      "headline": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
-      "url": "https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories",
+      "ts": "2025-11-30T20:31:00.000Z",
+      "headline": "Could &#x2018;Stranger Things&#x2019; be the next &#x2018;Star Wars&#x2019;-style franchise? The Netflix show has already earned $1 billion.",
+      "url": "https://www.marketwatch.com/story/stranger-things-has-made-at-least-1-billion-for-netflix-already-now-season-5-could-deliver-another-200-million-b8827337?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;This money is likely to be saved for the purchase of homes in 10 years or so.&#x201d;",
+      "summary_en": "The series has gone from being a quirky show, rooted in &#x2019;80s-era pop culture, into a global phenomenon. But it all comes down to what else Netflix can develop.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-29T19:36:00.000Z",
-      "headline": "Fed hawks and doves are battling over December rate cuts &#x2014; watch these clues to see who wins",
-      "url": "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories",
+      "ts": "2025-11-30T16:07:00.000Z",
+      "headline": "Tesla&#x2019;s Cybertruck is turning 2. It&#x2019;s been a big flop.",
+      "url": "https://www.marketwatch.com/story/teslas-cybertruck-is-turning-2-its-been-a-big-flop-587eb398?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Stocks and bonds will react to new data on job openings, wages and labor market perceptions.",
+      "summary_en": "CEO Elon Musk once described the Cybertruck as Tesla&#x2019;s &#x201c;best ever&#x201d; product. But demand for the controversial pickup truck has dried up.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -134,15 +122,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-30T12:00:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-december-2025-on-netflix-hulu-hbo-max-and-more-37b75584?mod=mw_rss_topstories",
+      "ts": "2025-11-30T20:00:00.000Z",
+      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
+      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x2018;Stranger Things&#x2019; finally wraps up on Netflix, &#x2018;Fallout&#x2019; is back with a new season on Amazon and Taylor Swift takes over Disney+",
+      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-11-30T17:00:00.000Z",
+      "headline": "These 5 charts hint at where stocks might go next after a wild November for the market",
+      "url": "https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "November historically has been a strong month for the U.S. stock market. This year&#x2019;s gains didn&#x2019;t come easy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
