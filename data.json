@@ -1,64 +1,125 @@
 {
-  "last_updated": "2025-12-02T10:48:05.253Z",
+  "last_updated": "2025-12-02T13:38:58.147Z",
   "items": [
     {
-      "ts": "2025-12-02T10:27:00.000Z",
-      "headline": "&#x2018;She&#x2019;ll let him live there for free&#x2019;: My sister wants to buy our impoverished brother&#x2019;s house. Is that a bad idea?",
-      "url": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
+      "ts": "2025-12-02T13:34:00.000Z",
+      "headline": "This top-performing emerging-markets fund manager says his asset class can be an AI play too",
+      "url": "https://www.marketwatch.com/story/this-top-performing-emerging-markets-fund-manager-says-his-asset-class-can-be-an-ai-play-too-02a095f1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Her only concern is that it will show up as an asset or rental property on her end.&#x201d;",
+      "summary_en": "Emerging markets have performed strongly this year, in part on dollar weakness also owing to better economic policies, argues this fund manager.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T10:21:00.000Z",
-      "headline": "Vanguard finally dips a toe into crypto waters after bitcoin slump",
-      "url": "https://www.marketwatch.com/story/vanguard-finally-dips-a-toe-into-crypto-waters-after-bitcoin-slump-58e9191d?mod=mw_rss_topstories",
+      "ts": "2025-12-02T13:29:00.000Z",
+      "headline": "Gold at $10,000, a quantum-driven crypto collapse and costly AI scandals are among these &#x2018;outrageous&#x2019; bets for 2026.",
+      "url": "https://www.marketwatch.com/story/gold-at-10-000-a-quantum-driven-crypto-collapse-and-costly-ai-scandals-are-among-these-outrageous-bets-for-2026-aab517e3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "Vanguard on Tuesday for the first time started letting clients buy crypto exchange-traded funds managed by third parties.",
+      "summary_en": "Saxo Bank is at it again with outrageous predictions for 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T10:04:00.000Z",
-      "headline": "Barbara Corcoran gets ready to do a major renovation on her new $16 million Manhattan penthouse",
-      "url": "https://www.marketwatch.com/story/barbara-corcoran-gets-ready-to-do-a-major-renovation-on-her-new-16-million-manhattan-penthouse-5f6eacc0?mod=mw_rss_topstories",
+      "ts": "2025-12-02T13:05:00.000Z",
+      "headline": "Goodbye, bull market: This spot-on indicator is saying what you don&#x2019;t want to hear",
+      "url": "https://www.marketwatch.com/story/goodbye-bull-market-this-spot-on-indicator-is-saying-what-you-dont-want-to-hear-dd7afeff?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Real estate mogul Barbara Corcoran&#xa0;has proudly revealed a sneak peek inside her new $16 million&#xa0;Manhattan&#xa0;penthouse&#x2014;while opening up about her plans to renovate the opulent space.",
+      "summary_en": "Market timers have reached a point of extreme exuberance. That&#x2019;s bearish for stocks and gold.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T08:52:00.000Z",
-      "headline": "Bayer stock has its best day in 17 years after support from Trump&#x2019;s solicitor general",
-      "url": "https://www.marketwatch.com/story/bayer-stock-has-its-best-day-in-17-years-after-support-from-trumps-solicitor-general-79b48e0d?mod=mw_rss_topstories",
+      "ts": "2025-12-02T13:00:00.000Z",
+      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
+      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Bayer shares rose as much as 15% on Tuesday after the U.S. solicitor general backed the company&#x2019;s bid to get the Supreme Court to curtail litigation alleging its Roundup pesticide causes cancer.",
+      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T00:03:00.000Z",
-      "headline": "&#x2018;She&#x2019;s young enough to be his granddaughter&#x2019;: My dad, 85, is being seduced by his caregiver. What can I do?",
-      "url": "https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories",
+      "ts": "2025-12-02T12:46:00.000Z",
+      "headline": "Michael Burry on why he stopped managing his hedge fund: &#x2018;I think the stock market could be in for a number of bad years.&#x2019;",
+      "url": "https://www.marketwatch.com/story/michael-burry-on-why-he-stopped-managing-his-hedge-fund-i-think-the-stock-market-could-be-in-for-a-number-of-bad-years-3571cca4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;He is of sound mind, but he might succumb to someone who offers him companionship.&#x201d;",
+      "summary_en": "In the &#x201c;Against the Rules&#x201d; podcast that was released, Michael Burry explained why he deregistered his hedge fund last month.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-02T12:33:00.000Z",
+      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
+      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-02T12:07:00.000Z",
+      "headline": "&#x2018;The card served its purpose&#x2019;: It&#x2019;s time to cancel our Chase Disney Visa credit card. What&#x2019;s our next card for middle age?",
+      "url": "https://www.marketwatch.com/story/the-card-served-its-purpose-its-time-to-cancel-our-chase-disney-visa-credit-card-whats-our-next-card-for-middle-age-23314376?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We&#x2019;d like to move on to another credit card for the benefits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-02T12:50:00.000Z",
+      "headline": "Bitcoin still has one thing going for it that investors are missing",
+      "url": "https://www.marketwatch.com/story/bitcoin-still-has-one-thing-going-for-it-that-investors-are-missing-d2988d9b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Governments increasingly are using cryptocurrency to gain geopolitical power and independence from the dollar.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-02T13:20:00.000Z",
+      "headline": "If you&#x2019;re this type of investor, get out of the stock market &#x2014; now",
+      "url": "https://www.marketwatch.com/story/if-youre-this-type-of-investor-get-out-of-the-stock-market-now-b52320c2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The economy and the stock market are at a breaking point. Here&#x2019;s what to do, depending on your age.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-02T12:01:00.000Z",
+      "headline": "Strategy&#x2019;s stock shows why it&#x2019;s a trade, and not an investment",
+      "url": "https://www.marketwatch.com/story/strategys-stock-shows-why-its-a-trade-and-not-an-investment-ac1e21d0?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Strategy&#x2019;s stock is sinking as bitcoin falls, but Wall Street doesn&#x2019;t believe it&#x2019;s a big problem for the broader stock market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -74,42 +135,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-01T23:30:00.000Z",
-      "headline": "After months of box-office busts, Hollywood roars back with &#x2018;Zootopia 2&#x2019;",
-      "url": "https://www.marketwatch.com/story/after-months-of-box-office-busts-hollywood-roars-back-with-zootopia-2-8d43b6c0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Disney sequel set a record for an animated-film opening, while the second part of Universal&#x2019;s &#x201c;Wicked&#x201d; continues its smash run despite poor reviews.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-01T23:22:00.000Z",
-      "headline": "Vaccine stocks slide as FDA official links COVID vaccines and heart conditions in young men",
-      "url": "https://www.marketwatch.com/story/vaccine-stocks-take-a-hit-as-fda-official-points-to-link-between-covid-19-vaccines-and-rare-heart-condition-in-young-men-265ab5ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Memo also reportedly mentions vaccines for flu and pneumonia.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-01T23:00:00.000Z",
-      "headline": "Apple is making a big shakeup as it looks for an edge in AI",
-      "url": "https://www.marketwatch.com/story/apple-is-making-a-big-shakeup-as-it-looks-for-an-edge-in-ai-d183a451?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Apple has brought in an outsider who will lead the company&#x2019;s efforts in machine-learning research and foundation models.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-11-25T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251125a.htm",
@@ -119,30 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T00:42:00.000Z",
-      "headline": "Strategy&#x2019;s stock shows why it&#x2019;s a trade, and not an investment",
-      "url": "https://www.marketwatch.com/story/strategys-stock-shows-why-its-a-trade-and-not-an-investment-ac1e21d0?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Strategy&#x2019;s stock is sinking as bitcoin falls, but Wall Street doesn&#x2019;t believe it&#x2019;s a big problem for the broader stock market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T00:03:00.000Z",
-      "headline": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
-      "url": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;The businesses each have two employees who manage the day-to-day operations.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
