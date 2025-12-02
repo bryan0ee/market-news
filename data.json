@@ -1,185 +1,126 @@
 {
-  "last_updated": "2025-12-02T13:38:58.147Z",
+  "last_updated": "2025-12-02T23:28:01.445Z",
   "items": [
     {
-      "ts": "2025-12-02T13:34:00.000Z",
-      "headline": "This top-performing emerging-markets fund manager says his asset class can be an AI play too",
-      "url": "https://www.marketwatch.com/story/this-top-performing-emerging-markets-fund-manager-says-his-asset-class-can-be-an-ai-play-too-02a095f1?mod=mw_rss_topstories",
+      "ts": "2025-12-02T23:23:00.000Z",
+      "headline": "Why one of the year&#x2019;s hottest AI stocks is adding to its massive gains",
+      "url": "https://www.marketwatch.com/story/why-one-of-the-years-hottest-ai-stocks-is-adding-to-its-massive-gains-5ce7b147?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Emerging markets have performed strongly this year, in part on dollar weakness also owing to better economic policies, argues this fund manager.",
+      "summary_en": "Credo is putting up big growth numbers and diversifying its business, both in terms of its customers and its products.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T13:29:00.000Z",
-      "headline": "Gold at $10,000, a quantum-driven crypto collapse and costly AI scandals are among these &#x2018;outrageous&#x2019; bets for 2026.",
-      "url": "https://www.marketwatch.com/story/gold-at-10-000-a-quantum-driven-crypto-collapse-and-costly-ai-scandals-are-among-these-outrageous-bets-for-2026-aab517e3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Saxo Bank is at it again with outrageous predictions for 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T13:05:00.000Z",
-      "headline": "Goodbye, bull market: This spot-on indicator is saying what you don&#x2019;t want to hear",
-      "url": "https://www.marketwatch.com/story/goodbye-bull-market-this-spot-on-indicator-is-saying-what-you-dont-want-to-hear-dd7afeff?mod=mw_rss_topstories",
+      "ts": "2025-12-02T23:19:00.000Z",
+      "headline": "How the next Fed chair could turn bonds into a far riskier investment",
+      "url": "https://www.marketwatch.com/story/how-the-next-fed-chair-could-turn-bonds-into-a-far-riskier-investment-a0667f9d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Market timers have reached a point of extreme exuberance. That&#x2019;s bearish for stocks and gold.",
+      "summary_en": "Kevin Hassett, director of the National Economic Council, is being touted by prediction markets as the leading candidate to replace Federal Reserve Chair Jerome Powell.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T13:00:00.000Z",
-      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
-      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "ts": "2025-12-02T23:10:00.000Z",
+      "headline": "Okta&#x2019;s CEO says investors are getting two big things wrong about AI and software",
+      "url": "https://www.marketwatch.com/story/oktas-ceo-says-investors-are-getting-two-big-things-wrong-about-ai-and-software-77d9cb2d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Investors have worried that AI could &#x201c;eat&#x201d; software, reducing the need for traditional applications.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-02T23:01:00.000Z",
+      "headline": "Why Marvell&#x2019;s stock is soaring toward its best day in months after earnings",
+      "url": "https://www.marketwatch.com/story/why-marvells-stock-is-soaring-toward-its-best-day-in-months-after-earnings-1863cc08?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "summary_en": "Marvell talked up dramatic new growth projections that are meaningfully higher than Wall Street was expecting.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T12:46:00.000Z",
-      "headline": "Michael Burry on why he stopped managing his hedge fund: &#x2018;I think the stock market could be in for a number of bad years.&#x2019;",
-      "url": "https://www.marketwatch.com/story/michael-burry-on-why-he-stopped-managing-his-hedge-fund-i-think-the-stock-market-could-be-in-for-a-number-of-bad-years-3571cca4?mod=mw_rss_topstories",
+      "ts": "2025-12-02T22:17:00.000Z",
+      "headline": "American Eagle had Sydney Sweeney. But its lesser-known lingerie brand carried the day.",
+      "url": "https://www.marketwatch.com/story/american-eagle-had-sydney-sweeney-but-this-lesser-known-lingerie-brand-carried-the-day-in-third-quarter-2263d400?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "In the &#x201c;Against the Rules&#x201d; podcast that was released, Michael Burry explained why he deregistered his hedge fund last month.",
+      "summary_en": "American Eagle raises outlook for the holiday quarter and the year on &#x2018;strong momentum&#x2019; for sales.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T12:33:00.000Z",
-      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
-      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
+      "ts": "2025-12-02T22:05:00.000Z",
+      "headline": "The Fed may need to act as potential trouble brews in a key corner of the financial market",
+      "url": "https://www.marketwatch.com/story/the-fed-may-need-to-act-as-potential-trouble-brews-in-a-key-corner-of-the-financial-market-2256f1b2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Signs of potential trouble are popping up again in the form of tighter conditions in short-term funding markets &#x2014; and they may require the Federal Reserve to take action relatively soon.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-02T21:57:00.000Z",
+      "headline": "Everyone&#x2019;s waiting for a rate cut &#x2014; but the Fed has already made its big money move",
+      "url": "https://www.marketwatch.com/story/everyones-waiting-for-a-rate-cut-but-the-fed-has-already-made-its-big-money-move-e511e902?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
+      "summary_en": "Your money-market fund will be the first domino if another liquidity crunch hits the economy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T12:07:00.000Z",
-      "headline": "&#x2018;The card served its purpose&#x2019;: It&#x2019;s time to cancel our Chase Disney Visa credit card. What&#x2019;s our next card for middle age?",
-      "url": "https://www.marketwatch.com/story/the-card-served-its-purpose-its-time-to-cancel-our-chase-disney-visa-credit-card-whats-our-next-card-for-middle-age-23314376?mod=mw_rss_topstories",
+      "ts": "2025-12-02T21:31:00.000Z",
+      "headline": "Who qualifies for the &#x2018;Trump accounts&#x2019; for kids? Michael and Susan Dell just donated $6.25 billion as seed money.",
+      "url": "https://www.marketwatch.com/story/who-qualifies-for-the-trump-accounts-for-kids-michael-and-susan-dell-just-donated-6-25-billion-as-seed-money-4453d700?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We&#x2019;d like to move on to another credit card for the benefits.&#x201d;",
+      "summary_en": "&#x201c;We&#x2019;ve seen what happens when a child gets even a small financial head start. Their world expands,&#x201d; Michael Dell said Tuesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T12:50:00.000Z",
-      "headline": "Bitcoin still has one thing going for it that investors are missing",
-      "url": "https://www.marketwatch.com/story/bitcoin-still-has-one-thing-going-for-it-that-investors-are-missing-d2988d9b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Governments increasingly are using cryptocurrency to gain geopolitical power and independence from the dollar.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T13:20:00.000Z",
-      "headline": "If you&#x2019;re this type of investor, get out of the stock market &#x2014; now",
-      "url": "https://www.marketwatch.com/story/if-youre-this-type-of-investor-get-out-of-the-stock-market-now-b52320c2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The economy and the stock market are at a breaking point. Here&#x2019;s what to do, depending on your age.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T12:01:00.000Z",
-      "headline": "Strategy&#x2019;s stock shows why it&#x2019;s a trade, and not an investment",
-      "url": "https://www.marketwatch.com/story/strategys-stock-shows-why-its-a-trade-and-not-an-investment-ac1e21d0?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Strategy&#x2019;s stock is sinking as bitcoin falls, but Wall Street doesn&#x2019;t believe it&#x2019;s a big problem for the broader stock market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T22:15:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251125a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251125a.htm",
+      "ts": "2025-12-02T21:23:00.000Z",
+      "headline": "Boeing led the stock market higher today, as next year&#x2019;s cash flow is looking better",
+      "url": "https://www.marketwatch.com/story/boeing-is-leading-the-stock-market-higher-today-as-next-years-cash-flow-is-looking-better-b42b4374?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
+      "summary_en": "Boeing has not been cash-flow positive on a yearly basis since 2023. That&#x2019;s about to change.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-11-25T19:00:00.000Z",
-      "headline": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251125a.htm",
+      "ts": "2025-12-02T20:44:00.000Z",
+      "headline": "Getting engaged? There&#x2019;s a rising chance your ring will have a lab-grown diamond.",
+      "url": "https://www.marketwatch.com/story/getting-engaged-theres-a-rising-chance-your-ring-will-have-a-lab-grown-diamond-68e19948?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Minutes of the Board&#39;s discount rate meetings on October 6, October 20, and October 29, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T18:30:00.000Z",
-      "headline": "Agencies issue proposal to enhance community banks’ ability to serve their communities while maintaining strong capital requirements",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Agencies issue proposal to enhance community banks’ ability to serve their communities while maintaining strong capital requirements",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-11-25T18:30:00.000Z",
-      "headline": "Agencies issue final rule to modify certain regulatory capital standards",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125b.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Agencies issue final rule to modify certain regulatory capital standards",
+      "summary_en": "Signet Jewelers said lab-grown diamonds made up 40% of its bridal business, up from a mid-30s percentage six months ago.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
