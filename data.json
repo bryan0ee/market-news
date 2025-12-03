@@ -1,32 +1,92 @@
 {
-  "last_updated": "2025-12-02T23:28:01.445Z",
+  "last_updated": "2025-12-03T10:49:16.273Z",
   "items": [
     {
-      "ts": "2025-12-02T23:23:00.000Z",
-      "headline": "Why one of the year&#x2019;s hottest AI stocks is adding to its massive gains",
-      "url": "https://www.marketwatch.com/story/why-one-of-the-years-hottest-ai-stocks-is-adding-to-its-massive-gains-5ce7b147?mod=mw_rss_topstories",
+      "ts": "2025-12-03T10:05:00.000Z",
+      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
+      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Credo is putting up big growth numbers and diversifying its business, both in terms of its customers and its products.",
+      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T23:19:00.000Z",
-      "headline": "How the next Fed chair could turn bonds into a far riskier investment",
-      "url": "https://www.marketwatch.com/story/how-the-next-fed-chair-could-turn-bonds-into-a-far-riskier-investment-a0667f9d?mod=mw_rss_topstories",
+      "ts": "2025-12-03T09:08:00.000Z",
+      "headline": "He was Russia&#x2019;s richest man and spent ten years in the gulag. Mikhail Khodorkovsky on Ukraine, Putin and failed talks to merge with a U.S. oil giant",
+      "url": "https://www.marketwatch.com/story/he-was-russias-richest-man-and-spent-ten-years-in-the-gulag-mikhail-khodorkovsky-on-ukraine-putin-and-failed-talks-to-merge-with-a-u-s-oil-giant-142c5bb4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Kevin Hassett, director of the National Economic Council, is being touted by prediction markets as the leading candidate to replace Federal Reserve Chair Jerome Powell.",
+      "summary_en": "In an exclusive interview, Mikhail Khodorkovsky says Vladimir Putin has abandoned his previous pragmatism &#x2014; and reveals the U.S. oil company he nearly merged Yukos with.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T23:10:00.000Z",
+      "ts": "2025-12-03T10:15:00.000Z",
+      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old public-school teacher and have a $60K pension. Is it safe?",
+      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T10:00:00.000Z",
+      "headline": "UNC coach Bill Belichick sells his charming Nantucket cottage for $3.8 million",
+      "url": "https://www.marketwatch.com/story/unc-coach-bill-belichick-sells-his-charming-nantucket-cottage-for-3-8-million-13e9b2ff?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Former New England Patriots coach Bill Belichick has sold his Nantucket cottage just three months after putting the beachfront property on the market for $3.9 million.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T02:45:00.000Z",
+      "headline": "Everyone&#x2019;s waiting for a rate cut &#x2014; but the Fed&#x2019;s already shown its hand",
+      "url": "https://www.marketwatch.com/story/everyones-waiting-for-a-rate-cut-but-the-fed-has-already-made-its-big-money-move-e511e902?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Your money-market fund will be the first domino if another liquidity crunch hits the economy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T02:28:00.000Z",
+      "headline": "Getting engaged? There&#x2019;s a rising chance your ring will have a lab-grown diamond.",
+      "url": "https://www.marketwatch.com/story/getting-engaged-theres-a-rising-chance-your-ring-will-have-a-lab-grown-diamond-68e19948?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Signet Jewelers said lab-grown diamonds made up 40% of its bridal business, up from a mid-30s percentage six months ago.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T01:18:00.000Z",
+      "headline": "Why Marvell&#x2019;s stock is soaring toward its best day in months after earnings",
+      "url": "https://www.marketwatch.com/story/why-marvells-stock-is-soaring-toward-its-best-day-in-months-after-earnings-1863cc08?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Marvell talked up dramatic new growth projections that are meaningfully higher than Wall Street was expecting.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T01:15:00.000Z",
       "headline": "Okta&#x2019;s CEO says investors are getting two big things wrong about AI and software",
       "url": "https://www.marketwatch.com/story/oktas-ceo-says-investors-are-getting-two-big-things-wrong-about-ai-and-software-77d9cb2d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -39,19 +99,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T23:01:00.000Z",
-      "headline": "Why Marvell&#x2019;s stock is soaring toward its best day in months after earnings",
-      "url": "https://www.marketwatch.com/story/why-marvells-stock-is-soaring-toward-its-best-day-in-months-after-earnings-1863cc08?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Marvell talked up dramatic new growth projections that are meaningfully higher than Wall Street was expecting.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T22:17:00.000Z",
+      "ts": "2025-12-03T01:14:00.000Z",
       "headline": "American Eagle had Sydney Sweeney. But its lesser-known lingerie brand carried the day.",
       "url": "https://www.marketwatch.com/story/american-eagle-had-sydney-sweeney-but-this-lesser-known-lingerie-brand-carried-the-day-in-third-quarter-2263d400?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -63,64 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-02T22:05:00.000Z",
-      "headline": "The Fed may need to act as potential trouble brews in a key corner of the financial market",
-      "url": "https://www.marketwatch.com/story/the-fed-may-need-to-act-as-potential-trouble-brews-in-a-key-corner-of-the-financial-market-2256f1b2?mod=mw_rss_topstories",
+      "ts": "2025-12-03T03:38:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-december-2025-on-netflix-hulu-hbo-max-and-more-37b75584?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Signs of potential trouble are popping up again in the form of tighter conditions in short-term funding markets &#x2014; and they may require the Federal Reserve to take action relatively soon.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T21:57:00.000Z",
-      "headline": "Everyone&#x2019;s waiting for a rate cut &#x2014; but the Fed has already made its big money move",
-      "url": "https://www.marketwatch.com/story/everyones-waiting-for-a-rate-cut-but-the-fed-has-already-made-its-big-money-move-e511e902?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Your money-market fund will be the first domino if another liquidity crunch hits the economy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T21:31:00.000Z",
-      "headline": "Who qualifies for the &#x2018;Trump accounts&#x2019; for kids? Michael and Susan Dell just donated $6.25 billion as seed money.",
-      "url": "https://www.marketwatch.com/story/who-qualifies-for-the-trump-accounts-for-kids-michael-and-susan-dell-just-donated-6-25-billion-as-seed-money-4453d700?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We&#x2019;ve seen what happens when a child gets even a small financial head start. Their world expands,&#x201d; Michael Dell said Tuesday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T21:23:00.000Z",
-      "headline": "Boeing led the stock market higher today, as next year&#x2019;s cash flow is looking better",
-      "url": "https://www.marketwatch.com/story/boeing-is-leading-the-stock-market-higher-today-as-next-years-cash-flow-is-looking-better-b42b4374?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Boeing has not been cash-flow positive on a yearly basis since 2023. That&#x2019;s about to change.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-02T20:44:00.000Z",
-      "headline": "Getting engaged? There&#x2019;s a rising chance your ring will have a lab-grown diamond.",
-      "url": "https://www.marketwatch.com/story/getting-engaged-theres-a-rising-chance-your-ring-will-have-a-lab-grown-diamond-68e19948?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Signet Jewelers said lab-grown diamonds made up 40% of its bridal business, up from a mid-30s percentage six months ago.",
+      "summary_en": "&#x2018;Stranger Things&#x2019; finally wraps up on Netflix, &#x2018;Fallout&#x2019; is back with a new season on Amazon and Taylor Swift takes over Disney+",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
