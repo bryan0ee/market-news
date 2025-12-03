@@ -1,105 +1,68 @@
 {
-  "last_updated": "2025-12-03T10:49:16.273Z",
+  "last_updated": "2025-12-03T13:38:34.049Z",
   "items": [
     {
-      "ts": "2025-12-03T10:05:00.000Z",
-      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
-      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
+      "ts": "2025-12-03T13:24:00.000Z",
+      "headline": "ADP says U.S. economy loses jobs for third time in four months. Fed to weigh weak labor market in rate-cut vote.",
+      "url": "https://www.marketwatch.com/story/adp-says-u-s-economy-loses-jobs-for-third-time-in-four-months-fed-to-weigh-weak-labor-market-in-rate-cut-vote-0f20a193?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Privately run businesses eliminated jobs in November for the third time in four months, pointing to a broad slowdown in hiring that threatens to nudge unemployment higher and undermine the economy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T13:09:00.000Z",
+      "headline": "An AI air pocket and a struggling consumer could become a double whammy for stocks in 2026, Bank of America predicts",
+      "url": "https://www.marketwatch.com/story/ai-air-pocket-struggling-consumer-could-prove-a-double-whammy-for-stocks-next-year-says-bank-of-america-fd31ea19?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
+      "summary_en": "Don&#x2019;t look for outsized gains from the S&P 500 next year, the headwinds are numerous warns Savita Subramanian.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-03T09:08:00.000Z",
-      "headline": "He was Russia&#x2019;s richest man and spent ten years in the gulag. Mikhail Khodorkovsky on Ukraine, Putin and failed talks to merge with a U.S. oil giant",
-      "url": "https://www.marketwatch.com/story/he-was-russias-richest-man-and-spent-ten-years-in-the-gulag-mikhail-khodorkovsky-on-ukraine-putin-and-failed-talks-to-merge-with-a-u-s-oil-giant-142c5bb4?mod=mw_rss_topstories",
+      "ts": "2025-12-03T12:06:00.000Z",
+      "headline": "Dollar Tree beats sales expectations, as consumers spend more on bargain items",
+      "url": "https://www.marketwatch.com/story/dollar-tree-beats-sales-expectations-as-consumers-spend-more-on-bargain-items-26eea8b2?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Dollar Tree&#x2019;s stock is climbing as the discount retailer&#x2019;s assortment of bargains, with the average cost of its items at $1.40 each, is getting people to spend more at its stores.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T13:00:00.000Z",
+      "headline": "&#x2018;She&#x2019;ll let him live there for free&#x2019;: My sister wants to buy our impoverished brother&#x2019;s house. Is that a bad idea?",
+      "url": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "In an exclusive interview, Mikhail Khodorkovsky says Vladimir Putin has abandoned his previous pragmatism &#x2014; and reveals the U.S. oil company he nearly merged Yukos with.",
+      "summary_en": "&#x201c;Her only concern is that it will show up as an asset or rental property on her end.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-03T10:15:00.000Z",
-      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old public-school teacher and have a $60K pension. Is it safe?",
-      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-03T10:00:00.000Z",
-      "headline": "UNC coach Bill Belichick sells his charming Nantucket cottage for $3.8 million",
-      "url": "https://www.marketwatch.com/story/unc-coach-bill-belichick-sells-his-charming-nantucket-cottage-for-3-8-million-13e9b2ff?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Former New England Patriots coach Bill Belichick has sold his Nantucket cottage just three months after putting the beachfront property on the market for $3.9 million.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-03T02:45:00.000Z",
-      "headline": "Everyone&#x2019;s waiting for a rate cut &#x2014; but the Fed&#x2019;s already shown its hand",
-      "url": "https://www.marketwatch.com/story/everyones-waiting-for-a-rate-cut-but-the-fed-has-already-made-its-big-money-move-e511e902?mod=mw_rss_topstories",
+      "ts": "2025-12-03T13:00:00.000Z",
+      "headline": "Sorry, retirees &#x2014; the 4% rule won&#x2019;t work for you if Vanguard is right about where the stock market is headed",
+      "url": "https://www.marketwatch.com/story/sorry-retirees-the-4-rule-wont-work-for-you-if-vanguard-is-right-about-where-the-stock-market-is-headed-027ffdcf?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Your money-market fund will be the first domino if another liquidity crunch hits the economy.",
+      "summary_en": "A &#x201c;lost decade&#x201d; of low stock returns can be devastating for older investors",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-03T02:28:00.000Z",
-      "headline": "Getting engaged? There&#x2019;s a rising chance your ring will have a lab-grown diamond.",
-      "url": "https://www.marketwatch.com/story/getting-engaged-theres-a-rising-chance-your-ring-will-have-a-lab-grown-diamond-68e19948?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Signet Jewelers said lab-grown diamonds made up 40% of its bridal business, up from a mid-30s percentage six months ago.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-03T01:18:00.000Z",
-      "headline": "Why Marvell&#x2019;s stock is soaring toward its best day in months after earnings",
-      "url": "https://www.marketwatch.com/story/why-marvells-stock-is-soaring-toward-its-best-day-in-months-after-earnings-1863cc08?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Marvell talked up dramatic new growth projections that are meaningfully higher than Wall Street was expecting.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-03T01:15:00.000Z",
-      "headline": "Okta&#x2019;s CEO says investors are getting two big things wrong about AI and software",
-      "url": "https://www.marketwatch.com/story/oktas-ceo-says-investors-are-getting-two-big-things-wrong-about-ai-and-software-77d9cb2d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Investors have worried that AI could &#x201c;eat&#x201d; software, reducing the need for traditional applications.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-03T01:14:00.000Z",
+      "ts": "2025-12-03T12:56:00.000Z",
       "headline": "American Eagle had Sydney Sweeney. But its lesser-known lingerie brand carried the day.",
       "url": "https://www.marketwatch.com/story/american-eagle-had-sydney-sweeney-but-this-lesser-known-lingerie-brand-carried-the-day-in-third-quarter-2263d400?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -111,15 +74,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-03T03:38:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-december-2025-on-netflix-hulu-hbo-max-and-more-37b75584?mod=mw_rss_topstories",
+      "ts": "2025-12-03T12:49:00.000Z",
+      "headline": "Macy&#x2019;s surprises Wall Street by reporting sales growth and a profit, but the stock pulls back",
+      "url": "https://www.marketwatch.com/story/macys-surprises-wall-street-by-reporting-sales-growth-and-a-profit-but-the-stock-pulls-back-021b910a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x2018;Stranger Things&#x2019; finally wraps up on Netflix, &#x2018;Fallout&#x2019; is back with a new season on Amazon and Taylor Swift takes over Disney+",
+      "summary_en": "Macy&#x2019;s reported an unexpected profit &#x2014; and growth in a key sales metric &#x2014; but in premarket action Wednesday, the stock gave back some of its stellar recent gains.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T12:00:00.000Z",
+      "headline": "&#x2018;She&#x2019;s young enough to be his granddaughter&#x2019;: My dad, 85, is being seduced by his caregiver. What can I do?",
+      "url": "https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He is of sound mind, but he might succumb to someone who offers him companionship.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T12:00:00.000Z",
+      "headline": "Why oil producers are adding to the global supply glut despite low crude prices",
+      "url": "https://www.marketwatch.com/story/why-oil-producers-are-adding-to-the-global-supply-glut-despite-low-crude-prices-169e7469?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The major oil producers known as OPEC+ unwound previous output cuts faster than expected this year &#x2014; increasing quotas at a time when global oil prices have dropped around 16% year to date.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-03T11:01:00.000Z",
+      "headline": "As ChatGPT turns three, Deutsche Bank offers these solutions to Altman&#x2019;s &#x2018;Code Red&#x2019;",
+      "url": "https://www.marketwatch.com/story/as-chatgpt-turns-three-deutsche-bank-offers-these-solutions-to-altmans-code-red-c2a77439?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Deutsche Bank identifies OpenAI&#x2019;s challenges and looks at possibles fixes for each.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
