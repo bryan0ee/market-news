@@ -1,40 +1,114 @@
 {
-  "last_updated": "2025-12-04T10:48:54.027Z",
+  "last_updated": "2025-12-04T13:38:50.741Z",
   "items": [
     {
-      "ts": "2025-12-04T10:00:00.000Z",
-      "headline": "Goldman&#x2019;s chief strategist is retiring after 31 years. Where he sees a bubble right now.",
-      "url": "https://www.marketwatch.com/story/goldmans-chief-strategist-is-retiring-after-31-years-where-he-sees-a-bubble-right-now-1ae69aa1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-04T13:25:00.000Z",
+      "headline": "Americans&#x2019; affordability crisis isn&#x2019;t tariffs&#x2019; fault &#x2014; it&#x2019;s something much, much deeper",
+      "url": "https://www.marketwatch.com/story/americans-affordability-crisis-isnt-tariffs-fault-its-something-much-much-deeper-9b74ccfb?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "COST"
       ],
-      "summary_en": "Goldman Sachs chief equity strategist David Kostin is retiring after 31 years &#x2014; and he keeps getting peppered on his way out about whether the market&#x2019;s in a bubble.",
+      "summary_en": "Costs for the &#x201c;Unaffordability Five&#x201d; &#x2014; housing, food, healthcare, child care and energy &#x2014; were rising long before Trump&#x2019;s trade war.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T09:59:00.000Z",
-      "headline": "As Meghan Markle builds her food brand in her $14M California mansion, here&#x2019;s what she says is her &#x2018;great luxury&#x2019;",
-      "url": "https://www.marketwatch.com/story/as-meghan-markle-builds-her-food-brand-in-her-14m-california-mansion-heres-what-she-says-is-her-great-luxury-95b3c407?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-04T12:47:00.000Z",
+      "headline": "Dollar General sees more customer traffic at stores, something its top rival didn&#x2019;t have",
+      "url": "https://www.marketwatch.com/story/dollar-general-sees-more-customer-traffic-at-stores-something-its-top-rival-didnt-have-c1956d45?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Meghan Markle is already training her 4-year-old daughter Lilibet in the art of building a business&#x2014;even as she continues to expand her own fledgling lifestyle company.",
+      "summary_en": "Dollar General&#x2019;s stock rallies as sales rose more than expected and the company took market share from its rivals.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T09:15:00.000Z",
-      "headline": "My sister, as executor, refuses to probate my father&#x2019;s estate. She did the same thing when our mother died. What can I do?",
-      "url": "https://www.marketwatch.com/story/my-sister-as-executor-refuses-to-probate-my-fathers-estate-she-did-the-same-thing-when-our-mother-died-what-can-i-do-ee354234?mod=mw_rss_topstories",
+      "ts": "2025-12-04T13:19:00.000Z",
+      "headline": "Strategist who nailed stocks, bonds and oil this year warns of &#x2018;optimism shakeout&#x2019; in early 2026",
+      "url": "https://www.marketwatch.com/story/strategist-who-nailed-stocks-bonds-and-oil-this-year-warns-of-optimism-shakeout-in-early-2026-fcde8107?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Look for more AI adoption to help broaden the stock market next year, but overly optimistic sentiment may need a reset early on, says strategist Warren Pies.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T13:15:00.000Z",
+      "headline": "AI can help many things &#x2014; but it can&#x2019;t fix bad CEOs and their money mistakes",
+      "url": "https://www.marketwatch.com/story/ai-can-help-many-things-but-it-cant-fix-bad-ceos-and-their-money-mistakes-9bc2b3bc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I recently received paperwork from a company that my father had invested in.&#x201d;",
+      "summary_en": "Job layoffs are being pinned on AI &#x2014; when poor leadership is really to blame.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T12:50:00.000Z",
+      "headline": "Market forecasts are usually wrong &#x2014; but this inflation-fighting investment can see the future",
+      "url": "https://www.marketwatch.com/story/market-forecasts-are-usually-wrong-but-this-inflation-fighting-investment-can-see-the-future-f54efd7f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x2018;It&#x2019;s tough to make predictions, especially about the future,&#x2019; Yogi Berra said. He could have been talking about Wall Street.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T12:42:00.000Z",
+      "headline": "When it comes to manufacturing billionaires, nobody does it better than the U.S.",
+      "url": "https://www.marketwatch.com/story/when-it-comes-to-manufacturing-billionaires-nobody-does-it-better-than-the-u-s-eedbabed?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Confirming the great wealth transfer&#x2019;s acceleration, UBS says multigenerational billionaires inherited the largest amount in its report&#x2019;s history.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T10:55:00.000Z",
+      "headline": "Meta&#x2019;s accused of violating European antitrust rules. What the dispute is all about.",
+      "url": "https://www.marketwatch.com/story/metas-accused-of-violating-european-antitrust-rules-what-the-dispute-is-all-about-1b24f096?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "The European Commission on Thursday accused Meta Platforms of violating antitrust rules, in the latest salvo by European regulators against American technology firms.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T10:54:00.000Z",
+      "headline": "&#x2018;She&#x2019;s young enough to be his granddaughter&#x2019;: My dad, 85, is being seduced by his caregiver. What can I do?",
+      "url": "https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He is of sound mind, but he might succumb to someone who offers him companionship.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T10:54:00.000Z",
+      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
+      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -50,56 +124,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T01:16:00.000Z",
-      "headline": "Why Snowflake&#x2019;s earnings beat isn&#x2019;t enough to lift its stock",
-      "url": "https://www.marketwatch.com/story/why-snowflakes-earnings-beat-isnt-enough-to-lift-its-stock-cc55d5ba?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "SNOW",
-        "ED"
-      ],
-      "summary_en": "An analyst notes that growth in product revenue slowed in the latest quarter. And Snowflake shares have meaningfully outperformed peers this year, raising the bar for results.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T00:24:00.000Z",
-      "headline": "As Marvell&#x2019;s stock rises on an upbeat forecast, analysts still have these questions",
-      "url": "https://www.marketwatch.com/story/as-marvells-stock-rises-on-an-upbeat-forecast-analysts-still-have-these-questions-18b30d51?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Marvell clearly has visibility into big financial opportunities, but analysts wonder about its competitive positioning and the impact of a newly announced deal.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T01:17:00.000Z",
-      "headline": "Salesforce cheers &#x2018;a powerful pipeline of future revenue&#x2019; as its stock ticks higher",
-      "url": "https://www.marketwatch.com/story/salesforce-cheers-a-powerful-pipeline-of-future-revenue-as-its-stock-zooms-higher-b613e9b5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Salesforce said its earnings reflect AI momentum. Will the results be enough to flip bearish sentiment for an extended stretch?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T00:14:00.000Z",
-      "headline": "AI needs power desperately. Here&#x2019;s how to invest in companies profiting from the pain.",
-      "url": "https://www.marketwatch.com/story/ai-needs-power-desperately-heres-how-to-invest-in-companies-profiting-from-the-pain-f10c0d53?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The shortage is a lucrative opportunity &#x2014; but the window is brief.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-03T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251203a.htm",
@@ -109,30 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T01:47:00.000Z",
-      "headline": "Netflix and Paramount are now the favorites to buy Warner Bros., but investors don&#x2019;t like it",
-      "url": "https://www.marketwatch.com/story/netflix-and-paramount-are-now-the-favorites-to-buy-warner-bros-but-investors-dont-like-it-596456d0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Share prices for both suitors fall as details emerge of cash bids for the owner of HBO and CNN.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T00:27:00.000Z",
-      "headline": "Fiserv execs bet $1.5 million on a turnaround, and the stock pops",
-      "url": "https://www.marketwatch.com/story/fiserv-execs-bet-1-5-million-on-a-turnaround-and-the-stock-pops-32f9d01e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Two executives just bought stock in the S&P 500&#x2019;s weakest performer of the year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
