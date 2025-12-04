@@ -1,58 +1,83 @@
 {
-  "last_updated": "2025-12-04T13:38:50.741Z",
+  "last_updated": "2025-12-04T23:28:39.852Z",
   "items": [
     {
-      "ts": "2025-12-04T13:25:00.000Z",
-      "headline": "Americans&#x2019; affordability crisis isn&#x2019;t tariffs&#x2019; fault &#x2014; it&#x2019;s something much, much deeper",
-      "url": "https://www.marketwatch.com/story/americans-affordability-crisis-isnt-tariffs-fault-its-something-much-much-deeper-9b74ccfb?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2025-12-04T22:42:00.000Z",
+      "headline": "The one thing people are still buying? Beauty products, and Ulta just proved it.",
+      "url": "https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
+        "ED",
         "COST"
       ],
-      "summary_en": "Costs for the &#x201c;Unaffordability Five&#x201d; &#x2014; housing, food, healthcare, child care and energy &#x2014; were rising long before Trump&#x2019;s trade war.",
+      "summary_en": "&#x201c;Masstige&#x201d; is winning even as consumers cut costs elsewhere.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T12:47:00.000Z",
-      "headline": "Dollar General sees more customer traffic at stores, something its top rival didn&#x2019;t have",
-      "url": "https://www.marketwatch.com/story/dollar-general-sees-more-customer-traffic-at-stores-something-its-top-rival-didnt-have-c1956d45?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-12-04T22:24:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t have money to pay for a death certificate&#x2019;: My sister refuses to probate my father&#x2019;s estate. What can I do?",
+      "url": "https://www.marketwatch.com/story/my-sister-as-executor-refuses-to-probate-my-fathers-estate-she-did-the-same-thing-when-our-mother-died-what-can-i-do-ee354234?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Dollar General&#x2019;s stock rallies as sales rose more than expected and the company took market share from its rivals.",
+      "summary_en": "&#x201c;I recently received paperwork from a company that my father had invested in.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T13:19:00.000Z",
-      "headline": "Strategist who nailed stocks, bonds and oil this year warns of &#x2018;optimism shakeout&#x2019; in early 2026",
-      "url": "https://www.marketwatch.com/story/strategist-who-nailed-stocks-bonds-and-oil-this-year-warns-of-optimism-shakeout-in-early-2026-fcde8107?mod=mw_rss_topstories",
+      "ts": "2025-12-04T22:00:00.000Z",
+      "headline": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251204b.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces pricing, effective January 1, 2026, for payment services the Federal Reserve Banks provide to banks and credit unions",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251204a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces pricing, effective January 1, 2026, for payment services the Federal Reserve Banks provide to banks and credit unions",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T21:37:00.000Z",
+      "headline": "AI needs power desperately. Here&#x2019;s how to invest in companies profiting from the pain.",
+      "url": "https://www.marketwatch.com/story/ai-needs-power-desperately-heres-how-to-invest-in-companies-profiting-from-the-pain-f10c0d53?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "Look for more AI adoption to help broaden the stock market next year, but overly optimistic sentiment may need a reset early on, says strategist Warren Pies.",
+      "summary_en": "The shortage is a lucrative opportunity &#x2014; but the window is brief.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T13:15:00.000Z",
-      "headline": "AI can help many things &#x2014; but it can&#x2019;t fix bad CEOs and their money mistakes",
-      "url": "https://www.marketwatch.com/story/ai-can-help-many-things-but-it-cant-fix-bad-ceos-and-their-money-mistakes-9bc2b3bc?mod=mw_rss_topstories",
+      "ts": "2025-12-04T21:33:00.000Z",
+      "headline": "Our kids are grown. It&#x2019;s time to cancel our Chase Disney Visa. What&#x2019;s a good credit card for middle age?",
+      "url": "https://www.marketwatch.com/story/the-card-served-its-purpose-its-time-to-cancel-our-chase-disney-visa-credit-card-whats-our-next-card-for-middle-age-23314376?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Job layoffs are being pinned on AI &#x2014; when poor leadership is really to blame.",
+      "summary_en": "&#x201c;The card served its purpose while our kids were young.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T12:50:00.000Z",
-      "headline": "Market forecasts are usually wrong &#x2014; but this inflation-fighting investment can see the future",
+      "ts": "2025-12-04T21:19:00.000Z",
+      "headline": "Market forecasts are usually wrong &#x2014; but this inflation-fighting asset sees the future",
       "url": "https://www.marketwatch.com/story/market-forecasts-are-usually-wrong-but-this-inflation-fighting-investment-can-see-the-future-f54efd7f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 3,
@@ -63,64 +88,64 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T12:42:00.000Z",
-      "headline": "When it comes to manufacturing billionaires, nobody does it better than the U.S.",
-      "url": "https://www.marketwatch.com/story/when-it-comes-to-manufacturing-billionaires-nobody-does-it-better-than-the-u-s-eedbabed?mod=mw_rss_topstories",
+      "ts": "2025-12-04T20:15:00.000Z",
+      "headline": "FIRE fans carefully planned their early retirement. Then health-insurance costs exploded.",
+      "url": "https://www.marketwatch.com/story/fire-fans-had-mapped-the-road-to-early-retirement-then-health-insurance-costs-exploded-03bd97f8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "Confirming the great wealth transfer&#x2019;s acceleration, UBS says multigenerational billionaires inherited the largest amount in its report&#x2019;s history.",
+      "summary_en": "With pandemic-era subsidies for Obamacare set to end in 2026, people in the FIRE community are adjusting their plans to account for bigger health-insurance premiums.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T10:55:00.000Z",
-      "headline": "Meta&#x2019;s accused of violating European antitrust rules. What the dispute is all about.",
-      "url": "https://www.marketwatch.com/story/metas-accused-of-violating-european-antitrust-rules-what-the-dispute-is-all-about-1b24f096?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "The European Commission on Thursday accused Meta Platforms of violating antitrust rules, in the latest salvo by European regulators against American technology firms.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T10:54:00.000Z",
-      "headline": "&#x2018;She&#x2019;s young enough to be his granddaughter&#x2019;: My dad, 85, is being seduced by his caregiver. What can I do?",
-      "url": "https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He is of sound mind, but he might succumb to someone who offers him companionship.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T10:54:00.000Z",
-      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
-      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
+      "ts": "2025-12-04T22:42:00.000Z",
+      "headline": "The stock market is verging on a holiday breakout &#x2014; taking gold and silver with it",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-verging-on-a-holiday-breakout-taking-gold-and-silver-with-it-34469840?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
+      "summary_en": "If positive seasonality kicks in, investors can expect all-time highs before year-end.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T10:44:00.000Z",
-      "headline": "Bitcoin could reach $170,000 if it trades like gold, says JPMorgan strategist",
-      "url": "https://www.marketwatch.com/story/bitcoin-could-reach-170-000-if-it-trades-like-gold-says-jpmorgan-strategist-962b90a7?mod=mw_rss_topstories",
+      "ts": "2025-12-04T21:12:00.000Z",
+      "headline": "AI taking your job? That&#x2019;s just what these CEOs want you to believe.",
+      "url": "https://www.marketwatch.com/story/ai-can-help-many-things-but-it-cant-fix-bad-ceos-and-their-money-mistakes-9bc2b3bc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Bitcoin could trade as high as $170,000 if investors were to value it like gold, according to a JPMorgan strategist.",
+      "summary_en": "Companies spend billions on AI infrastructure they never fully use &#x2014; then cut workers to cover up their mess.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T20:43:00.000Z",
+      "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here&#x2019;s what experts say.",
+      "url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Financial institutions like BlackRock and Fidelity are now giving crypto recommendations too",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T20:20:00.000Z",
+      "headline": "You may have made this big tax mistake on Giving Tuesday. How to recover and still lower your RMD.",
+      "url": "https://www.marketwatch.com/story/if-youre-over-70-you-might-have-missed-this-key-tax-break-on-giving-tuesday-cb2b380a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There&#x2019;s still time to make use of this strategy before the end of the year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
