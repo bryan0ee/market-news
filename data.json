@@ -1,32 +1,44 @@
 {
-  "last_updated": "2025-12-05T13:34:39.448Z",
+  "last_updated": "2025-12-05T23:27:46.990Z",
   "items": [
     {
-      "ts": "2025-12-05T13:08:00.000Z",
-      "headline": "Netflix set to transform media business &#x2014; and itself &#x2014; with $83 billion Warner Bros. deal",
-      "url": "https://www.marketwatch.com/story/netflix-set-to-transform-media-business-and-itself-with-83-billion-warner-bros-deal-cae3cc10?mod=mw_rss_topstories",
+      "ts": "2025-12-05T23:16:00.000Z",
+      "headline": "Carvana gets a spot in the S&P 500 ahead of these tech stocks",
+      "url": "https://www.marketwatch.com/story/carvana-gets-a-spot-in-the-s-p-500-ahead-of-these-tech-stocks-5b3e540f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Netflix will become a vastly bigger and different company once its deal to acquire Warner Bros. Discovery&#x2019;s studio and streaming businesses goes through.",
+      "summary_en": "Carvana and two other companies will join the S&P 500 in about two weeks, S&P Dow Jones Indices said late Friday &#x2014; dashing the hopes of those investors who expected bigger tech names or a crypto giant to get the honors this time around.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-05T12:59:00.000Z",
-      "headline": "Wegovy&#x2019;s prices are going down, but they are &#x2018;wildly different&#x2019;",
-      "url": "https://www.marketwatch.com/story/wegovys-prices-are-going-down-but-they-are-wildly-different-and-confusing-e4ef7bbe?mod=mw_rss_topstories",
+      "ts": "2025-12-05T22:34:00.000Z",
+      "headline": "SpaceX may be worth more than half of Tesla &#x2014; with a sixth of the revenue",
+      "url": "https://www.marketwatch.com/story/spacex-may-be-worth-more-than-half-of-tesla-with-a-sixth-of-the-revenue-892657f5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "COST"
+        "ED"
       ],
-      "summary_en": "How much Novo Nordisk&#x2019;s weight-loss drug Wegovy costs can depend on a lot of things, which makes it very hard for the average person to understand.",
+      "summary_en": "The rocket-launch company is also reportedly eyeing a public debut.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-05T12:47:00.000Z",
+      "ts": "2025-12-05T22:23:00.000Z",
+      "headline": "The Fed is running into a wall of its own making ahead of next week&#x2019;s interest-rate vote",
+      "url": "https://www.marketwatch.com/story/the-fed-is-running-into-a-wall-of-its-own-making-10ee8e31?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Charlie Garcia responds to readers concerned about their money and interest rates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T21:27:00.000Z",
       "headline": "The one thing people are still buying? Beauty products, and Ulta just proved it.",
       "url": "https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -39,99 +51,89 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-05T12:47:00.000Z",
-      "headline": "Why &#x2018;buy the dip&#x2019; is not that great a strategy &#x2014; and what works better, according to this quant firm.",
-      "url": "https://www.marketwatch.com/story/why-buy-the-dip-is-not-that-great-a-strategy-quant-firm-discovers-dea7a10d?mod=mw_rss_topstories",
+      "ts": "2025-12-05T21:25:00.000Z",
+      "headline": "Treasury market logs worst weekly rout since April, in a bad sign for borrowers",
+      "url": "https://www.marketwatch.com/story/treasury-market-logs-worst-weekly-rout-since-april-in-a-bad-sign-for-borrowers-ceb60395?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Longer-dated U.S. government debt sold off sharply this week, a bad sign for anyone looking for a reprieve from higher borrowing costs.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T20:54:00.000Z",
+      "headline": "I tried to donate my crypto to charity. Here&#x2019;s what I learned.",
+      "url": "https://www.marketwatch.com/story/i-tried-to-donate-my-crypto-to-charity-heres-what-i-learned-64df038e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Researchers at AQR tested out buy-the-dip as an investing strategy and were not impressed.",
+      "summary_en": "Charitable giving with bitcoin and other crypto offers big tax advantages.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-05T12:00:00.000Z",
-      "headline": "Our kids are grown. It&#x2019;s time to cancel our Chase Disney Visa. What&#x2019;s a good credit card for middle age?",
-      "url": "https://www.marketwatch.com/story/the-card-served-its-purpose-its-time-to-cancel-our-chase-disney-visa-credit-card-whats-our-next-card-for-middle-age-23314376?mod=mw_rss_topstories",
+      "ts": "2025-12-05T20:25:00.000Z",
+      "headline": "The last holdout on MP Materials&#x2019; stock has turned bullish",
+      "url": "https://www.marketwatch.com/story/the-last-holdout-on-mp-materials-stock-has-turned-bullish-d3c1be5d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "PG"
       ],
-      "summary_en": "&#x201c;The card served its purpose while our kids were young.&#x201d;",
+      "summary_en": "Wall Street analysts are now unanimous in being bullish on MP Materials&#x2019; stock, after Morgan Stanley&#x2019;s Carlos De Alba upgraded it to overweight.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-05T12:00:00.000Z",
-      "headline": "Why investors should brush off fears about another brutal yen carry trade unwind",
-      "url": "https://www.marketwatch.com/story/why-investors-should-brush-off-fears-about-another-brutal-yen-carry-trade-unwind-e8f41ef2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Rising Japanese bond yields, coupled with the expectation that the Bank of Japan will raise interest rates again later this month for the first time since January, has breathed new life into a Wall Street boogeyman.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T11:25:00.000Z",
-      "headline": "Even Paramount now thinks Netflix is winning the bidding war for Warner Bros. Discovery",
-      "url": "https://www.marketwatch.com/story/even-paramount-now-thinks-netflix-is-winning-the-bidding-war-for-warner-bros-discovery-916afac0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Paramount Skydance had been considered the front-runner in the bidding war for Warner Bros. Discovery, but signaled on Thursday that it felt it was losing to Netflix in a process it deemed unfair.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T11:00:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t have money to pay for a death certificate&#x2019;: My sister refuses to probate my father&#x2019;s estate. What can I do?",
-      "url": "https://www.marketwatch.com/story/my-sister-as-executor-refuses-to-probate-my-fathers-estate-she-did-the-same-thing-when-our-mother-died-what-can-i-do-ee354234?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I recently received paperwork from a company that my father had invested in.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T10:18:00.000Z",
-      "headline": "A Wall Street legend has passed, but his &#x2019;10 surprise&#x2019; framework lives on. Manufacturing may be primed for a boom, this firm says.",
-      "url": "https://www.marketwatch.com/story/a-wall-street-legend-has-passed-but-his-10-surprise-framework-lives-on-manufacturing-may-be-primed-for-a-boom-this-firm-says-bacb6409?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.K. research firm Variant Perception expects manufacturing outside of AI to pick up.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T12:28:00.000Z",
-      "headline": "&#x2018;Misbehaving&#x2019; U.S. long bonds have this strategist looking for yield elsewhere",
-      "url": "https://www.marketwatch.com/story/misbehaving-u-s-long-bonds-have-this-strategist-looking-for-yield-elsewhere-d07c293f?mod=mw_rss_topstories",
+      "ts": "2025-12-05T22:21:00.000Z",
+      "headline": "Here&#x2019;s how the best investors protect their money from market bubbles and FOMO",
+      "url": "https://www.marketwatch.com/story/heres-the-no-1-way-to-protect-your-investment-portfolio-from-market-bubbles-and-fomo-43003b99?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "When Greenspan and Bernanke were hiking rates, long-term yields kept falling. Now Powell is cutting, the reverse is happening &#x2014; a conundrum for HSBC&#x2019;s strategist",
+      "summary_en": "Managing risk and avoiding &#x2018;volatility drag&#x2019; is absolutely critical to achieving long-term financial goals.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-04T22:00:00.000Z",
-      "headline": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251204b.htm",
+      "ts": "2025-12-05T20:39:00.000Z",
+      "headline": "This crazy chart shows just how much cash OpenAI is burning as it chases AI profits",
+      "url": "https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "OpenAI has become, as of its latest $500 billion valuation, one of the most valuable privately held companies in the world. It has also been a cash-burning machine.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T20:36:00.000Z",
+      "headline": "What does Netflix&#x2019;s offer to buy HBO Max mean for you?",
+      "url": "https://www.marketwatch.com/story/what-does-netflixs-offer-to-buy-hbo-max-mean-for-you-2b6ea098?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Subscribers of the two streaming giants may now be wondering what changes could come to their content and their monthly bills.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251205a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,6 +146,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces pricing, effective January 1, 2026, for payment services the Federal Reserve Banks provide to banks and credit unions",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-04T22:00:00.000Z",
+      "headline": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251204b.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
