@@ -1,6 +1,103 @@
 {
-  "last_updated": "2025-12-05T10:46:24.931Z",
+  "last_updated": "2025-12-05T13:34:39.448Z",
   "items": [
+    {
+      "ts": "2025-12-05T13:08:00.000Z",
+      "headline": "Netflix set to transform media business &#x2014; and itself &#x2014; with $83 billion Warner Bros. deal",
+      "url": "https://www.marketwatch.com/story/netflix-set-to-transform-media-business-and-itself-with-83-billion-warner-bros-deal-cae3cc10?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Netflix will become a vastly bigger and different company once its deal to acquire Warner Bros. Discovery&#x2019;s studio and streaming businesses goes through.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T12:59:00.000Z",
+      "headline": "Wegovy&#x2019;s prices are going down, but they are &#x2018;wildly different&#x2019;",
+      "url": "https://www.marketwatch.com/story/wegovys-prices-are-going-down-but-they-are-wildly-different-and-confusing-e4ef7bbe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "How much Novo Nordisk&#x2019;s weight-loss drug Wegovy costs can depend on a lot of things, which makes it very hard for the average person to understand.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T12:47:00.000Z",
+      "headline": "The one thing people are still buying? Beauty products, and Ulta just proved it.",
+      "url": "https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "&#x201c;Masstige&#x201d; is winning even as consumers cut costs elsewhere.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T12:47:00.000Z",
+      "headline": "Why &#x2018;buy the dip&#x2019; is not that great a strategy &#x2014; and what works better, according to this quant firm.",
+      "url": "https://www.marketwatch.com/story/why-buy-the-dip-is-not-that-great-a-strategy-quant-firm-discovers-dea7a10d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Researchers at AQR tested out buy-the-dip as an investing strategy and were not impressed.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T12:00:00.000Z",
+      "headline": "Our kids are grown. It&#x2019;s time to cancel our Chase Disney Visa. What&#x2019;s a good credit card for middle age?",
+      "url": "https://www.marketwatch.com/story/the-card-served-its-purpose-its-time-to-cancel-our-chase-disney-visa-credit-card-whats-our-next-card-for-middle-age-23314376?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The card served its purpose while our kids were young.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T12:00:00.000Z",
+      "headline": "Why investors should brush off fears about another brutal yen carry trade unwind",
+      "url": "https://www.marketwatch.com/story/why-investors-should-brush-off-fears-about-another-brutal-yen-carry-trade-unwind-e8f41ef2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Rising Japanese bond yields, coupled with the expectation that the Bank of Japan will raise interest rates again later this month for the first time since January, has breathed new life into a Wall Street boogeyman.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T11:25:00.000Z",
+      "headline": "Even Paramount now thinks Netflix is winning the bidding war for Warner Bros. Discovery",
+      "url": "https://www.marketwatch.com/story/even-paramount-now-thinks-netflix-is-winning-the-bidding-war-for-warner-bros-discovery-916afac0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Paramount Skydance had been considered the front-runner in the bidding war for Warner Bros. Discovery, but signaled on Thursday that it felt it was losing to Netflix in a process it deemed unfair.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T11:00:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t have money to pay for a death certificate&#x2019;: My sister refuses to probate my father&#x2019;s estate. What can I do?",
+      "url": "https://www.marketwatch.com/story/my-sister-as-executor-refuses-to-probate-my-fathers-estate-she-did-the-same-thing-when-our-mother-died-what-can-i-do-ee354234?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I recently received paperwork from a company that my father had invested in.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-05T10:18:00.000Z",
       "headline": "A Wall Street legend has passed, but his &#x2019;10 surprise&#x2019; framework lives on. Manufacturing may be primed for a boom, this firm says.",
@@ -14,100 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-05T10:01:00.000Z",
-      "headline": "3 years after her husband&#x2019;s death, &#x2018;All My Children&#x2019; star Susan Lucci on why she won&#x2019;t sell her Long Island home",
-      "url": "https://www.marketwatch.com/story/3-years-after-her-husbands-death-all-my-children-star-susan-lucci-on-why-she-wont-sell-her-long-island-home-b0e0fb4d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "As her book prepares to hit the shelves, &#x201c;All My Children&#x201d; star&#xa0;Susan Lucci&#xa0;has opened up about her decision to hold on to her longtime&#xa0;Long Island home.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T10:12:00.000Z",
-      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K Why won&#x2019;t he give me money?",
-      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
+      "ts": "2025-12-05T12:28:00.000Z",
+      "headline": "&#x2018;Misbehaving&#x2019; U.S. long bonds have this strategist looking for yield elsewhere",
+      "url": "https://www.marketwatch.com/story/misbehaving-u-s-long-bonds-have-this-strategist-looking-for-yield-elsewhere-d07c293f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T03:31:00.000Z",
-      "headline": "SoFi&#x2019;s red-hot stock drops after plan to raise $1.5 billion in stock offering",
-      "url": "https://www.marketwatch.com/story/sofis-red-hot-stock-drops-after-plan-to-raise-1-5-billion-in-stock-offering-71f256aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of SoFi Technologies Inc. sank more than 6% in after-hours trading Thursday, after the fintech company announced plans for a $1.5 billion stock offering.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T01:39:00.000Z",
-      "headline": "Americans&#x2019; affordability crisis isn&#x2019;t tariffs&#x2019; fault &#x2014; it&#x2019;s something much, much deeper",
-      "url": "https://www.marketwatch.com/story/americans-affordability-crisis-isnt-tariffs-fault-its-something-much-much-deeper-9b74ccfb?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Costs for the &#x201c;Unaffordability Five&#x201d; &#x2014; housing, food, healthcare, child care and energy &#x2014; were rising long before Trump&#x2019;s trade war.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T01:13:00.000Z",
-      "headline": "The one thing people are still buying? Beauty products, and Ulta just proved it.",
-      "url": "https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "&#x201c;Masstige&#x201d; is winning even as consumers cut costs elsewhere.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T00:30:00.000Z",
-      "headline": "Why Microsoft&#x2019;s controversial OpenAI partnership is actually a safety net for the stock",
-      "url": "https://www.marketwatch.com/story/why-microsofts-controversial-openai-partnership-is-actually-a-safety-net-for-the-stock-bc2a408a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Microsoft has offloaded OpenAI&#x2019;s risks while keeping the benefits, making it the best Big Tech AI play, according to one analyst",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T00:27:00.000Z",
-      "headline": "This analyst&#x2019;s top chip pick isn&#x2019;t flashy, but it could benefit from &#x2018;unprecedented&#x2019; momentum",
-      "url": "https://www.marketwatch.com/story/this-analysts-top-chip-pick-isnt-flashy-but-it-could-benefit-from-unprecedented-momentum-62748538?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Applied Materials should benefit from upcycles in both the DRAM and leading-edge foundry industries, TD Cowen says",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T00:21:00.000Z",
-      "headline": "Even Paramount now thinks Netflix is winning the bidding war for Warner Bros. Discovery",
-      "url": "https://www.marketwatch.com/story/even-paramount-now-thinks-netflix-is-winning-the-bidding-war-for-warner-bros-discovery-916afac0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Paramount Skydance had been considered the front-runner in the bidding war for Warner Bros. Discovery, but signaled on Thursday that it felt it was losing to Netflix in a process it deemed unfair.",
+      "summary_en": "When Greenspan and Bernanke were hiking rates, long-term yields kept falling. Now Powell is cutting, the reverse is happening &#x2014; a conundrum for HSBC&#x2019;s strategist",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +156,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T01:36:00.000Z",
-      "headline": "The stock market is verging on a holiday breakout &#x2014; taking gold and silver with it",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-verging-on-a-holiday-breakout-taking-gold-and-silver-with-it-34469840?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "If positive seasonality kicks in, investors can expect all-time highs before year-end.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
