@@ -1,6 +1,31 @@
 {
-  "last_updated": "2025-12-05T23:27:46.990Z",
+  "last_updated": "2025-12-06T10:42:14.138Z",
   "items": [
+    {
+      "ts": "2025-12-06T02:58:00.000Z",
+      "headline": "Your tax refund could be $1,000 bigger next year &#x2014; and even more if you make these money moves in time",
+      "url": "https://www.marketwatch.com/story/your-tax-refund-could-be-1-000-bigger-next-year-and-even-more-if-you-make-these-money-moves-in-time-98ae7448?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "These larger tax refunds would come at a time when many Americans are feeling cost-conscious and priced-out.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-06T00:15:00.000Z",
+      "headline": "&#x2018;She&#x2019;s young enough to be his granddaughter&#x2019;: My dad, 85, is being seduced by his caregiver. What can I do?",
+      "url": "https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He is of sound mind, but he might succumb to someone who offers him companionship.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-05T23:16:00.000Z",
       "headline": "Carvana gets a spot in the S&P 500 ahead of these tech stocks",
@@ -34,7 +59,7 @@
       "affected": [
         "ED"
       ],
-      "summary_en": "Charlie Garcia responds to readers concerned about their money and interest rates.",
+      "summary_en": "Charlie Garcia responds to readers concerned about their money-market funds.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -73,55 +98,6 @@
         "ED"
       ],
       "summary_en": "Charitable giving with bitcoin and other crypto offers big tax advantages.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T20:25:00.000Z",
-      "headline": "The last holdout on MP Materials&#x2019; stock has turned bullish",
-      "url": "https://www.marketwatch.com/story/the-last-holdout-on-mp-materials-stock-has-turned-bullish-d3c1be5d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "PG"
-      ],
-      "summary_en": "Wall Street analysts are now unanimous in being bullish on MP Materials&#x2019; stock, after Morgan Stanley&#x2019;s Carlos De Alba upgraded it to overweight.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T22:21:00.000Z",
-      "headline": "Here&#x2019;s how the best investors protect their money from market bubbles and FOMO",
-      "url": "https://www.marketwatch.com/story/heres-the-no-1-way-to-protect-your-investment-portfolio-from-market-bubbles-and-fomo-43003b99?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Managing risk and avoiding &#x2018;volatility drag&#x2019; is absolutely critical to achieving long-term financial goals.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T20:39:00.000Z",
-      "headline": "This crazy chart shows just how much cash OpenAI is burning as it chases AI profits",
-      "url": "https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "OpenAI has become, as of its latest $500 billion valuation, one of the most valuable privately held companies in the world. It has also been a cash-burning machine.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T20:36:00.000Z",
-      "headline": "What does Netflix&#x2019;s offer to buy HBO Max mean for you?",
-      "url": "https://www.marketwatch.com/story/what-does-netflixs-offer-to-buy-hbo-max-mean-for-you-2b6ea098?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Subscribers of the two streaming giants may now be wondering what changes could come to their content and their monthly bills.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -170,6 +146,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T23:48:00.000Z",
+      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
+      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-05T22:21:00.000Z",
+      "headline": "Here&#x2019;s how the best investors protect their money from market bubbles and FOMO",
+      "url": "https://www.marketwatch.com/story/heres-the-no-1-way-to-protect-your-investment-portfolio-from-market-bubbles-and-fomo-43003b99?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Managing risk and avoiding &#x2018;volatility drag&#x2019; is absolutely critical to achieving long-term financial goals.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
