@@ -1,6 +1,66 @@
 {
-  "last_updated": "2025-12-06T10:42:14.138Z",
+  "last_updated": "2025-12-06T13:29:09.558Z",
   "items": [
+    {
+      "ts": "2025-12-06T12:27:00.000Z",
+      "headline": "Does my friend have a right to her late father&#x2019;s multimillion-dollar property portfolio? His widow claims they&#x2019;re mired in debt.",
+      "url": "https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My friend really wanted to keep her father&#x2019;s condo, but her mother sold that too &#x2014; and it broke her heart.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-06T13:05:00.000Z",
+      "headline": "How to stress test your estate plan to make sure it&#x2019;s airtight",
+      "url": "https://www.marketwatch.com/story/how-to-stress-test-your-estate-plan-to-make-sure-its-airtight-e114c0a7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "If you don&#x2019;t understand something in a document, don&#x2019;t sign it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-06T13:00:00.000Z",
+      "headline": "Trump likes Australia&#x2019;s retirement-savings program &#x2014; but could it actually work in the U.S.?",
+      "url": "https://www.marketwatch.com/story/trump-likes-australias-retirement-savings-program-but-could-it-actually-work-in-the-u-s-7d506bdb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Could America&#x2019;s signature retirement-savings program look a lot like Australia&#x2019;s one day?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-06T11:30:00.000Z",
+      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
+      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-06T11:22:00.000Z",
+      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
+      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-06T02:58:00.000Z",
       "headline": "Your tax refund could be $1,000 bigger next year &#x2014; and even more if you make these money moves in time",
@@ -63,44 +123,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-05T21:27:00.000Z",
-      "headline": "The one thing people are still buying? Beauty products, and Ulta just proved it.",
-      "url": "https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "&#x201c;Masstige&#x201d; is winning even as consumers cut costs elsewhere.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T21:25:00.000Z",
-      "headline": "Treasury market logs worst weekly rout since April, in a bad sign for borrowers",
-      "url": "https://www.marketwatch.com/story/treasury-market-logs-worst-weekly-rout-since-april-in-a-bad-sign-for-borrowers-ceb60395?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Longer-dated U.S. government debt sold off sharply this week, a bad sign for anyone looking for a reprieve from higher borrowing costs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T20:54:00.000Z",
-      "headline": "I tried to donate my crypto to charity. Here&#x2019;s what I learned.",
-      "url": "https://www.marketwatch.com/story/i-tried-to-donate-my-crypto-to-charity-heres-what-i-learned-64df038e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Charitable giving with bitcoin and other crypto offers big tax advantages.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-05T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251205a.htm",
@@ -146,30 +168,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T23:48:00.000Z",
-      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
-      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T22:21:00.000Z",
-      "headline": "Here&#x2019;s how the best investors protect their money from market bubbles and FOMO",
-      "url": "https://www.marketwatch.com/story/heres-the-no-1-way-to-protect-your-investment-portfolio-from-market-bubbles-and-fomo-43003b99?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Managing risk and avoiding &#x2018;volatility drag&#x2019; is absolutely critical to achieving long-term financial goals.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
