@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-12-06T23:27:23.974Z",
+  "last_updated": "2025-12-07T10:40:51.071Z",
   "items": [
+    {
+      "ts": "2025-12-06T23:33:00.000Z",
+      "headline": "&#x2018;It&#x2019;s expensive feeding and housing a family of 7&#x2019;: I&#x2019;m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
+      "url": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I bring in $7,200 a month from my pension and disability benefits.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-06T23:10:00.000Z",
       "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
@@ -76,54 +88,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-06T19:44:00.000Z",
-      "headline": "Here&#x2019;s how the best investors protect their money from market bubbles and FOMO",
-      "url": "https://www.marketwatch.com/story/heres-the-no-1-way-to-protect-your-investment-portfolio-from-market-bubbles-and-fomo-43003b99?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Managing risk and avoiding &#x2018;volatility drag&#x2019; is absolutely critical to achieving long-term financial goals.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-06T19:05:00.000Z",
-      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
-      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-06T17:19:00.000Z",
-      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
-      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-06T16:35:00.000Z",
-      "headline": "What does Netflix&#x2019;s offer to buy HBO Max mean for you?",
-      "url": "https://www.marketwatch.com/story/what-does-netflixs-offer-to-buy-hbo-max-mean-for-you-2b6ea098?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Subscribers of the two streaming giants may now be wondering what changes could come to their content and their monthly bills.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-05T16:00:00.000Z",
       "headline": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251205a.htm",
@@ -169,6 +133,42 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-06T19:44:00.000Z",
+      "headline": "Here&#x2019;s how the best investors protect their money from market bubbles and FOMO",
+      "url": "https://www.marketwatch.com/story/heres-the-no-1-way-to-protect-your-investment-portfolio-from-market-bubbles-and-fomo-43003b99?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Managing risk and avoiding &#x2018;volatility drag&#x2019; is absolutely critical to achieving long-term financial goals.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-06T19:05:00.000Z",
+      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
+      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-06T17:19:00.000Z",
+      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
+      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
