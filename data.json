@@ -1,80 +1,117 @@
 {
-  "last_updated": "2025-12-08T13:36:52.852Z",
+  "last_updated": "2025-12-08T23:28:48.463Z",
   "items": [
     {
-      "ts": "2025-12-08T13:27:00.000Z",
-      "headline": "Why IBM plans to buy Confluent in its biggest deal since 2019",
-      "url": "https://www.marketwatch.com/story/why-ibm-plans-to-buy-confluent-in-its-biggest-deal-since-2019-33436a6a?mod=mw_rss_topstories",
+      "ts": "2025-12-08T23:25:00.000Z",
+      "headline": "Strategist who said passive investing is &#x2018;worse than Marxism&#x2019; says AI plays are only making the problem worse",
+      "url": "https://www.marketwatch.com/story/strategist-who-said-passive-investing-is-worse-than-marxism-says-ai-plays-are-only-making-the-problem-worse-492c7fd4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The technology giant announced its intent to acquire Confluent for $11 billion. It&#x2019;s a play on the data required for AI.",
+      "summary_en": "A Wall Street strategist who made a splash a decade ago with a report arguing that the rise of passive investing was &#x201c;worse than Marxism&#x201d; has said the problem is even bigger than he initially realized.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T13:16:00.000Z",
-      "headline": "This week&#x2019;s Fed meeting will highlight the central bank&#x2019;s challenge: Preventing a recession while tackling inflation",
-      "url": "https://www.marketwatch.com/story/this-weeks-fed-meeting-will-highlight-the-central-banks-challenge-preventing-a-recession-while-tackling-inflation-8861a13c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Fed is widely expected to cut interest rates for the third meeting in a row when it meets this week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T12:52:00.000Z",
-      "headline": "The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas",
-      "url": "https://www.marketwatch.com/story/the-fed-meeting-this-week-will-determine-if-investors-get-new-all-time-highs-or-coal-for-christmas-8ddf2d3f?mod=mw_rss_topstories",
+      "ts": "2025-12-08T23:22:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a perilous choice&#x2019;: I&#x2019;ve been offered a part-time job. Do I file for Social Security at 67 or 70?",
+      "url": "https://www.marketwatch.com/story/its-a-perilous-choice-ive-been-offered-a-part-time-job-do-i-file-for-social-security-at-67-or-70-8e1ae6d3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Markets are expecting the Federal Reserve to cut interst rates at it next meeting, but some traders predict volatility.",
+      "summary_en": "&#x201c;My income will be reduced to less than one-fifth of my current annual salary.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T12:39:00.000Z",
-      "headline": "A British tech company is going public &#x2014; in South Korea. The CEO explains why.",
-      "url": "https://www.marketwatch.com/story/a-british-tech-company-is-going-public-in-south-korea-the-ceo-explains-why-5bf0c593?mod=mw_rss_topstories",
+      "ts": "2025-12-08T23:12:00.000Z",
+      "headline": "Nvidia&#x2019;s stock rises as Trump blesses China sales. Here&#x2019;s how big the opportunity could be.",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-rises-as-trump-blesses-china-sales-heres-how-big-the-opportunity-could-be-6a9dabc4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A U.K. tech company ended up choosing the South Korean equivalent of the Nasdaq to list, the first time a British firm has done so.",
+      "summary_en": "Nvidia previously pegged lost China revenue at $8 billion a quarter, and that was for a scaled-down chip.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T11:42:00.000Z",
-      "headline": "Firm that called 2025 nearly perfectly &#x2014; until a moment of doubt &#x2014; now has highest S&P 500 target on Wall Street",
-      "url": "https://www.marketwatch.com/story/firm-that-called-2025-nearly-perfectly-until-a-moment-of-doubt-now-has-highest-s-p-500-target-on-wall-street-be6a3a08?mod=mw_rss_topstories",
+      "ts": "2025-12-08T23:04:00.000Z",
+      "headline": "This financial company was just added to the S&P 500, and its stock is surging",
+      "url": "https://www.marketwatch.com/story/this-financial-company-was-just-added-to-the-s-p-500-and-its-stock-is-surging-db3d7dd3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Oppenheimer says the S&P 500 will push ahead in 2026, boosted by the economy and corporate profits that are likely to keep holding up.",
+      "summary_en": "Ares is getting the nod over Strategy as the index looks to replace Kellanova.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T13:15:00.000Z",
-      "headline": "How to beat inflation over the next year in one investing move",
-      "url": "https://www.marketwatch.com/story/how-to-beat-inflation-over-the-next-year-in-one-investing-move-2d51f3f7?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-12-08T22:17:00.000Z",
+      "headline": "Why Trump&#x2019;s new $12 billion farm aid package is just a Band-Aid for struggling soybean growers",
+      "url": "https://www.marketwatch.com/story/why-trumps-new-12-billion-farm-aid-package-is-just-a-band-aid-for-struggling-soybean-growers-708e83e1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Trump administration&#x2019;s $12 billion aid package may be too little, too late for American farmers &#x2014; particularly soybean producers suffering from the effects of a U.S.-instigated global trade war.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T22:11:00.000Z",
+      "headline": "Odell Beckham Jr. says a $100 million NFL contract won&#x2019;t last a lifetime. Here&#x2019;s what other athletes think.",
+      "url": "https://www.marketwatch.com/story/odell-beckham-jr-says-a-100-million-nfl-contract-wont-last-a-lifetime-heres-what-other-athletes-think-e5f245ff?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The former NFL star has stirred up conversation around how quickly a professional athlete can spend a $100 million &#x2014; or what&#x2019;s left of that sum after several key expenses",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T21:43:00.000Z",
+      "headline": "You&#x2019;ve just won the $875 million Powerball jackpot. Here are the 5 money moves you need to make next.",
+      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "But even if you&#x2019;re not a big lottery winner in tonight&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T21:40:00.000Z",
+      "headline": "Mortgage rates are surging ahead of the Fed&#x2019;s expected rate cut. What gives?",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-are-surging-ahead-of-the-feds-expected-rate-cut-what-gives-cbb630ea?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Mortgage rates are rising sharply even though the Federal Reserve is expected to cut interest rates later this week.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T22:30:00.000Z",
+      "headline": "&#x2018;He almost has to keep buying&#x2019;: Why Michael Saylor&#x2019;s Strategy is doubling down on bitcoin.",
+      "url": "https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Short-term interest rates are too high. This sets up an opportunity in 1-year Treasury bills.",
+      "summary_en": "Michael Saylor&#x2019;s bitcoin treasury company Strategy on Monday said it bought another roughly $1 billion of bitcoin last week, its biggest single-time purchase since July.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T13:06:00.000Z",
+      "ts": "2025-12-08T22:07:00.000Z",
       "headline": "Bitcoin&#x2019;s November crash was no accident",
       "url": "https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -83,42 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "An always-on crypto-hype machine lives to goose prices and then blame &#x201c;macro&#x201d; when the selloff hits.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T12:41:00.000Z",
-      "headline": "Trump likes Australia&#x2019;s retirement-savings program &#x2014; but could it actually work in the U.S.?",
-      "url": "https://www.marketwatch.com/story/trump-likes-australias-retirement-savings-program-but-could-it-actually-work-in-the-u-s-7d506bdb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Could America&#x2019;s signature retirement-savings program look a lot like Australia&#x2019;s one day?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T12:38:00.000Z",
-      "headline": "Just weeks before Buffett retires, Berkshire makes a number of leadership changes",
-      "url": "https://www.marketwatch.com/story/just-weeks-before-buffett-retires-berkshire-makes-a-number-of-leadership-changes-ad01cf9a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Berkshire Hathaway preps for Warren Buffett&#x2019;s retirement with a number of leadership changes, involving some longtime company veterans.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T12:07:00.000Z",
-      "headline": "Goldman Sachs is pinning hopes on these consumers in 2026. Here are the stock picks.",
-      "url": "https://www.marketwatch.com/story/goldman-sachs-is-pinning-hopes-on-these-consumers-in-2026-here-are-the-stock-picks-360c7cef?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Rising revenues in 2026 should help out the middle consumer and boost stocks catering to them, says Goldman Sachs.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
