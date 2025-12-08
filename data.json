@@ -1,9 +1,93 @@
 {
-  "last_updated": "2025-12-07T23:26:44.712Z",
+  "last_updated": "2025-12-08T10:48:53.894Z",
   "items": [
     {
-      "ts": "2025-12-07T23:21:00.000Z",
-      "headline": "U.S. stock futures flat as investors await Fed meeting &#x2014; and likely a rate cut",
+      "ts": "2025-12-08T10:15:00.000Z",
+      "headline": "My mother is selling my late father&#x2019;s multimillion-dollar California real-estate portfolio &#x2014; must I stand idly by?",
+      "url": "https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My mom claims they&#x2019;re heavily mortgaged.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T10:15:00.000Z",
+      "headline": "My mother-in-law, 81, is guilting us to pay for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
+      "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have my own trip to Europe planned for next year and I can&#x2019;t afford both trips.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T10:06:00.000Z",
+      "headline": "Taylor Swift and Travis Kelce have switched to this iconic Rhode Island resort for their wedding, report says",
+      "url": "https://www.marketwatch.com/story/taylor-swift-and-travis-kelce-have-switched-to-this-iconic-rhode-island-resort-for-their-wedding-report-says-7d98b251?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The resort has ample room for the couple and their many celebrity guests&#x2014;which may include&#xa0;Selena Gomez,&#xa0;Gigi Hadid&#xa0;and&#xa0;Patrick Mahomes.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T10:04:00.000Z",
+      "headline": "It&#x2019;s all in the price: Why Morgan Stanley&#x2019;s new Tesla analyst has downgraded the stock.",
+      "url": "https://www.marketwatch.com/story/its-all-in-the-price-why-morgan-stanleys-new-tesla-analyst-has-downgraded-the-stock-d1b451e8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The next 12 months promise to be &#x201c;choppy&#x201d; for Tesla, according to MS analyst Percoco who advises seeking a better entry point to the stock.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T10:02:00.000Z",
+      "headline": "26 car brands ranked from most to least reliable by Consumer Reports, plus some valuable car-buying advice",
+      "url": "https://www.marketwatch.com/story/26-car-brands-ranked-from-most-to-least-reliable-by-consumer-reports-plus-some-valuable-car-buying-advice-1be5f425?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Toyota regained the top spot in Consumer Reports&#x2019; list of the most reliable car brands in 2025.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T10:11:00.000Z",
+      "headline": "&#x2018;I&#x2019;m desperately trying to do right by everyone&#x2019;: I&#x2019;m giving my son $250K and my daughter 50% of a rental we co-own. Is that fair?",
+      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am currently saving this money for him.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T10:01:00.000Z",
+      "headline": "On again, off again with their Hamptons home, Alec and Hilaria Baldwin relist the mansion for $21 million",
+      "url": "https://www.marketwatch.com/story/on-again-off-again-with-their-hamptons-home-alec-and-hilaria-baldwin-relist-the-mansion-for-21-million-f928cfbf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Alec and Hilaria Baldwin have put their Amagansett, N.Y., home back on the market for a fourth time, mere months after revealing their desire to own it forever.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T04:04:00.000Z",
+      "headline": "U.S. stock futures flat as investors await Fed meeting &#x2014; and likely rate cut",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -14,112 +98,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-07T23:01:00.000Z",
-      "headline": "Your tax refund could be $1,000 bigger next year &#x2014; and even more if you make these money moves in time",
-      "url": "https://www.marketwatch.com/story/your-tax-refund-could-be-1-000-bigger-next-year-and-even-more-if-you-make-these-money-moves-in-time-98ae7448?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "These larger tax refunds would come at a time when many Americans are feeling cost-conscious and priced-out.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-07T20:40:00.000Z",
-      "headline": "The Fed&#x2019;s biggest decision this week could have nothing to do with interest rates",
-      "url": "https://www.marketwatch.com/story/the-feds-biggest-decision-this-week-could-have-nothing-to-do-with-interest-rates-48aea536?mod=mw_rss_topstories",
+      "ts": "2025-12-08T01:54:00.000Z",
+      "headline": "Trump says Netflix&#x2019;s huge deal for Warner Bros. &#x2018;could be a problem&#x2019;",
+      "url": "https://www.marketwatch.com/story/trump-says-netflixs-huge-deal-for-warner-bros-could-be-a-problem-7ac93e46?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Any hints of Fed plans for asset purchases could aid the rally in stocks and other risk assets more than a rate cut",
+      "summary_en": "Comments by President Donald Trump on Sunday raised an antitrust red flag over Netflix&#x2019;s $72 billion deal to acquire Warner Bros. Discovery.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-07T22:37:00.000Z",
-      "headline": "What does Netflix&#x2019;s offer to buy HBO Max mean for you?",
-      "url": "https://www.marketwatch.com/story/what-does-netflixs-offer-to-buy-hbo-max-mean-for-you-2b6ea098?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Subscribers of the two streaming giants may now be wondering what changes could come to their content and their monthly bills.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-07T21:20:00.000Z",
-      "headline": "&#x2018;I&#x2019;m desperately trying to do right by everyone&#x2019;: I&#x2019;m giving my son $250K and my daughter 50% of a property. Is that fair?",
-      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;My son had no financial input into that property.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-07T17:12:00.000Z",
-      "headline": "Our kids are grown. It&#x2019;s time to cancel our Chase Disney Visa. What&#x2019;s a good credit card for middle age?",
-      "url": "https://www.marketwatch.com/story/the-card-served-its-purpose-its-time-to-cancel-our-chase-disney-visa-credit-card-whats-our-next-card-for-middle-age-23314376?mod=mw_rss_topstories",
+      "ts": "2025-12-08T01:31:00.000Z",
+      "headline": "&#x2018;She&#x2019;s young enough to be his granddaughter&#x2019;: My dad, 85, is being seduced by his caregiver. What can I do?",
+      "url": "https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;The card served its purpose while our kids were young.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-07T17:00:00.000Z",
-      "headline": "The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas",
-      "url": "https://www.marketwatch.com/story/the-fed-meeting-this-week-will-determine-if-investors-get-new-all-time-highs-or-coal-for-christmas-8ddf2d3f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Markets are expecting the Federal Reserve to cut interst rates at it next meeting, but some traders predict volatility.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-07T16:24:00.000Z",
-      "headline": "My friend cosigned a loan for a BMW, but the driver defaulted. They&#x2019;re both on the hook for $5K. What happens now?",
-      "url": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The driver thinks he should be compensated $1,500 for the tires he&#x2019;s still paying for.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-07T14:00:00.000Z",
-      "headline": "Trump&#x2019;s $1 million &#x2018;gold card&#x2019; immigration program is close to launching. Here&#x2019;s what&#x2019;s ahead.",
-      "url": "https://www.marketwatch.com/story/trumps-1-million-gold-card-immigration-program-is-close-to-launching-heres-whats-ahead-dca9ddef?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;This program is not going to be as easy as the administration initially claimed,&#x201d; says one expert in immigration law.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-07T14:33:00.000Z",
-      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
-      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
+      "summary_en": "&#x201c;He is of sound mind, but he might succumb to someone who offers him companionship.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
