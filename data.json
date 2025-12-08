@@ -1,124 +1,124 @@
 {
-  "last_updated": "2025-12-08T10:48:53.894Z",
+  "last_updated": "2025-12-08T13:36:52.852Z",
   "items": [
     {
-      "ts": "2025-12-08T10:15:00.000Z",
-      "headline": "My mother is selling my late father&#x2019;s multimillion-dollar California real-estate portfolio &#x2014; must I stand idly by?",
-      "url": "https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories",
+      "ts": "2025-12-08T13:27:00.000Z",
+      "headline": "Why IBM plans to buy Confluent in its biggest deal since 2019",
+      "url": "https://www.marketwatch.com/story/why-ibm-plans-to-buy-confluent-in-its-biggest-deal-since-2019-33436a6a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My mom claims they&#x2019;re heavily mortgaged.&#x201d;",
+      "summary_en": "The technology giant announced its intent to acquire Confluent for $11 billion. It&#x2019;s a play on the data required for AI.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T10:15:00.000Z",
-      "headline": "My mother-in-law, 81, is guilting us to pay for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
-      "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
+      "ts": "2025-12-08T13:16:00.000Z",
+      "headline": "This week&#x2019;s Fed meeting will highlight the central bank&#x2019;s challenge: Preventing a recession while tackling inflation",
+      "url": "https://www.marketwatch.com/story/this-weeks-fed-meeting-will-highlight-the-central-banks-challenge-preventing-a-recession-while-tackling-inflation-8861a13c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Fed is widely expected to cut interest rates for the third meeting in a row when it meets this week.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-08T12:52:00.000Z",
+      "headline": "The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas",
+      "url": "https://www.marketwatch.com/story/the-fed-meeting-this-week-will-determine-if-investors-get-new-all-time-highs-or-coal-for-christmas-8ddf2d3f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I have my own trip to Europe planned for next year and I can&#x2019;t afford both trips.&#x201d;",
+      "summary_en": "Markets are expecting the Federal Reserve to cut interst rates at it next meeting, but some traders predict volatility.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T10:06:00.000Z",
-      "headline": "Taylor Swift and Travis Kelce have switched to this iconic Rhode Island resort for their wedding, report says",
-      "url": "https://www.marketwatch.com/story/taylor-swift-and-travis-kelce-have-switched-to-this-iconic-rhode-island-resort-for-their-wedding-report-says-7d98b251?mod=mw_rss_topstories",
+      "ts": "2025-12-08T12:39:00.000Z",
+      "headline": "A British tech company is going public &#x2014; in South Korea. The CEO explains why.",
+      "url": "https://www.marketwatch.com/story/a-british-tech-company-is-going-public-in-south-korea-the-ceo-explains-why-5bf0c593?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The resort has ample room for the couple and their many celebrity guests&#x2014;which may include&#xa0;Selena Gomez,&#xa0;Gigi Hadid&#xa0;and&#xa0;Patrick Mahomes.",
+      "summary_en": "A U.K. tech company ended up choosing the South Korean equivalent of the Nasdaq to list, the first time a British firm has done so.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T10:04:00.000Z",
-      "headline": "It&#x2019;s all in the price: Why Morgan Stanley&#x2019;s new Tesla analyst has downgraded the stock.",
-      "url": "https://www.marketwatch.com/story/its-all-in-the-price-why-morgan-stanleys-new-tesla-analyst-has-downgraded-the-stock-d1b451e8?mod=mw_rss_topstories",
+      "ts": "2025-12-08T11:42:00.000Z",
+      "headline": "Firm that called 2025 nearly perfectly &#x2014; until a moment of doubt &#x2014; now has highest S&P 500 target on Wall Street",
+      "url": "https://www.marketwatch.com/story/firm-that-called-2025-nearly-perfectly-until-a-moment-of-doubt-now-has-highest-s-p-500-target-on-wall-street-be6a3a08?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The next 12 months promise to be &#x201c;choppy&#x201d; for Tesla, according to MS analyst Percoco who advises seeking a better entry point to the stock.",
+      "summary_en": "Oppenheimer says the S&P 500 will push ahead in 2026, boosted by the economy and corporate profits that are likely to keep holding up.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T10:02:00.000Z",
-      "headline": "26 car brands ranked from most to least reliable by Consumer Reports, plus some valuable car-buying advice",
-      "url": "https://www.marketwatch.com/story/26-car-brands-ranked-from-most-to-least-reliable-by-consumer-reports-plus-some-valuable-car-buying-advice-1be5f425?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-08T13:15:00.000Z",
+      "headline": "How to beat inflation over the next year in one investing move",
+      "url": "https://www.marketwatch.com/story/how-to-beat-inflation-over-the-next-year-in-one-investing-move-2d51f3f7?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Toyota regained the top spot in Consumer Reports&#x2019; list of the most reliable car brands in 2025.",
+      "summary_en": "Short-term interest rates are too high. This sets up an opportunity in 1-year Treasury bills.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T10:11:00.000Z",
-      "headline": "&#x2018;I&#x2019;m desperately trying to do right by everyone&#x2019;: I&#x2019;m giving my son $250K and my daughter 50% of a rental we co-own. Is that fair?",
-      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories",
+      "ts": "2025-12-08T13:06:00.000Z",
+      "headline": "Bitcoin&#x2019;s November crash was no accident",
+      "url": "https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I am currently saving this money for him.&#x201d;",
+      "summary_en": "An always-on crypto-hype machine lives to goose prices and then blame &#x201c;macro&#x201d; when the selloff hits.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T10:01:00.000Z",
-      "headline": "On again, off again with their Hamptons home, Alec and Hilaria Baldwin relist the mansion for $21 million",
-      "url": "https://www.marketwatch.com/story/on-again-off-again-with-their-hamptons-home-alec-and-hilaria-baldwin-relist-the-mansion-for-21-million-f928cfbf?mod=mw_rss_topstories",
+      "ts": "2025-12-08T12:41:00.000Z",
+      "headline": "Trump likes Australia&#x2019;s retirement-savings program &#x2014; but could it actually work in the U.S.?",
+      "url": "https://www.marketwatch.com/story/trump-likes-australias-retirement-savings-program-but-could-it-actually-work-in-the-u-s-7d506bdb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Alec and Hilaria Baldwin have put their Amagansett, N.Y., home back on the market for a fourth time, mere months after revealing their desire to own it forever.",
+      "summary_en": "Could America&#x2019;s signature retirement-savings program look a lot like Australia&#x2019;s one day?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T04:04:00.000Z",
-      "headline": "U.S. stock futures flat as investors await Fed meeting &#x2014; and likely rate cut",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories",
+      "ts": "2025-12-08T12:38:00.000Z",
+      "headline": "Just weeks before Buffett retires, Berkshire makes a number of leadership changes",
+      "url": "https://www.marketwatch.com/story/just-weeks-before-buffett-retires-berkshire-makes-a-number-of-leadership-changes-ad01cf9a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "U.S. stock futures were little changed Sunday, as investors anticipated another interest-rate cut by the Federal Reserve later this week.",
+      "summary_en": "Berkshire Hathaway preps for Warren Buffett&#x2019;s retirement with a number of leadership changes, involving some longtime company veterans.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T01:54:00.000Z",
-      "headline": "Trump says Netflix&#x2019;s huge deal for Warner Bros. &#x2018;could be a problem&#x2019;",
-      "url": "https://www.marketwatch.com/story/trump-says-netflixs-huge-deal-for-warner-bros-could-be-a-problem-7ac93e46?mod=mw_rss_topstories",
+      "ts": "2025-12-08T12:07:00.000Z",
+      "headline": "Goldman Sachs is pinning hopes on these consumers in 2026. Here are the stock picks.",
+      "url": "https://www.marketwatch.com/story/goldman-sachs-is-pinning-hopes-on-these-consumers-in-2026-here-are-the-stock-picks-360c7cef?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Comments by President Donald Trump on Sunday raised an antitrust red flag over Netflix&#x2019;s $72 billion deal to acquire Warner Bros. Discovery.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T01:31:00.000Z",
-      "headline": "&#x2018;She&#x2019;s young enough to be his granddaughter&#x2019;: My dad, 85, is being seduced by his caregiver. What can I do?",
-      "url": "https://www.marketwatch.com/story/shes-young-enough-to-be-his-granddaughter-my-dad-85-is-being-seduced-by-his-caregiver-what-can-i-do-939fbec1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He is of sound mind, but he might succumb to someone who offers him companionship.&#x201d;",
+      "summary_en": "Rising revenues in 2026 should help out the middle consumer and boost stocks catering to them, says Goldman Sachs.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
