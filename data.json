@@ -1,81 +1,104 @@
 {
-  "last_updated": "2025-12-09T13:38:06.185Z",
+  "last_updated": "2025-12-09T23:29:02.337Z",
   "items": [
     {
-      "ts": "2025-12-09T12:50:00.000Z",
-      "headline": "If you only own Nvidia stock, you&#x2019;re missing the real money in chips",
-      "url": "https://www.marketwatch.com/story/if-you-only-own-nvidia-stock-youre-missing-the-real-money-in-chips-f15e892d?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Ultrapure water is scarce and Big Tech needs enormous amounts of it for AI and semiconductors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-09T13:30:00.000Z",
-      "headline": "Why the record rally for small-cap stocks could run into a big problem in 2026",
-      "url": "https://www.marketwatch.com/story/why-the-record-rally-for-small-cap-stocks-could-run-into-a-big-problem-in-2026-f7954bc6?mod=mw_rss_topstories",
+      "ts": "2025-12-09T23:14:00.000Z",
+      "headline": "Standard Chartered is finally slashing its bitcoin price target by half. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Rising Treasury yields could be an roadblock for small caps, but fundamentals finally have started to improve, says one money manager.",
+      "summary_en": "As bitcoin climbed on Tuesday, Standard Chartered said it now expects the crypto to end the year higher at $100,000. However, that marks a sharp revision down from its previous year-end target of $200,000.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-09T13:20:00.000Z",
-      "headline": "AI stocks are flashing &#x2018;Code Red&#x2019; &#x2014; insiders at these familiar companies are seeing green",
+      "ts": "2025-12-09T22:56:00.000Z",
+      "headline": "Cracker Barrel backtracked on a remodel and logo change. Did that help the company?",
+      "url": "https://www.marketwatch.com/story/cracker-barrel-backtracked-on-a-remodel-and-logo-change-did-that-help-the-company-7a42140d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Cracker Barrel faced a social-media backlash. It now faces &#x201c;unique and ongoing headwinds&#x201d; in its business.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T22:22:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a perilous choice&#x2019;: I&#x2019;ve been offered a part-time job. Do I file for Social Security at 67 or 70?",
+      "url": "https://www.marketwatch.com/story/its-a-perilous-choice-ive-been-offered-a-part-time-job-do-i-file-for-social-security-at-67-or-70-8e1ae6d3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My income will be reduced to less than one-fifth of my current annual salary.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T21:55:00.000Z",
+      "headline": "The maid of honor approved my bridesmaid dress months ago. Now she says it&#x2019;s &#x2018;too bright.&#x2019; Do I have to buy a new one?",
+      "url": "https://www.marketwatch.com/story/the-maid-of-honor-approved-my-bridesmaids-dress-but-now-wants-me-to-buy-a-new-one-what-should-i-do-a36eea34?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Finding a dress that fits me and looks half decent is always a challenge, and I usually end up spending around $200 or more per gown.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T21:02:00.000Z",
+      "headline": "Can Adobe&#x2019;s &#x2018;incredibly frustrating stock&#x2019; turn around after earnings? Wall Street is doubtful.",
+      "url": "https://www.marketwatch.com/story/can-adobes-incredibly-frustrating-stock-turn-around-after-earnings-wall-street-is-doubtful-ce0db7eb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Adobe&#x2019;s stock is cheap and the company is better monetizing AI. But analysts think defeating negative investor sentiment could take some time.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T20:59:00.000Z",
+      "headline": "Move over, AI &#x2014; these brand-name stocks promise more bang for your buck",
       "url": "https://www.marketwatch.com/story/ai-stocks-are-flashing-code-red-insiders-at-these-familiar-companies-are-seeing-green-834fa86f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The end of the AI boom has begun, and these consumer-focused stocks are playing to win.",
+      "summary_en": "Insiders at these consumer-focused companies are seeing opportunities.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-09T13:01:00.000Z",
-      "headline": "Why Trump&#x2019;s new $12 billion farm aid package is just a Band-Aid for struggling soybean growers",
-      "url": "https://www.marketwatch.com/story/why-trumps-new-12-billion-farm-aid-package-is-just-a-band-aid-for-struggling-soybean-growers-708e83e1?mod=mw_rss_topstories",
+      "ts": "2025-12-09T21:47:00.000Z",
+      "headline": "GameStop&#x2019;s bitcoin holdings &#x2014; and sales &#x2014; slide",
+      "url": "https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "The Trump administration&#x2019;s $12 billion aid package may be too little, too late for American farmers &#x2014; particularly soybean producers suffering from the effects of a U.S.-instigated global trade war.",
+      "summary_en": "Sales at the videogame retailer drop more than 4%.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-09T12:52:00.000Z",
-      "headline": "My mother-in-law, 81, is guilting us into paying for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
-      "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
+      "ts": "2025-12-09T21:00:00.000Z",
+      "headline": "&#x2018;I love my work&#x2019;: I&#x2019;m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
+      "url": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I have my own trip to Europe planned for next year and I can&#x2019;t afford both trips.&#x201d;",
+      "summary_en": "&#x201c;I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-09T12:30:00.000Z",
-      "headline": "Oracle is the canary in the coal mine for Big Tech&#x2019;s debt-fueled AI spending spree",
-      "url": "https://www.marketwatch.com/story/oracle-is-the-canary-in-the-coal-mine-for-big-techs-debt-fueled-ai-spending-spree-cdde5eac?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Look at Oracle if you want to assess the sustainability of the AI investment boom: Its credit default swaps are emerging as a way to &#x201c;hedge the entire debt cycle within AI.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-09T13:30:00.000Z",
+      "ts": "2025-12-09T20:33:00.000Z",
       "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
       "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -87,39 +110,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-09T13:00:00.000Z",
-      "headline": "We&#x2019;re in our 70s and childless. Who will take care of us and our fortune when we&#x2019;re old?",
-      "url": "https://www.marketwatch.com/story/were-in-our-70s-and-childless-who-will-take-care-of-us-and-our-fortune-when-were-old-fba4c8e2?mod=mw_rss_topstories",
+      "ts": "2025-12-09T20:22:00.000Z",
+      "headline": "&#x2018;I&#x2019;m desperately trying to do right by everyone&#x2019;: I&#x2019;m giving my son $250K and my daughter 50% of a rental we co-own. Is that fair?",
+      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A care plan for solo agers is about more than just filling in names on forms",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-09T12:40:00.000Z",
-      "headline": "These are the curveballs that could surprise investors, says Deutsche Bank",
-      "url": "https://www.marketwatch.com/story/these-are-the-curveballs-that-could-surprise-investors-in-2026-876f4208?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A Deutsche Bank report identifies left-field events, both positive and negative, for the next year",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-09T12:26:00.000Z",
-      "headline": "Berkshire has problems brewing after Buffett leaves, but losing stock picker Todd Combs isn&#x2019;t one of them",
-      "url": "https://www.marketwatch.com/story/berkshire-has-problems-brewing-after-buffett-leaves-but-losing-stock-picker-todd-combs-isnt-one-of-them-e9e3be9e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "For starters, working for Greg Abel may not have the same ring to it as working for the &#x201c;Oracle of Omaha.&#x201d;",
+      "summary_en": "&#x201c;I am currently saving this money for him.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
