@@ -1,32 +1,83 @@
 {
-  "last_updated": "2025-12-08T23:28:48.463Z",
+  "last_updated": "2025-12-09T10:48:51.871Z",
   "items": [
     {
-      "ts": "2025-12-08T23:25:00.000Z",
-      "headline": "Strategist who said passive investing is &#x2018;worse than Marxism&#x2019; says AI plays are only making the problem worse",
-      "url": "https://www.marketwatch.com/story/strategist-who-said-passive-investing-is-worse-than-marxism-says-ai-plays-are-only-making-the-problem-worse-492c7fd4?mod=mw_rss_topstories",
+      "ts": "2025-12-09T10:00:00.000Z",
+      "headline": "European Commission opens another antitrust investigation into Google. This time it&#x2019;s AI.",
+      "url": "https://www.marketwatch.com/story/european-commission-opens-another-antitrust-investigation-into-google-this-time-its-ai-89f696ac?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "GOOGL",
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Google has been accused of anti-competitive practices in its AI conduct. Last time it cost $3bn",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T10:14:00.000Z",
+      "headline": "The U.S. announced charges for smuggling old Nvidia chips to China only hours before Trump gave the green light",
+      "url": "https://www.marketwatch.com/story/the-u-s-announced-charges-for-smuggling-old-nvidia-chips-to-china-only-hours-before-trump-gave-the-green-light-ad807bfc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A Wall Street strategist who made a splash a decade ago with a report arguing that the rise of passive investing was &#x201c;worse than Marxism&#x201d; has said the problem is even bigger than he initially realized.",
+      "summary_en": "The U.S. announced charges for smuggling old Nvidia chips to China only hours before Trump gave the green light",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T23:22:00.000Z",
-      "headline": "&#x2018;It&#x2019;s a perilous choice&#x2019;: I&#x2019;ve been offered a part-time job. Do I file for Social Security at 67 or 70?",
-      "url": "https://www.marketwatch.com/story/its-a-perilous-choice-ive-been-offered-a-part-time-job-do-i-file-for-social-security-at-67-or-70-8e1ae6d3?mod=mw_rss_topstories",
+      "ts": "2025-12-09T10:02:00.000Z",
+      "headline": "Billy Joel just sold his Manhattan condo to his daughter for $4.5 million",
+      "url": "https://www.marketwatch.com/story/billy-joel-just-sold-his-manhattan-condo-to-his-daughter-for-4-5-million-069401fb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My income will be reduced to less than one-fifth of my current annual salary.&#x201d;",
+      "summary_en": "Transferring the property into his daughter&#x2019;s name was a formality for the most part, as it has been reported that Alexa has been living in the dwelling since 2010.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T23:12:00.000Z",
+      "ts": "2025-12-09T10:00:00.000Z",
+      "headline": "Diane Keaton&#x2019;s L.A. home is back on the market for $27 million, 2 months after her death",
+      "url": "https://www.marketwatch.com/story/diane-keatons-l-a-home-is-back-on-the-market-for-27-million-2-months-after-her-death-c3b73314?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "One of the last homes that&#xa0;Hollywood legend&#xa0;Diane Keaton&#xa0;renovated before her death&#xa0;has been put back on the market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T03:10:00.000Z",
+      "headline": "Elon Musk suggests this underrated AI business could be a big driver of SpaceX&#x2019;s valuation",
+      "url": "https://www.marketwatch.com/story/musk-suggests-this-underrated-ai-business-could-be-a-big-driver-of-spacexs-valuation-059c189f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "With SpaceX&#x2019;s valuation expected to skyrocket, its CEO largely credits satellites, rocket launches &#x2014;&#xa0;and the company&#x2019;s plan to solve a major AI-industry problem.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T02:08:00.000Z",
+      "headline": "Your estate plan needs to be absolutely airtight. Here&#x2019;s how to avoid mistakes.",
+      "url": "https://www.marketwatch.com/story/how-to-stress-test-your-estate-plan-to-make-sure-its-airtight-e114c0a7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "If you don&#x2019;t understand something in a document, don&#x2019;t sign it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T01:18:00.000Z",
       "headline": "Nvidia&#x2019;s stock rises as Trump blesses China sales. Here&#x2019;s how big the opportunity could be.",
       "url": "https://www.marketwatch.com/story/nvidias-stock-rises-as-trump-blesses-china-sales-heres-how-big-the-opportunity-could-be-6a9dabc4?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,80 +89,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-08T23:04:00.000Z",
-      "headline": "This financial company was just added to the S&P 500, and its stock is surging",
-      "url": "https://www.marketwatch.com/story/this-financial-company-was-just-added-to-the-s-p-500-and-its-stock-is-surging-db3d7dd3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Ares is getting the nod over Strategy as the index looks to replace Kellanova.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T22:17:00.000Z",
-      "headline": "Why Trump&#x2019;s new $12 billion farm aid package is just a Band-Aid for struggling soybean growers",
-      "url": "https://www.marketwatch.com/story/why-trumps-new-12-billion-farm-aid-package-is-just-a-band-aid-for-struggling-soybean-growers-708e83e1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Trump administration&#x2019;s $12 billion aid package may be too little, too late for American farmers &#x2014; particularly soybean producers suffering from the effects of a U.S.-instigated global trade war.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T22:11:00.000Z",
-      "headline": "Odell Beckham Jr. says a $100 million NFL contract won&#x2019;t last a lifetime. Here&#x2019;s what other athletes think.",
-      "url": "https://www.marketwatch.com/story/odell-beckham-jr-says-a-100-million-nfl-contract-wont-last-a-lifetime-heres-what-other-athletes-think-e5f245ff?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The former NFL star has stirred up conversation around how quickly a professional athlete can spend a $100 million &#x2014; or what&#x2019;s left of that sum after several key expenses",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T21:43:00.000Z",
-      "headline": "You&#x2019;ve just won the $875 million Powerball jackpot. Here are the 5 money moves you need to make next.",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "But even if you&#x2019;re not a big lottery winner in tonight&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T21:40:00.000Z",
-      "headline": "Mortgage rates are surging ahead of the Fed&#x2019;s expected rate cut. What gives?",
-      "url": "https://www.marketwatch.com/story/mortgage-rates-are-surging-ahead-of-the-feds-expected-rate-cut-what-gives-cbb630ea?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Mortgage rates are rising sharply even though the Federal Reserve is expected to cut interest rates later this week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T22:30:00.000Z",
-      "headline": "&#x2018;He almost has to keep buying&#x2019;: Why Michael Saylor&#x2019;s Strategy is doubling down on bitcoin.",
-      "url": "https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Michael Saylor&#x2019;s bitcoin treasury company Strategy on Monday said it bought another roughly $1 billion of bitcoin last week, its biggest single-time purchase since July.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-08T22:07:00.000Z",
+      "ts": "2025-12-09T02:16:00.000Z",
       "headline": "Bitcoin&#x2019;s November crash was no accident",
       "url": "https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -120,6 +98,18 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "An always-on crypto-hype machine lives to goose prices and then blame &#x201c;macro&#x201d; when the selloff hits.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T01:59:00.000Z",
+      "headline": "Investors&#x2019; bearishness is often overdone &#x2014; but their market bubble fears may be spot-on",
+      "url": "https://www.marketwatch.com/story/investors-bearishness-is-often-overdone-but-their-bubble-fears-may-be-spot-on-1bb9f876?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There was widespread concern about dot-com stocks and the housing market before those crashes.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -168,6 +158,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-09T01:48:00.000Z",
+      "headline": "Why I&#x2019;m moving my money out of U.S. stocks &#x2014; just like Warren Buffett",
+      "url": "https://www.marketwatch.com/story/why-im-moving-my-money-out-of-u-s-stocks-just-like-warren-buffett-5a1b0ad8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "You&#x2019;d have made a lot more this year investing in non-U.S. stock markets. These ETFs are worth considering now.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
