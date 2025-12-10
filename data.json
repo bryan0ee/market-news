@@ -1,57 +1,22 @@
 {
-  "last_updated": "2025-12-10T13:39:32.147Z",
+  "last_updated": "2025-12-10T23:27:43.577Z",
   "items": [
     {
-      "ts": "2025-12-10T13:35:00.000Z",
-      "headline": "&#x2018;It&#x2019;s a perilous choice&#x2019;: I&#x2019;ve been offered a part-time job. Do I file for Social Security at 67 or 70?",
-      "url": "https://www.marketwatch.com/story/its-a-perilous-choice-ive-been-offered-a-part-time-job-do-i-file-for-social-security-at-67-or-70-8e1ae6d3?mod=mw_rss_topstories",
+      "ts": "2025-12-10T23:23:00.000Z",
+      "headline": "This longer-term mortgage won&#x2019;t make housing affordable &#x2014; and could wreck your retirement",
+      "url": "https://www.marketwatch.com/story/a-50-year-mortgage-wont-make-housing-cheaper-and-could-even-wreck-your-retirement-c4982756?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;My income will be reduced to less than one-fifth of my current annual salary.&#x201d;",
+      "summary_en": "A 50-year mortgage is a poor solution to America&#x2019;s housing crisis. What&#x2019;s needed are more homes.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T13:24:00.000Z",
-      "headline": "What happens when your insurer owns your doctor &#x2014; and why that&#x2019;s a problem",
-      "url": "https://www.marketwatch.com/story/what-happens-when-your-insurer-owns-your-doctor-and-why-thats-a-problem-495ebd77?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Health insurers increasingly employ the doctors who provide the medical care they pay for, creating a conflict of interest.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T13:15:00.000Z",
-      "headline": "Here&#x2019;s a much better way to make money investing in dividend stocks",
-      "url": "https://www.marketwatch.com/story/heres-a-much-better-way-to-make-money-investing-in-dividend-stocks-c5718893?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Popular &#x2018;Dogs of the Dow&#x2019; strategy has been muzzled &#x2014; check out the &#x2018;Timely Ten.&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T13:13:00.000Z",
-      "headline": "Industrials stocks have been red-hot this year &#x2014; mostly. One analyst explains which stocks to buy and which to avoid.",
-      "url": "https://www.marketwatch.com/story/industrials-stocks-have-been-red-hot-this-year-mostly-one-analyst-explains-which-stocks-to-buy-and-which-to-avoid-47036662?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Nigel Coe of Wolfe Research says industrials have been a hot sector this year, but it&#x2019;s a stock pickers market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T13:05:00.000Z",
-      "headline": "There&#x2019;s a growing healthcare crisis in the U.S. &#x2014; and it&#x2019;s sitting in your medicine cabinet",
+      "ts": "2025-12-10T23:18:00.000Z",
+      "headline": "Americans are facing a growing healthcare crisis &#x2014; and your medicines are at risk",
       "url": "https://www.marketwatch.com/story/theres-a-growing-healthcare-crisis-in-the-u-s-and-its-sitting-in-your-medicine-cabinet-cd5c9596?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -63,7 +28,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T13:00:00.000Z",
+      "ts": "2025-12-10T23:14:00.000Z",
       "headline": "My mother-in-law, 81, is guilting us into paying for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
       "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -75,20 +40,80 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T12:46:00.000Z",
-      "headline": "Why Schwab expects a &#x2018;vibepression&#x2019; from sticky inflation and a sector rotation next year",
-      "url": "https://www.marketwatch.com/story/why-schwab-expects-a-vibepression-from-sticky-inflation-and-a-sector-rotation-next-year-794c457f?mod=mw_rss_topstories",
+      "ts": "2025-12-10T22:56:00.000Z",
+      "headline": "Oracle&#x2019;s mixed earnings fail to dispel AI fears, and the stock falls",
+      "url": "https://www.marketwatch.com/story/oracles-mixed-earnings-fail-to-dispel-ai-fears-and-the-stock-falls-5533a383?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Stubborn inflation, K-shaped consumption and sectoral rotation will be among the dominant features of 2026",
+      "summary_en": "While the company beat EPS estimates and increased its AI deal pipeline, concerns over its financing strategy remain.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T13:18:00.000Z",
-      "headline": "GE Vernova is riding the electrification wave, and the stock soars to a record",
+      "ts": "2025-12-10T22:21:00.000Z",
+      "headline": "Carvana&#x2019;s stock zooms to record, longest winning run as S&P 500 inclusion is within sight",
+      "url": "https://www.marketwatch.com/story/carvanas-stock-zooms-to-longest-winning-run-on-record-as-s-p-500-inclusion-is-within-sight-1b678f9a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The online used-car retailer&#x2019;s stock has gained nearly 50% over a 12-day winning streak, and is aiming for an all-time high.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T22:06:00.000Z",
+      "headline": "The Fed cut rates. Biotech didn&#x2019;t notice.",
+      "url": "https://www.marketwatch.com/story/the-fed-cut-rates-biotech-didnt-notice-c80d6353?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Biotechs are instead spending their time advancing the kind of smart science that will catch the eye of cash-rich pharmaceutical companies.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T21:52:00.000Z",
+      "headline": "Dow gains almost 500 points, S&P 500 ends shy of record high after Fed&#x2019;s final rate cut of 2025 bolsters case for early start to &#x2018;Santa Claus rally&#x2019;",
+      "url": "https://www.marketwatch.com/story/dow-gains-almost-500-points-s-p-500-ends-shy-of-record-high-after-feds-final-rate-cut-of-2025-bolsters-case-for-early-start-to-santa-claus-rally-53c15858?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The S&P 500 index narrowly missed a fresh record close Wednesday and the Dow Jones Industrial Average finished with strong gains after the Federal Reserve&#x2019;s decision to deliver a final quarter-point rate cut for 2025, which gave investors optimism that equities can keep climbing through year-end.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T22:36:00.000Z",
+      "headline": "Adobe&#x2019;s AI-driven earnings beat is not enough to boost the stock",
+      "url": "https://www.marketwatch.com/story/adobes-ai-driven-earnings-beat-is-not-enough-to-boost-the-stock-3031b9ff?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The software company said its record fiscal 2025 results reflect global attention and use of its AI tools",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T23:14:00.000Z",
+      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
+      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T21:54:00.000Z",
+      "headline": "GE Vernova is riding the electrification wave, and the stock sees a record rally",
       "url": "https://www.marketwatch.com/story/ge-vernova-is-riding-the-electrification-wave-and-the-stock-soars-to-a-record-2566262a?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
@@ -99,27 +124,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T13:35:00.000Z",
-      "headline": "Tesla&#x2019;s stock has an AI halo. Can Rivian&#x2019;s get the same treatment?",
-      "url": "https://www.marketwatch.com/story/teslas-stock-has-an-ai-halo-can-rivians-get-the-same-treatment-d98f520e?mod=mw_rss_topstories",
+      "ts": "2025-12-10T19:00:00.000Z",
+      "headline": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Rivian could show off new self-driving technology at its Autonomy and AI Day on Thursday.",
+      "summary_en": "Federal Reserve issues FOMC statement",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T12:50:00.000Z",
-      "headline": "A 50-year mortgage won&#x2019;t make housing cheaper &#x2014; and could even wreck your retirement",
-      "url": "https://www.marketwatch.com/story/a-50-year-mortgage-wont-make-housing-cheaper-and-could-even-wreck-your-retirement-c4982756?mod=mw_rss_topstories",
+      "ts": "2025-12-10T19:00:00.000Z",
+      "headline": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210b.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Lower payments boosts demand &#x2014; but less inventory gives sellers the advantage and lands buyers deeper in debt.",
+      "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -156,18 +181,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-03T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251203a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
