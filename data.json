@@ -1,88 +1,125 @@
 {
-  "last_updated": "2025-12-10T10:50:17.746Z",
+  "last_updated": "2025-12-10T13:39:32.147Z",
   "items": [
     {
-      "ts": "2025-12-10T10:29:00.000Z",
-      "headline": "Options positions and strategies suggest selling could intensity if S&P 500 falls toward 6,500 next week",
-      "url": "https://www.marketwatch.com/story/options-positions-and-strategies-suggest-selling-could-intensity-if-s-p-500-falls-toward-6-500-next-week-f2ec8b60?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-12-10T13:35:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a perilous choice&#x2019;: I&#x2019;ve been offered a part-time job. Do I file for Social Security at 67 or 70?",
+      "url": "https://www.marketwatch.com/story/its-a-perilous-choice-ive-been-offered-a-part-time-job-do-i-file-for-social-security-at-67-or-70-8e1ae6d3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My income will be reduced to less than one-fifth of my current annual salary.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T13:24:00.000Z",
+      "headline": "What happens when your insurer owns your doctor &#x2014; and why that&#x2019;s a problem",
+      "url": "https://www.marketwatch.com/story/what-happens-when-your-insurer-owns-your-doctor-and-why-thats-a-problem-495ebd77?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Health insurers increasingly employ the doctors who provide the medical care they pay for, creating a conflict of interest.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T13:15:00.000Z",
+      "headline": "Here&#x2019;s a much better way to make money investing in dividend stocks",
+      "url": "https://www.marketwatch.com/story/heres-a-much-better-way-to-make-money-investing-in-dividend-stocks-c5718893?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Popular &#x2018;Dogs of the Dow&#x2019; strategy has been muzzled &#x2014; check out the &#x2018;Timely Ten.&#x2019;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T13:13:00.000Z",
+      "headline": "Industrials stocks have been red-hot this year &#x2014; mostly. One analyst explains which stocks to buy and which to avoid.",
+      "url": "https://www.marketwatch.com/story/industrials-stocks-have-been-red-hot-this-year-mostly-one-analyst-explains-which-stocks-to-buy-and-which-to-avoid-47036662?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Nigel Coe of Wolfe Research says industrials have been a hot sector this year, but it&#x2019;s a stock pickers market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T13:05:00.000Z",
+      "headline": "There&#x2019;s a growing healthcare crisis in the U.S. &#x2014; and it&#x2019;s sitting in your medicine cabinet",
+      "url": "https://www.marketwatch.com/story/theres-a-growing-healthcare-crisis-in-the-u-s-and-its-sitting-in-your-medicine-cabinet-cd5c9596?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "To guarantee Americans the medication they need, the U.S. must stop relying on China and India.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T13:00:00.000Z",
+      "headline": "My mother-in-law, 81, is guilting us into paying for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
+      "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have my own trip to Europe planned for next year and I can&#x2019;t afford both trips.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-10T12:46:00.000Z",
+      "headline": "Why Schwab expects a &#x2018;vibepression&#x2019; from sticky inflation and a sector rotation next year",
+      "url": "https://www.marketwatch.com/story/why-schwab-expects-a-vibepression-from-sticky-inflation-and-a-sector-rotation-next-year-794c457f?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Momentum trading strategies tend to amplify market moves into option expiry and UBS warns if the market has a 5% downtick, delta hedging could exaggerate that and make it much worse.",
+      "summary_en": "Stubborn inflation, K-shaped consumption and sectoral rotation will be among the dominant features of 2026",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T10:03:00.000Z",
-      "headline": "&#x2018;Full House&#x2019; star Dave Coulier on building his Frank Lloyd Wright-inspired lake house while battling cancer",
-      "url": "https://www.marketwatch.com/story/full-house-star-dave-coulier-on-building-his-frank-lloyd-wright-inspired-lake-house-while-battling-cancer-de217ee7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-10T13:18:00.000Z",
+      "headline": "GE Vernova is riding the electrification wave, and the stock soars to a record",
+      "url": "https://www.marketwatch.com/story/ge-vernova-is-riding-the-electrification-wave-and-the-stock-soars-to-a-record-2566262a?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Even as he battles a new cancer diagnosis, Coulier and his wife are taking refuge in Michigan where they are building a custom lake house inspired by famed architect Frank Lloyd Wright.",
+      "summary_en": "GE Vernova&#x2019;s stock soars into record territory after the electrification company boosts its long-term outlook for financial returns and plans to return more cash to shareholders.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T09:43:00.000Z",
-      "headline": "Aegon to become Transamerica and relocate to the U.S. The stock dives.",
-      "url": "https://www.marketwatch.com/story/aegon-to-become-transamerica-and-relocate-to-the-u-s-the-stock-dives-391431bd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The insurer Aegon on Wednesday it&#x2019;s relocating its headquarters from the Netherlands to the U.S. and renaming itself Transamerica, as part of its ambition to become a leading U.S. life insurance and retirement company.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T10:15:00.000Z",
-      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
-      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
+      "ts": "2025-12-10T13:35:00.000Z",
+      "headline": "Tesla&#x2019;s stock has an AI halo. Can Rivian&#x2019;s get the same treatment?",
+      "url": "https://www.marketwatch.com/story/teslas-stock-has-an-ai-halo-can-rivians-get-the-same-treatment-d98f520e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
+      "summary_en": "Rivian could show off new self-driving technology at its Autonomy and AI Day on Thursday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T02:01:00.000Z",
-      "headline": "Why the record rally for small-cap stocks could run into a big problem in 2026",
-      "url": "https://www.marketwatch.com/story/why-the-record-rally-for-small-cap-stocks-could-run-into-a-big-problem-in-2026-f7954bc6?mod=mw_rss_topstories",
+      "ts": "2025-12-10T12:50:00.000Z",
+      "headline": "A 50-year mortgage won&#x2019;t make housing cheaper &#x2014; and could even wreck your retirement",
+      "url": "https://www.marketwatch.com/story/a-50-year-mortgage-wont-make-housing-cheaper-and-could-even-wreck-your-retirement-c4982756?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Rising Treasury yields could be an roadblock for small caps, but fundamentals finally have started to improve, says one money manager.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T00:37:00.000Z",
-      "headline": "CVS&#x2019;s stock rallies as health giant signals stronger-than-expected results in 2025",
-      "url": "https://www.marketwatch.com/story/cvs-health-updated-its-2025-guidance-again-and-the-stock-is-rallying-52c73dde?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "CVS Health&#x2019;s stock rose more than 2% on Tuesday after the company boosted its revenue and profit guidance for the year and detailed its full-year expectations for 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T01:10:00.000Z",
-      "headline": "Cracker Barrel backtracked on a remodel and logo change. Did that help the company?",
-      "url": "https://www.marketwatch.com/story/cracker-barrel-backtracked-on-a-remodel-and-logo-change-did-that-help-the-company-7a42140d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Cracker Barrel faced a social-media backlash. It now faces &#x201c;unique and ongoing headwinds&#x201d; in its business.",
+      "summary_en": "Lower payments boosts demand &#x2014; but less inventory gives sellers the advantage and lands buyers deeper in debt.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,42 +168,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T00:34:00.000Z",
-      "headline": "Why Nvidia&#x2019;s stock is now shrugging off Trump&#x2019;s approval of chip sales to China",
-      "url": "https://www.marketwatch.com/story/why-nvidias-stock-is-now-shrugging-off-trumps-approval-of-chip-sales-to-china-5af14754?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Some analysts see ample opportunity now that the U.S. plans to allow chip sales to China again, but others worry about further geopolitical roadblocks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T01:04:00.000Z",
-      "headline": "The real money in AI chips is in these stocks &#x2014; and you&#x2019;ve probably never heard of them",
-      "url": "https://www.marketwatch.com/story/if-you-only-own-nvidia-stock-youre-missing-the-real-money-in-chips-f15e892d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Ultrapure water is scarce &#x2014; and Big Tech has to have it for AI and semiconductors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T00:13:00.000Z",
-      "headline": "&#x2018;I&#x2019;m desperately trying to do right by everyone&#x2019;: I&#x2019;m giving my son $250K and my daughter 50% of a rental we co-own. Is that fair?",
-      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am currently saving this money for him.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
