@@ -1,105 +1,118 @@
 {
-  "last_updated": "2025-12-11T13:41:42.192Z",
+  "last_updated": "2025-12-11T23:29:05.488Z",
   "items": [
     {
-      "ts": "2025-12-11T12:55:00.000Z",
-      "headline": "Eli Lilly&#x2019;s newest weight-loss drug relieved pain in patients with knee osteoarthritis",
-      "url": "https://www.marketwatch.com/story/eli-lillys-newest-weight-loss-drug-relieved-pain-in-patients-with-knee-osteoarthritis-b7a6bcd2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-11T22:59:00.000Z",
+      "headline": "OpenAI strikes back in the chatbot race against Google",
+      "url": "https://www.marketwatch.com/story/openai-strikes-back-in-the-chatbot-race-against-google-1551d759?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
-        "NEE",
+        "GOOGL",
         "ED"
       ],
-      "summary_en": "Eli Lilly&#x2019;s &#x201c;triple g&#x201d; drug helped patients lose about 28.7% of their body weight while also reducing pain associated with knee osteoarthritis in a Phase 3 trial.",
+      "summary_en": "The new version of ChatGPT, based on GPT-5.2, shows &#x201c;OpenAI is back on top of the benchmarks.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T12:45:00.000Z",
-      "headline": "NFL quarterback Philip Rivers couldn&#x2019;t stay retired. Here&#x2019;s why millions of other Americans can&#x2019;t either.",
-      "url": "https://www.marketwatch.com/story/nfl-quarterback-philip-rivers-couldnt-stay-retired-heres-why-millions-of-other-americans-cant-either-c7ae6c8e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-11T22:16:00.000Z",
+      "headline": "Investors fear Time just jinxed the AI stock-market rally with its 2025 Person of the Year",
+      "url": "https://www.marketwatch.com/story/investors-fear-time-just-jinxed-the-ai-stock-market-rally-with-its-2025-person-of-the-year-fa37211b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Philip Rivers&#x2019;s unretirement, at age 44, probably feels familiar to the growing number of retirees &#x2014; including FIRE members &#x2014; who return to work. And it&#x2019;s often not about money.",
+      "summary_en": "Will the so-called &#x2018;magazine-cover curse&#x2019; strike again?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T12:41:00.000Z",
-      "headline": "The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street&#x2019;s most accurate forecasters, Tom Lee",
-      "url": "https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-11T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211b.htm",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "A wall of worry headed into 2026 won&#x2019;t stop stocks from logging more gains, says Fundstrat&#x2019;s Tom Lee.",
+      "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T10:45:00.000Z",
-      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
-      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-11T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
+      "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T10:15:00.000Z",
-      "headline": "My Taiwanese immigrant friend worked in Walmart for minimum wage and retired at 87 with $2 million. What was her secret?",
-      "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She owns two houses and lives with a disabled son.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T10:01:00.000Z",
-      "headline": "Investor who bought former Kanye West home in Malibu threatened with foreclosure",
-      "url": "https://www.marketwatch.com/story/investor-who-bought-former-kanye-west-home-in-malibu-threatened-with-foreclosure-df0dfd09?mod=mw_rss_topstories",
+      "ts": "2025-12-11T22:57:00.000Z",
+      "headline": "Why Michigan&#x2019;s Sherrone Moore probably won&#x2019;t get paid the millions left on his contract &#x2014; unlike other recently fired college football coaches",
+      "url": "https://www.marketwatch.com/story/why-michigans-sherrone-moore-probably-wont-get-paid-the-millions-left-on-his-contract-unlike-other-recently-fired-college-football-coaches-c7c77927?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Malibu beach house is being turned into a unique members-only investment opportunity after the latest owner was threatened with foreclosure, having defaulted on his $18.5 million mortgage.",
+      "summary_en": "Moore is the latest example of college football coaches getting fired with millions of dollars owed to them. Here&#x2019;s why his situation may be different.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T09:44:00.000Z",
-      "headline": "Gundlach keeps finding 1995 parallels as Fed finally catches up to 2-year Treasury",
-      "url": "https://www.marketwatch.com/story/gundlach-keeps-finding-1995-parallels-as-fed-finally-catches-up-to-2-year-treasury-087157b8?mod=mw_rss_topstories",
+      "ts": "2025-12-11T22:42:00.000Z",
+      "headline": "Mortgage rates have fallen under Trump. Here&#x2019;s what that really means for home buyers.",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-have-fallen-under-trump-heres-what-that-really-means-for-home-buyers-6473ccfd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Gundlach keeps finding 1995 parallels as Fed finally catches up to 2-year Treasury",
+      "summary_en": "Interest rate cuts can&#x2019;t fix America&#x2019;s &#x201c;structural housing shortage,&#x201d; Fed chair Jerome Powell said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T11:36:00.000Z",
-      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
-      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
+      "ts": "2025-12-11T22:34:00.000Z",
+      "headline": "Costco&#x2019;s profits are rising. But what about its sales?",
+      "url": "https://www.marketwatch.com/story/costcos-profits-are-rising-but-what-about-its-sales-22825e07?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED",
+        "COST"
       ],
-      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
+      "summary_en": "Costco shows investors a mixed financial snapshot on Thursday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T10:30:00.000Z",
+      "ts": "2025-12-11T22:20:00.000Z",
+      "headline": "The Fed cut rates, but bitcoin didn&#x2019;t budge. What gives?",
+      "url": "https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bitcoin edged lower on Thursday, even after the Federal Reserve on Wednesday cut its policy rate by 25 basis points and signaled that it will begin injecting additional liquidity into short-term funding markets starting Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T21:00:00.000Z",
+      "headline": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251211a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T23:15:00.000Z",
       "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
       "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -111,16 +124,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T01:37:00.000Z",
-      "headline": "You&#x2019;ve just won the $930 million Powerball jackpot. Here are the 5 money moves you need to make next.",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+      "ts": "2025-12-11T22:56:00.000Z",
+      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
+      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:41:00.000Z",
+      "headline": "&#x2018;January effect&#x2019; arrives early as small caps are roaring past the Dow and S&P 500",
+      "url": "https://www.marketwatch.com/story/the-dow-and-s-p-500-are-soaring-but-this-unloved-stock-index-is-absolutely-roaring-bc5d7fda?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Seasonality favors U.S. stocks through year-end &#x2014; especially the Russell 2000.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:24:00.000Z",
+      "headline": "Lululemon CEO joins the ranks of departing retail executives after tumultuous year at the athleisure company",
+      "url": "https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "CEO departure adds another wrinkle to Lululemon&#x2019;s attempts to return to glory days.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T16:00:00.000Z",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase & Co.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251211a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
         "ED"
       ],
-      "summary_en": "But even if you&#x2019;re not a big lottery winner in tonight&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase &amp; Co.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -157,30 +205,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces pricing, effective January 1, 2026, for payment services the Federal Reserve Banks provide to banks and credit unions",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251204a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces pricing, effective January 1, 2026, for payment services the Federal Reserve Banks provide to banks and credit unions",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-04T22:00:00.000Z",
-      "headline": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251204b.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board requests public input on the impact of potential strategic changes to check services provided by the Fed, as well as check usage and preferences",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
