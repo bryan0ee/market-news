@@ -1,6 +1,43 @@
 {
-  "last_updated": "2025-12-11T10:49:44.229Z",
+  "last_updated": "2025-12-11T13:41:42.192Z",
   "items": [
+    {
+      "ts": "2025-12-11T12:55:00.000Z",
+      "headline": "Eli Lilly&#x2019;s newest weight-loss drug relieved pain in patients with knee osteoarthritis",
+      "url": "https://www.marketwatch.com/story/eli-lillys-newest-weight-loss-drug-relieved-pain-in-patients-with-knee-osteoarthritis-b7a6bcd2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Eli Lilly&#x2019;s &#x201c;triple g&#x201d; drug helped patients lose about 28.7% of their body weight while also reducing pain associated with knee osteoarthritis in a Phase 3 trial.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T12:45:00.000Z",
+      "headline": "NFL quarterback Philip Rivers couldn&#x2019;t stay retired. Here&#x2019;s why millions of other Americans can&#x2019;t either.",
+      "url": "https://www.marketwatch.com/story/nfl-quarterback-philip-rivers-couldnt-stay-retired-heres-why-millions-of-other-americans-cant-either-c7ae6c8e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Philip Rivers&#x2019;s unretirement, at age 44, probably feels familiar to the growing number of retirees &#x2014; including FIRE members &#x2014; who return to work. And it&#x2019;s often not about money.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T12:41:00.000Z",
+      "headline": "The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street&#x2019;s most accurate forecasters, Tom Lee",
+      "url": "https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A wall of worry headed into 2026 won&#x2019;t stop stocks from logging more gains, says Fundstrat&#x2019;s Tom Lee.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-11T10:45:00.000Z",
       "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
@@ -50,6 +87,18 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-12-11T11:36:00.000Z",
+      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
+      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-12-11T10:30:00.000Z",
       "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
       "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
@@ -72,54 +121,6 @@
         "ED"
       ],
       "summary_en": "But even if you&#x2019;re not a big lottery winner in tonight&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T01:22:00.000Z",
-      "headline": "Oracle&#x2019;s mixed earnings fail to dispel AI fears, and the stock falls",
-      "url": "https://www.marketwatch.com/story/oracles-mixed-earnings-fail-to-dispel-ai-fears-and-the-stock-falls-5533a383?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "While the company beat EPS estimates and increased its AI deal pipeline, concerns over its financing strategy remain.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T00:24:00.000Z",
-      "headline": "Chewy+ subscriptions strength helps extend the streak of growing &#x2018;pegged&#x2019; customers",
-      "url": "https://www.marketwatch.com/story/chewy-subscriptions-strength-helps-extend-the-streak-of-growing-pegged-customers-0920f9e6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Chewy sees Autoship sales continuing to increase as a percentage of total sales, helped by growth in the Chewy+ subscription program.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T00:08:00.000Z",
-      "headline": "U.S. seizes oil tanker off Venezuela. Why one analyst says it&#x2019;s &#x2018;a smart move.&#x2019;",
-      "url": "https://www.marketwatch.com/story/u-s-seizes-oil-tanker-off-venezuela-why-one-analyst-says-its-a-smart-move-a20fda5f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S. seized an oil tanker off the coast of Venezuela, President Donald Trump said Wednesday, in a move likely to ramp up tensions with the government of President Nicolas Maduro.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T01:20:00.000Z",
-      "headline": "Adobe&#x2019;s AI-driven earnings beat is not enough to boost the stock",
-      "url": "https://www.marketwatch.com/story/adobes-ai-driven-earnings-beat-is-not-enough-to-boost-the-stock-3031b9ff?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The software company said its record fiscal 2025 results reflect global attention and use of its AI tools",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
