@@ -1,46 +1,81 @@
 {
-  "last_updated": "2025-12-10T23:27:43.577Z",
+  "last_updated": "2025-12-11T10:49:44.229Z",
   "items": [
     {
-      "ts": "2025-12-10T23:23:00.000Z",
-      "headline": "This longer-term mortgage won&#x2019;t make housing affordable &#x2014; and could wreck your retirement",
-      "url": "https://www.marketwatch.com/story/a-50-year-mortgage-wont-make-housing-cheaper-and-could-even-wreck-your-retirement-c4982756?mod=mw_rss_topstories",
+      "ts": "2025-12-11T10:45:00.000Z",
+      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
+      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T10:15:00.000Z",
+      "headline": "My Taiwanese immigrant friend worked in Walmart for minimum wage and retired at 87 with $2 million. What was her secret?",
+      "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She owns two houses and lives with a disabled son.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T10:01:00.000Z",
+      "headline": "Investor who bought former Kanye West home in Malibu threatened with foreclosure",
+      "url": "https://www.marketwatch.com/story/investor-who-bought-former-kanye-west-home-in-malibu-threatened-with-foreclosure-df0dfd09?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Malibu beach house is being turned into a unique members-only investment opportunity after the latest owner was threatened with foreclosure, having defaulted on his $18.5 million mortgage.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T09:44:00.000Z",
+      "headline": "Gundlach keeps finding 1995 parallels as Fed finally catches up to 2-year Treasury",
+      "url": "https://www.marketwatch.com/story/gundlach-keeps-finding-1995-parallels-as-fed-finally-catches-up-to-2-year-treasury-087157b8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Gundlach keeps finding 1995 parallels as Fed finally catches up to 2-year Treasury",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T10:30:00.000Z",
+      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
+      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T01:37:00.000Z",
+      "headline": "You&#x2019;ve just won the $930 million Powerball jackpot. Here are the 5 money moves you need to make next.",
+      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "A 50-year mortgage is a poor solution to America&#x2019;s housing crisis. What&#x2019;s needed are more homes.",
+      "summary_en": "But even if you&#x2019;re not a big lottery winner in tonight&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T23:18:00.000Z",
-      "headline": "Americans are facing a growing healthcare crisis &#x2014; and your medicines are at risk",
-      "url": "https://www.marketwatch.com/story/theres-a-growing-healthcare-crisis-in-the-u-s-and-its-sitting-in-your-medicine-cabinet-cd5c9596?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "To guarantee Americans the medication they need, the U.S. must stop relying on China and India.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T23:14:00.000Z",
-      "headline": "My mother-in-law, 81, is guilting us into paying for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
-      "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have my own trip to Europe planned for next year and I can&#x2019;t afford both trips.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T22:56:00.000Z",
+      "ts": "2025-12-11T01:22:00.000Z",
       "headline": "Oracle&#x2019;s mixed earnings fail to dispel AI fears, and the stock falls",
       "url": "https://www.marketwatch.com/story/oracles-mixed-earnings-fail-to-dispel-ai-fears-and-the-stock-falls-5533a383?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -52,43 +87,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T22:21:00.000Z",
-      "headline": "Carvana&#x2019;s stock zooms to record, longest winning run as S&P 500 inclusion is within sight",
-      "url": "https://www.marketwatch.com/story/carvanas-stock-zooms-to-longest-winning-run-on-record-as-s-p-500-inclusion-is-within-sight-1b678f9a?mod=mw_rss_topstories",
+      "ts": "2025-12-11T00:24:00.000Z",
+      "headline": "Chewy+ subscriptions strength helps extend the streak of growing &#x2018;pegged&#x2019; customers",
+      "url": "https://www.marketwatch.com/story/chewy-subscriptions-strength-helps-extend-the-streak-of-growing-pegged-customers-0920f9e6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The online used-car retailer&#x2019;s stock has gained nearly 50% over a 12-day winning streak, and is aiming for an all-time high.",
+      "summary_en": "Chewy sees Autoship sales continuing to increase as a percentage of total sales, helped by growth in the Chewy+ subscription program.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T22:06:00.000Z",
-      "headline": "The Fed cut rates. Biotech didn&#x2019;t notice.",
-      "url": "https://www.marketwatch.com/story/the-fed-cut-rates-biotech-didnt-notice-c80d6353?mod=mw_rss_topstories",
+      "ts": "2025-12-11T00:08:00.000Z",
+      "headline": "U.S. seizes oil tanker off Venezuela. Why one analyst says it&#x2019;s &#x2018;a smart move.&#x2019;",
+      "url": "https://www.marketwatch.com/story/u-s-seizes-oil-tanker-off-venezuela-why-one-analyst-says-its-a-smart-move-a20fda5f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Biotechs are instead spending their time advancing the kind of smart science that will catch the eye of cash-rich pharmaceutical companies.",
+      "summary_en": "The U.S. seized an oil tanker off the coast of Venezuela, President Donald Trump said Wednesday, in a move likely to ramp up tensions with the government of President Nicolas Maduro.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-10T21:52:00.000Z",
-      "headline": "Dow gains almost 500 points, S&P 500 ends shy of record high after Fed&#x2019;s final rate cut of 2025 bolsters case for early start to &#x2018;Santa Claus rally&#x2019;",
-      "url": "https://www.marketwatch.com/story/dow-gains-almost-500-points-s-p-500-ends-shy-of-record-high-after-feds-final-rate-cut-of-2025-bolsters-case-for-early-start-to-santa-claus-rally-53c15858?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The S&P 500 index narrowly missed a fresh record close Wednesday and the Dow Jones Industrial Average finished with strong gains after the Federal Reserve&#x2019;s decision to deliver a final quarter-point rate cut for 2025, which gave investors optimism that equities can keep climbing through year-end.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T22:36:00.000Z",
+      "ts": "2025-12-11T01:20:00.000Z",
       "headline": "Adobe&#x2019;s AI-driven earnings beat is not enough to boost the stock",
       "url": "https://www.marketwatch.com/story/adobes-ai-driven-earnings-beat-is-not-enough-to-boost-the-stock-3031b9ff?mod=mw_rss_topstories",
       "impact": "Bullish",
@@ -97,30 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "The software company said its record fiscal 2025 results reflect global attention and use of its AI tools",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T23:14:00.000Z",
-      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
-      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-10T21:54:00.000Z",
-      "headline": "GE Vernova is riding the electrification wave, and the stock sees a record rally",
-      "url": "https://www.marketwatch.com/story/ge-vernova-is-riding-the-electrification-wave-and-the-stock-soars-to-a-record-2566262a?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "GE Vernova&#x2019;s stock soars into record territory after the electrification company boosts its long-term outlook for financial returns and plans to return more cash to shareholders.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
