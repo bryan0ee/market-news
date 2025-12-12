@@ -1,9 +1,82 @@
 {
-  "last_updated": "2025-12-11T23:29:05.488Z",
+  "last_updated": "2025-12-12T10:48:05.915Z",
   "items": [
     {
+      "ts": "2025-12-12T10:42:00.000Z",
+      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
+      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T10:31:00.000Z",
+      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
+      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T10:03:00.000Z",
+      "headline": "Bill Cosby saves $7 million Manhattan townhouse from foreclosure after sale of another N.Y. home",
+      "url": "https://www.marketwatch.com/story/bill-cosby-saves-7-million-manhattan-townhouse-from-foreclosure-after-sale-of-another-n-y-home-7432ce31?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Disgraced actor Bill Cosby&#x2019;s $6.99 million New York City townhouse has been taken off the market after he managed to save the property from impending foreclosure.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T01:22:00.000Z",
+      "headline": "Why Broadcom&#x2019;s stock is falling, even as earnings showed strong AI demand",
+      "url": "https://www.marketwatch.com/story/broadcom-earnings-pass-the-test-as-ai-momentum-sends-the-stock-higher-472ab922?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "AI semiconductor revenue at Broadcom could double this quarter after seeing 74% growth in the latest period.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T01:20:00.000Z",
+      "headline": "Costco&#x2019;s profits are rising. But what about its sales?",
+      "url": "https://www.marketwatch.com/story/costcos-profits-are-rising-but-what-about-its-sales-22825e07?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Costco shows investors a mixed financial snapshot on Thursday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T00:00:00.000Z",
+      "headline": "My mother-in-law, 81, is guilting us into paying for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
+      "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have my own trip to Europe planned for next year and I can&#x2019;t afford both trips.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-12-11T22:59:00.000Z",
-      "headline": "OpenAI strikes back in the chatbot race against Google",
+      "headline": "OpenAI strikes back in the chatbot race against Google with new ChatGPT model",
       "url": "https://www.marketwatch.com/story/openai-strikes-back-in-the-chatbot-race-against-google-1551d759?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
@@ -11,19 +84,7 @@
         "GOOGL",
         "ED"
       ],
-      "summary_en": "The new version of ChatGPT, based on GPT-5.2, shows &#x201c;OpenAI is back on top of the benchmarks.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:16:00.000Z",
-      "headline": "Investors fear Time just jinxed the AI stock-market rally with its 2025 Person of the Year",
-      "url": "https://www.marketwatch.com/story/investors-fear-time-just-jinxed-the-ai-stock-market-rally-with-its-2025-person-of-the-year-fa37211b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Will the so-called &#x2018;magazine-cover curse&#x2019; strike again?",
+      "summary_en": "The new version of ChatGPT, called GPT-5.2, shows &#x201c;OpenAI is back on top of the benchmarks,&#x201d; analyst says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -63,43 +124,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T22:42:00.000Z",
-      "headline": "Mortgage rates have fallen under Trump. Here&#x2019;s what that really means for home buyers.",
-      "url": "https://www.marketwatch.com/story/mortgage-rates-have-fallen-under-trump-heres-what-that-really-means-for-home-buyers-6473ccfd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Interest rate cuts can&#x2019;t fix America&#x2019;s &#x201c;structural housing shortage,&#x201d; Fed chair Jerome Powell said.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:34:00.000Z",
-      "headline": "Costco&#x2019;s profits are rising. But what about its sales?",
-      "url": "https://www.marketwatch.com/story/costcos-profits-are-rising-but-what-about-its-sales-22825e07?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Costco shows investors a mixed financial snapshot on Thursday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:20:00.000Z",
-      "headline": "The Fed cut rates, but bitcoin didn&#x2019;t budge. What gives?",
-      "url": "https://www.marketwatch.com/story/the-fed-cut-rates-but-bitcoin-didnt-budge-what-gives-f346ad58?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bitcoin edged lower on Thursday, even after the Federal Reserve on Wednesday cut its policy rate by 25 basis points and signaled that it will begin injecting additional liquidity into short-term funding markets starting Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-11T21:00:00.000Z",
       "headline": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251211a.htm",
@@ -109,54 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T23:15:00.000Z",
-      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
-      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:56:00.000Z",
-      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
-      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:41:00.000Z",
-      "headline": "&#x2018;January effect&#x2019; arrives early as small caps are roaring past the Dow and S&P 500",
-      "url": "https://www.marketwatch.com/story/the-dow-and-s-p-500-are-soaring-but-this-unloved-stock-index-is-absolutely-roaring-bc5d7fda?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Seasonality favors U.S. stocks through year-end &#x2014; especially the Russell 2000.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:24:00.000Z",
-      "headline": "Lululemon CEO joins the ranks of departing retail executives after tumultuous year at the athleisure company",
-      "url": "https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "CEO departure adds another wrinkle to Lululemon&#x2019;s attempts to return to glory days.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -205,6 +181,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T23:15:00.000Z",
+      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
+      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:56:00.000Z",
+      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
+      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
