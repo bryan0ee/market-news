@@ -1,97 +1,8 @@
 {
-  "last_updated": "2025-12-12T13:37:14.284Z",
+  "last_updated": "2025-12-12T23:28:34.495Z",
   "items": [
     {
-      "ts": "2025-12-12T12:50:00.000Z",
-      "headline": "America needs to get tough on technology &#x2014; not make Nvidia chip deals with China",
-      "url": "https://www.marketwatch.com/story/america-needs-to-get-tough-on-technology-not-make-nvidia-chip-deals-with-china-3cac7965?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Chip-import dependence is a national-security threat. A &#x201c;chip-for-chip&#x201d; tariff could be a $230 billion revenue windfall and spur U.S. semiconductor production.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T13:30:00.000Z",
-      "headline": "Senate votes on ACA fail, threatening a rise in healthcare costs for everyone",
-      "url": "https://www.marketwatch.com/story/failure-of-senate-votes-on-aca-threatens-a-rise-in-healthcare-costs-for-everyone-7197ef04?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "WM",
-        "COST",
-        "PG"
-      ],
-      "summary_en": "Republican and Democratic lawmakers could not advance a pair of stopgap plans in the Senate that would address the expiring Obamacare subsidies",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T12:08:00.000Z",
-      "headline": "Investors fear Time just jinxed the AI stock-market rally with its 2025 person of the year",
-      "url": "https://www.marketwatch.com/story/investors-fear-time-just-jinxed-the-ai-stock-market-rally-with-its-2025-person-of-the-year-fa37211b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Will the so-called magazine-cover curse strike again?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T12:00:00.000Z",
-      "headline": "What other tariffs could Trump roll back as economic worries persist?",
-      "url": "https://www.marketwatch.com/story/what-other-tariffs-could-trump-roll-back-as-economic-worries-persist-153c1c99?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "President Donald Trump wants to show he&#x2019;s trying to address the high cost of living, so he has rolled back tariffs on many grocery items and made pointed remarks at White House events.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T12:00:00.000Z",
-      "headline": "What the stock market&#x2019;s post-Fed-meeting optimism may be getting wrong about the U.S. economy",
-      "url": "https://www.marketwatch.com/story/what-the-stock-markets-post-fed-meeting-optimism-may-be-getting-wrong-about-the-u-s-economy-87b93db6?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S. stock market just booked fresh record highs, despite economic challenges.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T12:58:00.000Z",
-      "headline": "Costco&#x2019;s profits rise as pizzas, pies and Black Friday see record sales",
-      "url": "https://www.marketwatch.com/story/costcos-profits-are-rising-but-what-about-its-sales-22825e07?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Costco shows investors a mixed financial snapshot on Thursday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T12:50:00.000Z",
-      "headline": "Bezos and Musk target AI through space. These Earthly stocks could benefit.",
-      "url": "https://www.marketwatch.com/story/bezos-and-musk-target-ai-through-space-these-earthly-stocks-could-benefit-5db439e3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The investing edge is spotting where capital for orbital AI goes first, says Matthew Tuttle",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T11:30:00.000Z",
+      "ts": "2025-12-12T23:26:00.000Z",
       "headline": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
       "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -103,7 +14,81 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-12T12:44:00.000Z",
+      "ts": "2025-12-12T22:51:00.000Z",
+      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
+      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T22:51:00.000Z",
+      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
+      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T22:29:00.000Z",
+      "headline": "These stocks could land big profits from filling Big Tech&#x2019;s critical water needs",
+      "url": "https://www.marketwatch.com/story/these-stocks-could-land-big-profits-from-filling-big-techs-critical-water-needs-2e0e214b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Charlie Garcia responds to readers concerned about the scarcity of ultrapure water and the Japanese stocks that provide it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T22:22:00.000Z",
+      "headline": "Tilray&#x2019;s stock takes off on hope that cannabis will soon be treated more like steroids than heroin",
+      "url": "https://www.marketwatch.com/story/tilrays-stock-takes-off-on-hope-that-cannabis-will-soon-be-seen-as-more-like-steroids-than-heroin-f160575c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tilray&#x2019;s stock, and shares of other cannabis companies, soared after reports provided investors hope that President Trump would move to have marijuana reclassified as a much less dangerous drug than it is now.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T21:29:00.000Z",
+      "headline": "Here&#x2019;s how much money Heisman Trophy finalists Mendoza, Pavia and Love made from NIL deals this season",
+      "url": "https://www.marketwatch.com/story/heres-how-much-money-heisman-trophy-finalists-mendoza-pavia-and-love-made-from-nil-deals-this-season-9c527fbc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Heisman Trophy award may not come with a cash prize, but these finalists have already scored millions through their name, image and likeness deals.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T20:37:00.000Z",
+      "headline": "Investigating a financial adviser can keep you out of trouble. This free online tool makes it easy.",
+      "url": "https://www.marketwatch.com/story/investigating-a-financial-adviser-can-keep-you-out-of-trouble-this-free-online-tool-makes-it-easy-8e9b52b5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Some red flags are worse than others. Here&#x2019;s how to uncover the information you need.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T21:32:00.000Z",
       "headline": "Lululemon&#x2019;s ousting of CEO draws praise from activist founder Chip Wilson",
       "url": "https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -115,15 +100,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-12T11:00:00.000Z",
-      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
-      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
+      "ts": "2025-12-12T20:56:00.000Z",
+      "headline": "Block the Warner Bros. sale, break up &#x2018;Big Streaming&#x2019; &#x2014; and give us lower prices",
+      "url": "https://www.marketwatch.com/story/either-netflix-or-paramount-buying-warner-bros-would-be-an-unhappy-ending-for-streaming-customers-ff2b222f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
+      "summary_en": "Either Netflix or Paramount buying Warner Bros. Discovery would be an unhappy ending for streaming customers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T20:56:00.000Z",
+      "headline": "The stock market&#x2019;s &#x2018;Santa Claus rally&#x2019; hasn&#x2019;t come to town yet &#x2014; despite what you&#x2019;re hearing",
+      "url": "https://www.marketwatch.com/story/the-stock-markets-santa-claus-rally-hasnt-come-to-town-so-ignore-the-caroling-c76d847e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The stock market&#x2019;s odds of rallying before Christmas are no better than they are at any other time of year &#x2014; and maybe even worse.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -196,18 +193,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-05T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251205a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Synovus Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
