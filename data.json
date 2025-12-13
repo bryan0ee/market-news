@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-12-12T23:28:34.495Z",
+  "last_updated": "2025-12-13T10:42:32.313Z",
   "items": [
+    {
+      "ts": "2025-12-13T10:13:00.000Z",
+      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
+      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211b.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-12T23:26:00.000Z",
       "headline": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
@@ -11,18 +47,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;She owns two houses and lives with a disabled son.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T22:51:00.000Z",
-      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
-      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -75,79 +99,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-12T20:37:00.000Z",
-      "headline": "Investigating a financial adviser can keep you out of trouble. This free online tool makes it easy.",
-      "url": "https://www.marketwatch.com/story/investigating-a-financial-adviser-can-keep-you-out-of-trouble-this-free-online-tool-makes-it-easy-8e9b52b5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Some red flags are worse than others. Here&#x2019;s how to uncover the information you need.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T21:32:00.000Z",
-      "headline": "Lululemon&#x2019;s ousting of CEO draws praise from activist founder Chip Wilson",
-      "url": "https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Yoga-apparel retailer&#x2019;s CEO joins the ranks of departing retail executives after tumultuous year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T20:56:00.000Z",
-      "headline": "Block the Warner Bros. sale, break up &#x2018;Big Streaming&#x2019; &#x2014; and give us lower prices",
-      "url": "https://www.marketwatch.com/story/either-netflix-or-paramount-buying-warner-bros-would-be-an-unhappy-ending-for-streaming-customers-ff2b222f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Either Netflix or Paramount buying Warner Bros. Discovery would be an unhappy ending for streaming customers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T20:56:00.000Z",
-      "headline": "The stock market&#x2019;s &#x2018;Santa Claus rally&#x2019; hasn&#x2019;t come to town yet &#x2014; despite what you&#x2019;re hearing",
-      "url": "https://www.marketwatch.com/story/the-stock-markets-santa-claus-rally-hasnt-come-to-town-so-ignore-the-caroling-c76d847e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The stock market&#x2019;s odds of rallying before Christmas are no better than they are at any other time of year &#x2014; and maybe even worse.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211b.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-11T21:00:00.000Z",
       "headline": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251211a.htm",
@@ -193,6 +144,54 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T00:30:00.000Z",
+      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
+      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T00:01:00.000Z",
+      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
+      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T21:32:00.000Z",
+      "headline": "Lululemon&#x2019;s ousting of CEO draws praise from activist founder Chip Wilson",
+      "url": "https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Yoga-apparel retailer&#x2019;s CEO joins the ranks of departing retail executives after tumultuous year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-12T20:56:00.000Z",
+      "headline": "Block the Warner Bros. sale, break up &#x2018;Big Streaming&#x2019; &#x2014; and give us lower prices",
+      "url": "https://www.marketwatch.com/story/either-netflix-or-paramount-buying-warner-bros-would-be-an-unhappy-ending-for-streaming-customers-ff2b222f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Either Netflix or Paramount buying Warner Bros. Discovery would be an unhappy ending for streaming customers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
