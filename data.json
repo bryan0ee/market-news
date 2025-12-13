@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-12-13T13:29:20.823Z",
+  "last_updated": "2025-12-13T23:27:36.775Z",
   "items": [
     {
-      "ts": "2025-12-13T12:14:00.000Z",
-      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
-      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
+      "ts": "2025-12-13T21:08:00.000Z",
+      "headline": "Kevin Warsh&#x2019;s odds of becoming Fed chair leap higher as Dimon signals support",
+      "url": "https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
+      "summary_en": "President Trump said he was leaning toward choosing either Warsh or Kevin Hassett to succeed Fed Chair Jerome Powell.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-13T11:13:00.000Z",
+      "ts": "2025-12-13T20:43:00.000Z",
       "headline": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
       "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,7 +26,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-13T10:13:00.000Z",
+      "ts": "2025-12-13T20:37:00.000Z",
+      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
+      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T20:36:00.000Z",
       "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
       "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,15 +50,76 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-13T13:00:00.000Z",
-      "headline": "Regime change in Venezuela could bring boost in oil production &#x2014; but not as much as you&#x2019;d think",
-      "url": "https://www.marketwatch.com/story/regime-change-in-venezuela-could-bring-boost-in-oil-production-but-not-as-much-as-youd-think-712a136c?mod=mw_rss_topstories",
+      "ts": "2025-12-13T19:55:00.000Z",
+      "headline": "You&#x2019;ve just won the $1 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
+      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "But even if you&#x2019;re not a big lottery winner in Saturday&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T19:54:00.000Z",
+      "headline": "A $100 million NFL contract isn&#x2019;t enough money to last a lifetime, says former football star Odell Beckham Jr.",
+      "url": "https://www.marketwatch.com/story/odell-beckham-jr-says-a-100-million-nfl-contract-wont-last-a-lifetime-heres-what-other-athletes-think-e5f245ff?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The former NFL star has stirred up conversation around how quickly a professional athlete can spend a $100 million &#x2014; or what&#x2019;s left of that sum after several key expenses",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T19:54:00.000Z",
+      "headline": "&#x2018;Digital twins&#x2019; of Frida Kahlo paintings could transform how we collect art",
+      "url": "https://www.marketwatch.com/story/the-latest-in-nfts-creating-digital-twins-of-frida-kahlo-paintings-could-the-mona-lisa-be-next-c988d23d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The U.S.-based Kahlo Foundation is promoting the idea &#x2014; and some in the collectibles world think it could be the wave of the future.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T19:54:00.000Z",
+      "headline": "72% of people say they&#x2019;d be happier if they saved or invested more money. Far fewer said spending more would bring happiness.",
+      "url": "https://www.marketwatch.com/story/72-of-people-say-theyd-be-happier-if-they-saved-or-invested-more-money-far-fewer-said-spending-more-would-bring-happiness-faf01782?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "While financial happiness is typically framed as a choice between spending on material goods or spending on experiences, many Americans are expressing a different desire for their money: saving more.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T19:54:00.000Z",
+      "headline": "&#x2018;Is this really what college bowl games have become?&#x2019; Critics see brands like Pop-Tarts competing with football for attention.",
+      "url": "https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Notre Dame recently decided to pass up an invitation to play in the Pop-Tarts Bowl.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T19:54:00.000Z",
+      "headline": "More home buyers are turning to this type of mortgage in an unaffordable market &#x2014; but sometimes it works against them",
+      "url": "https://www.marketwatch.com/story/more-home-buyers-are-turning-to-this-type-of-mortgage-in-an-unaffordable-market-but-sometimes-it-works-against-them-c88ceb7d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "It would take time and billions of dollars to fix Venezuela&#x2019;s oil infrastructure",
+      "summary_en": "Even in a market where buyers should have the upper hand, misperceptions about FHA loans can create barriers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -71,43 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T22:29:00.000Z",
-      "headline": "These stocks could land big profits from filling Big Tech&#x2019;s critical water needs",
-      "url": "https://www.marketwatch.com/story/these-stocks-could-land-big-profits-from-filling-big-techs-critical-water-needs-2e0e214b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Charlie Garcia responds to readers concerned about the scarcity of ultrapure water and the Japanese stocks that provide it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T22:22:00.000Z",
-      "headline": "Tilray&#x2019;s stock takes off on hope that cannabis will soon be treated more like steroids than heroin",
-      "url": "https://www.marketwatch.com/story/tilrays-stock-takes-off-on-hope-that-cannabis-will-soon-be-seen-as-more-like-steroids-than-heroin-f160575c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Tilray&#x2019;s stock, and shares of other cannabis companies, soared after reports provided investors hope that President Trump would move to have marijuana reclassified as a much less dangerous drug than it is now.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T21:29:00.000Z",
-      "headline": "Here&#x2019;s how much money Heisman Trophy finalists Mendoza, Pavia and Love made from NIL deals this season",
-      "url": "https://www.marketwatch.com/story/heres-how-much-money-heisman-trophy-finalists-mendoza-pavia-and-love-made-from-nil-deals-this-season-9c527fbc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Heisman Trophy award may not come with a cash prize, but these finalists have already scored millions through their name, image and likeness deals.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -156,42 +192,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T00:30:00.000Z",
-      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
-      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T00:01:00.000Z",
-      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
-      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T21:32:00.000Z",
-      "headline": "Lululemon&#x2019;s ousting of CEO draws praise from activist founder Chip Wilson",
-      "url": "https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Yoga-apparel retailer&#x2019;s CEO joins the ranks of departing retail executives after tumultuous year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
