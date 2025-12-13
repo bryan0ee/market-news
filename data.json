@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-12-13T10:42:32.313Z",
+  "last_updated": "2025-12-13T13:29:20.823Z",
   "items": [
+    {
+      "ts": "2025-12-13T12:14:00.000Z",
+      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
+      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T11:13:00.000Z",
+      "headline": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
+      "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She owns two houses and lives with a disabled son.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-13T10:13:00.000Z",
       "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
@@ -11,6 +35,18 @@
         "ED"
       ],
       "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T13:00:00.000Z",
+      "headline": "Regime change in Venezuela could bring boost in oil production &#x2014; but not as much as you&#x2019;d think",
+      "url": "https://www.marketwatch.com/story/regime-change-in-venezuela-could-bring-boost-in-oil-production-but-not-as-much-as-youd-think-712a136c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It would take time and billions of dollars to fix Venezuela&#x2019;s oil infrastructure",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -35,30 +71,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T23:26:00.000Z",
-      "headline": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
-      "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She owns two houses and lives with a disabled son.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T22:51:00.000Z",
-      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
-      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -180,18 +192,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Yoga-apparel retailer&#x2019;s CEO joins the ranks of departing retail executives after tumultuous year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-12T20:56:00.000Z",
-      "headline": "Block the Warner Bros. sale, break up &#x2018;Big Streaming&#x2019; &#x2014; and give us lower prices",
-      "url": "https://www.marketwatch.com/story/either-netflix-or-paramount-buying-warner-bros-would-be-an-unhappy-ending-for-streaming-customers-ff2b222f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Either Netflix or Paramount buying Warner Bros. Discovery would be an unhappy ending for streaming customers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
