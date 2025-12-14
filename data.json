@@ -1,17 +1,125 @@
 {
-  "last_updated": "2025-12-14T13:29:32.941Z",
+  "last_updated": "2025-12-14T23:27:56.624Z",
   "items": [
     {
-      "ts": "2025-12-14T03:12:00.000Z",
-      "headline": "You&#x2019;ve just won the $1 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+      "ts": "2025-12-14T23:18:00.000Z",
+      "headline": "U.S. stock futures little changed ahead of year&#x2019;s last full week of trading",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-ahead-of-years-last-full-week-of-trading-58783137?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Stocks slid on Friday, led by a sharp decline in the tech sector, as investors continue a &#x201c;rotation trade&#x201d; out of AI stocks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T21:54:00.000Z",
+      "headline": "Hassett says Trump would have &#x2018;no weight&#x2019; on Fed&#x2019;s decision-making if he&#x2019;s chair",
+      "url": "https://www.marketwatch.com/story/hassett-says-trump-would-have-no-weight-on-feds-decision-making-if-hes-chair-8cf59cfb?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Kevin Hassett, President Donald Trump&#x2019;s top economic adviser, on Sunday dismissed concerns that he would simply push Trump&#x2019;s agenda if he&#x2019;s chosen as the next Fed chair.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T20:32:00.000Z",
+      "headline": "Stocks risk a stir-up in last trading push of the year. Where to put your money.",
+      "url": "https://www.marketwatch.com/story/stocks-risk-a-stir-up-in-last-trading-push-of-the-year-where-to-put-your-money-ec3792d1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A delayed November jobs report and key inflation reading are not the only things that could gin up market turmoil.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T20:05:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a perilous choice&#x2019;: I&#x2019;ve been offered a part-time job. Do I file for Social Security at 67 or 70?",
+      "url": "https://www.marketwatch.com/story/its-a-perilous-choice-ive-been-offered-a-part-time-job-do-i-file-for-social-security-at-67-or-70-8e1ae6d3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My income will be reduced to less than one-fifth of my current annual salary.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T19:16:00.000Z",
+      "headline": "Here&#x2019;s how to check up on a financial adviser before you invest your money",
+      "url": "https://www.marketwatch.com/story/investigating-a-financial-adviser-can-keep-you-out-of-trouble-this-free-online-tool-makes-it-easy-8e9b52b5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "But even if you&#x2019;re not a big lottery winner in Saturday&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
+      "summary_en": "Some red flags are worse than others. This free online tool gives you information you need.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T22:00:00.000Z",
+      "headline": "The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1",
+      "url": "https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The subsidies that made Affordable Care Act plans more affordable are expiring, and marketplace coverage in 2026 will be much more expensive.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T18:16:00.000Z",
+      "headline": "My mother-in-law, 81, is guilting us into paying for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
+      "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have my own trip to Europe planned for next year and I can&#x2019;t afford both trips.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T20:23:00.000Z",
+      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
+      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T15:38:00.000Z",
+      "headline": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
+      "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She owns two houses and lives with a disabled son.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T15:39:00.000Z",
+      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
+      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -36,102 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T21:08:00.000Z",
-      "headline": "Kevin Warsh&#x2019;s odds of becoming Fed chair leap higher as Dimon signals support",
-      "url": "https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Trump said he was leaning toward choosing either Warsh or Kevin Hassett to succeed Fed Chair Jerome Powell.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T20:43:00.000Z",
-      "headline": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
-      "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She owns two houses and lives with a disabled son.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T20:37:00.000Z",
-      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
-      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T20:36:00.000Z",
-      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
-      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T19:54:00.000Z",
-      "headline": "A $100 million NFL contract isn&#x2019;t enough money to last a lifetime, says former football star Odell Beckham Jr.",
-      "url": "https://www.marketwatch.com/story/odell-beckham-jr-says-a-100-million-nfl-contract-wont-last-a-lifetime-heres-what-other-athletes-think-e5f245ff?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The former NFL star has stirred up conversation around how quickly a professional athlete can spend a $100 million &#x2014; or what&#x2019;s left of that sum after several key expenses",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T19:54:00.000Z",
-      "headline": "&#x2018;Digital twins&#x2019; of Frida Kahlo paintings could transform how we collect art",
-      "url": "https://www.marketwatch.com/story/the-latest-in-nfts-creating-digital-twins-of-frida-kahlo-paintings-could-the-mona-lisa-be-next-c988d23d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S.-based Kahlo Foundation is promoting the idea &#x2014; and some in the collectibles world think it could be the wave of the future.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T19:54:00.000Z",
-      "headline": "72% of people say they&#x2019;d be happier if they saved or invested more money. Far fewer said spending more would bring happiness.",
-      "url": "https://www.marketwatch.com/story/72-of-people-say-theyd-be-happier-if-they-saved-or-invested-more-money-far-fewer-said-spending-more-would-bring-happiness-faf01782?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "While financial happiness is typically framed as a choice between spending on material goods or spending on experiences, many Americans are expressing a different desire for their money: saving more.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T19:54:00.000Z",
-      "headline": "&#x2018;Is this really what college bowl games have become?&#x2019; Critics see brands like Pop-Tarts competing with football for attention.",
-      "url": "https://www.marketwatch.com/story/is-this-really-what-college-bowl-games-have-become-critics-say-games-sponsored-by-pop-tarts-and-mayonnaise-take-attention-away-from-football-8bccaa12?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Notre Dame recently decided to pass up an invitation to play in the Pop-Tarts Bowl.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -180,18 +192,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T19:54:00.000Z",
-      "headline": "More home buyers are turning to this type of mortgage in an unaffordable market &#x2014; but sometimes it works against them",
-      "url": "https://www.marketwatch.com/story/more-home-buyers-are-turning-to-this-type-of-mortgage-in-an-unaffordable-market-but-sometimes-it-works-against-them-c88ceb7d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Even in a market where buyers should have the upper hand, misperceptions about FHA loans can create barriers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
