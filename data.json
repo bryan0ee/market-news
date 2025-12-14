@@ -1,6 +1,43 @@
 {
-  "last_updated": "2025-12-13T23:27:36.775Z",
+  "last_updated": "2025-12-14T10:43:33.838Z",
   "items": [
+    {
+      "ts": "2025-12-14T03:12:00.000Z",
+      "headline": "You&#x2019;ve just won the $1 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
+      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "But even if you&#x2019;re not a big lottery winner in Saturday&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211b.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-13T21:08:00.000Z",
       "headline": "Kevin Warsh&#x2019;s odds of becoming Fed chair leap higher as Dimon signals support",
@@ -47,19 +84,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-13T19:55:00.000Z",
-      "headline": "You&#x2019;ve just won the $1 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "But even if you&#x2019;re not a big lottery winner in Saturday&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -111,42 +135,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-13T19:54:00.000Z",
-      "headline": "More home buyers are turning to this type of mortgage in an unaffordable market &#x2014; but sometimes it works against them",
-      "url": "https://www.marketwatch.com/story/more-home-buyers-are-turning-to-this-type-of-mortgage-in-an-unaffordable-market-but-sometimes-it-works-against-them-c88ceb7d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Even in a market where buyers should have the upper hand, misperceptions about FHA loans can create barriers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211b.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-11T21:00:00.000Z",
       "headline": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251211a.htm",
@@ -192,6 +180,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-13T19:54:00.000Z",
+      "headline": "More home buyers are turning to this type of mortgage in an unaffordable market &#x2014; but sometimes it works against them",
+      "url": "https://www.marketwatch.com/story/more-home-buyers-are-turning-to-this-type-of-mortgage-in-an-unaffordable-market-but-sometimes-it-works-against-them-c88ceb7d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Even in a market where buyers should have the upper hand, misperceptions about FHA loans can create barriers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
