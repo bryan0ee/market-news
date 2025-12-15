@@ -1,80 +1,33 @@
 {
-  "last_updated": "2025-12-15T13:43:01.040Z",
+  "last_updated": "2025-12-15T23:30:07.794Z",
   "items": [
     {
-      "ts": "2025-12-15T11:24:00.000Z",
-      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
-      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+      "ts": "2025-12-15T23:12:00.000Z",
+      "headline": "Broadcom&#x2019;s worst three-day stock slide since 2020 marks a humbling of sorts",
+      "url": "https://www.marketwatch.com/story/broadcoms-worst-three-day-stock-slide-since-2020-marks-a-humbling-of-sorts-608b1960?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "META"
+      ],
+      "summary_en": "Meta is now worth more than Broadcom once again.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T22:20:00.000Z",
+      "headline": "You&#x2019;ve just won the $1.1 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
+      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
+      "summary_en": "But even if you&#x2019;re not a big lottery winner in Monday&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T13:19:00.000Z",
-      "headline": "AI is crushing these once-reliable tech stocks. Are investors missing the point?",
-      "url": "https://www.marketwatch.com/story/ai-is-crushing-these-once-reliable-tech-stocks-are-investors-missing-the-point-7bc222ac?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "FactSet and Gartner are among the S&P 500&#x2019;s worst performers this year &#x2014; but some on Wall Street see resilient and sticky businesses that can adapt to AI.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T11:01:00.000Z",
-      "headline": "&#x2018;Am I simply the unloved son?&#x2019; My mother ghosted me after my father died. Is she stealing his money?",
-      "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;No phone calls, no holiday cards, no explanation, no anything.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T13:36:00.000Z",
-      "headline": "The AI boom will turn to bust in 2026, says this forecaster who offers his trade of the year",
-      "url": "https://www.marketwatch.com/story/the-ai-boom-will-turn-to-bust-next-year-says-this-forecaster-who-offers-his-trade-of-the-year-9c2a2332?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "High valuations leave stocks vulnerable to a big tech sell-off, according to BCA Research",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T13:30:00.000Z",
-      "headline": "Gen X-ers are lagging behind in  retirement saving and planning. Here&#x2019;s how to catch up.",
-      "url": "https://www.marketwatch.com/story/gen-x-ers-are-lagging-behind-in-retirement-saving-and-planning-heres-how-to-catch-up-0d85f543?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A majority of Gen X-ers didn&#x2019;t prioritize retirement until age 50 or older.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T10:30:00.000Z",
-      "headline": "&#x2018;We all have economic jitters&#x2019;: After the Fed cut rates, should my son buy a $600K house?",
-      "url": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;They are tuned in to friends and colleagues, who are losing jobs, cognizant of shifts in company agendas and financial worries.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T10:22:00.000Z",
+      "ts": "2025-12-15T22:05:00.000Z",
       "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
       "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -86,51 +39,112 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T13:06:00.000Z",
-      "headline": "Why gold and bitcoin are uninvestible to this Wall Street legend",
-      "url": "https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?mod=mw_rss_topstories",
+      "ts": "2025-12-15T21:52:00.000Z",
+      "headline": "Trouble persists in a key corner of financial markets &#x2014; and these assets face the greatest risk",
+      "url": "https://www.marketwatch.com/story/trouble-persists-in-a-key-corner-of-financial-markets-and-these-assets-face-the-greatest-risk-badbf845?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "NEE",
+        "ED"
       ],
-      "summary_en": "Howard Marks has been writing investment memos for 35 years &#x2014; and the one thing you&#x2019;ll never read is him making the case for gold or bitcoin.",
+      "summary_en": "Signs of possible trouble are cropping up again in a crucial corner of the financial market despite the Federal Reserve&#x2019;s best efforts to calm things down &#x2014; raising questions about whether the central bank might need to do more.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T12:36:00.000Z",
-      "headline": "The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1",
-      "url": "https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories",
+      "ts": "2025-12-15T21:30:00.000Z",
+      "headline": "&#x2018;Am I simply the unloved son?&#x2019; My mother ghosted me after my father died. Is she stealing his money?",
+      "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The subsidies that made Affordable Care Act plans more affordable are expiring, and marketplace coverage in 2026 will be much more expensive.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T12:00:00.000Z",
-      "headline": "I&#x2019;m 60 and plan to buy my mother&#x2019;s home in Georgia. Should I get a mortgage or family loan?",
-      "url": "https://www.marketwatch.com/story/im-60-and-plan-to-buy-my-mothers-home-in-georgia-should-i-get-a-mortgage-or-family-loan-ff371264?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I have read that there is such a thing as a family loan that I can enter into with my mother.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211b.htm",
-      "impact": "Bullish",
-      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "summary_en": "&#x201c;No phone calls, no holiday cards, no explanation, no anything.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T21:25:00.000Z",
+      "headline": "Wall Street&#x2019;s lone Nvidia bear is doubling down on his call, with high conviction",
+      "url": "https://www.marketwatch.com/story/wall-streets-lone-nvidia-bear-is-doubling-down-on-his-call-with-high-conviction-97569087?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Seaport Research&#x2019;s negative view of Nvidia&#x2019;s stock hasn&#x2019;t panned out thus far, but analyst Jay Goldberg is emphasizing the recommendation as he looks to 2026.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T21:21:00.000Z",
+      "headline": "Analyst takes &#x2018;contrarian stance&#x2019; on Costco&#x2019;s stock and says it&#x2019;s time to sell",
+      "url": "https://www.marketwatch.com/story/analyst-takes-contrarian-stance-on-costcos-stock-and-says-its-time-to-sell-79cd07e8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Slower membership trends, competition from Walmart and caution around starting a family all present risks to the big-box retailer, a Roth analyst said.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T23:02:00.000Z",
+      "headline": "Why Oracle&#x2019;s stock &#x2014; and its bonds &#x2014; can&#x2019;t shake off AI spending fears",
+      "url": "https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Oracle has left nervous investors with more questions than answers about the company&#x2019;s AI financing plans.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T22:19:00.000Z",
+      "headline": "Why Ford is scrapping major EV plans and taking a $19.5 billion hit",
+      "url": "https://www.marketwatch.com/story/why-ford-is-scrapping-major-ev-plans-and-taking-a-19-5-billion-hit-4d42e9ef?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The Detroit automaker is refocusing on hybrids and pouring money into battery-energy storage.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T21:17:00.000Z",
+      "headline": "Why ServiceNow&#x2019;s stock just sank to its worst day in 11 months",
+      "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-sinking-toward-its-worst-day-in-11-months-7968e353?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The stock drop reflects concerns that ServiceNow could get more acquisitive in a bid to ignite growth.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T16:00:00.000Z",
+      "headline": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T16:00:00.000Z",
+      "headline": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215b.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -143,6 +157,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211b.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
