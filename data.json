@@ -1,9 +1,93 @@
 {
-  "last_updated": "2025-12-14T23:27:56.624Z",
+  "last_updated": "2025-12-15T10:51:36.465Z",
   "items": [
     {
-      "ts": "2025-12-14T23:18:00.000Z",
-      "headline": "U.S. stock futures little changed ahead of year&#x2019;s last full week of trading",
+      "ts": "2025-12-15T10:15:00.000Z",
+      "headline": "&#x2018;Affordability is a con job for consumers&#x2019;: 2025 was one hell of a year. What can we learn from it?",
+      "url": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T10:30:00.000Z",
+      "headline": "&#x2018;We all have economic jitters&#x2019;: After the Fed cut rates, should my son buy a $600K house?",
+      "url": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;They are tuned in to friends and colleagues, who are losing jobs, cognizant of shifts in company agendas and financial worries.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T10:22:00.000Z",
+      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
+      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T10:01:00.000Z",
+      "headline": "Maroon 5 frontman Adam Levine and supermodel Behati Prinsloo buy a $17 million chunk of Oprah&#x2019;s &#x2018;promised land&#x2019; estate",
+      "url": "https://www.marketwatch.com/story/maroon-5-frontman-adam-levine-and-supermodel-behati-prinsloo-buy-a-17-million-chunk-of-oprahs-promised-land-estate-d25d4e46?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "California is home to hundreds of properties with celebrity history&#x2014;but it&#x2019;s unlikely any dwelling can compete with the legacy of the one that was just sold by TV mogul Oprah Winfrey.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T09:57:00.000Z",
+      "headline": "Actress Emma Stone sells Austin mansion she never lived in for $23.5 million",
+      "url": "https://www.marketwatch.com/story/actress-emma-stone-sells-austin-mansion-she-never-lived-in-for-23-5-million-8b5c5753?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Actress&#xa0;Emma Stone will kick off 2026 with one less thing to worry about&#x2014;after selling her newly-renovated&#xa0;Texas&#xa0;mansion a year after listing it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T09:43:00.000Z",
+      "headline": "Sanofi stock slumps after two setbacks on multiple-sclerosis drug",
+      "url": "https://www.marketwatch.com/story/sanofi-stock-slumps-after-two-setbacks-on-multiple-sclerosis-drug-c030de52?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Sanofi slumped on Monday as the French drugmaker said a U.S. regulatory review of its multiple-sclerosis drug won&#x2019;t be completed by the end of the year and that a trial for a different form of MS didn&#x2019;t succeed.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T10:00:00.000Z",
+      "headline": "The last major Wall Street bank to set its 2026 target forecasts double-digit gains for the S&P 500",
+      "url": "https://www.marketwatch.com/story/the-last-major-wall-street-bank-to-set-its-2026-target-forecasts-double-digit-gains-for-the-s-p-500-de462b0a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "High valuations represent a hurdle for the markets but not an insurmountable one",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T03:54:00.000Z",
+      "headline": "U.S. stock futures rise ahead of year&#x2019;s last full week of trading",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-ahead-of-years-last-full-week-of-trading-58783137?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -14,112 +98,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-14T21:54:00.000Z",
-      "headline": "Hassett says Trump would have &#x2018;no weight&#x2019; on Fed&#x2019;s decision-making if he&#x2019;s chair",
-      "url": "https://www.marketwatch.com/story/hassett-says-trump-would-have-no-weight-on-feds-decision-making-if-hes-chair-8cf59cfb?mod=mw_rss_topstories",
+      "ts": "2025-12-15T01:21:00.000Z",
+      "headline": "Roomba maker iRobot files for bankruptcy, will go private",
+      "url": "https://www.marketwatch.com/story/roomba-maker-irobot-files-for-bankruptcy-will-go-private-aa2277df?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Kevin Hassett, President Donald Trump&#x2019;s top economic adviser, on Sunday dismissed concerns that he would simply push Trump&#x2019;s agenda if he&#x2019;s chosen as the next Fed chair.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T20:32:00.000Z",
-      "headline": "Stocks risk a stir-up in last trading push of the year. Where to put your money.",
-      "url": "https://www.marketwatch.com/story/stocks-risk-a-stir-up-in-last-trading-push-of-the-year-where-to-put-your-money-ec3792d1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A delayed November jobs report and key inflation reading are not the only things that could gin up market turmoil.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T20:05:00.000Z",
-      "headline": "&#x2018;It&#x2019;s a perilous choice&#x2019;: I&#x2019;ve been offered a part-time job. Do I file for Social Security at 67 or 70?",
-      "url": "https://www.marketwatch.com/story/its-a-perilous-choice-ive-been-offered-a-part-time-job-do-i-file-for-social-security-at-67-or-70-8e1ae6d3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My income will be reduced to less than one-fifth of my current annual salary.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T19:16:00.000Z",
-      "headline": "Here&#x2019;s how to check up on a financial adviser before you invest your money",
-      "url": "https://www.marketwatch.com/story/investigating-a-financial-adviser-can-keep-you-out-of-trouble-this-free-online-tool-makes-it-easy-8e9b52b5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Some red flags are worse than others. This free online tool gives you information you need.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T22:00:00.000Z",
-      "headline": "The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1",
-      "url": "https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The subsidies that made Affordable Care Act plans more affordable are expiring, and marketplace coverage in 2026 will be much more expensive.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T18:16:00.000Z",
-      "headline": "My mother-in-law, 81, is guilting us into paying for her &#x2018;bucket list&#x2019; trip to Italy. Do we say no?",
-      "url": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I have my own trip to Europe planned for next year and I can&#x2019;t afford both trips.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T20:23:00.000Z",
-      "headline": "&#x2018;Where are we vulnerable?&#x2019; My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
-      "url": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We will not be downsizing our home, but we do have rental income of about $1,500 per month.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T15:38:00.000Z",
-      "headline": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
-      "url": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She owns two houses and lives with a disabled son.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T15:39:00.000Z",
-      "headline": "&#x2018;This seems absolutely insane&#x2019;: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
-      "url": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;They have already paid the mortgage. It makes no sense to require them to &#x2018;pay&#x2019; it again.&#x201d;",
+      "summary_en": "Roomba maker iRobot filed for Chapter 11 bankruptcy Sunday and will turn over its business to a pair of Chinese companies and go private, capping a years-long fall from grace.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -192,6 +179,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-14T22:00:00.000Z",
+      "headline": "The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1",
+      "url": "https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The subsidies that made Affordable Care Act plans more affordable are expiring, and marketplace coverage in 2026 will be much more expensive.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
