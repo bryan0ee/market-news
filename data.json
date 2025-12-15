@@ -1,16 +1,64 @@
 {
-  "last_updated": "2025-12-15T10:51:36.465Z",
+  "last_updated": "2025-12-15T13:43:01.040Z",
   "items": [
     {
-      "ts": "2025-12-15T10:15:00.000Z",
-      "headline": "&#x2018;Affordability is a con job for consumers&#x2019;: 2025 was one hell of a year. What can we learn from it?",
-      "url": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2025-12-15T11:24:00.000Z",
+      "headline": "&#x2018;This feels like an opportunity&#x2019;: I&#x2019;m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
+      "url": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers.",
+      "summary_en": "&#x201c;I also have $1,000 on a credit card, which will be paid in full next month.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T13:19:00.000Z",
+      "headline": "AI is crushing these once-reliable tech stocks. Are investors missing the point?",
+      "url": "https://www.marketwatch.com/story/ai-is-crushing-these-once-reliable-tech-stocks-are-investors-missing-the-point-7bc222ac?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "FactSet and Gartner are among the S&P 500&#x2019;s worst performers this year &#x2014; but some on Wall Street see resilient and sticky businesses that can adapt to AI.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T11:01:00.000Z",
+      "headline": "&#x2018;Am I simply the unloved son?&#x2019; My mother ghosted me after my father died. Is she stealing his money?",
+      "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;No phone calls, no holiday cards, no explanation, no anything.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T13:36:00.000Z",
+      "headline": "The AI boom will turn to bust in 2026, says this forecaster who offers his trade of the year",
+      "url": "https://www.marketwatch.com/story/the-ai-boom-will-turn-to-bust-next-year-says-this-forecaster-who-offers-his-trade-of-the-year-9c2a2332?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "High valuations leave stocks vulnerable to a big tech sell-off, according to BCA Research",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T13:30:00.000Z",
+      "headline": "Gen X-ers are lagging behind in  retirement saving and planning. Here&#x2019;s how to catch up.",
+      "url": "https://www.marketwatch.com/story/gen-x-ers-are-lagging-behind-in-retirement-saving-and-planning-heres-how-to-catch-up-0d85f543?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A majority of Gen X-ers didn&#x2019;t prioritize retirement until age 50 or older.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,75 +86,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T10:01:00.000Z",
-      "headline": "Maroon 5 frontman Adam Levine and supermodel Behati Prinsloo buy a $17 million chunk of Oprah&#x2019;s &#x2018;promised land&#x2019; estate",
-      "url": "https://www.marketwatch.com/story/maroon-5-frontman-adam-levine-and-supermodel-behati-prinsloo-buy-a-17-million-chunk-of-oprahs-promised-land-estate-d25d4e46?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "California is home to hundreds of properties with celebrity history&#x2014;but it&#x2019;s unlikely any dwelling can compete with the legacy of the one that was just sold by TV mogul Oprah Winfrey.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T09:57:00.000Z",
-      "headline": "Actress Emma Stone sells Austin mansion she never lived in for $23.5 million",
-      "url": "https://www.marketwatch.com/story/actress-emma-stone-sells-austin-mansion-she-never-lived-in-for-23-5-million-8b5c5753?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Actress&#xa0;Emma Stone will kick off 2026 with one less thing to worry about&#x2014;after selling her newly-renovated&#xa0;Texas&#xa0;mansion a year after listing it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T09:43:00.000Z",
-      "headline": "Sanofi stock slumps after two setbacks on multiple-sclerosis drug",
-      "url": "https://www.marketwatch.com/story/sanofi-stock-slumps-after-two-setbacks-on-multiple-sclerosis-drug-c030de52?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Sanofi slumped on Monday as the French drugmaker said a U.S. regulatory review of its multiple-sclerosis drug won&#x2019;t be completed by the end of the year and that a trial for a different form of MS didn&#x2019;t succeed.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T10:00:00.000Z",
-      "headline": "The last major Wall Street bank to set its 2026 target forecasts double-digit gains for the S&P 500",
-      "url": "https://www.marketwatch.com/story/the-last-major-wall-street-bank-to-set-its-2026-target-forecasts-double-digit-gains-for-the-s-p-500-de462b0a?mod=mw_rss_topstories",
+      "ts": "2025-12-15T13:06:00.000Z",
+      "headline": "Why gold and bitcoin are uninvestible to this Wall Street legend",
+      "url": "https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "High valuations represent a hurdle for the markets but not an insurmountable one",
+      "summary_en": "Howard Marks has been writing investment memos for 35 years &#x2014; and the one thing you&#x2019;ll never read is him making the case for gold or bitcoin.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T03:54:00.000Z",
-      "headline": "U.S. stock futures rise ahead of year&#x2019;s last full week of trading",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-ahead-of-years-last-full-week-of-trading-58783137?mod=mw_rss_topstories",
+      "ts": "2025-12-15T12:36:00.000Z",
+      "headline": "The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1",
+      "url": "https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Stocks slid on Friday, led by a sharp decline in the tech sector, as investors continue a &#x201c;rotation trade&#x201d; out of AI stocks.",
+      "summary_en": "The subsidies that made Affordable Care Act plans more affordable are expiring, and marketplace coverage in 2026 will be much more expensive.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T01:21:00.000Z",
-      "headline": "Roomba maker iRobot files for bankruptcy, will go private",
-      "url": "https://www.marketwatch.com/story/roomba-maker-irobot-files-for-bankruptcy-will-go-private-aa2277df?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2025-12-15T12:00:00.000Z",
+      "headline": "I&#x2019;m 60 and plan to buy my mother&#x2019;s home in Georgia. Should I get a mortgage or family loan?",
+      "url": "https://www.marketwatch.com/story/im-60-and-plan-to-buy-my-mothers-home-in-georgia-should-i-get-a-mortgage-or-family-loan-ff371264?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Roomba maker iRobot filed for Chapter 11 bankruptcy Sunday and will turn over its business to a pair of Chinese companies and go private, capping a years-long fall from grace.",
+      "summary_en": "&#x201c;I have read that there is such a thing as a family loan that I can enter into with my mother.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -179,18 +191,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-14T22:00:00.000Z",
-      "headline": "The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1",
-      "url": "https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The subsidies that made Affordable Care Act plans more affordable are expiring, and marketplace coverage in 2026 will be much more expensive.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
