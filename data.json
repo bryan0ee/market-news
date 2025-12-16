@@ -1,92 +1,8 @@
 {
-  "last_updated": "2025-12-16T10:50:11.028Z",
+  "last_updated": "2025-12-16T13:40:58.576Z",
   "items": [
     {
-      "ts": "2025-12-16T10:10:00.000Z",
-      "headline": "While Ford shares are remarkably steady after $20 billion charge, these stocks are getting battered",
-      "url": "https://www.marketwatch.com/story/while-ford-shares-are-remarkably-steady-after-20-billion-charge-these-stocks-are-getting-battered-bbbcfa04?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Ford Motor Co.&#x2019;s decision to take a nearly $20 billion charge as it shifts to hybrids from electric vehicles had little impact on the automaker&#x2019;s stock but did send shares of battery makers lower.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T10:02:00.000Z",
-      "headline": "Kendall Jenner gives a peek into her quirky, secret mountain home with &#x2018;grandma chic&#x2019; decor",
-      "url": "https://www.marketwatch.com/story/kendall-jenner-gives-a-peek-into-her-quirky-secret-mountain-home-with-grandma-chic-decor-69019188?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Supermodel Kendall Jenner has unveiled the &#x201c;top secret&#x201d; mountain sanctuary she had built to serve as her escape from Hollywood&#x2014;and where she one day hopes to raise a family.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T09:58:00.000Z",
-      "headline": "Here&#x2019;s your chance to rent the swanky Nashville home of finance guru Dave Ramsey&#x2014;and it&#x2019;s kind of a bargain",
-      "url": "https://www.marketwatch.com/story/heres-your-chance-to-rent-the-swanky-nashville-home-of-finance-guru-dave-ramseyand-its-kind-of-a-bargain-5e1c894a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Dave Ramsey is willing to provide one lucky person with a budget-friendly living situation, even if it means taking a financial hit himself.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T09:36:00.000Z",
-      "headline": "Wall Street is no longer rewarding job-cut announcements, Goldman analysis finds",
-      "url": "https://www.marketwatch.com/story/wall-street-is-no-longer-rewarding-job-cut-announcements-goldman-analysis-finds-a60c87a4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Goldman Sachs analysis suggests investors are perhaps seeing through the real reasons behind the announcement of job losses by companies.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T03:45:00.000Z",
-      "headline": "Broadcom&#x2019;s worst three-day stock slide since 2020 marks a humbling of sorts",
-      "url": "https://www.marketwatch.com/story/broadcoms-worst-three-day-stock-slide-since-2020-marks-a-humbling-of-sorts-608b1960?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "Meta is now worth more than Broadcom once again.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T00:07:00.000Z",
-      "headline": "2025 was one hell of a year. Consumers should expect more &#x2018;silent pain&#x2019; in 2026",
-      "url": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T00:56:00.000Z",
-      "headline": "Two Fed officials who rarely agree both say inflation will not be a problem going forward",
-      "url": "https://www.marketwatch.com/story/two-fed-officials-who-rarely-agree-both-say-inflation-will-not-be-a-problem-going-forward-f5425178?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Fed governor Stephen Miran and New York Fed President John Williams say they are not worried about inflation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T00:30:00.000Z",
+      "ts": "2025-12-16T13:36:00.000Z",
       "headline": "&#x2018;Am I simply the unloved son?&#x2019; My mother ghosted me after my father died. Is she stealing his money?",
       "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,15 +14,111 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T00:08:00.000Z",
-      "headline": "&#x2018;We all have economic jitters&#x2019;: After the Fed cut rates, should my son buy a $600K house?",
-      "url": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
+      "ts": "2025-12-16T13:36:00.000Z",
+      "headline": "This famed short seller explains why he&#x2019;s doubling down on his bet against data centers",
+      "url": "https://www.marketwatch.com/story/this-famed-short-seller-explains-why-hes-doubling-down-on-his-bet-against-data-centers-fccb1649?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;They are tuned in to friends and colleagues, who are losing jobs, cognizant of shifts in company agendas and financial worries.&#x201d;",
+      "summary_en": "Jim Chanos says he&#x2019;s not a fan of AI data centers, as he warns that the risk of a dot-com 2.0 is building.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T13:20:00.000Z",
+      "headline": "Dow Transports are stock-market leaders now. Here&#x2019;s what that means for investors.",
+      "url": "https://www.marketwatch.com/story/dow-transports-are-stock-market-leaders-now-heres-what-that-means-for-investors-a327fde4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Dow Transportation index is considered a bellwether for the broad market &#x2014; but that might be overstating things.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T13:18:00.000Z",
+      "headline": "&#x2018;It&#x2019;s heartbreaking&#x2019;: My cousin died and her estranged husband has taken possession of her home. Can we evict him?",
+      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The house remains in her name. He has since kicked out each of the boys one by one.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T12:50:00.000Z",
+      "headline": "China is quietly destroying the dollar &#x2014; and that&#x2019;ll cost you. Fight back with these money moves.",
+      "url": "https://www.marketwatch.com/story/china-is-quietly-destroying-the-dollar-and-thatll-cost-you-fight-back-with-these-money-moves-b21c9484?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "When the U.S. dollar loses its monopoly on pricing the world&#x2019;s critical resources, Americans&#x2019; purchasing power weakens.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T12:47:00.000Z",
+      "headline": "Here&#x2019;s why Pfizer is revising its revenue forecasts",
+      "url": "https://www.marketwatch.com/story/heres-why-pfizer-is-revising-its-revenue-forecasts-c6ed3e12?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The drugmaker revised its revenue guidance for 2025, saying it now expects $62 billion in revenue for the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T13:10:00.000Z",
+      "headline": "There&#x2019;s one way to hold crypto in your 401(k) right now &#x2014; but you&#x2019;ll be on your own",
+      "url": "https://www.marketwatch.com/story/theres-one-way-to-hold-crypto-in-your-401-k-right-now-but-youll-be-on-your-own-320ef47f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Crypto is on a path to inclusion in retirement plans &#x2014; if it can get past company plan sponsors",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T13:00:00.000Z",
+      "headline": "Big Tech stocks are getting cheaper, and that could mean gains of up to 60%",
+      "url": "https://www.marketwatch.com/story/big-tech-stocks-are-getting-cheaper-and-that-could-mean-gains-of-up-to-60-fdf1b70c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "S&P 500 stocks may be expensive relative to their historical averages, but many are cheaper than they were at the start of the quarter.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T12:56:00.000Z",
+      "headline": "Fund managers hold record low in cash as sentiment hits four-year high",
+      "url": "https://www.marketwatch.com/story/fund-managers-hold-record-low-in-cash-as-sentiment-hits-four-year-high-a42e5538?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It&#x2019;s the most bullish fund manager survey in the last 3.5 years, says Bank of America&#x2019;s chief investment strategist",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T12:54:00.000Z",
+      "headline": "Gen X is lagging in retirement saving and planning. Here&#x2019;s how to catch up.",
+      "url": "https://www.marketwatch.com/story/gen-x-ers-are-lagging-behind-in-retirement-saving-and-planning-heres-how-to-catch-up-0d85f543?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A majority of Gen X-ers didn&#x2019;t prioritize retirement until age 50 or older.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -203,18 +215,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T23:02:00.000Z",
-      "headline": "Why Oracle&#x2019;s stock &#x2014; and its bonds &#x2014; can&#x2019;t shake off AI spending fears",
-      "url": "https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Oracle has left nervous investors with more questions than answers about the company&#x2019;s AI financing plans.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
