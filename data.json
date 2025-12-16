@@ -1,8 +1,56 @@
 {
-  "last_updated": "2025-12-15T23:30:07.794Z",
+  "last_updated": "2025-12-16T10:50:11.028Z",
   "items": [
     {
-      "ts": "2025-12-15T23:12:00.000Z",
+      "ts": "2025-12-16T10:10:00.000Z",
+      "headline": "While Ford shares are remarkably steady after $20 billion charge, these stocks are getting battered",
+      "url": "https://www.marketwatch.com/story/while-ford-shares-are-remarkably-steady-after-20-billion-charge-these-stocks-are-getting-battered-bbbcfa04?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Ford Motor Co.&#x2019;s decision to take a nearly $20 billion charge as it shifts to hybrids from electric vehicles had little impact on the automaker&#x2019;s stock but did send shares of battery makers lower.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T10:02:00.000Z",
+      "headline": "Kendall Jenner gives a peek into her quirky, secret mountain home with &#x2018;grandma chic&#x2019; decor",
+      "url": "https://www.marketwatch.com/story/kendall-jenner-gives-a-peek-into-her-quirky-secret-mountain-home-with-grandma-chic-decor-69019188?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Supermodel Kendall Jenner has unveiled the &#x201c;top secret&#x201d; mountain sanctuary she had built to serve as her escape from Hollywood&#x2014;and where she one day hopes to raise a family.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T09:58:00.000Z",
+      "headline": "Here&#x2019;s your chance to rent the swanky Nashville home of finance guru Dave Ramsey&#x2014;and it&#x2019;s kind of a bargain",
+      "url": "https://www.marketwatch.com/story/heres-your-chance-to-rent-the-swanky-nashville-home-of-finance-guru-dave-ramseyand-its-kind-of-a-bargain-5e1c894a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Dave Ramsey is willing to provide one lucky person with a budget-friendly living situation, even if it means taking a financial hit himself.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T09:36:00.000Z",
+      "headline": "Wall Street is no longer rewarding job-cut announcements, Goldman analysis finds",
+      "url": "https://www.marketwatch.com/story/wall-street-is-no-longer-rewarding-job-cut-announcements-goldman-analysis-finds-a60c87a4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Goldman Sachs analysis suggests investors are perhaps seeing through the real reasons behind the announcement of job losses by companies.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T03:45:00.000Z",
       "headline": "Broadcom&#x2019;s worst three-day stock slide since 2020 marks a humbling of sorts",
       "url": "https://www.marketwatch.com/story/broadcoms-worst-three-day-stock-slide-since-2020-marks-a-humbling-of-sorts-608b1960?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,45 +62,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T22:20:00.000Z",
-      "headline": "You&#x2019;ve just won the $1.1 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "But even if you&#x2019;re not a big lottery winner in Monday&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T22:05:00.000Z",
-      "headline": "&#x2018;The stress at my job is getting worse every day&#x2019;: I&#x2019;m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
-      "url": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-16T00:07:00.000Z",
+      "headline": "2025 was one hell of a year. Consumers should expect more &#x2018;silent pain&#x2019; in 2026",
+      "url": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I don&#x2019;t want to end up in a nursing home on Medicare like my grandma.&#x201d;",
+      "summary_en": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T21:52:00.000Z",
-      "headline": "Trouble persists in a key corner of financial markets &#x2014; and these assets face the greatest risk",
-      "url": "https://www.marketwatch.com/story/trouble-persists-in-a-key-corner-of-financial-markets-and-these-assets-face-the-greatest-risk-badbf845?mod=mw_rss_topstories",
+      "ts": "2025-12-16T00:56:00.000Z",
+      "headline": "Two Fed officials who rarely agree both say inflation will not be a problem going forward",
+      "url": "https://www.marketwatch.com/story/two-fed-officials-who-rarely-agree-both-say-inflation-will-not-be-a-problem-going-forward-f5425178?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "Signs of possible trouble are cropping up again in a crucial corner of the financial market despite the Federal Reserve&#x2019;s best efforts to calm things down &#x2014; raising questions about whether the central bank might need to do more.",
+      "summary_en": "Fed governor Stephen Miran and New York Fed President John Williams say they are not worried about inflation.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T21:30:00.000Z",
+      "ts": "2025-12-16T00:30:00.000Z",
       "headline": "&#x2018;Am I simply the unloved son?&#x2019; My mother ghosted me after my father died. Is she stealing his money?",
       "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -64,87 +98,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-15T21:25:00.000Z",
-      "headline": "Wall Street&#x2019;s lone Nvidia bear is doubling down on his call, with high conviction",
-      "url": "https://www.marketwatch.com/story/wall-streets-lone-nvidia-bear-is-doubling-down-on-his-call-with-high-conviction-97569087?mod=mw_rss_topstories",
+      "ts": "2025-12-16T00:08:00.000Z",
+      "headline": "&#x2018;We all have economic jitters&#x2019;: After the Fed cut rates, should my son buy a $600K house?",
+      "url": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Seaport Research&#x2019;s negative view of Nvidia&#x2019;s stock hasn&#x2019;t panned out thus far, but analyst Jay Goldberg is emphasizing the recommendation as he looks to 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T21:21:00.000Z",
-      "headline": "Analyst takes &#x2018;contrarian stance&#x2019; on Costco&#x2019;s stock and says it&#x2019;s time to sell",
-      "url": "https://www.marketwatch.com/story/analyst-takes-contrarian-stance-on-costcos-stock-and-says-its-time-to-sell-79cd07e8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Slower membership trends, competition from Walmart and caution around starting a family all present risks to the big-box retailer, a Roth analyst said.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T23:02:00.000Z",
-      "headline": "Why Oracle&#x2019;s stock &#x2014; and its bonds &#x2014; can&#x2019;t shake off AI spending fears",
-      "url": "https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Oracle has left nervous investors with more questions than answers about the company&#x2019;s AI financing plans.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T22:19:00.000Z",
-      "headline": "Why Ford is scrapping major EV plans and taking a $19.5 billion hit",
-      "url": "https://www.marketwatch.com/story/why-ford-is-scrapping-major-ev-plans-and-taking-a-19-5-billion-hit-4d42e9ef?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The Detroit automaker is refocusing on hybrids and pouring money into battery-energy storage.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T21:17:00.000Z",
-      "headline": "Why ServiceNow&#x2019;s stock just sank to its worst day in 11 months",
-      "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-sinking-toward-its-worst-day-in-11-months-7968e353?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The stock drop reflects concerns that ServiceNow could get more acquisitive in a bid to ignite growth.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T16:00:00.000Z",
-      "headline": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T16:00:00.000Z",
-      "headline": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215b.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "summary_en": "&#x201c;They are tuned in to friends and colleagues, who are losing jobs, cognizant of shifts in company agendas and financial worries.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -169,6 +131,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T16:00:00.000Z",
+      "headline": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T16:00:00.000Z",
+      "headline": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215b.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -217,6 +203,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-15T23:02:00.000Z",
+      "headline": "Why Oracle&#x2019;s stock &#x2014; and its bonds &#x2014; can&#x2019;t shake off AI spending fears",
+      "url": "https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Oracle has left nervous investors with more questions than answers about the company&#x2019;s AI financing plans.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
