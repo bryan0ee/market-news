@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-12-16T13:40:58.576Z",
+  "last_updated": "2025-12-16T23:29:33.548Z",
   "items": [
     {
-      "ts": "2025-12-16T13:36:00.000Z",
+      "ts": "2025-12-16T23:25:00.000Z",
       "headline": "&#x2018;Am I simply the unloved son?&#x2019; My mother ghosted me after my father died. Is she stealing his money?",
       "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,31 +14,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T13:36:00.000Z",
-      "headline": "This famed short seller explains why he&#x2019;s doubling down on his bet against data centers",
-      "url": "https://www.marketwatch.com/story/this-famed-short-seller-explains-why-hes-doubling-down-on-his-bet-against-data-centers-fccb1649?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Jim Chanos says he&#x2019;s not a fan of AI data centers, as he warns that the risk of a dot-com 2.0 is building.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T13:20:00.000Z",
-      "headline": "Dow Transports are stock-market leaders now. Here&#x2019;s what that means for investors.",
-      "url": "https://www.marketwatch.com/story/dow-transports-are-stock-market-leaders-now-heres-what-that-means-for-investors-a327fde4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Dow Transportation index is considered a bellwether for the broad market &#x2014; but that might be overstating things.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T13:18:00.000Z",
+      "ts": "2025-12-16T23:25:00.000Z",
       "headline": "&#x2018;It&#x2019;s heartbreaking&#x2019;: My cousin died and her estranged husband has taken possession of her home. Can we evict him?",
       "url": "https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,87 +26,111 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T12:50:00.000Z",
-      "headline": "China is quietly destroying the dollar &#x2014; and that&#x2019;ll cost you. Fight back with these money moves.",
-      "url": "https://www.marketwatch.com/story/china-is-quietly-destroying-the-dollar-and-thatll-cost-you-fight-back-with-these-money-moves-b21c9484?mod=mw_rss_topstories",
+      "ts": "2025-12-16T22:52:00.000Z",
+      "headline": "Paramount&#x2019;s hostile bid for Warner Bros. shaken as Trump&#x2019;s son-in-law drops out",
+      "url": "https://www.marketwatch.com/story/paramounts-hostile-bid-for-warner-bros-shaken-as-trumps-son-in-law-drops-out-4286b3df?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "COST"
+        "ED"
       ],
-      "summary_en": "When the U.S. dollar loses its monopoly on pricing the world&#x2019;s critical resources, Americans&#x2019; purchasing power weakens.",
+      "summary_en": "Paramount Skydance&#x2019;s financing for its $108 billion bid for Warner Bros. Discovery took a blow on Tuesday as President Donald Trump&#x2019;s son-in-law, Jared Kushner, dropped out of the hostile takeover attempt.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T12:47:00.000Z",
-      "headline": "Here&#x2019;s why Pfizer is revising its revenue forecasts",
+      "ts": "2025-12-16T22:14:00.000Z",
+      "headline": "Howard Stern and his 1 million listeners still have value for Sirius with contract extension",
+      "url": "https://www.marketwatch.com/story/howard-stern-and-his-1-million-listeners-still-have-value-for-sirius-with-contract-extension-75405b3e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The terms of Stern&#x2019;s deal were not disclosed, and while he commands a far smaller audience than in his heyday, it is still larger than most.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T22:13:00.000Z",
+      "headline": "Pfizer&#x2019;s stock drops after drug giant lowers its revenue forecast",
       "url": "https://www.marketwatch.com/story/heres-why-pfizer-is-revising-its-revenue-forecasts-c6ed3e12?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The drugmaker revised its revenue guidance for 2025, saying it now expects $62 billion in revenue for the year.",
+      "summary_en": "The pharmaceutical company updated its sales guidance for 2025, saying it now expects $62 billion in revenue for the year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T13:10:00.000Z",
-      "headline": "There&#x2019;s one way to hold crypto in your 401(k) right now &#x2014; but you&#x2019;ll be on your own",
-      "url": "https://www.marketwatch.com/story/theres-one-way-to-hold-crypto-in-your-401-k-right-now-but-youll-be-on-your-own-320ef47f?mod=mw_rss_topstories",
+      "ts": "2025-12-16T22:08:00.000Z",
+      "headline": "Tesla&#x2019;s stock finally clinches a milestone almost a year in the making",
+      "url": "https://www.marketwatch.com/story/teslas-stock-finally-clinches-a-milestone-almost-a-year-in-the-making-aceaf620?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Crypto is on a path to inclusion in retirement plans &#x2014; if it can get past company plan sponsors",
+      "summary_en": "Shares saw their first record close since December 2024, helping support the continued reign of the &#x201c;Magnificent Seven.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T13:00:00.000Z",
-      "headline": "Big Tech stocks are getting cheaper, and that could mean gains of up to 60%",
-      "url": "https://www.marketwatch.com/story/big-tech-stocks-are-getting-cheaper-and-that-could-mean-gains-of-up-to-60-fdf1b70c?mod=mw_rss_topstories",
+      "ts": "2025-12-16T22:07:00.000Z",
+      "headline": "Pot stocks keep blazing after Trump says he&#x2019;s &#x2018;very strongly&#x2019; looking at rescheduling cannabis",
+      "url": "https://www.marketwatch.com/story/pot-stocks-keep-blazing-after-trump-says-hes-very-strongly-looking-at-rescheduling-cannabis-73dca4fc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "S&P 500 stocks may be expensive relative to their historical averages, but many are cheaper than they were at the start of the quarter.",
+      "summary_en": "Shares of cannabis stocks continued their rally Tuesday, after President Donald Trump a day earlier said he was &#x201c;very strongly&#x201d; weighing an executive order to reschedule the drug.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T12:56:00.000Z",
-      "headline": "Fund managers hold record low in cash as sentiment hits four-year high",
-      "url": "https://www.marketwatch.com/story/fund-managers-hold-record-low-in-cash-as-sentiment-hits-four-year-high-a42e5538?mod=mw_rss_topstories",
+      "ts": "2025-12-16T20:38:00.000Z",
+      "headline": "Fed&#x2019;s Bostic expects no rate cuts in 2026 due to worries GOP tax bill might fuel inflation",
+      "url": "https://www.marketwatch.com/story/feds-bostic-expects-no-rate-cuts-in-2026-due-to-worries-gop-tax-bill-might-fuel-inflation-ebdf46fb?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "It&#x2019;s the most bullish fund manager survey in the last 3.5 years, says Bank of America&#x2019;s chief investment strategist",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T12:54:00.000Z",
-      "headline": "Gen X is lagging in retirement saving and planning. Here&#x2019;s how to catch up.",
-      "url": "https://www.marketwatch.com/story/gen-x-ers-are-lagging-behind-in-retirement-saving-and-planning-heres-how-to-catch-up-0d85f543?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A majority of Gen X-ers didn&#x2019;t prioritize retirement until age 50 or older.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
-      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "summary_en": "Atlanta Fed President Raphael Bostic said he thought the economy was no longer in danger of a sharp rise in the unemployment rate that might spur a recession.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T19:41:00.000Z",
+      "headline": "Here&#x2019;s how to hold crypto in your 401(k) right now, without waiting for your employer to come around",
+      "url": "https://www.marketwatch.com/story/theres-one-way-to-hold-crypto-in-your-401-k-right-now-but-youll-be-on-your-own-320ef47f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Crypto is headed to inclusion in retirement plans &#x2014; if it can get past company plan sponsors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T16:00:00.000Z",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251216a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T18:55:00.000Z",
+      "headline": "Gen Z would rather cut Social Security benefits for current retirees than pay higher taxes to save the program",
+      "url": "https://www.marketwatch.com/story/gen-z-would-rather-cut-social-security-benefits-for-current-retirees-than-pay-higher-taxes-to-save-the-program-8062b870?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There&#x2019;s a stark generational divide in how to solve the Social Security crisis.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -143,6 +143,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-11T22:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
