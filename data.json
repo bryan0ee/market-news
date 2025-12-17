@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-12-17T10:49:17.507Z",
+  "last_updated": "2025-12-17T13:35:32.992Z",
   "items": [
+    {
+      "ts": "2025-12-17T12:43:00.000Z",
+      "headline": "Precious metals are going to party like it&#x2019;s the 1970s, reckons Albert Edwards",
+      "url": "https://www.marketwatch.com/story/precious-metals-are-going-to-party-like-its-the-1970s-reckons-albert-edwards-f42fcd14?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "&#x201c;Is gold&#x2019;s 60% rally this year merely the appetizer for a late-1970s-style main course?&#x201d; asks Edwards",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-17T12:00:00.000Z",
+      "headline": "Why 2025 has been such a historic year for oil &#x2014; with prices set to finish near a 5-year low",
+      "url": "https://www.marketwatch.com/story/why-2025-has-been-such-a-historic-year-for-oil-with-prices-set-to-finish-near-a-5-year-low-117ba313?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The world has more oil than it needs, but a drop in crude prices this week to the lowest level in nearly five years may help slow production and boost demand.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-17T10:31:00.000Z",
       "headline": "Loss-making Chinese AI chipmaker founded by ex-AMD employees surges eightfold in debut",
@@ -64,15 +90,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-17T08:12:00.000Z",
-      "headline": "Tesla&#x2019;s stock finally clinches a milestone almost a year in the making",
-      "url": "https://www.marketwatch.com/story/teslas-stock-finally-clinches-a-milestone-almost-a-year-in-the-making-aceaf620?mod=mw_rss_topstories",
+      "ts": "2025-12-17T13:00:00.000Z",
+      "headline": "My 401(k) plan is emailing me about annuities, but I&#x2019;m only in my 50s. Is this something I should do?",
+      "url": "https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Shares saw their first record close since December 2024, helping support the continued reign of the &#x201c;Magnificent Seven.&#x201d;",
+      "summary_en": "Options will keep coming, but signing up for an annuity is something you want to carefully consider",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-17T12:35:00.000Z",
+      "headline": "Energy stocks are the new bonds, this strategist argues",
+      "url": "https://www.marketwatch.com/story/energy-stocks-are-the-new-bonds-this-strategist-argues-ae4db842?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "In an inflationary setting, why hold bonds at all, says Louis-Vincent Gave",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -85,30 +123,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T03:30:00.000Z",
-      "headline": "Store loyalty programs are taking your personal data and may use it to charge you more. Here&#x2019;s how to protect yourself.",
-      "url": "https://www.marketwatch.com/story/store-loyalty-programs-are-taking-your-personal-data-and-may-use-it-to-charge-you-more-heres-how-to-protect-yourself-93aca959?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Consumers might not just feel obligated to shop at a specific store because of their membership, but they could also end up paying more than they did before.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T01:28:00.000Z",
-      "headline": "Paramount&#x2019;s hostile bid for Warner Bros. shaken as Trump&#x2019;s son-in-law drops out",
-      "url": "https://www.marketwatch.com/story/paramounts-hostile-bid-for-warner-bros-shaken-as-trumps-son-in-law-drops-out-4286b3df?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Paramount Skydance&#x2019;s financing for its $108 billion bid for Warner Bros. Discovery took a blow on Tuesday as President Donald Trump&#x2019;s son-in-law, Jared Kushner, dropped out of the hostile takeover attempt.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -217,18 +231,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T01:26:00.000Z",
-      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
-      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
