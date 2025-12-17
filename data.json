@@ -1,8 +1,34 @@
 {
-  "last_updated": "2025-12-16T23:29:33.548Z",
+  "last_updated": "2025-12-17T10:49:17.507Z",
   "items": [
     {
-      "ts": "2025-12-16T23:25:00.000Z",
+      "ts": "2025-12-17T10:31:00.000Z",
+      "headline": "Loss-making Chinese AI chipmaker founded by ex-AMD employees surges eightfold in debut",
+      "url": "https://www.marketwatch.com/story/loss-making-chinese-ai-chipmaker-founded-by-ex-amd-employees-surges-eightfold-in-debut-5ed2941b?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "AMD",
+        "META",
+        "ED"
+      ],
+      "summary_en": "At 50 times price to sales, MetaX looks expensive but investor demand focused on China&#x2019;s determination to build national champions in the tech sector",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-17T10:31:00.000Z",
+      "headline": "&#x2018;We all have economic jitters&#x2019;: After the Fed cut rates, should my son buy a $600K house?",
+      "url": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;They are tuned in to friends and colleagues, who are losing jobs, cognizant of shifts in company agendas and financial worries.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-17T10:30:00.000Z",
       "headline": "&#x2018;Am I simply the unloved son?&#x2019; My mother ghosted me after my father died. Is she stealing his money?",
       "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,7 +40,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T23:25:00.000Z",
+      "ts": "2025-12-17T10:27:00.000Z",
       "headline": "&#x2018;It&#x2019;s heartbreaking&#x2019;: My cousin died and her estranged husband has taken possession of her home. Can we evict him?",
       "url": "https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,43 +52,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T22:52:00.000Z",
-      "headline": "Paramount&#x2019;s hostile bid for Warner Bros. shaken as Trump&#x2019;s son-in-law drops out",
-      "url": "https://www.marketwatch.com/story/paramounts-hostile-bid-for-warner-bros-shaken-as-trumps-son-in-law-drops-out-4286b3df?mod=mw_rss_topstories",
+      "ts": "2025-12-17T10:02:00.000Z",
+      "headline": "Mila Kunis jokes about her thankless role as head of her homeowners association&#x2014;it&#x2019;s &#x2018;complaints, all day long&#x2019;",
+      "url": "https://www.marketwatch.com/story/mila-kunis-jokes-about-her-thankless-role-as-head-of-her-homeowners-associationits-complaints-all-day-long-b5b55f2c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Paramount Skydance&#x2019;s financing for its $108 billion bid for Warner Bros. Discovery took a blow on Tuesday as President Donald Trump&#x2019;s son-in-law, Jared Kushner, dropped out of the hostile takeover attempt.",
+      "summary_en": "Actress Mila Kunis is used to her work being met with applause&#x2014;but the only thing she&#x2019;s getting in her role as the head of her local homeowners association is complaints.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T22:14:00.000Z",
-      "headline": "Howard Stern and his 1 million listeners still have value for Sirius with contract extension",
-      "url": "https://www.marketwatch.com/story/howard-stern-and-his-1-million-listeners-still-have-value-for-sirius-with-contract-extension-75405b3e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The terms of Stern&#x2019;s deal were not disclosed, and while he commands a far smaller audience than in his heyday, it is still larger than most.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T22:13:00.000Z",
-      "headline": "Pfizer&#x2019;s stock drops after drug giant lowers its revenue forecast",
-      "url": "https://www.marketwatch.com/story/heres-why-pfizer-is-revising-its-revenue-forecasts-c6ed3e12?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The pharmaceutical company updated its sales guidance for 2025, saying it now expects $62 billion in revenue for the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T22:08:00.000Z",
+      "ts": "2025-12-17T08:12:00.000Z",
       "headline": "Tesla&#x2019;s stock finally clinches a milestone almost a year in the making",
       "url": "https://www.marketwatch.com/story/teslas-stock-finally-clinches-a-milestone-almost-a-year-in-the-making-aceaf620?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -74,63 +76,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-16T22:07:00.000Z",
-      "headline": "Pot stocks keep blazing after Trump says he&#x2019;s &#x2018;very strongly&#x2019; looking at rescheduling cannabis",
-      "url": "https://www.marketwatch.com/story/pot-stocks-keep-blazing-after-trump-says-hes-very-strongly-looking-at-rescheduling-cannabis-73dca4fc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of cannabis stocks continued their rally Tuesday, after President Donald Trump a day earlier said he was &#x201c;very strongly&#x201d; weighing an executive order to reschedule the drug.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T20:38:00.000Z",
-      "headline": "Fed&#x2019;s Bostic expects no rate cuts in 2026 due to worries GOP tax bill might fuel inflation",
-      "url": "https://www.marketwatch.com/story/feds-bostic-expects-no-rate-cuts-in-2026-due-to-worries-gop-tax-bill-might-fuel-inflation-ebdf46fb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Atlanta Fed President Raphael Bostic said he thought the economy was no longer in danger of a sharp rise in the unemployment rate that might spur a recession.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T19:41:00.000Z",
-      "headline": "Here&#x2019;s how to hold crypto in your 401(k) right now, without waiting for your employer to come around",
-      "url": "https://www.marketwatch.com/story/theres-one-way-to-hold-crypto-in-your-401-k-right-now-but-youll-be-on-your-own-320ef47f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Crypto is headed to inclusion in retirement plans &#x2014; if it can get past company plan sponsors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T16:00:00.000Z",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251216a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-16T18:55:00.000Z",
-      "headline": "Gen Z would rather cut Social Security benefits for current retirees than pay higher taxes to save the program",
-      "url": "https://www.marketwatch.com/story/gen-z-would-rather-cut-social-security-benefits-for-current-retirees-than-pay-higher-taxes-to-save-the-program-8062b870?mod=mw_rss_topstories",
+      "ts": "2025-12-17T10:15:00.000Z",
+      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
+      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "There&#x2019;s a stark generational divide in how to solve the Social Security crisis.",
+      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-17T03:30:00.000Z",
+      "headline": "Store loyalty programs are taking your personal data and may use it to charge you more. Here&#x2019;s how to protect yourself.",
+      "url": "https://www.marketwatch.com/story/store-loyalty-programs-are-taking-your-personal-data-and-may-use-it-to-charge-you-more-heres-how-to-protect-yourself-93aca959?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Consumers might not just feel obligated to shop at a specific store because of their membership, but they could also end up paying more than they did before.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-17T01:28:00.000Z",
+      "headline": "Paramount&#x2019;s hostile bid for Warner Bros. shaken as Trump&#x2019;s son-in-law drops out",
+      "url": "https://www.marketwatch.com/story/paramounts-hostile-bid-for-warner-bros-shaken-as-trumps-son-in-law-drops-out-4286b3df?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Paramount Skydance&#x2019;s financing for its $108 billion bid for Warner Bros. Discovery took a blow on Tuesday as President Donald Trump&#x2019;s son-in-law, Jared Kushner, dropped out of the hostile takeover attempt.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,6 +133,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-16T16:00:00.000Z",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251216a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -227,6 +217,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-17T01:26:00.000Z",
+      "headline": "&#x2018;I am increasingly resentful&#x2019;: My husband of 10 years has $1 million and cars worth $200K. Why won&#x2019;t he give me money?",
+      "url": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I maintain the household, walk the dogs and cook regular meals for us both.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
