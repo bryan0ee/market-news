@@ -1,117 +1,32 @@
 {
-  "last_updated": "2025-12-17T23:29:51.584Z",
+  "last_updated": "2025-12-18T10:48:35.690Z",
   "items": [
     {
-      "ts": "2025-12-17T22:49:00.000Z",
-      "headline": "&#x2018;We all have economic jitters&#x2019;: After the Fed cut rates, should my son buy a $600K house?",
-      "url": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;They are tuned in to friends and colleagues, who are losing jobs, cognizant of shifts in company agendas and financial worries.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T22:39:00.000Z",
-      "headline": "You&#x2019;ve just won the $1.25 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "But even if you&#x2019;re not a big lottery winner in Wednesday&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T22:25:00.000Z",
-      "headline": "It&#x2019;s been illegal to make women have a man co-sign their loans since the &#x2019;70s. Now the Trump administration could change that.",
-      "url": "https://www.marketwatch.com/story/its-been-illegal-to-make-women-have-a-man-co-sign-their-loans-since-the-70s-now-the-trump-administration-could-change-that-307521b2?mod=mw_rss_topstories",
+      "ts": "2025-12-18T10:15:00.000Z",
+      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
+      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Proposed changes to a rule barring banks from discriminating against certain borrowers are &#x2018;alarming,&#x2019; and a &#x2018;step backwards,&#x2019; consumer advocates say",
+      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-17T22:13:00.000Z",
-      "headline": "Why Nvidia, Broadcom and other AI stocks are falling sharply",
-      "url": "https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd?mod=mw_rss_topstories",
+      "ts": "2025-12-18T10:04:00.000Z",
+      "headline": "Actress Lori Loughlin sells Palm Desert home for $16.5 million after split with husband",
+      "url": "https://www.marketwatch.com/story/actress-lori-loughlin-sells-palm-desert-home-for-16-5-million-after-split-with-husband-29f31813?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The AI trade is unwinding &#x2014; with investors increasingly worried about debt raising by companies like Oracle and CoreWeave used to finance AI data-center buildouts.",
+      "summary_en": "Former &#x201c;Full House&#x201d; star Lori Loughlin and her estranged husband, Mossimo Giannulli, have sold a second home in as many months after announcing they have split.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-17T21:43:00.000Z",
-      "headline": "Medline&#x2019;s IPO underscores broad investor appetite for a sleepy corner of the healthcare business",
-      "url": "https://www.marketwatch.com/story/medlines-ipo-underscores-broad-investor-appetite-for-a-sleepy-corner-of-the-healthcare-business-fa0dadce?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Medline&#x2019;s stock soared more than 40% above its IPO price on Wednesday, its first day of trading.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T23:27:00.000Z",
-      "headline": "Micron can&#x2019;t keep up with its massive demand, and its stock is soaring",
-      "url": "https://www.marketwatch.com/story/micron-blows-past-expectations-and-the-stock-is-climbing-d0e2943a?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The chip maker has been a victim of souring AI sentiment lately, but its upbeat outlook has Wall Street feeling better about the path forward.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T21:16:00.000Z",
-      "headline": "&#x2018;Am I simply the unloved son?&#x2019; My mother ghosted me after my father died. Is she stealing his money?",
-      "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;No phone calls, no holiday cards, no explanation, no anything.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T21:02:00.000Z",
-      "headline": "Flu season is &#x2018;early&#x2019; and &#x2018;aggressive&#x2019; in New York City. Here&#x2019;s what that means for the rest of the country.",
-      "url": "https://www.marketwatch.com/story/flu-season-is-early-and-aggressive-in-new-york-city-heres-what-that-means-for-the-rest-of-the-country-056cdbbf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A new variant called H3N2 subclade K is causing most of the illness this season",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T21:00:00.000Z",
-      "headline": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251217a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T20:43:00.000Z",
+      "ts": "2025-12-18T09:44:00.000Z",
       "headline": "&#x2018;It&#x2019;s heartbreaking&#x2019;: My cousin died and her estranged husband has taken possession of her home. Can we evict him?",
       "url": "https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -123,15 +38,76 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-17T23:06:00.000Z",
-      "headline": "This chart captures Tesla&#x2019;s EV sales woes &#x2014; and things are about to get worse",
-      "url": "https://www.marketwatch.com/story/this-chart-captures-teslas-ev-sales-woes-and-things-are-about-to-get-worse-09f1edd4?mod=mw_rss_topstories",
+      "ts": "2025-12-18T08:51:00.000Z",
+      "headline": "BP CEO quits after less than two years. A former Exxon exec who ran Australia&#x2019;s largest oil company will take over.",
+      "url": "https://www.marketwatch.com/story/bp-ceo-quits-after-less-than-two-years-a-former-exxon-exec-who-ran-australias-largest-oil-company-will-take-over-05a40235?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "BP on Thursday made an abrupt shift in leadership, as CEO Murray Auchinloss is stepping down immediately after less than two years on the job.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T10:03:00.000Z",
+      "headline": "It&#x2019;s time to take profits in silver after record-breaking run, these analysts say",
+      "url": "https://www.marketwatch.com/story/its-time-to-take-profits-in-silver-after-record-breaking-run-these-analysts-say-a8349f23?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "U.S. sales have fallen further from their 2022 peak, and Elon Musk has already told investors to brace for a &#x201c;few rough quarters.&#x201d;",
+      "summary_en": "Histrorically, after years of 100% returns or better, the following twelve months are generally poor for silver.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T10:00:00.000Z",
+      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
+      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T03:07:00.000Z",
+      "headline": "Trump announces $1,776 &#x2018;warrior dividend&#x2019; for U.S. troops as economic worries persist",
+      "url": "https://www.marketwatch.com/story/trump-announces-1-776-warrior-dividend-for-u-s-troops-as-economic-worries-persist-274521dd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "President Donald Trump on Wednesday night rolled out a fresh effort to send payments to Americans worried about the high cost of living, as he announced a &#x201c;warrior dividend&#x201d; for U.S. military personnel during a prime-time speech to the nation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T02:03:00.000Z",
+      "headline": "Activist investor Elliott reportedly takes $1 billion stake in Lululemon, eyes new CEO",
+      "url": "https://www.marketwatch.com/story/activist-investor-elliott-reportedly-takes-1-billion-stake-in-lululemon-eyes-new-ceo-c1abb334?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Activist investor Elliott Management has taken a sizeable stake in Lululemon Athletica and has a potential CEO candidate in hopes of turning around the company&#x2019;s fortunes, according to a new report.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T01:15:00.000Z",
+      "headline": "DoorDash joins Instacart in the newest shopping battleground &#x2014; ChatGPT",
+      "url": "https://www.marketwatch.com/story/doordash-joins-instacart-in-the-newest-shopping-battleground-chatgpt-fa69c10b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "DoorDash Inc. on Wednesday said it had joined forces with OpenAI to allow people to shop for groceries in ChatGPT and check out on the delivery platform itself, as artificial intelligence becomes a bigger competitive front for online shopping.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -156,6 +132,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T01:16:00.000Z",
+      "headline": "Micron can&#x2019;t keep up with its massive demand, and its stock is soaring",
+      "url": "https://www.marketwatch.com/story/micron-blows-past-expectations-and-the-stock-is-climbing-d0e2943a?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The chip maker has been a victim of souring AI sentiment lately, but its upbeat outlook has Wall Street feeling better about the path forward.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-17T21:00:00.000Z",
+      "headline": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251217a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
