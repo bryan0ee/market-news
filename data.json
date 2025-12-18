@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-12-18T10:48:35.690Z",
+  "last_updated": "2025-12-18T13:38:43.263Z",
   "items": [
+    {
+      "ts": "2025-12-18T13:21:00.000Z",
+      "headline": "From on-device AI to the &#x2018;girlfriend index,&#x2019; trading ideas from the research firm that nailed 2025&#x2019;s investment themes",
+      "url": "https://www.marketwatch.com/story/from-on-device-ai-to-the-girlfriend-index-trading-ideas-from-the-research-firm-that-nailed-2025s-investment-themes-34d3143f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Citrini Research nailed many investment themes for 2025. Here are a handful of ideas they see delivering potential in 2026.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T13:09:00.000Z",
+      "headline": "Flu season is &#x2018;early&#x2019; and &#x2018;aggressive&#x2019; in New York City. Here&#x2019;s what that means for the rest of the country.",
+      "url": "https://www.marketwatch.com/story/flu-season-is-early-and-aggressive-in-new-york-city-heres-what-that-means-for-the-rest-of-the-country-056cdbbf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A new variant called H3N2 subclade K is causing most of the illness this season",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T12:40:00.000Z",
+      "headline": "Why Trump Media is getting into the nuclear business with $6 billion TAE deal",
+      "url": "https://www.marketwatch.com/story/why-trump-media-is-getting-into-the-nuclear-business-with-6-billion-tae-deal-0bab63c6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Trump Media&#x2019;s stock is soaring as the Truth Social operator looks to get in on a hot AI power trend.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T10:51:00.000Z",
+      "headline": "BP CEO quits after less than two years. A former Exxon exec who ran Australia&#x2019;s largest oil company will take over.",
+      "url": "https://www.marketwatch.com/story/bp-ceo-quits-after-less-than-two-years-a-former-exxon-exec-who-ran-australias-largest-oil-company-will-take-over-05a40235?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "BP on Thursday made an abrupt shift in leadership, as CEO Murray Auchinloss is stepping down immediately after less than two years on the job.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-18T10:15:00.000Z",
       "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
@@ -11,6 +59,18 @@
         "ED"
       ],
       "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T13:05:00.000Z",
+      "headline": "Fear of losing your job is no way to get employees on board with AI",
+      "url": "https://www.marketwatch.com/story/fear-of-losing-your-job-is-no-way-to-get-employees-on-board-with-ai-60953399?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Companies want workers to embrace AI &#x2014; but a hardline ultimatum will backfire",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -26,27 +86,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T09:44:00.000Z",
-      "headline": "&#x2018;It&#x2019;s heartbreaking&#x2019;: My cousin died and her estranged husband has taken possession of her home. Can we evict him?",
-      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories",
+      "ts": "2025-12-18T12:24:00.000Z",
+      "headline": "The next year will be for stock picking &#x2014; and the next two weeks should see gains, says Goldman Sachs",
+      "url": "https://www.marketwatch.com/story/the-next-year-will-be-for-stock-picking-and-the-next-two-weeks-should-see-gains-says-goldman-sachs-c9e59530?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The house remains in her name. He has since kicked out each of the boys one by one.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T08:51:00.000Z",
-      "headline": "BP CEO quits after less than two years. A former Exxon exec who ran Australia&#x2019;s largest oil company will take over.",
-      "url": "https://www.marketwatch.com/story/bp-ceo-quits-after-less-than-two-years-a-former-exxon-exec-who-ran-australias-largest-oil-company-will-take-over-05a40235?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "BP on Thursday made an abrupt shift in leadership, as CEO Murray Auchinloss is stepping down immediately after less than two years on the job.",
+      "summary_en": "One interpretation of options market pricing by Goldman Sachs, says stocks won&#x2019;t be tugging the same way next year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -74,43 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T03:07:00.000Z",
-      "headline": "Trump announces $1,776 &#x2018;warrior dividend&#x2019; for U.S. troops as economic worries persist",
-      "url": "https://www.marketwatch.com/story/trump-announces-1-776-warrior-dividend-for-u-s-troops-as-economic-worries-persist-274521dd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "President Donald Trump on Wednesday night rolled out a fresh effort to send payments to Americans worried about the high cost of living, as he announced a &#x201c;warrior dividend&#x201d; for U.S. military personnel during a prime-time speech to the nation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T02:03:00.000Z",
-      "headline": "Activist investor Elliott reportedly takes $1 billion stake in Lululemon, eyes new CEO",
-      "url": "https://www.marketwatch.com/story/activist-investor-elliott-reportedly-takes-1-billion-stake-in-lululemon-eyes-new-ceo-c1abb334?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Activist investor Elliott Management has taken a sizeable stake in Lululemon Athletica and has a potential CEO candidate in hopes of turning around the company&#x2019;s fortunes, according to a new report.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T01:15:00.000Z",
-      "headline": "DoorDash joins Instacart in the newest shopping battleground &#x2014; ChatGPT",
-      "url": "https://www.marketwatch.com/story/doordash-joins-instacart-in-the-newest-shopping-battleground-chatgpt-fa69c10b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "DoorDash Inc. on Wednesday said it had joined forces with OpenAI to allow people to shop for groceries in ChatGPT and check out on the delivery platform itself, as artificial intelligence becomes a bigger competitive front for online shopping.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-11T22:00:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
@@ -132,18 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T01:16:00.000Z",
-      "headline": "Micron can&#x2019;t keep up with its massive demand, and its stock is soaring",
-      "url": "https://www.marketwatch.com/story/micron-blows-past-expectations-and-the-stock-is-climbing-d0e2943a?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The chip maker has been a victim of souring AI sentiment lately, but its upbeat outlook has Wall Street feeling better about the path forward.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
