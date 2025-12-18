@@ -1,56 +1,44 @@
 {
-  "last_updated": "2025-12-18T13:38:43.263Z",
+  "last_updated": "2025-12-18T23:29:39.437Z",
   "items": [
     {
-      "ts": "2025-12-18T13:21:00.000Z",
-      "headline": "From on-device AI to the &#x2018;girlfriend index,&#x2019; trading ideas from the research firm that nailed 2025&#x2019;s investment themes",
-      "url": "https://www.marketwatch.com/story/from-on-device-ai-to-the-girlfriend-index-trading-ideas-from-the-research-firm-that-nailed-2025s-investment-themes-34d3143f?mod=mw_rss_topstories",
+      "ts": "2025-12-18T23:28:00.000Z",
+      "headline": "Oracle&#x2019;s stock is rising. Why TikTok&#x2019;s U.S. deal could be good news for the tech company.",
+      "url": "https://www.marketwatch.com/story/oracles-stock-is-rising-why-tiktoks-u-s-deal-could-be-good-news-for-the-tech-company-1ae40cde?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Citrini Research nailed many investment themes for 2025. Here are a handful of ideas they see delivering potential in 2026.",
+      "summary_en": "A memo from TikTok&#x2019;s top executive reportedly says that the social-media phenomenon inked deals to create a U.S. joint venture, with Oracle&#x2019;s cloud business as its backbone.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T13:09:00.000Z",
-      "headline": "Flu season is &#x2018;early&#x2019; and &#x2018;aggressive&#x2019; in New York City. Here&#x2019;s what that means for the rest of the country.",
-      "url": "https://www.marketwatch.com/story/flu-season-is-early-and-aggressive-in-new-york-city-heres-what-that-means-for-the-rest-of-the-country-056cdbbf?mod=mw_rss_topstories",
+      "ts": "2025-12-18T23:03:00.000Z",
+      "headline": "My mother ghosted me after my father died. Is she stealing his money?",
+      "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A new variant called H3N2 subclade K is causing most of the illness this season",
+      "summary_en": "&#x201c;No phone calls, no holiday cards, no explanation, no anything.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T12:40:00.000Z",
-      "headline": "Why Trump Media is getting into the nuclear business with $6 billion TAE deal",
-      "url": "https://www.marketwatch.com/story/why-trump-media-is-getting-into-the-nuclear-business-with-6-billion-tae-deal-0bab63c6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-18T21:45:00.000Z",
+      "headline": "Nike says turnaround plans are &#x2018;in the middle innings,&#x2019; but investor worries remain",
+      "url": "https://www.marketwatch.com/story/nike-says-turnaround-plans-are-in-the-middle-innings-but-investor-worries-remain-6097292b?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Trump Media&#x2019;s stock is soaring as the Truth Social operator looks to get in on a hot AI power trend.",
+      "summary_en": "Nike Inc. reported fiscal second-quarter results that beat Wall Street&#x2019;s expectations, but its margins shrank, and management said the sneaker and athletic-gear giant was &#x201c;in the middle innings&#x201d; of its comeback plan.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T10:51:00.000Z",
-      "headline": "BP CEO quits after less than two years. A former Exxon exec who ran Australia&#x2019;s largest oil company will take over.",
-      "url": "https://www.marketwatch.com/story/bp-ceo-quits-after-less-than-two-years-a-former-exxon-exec-who-ran-australias-largest-oil-company-will-take-over-05a40235?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "BP on Thursday made an abrupt shift in leadership, as CEO Murray Auchinloss is stepping down immediately after less than two years on the job.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T10:15:00.000Z",
+      "ts": "2025-12-18T22:30:00.000Z",
       "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
       "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,55 +50,67 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T13:05:00.000Z",
-      "headline": "Fear of losing your job is no way to get employees on board with AI",
-      "url": "https://www.marketwatch.com/story/fear-of-losing-your-job-is-no-way-to-get-employees-on-board-with-ai-60953399?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Companies want workers to embrace AI &#x2014; but a hardline ultimatum will backfire",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T10:04:00.000Z",
-      "headline": "Actress Lori Loughlin sells Palm Desert home for $16.5 million after split with husband",
-      "url": "https://www.marketwatch.com/story/actress-lori-loughlin-sells-palm-desert-home-for-16-5-million-after-split-with-husband-29f31813?mod=mw_rss_topstories",
+      "ts": "2025-12-18T22:00:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
+      "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Former &#x201c;Full House&#x201d; star Lori Loughlin and her estranged husband, Mossimo Giannulli, have sold a second home in as many months after announcing they have split.",
+      "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T12:24:00.000Z",
-      "headline": "The next year will be for stock picking &#x2014; and the next two weeks should see gains, says Goldman Sachs",
-      "url": "https://www.marketwatch.com/story/the-next-year-will-be-for-stock-picking-and-the-next-two-weeks-should-see-gains-says-goldman-sachs-c9e59530?mod=mw_rss_topstories",
+      "ts": "2025-12-18T21:55:00.000Z",
+      "headline": "FedEx calls for more profit this year as this key business turns around",
+      "url": "https://www.marketwatch.com/story/fedex-calls-for-more-profit-this-year-as-this-key-business-turns-around-3cb962e6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "One interpretation of options market pricing by Goldman Sachs, says stocks won&#x2019;t be tugging the same way next year.",
+      "summary_en": "FedEx gives investors more reason to believe its overhaul is taking hold.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T10:03:00.000Z",
-      "headline": "It&#x2019;s time to take profits in silver after record-breaking run, these analysts say",
-      "url": "https://www.marketwatch.com/story/its-time-to-take-profits-in-silver-after-record-breaking-run-these-analysts-say-a8349f23?mod=mw_rss_topstories",
+      "ts": "2025-12-18T21:54:00.000Z",
+      "headline": "Airfares fell more than 5% in November &#x2014; but will the deals last?",
+      "url": "https://www.marketwatch.com/story/airfares-fell-more-than-5-in-november-but-will-the-deals-last-2521874f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Histrorically, after years of 100% returns or better, the following twelve months are generally poor for silver.",
+      "summary_en": "The government shutdown played a big part in why cheaper fares were abundant this fall. Here&#x2019;s what to expect when booking your next flight.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-18T10:00:00.000Z",
+      "ts": "2025-12-18T21:51:00.000Z",
+      "headline": "Nvidia and other chip stocks rise &#x2014; but that doesn&#x2019;t mean the AI trade is back for good",
+      "url": "https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Micron&#x2019;s outlook lifted AI stocks across the board on Thursday, but a more sustained catalyst may not arrive until next year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T21:20:00.000Z",
+      "headline": "Marijuana stocks sell off as Trump signs executive order to reclassify cannabis",
+      "url": "https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Trump on Thursday signed an executive order asking the U.S. government to reschedule cannabis &#x2014; a move that analysts and industry executives called the most significant federal reform on the substance in decades.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T23:00:00.000Z",
       "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
       "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -122,27 +122,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-12-18T14:00:00.000Z",
+      "headline": "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251218a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces approval of application by The PNC Financial Services Group, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T22:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251211b.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco BTG Pactual S.A., its parent holding companies, and subsidiary, BTG Pactual Bancorp, LLC",
+      "summary_en": "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -171,18 +159,6 @@
     },
     {
       "ts": "2025-12-15T16:00:00.000Z",
-      "headline": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215b.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T16:00:00.000Z",
       "headline": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215a.htm",
       "impact": "Neutral",
@@ -194,27 +170,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-11T21:00:00.000Z",
-      "headline": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20251211a.htm",
+      "ts": "2025-12-15T16:00:00.000Z",
+      "headline": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215b.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-11T16:00:00.000Z",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase & Co.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251211a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces termination of enforcement actions with Credit Suisse Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., Credit Suisse AG, New York Branch, and JPMorgan Chase &amp; Co.",
+      "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
