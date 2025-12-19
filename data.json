@@ -1,56 +1,8 @@
 {
-  "last_updated": "2025-12-19T13:35:18.504Z",
+  "last_updated": "2025-12-19T23:28:57.097Z",
   "items": [
     {
-      "ts": "2025-12-19T12:50:00.000Z",
-      "headline": "Trump says affordability is a &#x2018;hoax,&#x2019; but consumers should expect more pain in 2026",
-      "url": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T13:32:00.000Z",
-      "headline": "Bitcoin will climb to $143,000, according to this Wall Street forecast",
-      "url": "https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bitcoin will rally to $143,000 next year as investors continue to increase digital-asset adoption through exchange-traded funds, according to a new Wall Street forecast.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T13:20:00.000Z",
-      "headline": "These are the secrets to Buffett&#x2019;s investment success, according to this billionaire investor",
-      "url": "https://www.marketwatch.com/story/these-are-the-secrets-to-buffetts-investment-success-according-to-this-billionaire-investor-6e4d0e4e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Seth Klarman, CEO and portfolio manager of the value-oriented investment management fund Baupost Group, says investors have much to learn from Warren Buffett.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T13:07:00.000Z",
-      "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
-      "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our current salary combined is $210,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T12:48:00.000Z",
+      "ts": "2025-12-19T23:00:00.000Z",
       "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
       "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,7 +14,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-19T12:48:00.000Z",
+      "ts": "2025-12-19T22:30:00.000Z",
       "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
       "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -74,51 +26,123 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-19T12:37:00.000Z",
-      "headline": "Here&#x2019;s why concerns about the wobble in stock-market darlings may be misplaced",
-      "url": "https://www.marketwatch.com/story/heres-why-current-wobbles-in-stock-market-darlings-may-not-be-a-sign-of-troubles-ahead-c6dd2cea?mod=mw_rss_topstories",
+      "ts": "2025-12-19T22:28:00.000Z",
+      "headline": "Elon Musk gets a win in the long-running legal battle over his Tesla pay",
+      "url": "https://www.marketwatch.com/story/elon-musk-gets-a-win-in-the-long-running-legal-battle-over-his-tesla-pay-9368166d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A more critical view of AI winners is sensible, says Nomura analyst",
+      "summary_en": "A Delaware judge previously rejected the 2018 package, but Friday&#x2019;s ruling said it would have been unfair for Musk to have been left uncompensated for years of work.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-19T11:03:00.000Z",
-      "headline": "A sell signal has been triggered at Bank of America. What typically happens next.",
-      "url": "https://www.marketwatch.com/story/a-sell-signal-has-been-triggered-at-bank-of-america-what-typically-happens-next-8db9d785?mod=mw_rss_topstories",
+      "ts": "2025-12-19T22:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
+      "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A flow of money into stocks and more equities participating in the bull market have triggered a sell signal that historically has led to big pullbacks, according to a new Bank of America report.",
+      "summary_en": "&#x201c;Our current salary combined is $210,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-19T09:12:00.000Z",
-      "headline": "Nike says turnaround plans are &#x2018;in the middle innings,&#x2019; but investor worries remain",
-      "url": "https://www.marketwatch.com/story/nike-says-turnaround-plans-are-in-the-middle-innings-but-investor-worries-remain-6097292b?mod=mw_rss_topstories",
+      "ts": "2025-12-19T21:08:00.000Z",
+      "headline": "After Trump&#x2019;s move to reclassify cannabis, here&#x2019;s what Wall Street is thinking",
+      "url": "https://www.marketwatch.com/story/after-trumps-move-to-reclassify-cannabis-heres-what-wall-street-is-thinking-ed5777d1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Analysts are now focused on the when the change will actually happen, as the cannabis industry waits for tax relief and expanded research opportunities.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T20:32:00.000Z",
+      "headline": "The dollar is losing the world&#x2019;s respect &#x2014; but you&#x2019;re losing much more",
+      "url": "https://www.marketwatch.com/story/when-the-dollar-loses-the-worlds-respect-americans-either-buy-less-or-pay-more-07992f3b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Charlie Garcia responds to readers concerned about U.S. dollar weakness, purchasing power and China&#x2019;s challenge.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T20:31:00.000Z",
+      "headline": "Pharma stocks advance as Trump rolls out drug-pricing deals with 9 more companies",
+      "url": "https://www.marketwatch.com/story/trump-to-announce-new-drug-pricing-deals-later-today-8261bdfe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Trump administration on Friday announced deals with nine drugmakers aimed at lowering pharmaceutical prices, bringing its total number of drug-pricing agreements to 14.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T19:16:00.000Z",
+      "headline": "Rocket Lab&#x2019;s stock blasts toward a new high. Here&#x2019;s what&#x2019;s driving the surge.",
+      "url": "https://www.marketwatch.com/story/rocket-labs-stock-blasts-toward-new-high-heres-whats-driving-the-surge-78814c96?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Nike Inc. reported fiscal second-quarter results that beat Wall Street&#x2019;s expectations, but its margins shrank, and management said the sneaker and athletic-gear giant was &#x201c;in the middle innings&#x201d; of its comeback plan.",
+      "summary_en": "The rocket-launch company just completed a government contract months ahead of schedule &#x2014; and won a new one.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-19T10:05:00.000Z",
-      "headline": "5 years and millions of dollars later, Rob Lowe&#x2019;s custom-built Montecito mansion is complete",
-      "url": "https://www.marketwatch.com/story/5-years-and-millions-of-dollars-later-rob-lowes-custom-built-montecito-mansion-is-complete-d1ffaa7b?mod=mw_rss_topstories",
+      "ts": "2025-12-19T18:30:00.000Z",
+      "headline": "Federal Reserve Board publishes its biennial report on debit card transactions, which summarizes information collected from large debit card issuers and payment card networks",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219b.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board publishes its biennial report on debit card transactions, which summarizes information collected from large debit card issuers and payment card networks",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T18:12:00.000Z",
+      "headline": "Infosys&#x2019;s stock suddenly surges 50% &#x2014; then cools off. Inside Wall Street&#x2019;s big Friday mystery.",
+      "url": "https://www.marketwatch.com/story/infosyss-stock-suddenly-surges-50-then-cools-off-inside-wall-streets-big-friday-mystery-c7dc22e0?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The confounding stock move set off speculation in the investment community.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T19:01:00.000Z",
+      "headline": "They&#x2019;re in their 60s and still paying off student loans. College debt in America now lasts a lifetime.",
+      "url": "https://www.marketwatch.com/story/theyre-in-their-60s-and-still-paying-off-student-loans-college-debt-in-america-now-lasts-a-lifetime-70354da3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Lowe, and his wife,&#xa0;Sheryl Berkoff, bought the $13 million property in 2020, in the same neighborhood as&#xa0;Oprah Winfrey&#xa0;and&#xa0;Prince Harry&#xa0;and&#xa0;Meghan Markle.",
+      "summary_en": "&#x201c;I just keep hoping that it will just magically go away or I&#x2019;ll just die&#x201d;: A growing feature of the nation&#x2019;s $1.7 trillion student-debt crisis is Americans living with student loans for their entire adult lives.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T15:00:00.000Z",
+      "headline": "Federal Reserve Board requests public input on “payment account,” which eligible financial institutions could use for the limited purpose of clearing and settling their payments",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board requests public input on “payment account,” which eligible financial institutions could use for the limited purpose of clearing and settling their payments",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
