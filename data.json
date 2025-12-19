@@ -1,6 +1,102 @@
 {
-  "last_updated": "2025-12-19T10:47:36.022Z",
+  "last_updated": "2025-12-19T13:35:18.504Z",
   "items": [
+    {
+      "ts": "2025-12-19T12:50:00.000Z",
+      "headline": "Trump says affordability is a &#x2018;hoax,&#x2019; but consumers should expect more pain in 2026",
+      "url": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T13:32:00.000Z",
+      "headline": "Bitcoin will climb to $143,000, according to this Wall Street forecast",
+      "url": "https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bitcoin will rally to $143,000 next year as investors continue to increase digital-asset adoption through exchange-traded funds, according to a new Wall Street forecast.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T13:20:00.000Z",
+      "headline": "These are the secrets to Buffett&#x2019;s investment success, according to this billionaire investor",
+      "url": "https://www.marketwatch.com/story/these-are-the-secrets-to-buffetts-investment-success-according-to-this-billionaire-investor-6e4d0e4e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Seth Klarman, CEO and portfolio manager of the value-oriented investment management fund Baupost Group, says investors have much to learn from Warren Buffett.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T13:07:00.000Z",
+      "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
+      "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Our current salary combined is $210,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T12:48:00.000Z",
+      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
+      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T12:48:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
+      "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T12:37:00.000Z",
+      "headline": "Here&#x2019;s why concerns about the wobble in stock-market darlings may be misplaced",
+      "url": "https://www.marketwatch.com/story/heres-why-current-wobbles-in-stock-market-darlings-may-not-be-a-sign-of-troubles-ahead-c6dd2cea?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A more critical view of AI winners is sensible, says Nomura analyst",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T11:03:00.000Z",
+      "headline": "A sell signal has been triggered at Bank of America. What typically happens next.",
+      "url": "https://www.marketwatch.com/story/a-sell-signal-has-been-triggered-at-bank-of-america-what-typically-happens-next-8db9d785?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A flow of money into stocks and more equities participating in the bull market have triggered a sell signal that historically has led to big pullbacks, according to a new Bank of America report.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-19T09:12:00.000Z",
       "headline": "Nike says turnaround plans are &#x2018;in the middle innings,&#x2019; but investor worries remain",
@@ -23,78 +119,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Lowe, and his wife,&#xa0;Sheryl Berkoff, bought the $13 million property in 2020, in the same neighborhood as&#xa0;Oprah Winfrey&#xa0;and&#xa0;Prince Harry&#xa0;and&#xa0;Meghan Markle.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T03:32:00.000Z",
-      "headline": "Uber&#x2019;s stock is almost historically cheap. Are robotaxis an existential threat?",
-      "url": "https://www.marketwatch.com/story/ubers-stock-is-almost-historically-cheap-are-robotaxis-an-existential-threat-76dc9783?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bernstein analysts said Uber investors have been overly fearful of the threat posed by self-driving cars, particularly if autonomous-vehicle technology gets widely licensed.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T01:20:00.000Z",
-      "headline": "FedEx calls for more profit this year as this key business turns around",
-      "url": "https://www.marketwatch.com/story/fedex-calls-for-more-profit-this-year-as-this-key-business-turns-around-3cb962e6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "FedEx gives investors more reason to believe its overhaul is taking hold.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T01:17:00.000Z",
-      "headline": "Oracle&#x2019;s stock is rising. Why TikTok&#x2019;s U.S. deal could be good news for the tech company.",
-      "url": "https://www.marketwatch.com/story/oracles-stock-is-rising-why-tiktoks-u-s-deal-could-be-good-news-for-the-tech-company-1ae40cde?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A memo from TikTok&#x2019;s top executive reportedly says that the social-media phenomenon inked deals to create a U.S. joint venture, with Oracle&#x2019;s cloud business as its backbone.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T01:07:00.000Z",
-      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
-      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T00:38:00.000Z",
-      "headline": "Marijuana stocks sell off as Trump signs executive order to reclassify cannabis",
-      "url": "https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Trump on Thursday signed an executive order asking the U.S. government to reschedule cannabis &#x2014; a move that analysts and industry executives called the most significant federal reform on the substance in decades.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T23:03:00.000Z",
-      "headline": "My mother ghosted me after my father died. Is she stealing his money?",
-      "url": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;No phone calls, no holiday cards, no explanation, no anything.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,30 +179,6 @@
         "ED"
       ],
       "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T00:18:00.000Z",
-      "headline": "Micron just had its Nvidia moment. What comes next for the stock?",
-      "url": "https://www.marketwatch.com/story/micron-just-had-its-nvidia-moment-what-comes-next-for-the-stock-cba32b69?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Micron&#x2019;s dramatic beat has analysts feeling upbeat about the company&#x2019;s ability to be a huge beneficiary of the AI boom.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T23:00:00.000Z",
-      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
-      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
