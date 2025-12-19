@@ -1,8 +1,56 @@
 {
-  "last_updated": "2025-12-18T23:29:39.437Z",
+  "last_updated": "2025-12-19T10:47:36.022Z",
   "items": [
     {
-      "ts": "2025-12-18T23:28:00.000Z",
+      "ts": "2025-12-19T09:12:00.000Z",
+      "headline": "Nike says turnaround plans are &#x2018;in the middle innings,&#x2019; but investor worries remain",
+      "url": "https://www.marketwatch.com/story/nike-says-turnaround-plans-are-in-the-middle-innings-but-investor-worries-remain-6097292b?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Nike Inc. reported fiscal second-quarter results that beat Wall Street&#x2019;s expectations, but its margins shrank, and management said the sneaker and athletic-gear giant was &#x201c;in the middle innings&#x201d; of its comeback plan.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T10:05:00.000Z",
+      "headline": "5 years and millions of dollars later, Rob Lowe&#x2019;s custom-built Montecito mansion is complete",
+      "url": "https://www.marketwatch.com/story/5-years-and-millions-of-dollars-later-rob-lowes-custom-built-montecito-mansion-is-complete-d1ffaa7b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Lowe, and his wife,&#xa0;Sheryl Berkoff, bought the $13 million property in 2020, in the same neighborhood as&#xa0;Oprah Winfrey&#xa0;and&#xa0;Prince Harry&#xa0;and&#xa0;Meghan Markle.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T03:32:00.000Z",
+      "headline": "Uber&#x2019;s stock is almost historically cheap. Are robotaxis an existential threat?",
+      "url": "https://www.marketwatch.com/story/ubers-stock-is-almost-historically-cheap-are-robotaxis-an-existential-threat-76dc9783?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bernstein analysts said Uber investors have been overly fearful of the threat posed by self-driving cars, particularly if autonomous-vehicle technology gets widely licensed.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T01:20:00.000Z",
+      "headline": "FedEx calls for more profit this year as this key business turns around",
+      "url": "https://www.marketwatch.com/story/fedex-calls-for-more-profit-this-year-as-this-key-business-turns-around-3cb962e6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "FedEx gives investors more reason to believe its overhaul is taking hold.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T01:17:00.000Z",
       "headline": "Oracle&#x2019;s stock is rising. Why TikTok&#x2019;s U.S. deal could be good news for the tech company.",
       "url": "https://www.marketwatch.com/story/oracles-stock-is-rising-why-tiktoks-u-s-deal-could-be-good-news-for-the-tech-company-1ae40cde?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -11,6 +59,30 @@
         "ED"
       ],
       "summary_en": "A memo from TikTok&#x2019;s top executive reportedly says that the social-media phenomenon inked deals to create a U.S. joint venture, with Oracle&#x2019;s cloud business as its backbone.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T01:07:00.000Z",
+      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
+      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T00:38:00.000Z",
+      "headline": "Marijuana stocks sell off as Trump signs executive order to reclassify cannabis",
+      "url": "https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Trump on Thursday signed an executive order asking the U.S. government to reschedule cannabis &#x2014; a move that analysts and industry executives called the most significant federal reform on the substance in decades.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -23,102 +95,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;No phone calls, no holiday cards, no explanation, no anything.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T21:45:00.000Z",
-      "headline": "Nike says turnaround plans are &#x2018;in the middle innings,&#x2019; but investor worries remain",
-      "url": "https://www.marketwatch.com/story/nike-says-turnaround-plans-are-in-the-middle-innings-but-investor-worries-remain-6097292b?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Nike Inc. reported fiscal second-quarter results that beat Wall Street&#x2019;s expectations, but its margins shrank, and management said the sneaker and athletic-gear giant was &#x201c;in the middle innings&#x201d; of its comeback plan.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T22:30:00.000Z",
-      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
-      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T22:00:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
-      "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T21:55:00.000Z",
-      "headline": "FedEx calls for more profit this year as this key business turns around",
-      "url": "https://www.marketwatch.com/story/fedex-calls-for-more-profit-this-year-as-this-key-business-turns-around-3cb962e6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "FedEx gives investors more reason to believe its overhaul is taking hold.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T21:54:00.000Z",
-      "headline": "Airfares fell more than 5% in November &#x2014; but will the deals last?",
-      "url": "https://www.marketwatch.com/story/airfares-fell-more-than-5-in-november-but-will-the-deals-last-2521874f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The government shutdown played a big part in why cheaper fares were abundant this fall. Here&#x2019;s what to expect when booking your next flight.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T21:51:00.000Z",
-      "headline": "Nvidia and other chip stocks rise &#x2014; but that doesn&#x2019;t mean the AI trade is back for good",
-      "url": "https://www.marketwatch.com/story/nvidia-and-other-chip-stocks-rise-but-the-ai-trade-may-not-be-back-for-good-6e23fca6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Micron&#x2019;s outlook lifted AI stocks across the board on Thursday, but a more sustained catalyst may not arrive until next year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T21:20:00.000Z",
-      "headline": "Marijuana stocks sell off as Trump signs executive order to reclassify cannabis",
-      "url": "https://www.marketwatch.com/story/marijuana-stocks-jump-with-trump-set-to-sign-executive-order-that-would-reclassify-the-drug-3d741133?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Trump on Thursday signed an executive order asking the U.S. government to reschedule cannabis &#x2014; a move that analysts and industry executives called the most significant federal reform on the substance in decades.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-18T23:00:00.000Z",
-      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
-      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -179,6 +155,30 @@
         "ED"
       ],
       "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T00:18:00.000Z",
+      "headline": "Micron just had its Nvidia moment. What comes next for the stock?",
+      "url": "https://www.marketwatch.com/story/micron-just-had-its-nvidia-moment-what-comes-next-for-the-stock-cba32b69?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Micron&#x2019;s dramatic beat has analysts feeling upbeat about the company&#x2019;s ability to be a huge beneficiary of the AI boom.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-18T23:00:00.000Z",
+      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
+      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
