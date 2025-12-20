@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-12-20T10:43:05.753Z",
+  "last_updated": "2025-12-20T13:29:57.519Z",
   "items": [
+    {
+      "ts": "2025-12-20T13:25:00.000Z",
+      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
+      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-20T13:00:00.000Z",
+      "headline": "Adobe and these 9 fellow tech stocks are rarely this cheap. Are they great deals or value traps?",
+      "url": "https://www.marketwatch.com/story/adobe-and-these-9-fellow-tech-stocks-are-rarely-this-cheap-are-they-great-deals-or-value-traps-ea450807?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The AI threat has led storied software stocks like Salesforce and Adobe to trade near their cheapest levels in years. Analysts are divided on which names will re-emerge as winners.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-20T12:30:00.000Z",
+      "headline": "In 2024, prediction markets called the presidential election before the polls could. Now, they&#x2019;re mostly betting on sports.",
+      "url": "https://www.marketwatch.com/story/in-2024-prediction-markets-called-the-presidential-election-before-the-polls-could-now-theyre-mostly-betting-on-sports-113cc8cf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Prediction markets saw exponential growth in 2025 &#x2014; and things are just getting started.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-20T12:00:00.000Z",
+      "headline": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We try to help all our kids when we can, yet push for self-sufficiency.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-20T00:09:00.000Z",
       "headline": "Rocket Lab&#x2019;s stock blasts to a new high. Here&#x2019;s what&#x2019;s driving the surge.",
@@ -11,18 +59,6 @@
         "ED"
       ],
       "summary_en": "The rocket-launch company just completed a government contract months ahead of schedule &#x2014; and won a new one.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T23:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
-      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -71,30 +107,6 @@
         "ED"
       ],
       "summary_en": "Analysts are now focused on the when the change will actually happen, as the cannabis industry waits for tax relief and expanded research opportunities.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T20:32:00.000Z",
-      "headline": "The dollar is losing the world&#x2019;s respect &#x2014; but you&#x2019;re losing much more",
-      "url": "https://www.marketwatch.com/story/when-the-dollar-loses-the-worlds-respect-americans-either-buy-less-or-pay-more-07992f3b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Charlie Garcia responds to readers concerned about U.S. dollar weakness, purchasing power and China&#x2019;s challenge.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T20:31:00.000Z",
-      "headline": "Pharma stocks advance as Trump rolls out drug-pricing deals with 9 more companies",
-      "url": "https://www.marketwatch.com/story/trump-to-announce-new-drug-pricing-deals-later-today-8261bdfe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Trump administration on Friday announced deals with nine drugmakers aimed at lowering pharmaceutical prices, bringing its total number of drug-pricing agreements to 14.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -191,18 +203,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "The S&P 500&#x2019;s tech sector is down so far this month, even after its big rally on Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T19:01:00.000Z",
-      "headline": "They&#x2019;re in their 60s and still paying off student loans. College debt in America now lasts a lifetime.",
-      "url": "https://www.marketwatch.com/story/theyre-in-their-60s-and-still-paying-off-student-loans-college-debt-in-america-now-lasts-a-lifetime-70354da3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I just keep hoping that it will just magically go away or I&#x2019;ll just die&#x201d;: A growing feature of the nation&#x2019;s $1.7 trillion student-debt crisis is Americans living with student loans for their entire adult lives.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
