@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-12-19T23:28:57.097Z",
+  "last_updated": "2025-12-20T10:43:05.753Z",
   "items": [
+    {
+      "ts": "2025-12-20T00:09:00.000Z",
+      "headline": "Rocket Lab&#x2019;s stock blasts to a new high. Here&#x2019;s what&#x2019;s driving the surge.",
+      "url": "https://www.marketwatch.com/story/rocket-labs-stock-blasts-toward-new-high-heres-whats-driving-the-surge-78814c96?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The rocket-launch company just completed a government contract months ahead of schedule &#x2014; and won a new one.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-19T23:00:00.000Z",
       "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
@@ -86,18 +98,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-19T19:16:00.000Z",
-      "headline": "Rocket Lab&#x2019;s stock blasts toward a new high. Here&#x2019;s what&#x2019;s driving the surge.",
-      "url": "https://www.marketwatch.com/story/rocket-labs-stock-blasts-toward-new-high-heres-whats-driving-the-surge-78814c96?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The rocket-launch company just completed a government contract months ahead of schedule &#x2014; and won a new one.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-19T18:30:00.000Z",
       "headline": "Federal Reserve Board publishes its biennial report on debit card transactions, which summarizes information collected from large debit card issuers and payment card networks",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219b.htm",
@@ -107,30 +107,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board publishes its biennial report on debit card transactions, which summarizes information collected from large debit card issuers and payment card networks",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T18:12:00.000Z",
-      "headline": "Infosys&#x2019;s stock suddenly surges 50% &#x2014; then cools off. Inside Wall Street&#x2019;s big Friday mystery.",
-      "url": "https://www.marketwatch.com/story/infosyss-stock-suddenly-surges-50-then-cools-off-inside-wall-streets-big-friday-mystery-c7dc22e0?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The confounding stock move set off speculation in the investment community.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T19:01:00.000Z",
-      "headline": "They&#x2019;re in their 60s and still paying off student loans. College debt in America now lasts a lifetime.",
-      "url": "https://www.marketwatch.com/story/theyre-in-their-60s-and-still-paying-off-student-loans-college-debt-in-america-now-lasts-a-lifetime-70354da3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I just keep hoping that it will just magically go away or I&#x2019;ll just die&#x201d;: A growing feature of the nation&#x2019;s $1.7 trillion student-debt crisis is Americans living with student loans for their entire adult lives.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -203,6 +179,30 @@
         "ED"
       ],
       "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T23:56:00.000Z",
+      "headline": "As stock-market rally broadens, it&#x2019;s tough for the S&P 500 to keep advancing without tech",
+      "url": "https://www.marketwatch.com/story/as-stock-market-rally-broadens-its-tough-for-the-s-p-500-to-keep-advancing-without-tech-0b8185ae?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The S&P 500&#x2019;s tech sector is down so far this month, even after its big rally on Friday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-19T19:01:00.000Z",
+      "headline": "They&#x2019;re in their 60s and still paying off student loans. College debt in America now lasts a lifetime.",
+      "url": "https://www.marketwatch.com/story/theyre-in-their-60s-and-still-paying-off-student-loans-college-debt-in-america-now-lasts-a-lifetime-70354da3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I just keep hoping that it will just magically go away or I&#x2019;ll just die&#x201d;: A growing feature of the nation&#x2019;s $1.7 trillion student-debt crisis is Americans living with student loans for their entire adult lives.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
