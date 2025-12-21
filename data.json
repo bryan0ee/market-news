@@ -1,8 +1,32 @@
 {
-  "last_updated": "2025-12-21T13:30:10.701Z",
+  "last_updated": "2025-12-21T23:28:13.310Z",
   "items": [
     {
-      "ts": "2025-12-21T10:40:00.000Z",
+      "ts": "2025-12-21T23:16:00.000Z",
+      "headline": "U.S. stock futures rise as investors hold out hope for a Christmas rally",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally-f2429418?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock futures gained Sunday, ahead of the holiday-shortened trading week and as investors cling to hopes of a &#x201c;Santa Claus rally&#x201d; still to come.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T23:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
+      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T22:34:00.000Z",
       "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
       "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,7 +38,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-21T10:37:00.000Z",
+      "ts": "2025-12-21T21:18:00.000Z",
+      "headline": "The year-end tax moves that can lower your tax bill and make your refund even bigger than Trump promised",
+      "url": "https://www.marketwatch.com/story/the-year-end-tax-moves-that-can-lower-your-tax-bill-and-make-your-refund-even-bigger-than-trump-promised-09611095?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The numbers could be enormous when you look at the potential opportunities,&#x201d; one expert says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T20:35:00.000Z",
+      "headline": "Don&#x2019;t give up on a &#x2018;Santa Claus rally&#x2019; just yet &#x2014; even after a rough December start for stocks",
+      "url": "https://www.marketwatch.com/story/dont-give-up-on-a-santa-claus-rally-just-yet-even-after-a-rough-december-start-for-stocks-d75e3e2d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors may still get the &#x201c;Santa Claus rally&#x201d; they had hoped for, even though stocks have struggled to gain momentum so far in December.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T22:55:00.000Z",
       "headline": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
       "url": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,7 +74,43 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-20T22:30:00.000Z",
+      "ts": "2025-12-21T18:53:00.000Z",
+      "headline": "Over age 65? Watch out for these costly mistakes when selling your home.",
+      "url": "https://www.marketwatch.com/story/older-homeowners-get-less-money-selling-their-houses-heres-how-you-can-sweeten-your-listing-to-get-more-8cfe214c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Older homeowners get less money selling their houses. Here&#x2019;s how you can sweeten your listing to get more.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T17:37:00.000Z",
+      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
+      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T14:30:00.000Z",
+      "headline": "&#x2018;It&#x2019;s heartbreaking&#x2019;: My cousin died and her estranged husband has taken possession of her home. Can we evict him?",
+      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The house remains in her name. He has since kicked out each of the boys one by one.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T14:00:00.000Z",
       "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
       "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -35,43 +119,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T19:52:00.000Z",
-      "headline": "You&#x2019;ve just won the $1.5 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
-      "url": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "But even if you&#x2019;re not a big lottery winner in Saturday&#x2019;s Powerball drawing, it&#x2019;s still worth heeding this advice for managing a significant sum of money",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T18:17:00.000Z",
-      "headline": "What&#x2019;s next for airfares after ticket prices fell in November",
-      "url": "https://www.marketwatch.com/story/airfares-fell-more-than-5-in-november-but-will-the-deals-last-2521874f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The government shutdown played a big part in why cheaper fares were abundant this fall. Here&#x2019;s what to expect when booking your next flight.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T17:07:00.000Z",
-      "headline": "China is quietly destroying the dollar &#x2014; and that&#x2019;ll cost you. Fight back with these money moves.",
-      "url": "https://www.marketwatch.com/story/china-is-quietly-destroying-the-dollar-and-thatll-cost-you-fight-back-with-these-money-moves-b21c9484?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "When the U.S. dollar loses its monopoly on pricing the world&#x2019;s critical resources, Americans&#x2019; purchasing power weakens.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -156,54 +203,6 @@
         "ED"
       ],
       "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T19:39:00.000Z",
-      "headline": "I&#x2019;m only 54 and my 401(k) plan is emailing me about buying annuities. Is this something I should do?",
-      "url": "https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Options will keep coming, but signing up for an annuity is something you want to carefully consider",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T18:10:00.000Z",
-      "headline": "When retirees go back to work is it a sign of a strong labor force &#x2014; or a recession?",
-      "url": "https://www.marketwatch.com/story/when-retirees-go-back-to-work-is-it-a-sign-of-a-strong-labor-force-or-a-recession-779d295c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "What &#x201c;unretirements&#x201d; can tell us about the job market",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T17:26:00.000Z",
-      "headline": "OK, boomer: Why you should start giving your money to your adult kids now",
-      "url": "https://www.marketwatch.com/story/ok-boomer-why-you-should-start-giving-your-money-to-your-adult-kids-now-c58703a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There&#x2019;s no point in waiting until you die &#x2014; especially in this economy. How to know how much you can part with.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T16:28:00.000Z",
-      "headline": "Gen Z would rather cut Social Security benefits for current retirees than pay higher taxes to save the program",
-      "url": "https://www.marketwatch.com/story/gen-z-would-rather-cut-social-security-benefits-for-current-retirees-than-pay-higher-taxes-to-save-the-program-8062b870?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There&#x2019;s a stark generational divide in how to solve the Social Security crisis.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
