@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-12-20T23:27:31.236Z",
+  "last_updated": "2025-12-21T10:44:13.490Z",
   "items": [
+    {
+      "ts": "2025-12-21T10:40:00.000Z",
+      "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
+      "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Our current salary combined is $210,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T10:37:00.000Z",
+      "headline": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We try to help all our kids when we can, yet push for self-sufficiency.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-20T22:30:00.000Z",
       "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
@@ -27,18 +51,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-20T22:00:00.000Z",
-      "headline": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We try to help all our kids when we can, yet push for self-sufficiency.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-20T18:17:00.000Z",
       "headline": "What&#x2019;s next for airfares after ticket prices fell in November",
       "url": "https://www.marketwatch.com/story/airfares-fell-more-than-5-in-november-but-will-the-deals-last-2521874f?mod=mw_rss_topstories",
@@ -60,66 +72,6 @@
         "COST"
       ],
       "summary_en": "When the U.S. dollar loses its monopoly on pricing the world&#x2019;s critical resources, Americans&#x2019; purchasing power weakens.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T19:39:00.000Z",
-      "headline": "I&#x2019;m only 54 and my 401(k) plan is emailing me about buying annuities. Is this something I should do?",
-      "url": "https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Options will keep coming, but signing up for an annuity is something you want to carefully consider",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T16:14:00.000Z",
-      "headline": "Here&#x2019;s how to hold crypto in your 401(k) right now, without waiting for your employer to come around",
-      "url": "https://www.marketwatch.com/story/theres-one-way-to-hold-crypto-in-your-401-k-right-now-but-youll-be-on-your-own-320ef47f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Crypto is headed to inclusion in retirement plans &#x2014; if it can get past company plan sponsors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T18:10:00.000Z",
-      "headline": "When retirees go back to work is it a sign of a strong labor force &#x2014; or a recession?",
-      "url": "https://www.marketwatch.com/story/when-retirees-go-back-to-work-is-it-a-sign-of-a-strong-labor-force-or-a-recession-779d295c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "What &#x201c;unretirements&#x201d; can tell us about the job market",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T17:26:00.000Z",
-      "headline": "OK, boomer: Why you should start giving your money to your adult kids now",
-      "url": "https://www.marketwatch.com/story/ok-boomer-why-you-should-start-giving-your-money-to-your-adult-kids-now-c58703a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There&#x2019;s no point in waiting until you die &#x2014; especially in this economy. How to know how much you can part with.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-20T16:28:00.000Z",
-      "headline": "Gen Z would rather cut Social Security benefits for current retirees than pay higher taxes to save the program",
-      "url": "https://www.marketwatch.com/story/gen-z-would-rather-cut-social-security-benefits-for-current-retirees-than-pay-higher-taxes-to-save-the-program-8062b870?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There&#x2019;s a stark generational divide in how to solve the Social Security crisis.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -204,6 +156,54 @@
         "ED"
       ],
       "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-20T19:39:00.000Z",
+      "headline": "I&#x2019;m only 54 and my 401(k) plan is emailing me about buying annuities. Is this something I should do?",
+      "url": "https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Options will keep coming, but signing up for an annuity is something you want to carefully consider",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-20T18:10:00.000Z",
+      "headline": "When retirees go back to work is it a sign of a strong labor force &#x2014; or a recession?",
+      "url": "https://www.marketwatch.com/story/when-retirees-go-back-to-work-is-it-a-sign-of-a-strong-labor-force-or-a-recession-779d295c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "What &#x201c;unretirements&#x201d; can tell us about the job market",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-20T17:26:00.000Z",
+      "headline": "OK, boomer: Why you should start giving your money to your adult kids now",
+      "url": "https://www.marketwatch.com/story/ok-boomer-why-you-should-start-giving-your-money-to-your-adult-kids-now-c58703a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There&#x2019;s no point in waiting until you die &#x2014; especially in this economy. How to know how much you can part with.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-20T16:28:00.000Z",
+      "headline": "Gen Z would rather cut Social Security benefits for current retirees than pay higher taxes to save the program",
+      "url": "https://www.marketwatch.com/story/gen-z-would-rather-cut-social-security-benefits-for-current-retirees-than-pay-higher-taxes-to-save-the-program-8062b870?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There&#x2019;s a stark generational divide in how to solve the Social Security crisis.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
