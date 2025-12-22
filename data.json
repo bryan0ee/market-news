@@ -1,9 +1,70 @@
 {
-  "last_updated": "2025-12-21T23:28:13.310Z",
+  "last_updated": "2025-12-22T10:47:43.510Z",
   "items": [
     {
-      "ts": "2025-12-21T23:16:00.000Z",
-      "headline": "U.S. stock futures rise as investors hold out hope for a Christmas rally",
+      "ts": "2025-12-22T09:58:00.000Z",
+      "headline": "The so-called &#x2018;great debasement trade&#x2019; is back on as gold sets fresh record, says this strategist",
+      "url": "https://www.marketwatch.com/story/the-so-called-great-debasement-trade-is-back-on-as-gold-sets-fresh-record-says-this-strategist-9cfd3962?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "A rise in geopolitical tensions and the search for inflation hedges are fuelling the surge in precious metal prices",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T09:45:00.000Z",
+      "headline": "Clearwater Analytics went on a buying spree. Now it&#x2019;s getting bought in an $8.4 billion deal.",
+      "url": "https://www.marketwatch.com/story/clearwater-analytics-went-on-a-buying-spree-now-its-getting-bought-in-an-8-4-billion-deal-28b71d4b?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Clearwater Analytics over the weekend agreed to a buyout from private-equity firms, after the stock market failed to reward a string of acquisitions the fund management accounting software provider made.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T10:02:00.000Z",
+      "headline": "&#x2018;Springsteen&#x2019; star Jeremy Allen White on his favorite reality shows and obsession with real estate",
+      "url": "https://www.marketwatch.com/story/springsteen-star-jeremy-allen-white-on-his-favorite-reality-shows-and-obsession-with-real-estate-15326095?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The actor says he likes to &#x201c;decompress&#x201d; by perusing properties he knows he&#x2019;ll likely never buy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T09:23:00.000Z",
+      "headline": "&#x2018;I would like to give her a head start in life&#x2019;: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I would sell it to her for enough to allow me to pay cash for a much smaller condo.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T09:16:00.000Z",
+      "headline": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We try to help all our kids when we can, yet push for self-sufficiency.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T03:35:00.000Z",
+      "headline": "U.S. stock futures rise, gold and silver hit records as investors hold out hope for a Christmas rally",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally-f2429418?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -11,6 +72,18 @@
         "ED"
       ],
       "summary_en": "U.S. stock futures gained Sunday, ahead of the holiday-shortened trading week and as investors cling to hopes of a &#x201c;Santa Claus rally&#x201d; still to come.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-21T23:31:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
+      "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -47,78 +120,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;The numbers could be enormous when you look at the potential opportunities,&#x201d; one expert says.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T20:35:00.000Z",
-      "headline": "Don&#x2019;t give up on a &#x2018;Santa Claus rally&#x2019; just yet &#x2014; even after a rough December start for stocks",
-      "url": "https://www.marketwatch.com/story/dont-give-up-on-a-santa-claus-rally-just-yet-even-after-a-rough-december-start-for-stocks-d75e3e2d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors may still get the &#x201c;Santa Claus rally&#x201d; they had hoped for, even though stocks have struggled to gain momentum so far in December.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T22:55:00.000Z",
-      "headline": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We try to help all our kids when we can, yet push for self-sufficiency.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T18:53:00.000Z",
-      "headline": "Over age 65? Watch out for these costly mistakes when selling your home.",
-      "url": "https://www.marketwatch.com/story/older-homeowners-get-less-money-selling-their-houses-heres-how-you-can-sweeten-your-listing-to-get-more-8cfe214c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Older homeowners get less money selling their houses. Here&#x2019;s how you can sweeten your listing to get more.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T17:37:00.000Z",
-      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
-      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T14:30:00.000Z",
-      "headline": "&#x2018;It&#x2019;s heartbreaking&#x2019;: My cousin died and her estranged husband has taken possession of her home. Can we evict him?",
-      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The house remains in her name. He has since kicked out each of the boys one by one.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T14:00:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
-      "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
