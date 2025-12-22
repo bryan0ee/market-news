@@ -1,70 +1,106 @@
 {
-  "last_updated": "2025-12-22T13:36:35.737Z",
+  "last_updated": "2025-12-22T23:29:05.831Z",
   "items": [
     {
-      "ts": "2025-12-22T12:44:00.000Z",
-      "headline": "Honeywell says it has a $470 million Flexjet problem, and a lowered profit outlook",
-      "url": "https://www.marketwatch.com/story/honeywell-says-it-has-a-470-million-flexjet-problem-and-a-lowered-profit-outlook-07f08a17?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Honeywell expects to make a one-time cash settlement payment of $470 million related to the Flexjet lawsuit &#x2014; and the stock drops.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T13:11:00.000Z",
-      "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
-      "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
+      "ts": "2025-12-22T23:14:00.000Z",
+      "headline": "A Starlink rival&#x2019;s shares are surging again, as space stocks stay red-hot",
+      "url": "https://www.marketwatch.com/story/a-starlink-rivals-stock-is-surging-again-as-space-stocks-stay-red-hot-e3229aa7?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Our current salary combined is $210,000.&#x201d;",
+      "summary_en": "AST SpaceMobile&#x2019;s gains come after President Donald Trump signed an executive order to ensure &#x201c;American space superiority.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-22T13:00:00.000Z",
-      "headline": "Okta CEO Todd McKinnon has words of caution for people jumping ship to work at AI startups",
-      "url": "https://www.marketwatch.com/story/okta-ceo-todd-mckinnon-has-words-of-caution-for-people-jumping-ship-to-work-at-ai-startups-52a234f5?mod=mw_rss_topstories",
+      "ts": "2025-12-22T22:43:00.000Z",
+      "headline": "Jake Paul-Anthony Joshua fight almost cost DraftKings $100 million. Everyday bettors lost instead.",
+      "url": "https://www.marketwatch.com/story/jake-paul-anthony-joshua-fight-almost-cost-draftkings-100-million-everyday-bettors-lost-instead-fd6827f1?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
-        "ED"
+        "COST"
       ],
-      "summary_en": "As his coworkers bailed for &#x2018;sexy&#x2019; jobs at internet startups during the height of the dot-com boom, McKinnon made a seemingly boring decision.",
+      "summary_en": "Sportsbooks have been having a tough year &#x2014; but the Paul-Joshua fight was a good night for the house.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-22T09:58:00.000Z",
-      "headline": "The so-called great debasement trade is back on as gold sets fresh record, says this strategist",
-      "url": "https://www.marketwatch.com/story/the-so-called-great-debasement-trade-is-back-on-as-gold-sets-fresh-record-says-this-strategist-9cfd3962?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-12-22T22:12:00.000Z",
+      "headline": "Sorry, winning Powerball&#x2019;s $1.6 billion jackpot won&#x2019;t make you a billionaire. Here&#x2019;s why you may end up with $128.5 million instead.",
+      "url": "https://www.marketwatch.com/story/sorry-winning-powerballs-1-6-billion-jackpot-wont-make-you-a-billionaire-heres-why-you-may-end-up-with-120-412-700-90185387?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "META",
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "A rise in geopolitical tensions and the search for inflation hedges are fuelling the surge in precious metal prices",
+      "summary_en": "Various factors can reduce a lottery prize, from taxes to even the cost of a limo ride.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-22T09:45:00.000Z",
-      "headline": "Clearwater Analytics went on a buying spree. Now it&#x2019;s getting bought in an $8.4 billion deal.",
-      "url": "https://www.marketwatch.com/story/clearwater-analytics-went-on-a-buying-spree-now-its-getting-bought-in-an-8-4-billion-deal-28b71d4b?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-12-22T21:33:00.000Z",
+      "headline": "Don&#x2019;t give up on a &#x2018;Santa Claus rally&#x2019; just yet &#x2014; even after a rough December start for stocks",
+      "url": "https://www.marketwatch.com/story/dont-give-up-on-a-santa-claus-rally-just-yet-even-after-a-rough-december-start-for-stocks-d75e3e2d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Clearwater Analytics over the weekend agreed to a buyout from private-equity firms, after the stock market failed to reward a string of acquisitions the fund management accounting software provider made.",
+      "summary_en": "Investors may still get the &#x201c;Santa Claus rally&#x201d; they had hoped for, even though stocks have struggled to gain momentum so far in December.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-22T12:34:00.000Z",
-      "headline": "How Paramount beats Netflix, wins Warner Bros. and saves Hollywood from Big Tech",
+      "ts": "2025-12-22T21:30:00.000Z",
+      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
+      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T21:27:00.000Z",
+      "headline": "These investments for the elite are opening to all &#x2014; but think twice before saying yes",
+      "url": "https://www.marketwatch.com/story/these-elite-investments-can-now-be-yours-just-think-twice-before-saying-yes-593311c5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hedge funds sound attractive &#x2014; but on average they underperform even a basic 60/40 stock-bond portfolio.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T22:29:00.000Z",
+      "headline": "AMC&#x2019;s stock sinks to a 6th straight record low, as &#x2018;Avatar&#x2019; sequel&#x2019;s big opening fails to impress",
+      "url": "https://www.marketwatch.com/story/amcs-stock-sinks-to-a-6th-straight-record-low-as-avatar-sequels-big-opening-fails-to-impress-801fd3b4?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "AMC Entertainment&#x2019;s stock falls to a sixth straight record low, after the disclosure of another debt-agreement amendment that involves the sale of shares.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T23:17:00.000Z",
+      "headline": "Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid",
+      "url": "https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Larry Ellison now provides a &#x201c;personal guarantee&#x201d; of $40 billion of the financing for Paramount&#x2019;s $108 billion offer to buy Warner Bros. Discovery.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T21:43:00.000Z",
+      "headline": "How Paramount can beat out Netflix, win over Warner Bros. and save Hollywood from Big Tech",
       "url": "https://www.marketwatch.com/story/how-paramount-beats-netflix-wins-warner-bros-and-saves-hollywood-from-big-tech-2e583ff8?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
@@ -75,51 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-22T13:24:00.000Z",
-      "headline": "How this commodity trader is preparing for a second wave of inflation",
-      "url": "https://www.marketwatch.com/story/how-this-commodity-trader-is-preparing-for-a-second-wave-of-inflation-2e57261a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A similar pattern to the 1970&#x2019;s may be on the cards, says this former commodity trader",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T12:40:00.000Z",
-      "headline": "Young crypto bros love to gamble &#x2014; and you&#x2019;ll never guess where they get the money",
+      "ts": "2025-12-22T21:34:00.000Z",
+      "headline": "Why young crypto bros are also some of FanDuel&#x2019;s and DraftKings&#x2019; best customers",
       "url": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Crypto holders with college degrees and full-time jobs gamble at much higher rates than non-holders.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T12:27:00.000Z",
-      "headline": "Here are the macro surprises that Morgan Stanley says could trip up investors next year",
-      "url": "https://www.marketwatch.com/story/here-are-the-macro-surprises-that-morgan-stanley-says-could-trip-up-investors-next-year-9ef9dbad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Morgan Stanley analysts across various products identify areas where they think the market consensus may be proven wrong.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T10:02:00.000Z",
-      "headline": "&#x2018;Springsteen&#x2019; star Jeremy Allen White on his favorite reality shows and obsession with real estate",
-      "url": "https://www.marketwatch.com/story/springsteen-star-jeremy-allen-white-on-his-favorite-reality-shows-and-obsession-with-real-estate-15326095?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The actor says he likes to &#x201c;decompress&#x201d; by perusing properties he knows he&#x2019;ll likely never buy.",
+      "summary_en": "Sports betting is fueling today&#x2019;s gambling surge, and young men are the industry&#x2019;s bullseye.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -180,30 +180,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T16:00:00.000Z",
-      "headline": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-15T16:00:00.000Z",
-      "headline": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215b.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
