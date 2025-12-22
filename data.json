@@ -1,9 +1,45 @@
 {
-  "last_updated": "2025-12-22T10:47:43.510Z",
+  "last_updated": "2025-12-22T13:36:35.737Z",
   "items": [
     {
+      "ts": "2025-12-22T12:44:00.000Z",
+      "headline": "Honeywell says it has a $470 million Flexjet problem, and a lowered profit outlook",
+      "url": "https://www.marketwatch.com/story/honeywell-says-it-has-a-470-million-flexjet-problem-and-a-lowered-profit-outlook-07f08a17?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Honeywell expects to make a one-time cash settlement payment of $470 million related to the Flexjet lawsuit &#x2014; and the stock drops.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T13:11:00.000Z",
+      "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
+      "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Our current salary combined is $210,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T13:00:00.000Z",
+      "headline": "Okta CEO Todd McKinnon has words of caution for people jumping ship to work at AI startups",
+      "url": "https://www.marketwatch.com/story/okta-ceo-todd-mckinnon-has-words-of-caution-for-people-jumping-ship-to-work-at-ai-startups-52a234f5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As his coworkers bailed for &#x2018;sexy&#x2019; jobs at internet startups during the height of the dot-com boom, McKinnon made a seemingly boring decision.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-12-22T09:58:00.000Z",
-      "headline": "The so-called &#x2018;great debasement trade&#x2019; is back on as gold sets fresh record, says this strategist",
+      "headline": "The so-called great debasement trade is back on as gold sets fresh record, says this strategist",
       "url": "https://www.marketwatch.com/story/the-so-called-great-debasement-trade-is-back-on-as-gold-sets-fresh-record-says-this-strategist-9cfd3962?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
@@ -27,6 +63,54 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-12-22T12:34:00.000Z",
+      "headline": "How Paramount beats Netflix, wins Warner Bros. and saves Hollywood from Big Tech",
+      "url": "https://www.marketwatch.com/story/how-paramount-beats-netflix-wins-warner-bros-and-saves-hollywood-from-big-tech-2e583ff8?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "This fight is about much more than money.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T13:24:00.000Z",
+      "headline": "How this commodity trader is preparing for a second wave of inflation",
+      "url": "https://www.marketwatch.com/story/how-this-commodity-trader-is-preparing-for-a-second-wave-of-inflation-2e57261a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A similar pattern to the 1970&#x2019;s may be on the cards, says this former commodity trader",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T12:40:00.000Z",
+      "headline": "Young crypto bros love to gamble &#x2014; and you&#x2019;ll never guess where they get the money",
+      "url": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Crypto holders with college degrees and full-time jobs gamble at much higher rates than non-holders.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T12:27:00.000Z",
+      "headline": "Here are the macro surprises that Morgan Stanley says could trip up investors next year",
+      "url": "https://www.marketwatch.com/story/here-are-the-macro-surprises-that-morgan-stanley-says-could-trip-up-investors-next-year-9ef9dbad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Morgan Stanley analysts across various products identify areas where they think the market consensus may be proven wrong.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-12-22T10:02:00.000Z",
       "headline": "&#x2018;Springsteen&#x2019; star Jeremy Allen White on his favorite reality shows and obsession with real estate",
       "url": "https://www.marketwatch.com/story/springsteen-star-jeremy-allen-white-on-his-favorite-reality-shows-and-obsession-with-real-estate-15326095?mod=mw_rss_topstories",
@@ -36,90 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "The actor says he likes to &#x201c;decompress&#x201d; by perusing properties he knows he&#x2019;ll likely never buy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T09:23:00.000Z",
-      "headline": "&#x2018;I would like to give her a head start in life&#x2019;: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?",
-      "url": "https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I would sell it to her for enough to allow me to pay cash for a much smaller condo.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T09:16:00.000Z",
-      "headline": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We try to help all our kids when we can, yet push for self-sufficiency.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T03:35:00.000Z",
-      "headline": "U.S. stock futures rise, gold and silver hit records as investors hold out hope for a Christmas rally",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-investors-hold-out-hope-for-a-christmas-rally-f2429418?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stock futures gained Sunday, ahead of the holiday-shortened trading week and as investors cling to hopes of a &#x201c;Santa Claus rally&#x201d; still to come.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T23:31:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
-      "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T23:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
-      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T22:34:00.000Z",
-      "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
-      "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our current salary combined is $210,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-21T21:18:00.000Z",
-      "headline": "The year-end tax moves that can lower your tax bill and make your refund even bigger than Trump promised",
-      "url": "https://www.marketwatch.com/story/the-year-end-tax-moves-that-can-lower-your-tax-bill-and-make-your-refund-even-bigger-than-trump-promised-09611095?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The numbers could be enormous when you look at the potential opportunities,&#x201d; one expert says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
