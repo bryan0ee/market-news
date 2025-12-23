@@ -1,41 +1,101 @@
 {
-  "last_updated": "2025-12-23T10:48:15.966Z",
+  "last_updated": "2025-12-23T13:38:19.613Z",
   "items": [
     {
-      "ts": "2025-12-23T10:23:00.000Z",
-      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
-      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+      "ts": "2025-12-23T13:35:00.000Z",
+      "headline": "Big-name strategist Ed Yardeni said gold would top $4,000 by year-end. He was right. Here&#x2019;s what he foresees in 2026.",
+      "url": "https://www.marketwatch.com/story/golds-rush-for-records-has-inspired-a-new-high-bar-on-wall-street-for-2026-6f500c47?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
+        "META",
         "ED"
       ],
-      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
+      "summary_en": "On what&#x2019;s looking like another record day for precious metals, Yardeni Research is now saying will reach $6,000 by the end of 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-23T10:00:00.000Z",
-      "headline": "Does the stock market close early on Christmas Eve? Will banks be open?",
-      "url": "https://www.marketwatch.com/story/does-the-stock-market-close-early-on-christmas-eve-will-banks-be-open-d0244b80?mod=mw_rss_topstories",
+      "ts": "2025-12-23T13:33:00.000Z",
+      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
+      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Expect plenty of schedule changes for financial markets, mail service, federal offices and more during the coming days",
+      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-23T09:58:00.000Z",
-      "headline": "Palantir CEO Alex Karp buys 68-year-old Colorado monastery on 3,700 acres for whopping $120 million",
-      "url": "https://www.marketwatch.com/story/palantir-ceo-alex-karp-buys-68-year-old-colorado-monastery-on-3-700-acres-for-whopping-120-million-03f13baf?mod=mw_rss_topstories",
+      "ts": "2025-12-23T12:51:00.000Z",
+      "headline": "China has been open to Western consumer brands for decades. Those brands still have a lot to learn about Chinese consumers.",
+      "url": "https://www.marketwatch.com/story/china-has-been-open-to-western-consumer-brands-for-decades-those-brands-still-have-a-lot-to-learn-about-chinese-consumers-47187bd1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Domestic rivals are moving faster, consumers are trading down, and global brands from Starbucks to Costa to H&#xe4;agen-Dazs are scrambling to adapt &#x2014; and paying the price when they don&#x2019;t.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T12:30:00.000Z",
+      "headline": "Social Security says its phone service is getting better &#x2014; but watchdogs warn callback wait times can run over an hour",
+      "url": "https://www.marketwatch.com/story/social-security-says-its-phone-service-is-getting-better-but-watchdogs-warn-callback-wait-times-can-run-over-an-hour-5b2e78c6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Colorado monastery has been carefully tended to by a group of Trappist monks for the last seven decades.",
+      "summary_en": "The Social Security Administration Office of Inspector General said the agency&#x2019;s average speed of answer was only seven minutes in September.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T12:50:00.000Z",
+      "headline": "Quantum stocks are where AI was five years ago. These bets could be big winners.",
+      "url": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The Pentagon sees quantum computing as a new Manhattan Project. China is &#x201c;nanoseconds&#x201d; behind. And these stocks are still cheap.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T12:34:00.000Z",
+      "headline": "These are the catalysts to reignite stock market momentum in 2026, says UBS",
+      "url": "https://www.marketwatch.com/story/these-are-the-catalysts-to-reignite-stock-market-momentum-in-2026-says-ubs-6002e320?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "UBS Wealth Management has a 7,700 target for the S&P 500 by the end of 2026.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T12:20:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a heavy, heavy load&#x2019; helping aging parents who live far away. Here&#x2019;s how you can make it work.",
+      "url": "https://www.marketwatch.com/story/its-a-heavy-heavy-load-helping-aging-parents-who-live-far-away-heres-how-you-can-make-it-work-b3d54304?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "It takes travel, time and money.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T12:05:00.000Z",
+      "headline": "Rising prices and weight-loss drugs are changing the way we eat &#x2014; and food companies are racing to keep up",
+      "url": "https://www.marketwatch.com/story/rising-prices-and-weight-loss-drugs-are-changing-the-way-we-eat-and-food-companies-are-racing-to-keep-up-16c9bfb1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A shaky economy, wider adoption of weight-loss drugs, and changing tastes seem to conspire against some food makers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -60,54 +120,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I would sell it to her for enough to allow me to pay cash for a much smaller condo.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T10:18:00.000Z",
-      "headline": "Novo Nordisk first out of the gate with oral weight-loss drug, and its stock jumps",
-      "url": "https://www.marketwatch.com/story/novo-nordisk-first-out-of-the-gate-with-oral-weight-loss-drug-and-its-stock-jumps-cd7c97ef?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Relief rally underway in Novo Nordisk after a difficult year for the stock which saw it lose ground to arch-competitor Eli Lilly.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T01:42:00.000Z",
-      "headline": "This shipbuilder&#x2019;s stock soars to a fresh record as company wins contract to produce a new type of Navy frigate",
-      "url": "https://www.marketwatch.com/story/this-shipbuilders-stock-is-soaring-to-a-fresh-record-as-company-wins-contract-to-produce-a-new-type-of-navy-frigate-9f9704d5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of military shipbuilder Huntington Ingalls Industries were up sharply Monday, building on Friday&#x2019;s surge that came after the U.S. Navy announced it had selected the company to design and build a new class of small warship.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T23:14:00.000Z",
-      "headline": "A Starlink rival&#x2019;s shares are surging again, as space stocks stay red-hot",
-      "url": "https://www.marketwatch.com/story/a-starlink-rivals-stock-is-surging-again-as-space-stocks-stay-red-hot-e3229aa7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "AST SpaceMobile&#x2019;s gains come after President Donald Trump signed an executive order to ensure &#x201c;American space superiority.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T22:43:00.000Z",
-      "headline": "Jake Paul-Anthony Joshua fight almost cost DraftKings $100 million. Everyday bettors lost instead.",
-      "url": "https://www.marketwatch.com/story/jake-paul-anthony-joshua-fight-almost-cost-draftkings-100-million-everyday-bettors-lost-instead-fd6827f1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Sportsbooks have been having a tough year &#x2014; but the Paul-Joshua fight was a good night for the house.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -168,18 +180,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T23:17:00.000Z",
-      "headline": "Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid",
-      "url": "https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Larry Ellison now provides a &#x201c;personal guarantee&#x201d; of $40 billion of the financing for Paramount&#x2019;s $108 billion offer to buy Warner Bros. Discovery.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
