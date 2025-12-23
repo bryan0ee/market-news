@@ -1,6 +1,91 @@
 {
-  "last_updated": "2025-12-22T23:29:05.831Z",
+  "last_updated": "2025-12-23T10:48:15.966Z",
   "items": [
+    {
+      "ts": "2025-12-23T10:23:00.000Z",
+      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
+      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T10:00:00.000Z",
+      "headline": "Does the stock market close early on Christmas Eve? Will banks be open?",
+      "url": "https://www.marketwatch.com/story/does-the-stock-market-close-early-on-christmas-eve-will-banks-be-open-d0244b80?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Expect plenty of schedule changes for financial markets, mail service, federal offices and more during the coming days",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T09:58:00.000Z",
+      "headline": "Palantir CEO Alex Karp buys 68-year-old Colorado monastery on 3,700 acres for whopping $120 million",
+      "url": "https://www.marketwatch.com/story/palantir-ceo-alex-karp-buys-68-year-old-colorado-monastery-on-3-700-acres-for-whopping-120-million-03f13baf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Colorado monastery has been carefully tended to by a group of Trappist monks for the last seven decades.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T10:40:00.000Z",
+      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
+      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T10:26:00.000Z",
+      "headline": "&#x2018;I would like to give her a head start in life&#x2019;: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I would sell it to her for enough to allow me to pay cash for a much smaller condo.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T10:18:00.000Z",
+      "headline": "Novo Nordisk first out of the gate with oral weight-loss drug, and its stock jumps",
+      "url": "https://www.marketwatch.com/story/novo-nordisk-first-out-of-the-gate-with-oral-weight-loss-drug-and-its-stock-jumps-cd7c97ef?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Relief rally underway in Novo Nordisk after a difficult year for the stock which saw it lose ground to arch-competitor Eli Lilly.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T01:42:00.000Z",
+      "headline": "This shipbuilder&#x2019;s stock soars to a fresh record as company wins contract to produce a new type of Navy frigate",
+      "url": "https://www.marketwatch.com/story/this-shipbuilders-stock-is-soaring-to-a-fresh-record-as-company-wins-contract-to-produce-a-new-type-of-navy-frigate-9f9704d5?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of military shipbuilder Huntington Ingalls Industries were up sharply Monday, building on Friday&#x2019;s surge that came after the U.S. Navy announced it had selected the company to design and build a new class of small warship.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-22T23:14:00.000Z",
       "headline": "A Starlink rival&#x2019;s shares are surging again, as space stocks stay red-hot",
@@ -23,103 +108,6 @@
         "COST"
       ],
       "summary_en": "Sportsbooks have been having a tough year &#x2014; but the Paul-Joshua fight was a good night for the house.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T22:12:00.000Z",
-      "headline": "Sorry, winning Powerball&#x2019;s $1.6 billion jackpot won&#x2019;t make you a billionaire. Here&#x2019;s why you may end up with $128.5 million instead.",
-      "url": "https://www.marketwatch.com/story/sorry-winning-powerballs-1-6-billion-jackpot-wont-make-you-a-billionaire-heres-why-you-may-end-up-with-120-412-700-90185387?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Various factors can reduce a lottery prize, from taxes to even the cost of a limo ride.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T21:33:00.000Z",
-      "headline": "Don&#x2019;t give up on a &#x2018;Santa Claus rally&#x2019; just yet &#x2014; even after a rough December start for stocks",
-      "url": "https://www.marketwatch.com/story/dont-give-up-on-a-santa-claus-rally-just-yet-even-after-a-rough-december-start-for-stocks-d75e3e2d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Investors may still get the &#x201c;Santa Claus rally&#x201d; they had hoped for, even though stocks have struggled to gain momentum so far in December.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T21:30:00.000Z",
-      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
-      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T21:27:00.000Z",
-      "headline": "These investments for the elite are opening to all &#x2014; but think twice before saying yes",
-      "url": "https://www.marketwatch.com/story/these-elite-investments-can-now-be-yours-just-think-twice-before-saying-yes-593311c5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Hedge funds sound attractive &#x2014; but on average they underperform even a basic 60/40 stock-bond portfolio.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T22:29:00.000Z",
-      "headline": "AMC&#x2019;s stock sinks to a 6th straight record low, as &#x2018;Avatar&#x2019; sequel&#x2019;s big opening fails to impress",
-      "url": "https://www.marketwatch.com/story/amcs-stock-sinks-to-a-6th-straight-record-low-as-avatar-sequels-big-opening-fails-to-impress-801fd3b4?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "AMC Entertainment&#x2019;s stock falls to a sixth straight record low, after the disclosure of another debt-agreement amendment that involves the sale of shares.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T23:17:00.000Z",
-      "headline": "Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid",
-      "url": "https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Larry Ellison now provides a &#x201c;personal guarantee&#x201d; of $40 billion of the financing for Paramount&#x2019;s $108 billion offer to buy Warner Bros. Discovery.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T21:43:00.000Z",
-      "headline": "How Paramount can beat out Netflix, win over Warner Bros. and save Hollywood from Big Tech",
-      "url": "https://www.marketwatch.com/story/how-paramount-beats-netflix-wins-warner-bros-and-saves-hollywood-from-big-tech-2e583ff8?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "This fight is about much more than money.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-22T21:34:00.000Z",
-      "headline": "Why young crypto bros are also some of FanDuel&#x2019;s and DraftKings&#x2019; best customers",
-      "url": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Sports betting is fueling today&#x2019;s gambling surge, and young men are the industry&#x2019;s bullseye.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -180,6 +168,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces termination of enforcement actions with The Goldman Sachs Group, Inc. and Metropolitan Commercial Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-22T23:17:00.000Z",
+      "headline": "Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid",
+      "url": "https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Larry Ellison now provides a &#x201c;personal guarantee&#x201d; of $40 billion of the financing for Paramount&#x2019;s $108 billion offer to buy Warner Bros. Discovery.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
