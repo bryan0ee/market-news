@@ -1,20 +1,8 @@
 {
-  "last_updated": "2025-12-24T13:34:11.425Z",
+  "last_updated": "2025-12-24T23:28:53.149Z",
   "items": [
     {
-      "ts": "2025-12-24T13:33:00.000Z",
-      "headline": "A stagflationary period lies ahead for the U.S. economy, but reacceleration will follow, economist predicts",
-      "url": "https://www.marketwatch.com/story/a-stagflationary-period-lies-ahead-for-the-u-s-economy-but-reacceleration-will-follow-economist-predicts-4275759f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The k-shaped consumer economy is set to persist and investors must be wary of any slowdown in AI investment affecting the broader economy, says Apollo economist.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T10:09:00.000Z",
+      "ts": "2025-12-24T23:00:00.000Z",
       "headline": "&#x2018;Is it a case of them or us?&#x2019; We&#x2019;re in our 40s. Do we retire early in our 50s &#x2014; or save for our kids&#x2019; education?",
       "url": "https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,55 +14,43 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-24T13:02:00.000Z",
-      "headline": "Less traffic, more lounge time, cheaper homes? How robotaxis promise a whole new world.",
-      "url": "https://www.marketwatch.com/story/less-traffic-more-lounge-time-cheaper-homes-how-robotaxis-promise-a-whole-new-world-733c4b15?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Nearly every car sold by 2050 could be autonomous, a transformation that will reshape far more than just your daily commute.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T10:01:00.000Z",
-      "headline": "L.A. Lakers owner Jeanie Buss plunks down $4.2 million on seaside California home",
-      "url": "https://www.marketwatch.com/story/l-a-lakers-owner-jeanie-buss-plunks-down-4-2-million-on-seaside-california-home-d79b2e4e?mod=mw_rss_topstories",
+      "ts": "2025-12-24T22:38:00.000Z",
+      "headline": "Groq execs to join Nvidia as part of AI-chip licensing deal",
+      "url": "https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Buss&#x2019; purchase of the property comes just two months after she and her family finalized the sale of their majority stake in the Lakers.",
+      "summary_en": "Nvidia has entered into a nonexclusive licensing agreement with AI-chip maker Groq, and will acquire some of the startup&#x2019;s executive team.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-24T12:40:00.000Z",
-      "headline": "One of the most important &#x2018;Magnificent Seven&#x2019; members is rumbling to life. Here&#x2019;s what that means for tech and the S&P 500.",
-      "url": "https://www.marketwatch.com/story/one-of-the-most-important-magnificent-seven-members-is-rumbling-to-life-heres-what-that-means-for-tech-and-the-s-p-500-2867dc12?mod=mw_rss_topstories",
+      "ts": "2025-12-24T22:28:00.000Z",
+      "headline": "&#x2018;So much for holiday cheer&#x2019;: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
+      "url": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Nvidia shares have been on a run lately and strategist Mark Newton says that has bigger meaning for the stock market in general.",
+      "summary_en": "&#x201c;I guess he thought no one would notice. It came in a gift bag, and it looked expensive.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-24T12:32:00.000Z",
-      "headline": "Here&#x2019;s what Nvidia investors can look forward to in 2026",
-      "url": "https://www.marketwatch.com/story/heres-what-nvidia-investors-can-look-forward-to-in-2026-c80fc964?mod=mw_rss_topstories",
+      "ts": "2025-12-24T20:14:00.000Z",
+      "headline": "Here comes the stock market&#x2019;s &#x2018;Santa Claus rally&#x2019; &#x2014; gift-wrapped and delivered on time",
+      "url": "https://www.marketwatch.com/story/here-comes-the-stock-markets-santa-claus-rally-gift-wrapped-and-delivered-on-time-61e291dc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "OpenAI&#x2019;s upcoming GPT model and the data center buildout will be telling for the chip maker&#x2019;s competitive advantage, Wall Street says",
+      "summary_en": "The seasonal rally typically runs through the first two trading days of the new year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-24T09:27:00.000Z",
+      "ts": "2025-12-24T19:48:00.000Z",
       "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
       "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -87,6 +63,67 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-12-24T18:14:00.000Z",
+      "headline": "S&P 500 hits record high on Christmas Eve for first time in more than a decade",
+      "url": "https://www.marketwatch.com/story/s-p-500-hits-record-high-on-christmas-eve-for-first-time-in-more-than-a-decade-a784ff23?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "Stocks and metals prices marched further into record territory on Wednesday, giving investors are little something extra to celebrate this Christmas.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T19:07:00.000Z",
+      "headline": "Would you take a $120,000 pay cut to work from home full time?",
+      "url": "https://www.marketwatch.com/story/would-you-take-a-120-000-pay-cut-to-work-from-home-full-time-9751c743?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The latest stage in the remote work vs. in-office debate sees people arguing on TikTok and Reddit over whether to take a remote job paying $120K, or a fully in-office gig that earns $240K a year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T19:06:00.000Z",
+      "headline": "We&#x2019;re wired to react to bad news &#x2014; and that messes with our investments. Can AI help?",
+      "url": "https://www.marketwatch.com/story/were-wired-to-react-to-bad-news-and-that-messes-with-our-investments-can-ai-help-f779b8ad?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "No news is good news for stock investors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T20:16:00.000Z",
+      "headline": "Making a budget gives your money a fitness plan. Here&#x2019;s how to spend like a pro.",
+      "url": "https://www.marketwatch.com/story/a-budget-is-a-roof-over-your-financial-house-heres-how-to-build-one-like-a-pro-2689fd5f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "These budgeting tips can ease your financial worries.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T19:10:00.000Z",
+      "headline": "Your boss is pushing AI on you in exactly the wrong ways",
+      "url": "https://www.marketwatch.com/story/fear-of-losing-your-job-is-no-way-to-get-employees-on-board-with-ai-60953399?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Companies want workers to embrace AI &#x2014; but a hardline ultimatum will backfire.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-12-23T18:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
@@ -96,18 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T01:20:00.000Z",
-      "headline": "Why Jerome Powell was right all along about interest rates, inflation and the economy",
-      "url": "https://www.marketwatch.com/story/jerome-powell-was-right-all-along-5db6af9c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "If the president had gotten his way, inflation would surely be rocketing again, the economy would be overheating and the Fed would have to raise short-term rates again.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,42 +169,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-17T21:00:00.000Z",
-      "headline": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251217a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T01:45:00.000Z",
-      "headline": "Quantum computing is the stock market&#x2019;s next big tech play &#x2014; and these stocks are still cheap",
-      "url": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Quantum stocks are where AI was five years ago &#x2014; and the science actually works.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T01:32:00.000Z",
-      "headline": "Rising prices and weight-loss drugs are changing the way we eat &#x2014; and food companies are racing to keep up",
-      "url": "https://www.marketwatch.com/story/rising-prices-and-weight-loss-drugs-are-changing-the-way-we-eat-and-food-companies-are-racing-to-keep-up-16c9bfb1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A shaky economy, wider adoption of weight-loss drugs, and changing tastes seem to conspire against some food makers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
