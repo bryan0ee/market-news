@@ -1,16 +1,90 @@
 {
-  "last_updated": "2025-12-23T23:28:43.346Z",
+  "last_updated": "2025-12-24T10:46:20.234Z",
   "items": [
     {
-      "ts": "2025-12-23T21:06:00.000Z",
-      "headline": "America&#x2019;s food market is rigged. Look who&#x2019;s getting rich while many of us struggle with grocery bills",
-      "url": "https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2025-12-24T10:09:00.000Z",
+      "headline": "&#x2018;Is it a case of them or us?&#x2019; We&#x2019;re in our 40s. Do we retire early in our 50s &#x2014; or save for our kids&#x2019; education?",
+      "url": "https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We&#x2019;re both teachers, with a combined gross income of $210,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T10:01:00.000Z",
+      "headline": "L.A. Lakers owner Jeanie Buss plunks down $4.2 million on seaside California home",
+      "url": "https://www.marketwatch.com/story/l-a-lakers-owner-jeanie-buss-plunks-down-4-2-million-on-seaside-california-home-d79b2e4e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Buss&#x2019; purchase of the property comes just two months after she and her family finalized the sale of their majority stake in the Lakers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T09:27:00.000Z",
+      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
+      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T01:20:00.000Z",
+      "headline": "Why Jerome Powell was right all along about interest rates, inflation and the economy",
+      "url": "https://www.marketwatch.com/story/jerome-powell-was-right-all-along-5db6af9c?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Powerful &#x201c;Big Ag&#x201d; &#x2014; not small farmers and ranchers or even tariffs &#x2014; is the root cause of the food-affordability crisis.",
+      "summary_en": "If the president had gotten his way, inflation would surely be rocketing again, the economy would be overheating and the Fed would have to raise short-term rates again.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T18:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T23:41:00.000Z",
+      "headline": "Sorry, winning Powerball&#x2019;s $1.7 billion jackpot won&#x2019;t make you a billionaire. Here&#x2019;s why you might end up with $136.6 million instead.",
+      "url": "https://www.marketwatch.com/story/sorry-winning-powerballs-1-6-billion-jackpot-wont-make-you-a-billionaire-heres-why-you-may-end-up-with-120-412-700-90185387?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Various factors can reduce a lottery prize, from taxes to the cost of a limo ride.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T23:38:00.000Z",
+      "headline": "Trump stops offshore wind projects. &#x2018;The pause could last weeks to months,&#x2019; analysts warn.",
+      "url": "https://www.marketwatch.com/story/trump-stops-offshore-wind-projects-the-pause-could-last-weeks-to-months-analysts-warn-99339b81?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;While we believe these latest pauses will be challenged in court, we expect refreshed concerns around the projects,&#x201d; other analysts say.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -35,102 +109,6 @@
         "ED"
       ],
       "summary_en": "Tesla&#x2019;s EV sales continue to fall, but the stock is trading around record levels as Wall Street keeps it eye on the robotaxi opportunity.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T21:38:00.000Z",
-      "headline": "Who claims Social Security while they are still working &#x2014; and why do they do it?",
-      "url": "https://www.marketwatch.com/story/who-claims-social-security-while-they-are-still-working-and-why-do-they-do-it-ab987d2e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Social Security was originally intended for retirement",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T21:35:00.000Z",
-      "headline": "More uninsured drivers, more unfixed damage: Soaring car-insurance prices have pushed Americans into risky trade-offs",
-      "url": "https://www.marketwatch.com/story/more-uninsured-drivers-more-unfixed-damage-soaring-car-insurance-prices-have-pushed-americans-into-risky-trade-offs-9d322a39?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Here&#x2019;s why car-insurance prices will continue to weigh heavily on drivers, likely prompting them to make more high-stakes bets next year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T20:51:00.000Z",
-      "headline": "Workers are getting very worried about losing their jobs as financial fears rise",
-      "url": "https://www.marketwatch.com/story/workers-are-getting-very-worried-about-losing-their-jobs-as-financial-fears-rise-6a431691?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Financial worries have gradually taken over as employees&#x2019; biggest concerns since inflation spiked, the job market stalled and the rise of AI threatens to disrupt how people work.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T18:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T21:39:00.000Z",
-      "headline": "Wall Street&#x2019;s &#x2018;fear gauge&#x2019; shows investors feeling confident heading into 2026 &#x2014; and overlooking some big risks",
-      "url": "https://www.marketwatch.com/story/wall-streets-fear-gauge-shows-investors-feeling-confident-heading-into-2026-and-overlooking-some-big-risks-95fbf04d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The VIX has been on a wild ride this year, but it is on track to finish 2025 at or around its lowest level since December 2024.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T20:32:00.000Z",
-      "headline": "Why young crypto bros are also some of FanDuel&#x2019;s and DraftKings&#x2019; best customers",
-      "url": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Sports betting is fueling today&#x2019;s gambling surge, and young men are the industry&#x2019;s bullseye.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T19:18:00.000Z",
-      "headline": "How to start a solo 401(k) for your side hustle &#x2014; and boost your savings up to the $70,000 limit",
-      "url": "https://www.marketwatch.com/story/how-to-start-a-solo-401-k-for-your-side-hustle-and-boost-your-savings-up-to-the-70-000-limit-fd5f5e85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "If you&#x2019;re a high earner, you could convert after-tax income into a Roth account and never pay tax on it again.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T18:59:00.000Z",
-      "headline": "Quantum computing is the stock market&#x2019;s next big tech play &#x2014; and these stocks are still cheap",
-      "url": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Quantum stocks are where AI was five years ago &#x2014; and the science actually works.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -179,6 +157,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board withdraws 2023 policy statement and issues new policy statement regarding the treatment of certain Board-supervised banks that facilitates responsible innovation",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T01:45:00.000Z",
+      "headline": "Quantum computing is the stock market&#x2019;s next big tech play &#x2014; and these stocks are still cheap",
+      "url": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Quantum stocks are where AI was five years ago &#x2014; and the science actually works.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T01:32:00.000Z",
+      "headline": "Rising prices and weight-loss drugs are changing the way we eat &#x2014; and food companies are racing to keep up",
+      "url": "https://www.marketwatch.com/story/rising-prices-and-weight-loss-drugs-are-changing-the-way-we-eat-and-food-companies-are-racing-to-keep-up-16c9bfb1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A shaky economy, wider adoption of weight-loss drugs, and changing tastes seem to conspire against some food makers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
