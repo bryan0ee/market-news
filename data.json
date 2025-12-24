@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-12-24T10:46:20.234Z",
+  "last_updated": "2025-12-24T13:34:11.425Z",
   "items": [
+    {
+      "ts": "2025-12-24T13:33:00.000Z",
+      "headline": "A stagflationary period lies ahead for the U.S. economy, but reacceleration will follow, economist predicts",
+      "url": "https://www.marketwatch.com/story/a-stagflationary-period-lies-ahead-for-the-u-s-economy-but-reacceleration-will-follow-economist-predicts-4275759f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The k-shaped consumer economy is set to persist and investors must be wary of any slowdown in AI investment affecting the broader economy, says Apollo economist.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-24T10:09:00.000Z",
       "headline": "&#x2018;Is it a case of them or us?&#x2019; We&#x2019;re in our 40s. Do we retire early in our 50s &#x2014; or save for our kids&#x2019; education?",
@@ -14,6 +26,18 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2025-12-24T13:02:00.000Z",
+      "headline": "Less traffic, more lounge time, cheaper homes? How robotaxis promise a whole new world.",
+      "url": "https://www.marketwatch.com/story/less-traffic-more-lounge-time-cheaper-homes-how-robotaxis-promise-a-whole-new-world-733c4b15?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Nearly every car sold by 2050 could be autonomous, a transformation that will reshape far more than just your daily commute.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2025-12-24T10:01:00.000Z",
       "headline": "L.A. Lakers owner Jeanie Buss plunks down $4.2 million on seaside California home",
       "url": "https://www.marketwatch.com/story/l-a-lakers-owner-jeanie-buss-plunks-down-4-2-million-on-seaside-california-home-d79b2e4e?mod=mw_rss_topstories",
@@ -23,6 +47,30 @@
         "ED"
       ],
       "summary_en": "Buss&#x2019; purchase of the property comes just two months after she and her family finalized the sale of their majority stake in the Lakers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T12:40:00.000Z",
+      "headline": "One of the most important &#x2018;Magnificent Seven&#x2019; members is rumbling to life. Here&#x2019;s what that means for tech and the S&P 500.",
+      "url": "https://www.marketwatch.com/story/one-of-the-most-important-magnificent-seven-members-is-rumbling-to-life-heres-what-that-means-for-tech-and-the-s-p-500-2867dc12?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Nvidia shares have been on a run lately and strategist Mark Newton says that has bigger meaning for the stock market in general.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T12:32:00.000Z",
+      "headline": "Here&#x2019;s what Nvidia investors can look forward to in 2026",
+      "url": "https://www.marketwatch.com/story/heres-what-nvidia-investors-can-look-forward-to-in-2026-c80fc964?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "OpenAI&#x2019;s upcoming GPT model and the data center buildout will be telling for the chip maker&#x2019;s competitive advantage, Wall Street says",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -39,18 +87,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-24T01:20:00.000Z",
-      "headline": "Why Jerome Powell was right all along about interest rates, inflation and the economy",
-      "url": "https://www.marketwatch.com/story/jerome-powell-was-right-all-along-5db6af9c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "If the president had gotten his way, inflation would surely be rocketing again, the economy would be overheating and the Fed would have to raise short-term rates again.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-23T18:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
@@ -63,52 +99,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-23T23:41:00.000Z",
-      "headline": "Sorry, winning Powerball&#x2019;s $1.7 billion jackpot won&#x2019;t make you a billionaire. Here&#x2019;s why you might end up with $136.6 million instead.",
-      "url": "https://www.marketwatch.com/story/sorry-winning-powerballs-1-6-billion-jackpot-wont-make-you-a-billionaire-heres-why-you-may-end-up-with-120-412-700-90185387?mod=mw_rss_topstories",
+      "ts": "2025-12-24T01:20:00.000Z",
+      "headline": "Why Jerome Powell was right all along about interest rates, inflation and the economy",
+      "url": "https://www.marketwatch.com/story/jerome-powell-was-right-all-along-5db6af9c?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Various factors can reduce a lottery prize, from taxes to the cost of a limo ride.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T23:38:00.000Z",
-      "headline": "Trump stops offshore wind projects. &#x2018;The pause could last weeks to months,&#x2019; analysts warn.",
-      "url": "https://www.marketwatch.com/story/trump-stops-offshore-wind-projects-the-pause-could-last-weeks-to-months-analysts-warn-99339b81?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;While we believe these latest pauses will be challenged in court, we expect refreshed concerns around the projects,&#x201d; other analysts say.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T21:46:00.000Z",
-      "headline": "Americans are starting the new year with record debt. Here&#x2019;s how they can get it under control.",
-      "url": "https://www.marketwatch.com/story/americans-are-starting-the-new-year-with-record-debt-heres-how-they-can-get-it-under-control-75c0f08a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Even if the Fed is moving too slowly to significantly help borrowers, people carrying high-interest credit-card or auto debt can still take proactive action in the new year by working to improve their credit scores and refinancing loans.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T21:44:00.000Z",
-      "headline": "Tesla&#x2019;s EV sales keep falling, but Wall Street stays focused on robotaxis",
-      "url": "https://www.marketwatch.com/story/teslas-ev-sales-keep-falling-but-wall-street-stays-focused-on-robotaxis-a2728dd3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Tesla&#x2019;s EV sales continue to fall, but the stock is trading around record levels as Wall Street keeps it eye on the robotaxi opportunity.",
+      "summary_en": "If the president had gotten his way, inflation would surely be rocketing again, the economy would be overheating and the Fed would have to raise short-term rates again.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
