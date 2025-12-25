@@ -1,6 +1,68 @@
 {
-  "last_updated": "2025-12-24T23:28:53.149Z",
+  "last_updated": "2025-12-25T10:46:27.373Z",
   "items": [
+    {
+      "ts": "2025-12-25T01:16:00.000Z",
+      "headline": "Groq execs to join Nvidia as part of AI-chip licensing deal",
+      "url": "https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Nvidia has entered into a nonexclusive licensing agreement with AI-chip maker Groq, and will acquire some of the startup&#x2019;s executive team.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-25T00:53:00.000Z",
+      "headline": "Would you take a $120,000 pay cut to work from home full time?",
+      "url": "https://www.marketwatch.com/story/would-you-take-a-120-000-pay-cut-to-work-from-home-full-time-9751c743?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The latest stage in the remote work vs. in-office debate sees people arguing on TikTok and Reddit over whether to take a remote job paying $120K, or a fully in-office gig that earns $240K a year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-25T00:12:00.000Z",
+      "headline": "Sorry, winning Powerball&#x2019;s $1.7 billion jackpot won&#x2019;t make you a billionaire. Here&#x2019;s why you might end up with $136.6 million instead.",
+      "url": "https://www.marketwatch.com/story/sorry-winning-powerballs-1-6-billion-jackpot-wont-make-you-a-billionaire-heres-why-you-may-end-up-with-120-412-700-90185387?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Various factors can reduce a lottery prize, from taxes to the cost of a limo ride.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T18:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T23:30:00.000Z",
+      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
+      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-24T23:00:00.000Z",
       "headline": "&#x2018;Is it a case of them or us?&#x2019; We&#x2019;re in our 40s. Do we retire early in our 50s &#x2014; or save for our kids&#x2019; education?",
@@ -11,18 +73,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;We&#x2019;re both teachers, with a combined gross income of $210,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T22:38:00.000Z",
-      "headline": "Groq execs to join Nvidia as part of AI-chip licensing deal",
-      "url": "https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Nvidia has entered into a nonexclusive licensing agreement with AI-chip maker Groq, and will acquire some of the startup&#x2019;s executive team.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -47,92 +97,6 @@
         "ED"
       ],
       "summary_en": "The seasonal rally typically runs through the first two trading days of the new year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T19:48:00.000Z",
-      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
-      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T18:14:00.000Z",
-      "headline": "S&P 500 hits record high on Christmas Eve for first time in more than a decade",
-      "url": "https://www.marketwatch.com/story/s-p-500-hits-record-high-on-christmas-eve-for-first-time-in-more-than-a-decade-a784ff23?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "Stocks and metals prices marched further into record territory on Wednesday, giving investors are little something extra to celebrate this Christmas.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T19:07:00.000Z",
-      "headline": "Would you take a $120,000 pay cut to work from home full time?",
-      "url": "https://www.marketwatch.com/story/would-you-take-a-120-000-pay-cut-to-work-from-home-full-time-9751c743?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The latest stage in the remote work vs. in-office debate sees people arguing on TikTok and Reddit over whether to take a remote job paying $120K, or a fully in-office gig that earns $240K a year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T19:06:00.000Z",
-      "headline": "We&#x2019;re wired to react to bad news &#x2014; and that messes with our investments. Can AI help?",
-      "url": "https://www.marketwatch.com/story/were-wired-to-react-to-bad-news-and-that-messes-with-our-investments-can-ai-help-f779b8ad?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "No news is good news for stock investors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T20:16:00.000Z",
-      "headline": "Making a budget gives your money a fitness plan. Here&#x2019;s how to spend like a pro.",
-      "url": "https://www.marketwatch.com/story/a-budget-is-a-roof-over-your-financial-house-heres-how-to-build-one-like-a-pro-2689fd5f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "These budgeting tips can ease your financial worries.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-24T19:10:00.000Z",
-      "headline": "Your boss is pushing AI on you in exactly the wrong ways",
-      "url": "https://www.marketwatch.com/story/fear-of-losing-your-job-is-no-way-to-get-employees-on-board-with-ai-60953399?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Companies want workers to embrace AI &#x2014; but a hardline ultimatum will backfire.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T18:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -169,6 +133,42 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board publishes first of several staff manuals for the supervision of the largest and most complex banks",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-25T00:58:00.000Z",
+      "headline": "For investors, the real gift from Wall Street comes one day after Christmas",
+      "url": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "For the S&P 500, Dec. 26 has historically been the most reliably positive day of the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T20:16:00.000Z",
+      "headline": "Making a budget gives your money a fitness plan. Here&#x2019;s how to spend like a pro.",
+      "url": "https://www.marketwatch.com/story/a-budget-is-a-roof-over-your-financial-house-heres-how-to-build-one-like-a-pro-2689fd5f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "These budgeting tips can ease your financial worries.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-24T19:10:00.000Z",
+      "headline": "Your boss is pushing AI on you in exactly the wrong ways",
+      "url": "https://www.marketwatch.com/story/fear-of-losing-your-job-is-no-way-to-get-employees-on-board-with-ai-60953399?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Companies want workers to embrace AI &#x2014; but a hardline ultimatum will backfire.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
