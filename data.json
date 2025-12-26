@@ -1,100 +1,125 @@
 {
-  "last_updated": "2025-12-26T13:34:50.678Z",
+  "last_updated": "2025-12-26T23:29:37.800Z",
   "items": [
     {
-      "ts": "2025-12-26T13:00:00.000Z",
-      "headline": "My in-laws say they&#x2019;re &#x2018;stakeholders&#x2019; in my daughter&#x2019;s bat mitzvah and want us to throw a bigger party. Do I say no?",
-      "url": "https://www.marketwatch.com/story/my-in-laws-say-theyre-stakeholders-in-my-daughters-bat-mitzvah-and-want-us-to-throw-a-bigger-party-do-i-say-no-a7433f4b?mod=mw_rss_topstories",
+      "ts": "2025-12-26T19:48:00.000Z",
+      "headline": "Too many people forgot their RMDs last year. Don&#x2019;t make this &#x2018;billion-dollar mistake.&#x2019;",
+      "url": "https://www.marketwatch.com/story/too-many-people-forgot-their-rmds-last-year-dont-make-this-billion-dollar-mistake-b4cf72f4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "You have until Dec. 31 to take your required distribution. Consider this your wake-up call.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T18:58:00.000Z",
+      "headline": "&#x2018;Is it a case of them or us?&#x2019; We&#x2019;re in our 40s. Do we retire early in our 50s &#x2014; or save for our kids&#x2019; education?",
+      "url": "https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We&#x2019;re both teachers, with a combined gross income of $210,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T18:58:00.000Z",
+      "headline": "&#x2018;So much for holiday cheer&#x2019;: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
+      "url": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I guess he thought no one would notice. It came in a gift bag, and it looked expensive.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T17:19:00.000Z",
+      "headline": "Target&#x2019;s beaten-down stock gets a lift after report of &#x2018;significant investment&#x2019; from Toms Capital",
+      "url": "https://www.marketwatch.com/story/targets-beaten-down-stock-gets-a-lift-after-report-of-significant-investment-from-toms-capital-a1ad022a?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "As shoppers dealing with higher living costs continue to seek out bargains, Target has struggled to compete with Walmart.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T20:38:00.000Z",
+      "headline": "Logan Paul&#x2019;s $5.3 million Pok&#xe9;mon bet raises a bigger question: Do collectibles belong in your portfolio?",
+      "url": "https://www.marketwatch.com/story/logan-pauls-5-3-million-pokemon-bet-raises-a-bigger-question-do-collectibles-belong-in-your-portfolio-48426a15?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Collectibles may offer eye-catching returns, but not all financial experts are on board.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T20:32:00.000Z",
+      "headline": "&#x2018;I would like to give her a head start in life&#x2019;: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I would sell it to her for enough to allow me to pay cash for a much smaller condo.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T17:16:00.000Z",
+      "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
+      "url": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m sick of reading how many millions everyone has.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T19:57:00.000Z",
+      "headline": "How the New Year&#x2019;s tax deadline poses a risk for gold, silver and the Dow",
+      "url": "https://www.marketwatch.com/story/how-the-new-years-tax-deadline-poses-a-risk-for-gold-silver-and-the-dow-d9f18c2f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The right time for investors to make a move may be sooner than they think.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T19:14:00.000Z",
+      "headline": "Here&#x2019;s the setup for silver and gold heading into 2026",
+      "url": "https://www.marketwatch.com/story/heres-the-setup-for-silver-and-gold-heading-into-2006-df781252?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Also: Year-end tax and retirement planning advice and 2026 previews for semiconductor stocks, Tesla and bitcoin.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T18:04:00.000Z",
+      "headline": "After 2 straight misses, this year&#x2019;s &#x2018;Santa Claus rally&#x2019; is off to a solid start. Why it matters for investors.",
+      "url": "https://www.marketwatch.com/story/after-2-straight-misses-this-years-santa-claus-rally-is-off-to-a-solid-start-why-it-matters-for-investors-6cb84a4f?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;If we do let them pay for something small, my wife is worried that my in-laws will see it as a sign that they have permission to take over.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T13:27:00.000Z",
-      "headline": "Groq execs to join Nvidia as part of AI-chip licensing deal",
-      "url": "https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Nvidia has entered into a nonexclusive licensing agreement with AI-chip maker Groq, and will acquire some of the startup&#x2019;s executive team.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T13:13:00.000Z",
-      "headline": "What&#x2019;s ahead for Tesla as it doubles down on AI",
-      "url": "https://www.marketwatch.com/story/whats-ahead-for-tesla-as-it-doubles-down-on-ai-8802e001?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Tesla&#x2019;s stock was closing 2025 on a high note, as investors see progress on CEO Elon Musk&#x2019;s promise to grow the robotaxi business.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T13:13:00.000Z",
-      "headline": "Silver is turning into one of the hottest trades of 2025. Why this veteran investor is targeting $300 in a coming &#x2018;mania&#x2019; phase.",
-      "url": "https://www.marketwatch.com/story/silver-is-turning-into-one-of-the-hottest-trades-of-2025-why-this-veteran-investor-is-targeting-300-in-a-coming-mania-phase-683536fd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Peter Krauth, author of &#x201c;The Great Silver Bull,&#x201d; says silver&#x2019;s &#x201c;mania phase&#x201d; is not far off.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T10:02:00.000Z",
-      "headline": "Mysterious UFO at Jeff Bezos&#x2019; $165 million Beverly Hills home is probably just a sauna",
-      "url": "https://www.marketwatch.com/story/mysterious-ufo-at-jeff-bezos-165-million-beverly-hills-home-is-probably-just-a-sauna-25c168a6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Amazon billionaire Jeff Bezos and wife Lauren Sanchez have added an out-of-this-world element to their Beverly Hills mansion: a silver structure that is believed to be a sauna.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T13:00:00.000Z",
-      "headline": "Here&#x2019;s everything the &#x2018;geniuses&#x2019; on Wall Street got wrong about the markets in 2025",
-      "url": "https://www.marketwatch.com/story/heres-everything-the-geniuses-on-wall-street-got-wrong-about-the-markets-in-2025-bf5da455?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Investing experts were wrong in so many ways this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T12:37:00.000Z",
-      "headline": "Wall Street&#x2019;s gift to investors often arrives a day after Christmas",
-      "url": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "For the S&P 500, Dec. 26 has historically been the most reliably positive day of the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T10:20:00.000Z",
-      "headline": "I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?",
-      "url": "https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;One child&#x2019;s portfolio will have an additional five years of growth.&#x201d;",
+      "summary_en": "Stocks have never seen three negative &#x201c;Santa Claus rally&#x201d; periods in a row. After two straight misses, history says the odds favor a comeback this year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -107,54 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T00:03:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
-      "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T18:30:00.000Z",
-      "headline": "Federal Reserve Board publishes its biennial report on debit card transactions, which summarizes information collected from large debit card issuers and payment card networks",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219b.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board publishes its biennial report on debit card transactions, which summarizes information collected from large debit card issuers and payment card networks",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-19T15:00:00.000Z",
-      "headline": "Federal Reserve Board requests public input on “payment account,” which eligible financial institutions could use for the limited purpose of clearing and settling their payments",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board requests public input on “payment account,” which eligible financial institutions could use for the limited purpose of clearing and settling their payments",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-26T00:03:00.000Z",
-      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
-      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
