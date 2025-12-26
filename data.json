@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-12-25T23:28:54.879Z",
+  "last_updated": "2025-12-26T10:46:29.805Z",
   "items": [
+    {
+      "ts": "2025-12-26T10:02:00.000Z",
+      "headline": "Mysterious UFO at Jeff Bezos&#x2019; $165 million Beverly Hills home is probably just a sauna",
+      "url": "https://www.marketwatch.com/story/mysterious-ufo-at-jeff-bezos-165-million-beverly-hills-home-is-probably-just-a-sauna-25c168a6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Amazon billionaire Jeff Bezos and wife Lauren Sanchez have added an out-of-this-world element to their Beverly Hills mansion: a silver structure that is believed to be a sauna.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T10:20:00.000Z",
+      "headline": "I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?",
+      "url": "https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;One child&#x2019;s portfolio will have an additional five years of growth.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T00:03:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t know how much my wife earns&#x2019;: I&#x2019;m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
+      "url": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Each of our properties are worth over $1 million.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T18:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-25T22:28:00.000Z",
       "headline": "&#x2018;I&#x2019;m terrified I&#x2019;ll be homeless when my husband, 76, stops working&#x2019;: We only have $100K. What happens to people like us?",
@@ -39,103 +87,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-25T17:10:00.000Z",
-      "headline": "For investors, the real gift from Wall Street comes a day after Christmas",
-      "url": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "For the S&P 500, Dec. 26 has historically been the most reliably positive day of the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-25T15:51:00.000Z",
-      "headline": "Move over, Mariah: Michael Bubl&#xe9; is becoming the king of Christmas music with nearly $16 million in holiday earnings",
-      "url": "https://www.marketwatch.com/story/move-over-mariah-michael-buble-is-becoming-the-king-of-christmas-music-with-nearly-16-million-in-holiday-earnings-d2ae04cb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Bubl&#xe9; has been a busy little elf,&#x201d; music-industry experts note",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T18:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-25T14:41:00.000Z",
-      "headline": "&#x2018;I would like to give her a head start in life&#x2019;: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?",
-      "url": "https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I would sell it to her for enough to allow me to pay cash for a much smaller condo.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-25T11:32:00.000Z",
-      "headline": "&#x2018;I&#x2019;m not looking to leave any money to the kids&#x2019;: We&#x2019;re in our 60s with $1.5 million in IRAs. Can we retire next year?",
-      "url": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our current salary combined is $210,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-25T01:16:00.000Z",
-      "headline": "Groq execs to join Nvidia as part of AI-chip licensing deal",
-      "url": "https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Nvidia has entered into a nonexclusive licensing agreement with AI-chip maker Groq, and will acquire some of the startup&#x2019;s executive team.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-25T00:53:00.000Z",
-      "headline": "Would you take a $120,000 pay cut to work from home full time?",
-      "url": "https://www.marketwatch.com/story/would-you-take-a-120-000-pay-cut-to-work-from-home-full-time-9751c743?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The latest stage in the remote work vs. in-office debate sees people arguing on TikTok and Reddit over whether to take a remote job paying $120K, or a fully in-office gig that earns $240K a year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-25T00:12:00.000Z",
-      "headline": "Sorry, winning Powerball&#x2019;s $1.7 billion jackpot won&#x2019;t make you a billionaire. Here&#x2019;s why you might end up with $136.6 million instead.",
-      "url": "https://www.marketwatch.com/story/sorry-winning-powerballs-1-6-billion-jackpot-wont-make-you-a-billionaire-heres-why-you-may-end-up-with-120-412-700-90185387?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Various factors can reduce a lottery prize, from taxes to the cost of a limo ride.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-19T18:30:00.000Z",
       "headline": "Federal Reserve Board publishes its biennial report on debit card transactions, which summarizes information collected from large debit card issuers and payment card networks",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219b.htm",
@@ -157,6 +108,54 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board requests public input on “payment account,” which eligible financial institutions could use for the limited purpose of clearing and settling their payments",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-26T00:03:00.000Z",
+      "headline": "&#x2018;He never asks for anything&#x2019;: I&#x2019;m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
+      "url": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I recently gave him $20,000 for a newer car and had him finance the rest.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-25T23:30:00.000Z",
+      "headline": "&#x2018;I would like to give her a head start in life&#x2019;: My house rose in value by $500K. Do I gift it to my daughter at a bargain price?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-give-her-a-head-start-in-life-my-house-rose-in-value-by-500k-do-i-gift-it-to-my-daughter-at-a-bargain-price-c65ec44a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I would sell it to her for enough to allow me to pay cash for a much smaller condo.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-25T17:10:00.000Z",
+      "headline": "For investors, the real gift from Wall Street comes a day after Christmas",
+      "url": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "For the S&P 500, Dec. 26 has historically been the most reliably positive day of the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-25T15:51:00.000Z",
+      "headline": "Move over, Mariah: Michael Bubl&#xe9; is becoming the king of Christmas music with nearly $16 million in holiday earnings",
+      "url": "https://www.marketwatch.com/story/move-over-mariah-michael-buble-is-becoming-the-king-of-christmas-music-with-nearly-16-million-in-holiday-earnings-d2ae04cb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Bubl&#xe9; has been a busy little elf,&#x201d; music-industry experts note",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
