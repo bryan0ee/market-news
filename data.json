@@ -1,8 +1,20 @@
 {
-  "last_updated": "2025-12-28T13:32:02.678Z",
+  "last_updated": "2025-12-28T23:29:19.849Z",
   "items": [
     {
-      "ts": "2025-12-28T10:39:00.000Z",
+      "ts": "2025-12-28T23:19:00.000Z",
+      "headline": "U.S. stock futures flat as investors still hope to start 2026 on a roll",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-still-hope-to-start-2026-on-a-roll-84169caf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock futures were little changed on Sunday as investors look to end the year on a high note.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-28T19:10:00.000Z",
       "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
       "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,19 +26,56 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-28T10:08:00.000Z",
-      "headline": "&#x2018;Is it a case of them or us?&#x2019; We&#x2019;re in our 40s. Do we retire early in our 50s &#x2014; or save for our kids&#x2019; education?",
-      "url": "https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories",
+      "ts": "2025-12-28T20:15:00.000Z",
+      "headline": "Quantum computing works &#x2014; now investors will see if the stocks do too",
+      "url": "https://www.marketwatch.com/story/quantum-computing-works-now-investors-will-see-if-the-stocks-do-too-630b5513?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Charlie Garcia responds to readers about the opportunities and obstacles for investors in quantum computing.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-28T17:00:00.000Z",
+      "headline": "Stocks are on track for a third straight year of stellar returns. Why a fourth isn&#x2019;t out of the question.",
+      "url": "https://www.marketwatch.com/story/stocks-are-on-track-for-a-third-straight-year-of-stellar-returns-why-a-fourth-isnt-out-of-the-question-d57a1422?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We&#x2019;re both teachers, with a combined gross income of $210,000.&#x201d;",
+      "summary_en": "After three straight years of 10% or greater returns for the S&P 500, gains in year four are typically more subdued. But that doesn&#x2019;t mean 2026 won&#x2019;t be another great year for stocks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-28T10:08:00.000Z",
+      "ts": "2025-12-28T19:18:00.000Z",
+      "headline": "I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?",
+      "url": "https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;One child&#x2019;s portfolio will have an additional five years of growth.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-28T13:37:00.000Z",
+      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
+      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-28T13:36:00.000Z",
       "headline": "&#x2018;So much for holiday cheer&#x2019;: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
       "url": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -35,18 +84,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I guess he thought no one would notice. It came in a gift bag, and it looked expensive.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-27T21:17:00.000Z",
-      "headline": "America&#x2019;s food market is rigged. Look who&#x2019;s getting rich while many of us struggle with grocery bills.",
-      "url": "https://www.marketwatch.com/story/many-americans-are-struggling-to-afford-food-ask-yourself-whos-getting-rich-from-this-5a04b33e?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Powerful &#x201c;Big Ag&#x201d; &#x2014; not small farmers and ranchers or even tariffs &#x2014; is the root cause of the food-affordability crisis.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -62,39 +99,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-27T20:24:00.000Z",
-      "headline": "Would you take a $120,000 pay cut to work from home full time?",
-      "url": "https://www.marketwatch.com/story/would-you-take-a-120-000-pay-cut-to-work-from-home-full-time-9751c743?mod=mw_rss_topstories",
+      "ts": "2025-12-28T10:08:00.000Z",
+      "headline": "&#x2018;Is it a case of them or us?&#x2019; We&#x2019;re in our 40s. Do we retire early in our 50s &#x2014; or save for our kids&#x2019; education?",
+      "url": "https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The latest stage in the remote work vs. in-office debate sees people arguing on TikTok and Reddit over whether to take a remote job paying $120K, or a fully in-office gig that earns $240K a year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-27T20:19:00.000Z",
-      "headline": "Jake Paul-Anthony Joshua fight almost cost DraftKings $100 million. Everyday bettors lost instead.",
-      "url": "https://www.marketwatch.com/story/jake-paul-anthony-joshua-fight-almost-cost-draftkings-100-million-everyday-bettors-lost-instead-fd6827f1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Sportsbooks have been having a tough year &#x2014; but the Paul-Joshua fight was a good night for the house.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-27T19:56:00.000Z",
-      "headline": "Too many people forgot their RMDs last year. Don&#x2019;t make this &#x2018;billion-dollar mistake.&#x2019;",
-      "url": "https://www.marketwatch.com/story/too-many-people-forgot-their-rmds-last-year-dont-make-this-billion-dollar-mistake-b4cf72f4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "You have until Dec. 31 to take your required distribution. Consider this your wake-up call.",
+      "summary_en": "&#x201c;We&#x2019;re both teachers, with a combined gross income of $210,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,18 +132,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Quantum stocks are where AI was five years ago &#x2014; and the science actually works.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-27T20:59:00.000Z",
-      "headline": "Making a budget gives your money a fitness plan. Here&#x2019;s how to spend like a pro.",
-      "url": "https://www.marketwatch.com/story/a-budget-is-a-roof-over-your-financial-house-heres-how-to-build-one-like-a-pro-2689fd5f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "These budgeting tips can ease your financial worries.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
