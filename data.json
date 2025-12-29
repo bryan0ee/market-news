@@ -1,9 +1,57 @@
 {
-  "last_updated": "2025-12-28T23:29:19.849Z",
+  "last_updated": "2025-12-29T10:48:58.579Z",
   "items": [
     {
-      "ts": "2025-12-28T23:19:00.000Z",
-      "headline": "U.S. stock futures flat as investors still hope to start 2026 on a roll",
+      "ts": "2025-12-29T10:32:00.000Z",
+      "headline": "This hedge-fund veteran who pushed for silver in February now warns of short-term risks",
+      "url": "https://www.marketwatch.com/story/this-hedge-fund-veteran-who-pushed-for-silver-in-february-now-warns-of-short-term-risks-41238ceb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "There are a handful of obstacles to negotiate at the very outset of 2026 but longer-term drivers will soon reassert themselves, claims CAmpbell.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T10:05:00.000Z",
+      "headline": "The history of the $5.5 million &#x2018;Home Alone&#x2019; house&#x2014;which is going to be remodeled",
+      "url": "https://www.marketwatch.com/story/the-history-of-the-5-5-million-home-alone-housewhich-is-going-to-be-remodeled-a78e610e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The other star of the holiday movie &#x201c;Home Alone&#x201d;&#x2014; the house&#x2014;is being renovated into a real-life version of the one depicted in the film.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T10:00:00.000Z",
+      "headline": "Tennis star Venus Williams marries actor and model Andrea Preti in lavish second wedding at $10 million Florida estate",
+      "url": "https://www.marketwatch.com/story/tennis-star-venus-williams-marries-actor-and-model-andrea-preti-in-lavish-second-wedding-at-10-million-florida-estate-c87072ab?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The wedding lasted five days and included a bridal shower, pool parties and sports events.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T10:20:00.000Z",
+      "headline": "SoftBank has been on the prowl for AI investments &#x2014; here&#x2019;s its next target, according to a report",
+      "url": "https://www.marketwatch.com/story/softbank-has-been-on-the-prowl-for-ai-investments-heres-its-next-target-according-to-a-report-082a0c2f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "SoftBank has slowly been increasing exposure to the AI trade.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T03:55:00.000Z",
+      "headline": "U.S. stock futures flat, silver gains again as investors hope to start 2026 on a roll",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-still-hope-to-start-2026-on-a-roll-84169caf?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -14,7 +62,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-28T19:10:00.000Z",
+      "ts": "2025-12-29T00:04:00.000Z",
       "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
       "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,15 +74,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-28T20:15:00.000Z",
-      "headline": "Quantum computing works &#x2014; now investors will see if the stocks do too",
-      "url": "https://www.marketwatch.com/story/quantum-computing-works-now-investors-will-see-if-the-stocks-do-too-630b5513?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-23T18:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Charlie Garcia responds to readers about the opportunities and obstacles for investors in quantum computing.",
+      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -47,18 +95,6 @@
         "ED"
       ],
       "summary_en": "After three straight years of 10% or greater returns for the S&P 500, gains in year four are typically more subdued. But that doesn&#x2019;t mean 2026 won&#x2019;t be another great year for stocks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-28T19:18:00.000Z",
-      "headline": "I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?",
-      "url": "https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;One child&#x2019;s portfolio will have an additional five years of growth.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -75,63 +111,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-28T13:36:00.000Z",
-      "headline": "&#x2018;So much for holiday cheer&#x2019;: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
-      "url": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I guess he thought no one would notice. It came in a gift bag, and it looked expensive.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T18:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-28T10:08:00.000Z",
-      "headline": "&#x2018;Is it a case of them or us?&#x2019; We&#x2019;re in our 40s. Do we retire early in our 50s &#x2014; or save for our kids&#x2019; education?",
-      "url": "https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We&#x2019;re both teachers, with a combined gross income of $210,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-27T21:51:00.000Z",
-      "headline": "Why young crypto bros are also some of FanDuel&#x2019;s and DraftKings&#x2019; best customers",
-      "url": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Sports betting is fueling today&#x2019;s gambling surge, and young men are the industry&#x2019;s bullseye.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-27T22:22:00.000Z",
-      "headline": "Quantum computing is the stock market&#x2019;s next big tech play &#x2014; and these stocks are still cheap",
-      "url": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
+      "ts": "2025-12-28T20:15:00.000Z",
+      "headline": "Quantum computing works &#x2014; now investors will see if the stocks do too",
+      "url": "https://www.marketwatch.com/story/quantum-computing-works-now-investors-will-see-if-the-stocks-do-too-630b5513?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Quantum stocks are where AI was five years ago &#x2014; and the science actually works.",
+      "summary_en": "Charlie Garcia responds to readers about the opportunities and obstacles for investors in quantum computing.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-28T19:18:00.000Z",
+      "headline": "I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?",
+      "url": "https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;One child&#x2019;s portfolio will have an additional five years of growth.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
