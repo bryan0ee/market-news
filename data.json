@@ -1,82 +1,9 @@
 {
-  "last_updated": "2025-12-29T13:39:41.952Z",
+  "last_updated": "2025-12-29T23:29:29.350Z",
   "items": [
     {
-      "ts": "2025-12-29T13:00:00.000Z",
-      "headline": "Here are the ideas that could really help solve America&#x2019;s affordability crisis in 2026",
-      "url": "https://www.marketwatch.com/story/trump-accounts-free-child-care-and-tariff-checks-heres-which-ideas-could-really-help-solve-americas-affordability-crisis-5028cb3b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "These 10 ideas targeting affordability will be tested in 2026. A look at the ones that could help most, including Trump accounts, free child care and tariff checks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T13:36:00.000Z",
-      "headline": "AI slop is taking over the internet. And it&#x2019;s here to stay",
-      "url": "https://www.marketwatch.com/story/ai-slop-is-taking-over-the-internet-and-its-here-to-stay-ec16798b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "AI tools are more powerful than ever, but they&#x2019;re creating an internet flooded with low-quality content",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T13:18:00.000Z",
-      "headline": "Google rose to the top in the AI race. Here&#x2019;s what it&#x2019;ll take to stay there.",
-      "url": "https://www.marketwatch.com/story/google-rose-to-the-top-in-the-ai-race-heres-what-itll-take-to-stay-there-0507d4a4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL"
-      ],
-      "summary_en": "Alphabet took the title as this year&#x2019;s top-performing &#x2018;Magnificent Seven&#x2019; stock, but the AI competition is fierce",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T12:49:00.000Z",
-      "headline": "Here&#x2019;s where AMD can gain ground in the AI chip race next year",
-      "url": "https://www.marketwatch.com/story/heres-where-amd-can-gain-ground-in-the-ai-chip-race-next-year-f94fa61a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "AMD"
-      ],
-      "summary_en": "Wall Street will be watching to see if the chip maker&#x2019;s upcoming AI accelerators and first rack-scale offering will bring it closer in competition with Nvidia",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T12:39:00.000Z",
-      "headline": "Microsoft&#x2019;s business is on fire. So how can its stock break from its curse?",
-      "url": "https://www.marketwatch.com/story/microsofts-business-is-on-fire-so-how-can-its-stock-break-from-its-curse-8dc975a8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The OpenAI and Nvidia narratives need to come back into fashion in order for Microsoft shares to move meaningfully higher.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T12:22:00.000Z",
-      "headline": "This hedge-fund veteran who pushed for silver in February now warns of short-term risks",
-      "url": "https://www.marketwatch.com/story/this-hedge-fund-veteran-who-pushed-for-silver-in-february-now-warns-of-short-term-risks-41238ceb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "There are a handful of obstacles to negotiate at the very outset of 2026 but longer-term drivers will soon reassert themselves, says this former hedge-fund head of commodities.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T12:17:00.000Z",
-      "headline": "&#x2018;I&#x2019;m completely fed up&#x2019;: My selfish boomer mother-in-law has controlled me for 30 years. How can I regain my power?",
+      "ts": "2025-12-29T22:37:00.000Z",
+      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
       "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -87,7 +14,79 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-29T13:21:00.000Z",
+      "ts": "2025-12-29T21:52:00.000Z",
+      "headline": "Trump eyes January for announcement of Powell replacement as he renews attacks on Fed chief",
+      "url": "https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump on Monday revived his threat to sue over Federal Reserve building renovations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T21:23:00.000Z",
+      "headline": "The Fed has gone into hibernation. Tuesday may bring clues to how long it might wait to emerge.",
+      "url": "https://www.marketwatch.com/story/the-fed-has-gone-into-hibernation-tuesday-may-bring-clues-to-how-long-it-might-wait-to-emerge-7ee04f6c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve officials are clearly divided about whether higher inflation or a weaker economy is the bigger risk going forward.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T21:20:00.000Z",
+      "headline": "How Lululemon&#x2019;s founder is looking to restore investors&#x2019; faith as a new CEO is picked",
+      "url": "https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Lululemon founder and large shareholder Chip Wilson is looking to restore investor faith in the yoga-gear maker by changing the makeup of the board of directors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T23:17:00.000Z",
+      "headline": "Why your kitchen cabinets and furniture could get more expensive next year",
+      "url": "https://www.marketwatch.com/story/why-your-kitchen-cabinets-and-furniture-could-get-more-expensive-next-year-4cff045f?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Prices for some everyday home items may be about to get more expensive, as U.S. tariff rates on imports of certain furniture and kitchen cabinets are set to rise beginning Thursday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T20:30:00.000Z",
+      "headline": "This winning fund manager spills 4 secrets about smart ways to buy non-U.S. stocks",
+      "url": "https://www.marketwatch.com/story/this-winning-fund-manager-spills-4-secrets-about-smart-ways-to-buy-non-u-s-stocks-35fd47da?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "David Herro is an experienced guide to the global market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T22:09:00.000Z",
+      "headline": "Strategy&#x2019;s stock falls to fresh lows after using more share sales to buy bitcoin",
+      "url": "https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The company&#x2019;s shares fell to a 15-month low amid a decline in bitcoin prices and another dilutive share sale.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T23:01:00.000Z",
       "headline": "&#x2018;I completely trust her&#x2019;: Should I name my daughter as beneficiary on all my accounts &#x2014; or add her name instead?",
       "url": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -99,27 +98,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-29T12:45:00.000Z",
-      "headline": "The hot AI trade faces a 1980s style trap and these risks, says this market bull",
-      "url": "https://www.marketwatch.com/story/watch-for-these-warning-flags-in-the-hot-ai-trade-for-2026-says-this-market-bull-b7f65af2?mod=mw_rss_topstories",
+      "ts": "2025-12-29T22:00:00.000Z",
+      "headline": "Beyonc&#xe9; just became a billionaire. Here&#x2019;s how she did it.",
+      "url": "https://www.marketwatch.com/story/beyonce-just-became-a-billionaire-heres-how-she-did-it-e267802d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Expect more volatility for stocks next year, says Evercore&#x2019;s Emanuel.",
+      "summary_en": "Beyonc&#xe9; is just the fifth musical artist to achieve billionaire status.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-29T12:02:00.000Z",
-      "headline": "The AI gravy train for power stocks is over. Investors will now focus on who&#x2019;s getting paid, strategist says.",
-      "url": "https://www.marketwatch.com/story/the-ai-gravy-train-for-power-stocks-is-over-investors-will-now-focus-on-whos-getting-paid-strategist-says-e094b072?mod=mw_rss_topstories",
+      "ts": "2025-12-29T21:30:00.000Z",
+      "headline": "Warren Buffett gifts us 5 secrets for investing success, as he hands off Berkshire&#x2019;s reins this week",
+      "url": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "In 2025, exposure to AI was enough for power companies to see shares rise, but 2026 will be all about execution, says Tuttle Capital Management&#x2019;s Matthew Tuttle.",
+      "summary_en": "Three paragraphs in a 1994 letter to Berkshire Hathaway shareholders reveal the top reason for Buffett&#x2019;s phenomenal winning record.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
