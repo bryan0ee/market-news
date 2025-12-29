@@ -1,8 +1,69 @@
 {
-  "last_updated": "2025-12-29T10:48:58.579Z",
+  "last_updated": "2025-12-29T13:39:41.952Z",
   "items": [
     {
-      "ts": "2025-12-29T10:32:00.000Z",
+      "ts": "2025-12-29T13:00:00.000Z",
+      "headline": "Here are the ideas that could really help solve America&#x2019;s affordability crisis in 2026",
+      "url": "https://www.marketwatch.com/story/trump-accounts-free-child-care-and-tariff-checks-heres-which-ideas-could-really-help-solve-americas-affordability-crisis-5028cb3b?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "These 10 ideas targeting affordability will be tested in 2026. A look at the ones that could help most, including Trump accounts, free child care and tariff checks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T13:36:00.000Z",
+      "headline": "AI slop is taking over the internet. And it&#x2019;s here to stay",
+      "url": "https://www.marketwatch.com/story/ai-slop-is-taking-over-the-internet-and-its-here-to-stay-ec16798b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "AI tools are more powerful than ever, but they&#x2019;re creating an internet flooded with low-quality content",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T13:18:00.000Z",
+      "headline": "Google rose to the top in the AI race. Here&#x2019;s what it&#x2019;ll take to stay there.",
+      "url": "https://www.marketwatch.com/story/google-rose-to-the-top-in-the-ai-race-heres-what-itll-take-to-stay-there-0507d4a4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL"
+      ],
+      "summary_en": "Alphabet took the title as this year&#x2019;s top-performing &#x2018;Magnificent Seven&#x2019; stock, but the AI competition is fierce",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T12:49:00.000Z",
+      "headline": "Here&#x2019;s where AMD can gain ground in the AI chip race next year",
+      "url": "https://www.marketwatch.com/story/heres-where-amd-can-gain-ground-in-the-ai-chip-race-next-year-f94fa61a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD"
+      ],
+      "summary_en": "Wall Street will be watching to see if the chip maker&#x2019;s upcoming AI accelerators and first rack-scale offering will bring it closer in competition with Nvidia",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T12:39:00.000Z",
+      "headline": "Microsoft&#x2019;s business is on fire. So how can its stock break from its curse?",
+      "url": "https://www.marketwatch.com/story/microsofts-business-is-on-fire-so-how-can-its-stock-break-from-its-curse-8dc975a8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The OpenAI and Nvidia narratives need to come back into fashion in order for Microsoft shares to move meaningfully higher.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-29T12:22:00.000Z",
       "headline": "This hedge-fund veteran who pushed for silver in February now warns of short-term risks",
       "url": "https://www.marketwatch.com/story/this-hedge-fund-veteran-who-pushed-for-silver-in-february-now-warns-of-short-term-risks-41238ceb?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -10,67 +71,55 @@
       "affected": [
         "ED"
       ],
-      "summary_en": "There are a handful of obstacles to negotiate at the very outset of 2026 but longer-term drivers will soon reassert themselves, claims CAmpbell.",
+      "summary_en": "There are a handful of obstacles to negotiate at the very outset of 2026 but longer-term drivers will soon reassert themselves, says this former hedge-fund head of commodities.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-29T10:05:00.000Z",
-      "headline": "The history of the $5.5 million &#x2018;Home Alone&#x2019; house&#x2014;which is going to be remodeled",
-      "url": "https://www.marketwatch.com/story/the-history-of-the-5-5-million-home-alone-housewhich-is-going-to-be-remodeled-a78e610e?mod=mw_rss_topstories",
+      "ts": "2025-12-29T12:17:00.000Z",
+      "headline": "&#x2018;I&#x2019;m completely fed up&#x2019;: My selfish boomer mother-in-law has controlled me for 30 years. How can I regain my power?",
+      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The other star of the holiday movie &#x201c;Home Alone&#x201d;&#x2014; the house&#x2014;is being renovated into a real-life version of the one depicted in the film.",
+      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-29T10:00:00.000Z",
-      "headline": "Tennis star Venus Williams marries actor and model Andrea Preti in lavish second wedding at $10 million Florida estate",
-      "url": "https://www.marketwatch.com/story/tennis-star-venus-williams-marries-actor-and-model-andrea-preti-in-lavish-second-wedding-at-10-million-florida-estate-c87072ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The wedding lasted five days and included a bridal shower, pool parties and sports events.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T10:20:00.000Z",
-      "headline": "SoftBank has been on the prowl for AI investments &#x2014; here&#x2019;s its next target, according to a report",
-      "url": "https://www.marketwatch.com/story/softbank-has-been-on-the-prowl-for-ai-investments-heres-its-next-target-according-to-a-report-082a0c2f?mod=mw_rss_topstories",
+      "ts": "2025-12-29T13:21:00.000Z",
+      "headline": "&#x2018;I completely trust her&#x2019;: Should I name my daughter as beneficiary on all my accounts &#x2014; or add her name instead?",
+      "url": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "SoftBank has slowly been increasing exposure to the AI trade.",
+      "summary_en": "&#x201c;She is an intelligent and responsible individual.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-29T03:55:00.000Z",
-      "headline": "U.S. stock futures flat, silver gains again as investors hope to start 2026 on a roll",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-still-hope-to-start-2026-on-a-roll-84169caf?mod=mw_rss_topstories",
+      "ts": "2025-12-29T12:45:00.000Z",
+      "headline": "The hot AI trade faces a 1980s style trap and these risks, says this market bull",
+      "url": "https://www.marketwatch.com/story/watch-for-these-warning-flags-in-the-hot-ai-trade-for-2026-says-this-market-bull-b7f65af2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "U.S. stock futures were little changed on Sunday as investors look to end the year on a high note.",
+      "summary_en": "Expect more volatility for stocks next year, says Evercore&#x2019;s Emanuel.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-29T00:04:00.000Z",
-      "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
-      "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
+      "ts": "2025-12-29T12:02:00.000Z",
+      "headline": "The AI gravy train for power stocks is over. Investors will now focus on who&#x2019;s getting paid, strategist says.",
+      "url": "https://www.marketwatch.com/story/the-ai-gravy-train-for-power-stocks-is-over-investors-will-now-focus-on-whos-getting-paid-strategist-says-e094b072?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I am 66 years old and have been retired for about a year and a half.&#x201d;",
+      "summary_en": "In 2025, exposure to AI was enough for power companies to see shares rise, but 2026 will be all about execution, says Tuttle Capital Management&#x2019;s Matthew Tuttle.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -83,55 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-28T17:00:00.000Z",
-      "headline": "Stocks are on track for a third straight year of stellar returns. Why a fourth isn&#x2019;t out of the question.",
-      "url": "https://www.marketwatch.com/story/stocks-are-on-track-for-a-third-straight-year-of-stellar-returns-why-a-fourth-isnt-out-of-the-question-d57a1422?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "After three straight years of 10% or greater returns for the S&P 500, gains in year four are typically more subdued. But that doesn&#x2019;t mean 2026 won&#x2019;t be another great year for stocks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-28T13:37:00.000Z",
-      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
-      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-28T20:15:00.000Z",
-      "headline": "Quantum computing works &#x2014; now investors will see if the stocks do too",
-      "url": "https://www.marketwatch.com/story/quantum-computing-works-now-investors-will-see-if-the-stocks-do-too-630b5513?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Charlie Garcia responds to readers about the opportunities and obstacles for investors in quantum computing.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-28T19:18:00.000Z",
-      "headline": "I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?",
-      "url": "https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;One child&#x2019;s portfolio will have an additional five years of growth.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
