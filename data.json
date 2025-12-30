@@ -1,81 +1,8 @@
 {
-  "last_updated": "2025-12-30T13:38:28.707Z",
+  "last_updated": "2025-12-30T23:28:47.245Z",
   "items": [
     {
-      "ts": "2025-12-30T13:32:00.000Z",
-      "headline": "This trader says AI IPOs and a falling dollar could drive the S&P 500 to 8,200 next year",
-      "url": "https://www.marketwatch.com/story/this-trader-says-ai-ipos-and-a-falling-dollar-could-drive-the-s-p-500-to-8-200-next-year-90c14fe7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Samantha LaDuc has nailed some big calls on stocks in recent years. She sees another S&P 500 high coming in 2026, but an unhappy Main Street.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T13:30:00.000Z",
-      "headline": "You told us your financial New Year&#x2019;s resolutions. Here&#x2019;s how to make them happen.",
-      "url": "https://www.marketwatch.com/story/you-told-us-your-financial-new-years-resolutions-heres-how-to-make-them-happen-d8f7e9a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "MarketWatch readers shared their money goals for 2026. These tips can help them &#x2014; and you &#x2014; embrace habits to build wealth, pay down debt, and more.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T13:09:00.000Z",
-      "headline": "Is the stock market open on New Year&#x2019;s Eve and New Year&#x2019;s Day? Will the post office deliver mail?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-new-years-eve-and-new-years-day-will-the-post-office-deliver-mail-9dea15c3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "As we greet 2026, be prepared for some holiday closures.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T13:05:00.000Z",
-      "headline": "The sneaky factor that Apple investors need to watch in the new year",
-      "url": "https://www.marketwatch.com/story/the-sneaky-factor-that-apple-investors-need-to-watch-in-the-new-year-43eb13fb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Just how well can Apple insulate itself from booming memory prices?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T12:35:00.000Z",
-      "headline": "These stocks doubled the S&P 500&#x2019;s return in 2025 &#x2014; why a 2026 repeat looks likely",
-      "url": "https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Valuation indicators now are extremely bearish for U.S. stocks. Non-U.S. stocks are a much better bet.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T12:32:00.000Z",
-      "headline": "What will it take for Amazon&#x2019;s stock to finally take off?",
-      "url": "https://www.marketwatch.com/story/what-will-it-take-for-amazons-stock-to-finally-take-off-c992aa60?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Amazon&#x2019;s stock trailed its &#x2018;Magnificent Seven&#x2019; counterparts in 2025. Growth in the company&#x2019;s cloud-computing, advertising and retail segments could spark a turnaround.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T11:45:00.000Z",
+      "ts": "2025-12-30T22:00:00.000Z",
       "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
       "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -87,7 +14,56 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T10:43:00.000Z",
+      "ts": "2025-12-30T21:11:00.000Z",
+      "headline": "Trump Media just launched five &#x2018;Made in America&#x2019; ETFs, testing whether political power is an investable theme",
+      "url": "https://www.marketwatch.com/story/trump-media-just-launched-5-made-in-america-etfs-testing-whether-political-power-can-function-as-an-investable-theme-a959b3ca?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Wall Street has seen plenty of thematic ETFs, but not one with a sitting U.S. president acting as a de facto marketing engine.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T20:58:00.000Z",
+      "headline": "China launches its silver weapon on Jan. 1. What that means for investors and prices.",
+      "url": "https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "China controls around 70% of the silver that Big Tech, AI and solar power desperately need. Beijing is about to lock the gates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T20:53:00.000Z",
+      "headline": "This winning fund manager spills 4 secrets about smart ways to buy non-U.S. stocks",
+      "url": "https://www.marketwatch.com/story/this-winning-fund-manager-spills-4-secrets-about-smart-ways-to-buy-non-u-s-stocks-35fd47da?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "David Herro is an experienced guide to the global market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T20:46:00.000Z",
+      "headline": "&#x2018;So much for holiday cheer&#x2019;: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
+      "url": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I guess he thought no one would notice. It came in a gift bag, and it looked expensive.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T20:42:00.000Z",
       "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
       "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -99,19 +75,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T13:31:00.000Z",
-      "headline": "What SpaceX, Blue Origin, Rocket Lab and more have in store for 2026",
-      "url": "https://www.marketwatch.com/story/what-spacex-blue-origin-rocket-lab-and-more-have-in-store-for-2026-d6bc1017?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "SpaceX and Blue Origin are two of the leading players in the rocket launch business. Both have big plans for 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T10:15:00.000Z",
+      "ts": "2025-12-30T23:21:00.000Z",
       "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
       "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -123,15 +87,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-23T18:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2025-12-30T20:19:00.000Z",
+      "headline": "Interest rates could be on hold &#x2018;for some time,&#x2019; Fed minutes show",
+      "url": "https://www.marketwatch.com/story/interest-rates-could-be-on-hold-for-some-time-fed-minutes-show-f799db89?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "summary_en": "A pause would give Federal Reserve officials time to assess the effects of the three rate cuts made this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T20:06:00.000Z",
+      "headline": "Buying bitcoin is no longer a thing for this David Beckham-backed health company",
+      "url": "https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Prenetics has ditched its bitcoin-buying strategy just six months after announcing a long-term commitment to the cryptocurrency as a treasury reserve asset.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T19:00:00.000Z",
+      "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T21:30:00.000Z",
+      "headline": "&#x2018;I completely trust her&#x2019;: Should I name my daughter as beneficiary on all my accounts &#x2014; or add her name instead?",
+      "url": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She is an intelligent and responsible individual.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T16:00:00.000Z",
+      "headline": "Agencies release annual asset-size thresholds under Community Reinvestment Act regulations",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251230a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Agencies release annual asset-size thresholds under Community Reinvestment Act regulations",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
