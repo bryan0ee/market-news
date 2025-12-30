@@ -1,6 +1,102 @@
 {
-  "last_updated": "2025-12-29T23:29:29.350Z",
+  "last_updated": "2025-12-30T10:48:13.831Z",
   "items": [
+    {
+      "ts": "2025-12-30T10:43:00.000Z",
+      "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
+      "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am 66 years old and have been retired for about a year and a half.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T10:11:00.000Z",
+      "headline": "SocGen&#x2019;s model says &#x2018;yes, silver&#x2019;s in a bubble&#x2019; but its analysts say &#x2018;no&#x2019; it isn&#x2019;t.",
+      "url": "https://www.marketwatch.com/story/socgens-model-says-yes-silvers-in-a-bubble-but-its-analysts-say-no-it-isnt-96ba0808?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "There are structural tailwinds favoring silver, plus potential export restrictions by the U.S. and China that could tighten the stretched physical market even further.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T09:58:00.000Z",
+      "headline": "&#x2018;Sparkle, color, and glitter&#x2019;: See how Jonathan Scott and Zooey Deschanel decorated their $9.5 million L.A. home for the holidays",
+      "url": "https://www.marketwatch.com/story/sparkle-color-and-glitter-see-how-jonathan-scott-and-zooey-deschanel-decorated-their-9-5-million-l-a-home-for-the-holidays-60cdddeb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Property Brothers&#x201d; star Jonathan Scott and actress Zooey Deschanel, who got engaged in 2023, have decked the halls of their sprawling Los Angeles home.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T08:57:00.000Z",
+      "headline": "Meta acquisition is latest megacap tech bet on AI to finish the year",
+      "url": "https://www.marketwatch.com/story/meta-acquisition-is-latest-megacap-tech-bet-on-ai-to-finish-the-year-68cdfd8f?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "Giant tech companies are closing the year with a flurry of deals as they position for further advances in artificial intelligence.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T10:15:00.000Z",
+      "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
+      "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T10:02:00.000Z",
+      "headline": "Kylie Jenner lists &#x2018;modern fortress&#x2019; in swanky SoCal neighborhood for $48 million",
+      "url": "https://www.marketwatch.com/story/kylie-jenner-lists-modern-fortress-in-swanky-socal-neighborhood-for-48-million-f79cd08b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Kylie Jenner is offloading her Los Angeles concrete megamansion for $48 million after finishing building her sprawling Hidden Hills property.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T02:07:00.000Z",
+      "headline": "How Lululemon&#x2019;s founder is looking to restore investors&#x2019; faith as a new CEO is picked",
+      "url": "https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Lululemon founder and large shareholder Chip Wilson is looking to restore investor faith in the yoga-gear maker by changing the makeup of the board of directors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-23T18:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-29T22:37:00.000Z",
       "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
@@ -11,42 +107,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T21:52:00.000Z",
-      "headline": "Trump eyes January for announcement of Powell replacement as he renews attacks on Fed chief",
-      "url": "https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump on Monday revived his threat to sue over Federal Reserve building renovations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T21:23:00.000Z",
-      "headline": "The Fed has gone into hibernation. Tuesday may bring clues to how long it might wait to emerge.",
-      "url": "https://www.marketwatch.com/story/the-fed-has-gone-into-hibernation-tuesday-may-bring-clues-to-how-long-it-might-wait-to-emerge-7ee04f6c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve officials are clearly divided about whether higher inflation or a weaker economy is the bigger risk going forward.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T21:20:00.000Z",
-      "headline": "How Lululemon&#x2019;s founder is looking to restore investors&#x2019; faith as a new CEO is picked",
-      "url": "https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Lululemon founder and large shareholder Chip Wilson is looking to restore investor faith in the yoga-gear maker by changing the makeup of the board of directors.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -62,30 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-29T20:30:00.000Z",
-      "headline": "This winning fund manager spills 4 secrets about smart ways to buy non-U.S. stocks",
-      "url": "https://www.marketwatch.com/story/this-winning-fund-manager-spills-4-secrets-about-smart-ways-to-buy-non-u-s-stocks-35fd47da?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "David Herro is an experienced guide to the global market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T22:09:00.000Z",
-      "headline": "Strategy&#x2019;s stock falls to fresh lows after using more share sales to buy bitcoin",
-      "url": "https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The company&#x2019;s shares fell to a 15-month low amid a decline in bitcoin prices and another dilutive share sale.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-29T23:01:00.000Z",
       "headline": "&#x2018;I completely trust her&#x2019;: Should I name my daughter as beneficiary on all my accounts &#x2014; or add her name instead?",
       "url": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
@@ -95,42 +131,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;She is an intelligent and responsible individual.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T22:00:00.000Z",
-      "headline": "Beyonc&#xe9; just became a billionaire. Here&#x2019;s how she did it.",
-      "url": "https://www.marketwatch.com/story/beyonce-just-became-a-billionaire-heres-how-she-did-it-e267802d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Beyonc&#xe9; is just the fifth musical artist to achieve billionaire status.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T21:30:00.000Z",
-      "headline": "Warren Buffett gifts us 5 secrets for investing success, as he hands off Berkshire&#x2019;s reins this week",
-      "url": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Three paragraphs in a 1994 letter to Berkshire Hathaway shareholders reveal the top reason for Buffett&#x2019;s phenomenal winning record.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-23T18:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
