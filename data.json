@@ -1,6 +1,91 @@
 {
-  "last_updated": "2025-12-30T10:48:13.831Z",
+  "last_updated": "2025-12-30T13:38:28.707Z",
   "items": [
+    {
+      "ts": "2025-12-30T13:32:00.000Z",
+      "headline": "This trader says AI IPOs and a falling dollar could drive the S&P 500 to 8,200 next year",
+      "url": "https://www.marketwatch.com/story/this-trader-says-ai-ipos-and-a-falling-dollar-could-drive-the-s-p-500-to-8-200-next-year-90c14fe7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Samantha LaDuc has nailed some big calls on stocks in recent years. She sees another S&P 500 high coming in 2026, but an unhappy Main Street.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T13:30:00.000Z",
+      "headline": "You told us your financial New Year&#x2019;s resolutions. Here&#x2019;s how to make them happen.",
+      "url": "https://www.marketwatch.com/story/you-told-us-your-financial-new-years-resolutions-heres-how-to-make-them-happen-d8f7e9a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "MarketWatch readers shared their money goals for 2026. These tips can help them &#x2014; and you &#x2014; embrace habits to build wealth, pay down debt, and more.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T13:09:00.000Z",
+      "headline": "Is the stock market open on New Year&#x2019;s Eve and New Year&#x2019;s Day? Will the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-new-years-eve-and-new-years-day-will-the-post-office-deliver-mail-9dea15c3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As we greet 2026, be prepared for some holiday closures.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T13:05:00.000Z",
+      "headline": "The sneaky factor that Apple investors need to watch in the new year",
+      "url": "https://www.marketwatch.com/story/the-sneaky-factor-that-apple-investors-need-to-watch-in-the-new-year-43eb13fb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Just how well can Apple insulate itself from booming memory prices?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T12:35:00.000Z",
+      "headline": "These stocks doubled the S&P 500&#x2019;s return in 2025 &#x2014; why a 2026 repeat looks likely",
+      "url": "https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Valuation indicators now are extremely bearish for U.S. stocks. Non-U.S. stocks are a much better bet.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T12:32:00.000Z",
+      "headline": "What will it take for Amazon&#x2019;s stock to finally take off?",
+      "url": "https://www.marketwatch.com/story/what-will-it-take-for-amazons-stock-to-finally-take-off-c992aa60?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Amazon&#x2019;s stock trailed its &#x2018;Magnificent Seven&#x2019; counterparts in 2025. Growth in the company&#x2019;s cloud-computing, advertising and retail segments could spark a turnaround.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T11:45:00.000Z",
+      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
+      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2025-12-30T10:43:00.000Z",
       "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
@@ -14,39 +99,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T10:11:00.000Z",
-      "headline": "SocGen&#x2019;s model says &#x2018;yes, silver&#x2019;s in a bubble&#x2019; but its analysts say &#x2018;no&#x2019; it isn&#x2019;t.",
-      "url": "https://www.marketwatch.com/story/socgens-model-says-yes-silvers-in-a-bubble-but-its-analysts-say-no-it-isnt-96ba0808?mod=mw_rss_topstories",
+      "ts": "2025-12-30T13:31:00.000Z",
+      "headline": "What SpaceX, Blue Origin, Rocket Lab and more have in store for 2026",
+      "url": "https://www.marketwatch.com/story/what-spacex-blue-origin-rocket-lab-and-more-have-in-store-for-2026-d6bc1017?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "There are structural tailwinds favoring silver, plus potential export restrictions by the U.S. and China that could tighten the stretched physical market even further.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T09:58:00.000Z",
-      "headline": "&#x2018;Sparkle, color, and glitter&#x2019;: See how Jonathan Scott and Zooey Deschanel decorated their $9.5 million L.A. home for the holidays",
-      "url": "https://www.marketwatch.com/story/sparkle-color-and-glitter-see-how-jonathan-scott-and-zooey-deschanel-decorated-their-9-5-million-l-a-home-for-the-holidays-60cdddeb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Property Brothers&#x201d; star Jonathan Scott and actress Zooey Deschanel, who got engaged in 2023, have decked the halls of their sprawling Los Angeles home.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T08:57:00.000Z",
-      "headline": "Meta acquisition is latest megacap tech bet on AI to finish the year",
-      "url": "https://www.marketwatch.com/story/meta-acquisition-is-latest-megacap-tech-bet-on-ai-to-finish-the-year-68cdfd8f?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "Giant tech companies are closing the year with a flurry of deals as they position for further advances in artificial intelligence.",
+      "summary_en": "SpaceX and Blue Origin are two of the leading players in the rocket launch business. Both have big plans for 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -62,30 +123,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T10:02:00.000Z",
-      "headline": "Kylie Jenner lists &#x2018;modern fortress&#x2019; in swanky SoCal neighborhood for $48 million",
-      "url": "https://www.marketwatch.com/story/kylie-jenner-lists-modern-fortress-in-swanky-socal-neighborhood-for-48-million-f79cd08b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Kylie Jenner is offloading her Los Angeles concrete megamansion for $48 million after finishing building her sprawling Hidden Hills property.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T02:07:00.000Z",
-      "headline": "How Lululemon&#x2019;s founder is looking to restore investors&#x2019; faith as a new CEO is picked",
-      "url": "https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Lululemon founder and large shareholder Chip Wilson is looking to restore investor faith in the yoga-gear maker by changing the makeup of the board of directors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-23T18:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
@@ -95,42 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T22:37:00.000Z",
-      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
-      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T23:17:00.000Z",
-      "headline": "Why your kitchen cabinets and furniture could get more expensive next year",
-      "url": "https://www.marketwatch.com/story/why-your-kitchen-cabinets-and-furniture-could-get-more-expensive-next-year-4cff045f?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Prices for some everyday home items may be about to get more expensive, as U.S. tariff rates on imports of certain furniture and kitchen cabinets are set to rise beginning Thursday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-29T23:01:00.000Z",
-      "headline": "&#x2018;I completely trust her&#x2019;: Should I name my daughter as beneficiary on all my accounts &#x2014; or add her name instead?",
-      "url": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She is an intelligent and responsible individual.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
