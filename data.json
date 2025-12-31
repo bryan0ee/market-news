@@ -1,105 +1,68 @@
 {
-  "last_updated": "2025-12-30T23:28:47.245Z",
+  "last_updated": "2025-12-31T10:46:45.277Z",
   "items": [
     {
-      "ts": "2025-12-30T22:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
-      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
+      "ts": "2025-12-31T10:15:00.000Z",
+      "headline": "&#x2018;We never want to think our children would strip us of all our money&#x2019;: Is it safe to give my kids my Social Security number?",
+      "url": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
+      "summary_en": "&#x201c;Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T21:11:00.000Z",
-      "headline": "Trump Media just launched five &#x2018;Made in America&#x2019; ETFs, testing whether political power is an investable theme",
-      "url": "https://www.marketwatch.com/story/trump-media-just-launched-5-made-in-america-etfs-testing-whether-political-power-can-function-as-an-investable-theme-a959b3ca?mod=mw_rss_topstories",
+      "ts": "2025-12-31T10:02:00.000Z",
+      "headline": "Former Celtics star Jrue Holiday sells his Boston mansion for $6.69 million",
+      "url": "https://www.marketwatch.com/story/former-celtics-star-jrue-holiday-sells-his-boston-mansion-for-6-69-million-990305b4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Wall Street has seen plenty of thematic ETFs, but not one with a sitting U.S. president acting as a de facto marketing engine.",
+      "summary_en": "Months after he was traded to the Portland Trail Blazers, Holiday has finalized the sale of his Boston home.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T20:58:00.000Z",
-      "headline": "China launches its silver weapon on Jan. 1. What that means for investors and prices.",
-      "url": "https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "China controls around 70% of the silver that Big Tech, AI and solar power desperately need. Beijing is about to lock the gates.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T20:53:00.000Z",
-      "headline": "This winning fund manager spills 4 secrets about smart ways to buy non-U.S. stocks",
-      "url": "https://www.marketwatch.com/story/this-winning-fund-manager-spills-4-secrets-about-smart-ways-to-buy-non-u-s-stocks-35fd47da?mod=mw_rss_topstories",
+      "ts": "2025-12-31T09:58:00.000Z",
+      "headline": "&#x2018;Today&#x2019; host Jason Kennedy sells his renovated Agoura Hills home for $3.9 million in 45 days",
+      "url": "https://www.marketwatch.com/story/today-host-jason-kennedy-sells-his-renovated-agoura-hills-home-for-3-9-million-in-45-days-4256c203?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "David Herro is an experienced guide to the global market.",
+      "summary_en": "Jason Kennedy, of NBC&#x2019;s &#x201c;Today&#x201d; show, has found a buyer for his sprawling property in the Santa Monica Mountains in Los Angeles County.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T20:46:00.000Z",
-      "headline": "&#x2018;So much for holiday cheer&#x2019;: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
-      "url": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I guess he thought no one would notice. It came in a gift bag, and it looked expensive.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T20:42:00.000Z",
-      "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
-      "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am 66 years old and have been retired for about a year and a half.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T23:21:00.000Z",
-      "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
-      "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
+      "ts": "2025-12-31T09:06:00.000Z",
+      "headline": "The Big Short&#x2019;s Michael Burry takes on the Big Tech bulls, but holds fire on this cult favorite.",
+      "url": "https://www.marketwatch.com/story/the-big-shorts-michael-burry-takes-on-the-big-tech-bulls-but-holds-fire-on-this-cult-favorite-928cc0c4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?&#x201d;",
+      "summary_en": "Burry is betting against Nvidia and Palantir shares",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T20:19:00.000Z",
-      "headline": "Interest rates could be on hold &#x2018;for some time,&#x2019; Fed minutes show",
-      "url": "https://www.marketwatch.com/story/interest-rates-could-be-on-hold-for-some-time-fed-minutes-show-f799db89?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2025-12-31T00:39:00.000Z",
+      "headline": "Meta&#x2019;s Manus acquisition is Big Tech&#x2019;s latest big bet on AI",
+      "url": "https://www.marketwatch.com/story/meta-acquisition-is-latest-megacap-tech-bet-on-ai-to-finish-the-year-68cdfd8f?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "META"
       ],
-      "summary_en": "A pause would give Federal Reserve officials time to assess the effects of the three rate cuts made this year.",
+      "summary_en": "Giant tech companies are closing the year with a flurry of deals as they position for further advances in artificial intelligence.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T20:06:00.000Z",
+      "ts": "2025-12-31T01:11:00.000Z",
       "headline": "Buying bitcoin is no longer a thing for this David Beckham-backed health company",
       "url": "https://www.marketwatch.com/story/buying-bitcoin-is-no-longer-a-thing-for-this-david-beckham-backed-health-company-24911393?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -108,6 +71,31 @@
         "ED"
       ],
       "summary_en": "Prenetics has ditched its bitcoin-buying strategy just six months after announcing a long-term commitment to the cryptocurrency as a treasury reserve asset.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-31T00:34:00.000Z",
+      "headline": "Tesla publicly posts a pessimistic forecast for fourth-quarter sales",
+      "url": "https://www.marketwatch.com/story/tesla-posts-a-pessimistic-forecast-for-fourth-quarter-sales-837e53b4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tesla is expected to sell 1.64 million vehicles in 2025, which is fewer than the 1.79 million it sold in 2024 or they 1.8 million it sold in 2023.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T23:28:00.000Z",
+      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
+      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -123,15 +111,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T21:30:00.000Z",
-      "headline": "&#x2018;I completely trust her&#x2019;: Should I name my daughter as beneficiary on all my accounts &#x2014; or add her name instead?",
-      "url": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
+      "ts": "2025-12-31T01:38:00.000Z",
+      "headline": "Why 2026 could be a banner year for regional-bank stocks",
+      "url": "https://www.marketwatch.com/story/why-2026-could-be-a-banner-year-for-regional-bank-stocks-7306c7c0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;She is an intelligent and responsible individual.&#x201d;",
+      "summary_en": "A steepening yield curve, a looser regulatory environment and increasing M&A activity all bode well, according to Catherine Mealor of KBW.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T23:21:00.000Z",
+      "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
+      "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
