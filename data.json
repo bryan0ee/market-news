@@ -1,20 +1,8 @@
 {
-  "last_updated": "2025-12-31T13:34:55.095Z",
+  "last_updated": "2025-12-31T23:29:44.265Z",
   "items": [
     {
-      "ts": "2025-12-31T13:29:00.000Z",
-      "headline": "Trump Media just launched five &#x2018;Made in America&#x2019; ETFs, testing whether political power is an investable theme",
-      "url": "https://www.marketwatch.com/story/trump-media-just-launched-5-made-in-america-etfs-testing-whether-political-power-can-function-as-an-investable-theme-a959b3ca?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Wall Street has seen plenty of thematic ETFs, but not one with a sitting U.S. president acting as a de facto marketing engine.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-31T13:20:00.000Z",
+      "ts": "2025-12-31T23:00:00.000Z",
       "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
       "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,91 +14,93 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-31T13:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
-      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
+      "ts": "2025-12-31T22:45:00.000Z",
+      "headline": "&#x2018;So much for holiday cheer&#x2019;: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
+      "url": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
+      "summary_en": "&#x201c;I guess he thought no one would notice. It came in a gift bag, and it looked expensive.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-31T12:42:00.000Z",
-      "headline": "SpaceX, Anthropic and 4 more companies that could make an IPO splash in 2026",
-      "url": "https://www.marketwatch.com/story/spacex-anthropic-and-4-more-companies-that-could-make-an-ipo-splash-in-2026-e6ab5398?mod=mw_rss_topstories",
+      "ts": "2025-12-31T21:04:00.000Z",
+      "headline": "Nike CEO joins Tim Cook in betting his own money that the stock is bottoming",
+      "url": "https://www.marketwatch.com/story/nike-ceo-joins-tim-cook-in-betting-his-own-money-that-the-stock-is-bottoming-69229691?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Nike&#x2019;s stock surged Wednesday after CEO Elliott Hill disclosed open-market purchases &#x2014; a week after Apple CEO and board member Tim Cook did the same.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-31T21:47:00.000Z",
+      "headline": "&#x2018;We never want to think our children would strip us of all our money&#x2019;: Is it safe to give my kids my Social Security number?",
+      "url": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "SpaceX and Anthropic, two of the most valuable private companies in the world, are reportedly considering launching initial public offerings as soon as next year.",
+      "summary_en": "&#x201c;Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-31T13:00:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in January 2026 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-january-2026-on-netflix-hulu-hbo-max-and-more-a53de184?mod=mw_rss_topstories",
+      "ts": "2025-12-31T21:42:00.000Z",
+      "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are now too expensive for me. What else can I gift my infant grandchildren?",
+      "url": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "From returning favorites like &#x2018;The Pitt&#x2019; and &#x2018;Bridgerton&#x2019; to newcomers like &#x2018;A Knight of the Seven Kingdoms&#x2019; and &#x2018;Wonder Man,&#x2019; there&#x2019;s a lot on tap to kick off the new year",
+      "summary_en": "&#x201c;I&#x2019;ve already listed them as beneficiaries on my 401(k).&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-31T12:38:00.000Z",
-      "headline": "I&#x2019;m 35 and the only house I can afford is a mobile home. Is it a bad idea to buy one?",
-      "url": "https://www.marketwatch.com/story/im-35-and-the-only-house-i-can-afford-is-a-mobile-home-is-it-a-bad-idea-to-buy-one-76e32c1c?mod=mw_rss_topstories",
+      "ts": "2025-12-31T21:36:00.000Z",
+      "headline": "Here are 5 key charts that defined a wild year for global financial markets",
+      "url": "https://www.marketwatch.com/story/these-5-charts-define-the-wild-year-in-global-financial-markets-in-2025-780fdd5a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "META",
+        "ED"
       ],
-      "summary_en": "&#x201c;I know there is a stigma of living in a trailer park.&#x201d;",
+      "summary_en": "For investors worldwide, 2025 was anything but boring: It was great for metals, surprisingly bad for crypto and particularly nice for stocks outside of the U.S.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-31T12:30:00.000Z",
-      "headline": "Silver, gold and copper are trouncing stocks. What a key chart level suggests could be ahead for 2026.",
-      "url": "https://www.marketwatch.com/story/silver-gold-and-copper-are-trouncing-stocks-what-a-key-chart-level-suggests-could-be-ahead-for-2026-62ea0475?mod=mw_rss_topstories",
+      "ts": "2025-12-31T21:00:00.000Z",
+      "headline": "China made the world&#x2019;s biggest movie this year, and &#x2014; in a sea change &#x2014; it didn&#x2019;t need America&#x2019;s help",
+      "url": "https://www.marketwatch.com/story/china-made-the-worlds-biggest-movie-this-year-and-in-a-sea-change-it-didnt-need-america-to-do-it-45c509b3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "NEE",
+        "ED"
       ],
-      "summary_en": "Gold, silver are on pace for their biggest yearly percentage gains since 1979",
+      "summary_en": "China&#x2019;s domestic film industry now has the scale to produce global box-office leaders on its own &#x2014; even as it flexes make-or-break power over the fate of Hollywood&#x2019;s biggest movies.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-31T12:15:00.000Z",
-      "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
-      "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
+      "ts": "2025-12-31T20:53:00.000Z",
+      "headline": "The U.S. economy is facing no shortage of worries as it heads into 2026",
+      "url": "https://www.marketwatch.com/story/the-u-s-economy-is-facing-no-shortage-of-worries-as-it-heads-into-2026-c73f8e1d?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?&#x201d;",
+      "summary_en": "Progress on inflation has stalled. Labor market looks shaky.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-31T12:06:00.000Z",
-      "headline": "Here&#x2019;s the tech stock that could set the pace for 2026, and it&#x2019;s not in the U.S.",
-      "url": "https://www.marketwatch.com/story/heres-the-tech-stock-that-could-set-the-pace-for-2026-and-its-not-in-the-u-s-b8bc218b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A hot Taiwan chip maker could be ready to flag signals on where tech is going in 2026, says Miller Tabak + Co.&#x2019;s Matt Maley.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-31T11:37:00.000Z",
+      "ts": "2025-12-31T22:15:00.000Z",
       "headline": "&#x2018;I completely trust her&#x2019;: Should I name my daughter as beneficiary on all my accounts &#x2014; or add her name instead?",
       "url": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -119,6 +109,18 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;She is an intelligent and responsible individual.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-31T20:24:00.000Z",
+      "headline": "This one unavoidable tax can sink your retirement plan",
+      "url": "https://www.marketwatch.com/story/this-one-unavoidable-tax-can-sink-your-retirement-plan-a05d1a6b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "How to trim your tax bill when taking RMDs.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
