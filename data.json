@@ -1,68 +1,8 @@
 {
-  "last_updated": "2026-01-01T13:35:31.276Z",
+  "last_updated": "2026-01-01T23:29:50.374Z",
   "items": [
     {
-      "ts": "2026-01-01T13:30:00.000Z",
-      "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are now too expensive for me. What else can I gift my infant grandchildren?",
-      "url": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;ve already listed them as beneficiaries on my 401(k).&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-01T13:00:00.000Z",
-      "headline": "&#x2018;We never want to think our children would strip us of all our money&#x2019;: Is it safe to give my kids my Social Security number?",
-      "url": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-01T11:29:00.000Z",
-      "headline": "20 stocks in the S&P 500 that gained the most in 2025",
-      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-gained-the-most-in-2025-98be5881?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Companies that added to huge gains the previous year included Robinhood, Palantir, Carvana and GE",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-01T10:45:00.000Z",
-      "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
-      "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am 66 years old and have been retired for about a year and a half.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-01T12:00:00.000Z",
-      "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
-      "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-01T00:21:00.000Z",
+      "ts": "2026-01-01T17:35:00.000Z",
       "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
       "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -74,7 +14,68 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-01T00:19:00.000Z",
+      "ts": "2026-01-01T17:20:00.000Z",
+      "headline": "&#x2018;We never want to think our children would strip us of all our money&#x2019;: Is it safe to give my kids my Social Security number?",
+      "url": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-01T17:20:00.000Z",
+      "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are now too expensive for me. What else can I gift my infant grandchildren?",
+      "url": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;ve already listed them as beneficiaries on my 401(k).&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-01T16:03:00.000Z",
+      "headline": "Trump to spare homeowners from higher tariffs on cabinets and furniture till 2027. Here are the stocks to watch.",
+      "url": "https://www.marketwatch.com/story/trump-will-spare-homeowners-a-50-tariff-on-cabinets-and-certain-furniture-in-2026-here-are-the-stocks-to-watch-fab3a237?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "A troubled U.S. housing market, coupled with fear of tariff costs passed on to inflation-weary consumers, weighed on home-furnishing stocks in 2025.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-01T16:03:00.000Z",
+      "headline": "&#x2018;I experienced a catastrophic financial loss&#x2019;: How options trader &#x2018;Captain Condor&#x2019; led his followers to a $50 million wipeout",
+      "url": "https://www.marketwatch.com/story/i-experienced-a-catastrophic-financial-loss-how-options-trader-captain-condor-led-his-followers-to-a-50-million-wipeout-5cd1addd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Captain Condor&#x2019;s rise coincided with a boom in retail investors trading risky &#x201c;0DTE&#x201d; options.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-01T15:54:00.000Z",
+      "headline": "Wall Street is starting 2026 with echoes of 2000&#x2019;s dot-com woes",
+      "url": "https://www.marketwatch.com/story/wall-street-is-starting-2026-with-echoes-of-2000s-dot-com-woes-1accb670?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "So-called small-cap value stocks have almost never been.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-01T15:52:00.000Z",
       "headline": "Here are 5 key charts that defined a wild year for global financial markets",
       "url": "https://www.marketwatch.com/story/these-5-charts-define-the-wild-year-in-global-financial-markets-in-2025-780fdd5a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -87,15 +88,40 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-31T22:45:00.000Z",
-      "headline": "&#x2018;So much for holiday cheer&#x2019;: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
-      "url": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
+      "ts": "2026-01-01T15:42:00.000Z",
+      "headline": "China made the world&#x2019;s biggest movie last year, and &#x2014; in a sea change &#x2014; it didn&#x2019;t need America&#x2019;s help",
+      "url": "https://www.marketwatch.com/story/china-made-the-worlds-biggest-movie-this-year-and-in-a-sea-change-it-didnt-need-america-to-do-it-45c509b3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;I guess he thought no one would notice. It came in a gift bag, and it looked expensive.&#x201d;",
+      "summary_en": "China&#x2019;s domestic film industry now has the scale to produce global box-office leaders on its own &#x2014; even as it flexes make-or-break power over the fate of Hollywood&#x2019;s biggest movies.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-01T17:21:00.000Z",
+      "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
+      "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-01T16:25:00.000Z",
+      "headline": "Warren Buffett gifts us 5 secrets for investing success as he hands off Berkshire Hathaway&#x2019;s reins",
+      "url": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Three paragraphs in a 1994 letter to Berkshire Hathaway shareholders reveal the top reason for Buffett&#x2019;s phenomenal winning record.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -108,30 +134,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-01T03:27:00.000Z",
-      "headline": "Is the Times Square New Year&#x2019;s Eve ball drop on your bucket list? Here&#x2019;s why life goals like that aren&#x2019;t worth the time or money.",
-      "url": "https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "And you can skip swimming with the dolphins, too.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-31T22:15:00.000Z",
-      "headline": "&#x2018;I completely trust her&#x2019;: Should I name my daughter as beneficiary on all my accounts &#x2014; or add her name instead?",
-      "url": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She is an intelligent and responsible individual.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
