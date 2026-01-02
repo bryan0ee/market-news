@@ -1,125 +1,128 @@
 {
-  "last_updated": "2026-01-02T13:35:06.130Z",
+  "last_updated": "2026-01-02T23:28:36.938Z",
   "items": [
     {
-      "ts": "2026-01-02T12:43:00.000Z",
-      "headline": "These overlooked indicators say tech stocks may not lead the market in 2026",
-      "url": "https://www.marketwatch.com/story/these-overlooked-indicators-say-tech-stocks-may-not-lead-the-market-in-2026-b1446bc0?mod=mw_rss_topstories",
+      "ts": "2026-01-02T22:07:00.000Z",
+      "headline": "January&#x2019;s first trading days predict the stock market&#x2019;s year &#x2014; or so they say",
+      "url": "https://www.marketwatch.com/story/januarys-first-trading-days-predict-the-stock-markets-year-or-so-they-say-5a858b95?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Tech sector is over-owned and vulnerable to being hit with &#x2018;loser&#x2019; tag, says Wall Street veteran",
+      "summary_en": "Why the stock market&#x2019;s odds of rising in 2026 are the same regardless of seasonal indicators.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T12:41:00.000Z",
-      "headline": "China&#x2019;s BYD just raised the bar on EV sales. Tesla may struggle to catch up.",
-      "url": "https://www.marketwatch.com/story/chinas-byd-just-raised-the-bar-on-ev-sales-tesla-may-struggle-to-catch-up-84a73a31?mod=mw_rss_topstories",
+      "ts": "2026-01-02T21:33:00.000Z",
+      "headline": "Stocks need to find their footing fast if investors hope to keep the bears away",
+      "url": "https://www.marketwatch.com/story/stocks-need-to-find-their-footing-fast-if-investors-hope-to-keep-the-bears-away-8e3046cf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Bullish technical indicators are breaking down.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-02T20:21:00.000Z",
+      "headline": "Tax-related selling could set up these 11 stocks for big gains early in 2026",
+      "url": "https://www.marketwatch.com/story/tax-related-selling-could-set-up-these-11-stocks-for-big-gains-early-in-2026-e7da4f3a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "China EV maker BYD has published preliminary sales data for 2025 that could put it ahead of Tesla when it comes to global sales.",
+      "summary_en": "Insider share ownership and corporate profitability are key to finding stocks that have been temporarily sold off.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T12:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are now too expensive for me. What else can I gift my infant grandchildren?",
-      "url": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
+      "ts": "2026-01-02T20:18:00.000Z",
+      "headline": "Could retail actually rebound in 2026? These are the chains &#x2014; and trends &#x2014; to watch.",
+      "url": "https://www.marketwatch.com/story/could-retail-actually-rebound-in-2026-these-are-the-chains-and-trends-to-watch-83492ac0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;ve already listed them as beneficiaries on my 401(k).&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T11:00:00.000Z",
-      "headline": "&#x2018;We never want to think our children would strip us of all our money&#x2019;: Is it safe to give my kids my Social Security number?",
-      "url": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T09:50:00.000Z",
-      "headline": "Trump has delayed higher tariffs on cabinets and furniture until 2027. These stocks are getting a lift.",
-      "url": "https://www.marketwatch.com/story/trump-will-spare-homeowners-a-50-tariff-on-cabinets-and-certain-furniture-in-2026-here-are-the-stocks-to-watch-fab3a237?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
       "affected": [
         "ED",
         "COST"
       ],
-      "summary_en": "A troubled U.S. housing market, coupled with fear of tariff costs passed on to inflation-weary consumers, weighed on home-furnishing stocks in 2025.",
+      "summary_en": "Beyond the biggest chains, the past few years have largely been ones to forget for retailers, as shoppers have remained wary about spending amid a battle with higher living costs. Yet some analysts see a path toward a slightly better 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T10:29:00.000Z",
-      "headline": "&#x2018;I have absolutely no idea what to do&#x2019;: I was diagnosed with Alzheimer&#x2019;s disease and inherited $400K. How do I invest it?",
-      "url": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
+      "ts": "2026-01-02T19:37:00.000Z",
+      "headline": "These undervalued stocks blew away the S&P 500 in 2025 &#x2014; a 2026 repeat is likely",
+      "url": "https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m retired and 72.&#x201d;",
+      "summary_en": "Valuation indicators now are extremely bearish for U.S. stocks. Non-U.S. stocks are a much better bet.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T13:24:00.000Z",
-      "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
-      "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
+      "ts": "2026-01-02T22:23:00.000Z",
+      "headline": "Retirement investors should beware our volatile &#x2018;Marie Antoinette&#x2019; market",
+      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?&#x201d;",
+      "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T10:04:00.000Z",
-      "headline": "Shannen Doherty&#x2019;s estate claims ex-husband has refused to list $1.5 million Texas home",
-      "url": "https://www.marketwatch.com/story/shannen-dohertys-estate-claims-ex-husband-has-refused-to-list-1-5-million-texas-home-1e9b197b?mod=mw_rss_topstories",
+      "ts": "2026-01-02T19:02:00.000Z",
+      "headline": "China is using silver as an economic weapon. What that means for investors and prices.",
+      "url": "https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "Shannen Doherty&#x2019;s estate has claimed that her ex-husband&#xa0;Kurt Iswarienko&#xa0;owes money after refusing to list their $1.5 million&#xa0;Texas&#xa0;home, despite the terms outlined in their divorce agreement.",
+      "summary_en": "China controls around 70% of the silver that Big Tech, AI and solar power desperately need. Beijing is locking the gates.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T10:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
-      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
+      "ts": "2026-01-02T17:43:00.000Z",
+      "headline": "Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures",
+      "url": "https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
+      "summary_en": "A six-state pilot program will target &#x201c;wasteful care&#x201d; under Medicare, Centers for Medicare & Medicaid Services says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T08:49:00.000Z",
-      "headline": "Here are the most popular Moneyist columns of 2025",
-      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
+      "ts": "2026-01-02T19:52:00.000Z",
+      "headline": "Tesla EV sales fall short of Wall Street&#x2019;s low expectations",
+      "url": "https://www.marketwatch.com/story/tesla-ev-sales-fall-short-of-wall-streets-low-expectations-35980885?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
+      "summary_en": "Tesla&#x2019;s rough year took it to its second straight annual sales decline, and saw it lose its global EV sales leadership to China&#x2019;s BYD.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-02T18:58:00.000Z",
+      "headline": "This one unavoidable tax can sink your retirement plan",
+      "url": "https://www.marketwatch.com/story/this-one-unavoidable-tax-can-sink-your-retirement-plan-a05d1a6b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "How to trim your tax bill when taking RMDs.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
