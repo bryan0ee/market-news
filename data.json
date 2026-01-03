@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-01-03T10:44:46.870Z",
+  "last_updated": "2026-01-03T13:31:06.667Z",
   "items": [
+    {
+      "ts": "2026-01-03T13:00:00.000Z",
+      "headline": "U.S. on verge of unemployment surge that forces Fed to slash rates, Wall Street veteran says",
+      "url": "https://www.marketwatch.com/story/u-s-on-verge-of-unemployment-surge-that-forces-fed-to-slash-rates-wall-street-veteran-says-e4bd0be1?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Those with optimistic views of 2026 are overlooking signs of a labor market in sharp decline, says David Rosenberg.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-03T13:30:00.000Z",
+      "headline": "Investors pin hopes on the &#x2018;January barometer,&#x2019; with stocks set to skip &#x2018;Santa Claus rally&#x2019; for a 3rd year",
+      "url": "https://www.marketwatch.com/story/investors-pin-hopes-on-the-january-barometer-with-stocks-set-to-skip-santa-claus-rally-for-a-3rd-year-343e0e77?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "For the third straight year, the S&P 500 looks poised to fall during the &#x201c;Santa Claus rally&#x201d; period. That has never happened before.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-03T12:45:00.000Z",
+      "headline": "&#x2018;I have absolutely no idea what to do&#x2019;: I was diagnosed with Alzheimer&#x2019;s disease and inherited $400K. How do I invest it?",
+      "url": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m retired and 72.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-03T12:39:00.000Z",
+      "headline": "&#x2018;You need a third job or a rich husband&#x2019;: I fell victim to Allen Stanford&#x2019;s multibillion-dollar Ponzi scheme and survived",
+      "url": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;If you have never found yourself in a situation where your life does a complete 180, it&#x2019;s wrong to talk down to anyone.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-03T11:28:00.000Z",
+      "headline": "Here are the most popular Moneyist columns of 2025",
+      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-03T11:27:00.000Z",
+      "headline": "Trump says U.S. has captured Maduro. What happens next in markets.",
+      "url": "https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The swift and successful U.S. operation to capture Venezuela president Nicolas Maduro is likely to pressure oil and could unleash a reaction in other financial markets on Monday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-03T13:28:00.000Z",
+      "headline": "&#x2018;He has become hostile&#x2019;: My mom is in her 80s and has dementia. My brother is blocking access.",
+      "url": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-03T02:00:00.000Z",
       "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?",
@@ -14,18 +99,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-03T01:25:00.000Z",
-      "headline": "Here are the most popular Moneyist columns of 2025",
-      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-02T22:07:00.000Z",
       "headline": "January&#x2019;s first trading days predict the stock market&#x2019;s year &#x2014; or so they say",
       "url": "https://www.marketwatch.com/story/januarys-first-trading-days-predict-the-stock-markets-year-or-so-they-say-5a858b95?mod=mw_rss_topstories",
@@ -35,69 +108,6 @@
         "ED"
       ],
       "summary_en": "Why the stock market&#x2019;s odds of rising in 2026 are the same regardless of seasonal indicators.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T21:33:00.000Z",
-      "headline": "Stocks need to find their footing fast if investors hope to keep the bears away",
-      "url": "https://www.marketwatch.com/story/stocks-need-to-find-their-footing-fast-if-investors-hope-to-keep-the-bears-away-8e3046cf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Bullish technical indicators are breaking down.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T20:21:00.000Z",
-      "headline": "Tax-related selling could set up these 11 stocks for big gains early in 2026",
-      "url": "https://www.marketwatch.com/story/tax-related-selling-could-set-up-these-11-stocks-for-big-gains-early-in-2026-e7da4f3a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Insider share ownership and corporate profitability are key to finding stocks that have been temporarily sold off.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T20:18:00.000Z",
-      "headline": "Could retail actually rebound in 2026? These are the chains &#x2014; and trends &#x2014; to watch.",
-      "url": "https://www.marketwatch.com/story/could-retail-actually-rebound-in-2026-these-are-the-chains-and-trends-to-watch-83492ac0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Beyond the biggest chains, the past few years have largely been ones to forget for retailers, as shoppers have remained wary about spending amid a battle with higher living costs. Yet some analysts see a path toward a slightly better 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T19:37:00.000Z",
-      "headline": "These undervalued stocks blew away the S&P 500 in 2025 &#x2014; a 2026 repeat is likely",
-      "url": "https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Valuation indicators now are extremely bearish for U.S. stocks. Non-U.S. stocks are a much better bet.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T19:02:00.000Z",
-      "headline": "China is using silver as an economic weapon. What that means for investors and prices.",
-      "url": "https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "China controls around 70% of the silver that Big Tech, AI and solar power desperately need. Beijing is locking the gates.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -122,18 +132,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T19:52:00.000Z",
-      "headline": "Tesla EV sales fall short of Wall Street&#x2019;s low expectations",
-      "url": "https://www.marketwatch.com/story/tesla-ev-sales-fall-short-of-wall-streets-low-expectations-35980885?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Tesla&#x2019;s rough year took it to its second straight annual sales decline, and saw it lose its global EV sales leadership to China&#x2019;s BYD.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
