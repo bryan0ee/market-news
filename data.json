@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-01-02T23:28:36.938Z",
+  "last_updated": "2026-01-03T10:44:46.870Z",
   "items": [
+    {
+      "ts": "2026-01-03T02:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?",
+      "url": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;ve already listed them as beneficiaries on my 401(k).&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-03T01:25:00.000Z",
+      "headline": "Here are the most popular Moneyist columns of 2025",
+      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-02T22:07:00.000Z",
       "headline": "January&#x2019;s first trading days predict the stock market&#x2019;s year &#x2014; or so they say",
@@ -64,18 +88,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T22:23:00.000Z",
-      "headline": "Retirement investors should beware our volatile &#x2018;Marie Antoinette&#x2019; market",
-      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-02T19:02:00.000Z",
       "headline": "China is using silver as an economic weapon. What that means for investors and prices.",
       "url": "https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories",
@@ -89,16 +101,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-02T17:43:00.000Z",
-      "headline": "Over 6 million Americans on Medicare will now need to get prior authorization from AI for these 17 procedures",
-      "url": "https://www.marketwatch.com/story/over-6-million-americans-on-medicare-will-now-need-to-get-prior-authorization-from-ai-for-these-17-procedures-0cf605a2?mod=mw_rss_topstories",
+      "ts": "2025-12-30T19:00:00.000Z",
+      "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "A six-state pilot program will target &#x201c;wasteful care&#x201d; under Medicare, Centers for Medicare & Medicaid Services says.",
+      "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-02T22:23:00.000Z",
+      "headline": "Retirement investors should beware of our volatile &#x2018;Marie Antoinette&#x2019; market",
+      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -111,30 +134,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Tesla&#x2019;s rough year took it to its second straight annual sales decline, and saw it lose its global EV sales leadership to China&#x2019;s BYD.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-02T18:58:00.000Z",
-      "headline": "This one unavoidable tax can sink your retirement plan",
-      "url": "https://www.marketwatch.com/story/this-one-unavoidable-tax-can-sink-your-retirement-plan-a05d1a6b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "How to trim your tax bill when taking RMDs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T19:00:00.000Z",
-      "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
