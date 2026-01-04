@@ -1,56 +1,8 @@
 {
-  "last_updated": "2026-01-04T13:31:52.701Z",
+  "last_updated": "2026-01-04T23:29:50.805Z",
   "items": [
     {
-      "ts": "2026-01-04T13:26:00.000Z",
-      "headline": "How Trump&#x2019;s Venezuela raid could worsen America&#x2019;s affordability crisis",
-      "url": "https://www.marketwatch.com/story/how-trumps-venezuela-raid-could-worsen-americas-affordability-crisis-45353c62?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A spike in diesel oil prices could make goods and materials more expensive to deliver &#x2014; risking higher inflation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-03T22:30:00.000Z",
-      "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?",
-      "url": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;ve already listed them as beneficiaries on my 401(k).&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-03T22:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
-      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-03T21:01:00.000Z",
-      "headline": "Here are the most popular Moneyist columns of 2025",
-      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-03T20:29:00.000Z",
+      "ts": "2026-01-04T21:44:00.000Z",
       "headline": "&#x2018;I have absolutely no idea what to do&#x2019;: I was diagnosed with Alzheimer&#x2019;s disease and inherited $400K. How do I invest it?",
       "url": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,54 +14,111 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-03T19:37:00.000Z",
-      "headline": "This winning fund manager spills 4 secrets about smart ways to buy non-U.S. stocks",
-      "url": "https://www.marketwatch.com/story/this-winning-fund-manager-spills-4-secrets-about-smart-ways-to-buy-non-u-s-stocks-35fd47da?mod=mw_rss_topstories",
+      "ts": "2026-01-04T18:26:00.000Z",
+      "headline": "Trump takedown of Venezuela&#x2019;s dictator could inject price premium into oil market, strategist projects",
+      "url": "https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "David Herro is an experienced guide to the global market.",
+      "summary_en": "Global investment strategist Marko Papic, referencing the 1980s Chuck Norris vehicle &#x201c;The Delta Force,&#x201d; says traders could start demanding higher prices as the U.S. rediscovers a taste for regime change.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-03T19:13:00.000Z",
-      "headline": "China is using silver as an economic weapon. What that means for investors and prices.",
-      "url": "https://www.marketwatch.com/story/china-launches-its-silver-weapon-on-jan-1-heres-what-that-means-for-prices-5c543123?mod=mw_rss_topstories",
+      "ts": "2026-01-04T21:25:00.000Z",
+      "headline": "How Trump&#x2019;s Venezuela raid could worsen America&#x2019;s affordability crisis",
+      "url": "https://www.marketwatch.com/story/how-trumps-venezuela-raid-could-worsen-americas-affordability-crisis-45353c62?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A spike in diesel oil prices could make goods and materials more expensive to deliver &#x2014; risking higher inflation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-04T20:44:00.000Z",
+      "headline": "Stock market braces for a crucial jobs report after a lackluster start to 2026",
+      "url": "https://www.marketwatch.com/story/stock-market-braces-for-a-crucial-jobs-report-after-a-lackluster-start-to-2026-8925de58?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I think there&#x2019;s room for both,&#x201d; says Keith Lerner, CIO at Truist Advisory Services, of gains in tech stocks and the rest of the market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-04T20:36:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in January 2026 on Netflix, Hulu, HBO Max and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-january-2026-on-netflix-hulu-hbo-max-and-more-a53de184?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "China controls around 70% of the silver that Big Tech, AI and solar power desperately need. Beijing is locking the gates.",
+      "summary_en": "From returning favorites like &#x2018;The Pitt&#x2019; and &#x2018;Bridgerton&#x2019; to newcomers like &#x2018;A Knight of the Seven Kingdoms&#x2019; and &#x2018;Wonder Man,&#x2019; there&#x2019;s a lot on tap to kick off the new year",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-03T17:44:00.000Z",
-      "headline": "Trump says U.S. has captured Maduro and will &#x2018;run&#x2019; Venezuela. What happens next in markets.",
+      "ts": "2026-01-04T14:45:00.000Z",
+      "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
+      "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am 66 years old and have been retired for about a year and a half.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-04T14:34:00.000Z",
+      "headline": "Investors pin hopes on the &#x2018;January barometer,&#x2019; with stocks set to skip &#x2018;Santa Claus rally&#x2019; for a third straight year",
+      "url": "https://www.marketwatch.com/story/investors-pin-hopes-on-the-january-barometer-with-stocks-set-to-skip-santa-claus-rally-for-a-3rd-year-343e0e77?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "For the third straight year, the S&P 500 looks poised to fall during the &#x201c;Santa Claus&#x201d; period. That has never happened before.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-04T14:00:00.000Z",
+      "headline": "&#x2018;We never want to think our children would strip us of all our money&#x2019;: Is it safe to give my kids my Social Security number?",
+      "url": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-04T13:43:00.000Z",
+      "headline": "Here are the most popular Moneyist columns of 2025",
+      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-04T15:55:00.000Z",
+      "headline": "Trump says U.S. will &#x2018;run&#x2019; Venezuela after capture of Maduro. What happens next in markets.",
       "url": "https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
       "summary_en": "U.S. oil companies will repair infrastructure in Venezuela, President Donald Trump tells reporters.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-03T17:02:00.000Z",
-      "headline": "America once had enough silver to meet its needs. But that&#x2019;s been outsourced, too.",
-      "url": "https://www.marketwatch.com/story/america-once-had-enough-silver-to-meet-its-needs-but-thats-been-outsourced-too-87729b60?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Charlie Garcia responds to readers&#x2019; concerns about China&#x2019;s control of silver and other critical metals used in technology and defense.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -122,18 +131,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-03T19:25:00.000Z",
-      "headline": "Retirement investors should beware of our volatile &#x2018;Marie Antoinette&#x2019; market",
-      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
