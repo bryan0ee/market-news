@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-01-03T23:29:23.554Z",
+  "last_updated": "2026-01-04T10:44:08.861Z",
   "items": [
+    {
+      "ts": "2026-01-04T02:52:00.000Z",
+      "headline": "How Trump&#x2019;s Venezuela raid could worsen America&#x2019;s affordability crisis",
+      "url": "https://www.marketwatch.com/story/how-trumps-venezuela-raid-could-worsen-americas-affordability-crisis-45353c62?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A spike in diesel oil prices could make goods and materials more expensive to deliver &#x2014; risking higher inflation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-03T22:30:00.000Z",
       "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?",
@@ -101,30 +113,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-03T19:25:00.000Z",
-      "headline": "Retirement investors should beware of our volatile &#x2018;Marie Antoinette&#x2019; market",
-      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-03T16:33:00.000Z",
-      "headline": "Warren Buffett gifts us 5 secrets for investing success as he hands off Berkshire Hathaway&#x2019;s reins",
-      "url": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Three paragraphs in a 1994 letter to Berkshire Hathaway shareholders reveal the top reason for Buffett&#x2019;s phenomenal winning record.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-30T19:00:00.000Z",
       "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
@@ -134,6 +122,18 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-03T19:25:00.000Z",
+      "headline": "Retirement investors should beware of our volatile &#x2018;Marie Antoinette&#x2019; market",
+      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
