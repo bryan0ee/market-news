@@ -1,8 +1,20 @@
 {
-  "last_updated": "2026-01-05T13:43:14.242Z",
+  "last_updated": "2026-01-05T23:30:00.474Z",
   "items": [
     {
-      "ts": "2026-01-05T12:45:00.000Z",
+      "ts": "2026-01-05T23:08:00.000Z",
+      "headline": "Nvidia CEO Jensen Huang delivers some good news for investors at CES",
+      "url": "https://www.marketwatch.com/story/nvidia-ceo-jensen-huang-delivers-some-good-news-for-investors-at-ces-4b3a3c7a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Huang devoted much of his speech to real-world AI. But he also said six words that should appeal to Wall Street: &#x201c;Vera Rubin is in full production.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T22:38:00.000Z",
       "headline": "The Fed will be forced into deep rate cuts in 2026 &#x2014; boosting gold and breaking the dollar",
       "url": "https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,111 +26,100 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-05T12:42:00.000Z",
-      "headline": "Why this strategist only sees 3 buyable U.S. stocks at the start of 2026",
-      "url": "https://www.marketwatch.com/story/why-this-strategist-only-sees-3-buyable-u-s-stocks-at-the-start-of-2026-2db5c277?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "There are few equities both in an uptrend and seeing determined buyers, says Birinyi Associates",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-05T12:40:00.000Z",
-      "headline": "Inflation is likely to be a casualty of fraught superpower politics, these strategists say",
-      "url": "https://www.marketwatch.com/story/inflation-is-likely-to-be-a-casualty-of-fraught-superpower-politics-these-strategists-say-db542e0e?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "ts": "2026-01-05T21:35:00.000Z",
+      "headline": "These surging stocks just saved the &#x2018;Santa Claus rally.&#x2019; Here&#x2019;s what turned things around.",
+      "url": "https://www.marketwatch.com/story/these-surging-stocks-just-saved-the-santa-claus-rally-heres-what-turned-things-around-20e3ae34?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Multipolarity, deglobalization and nearshoring are trends that likely cause a structural shift higher in inflation, economists predict",
+      "summary_en": "U.S. stocks staged a dramatic rebound to kick off the first full trading week of the new year, just in time to rescue the so-called Santa Claus rally from going missing for another year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-05T12:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
-      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
+      "ts": "2026-01-05T22:25:00.000Z",
+      "headline": "Online fury as betting market Polymarket denies Venezuela was invaded",
+      "url": "https://www.marketwatch.com/story/online-fury-as-betting-market-polymarket-denies-any-venezuelan-invasion-414af8a9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
+      "summary_en": "If this isn&#x2019;t an invasion, what is?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-05T11:26:00.000Z",
-      "headline": "Taiwan Semi shares gained 45% over the last year &#x2014; and Goldman just said the chip maker can do it again",
-      "url": "https://www.marketwatch.com/story/taiwan-semi-shares-gained-45-over-the-last-year-and-goldman-just-said-the-chipmaker-can-do-it-again-331b08d5?mod=mw_rss_topstories",
+      "ts": "2026-01-05T22:17:00.000Z",
+      "headline": "Venezuela&#x2019;s oil industry needs rebuilding. These U.S. companies will do it.",
+      "url": "https://www.marketwatch.com/story/these-stocks-stand-to-gain-as-the-u-s-tightens-its-grip-on-venezuelan-oil-42d7faa8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "A bullish note from Goldman Sachs analysts on Taiwan Semiconductor Manufacturing Co. lifted shares of the global chip manufacturer in early trade on Monday.",
+      "summary_en": "If the U.S. can exert control over Venezuela&#x2019;s leadership and energy sector, the long-term implications could be substantial.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-05T10:19:00.000Z",
-      "headline": "Chevron stock soars 8%. What analysts are saying about big oil companies after Maduro&#x2019;s capture",
+      "ts": "2026-01-05T21:48:00.000Z",
+      "headline": "Chevron and Exxon stocks jump. Here&#x2019;s what analysts are saying about big oil companies after Maduro&#x2019;s capture.",
       "url": "https://www.marketwatch.com/story/chevron-stock-soars-8-what-analysts-are-saying-about-big-oil-companies-after-maduros-capture-84f3c8c1?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Chevron shares were among the big gainers on Monday as investors gauged the U.S. capture of Venezuela&#x2019;s leader.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-05T11:15:00.000Z",
-      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We&#x2019;ve $2.6 million saved for retirement.",
-      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
+      "summary_en": "Chevron shares were among the big gainers on Monday as investors gauged the impact of U.S. actions against Venezuela, including the capture of Nicol&#xe1;s Maduro.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-05T11:02:00.000Z",
-      "headline": "Here are the most popular Moneyist columns of 2025",
-      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
+      "ts": "2026-01-05T21:43:00.000Z",
+      "headline": "Mobileye&#x2019;s latest win is another rejection of Tesla&#x2019;s self-driving approach",
+      "url": "https://www.marketwatch.com/story/mobileyes-latest-win-is-another-rejection-of-teslas-self-driving-approach-f530235e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
+      "summary_en": "Mobileye&#x2019;s technology features both cameras and radars. Tesla has bucked an industry trend by doubling down on a cameras-only approach.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-05T10:49:00.000Z",
-      "headline": "How one trader quickly turned a $30,000 wager on Venezuela action into $400,000",
-      "url": "https://www.marketwatch.com/story/how-one-trader-quickly-turned-a-30-000-wager-on-venezuela-action-into-400-000-1913890c?mod=mw_rss_topstories",
+      "ts": "2026-01-05T21:32:00.000Z",
+      "headline": "Spending over $100 billion to rebuild Venezuela&#x2019;s oil industry won&#x2019;t be the biggest obstacle facing U.S. oil companies",
+      "url": "https://www.marketwatch.com/story/paying-over-100-billion-to-rebuild-venezuelas-oil-industry-wont-be-the-biggest-obstacle-facing-u-s-oil-companies-bc5dcf5f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A sudden flurry of bets were made on Nicolas Maduro not making it to the Jan. 31 as leader of Venezuela.",
+      "summary_en": "For the oil market, the hype is real &#x2014; the U.S. now has the opportunity to to more freely access crude from Venezuela, a country that&#x2019;s widely accepted to be home to the world&#x2019;s largest oil reserves. But the reality is that U.S. oil companies may not be all that eager to jump in.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-05T10:46:00.000Z",
-      "headline": "&#x2018;I have absolutely no idea what to do&#x2019;: I was diagnosed with Alzheimer&#x2019;s disease and inherited $400K. How do I invest it?",
-      "url": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
+      "ts": "2026-01-05T21:19:00.000Z",
+      "headline": "Manchester United&#x2019;s stock climbs after football club fires coach Ruben Amorim",
+      "url": "https://www.marketwatch.com/story/manchester-uniteds-stock-climbs-after-football-club-fires-coach-ruben-amorim-32739fbb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m retired and 72.&#x201d;",
+      "summary_en": "United will now look for its seventh full-time manager since club legend Alex Ferguson retired in 2013.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T23:14:00.000Z",
+      "headline": "Trump is forcing the world to share riches with the U.S. &#x2014; Venezuelan oil is the latest bargaining chip",
+      "url": "https://www.marketwatch.com/story/the-trump-doctrine-demands-the-u-s-get-a-better-deal-and-its-paying-dividends-f1d62acb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "How a full-page newspaper advertisement in 1987 became American foreign policy.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
