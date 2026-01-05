@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-01-05T10:51:46.971Z",
+  "last_updated": "2026-01-05T13:43:14.242Z",
   "items": [
+    {
+      "ts": "2026-01-05T12:45:00.000Z",
+      "headline": "The Fed will be forced into deep rate cuts in 2026 &#x2014; boosting gold and breaking the dollar",
+      "url": "https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The next Fed chair will grapple with a deteriorating U.S. job market and slower economic growth.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T12:42:00.000Z",
+      "headline": "Why this strategist only sees 3 buyable U.S. stocks at the start of 2026",
+      "url": "https://www.marketwatch.com/story/why-this-strategist-only-sees-3-buyable-u-s-stocks-at-the-start-of-2026-2db5c277?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "There are few equities both in an uptrend and seeing determined buyers, says Birinyi Associates",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T12:40:00.000Z",
+      "headline": "Inflation is likely to be a casualty of fraught superpower politics, these strategists say",
+      "url": "https://www.marketwatch.com/story/inflation-is-likely-to-be-a-casualty-of-fraught-superpower-politics-these-strategists-say-db542e0e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Multipolarity, deglobalization and nearshoring are trends that likely cause a structural shift higher in inflation, economists predict",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T12:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m fed up&#x2019;: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
+      "url": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m almost 50 years old. Enough is enough. I am exhausted by it.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T11:26:00.000Z",
+      "headline": "Taiwan Semi shares gained 45% over the last year &#x2014; and Goldman just said the chip maker can do it again",
+      "url": "https://www.marketwatch.com/story/taiwan-semi-shares-gained-45-over-the-last-year-and-goldman-just-said-the-chipmaker-can-do-it-again-331b08d5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A bullish note from Goldman Sachs analysts on Taiwan Semiconductor Manufacturing Co. lifted shares of the global chip manufacturer in early trade on Monday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-05T10:19:00.000Z",
       "headline": "Chevron stock soars 8%. What analysts are saying about big oil companies after Maduro&#x2019;s capture",
@@ -11,6 +71,30 @@
         "ED"
       ],
       "summary_en": "Chevron shares were among the big gainers on Monday as investors gauged the U.S. capture of Venezuela&#x2019;s leader.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T11:15:00.000Z",
+      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We&#x2019;ve $2.6 million saved for retirement.",
+      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T11:02:00.000Z",
+      "headline": "Here are the most popular Moneyist columns of 2025",
+      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,66 +122,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-05T10:15:00.000Z",
-      "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
-      "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-05T10:01:00.000Z",
-      "headline": "Here&#x2019;s a breakdown of billionaire Beyonc&#xe9;&#x2019;s $300 million real-estate portfolio",
-      "url": "https://www.marketwatch.com/story/heres-a-breakdown-of-billionaire-beyonces-300-million-real-estate-portfolio-f4300ece?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Beyonc&#xe9; has officially joined the billionaire club, amassing a fortune through a mix of chart-topping hits, savvy business ventures, and real estate.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-05T09:58:00.000Z",
-      "headline": "Sean &#x2018;Diddy&#x2019; Combs takes his $61.5 million Beverly Hills mansion off the market",
-      "url": "https://www.marketwatch.com/story/sean-diddy-combs-takes-his-61-5-million-beverly-hills-mansion-off-the-market-e3f0b7bd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Still serving a four-year prison sentence, Combs has delisted the California home after a months-long attempt to sell it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-05T09:06:00.000Z",
-      "headline": "Retirement investors should beware of our volatile &#x2018;Marie Antoinette&#x2019; market",
-      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-05T00:15:00.000Z",
-      "headline": "Trump takedown of Venezuela&#x2019;s dictator could inject price premium into oil market, strategist projects",
-      "url": "https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Since the news broke early Saturday that the U.S. military had captured Venezuelan strongman Nicol&#xe1;s Maduro and his wife in a brazen raid in Caracas, investors have been wondering how the global oil market might react.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2025-12-30T19:00:00.000Z",
       "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
@@ -107,30 +131,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-04T21:25:00.000Z",
-      "headline": "How Trump&#x2019;s Venezuela raid could worsen America&#x2019;s affordability crisis",
-      "url": "https://www.marketwatch.com/story/how-trumps-venezuela-raid-could-worsen-americas-affordability-crisis-45353c62?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A spike in diesel oil prices could make goods and materials more expensive to deliver &#x2014; risking higher inflation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-04T20:44:00.000Z",
-      "headline": "Stock market braces for a crucial jobs report after a lackluster start to 2026",
-      "url": "https://www.marketwatch.com/story/stock-market-braces-for-a-crucial-jobs-report-after-a-lackluster-start-to-2026-8925de58?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I think there&#x2019;s room for both,&#x201d; says Keith Lerner, CIO at Truist Advisory Services, of gains in tech stocks and the rest of the market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
