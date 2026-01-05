@@ -1,8 +1,32 @@
 {
-  "last_updated": "2026-01-04T23:29:50.805Z",
+  "last_updated": "2026-01-05T10:51:46.971Z",
   "items": [
     {
-      "ts": "2026-01-04T21:44:00.000Z",
+      "ts": "2026-01-05T10:19:00.000Z",
+      "headline": "Chevron stock soars 8%. What analysts are saying about big oil companies after Maduro&#x2019;s capture",
+      "url": "https://www.marketwatch.com/story/chevron-stock-soars-8-what-analysts-are-saying-about-big-oil-companies-after-maduros-capture-84f3c8c1?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Chevron shares were among the big gainers on Monday as investors gauged the U.S. capture of Venezuela&#x2019;s leader.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T10:49:00.000Z",
+      "headline": "How one trader quickly turned a $30,000 wager on Venezuela action into $400,000",
+      "url": "https://www.marketwatch.com/story/how-one-trader-quickly-turned-a-30-000-wager-on-venezuela-action-into-400-000-1913890c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A sudden flurry of bets were made on Nicolas Maduro not making it to the Jan. 31 as leader of Venezuela.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T10:46:00.000Z",
       "headline": "&#x2018;I have absolutely no idea what to do&#x2019;: I was diagnosed with Alzheimer&#x2019;s disease and inherited $400K. How do I invest it?",
       "url": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -14,7 +38,55 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-04T18:26:00.000Z",
+      "ts": "2026-01-05T10:15:00.000Z",
+      "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
+      "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T10:01:00.000Z",
+      "headline": "Here&#x2019;s a breakdown of billionaire Beyonc&#xe9;&#x2019;s $300 million real-estate portfolio",
+      "url": "https://www.marketwatch.com/story/heres-a-breakdown-of-billionaire-beyonces-300-million-real-estate-portfolio-f4300ece?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Beyonc&#xe9; has officially joined the billionaire club, amassing a fortune through a mix of chart-topping hits, savvy business ventures, and real estate.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T09:58:00.000Z",
+      "headline": "Sean &#x2018;Diddy&#x2019; Combs takes his $61.5 million Beverly Hills mansion off the market",
+      "url": "https://www.marketwatch.com/story/sean-diddy-combs-takes-his-61-5-million-beverly-hills-mansion-off-the-market-e3f0b7bd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Still serving a four-year prison sentence, Combs has delisted the California home after a months-long attempt to sell it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T09:06:00.000Z",
+      "headline": "Retirement investors should beware of our volatile &#x2018;Marie Antoinette&#x2019; market",
+      "url": "https://www.marketwatch.com/story/retirement-investors-should-beware-our-volatile-marie-antoinette-market-ee256efd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Volatility is not the typical retirement investor&#x2019;s friend.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-05T00:15:00.000Z",
       "headline": "Trump takedown of Venezuela&#x2019;s dictator could inject price premium into oil market, strategist projects",
       "url": "https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -22,7 +94,19 @@
       "affected": [
         "ED"
       ],
-      "summary_en": "Global investment strategist Marko Papic, referencing the 1980s Chuck Norris vehicle &#x201c;The Delta Force,&#x201d; says traders could start demanding higher prices as the U.S. rediscovers a taste for regime change.",
+      "summary_en": "Since the news broke early Saturday that the U.S. military had captured Venezuelan strongman Nicol&#xe1;s Maduro and his wife in a brazen raid in Caracas, investors have been wondering how the global oil market might react.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2025-12-30T19:00:00.000Z",
+      "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -47,90 +131,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I think there&#x2019;s room for both,&#x201d; says Keith Lerner, CIO at Truist Advisory Services, of gains in tech stocks and the rest of the market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-04T20:36:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in January 2026 on Netflix, Hulu, HBO Max and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-january-2026-on-netflix-hulu-hbo-max-and-more-a53de184?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "From returning favorites like &#x2018;The Pitt&#x2019; and &#x2018;Bridgerton&#x2019; to newcomers like &#x2018;A Knight of the Seven Kingdoms&#x2019; and &#x2018;Wonder Man,&#x2019; there&#x2019;s a lot on tap to kick off the new year",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-04T14:45:00.000Z",
-      "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
-      "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am 66 years old and have been retired for about a year and a half.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-04T14:34:00.000Z",
-      "headline": "Investors pin hopes on the &#x2018;January barometer,&#x2019; with stocks set to skip &#x2018;Santa Claus rally&#x2019; for a third straight year",
-      "url": "https://www.marketwatch.com/story/investors-pin-hopes-on-the-january-barometer-with-stocks-set-to-skip-santa-claus-rally-for-a-3rd-year-343e0e77?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "For the third straight year, the S&P 500 looks poised to fall during the &#x201c;Santa Claus&#x201d; period. That has never happened before.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-04T14:00:00.000Z",
-      "headline": "&#x2018;We never want to think our children would strip us of all our money&#x2019;: Is it safe to give my kids my Social Security number?",
-      "url": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-04T13:43:00.000Z",
-      "headline": "Here are the most popular Moneyist columns of 2025",
-      "url": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-04T15:55:00.000Z",
-      "headline": "Trump says U.S. will &#x2018;run&#x2019; Venezuela after capture of Maduro. What happens next in markets.",
-      "url": "https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "U.S. oil companies will repair infrastructure in Venezuela, President Donald Trump tells reporters.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T19:00:00.000Z",
-      "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
