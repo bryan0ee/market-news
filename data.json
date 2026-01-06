@@ -1,45 +1,34 @@
 {
-  "last_updated": "2026-01-06T13:40:06.826Z",
+  "last_updated": "2026-01-06T23:30:55.794Z",
   "items": [
     {
-      "ts": "2026-01-06T13:21:00.000Z",
-      "headline": "Bitcoin&#x2019;s weakness is saying there will be a handoff to old-economy stocks, these market veterans say",
-      "url": "https://www.marketwatch.com/story/bitcoins-weakness-is-saying-there-will-be-a-handoff-to-old-economy-stocks-these-market-veterans-say-184da9aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Some 2026 predictions from a handful of market veterans including Steve Eisman, says watch out for old economy stocks to shine this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T12:55:00.000Z",
-      "headline": "An AI tsunami is coming &#x2014; U.S. workers need to prepare, because we can&#x2019;t dodge it",
-      "url": "https://www.marketwatch.com/story/an-ai-tsunami-is-coming-u-s-workers-need-to-prepare-because-we-cant-dodge-it-f09d86f4?mod=mw_rss_topstories",
+      "ts": "2026-01-06T23:21:00.000Z",
+      "headline": "Strategy&#x2019;s stock is rising as investors get some much-needed good news",
+      "url": "https://www.marketwatch.com/story/strategys-stock-is-rising-as-investors-get-some-much-needed-good-news-971e0f9f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "4 steps to strengthen training and skills so employees can meet AI head-on.",
+      "summary_en": "Strategy gets to stay in MSCI indexes for now &#x2014; though the index provider says it will launch a more general review of whether investment-oriented companies can keep their spots.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T12:20:00.000Z",
-      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
-      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
+      "ts": "2026-01-06T23:13:00.000Z",
+      "headline": "I&#x2019;m retired and selling my home after 35 years &#x2014; what&#x2019;s changed since the &#x2018;90s?",
+      "url": "https://www.marketwatch.com/story/planning-to-sell-your-home-in-retirement-do-these-tasks-first-ef5cb0b4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
+      "summary_en": "Retirees need to learn a lot before undertaking the task. They are wise to begin long before listing their homes.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T11:20:00.000Z",
+      "ts": "2026-01-06T22:59:00.000Z",
       "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
       "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -51,101 +40,112 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T10:49:00.000Z",
-      "headline": "Adidas gets hit with rare double downgrade as BofA calls the end of the &#x2018;casualization&#x2019; trend",
-      "url": "https://www.marketwatch.com/story/adidas-gets-hit-with-rare-double-downgrade-as-bofa-calls-the-end-of-the-casualization-trend-5eba7346?mod=mw_rss_topstories",
+      "ts": "2026-01-06T22:41:00.000Z",
+      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
+      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Adidas shares stumbled on Tuesday, with the apparel maker&#x2019;s stock the worst out of Europe&#x2019;s top 600 stocks, after a brokerage issued a rare double-downgrade.",
+      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T10:09:00.000Z",
-      "headline": "Maduro&#x2019;s rendition is a Franz Ferdinand moment spelling the end of the 60/40 portfolio, say these strategists",
-      "url": "https://www.marketwatch.com/story/maduros-rendition-is-a-franz-ferdinand-moment-spelling-the-end-of-the-60-40-portfolio-say-these-strategists-4c13ece3?mod=mw_rss_topstories",
+      "ts": "2026-01-06T22:28:00.000Z",
+      "headline": "Elon Musk is taking on ChatGPT &#x2014; and xAI now has $20 billion more to do it",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-taking-on-chatgpt-and-xai-now-has-20-billion-more-to-do-it-ec28bc2d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Deglobalization has evolved from an abstract concept to a harsh reality and portfolio managers must increase weightings of alternative investments to reflect the new paradigm, argues these researchers.",
+      "summary_en": "Cisco Investments and Nvidia were strategic investors in a newly announced funding round.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T10:04:00.000Z",
-      "headline": "Aubrey Plaza delists $6.5 million home where her husband died",
-      "url": "https://www.marketwatch.com/story/aubrey-plaza-delists-6-5-million-home-where-her-husband-died-367ef838?mod=mw_rss_topstories",
+      "ts": "2026-01-06T22:04:00.000Z",
+      "headline": "What you need to know about changes to Social Security, Medicare and Medicaid in 2026",
+      "url": "https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Here&#x2019;s a rundown of what retirees and savers can expect in the coming year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-06T22:02:00.000Z",
+      "headline": "It&#x2019;s rare for the S&P 500 and the VIX to post gains on the same day. Here&#x2019;s why it just happened.",
+      "url": "https://www.marketwatch.com/story/its-rare-for-the-s-p-500-and-the-vix-to-post-gains-on-the-same-day-heres-why-it-just-happened-f3ba1311?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Plaza initially put the four-bedroom, 5.5-bathroom home on the market in September, eight months after&#xa0;Baena died by suicide&#xa0;at the age of 47 inside the home.",
+      "summary_en": "The stock market has been climbing despite rising geopolitical tensions after the U.S. captured Venezuelan leader Nicol&#xe1;s Maduro.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T12:45:00.000Z",
-      "headline": "Why bonds now look like a better bet over stocks and gold",
-      "url": "https://www.marketwatch.com/story/why-bonds-now-look-like-a-better-bet-over-stocks-and-gold-308042c2?mod=mw_rss_topstories",
+      "ts": "2026-01-06T21:58:00.000Z",
+      "headline": "Emerging-market stocks &#x2014;  even in Venezuela &#x2014; are rallying after Maduro&#x2019;s capture",
+      "url": "https://www.marketwatch.com/story/emerging-market-stocks-even-in-venezuela-are-rallying-after-maduros-capture-10eb2e61?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Stocks in emerging markets seem untroubled by geopolitical risk in Venezuela, at least so far, even on the exchange in Caracas.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-06T23:10:00.000Z",
+      "headline": "Why U.S. oil refiners could be the big winners in Venezuela &#x2014; even if its actual reserves disappoint",
+      "url": "https://www.marketwatch.com/story/why-u-s-oil-refiners-could-be-the-big-winners-in-venezuela-even-if-its-actual-reserves-disappoint-6a9a6b1a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Market-timers hate bonds &#x2014; it&#x2019;s time to consider buying them.",
+      "summary_en": "Refiners in the U.S. have the distinctive ability to handle the type of heavy crude Venezuela claims to have in abundance.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T10:14:00.000Z",
-      "headline": "&#x2018;It&#x2019;s been a struggle getting payments from her&#x2019;: I rent a house to our daughter. Do I just gift her the house?",
-      "url": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
+      "ts": "2026-01-06T21:34:00.000Z",
+      "headline": "Why chains such as Chipotle and Chili&#x2019;s could have a better 2026 than their rivals",
+      "url": "https://www.marketwatch.com/story/why-chains-such-as-chipotle-and-chilis-could-have-a-better-2026-than-their-rivals-6389c38a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;She would be responsible for taxes and insurance, which should be manageable.&#x201d;",
+      "summary_en": "UBS analysts say new tax breaks and a lower bar to clear could make 2026 more forgiving for restaurants, particularly for the sit-down chains and fast-casual players that draw wealthier customers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T04:13:00.000Z",
-      "headline": "As AMD chases Nvidia, here&#x2019;s how it&#x2019;s positioning itself for the future of AI",
-      "url": "https://www.marketwatch.com/story/as-amd-chases-nvidia-heres-how-its-positioning-itself-for-the-future-of-ai-09048ea4?mod=mw_rss_topstories",
+      "ts": "2026-01-06T19:00:00.000Z",
+      "headline": "Minutes of the Board's discount rate meeting on December 10, 2025",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "AMD",
-        "ED",
-        "COST"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "AMD CEO Lisa Su delivered a CES keynote that highlighted cost benefits, memory improvements, a shift toward real-world AI &#x2014;&#xa0;and an insatiable demand for compute power.",
+      "summary_en": "Minutes of the Board&#39;s discount rate meeting on December 10, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2025-12-30T19:00:00.000Z",
-      "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
+      "ts": "2026-01-06T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2025-12-30T16:00:00.000Z",
-      "headline": "Agencies release annual asset-size thresholds under Community Reinvestment Act regulations",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251230a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Agencies release annual asset-size thresholds under Community Reinvestment Act regulations",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
