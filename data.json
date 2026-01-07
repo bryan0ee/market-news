@@ -1,57 +1,33 @@
 {
-  "last_updated": "2026-01-07T13:42:01.182Z",
+  "last_updated": "2026-01-07T23:30:13.274Z",
   "items": [
     {
-      "ts": "2026-01-07T13:00:00.000Z",
-      "headline": "The Supreme Court could rule on Trump&#x2019;s tariffs as soon as Friday. Here&#x2019;s how it could play out.",
-      "url": "https://www.marketwatch.com/story/the-supreme-court-could-rule-on-trumps-tariffs-as-soon-as-friday-heres-how-it-could-play-out-d99bbb79?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-01-07T23:28:00.000Z",
+      "headline": "Why Trump banning institutional investors like Blackstone from buying homes won&#x2019;t bring down housing costs, according to experts",
+      "url": "https://www.marketwatch.com/story/why-trump-banning-institutional-investors-like-blackstone-from-buying-homes-wont-bring-down-housing-costs-according-to-experts-97bfc3bc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "COST"
       ],
-      "summary_en": "One key will be whether the court&#x2019;s ruling is a clean decision, or if some IEEPA tariffs are permitted.",
+      "summary_en": "&#x2018;Institutional investors are a tiny share of the market, and a tinier share of the total U.S. housing market,&#x2019; one expert says",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-07T13:34:00.000Z",
-      "headline": "Warner Bros. tells shareholders that Larry Ellison&#x2019;s wealth isn&#x2019;t enough to best Netflix bid",
-      "url": "https://www.marketwatch.com/story/warner-bros-tells-shareholders-that-larry-ellisons-wealth-isnt-enough-to-best-netflix-bid-5a908bc1?mod=mw_rss_topstories",
+      "ts": "2026-01-07T22:11:00.000Z",
+      "headline": "These stocks are in play as Trump and China feud over Greenland",
+      "url": "https://www.marketwatch.com/story/trump-wants-greenland-so-does-china-heres-where-your-money-comes-in-9dd33724?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Paramount&#x2019;s latest offer, backed by Ellison&#x2019;s personal fortune, remains inferior to Netflix&#x2019;s accepted proposal, Warner Bros. says, urging shareholders to reject the hostile bid.",
+      "summary_en": "Greenland possesses 39 of the 50 minerals the United States has classified as critical to national security.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-07T13:31:00.000Z",
-      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
-      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T13:25:00.000Z",
-      "headline": "U.S. jobs market not getting any worse &#x2014; and it might even be getting better. ADP says businesses add 41,000 jobs in December.",
-      "url": "https://www.marketwatch.com/story/businesses-add-41-000-jobs-in-december-adp-says-u-s-jobs-market-not-getting-any-worse-a2289435?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "ADP said businesses created 41,000 jobs in December, suggesting a weak U.S. labor market showed mild improvement heading into the new year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T13:15:00.000Z",
-      "headline": "AI won&#x2019;t pay off if employees can&#x2019;t do the work it demands",
+      "ts": "2026-01-07T22:04:00.000Z",
+      "headline": "AI investment won&#x2019;t pay off unless employees can do the work it demands",
       "url": "https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -63,63 +39,87 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-07T13:02:00.000Z",
-      "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
-      "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
+      "ts": "2026-01-07T22:04:00.000Z",
+      "headline": "Here&#x2019;s how much oil Venezuela is producing and exporting, as the country&#x2019;s future hangs in the balance",
+      "url": "https://www.marketwatch.com/story/heres-how-much-oil-venezuela-is-producing-and-exporting-as-the-countrys-future-hangs-in-the-balance-9868b025?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.&#x201d;",
+      "summary_en": "A guide to what&#x2019;s happened with Venezuela&#x2019;s crude-oil production and exports since President Donald Trump ordered a blockade of sanctioned oil tankers linked to Venezuela.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-07T12:55:00.000Z",
-      "headline": "The calm before the systemic reckoning. Here&#x2019;s what keeps one top economist awake at night.",
-      "url": "https://www.marketwatch.com/story/the-calm-before-the-systemic-reckoning-heres-what-keeps-one-top-economist-awake-at-night-4c925885?mod=mw_rss_topstories",
+      "ts": "2026-01-07T22:00:00.000Z",
+      "headline": "&#x2018;Women deserve an apology&#x2019;: For menopause, hormone therapy is now considered safe &#x2014; just in time for aging millennials",
+      "url": "https://www.marketwatch.com/story/women-deserve-an-apology-for-menopause-hormone-therapy-is-now-considered-safe-just-in-time-for-aging-millennials-27a38622?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The FDA no longer requires a safety warning on hormone-replacement therapies, at a time when more attention is being paid to perimenopause and menopause.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T22:00:00.000Z",
+      "headline": "Investors are waiting on Friday&#x2019;s jobs numbers. They should be more worried about this other labor report.",
+      "url": "https://www.marketwatch.com/story/investors-are-waiting-on-fridays-jobs-numbers-they-should-be-more-worried-about-this-productivity-report-a4b0436f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Former central banker is alarmed by the prospect of runaway inflation and governments unable to sustain their debt. loads.",
+      "summary_en": "AI-driven productivity gains are hindering the Fed&#x2019;s effort to juice the labor market.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-07T13:24:00.000Z",
-      "headline": "The last bearish overhang for crude &#x2014; Venezuela &#x2014; is now gone. Why one trader says oil will follow in gold&#x2019;s footsteps.",
-      "url": "https://www.marketwatch.com/story/the-last-bearish-overhang-for-crude-venezuela-is-now-gone-why-one-trader-says-oil-will-follow-in-golds-footsteps-08050c63?mod=mw_rss_topstories",
+      "ts": "2026-01-07T21:58:00.000Z",
+      "headline": "This 100-year-old stock-market indicator just flashed a buy signal. Here&#x2019;s how investors should read it.",
+      "url": "https://www.marketwatch.com/story/this-100-year-old-stock-market-indicator-just-flashed-a-buy-signal-heres-how-investors-should-read-it-1a6b53ae?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A stock-market indicator that has been used by investment analysts for more than a century flashed a bullish signal this week.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T21:37:00.000Z",
+      "headline": "Dow gets off to its best yearly start since 2018 despite Wednesday&#x2019;s 466-point drop",
+      "url": "https://www.marketwatch.com/story/dow-gets-off-to-its-best-yearly-start-since-2018-despite-wednesdays-466-point-drop-a0346e29?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Dow Jones Industrial Average is having its best start to any new year since 2018, bolstered by financial and industrial names like Goldman Sachs Group Inc. and Caterpillar Inc., despite pullbacks in the blue-chip index and both companies&#x2019; shares on Wednesday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T21:27:00.000Z",
+      "headline": "CNBC parent&#x2019;s stock is in turmoil: Versant shares pummeled for the third day in a row after Comcast spinoff",
+      "url": "https://www.marketwatch.com/story/cnbcs-stock-is-in-turmoil-versant-shares-pummeled-for-the-third-day-in-a-row-after-spinoff-4951830a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The new corporate home to the cable channels CNBC, MS Now and USA Network has started off losing 25% of its market value following separation from Comcast.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T23:13:00.000Z",
+      "headline": "Goldman Sachs&#x2019; Apple Card saga is finally coming to an end",
+      "url": "https://www.marketwatch.com/story/goldman-sachs-apple-card-saga-is-finally-coming-to-an-end-710244e4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Energy bears had one last hope: a Venezuelan production ramp. That&#x2019;s over and the energy sector has never been cheaper, says Kevin Muir.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T13:12:00.000Z",
-      "headline": "GameStop follows Tesla&#x2019;s lead by tying its CEO&#x2019;s pay to these &#x2018;extraordinary growth&#x2019; targets",
-      "url": "https://www.marketwatch.com/story/gamestop-follows-teslas-lead-by-tying-its-ceos-pay-to-these-extraordinary-growth-targets-bceaccf1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "GameStop CEO Ryan Cohen would see a huge stock-options package if he can grow the company&#x2019;s market cap by about 1,000% and hit new profit targets.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T13:00:00.000Z",
-      "headline": "5 easy 401(k) moves to make now to start building long-term wealth",
-      "url": "https://www.marketwatch.com/story/5-easy-401-k-moves-to-make-now-to-start-building-long-term-wealth-5d60cbf5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "By starting early, even with small contributions initially, 401(k) accounts can be a powerful tool for building long-term wealth.",
+      "summary_en": "JPMorgan will take over the card program, which had been a major headache for Goldman.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
