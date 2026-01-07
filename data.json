@@ -1,6 +1,91 @@
 {
-  "last_updated": "2026-01-06T23:30:55.794Z",
+  "last_updated": "2026-01-07T10:49:52.695Z",
   "items": [
+    {
+      "ts": "2026-01-07T10:38:00.000Z",
+      "headline": "Why stocks will sidestep 1920s and 1987 parallels, according to Goldman Sachs",
+      "url": "https://www.marketwatch.com/story/why-stocks-will-sidestep-1920s-and-1987-parallels-according-to-goldman-sachs-b4b8dabe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "In a new note, strategists led by Ben Snider warn the market is about to navigate a difficult environment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T10:15:00.000Z",
+      "headline": "My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?",
+      "url": "https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He did not intend to leave anything to his sister, his only living relative.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T10:02:00.000Z",
+      "headline": "&#x2018;Opening up to possibilities&#x2019;: Olympic diver Greg Louganis on his new life in Panama at 65, after auctioning off his gold medals",
+      "url": "https://www.marketwatch.com/story/opening-up-to-possibilities-olympic-diver-greg-louganis-on-his-new-life-in-panama-at-65-after-auctioning-off-his-gold-medals-8947fa8b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Olympic star Greg Louganis has offered a glimpse inside his life after leaving the U.S.&#x2014;months after he auctioned his medals to raise the funds he needed to relocate to Panama.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T07:37:00.000Z",
+      "headline": "Trump says Venezuela will send U.S. up to 50 million barrels of oil &#x2014; and he&#x2019;ll control the proceeds",
+      "url": "https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump late Tuesday said Venezuela will send the U.S. 30 million to 50 million barrels of oil, which will then be sold by the U.S. and the proceeds controlled by him.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T10:01:00.000Z",
+      "headline": "An ounce of gold now buys 80 barrels of oil, and other eye-opening stats",
+      "url": "https://www.marketwatch.com/story/an-ounce-of-gold-now-buys-80-barrels-of-oil-and-other-eye-opening-stats-645fb3ed?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Silver&#x2019;s market capitalization has overtaken that of America&#x2019;s most valuable company, Nvidia, as one ounce of gold buys 80 barrels of oil.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-06T23:34:00.000Z",
+      "headline": "As Tesla&#x2019;s stock falls, Elon Musk brushes off Nvidia&#x2019;s competitive threat",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-brushing-off-nvidias-attempt-to-take-on-tesla-554a8134?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Nvidia is ramping up its work on driverless vehicle technology, a field dominated by Tesla and a few other players. But Musk doesn&#x2019;t see an imminent reason to worry.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-06T23:29:00.000Z",
+      "headline": "Why Sandisk&#x2019;s stock just soared to its best day in 11 months",
+      "url": "https://www.marketwatch.com/story/why-sandisks-stock-is-soaring-toward-its-best-day-in-11-months-9f4a51c6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Memory and storage stocks reigned supreme in 2025 and are leading the pack once again to start 2026.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-06T23:21:00.000Z",
       "headline": "Strategy&#x2019;s stock is rising as investors get some much-needed good news",
@@ -28,76 +113,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T22:59:00.000Z",
-      "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
-      "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
+      "ts": "2026-01-06T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T22:41:00.000Z",
-      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
-      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T22:28:00.000Z",
-      "headline": "Elon Musk is taking on ChatGPT &#x2014; and xAI now has $20 billion more to do it",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-taking-on-chatgpt-and-xai-now-has-20-billion-more-to-do-it-ec28bc2d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Cisco Investments and Nvidia were strategic investors in a newly announced funding round.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T22:04:00.000Z",
-      "headline": "What you need to know about changes to Social Security, Medicare and Medicaid in 2026",
-      "url": "https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Here&#x2019;s a rundown of what retirees and savers can expect in the coming year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T22:02:00.000Z",
-      "headline": "It&#x2019;s rare for the S&P 500 and the VIX to post gains on the same day. Here&#x2019;s why it just happened.",
-      "url": "https://www.marketwatch.com/story/its-rare-for-the-s-p-500-and-the-vix-to-post-gains-on-the-same-day-heres-why-it-just-happened-f3ba1311?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The stock market has been climbing despite rising geopolitical tensions after the U.S. captured Venezuelan leader Nicol&#xe1;s Maduro.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T21:58:00.000Z",
-      "headline": "Emerging-market stocks &#x2014;  even in Venezuela &#x2014; are rallying after Maduro&#x2019;s capture",
-      "url": "https://www.marketwatch.com/story/emerging-market-stocks-even-in-venezuela-are-rallying-after-maduros-capture-10eb2e61?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Stocks in emerging markets seem untroubled by geopolitical risk in Venezuela, at least so far, even on the exchange in Caracas.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -113,18 +137,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T21:34:00.000Z",
-      "headline": "Why chains such as Chipotle and Chili&#x2019;s could have a better 2026 than their rivals",
-      "url": "https://www.marketwatch.com/story/why-chains-such-as-chipotle-and-chilis-could-have-a-better-2026-than-their-rivals-6389c38a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "UBS analysts say new tax breaks and a lower bar to clear could make 2026 more forgiving for restaurants, particularly for the sit-down chains and fast-casual players that draw wealthier customers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-06T19:00:00.000Z",
       "headline": "Minutes of the Board's discount rate meeting on December 10, 2025",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
@@ -134,18 +146,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Minutes of the Board&#39;s discount rate meeting on December 10, 2025",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
