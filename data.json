@@ -1,115 +1,125 @@
 {
-  "last_updated": "2026-01-07T10:49:52.695Z",
+  "last_updated": "2026-01-07T13:42:01.182Z",
   "items": [
     {
-      "ts": "2026-01-07T10:38:00.000Z",
-      "headline": "Why stocks will sidestep 1920s and 1987 parallels, according to Goldman Sachs",
-      "url": "https://www.marketwatch.com/story/why-stocks-will-sidestep-1920s-and-1987-parallels-according-to-goldman-sachs-b4b8dabe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "In a new note, strategists led by Ben Snider warn the market is about to navigate a difficult environment.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T10:15:00.000Z",
-      "headline": "My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?",
-      "url": "https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He did not intend to leave anything to his sister, his only living relative.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T10:02:00.000Z",
-      "headline": "&#x2018;Opening up to possibilities&#x2019;: Olympic diver Greg Louganis on his new life in Panama at 65, after auctioning off his gold medals",
-      "url": "https://www.marketwatch.com/story/opening-up-to-possibilities-olympic-diver-greg-louganis-on-his-new-life-in-panama-at-65-after-auctioning-off-his-gold-medals-8947fa8b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Olympic star Greg Louganis has offered a glimpse inside his life after leaving the U.S.&#x2014;months after he auctioned his medals to raise the funds he needed to relocate to Panama.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T07:37:00.000Z",
-      "headline": "Trump says Venezuela will send U.S. up to 50 million barrels of oil &#x2014; and he&#x2019;ll control the proceeds",
-      "url": "https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump late Tuesday said Venezuela will send the U.S. 30 million to 50 million barrels of oil, which will then be sold by the U.S. and the proceeds controlled by him.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T10:01:00.000Z",
-      "headline": "An ounce of gold now buys 80 barrels of oil, and other eye-opening stats",
-      "url": "https://www.marketwatch.com/story/an-ounce-of-gold-now-buys-80-barrels-of-oil-and-other-eye-opening-stats-645fb3ed?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Silver&#x2019;s market capitalization has overtaken that of America&#x2019;s most valuable company, Nvidia, as one ounce of gold buys 80 barrels of oil.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T23:34:00.000Z",
-      "headline": "As Tesla&#x2019;s stock falls, Elon Musk brushes off Nvidia&#x2019;s competitive threat",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-brushing-off-nvidias-attempt-to-take-on-tesla-554a8134?mod=mw_rss_topstories",
+      "ts": "2026-01-07T13:00:00.000Z",
+      "headline": "The Supreme Court could rule on Trump&#x2019;s tariffs as soon as Friday. Here&#x2019;s how it could play out.",
+      "url": "https://www.marketwatch.com/story/the-supreme-court-could-rule-on-trumps-tariffs-as-soon-as-friday-heres-how-it-could-play-out-d99bbb79?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Nvidia is ramping up its work on driverless vehicle technology, a field dominated by Tesla and a few other players. But Musk doesn&#x2019;t see an imminent reason to worry.",
+      "summary_en": "One key will be whether the court&#x2019;s ruling is a clean decision, or if some IEEPA tariffs are permitted.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T23:29:00.000Z",
-      "headline": "Why Sandisk&#x2019;s stock just soared to its best day in 11 months",
-      "url": "https://www.marketwatch.com/story/why-sandisks-stock-is-soaring-toward-its-best-day-in-11-months-9f4a51c6?mod=mw_rss_topstories",
+      "ts": "2026-01-07T13:34:00.000Z",
+      "headline": "Warner Bros. tells shareholders that Larry Ellison&#x2019;s wealth isn&#x2019;t enough to best Netflix bid",
+      "url": "https://www.marketwatch.com/story/warner-bros-tells-shareholders-that-larry-ellisons-wealth-isnt-enough-to-best-netflix-bid-5a908bc1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Memory and storage stocks reigned supreme in 2025 and are leading the pack once again to start 2026.",
+      "summary_en": "Paramount&#x2019;s latest offer, backed by Ellison&#x2019;s personal fortune, remains inferior to Netflix&#x2019;s accepted proposal, Warner Bros. says, urging shareholders to reject the hostile bid.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T23:21:00.000Z",
-      "headline": "Strategy&#x2019;s stock is rising as investors get some much-needed good news",
-      "url": "https://www.marketwatch.com/story/strategys-stock-is-rising-as-investors-get-some-much-needed-good-news-971e0f9f?mod=mw_rss_topstories",
+      "ts": "2026-01-07T13:31:00.000Z",
+      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
+      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T13:25:00.000Z",
+      "headline": "U.S. jobs market not getting any worse &#x2014; and it might even be getting better. ADP says businesses add 41,000 jobs in December.",
+      "url": "https://www.marketwatch.com/story/businesses-add-41-000-jobs-in-december-adp-says-u-s-jobs-market-not-getting-any-worse-a2289435?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "ADP said businesses created 41,000 jobs in December, suggesting a weak U.S. labor market showed mild improvement heading into the new year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T13:15:00.000Z",
+      "headline": "AI won&#x2019;t pay off if employees can&#x2019;t do the work it demands",
+      "url": "https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "Strategy gets to stay in MSCI indexes for now &#x2014; though the index provider says it will launch a more general review of whether investment-oriented companies can keep their spots.",
+      "summary_en": "The U.S. urgently needs an education and workforce effort that can handle the significant changes stemming from AI.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-06T23:13:00.000Z",
-      "headline": "I&#x2019;m retired and selling my home after 35 years &#x2014; what&#x2019;s changed since the &#x2018;90s?",
-      "url": "https://www.marketwatch.com/story/planning-to-sell-your-home-in-retirement-do-these-tasks-first-ef5cb0b4?mod=mw_rss_topstories",
+      "ts": "2026-01-07T13:02:00.000Z",
+      "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
+      "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "Retirees need to learn a lot before undertaking the task. They are wise to begin long before listing their homes.",
+      "summary_en": "&#x201c;We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T12:55:00.000Z",
+      "headline": "The calm before the systemic reckoning. Here&#x2019;s what keeps one top economist awake at night.",
+      "url": "https://www.marketwatch.com/story/the-calm-before-the-systemic-reckoning-heres-what-keeps-one-top-economist-awake-at-night-4c925885?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Former central banker is alarmed by the prospect of runaway inflation and governments unable to sustain their debt. loads.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T13:24:00.000Z",
+      "headline": "The last bearish overhang for crude &#x2014; Venezuela &#x2014; is now gone. Why one trader says oil will follow in gold&#x2019;s footsteps.",
+      "url": "https://www.marketwatch.com/story/the-last-bearish-overhang-for-crude-venezuela-is-now-gone-why-one-trader-says-oil-will-follow-in-golds-footsteps-08050c63?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Energy bears had one last hope: a Venezuelan production ramp. That&#x2019;s over and the energy sector has never been cheaper, says Kevin Muir.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T13:12:00.000Z",
+      "headline": "GameStop follows Tesla&#x2019;s lead by tying its CEO&#x2019;s pay to these &#x2018;extraordinary growth&#x2019; targets",
+      "url": "https://www.marketwatch.com/story/gamestop-follows-teslas-lead-by-tying-its-ceos-pay-to-these-extraordinary-growth-targets-bceaccf1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "GameStop CEO Ryan Cohen would see a huge stock-options package if he can grow the company&#x2019;s market cap by about 1,000% and hit new profit targets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T13:00:00.000Z",
+      "headline": "5 easy 401(k) moves to make now to start building long-term wealth",
+      "url": "https://www.marketwatch.com/story/5-easy-401-k-moves-to-make-now-to-start-building-long-term-wealth-5d60cbf5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "By starting early, even with small contributions initially, 401(k) accounts can be a powerful tool for building long-term wealth.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -122,18 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T23:10:00.000Z",
-      "headline": "Why U.S. oil refiners could be the big winners in Venezuela &#x2014; even if its actual reserves disappoint",
-      "url": "https://www.marketwatch.com/story/why-u-s-oil-refiners-could-be-the-big-winners-in-venezuela-even-if-its-actual-reserves-disappoint-6a9a6b1a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Refiners in the U.S. have the distinctive ability to handle the type of heavy crude Venezuela claims to have in abundance.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
