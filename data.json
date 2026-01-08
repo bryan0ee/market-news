@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-01-07T23:30:13.274Z",
+  "last_updated": "2026-01-08T10:50:20.048Z",
   "items": [
+    {
+      "ts": "2026-01-08T10:16:00.000Z",
+      "headline": "My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?",
+      "url": "https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He did not intend to leave anything to his sister, his only living relative.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-08T10:03:00.000Z",
+      "headline": "Actor Mickey Rourke faces eviction for claim of $59,000 unpaid rent at L.A. home",
+      "url": "https://www.marketwatch.com/story/actor-mickey-rourke-faces-eviction-for-claim-of-59-000-unpaid-rent-at-l-a-home-3c0e3ceb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hollywood icon Mickey Rourke is facing eviction from his leased Los Angeles home after his landlord accused him of falling behind on nearly $60,000 in rent.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-08T09:22:00.000Z",
+      "headline": "Defense stocks rebound after Trump follows criticism with pledge to lift military budget by 50%",
+      "url": "https://www.marketwatch.com/story/defense-stocks-rebound-after-trump-follows-criticism-with-pledge-to-lift-military-budget-by-50-819b20ab?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Traders bemoan whipsaw action in the sector",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-08T10:22:00.000Z",
+      "headline": "I&#x2019;m 46 and I&#x2019;m still use my ex-boyfriend&#x2019;s Netflix account. Is that stealing?",
+      "url": "https://www.marketwatch.com/story/i-feel-dirty-i-still-use-my-ex-boyfriends-netflix-account-is-that-stealing-63724bec?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m still renting, believe it or not, and he has his own place.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-08T01:27:00.000Z",
+      "headline": "Lockheed and Northrop shares dive as Trump says he&#x2019;ll &#x2018;not permit&#x2019; dividends and buybacks in defense sector",
+      "url": "https://www.marketwatch.com/story/lockheed-and-northrop-shares-dive-as-trump-says-hell-not-permit-dividends-and-buybacks-in-defense-sector-14266ecb?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President targets executive pay as he calls for faster production and maintenance of military equipment",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-08T01:28:00.000Z",
+      "headline": "Why a weaker construction market has become a problem for Constellation Brands&#x2019; beer business",
+      "url": "https://www.marketwatch.com/story/why-a-weaker-construction-market-has-become-a-problem-for-constellation-brands-beer-business-9294b9fc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Corona maker Constellation Brands said that economic stress among its large segment of Hispanic consumers and a weaker construction market continued to weigh on beer demand.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-08T02:49:00.000Z",
+      "headline": "Are you too old to see a shrink? As loneliness soars among seniors, the question is more relevant than ever.",
+      "url": "https://www.marketwatch.com/story/are-you-too-old-to-see-a-therapist-as-loneliness-soars-among-seniors-the-question-is-more-relevant-than-ever-d85f9958?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Even people who are confident and resilient may struggle with anxiety, depression or grief.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-07T23:28:00.000Z",
       "headline": "Why Trump banning institutional investors like Blackstone from buying homes won&#x2019;t bring down housing costs, according to experts",
@@ -14,112 +98,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-07T22:11:00.000Z",
-      "headline": "These stocks are in play as Trump and China feud over Greenland",
-      "url": "https://www.marketwatch.com/story/trump-wants-greenland-so-does-china-heres-where-your-money-comes-in-9dd33724?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Greenland possesses 39 of the 50 minerals the United States has classified as critical to national security.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T22:04:00.000Z",
-      "headline": "AI investment won&#x2019;t pay off unless employees can do the work it demands",
-      "url": "https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "The U.S. urgently needs an education and workforce effort that can handle the significant changes stemming from AI.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T22:04:00.000Z",
-      "headline": "Here&#x2019;s how much oil Venezuela is producing and exporting, as the country&#x2019;s future hangs in the balance",
-      "url": "https://www.marketwatch.com/story/heres-how-much-oil-venezuela-is-producing-and-exporting-as-the-countrys-future-hangs-in-the-balance-9868b025?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A guide to what&#x2019;s happened with Venezuela&#x2019;s crude-oil production and exports since President Donald Trump ordered a blockade of sanctioned oil tankers linked to Venezuela.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T22:00:00.000Z",
-      "headline": "&#x2018;Women deserve an apology&#x2019;: For menopause, hormone therapy is now considered safe &#x2014; just in time for aging millennials",
-      "url": "https://www.marketwatch.com/story/women-deserve-an-apology-for-menopause-hormone-therapy-is-now-considered-safe-just-in-time-for-aging-millennials-27a38622?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The FDA no longer requires a safety warning on hormone-replacement therapies, at a time when more attention is being paid to perimenopause and menopause.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T22:00:00.000Z",
-      "headline": "Investors are waiting on Friday&#x2019;s jobs numbers. They should be more worried about this other labor report.",
-      "url": "https://www.marketwatch.com/story/investors-are-waiting-on-fridays-jobs-numbers-they-should-be-more-worried-about-this-productivity-report-a4b0436f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "AI-driven productivity gains are hindering the Fed&#x2019;s effort to juice the labor market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T21:58:00.000Z",
-      "headline": "This 100-year-old stock-market indicator just flashed a buy signal. Here&#x2019;s how investors should read it.",
-      "url": "https://www.marketwatch.com/story/this-100-year-old-stock-market-indicator-just-flashed-a-buy-signal-heres-how-investors-should-read-it-1a6b53ae?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A stock-market indicator that has been used by investment analysts for more than a century flashed a bullish signal this week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T21:37:00.000Z",
-      "headline": "Dow gets off to its best yearly start since 2018 despite Wednesday&#x2019;s 466-point drop",
-      "url": "https://www.marketwatch.com/story/dow-gets-off-to-its-best-yearly-start-since-2018-despite-wednesdays-466-point-drop-a0346e29?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Dow Jones Industrial Average is having its best start to any new year since 2018, bolstered by financial and industrial names like Goldman Sachs Group Inc. and Caterpillar Inc., despite pullbacks in the blue-chip index and both companies&#x2019; shares on Wednesday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T21:27:00.000Z",
-      "headline": "CNBC parent&#x2019;s stock is in turmoil: Versant shares pummeled for the third day in a row after Comcast spinoff",
-      "url": "https://www.marketwatch.com/story/cnbcs-stock-is-in-turmoil-versant-shares-pummeled-for-the-third-day-in-a-row-after-spinoff-4951830a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The new corporate home to the cable channels CNBC, MS Now and USA Network has started off losing 25% of its market value following separation from Comcast.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-07T23:13:00.000Z",
-      "headline": "Goldman Sachs&#x2019; Apple Card saga is finally coming to an end",
-      "url": "https://www.marketwatch.com/story/goldman-sachs-apple-card-saga-is-finally-coming-to-an-end-710244e4?mod=mw_rss_topstories",
+      "ts": "2026-01-08T02:14:00.000Z",
+      "headline": "Why is Intel&#x2019;s stock surging? Here&#x2019;s what Wall Street has to say.",
+      "url": "https://www.marketwatch.com/story/why-is-intels-stock-surging-heres-what-wall-street-has-to-say-248d4233?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "JPMorgan will take over the card program, which had been a major headache for Goldman.",
+      "summary_en": "As the AI trade broadens out, Intel&#x2019;s stock was leading the S&P 500&#x2019;s gainers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,6 +119,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-07T23:13:00.000Z",
+      "headline": "Goldman Sachs&#x2019; Apple Card saga is finally coming to an end",
+      "url": "https://www.marketwatch.com/story/goldman-sachs-apple-card-saga-is-finally-coming-to-an-end-710244e4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "JPMorgan will take over the card program, which had been a major headache for Goldman.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
