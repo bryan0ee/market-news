@@ -1,32 +1,104 @@
 {
-  "last_updated": "2026-01-09T13:40:20.302Z",
+  "last_updated": "2026-01-09T23:30:15.136Z",
   "items": [
     {
-      "ts": "2026-01-09T12:47:00.000Z",
-      "headline": "Trump deals blow to Fannie, Freddie privatization hopes. But there are other options that could lift the stocks.",
-      "url": "https://www.marketwatch.com/story/trump-deals-blow-to-fannie-freddie-privatization-hopes-but-there-are-other-options-that-could-lift-the-stocks-458e653a?mod=mw_rss_topstories",
+      "ts": "2026-01-09T22:07:00.000Z",
+      "headline": "Intel&#x2019;s stock soars anew &#x2014; but some say the recent momentum doesn&#x2019;t quite make sense",
+      "url": "https://www.marketwatch.com/story/intels-stock-soars-anew-but-some-say-the-recent-momentum-doesnt-quite-make-sense-3d64262d?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Intel shared encouraging updates around its PC-chip business this week, but any turnaround for the chip maker is still years away.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-09T23:06:00.000Z",
+      "headline": "My wife, 74, collects survivor benefits on her first husband. Can she now claim on her own Social Security record?",
+      "url": "https://www.marketwatch.com/story/my-wife-74-collects-survivor-benefits-on-her-first-husband-can-she-now-claim-on-her-own-social-security-record-66bc65c2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The directive of President Donald Trump for government-backed-mortgage giants Fannie Mae and Freddie Mac to buy $200 billion worth of mortgage securities would seemingly spell the end to the idea that the giants would go public again in massive initial public offerings.",
+      "summary_en": "&#x201c;My wife began receiving survivor benefits at age 60 from her deceased husband.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-09T11:48:00.000Z",
-      "headline": "Choppy quarter to come but stocks will take off afterwards, says this strategist",
-      "url": "https://www.marketwatch.com/story/choppy-quarter-to-come-but-stocks-will-take-off-afterwards-says-this-strategist-2d1db286?mod=mw_rss_topstories",
+      "ts": "2026-01-09T22:15:00.000Z",
+      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
+      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Darius Dale thinks there are at least two more rate cuts to come from the Fed but he&#x2019;s worried about bonds owing to the government&#x2019;s unsustainable deficit.",
+      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-09T11:21:00.000Z",
+      "ts": "2026-01-09T22:06:00.000Z",
+      "headline": "Trump&#x2019;s new prediction for &#x2018;massive wealth&#x2019; from Venezuelan oil may take a while to play out",
+      "url": "https://www.marketwatch.com/story/trump-says-big-oil-will-invest-100-billion-in-venezuela-as-chevon-exxon-come-to-the-white-house-today-heres-what-to-watch-5bbaccf4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump called on major U.S. energy companies, traders, refiners and others who met at the White House Friday to be part of his nation-building ambitions for Venezuela, with the future of that country&#x2019;s major asset, crude oil, at stake.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-09T21:54:00.000Z",
+      "headline": "My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?",
+      "url": "https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He did not intend to leave anything to his sister, his only living relative.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-09T21:51:00.000Z",
+      "headline": "Friday&#x2019;s stock-market rally reveals what investors are really focused on in 2026",
+      "url": "https://www.marketwatch.com/story/fridays-stock-market-rally-reveals-what-investors-are-really-focused-on-in-2026-53908635?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stocks pressed higher on Friday after the December jobs report helped quiet concerns about the state of the U.S. labor market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-09T21:16:00.000Z",
+      "headline": "Mortgage rates drop below 6% for the first time in 3 years as Trump official says purchases of mortgage bonds are starting",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-drop-below-6-for-the-first-time-in-3-years-as-trump-floats-purchase-of-mortgage-bonds-2636b0d7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The average rate on a 30-year fixed-rate mortgage fell to a near two-year low following Trump&#x2019;s announcement about mortgage bonds.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-09T21:08:00.000Z",
+      "headline": "Oracle and Amazon are AI &#x2018;loser&#x2019; stocks &#x2014; but here&#x2019;s why that&#x2019;s primed to change",
+      "url": "https://www.marketwatch.com/story/oracle-and-amazon-are-ai-loser-stocks-but-heres-why-thats-primed-to-change-68d87116?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Deutsche Bank named the two tech giants top stock picks for 2026 thanks to their massive AI infrastructure footprints and overlooked revenue streams.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-09T20:19:00.000Z",
       "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
       "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,76 +110,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-09T11:00:00.000Z",
-      "headline": "We paid my daughter and son-in-law&#x2019;s mortgage when it reached $76K. Here&#x2019;s why we chose that magic figure.",
-      "url": "https://www.marketwatch.com/story/we-paid-my-daughter-and-son-in-laws-mortgage-when-it-reached-76k-heres-why-we-chose-that-magic-figure-b81feccd?mod=mw_rss_topstories",
+      "ts": "2026-01-09T18:00:00.000Z",
+      "headline": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My husband, daughter, son-in-law and I all went to the bank.&#x201d;",
+      "summary_en": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-09T10:59:00.000Z",
-      "headline": "Rio Tinto may buy Glencore to form mining leader with copper prices near record",
-      "url": "https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "Rio Tinto may buy Glencore to create the biggest mining company, both companies said on Friday, in a deal that comes as metals prices have soared.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T13:37:00.000Z",
-      "headline": "The tech investment bubble is going to end &#x2014; and what comes next may be surprising, this strategist says",
-      "url": "https://www.marketwatch.com/story/the-tech-investment-bubble-is-going-to-end-and-what-comes-next-may-be-surprising-this-strategist-says-7123f21d?mod=mw_rss_topstories",
+      "ts": "2026-01-09T20:03:00.000Z",
+      "headline": "Oil rises 3% this week &#x2014; and not just because of Venezuela",
+      "url": "https://www.marketwatch.com/story/oil-rises-3-this-week-and-not-just-because-of-venezuela-3e2e63df?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "History suggests AI investment will falter in 2026, says BCA Counterpoint strategist. But the investment implications are notable.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T10:25:00.000Z",
-      "headline": "&#x2018;I&#x2019;m at a crossroads&#x2019;: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
-      "url": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Over the last year, my two retirement accounts averaged a 15% gain.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T13:15:00.000Z",
-      "headline": "Social Security crisis could leave U.S. retirees worse off than those in poorer countries like Ecuador and Poland",
-      "url": "https://www.marketwatch.com/story/social-security-crisis-could-leave-u-s-retirees-worse-off-than-those-in-poorer-countries-like-ecuador-and-poland-76a2deb8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Things are already hard for America&#x2019;s seniors. In less than a decade, they&#x2019;ll sink even further.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T10:10:00.000Z",
-      "headline": "&#x2018;It&#x2019;s been a struggle getting payments from her&#x2019;: I rent a house to our daughter. Do I just gift her the house?",
-      "url": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;She would be responsible for taxes and insurance, which should be manageable.&#x201d;",
+      "summary_en": "Control over Venezuela&#x2019;s oil has been in the spotlight all week, but developments in Iran are key to crude&#x2019;s latest rise.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -120,18 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T01:33:00.000Z",
-      "headline": "Trump wants purchase of $200 billion in mortgage bonds. What that means for mortgage rates.",
-      "url": "https://www.marketwatch.com/story/trump-suggests-his-representatives-will-buy-200-billion-in-mortgage-bonds-what-it-means-for-mortgage-rates-9524491d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Freddie and Fannie have been growing their mortgage bond holdings in recent months, but the 30-year fixed mortgage is still above 6%.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
