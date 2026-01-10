@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-01-10T10:44:58.169Z",
+  "last_updated": "2026-01-10T13:31:32.090Z",
   "items": [
+    {
+      "ts": "2026-01-10T13:00:00.000Z",
+      "headline": "&#x2018;There&#x2019;s nothing we can do&#x2019;: The Great Millennial Career Crisis has workers giving up on ever owning homes or paying off their student loans",
+      "url": "https://www.marketwatch.com/story/theres-nothing-we-can-do-the-great-millennial-career-crisis-has-workers-giving-up-on-ever-owning-homes-or-paying-off-their-student-loans-265b8de6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "What&#x2019;s happening with a generation feeling burned out by the &#x201c;broken promise&#x201d; of the American dream.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T12:21:00.000Z",
+      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
+      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T12:30:00.000Z",
+      "headline": "These 8 stocks could form the backbone of AI as chips get more powerful",
+      "url": "https://www.marketwatch.com/story/these-8-stocks-could-form-the-backbone-of-ai-as-chips-get-more-powerful-e0b87fe7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Beyond obvious AI plays like Nvidia, experts see opportunity in shares of infrastructure companies, some of which remain cheap.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T12:00:00.000Z",
+      "headline": "The real AI bubble may be in the private market",
+      "url": "https://www.marketwatch.com/story/the-real-ai-bubble-may-be-in-the-private-market-2aa25b85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "xAI, OpenAI and Anthropic have been rapidly raising more money, adding to the notion of &#x201c;aspirational&#x201d; valuations across the AI startup scene.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-10T04:40:00.000Z",
       "headline": "Trump says he&#x2019;ll cap credit-card interest rates at 10% as Americans battle soaring debt",
@@ -83,54 +131,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;He did not intend to leave anything to his sister, his only living relative.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T21:51:00.000Z",
-      "headline": "Friday&#x2019;s stock-market rally reveals what investors are really focused on in 2026",
-      "url": "https://www.marketwatch.com/story/fridays-stock-market-rally-reveals-what-investors-are-really-focused-on-in-2026-53908635?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "U.S. stocks pressed higher on Friday after the December jobs report helped quiet concerns about the state of the U.S. labor market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T21:16:00.000Z",
-      "headline": "Mortgage rates drop below 6% for the first time in 3 years as Trump official says purchases of mortgage bonds are starting",
-      "url": "https://www.marketwatch.com/story/mortgage-rates-drop-below-6-for-the-first-time-in-3-years-as-trump-floats-purchase-of-mortgage-bonds-2636b0d7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The average rate on a 30-year fixed-rate mortgage fell to a near two-year low following Trump&#x2019;s announcement about mortgage bonds.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T21:08:00.000Z",
-      "headline": "Oracle and Amazon are AI &#x2018;loser&#x2019; stocks &#x2014; but here&#x2019;s why that&#x2019;s primed to change",
-      "url": "https://www.marketwatch.com/story/oracle-and-amazon-are-ai-loser-stocks-but-heres-why-thats-primed-to-change-68d87116?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Deutsche Bank named the two tech giants top stock picks for 2026 thanks to their massive AI infrastructure footprints and overlooked revenue streams.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T20:19:00.000Z",
-      "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
-      "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
