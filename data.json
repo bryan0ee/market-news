@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-01-09T23:30:15.136Z",
+  "last_updated": "2026-01-10T10:44:58.169Z",
   "items": [
+    {
+      "ts": "2026-01-10T04:40:00.000Z",
+      "headline": "Trump says he&#x2019;ll cap credit-card interest rates at 10% as Americans battle soaring debt",
+      "url": "https://www.marketwatch.com/story/trump-says-hell-cap-credit-card-interest-rates-at-10-as-americans-battle-soaring-debt-79e23bec?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Carrying credit-card debt has become increasingly expensive over the past several years, but some warn that lower interest rates could reduce credit access.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-09T22:07:00.000Z",
       "headline": "Intel&#x2019;s stock soars anew &#x2014; but some say the recent momentum doesn&#x2019;t quite make sense",
@@ -11,6 +23,18 @@
         "ED"
       ],
       "summary_en": "Intel shared encouraging updates around its PC-chip business this week, but any turnaround for the chip maker is still years away.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-08T21:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,30 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T20:03:00.000Z",
-      "headline": "Oil rises 3% this week &#x2014; and not just because of Venezuela",
-      "url": "https://www.marketwatch.com/story/oil-rises-3-this-week-and-not-just-because-of-venezuela-3e2e63df?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Control over Venezuela&#x2019;s oil has been in the spotlight all week, but developments in Iran are key to crude&#x2019;s latest rise.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-08T21:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
