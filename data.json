@@ -1,20 +1,44 @@
 {
-  "last_updated": "2026-01-10T13:31:32.090Z",
+  "last_updated": "2026-01-10T23:29:06.035Z",
   "items": [
     {
-      "ts": "2026-01-10T13:00:00.000Z",
-      "headline": "&#x2018;There&#x2019;s nothing we can do&#x2019;: The Great Millennial Career Crisis has workers giving up on ever owning homes or paying off their student loans",
-      "url": "https://www.marketwatch.com/story/theres-nothing-we-can-do-the-great-millennial-career-crisis-has-workers-giving-up-on-ever-owning-homes-or-paying-off-their-student-loans-265b8de6?mod=mw_rss_topstories",
+      "ts": "2026-01-10T23:22:00.000Z",
+      "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
+      "url": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "What&#x2019;s happening with a generation feeling burned out by the &#x201c;broken promise&#x201d; of the American dream.",
+      "summary_en": "&#x201c;We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-10T12:21:00.000Z",
+      "ts": "2026-01-10T23:00:00.000Z",
+      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
+      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T21:30:00.000Z",
+      "headline": "&#x2018;I&#x2019;m at a crossroads&#x2019;: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
+      "url": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Over the last year, my two retirement accounts averaged a 15% gain.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T21:12:00.000Z",
       "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
       "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,51 +50,75 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-10T12:30:00.000Z",
-      "headline": "These 8 stocks could form the backbone of AI as chips get more powerful",
-      "url": "https://www.marketwatch.com/story/these-8-stocks-could-form-the-backbone-of-ai-as-chips-get-more-powerful-e0b87fe7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Beyond obvious AI plays like Nvidia, experts see opportunity in shares of infrastructure companies, some of which remain cheap.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-10T12:00:00.000Z",
-      "headline": "The real AI bubble may be in the private market",
-      "url": "https://www.marketwatch.com/story/the-real-ai-bubble-may-be-in-the-private-market-2aa25b85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "xAI, OpenAI and Anthropic have been rapidly raising more money, adding to the notion of &#x201c;aspirational&#x201d; valuations across the AI startup scene.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-10T04:40:00.000Z",
-      "headline": "Trump says he&#x2019;ll cap credit-card interest rates at 10% as Americans battle soaring debt",
-      "url": "https://www.marketwatch.com/story/trump-says-hell-cap-credit-card-interest-rates-at-10-as-americans-battle-soaring-debt-79e23bec?mod=mw_rss_topstories",
+      "ts": "2026-01-10T17:22:00.000Z",
+      "headline": "&#x2018;I&#x2019;m ready to walk away&#x2019;: I have $400K in retirement savings and want to quit my job of 30 years. Can I do it?",
+      "url": "https://www.marketwatch.com/story/im-ready-to-walk-away-i-have-400k-in-retirement-savings-and-want-to-quit-my-job-of-30-years-can-i-do-it-8c6ac8dd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Carrying credit-card debt has become increasingly expensive over the past several years, but some warn that lower interest rates could reduce credit access.",
+      "summary_en": "&#x201c;I really, really hate my job. I do work from home, but I&#x2019;m very burned out.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-09T22:07:00.000Z",
-      "headline": "Intel&#x2019;s stock soars anew &#x2014; but some say the recent momentum doesn&#x2019;t quite make sense",
-      "url": "https://www.marketwatch.com/story/intels-stock-soars-anew-but-some-say-the-recent-momentum-doesnt-quite-make-sense-3d64262d?mod=mw_rss_topstories",
+      "ts": "2026-01-10T17:22:00.000Z",
+      "headline": "My wife, 74, collects survivor benefits on her first husband. Can she now claim on her own Social Security record?",
+      "url": "https://www.marketwatch.com/story/my-wife-74-collects-survivor-benefits-on-her-first-husband-can-she-now-claim-on-her-own-social-security-record-66bc65c2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My wife began receiving survivor benefits at age 60 from her deceased husband.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T17:22:00.000Z",
+      "headline": "Are you too old to see a shrink? As loneliness soars among seniors, the question is more relevant than ever.",
+      "url": "https://www.marketwatch.com/story/are-you-too-old-to-see-a-therapist-as-loneliness-soars-among-seniors-the-question-is-more-relevant-than-ever-d85f9958?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Intel shared encouraging updates around its PC-chip business this week, but any turnaround for the chip maker is still years away.",
+      "summary_en": "Even people who are confident and resilient may struggle with anxiety, depression or grief.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T17:22:00.000Z",
+      "headline": "The eldercare crisis is about to get much worse as millions more Americans turn 85",
+      "url": "https://www.marketwatch.com/story/the-elder-care-crisis-is-about-to-get-much-worse-as-millions-more-americans-turn-85-3673e0bf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The &#x201c;silver tsunami&#x201d; is about to crest. Watch out for the undertow.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T17:22:00.000Z",
+      "headline": "Could &#x2018;Trump accounts&#x2019; make your kids millionaires? Maybe &#x2014; with this strategy.",
+      "url": "https://www.marketwatch.com/story/could-trump-accounts-make-your-kids-millionaires-maybe-with-this-strategy-8fc6fbbe?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The accounts, which are set to become available on July 5, are for children born between 2025 and 2028.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-10T17:22:00.000Z",
+      "headline": "The Social Security crisis could leave U.S. retirees worse off than those in poorer countries",
+      "url": "https://www.marketwatch.com/story/social-security-crisis-could-leave-u-s-retirees-worse-off-than-those-in-poorer-countries-like-ecuador-and-poland-76a2deb8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Things are already hard for America&#x2019;s seniors. In less than a decade, they&#x2019;ll sink even further.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -83,54 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T23:06:00.000Z",
-      "headline": "My wife, 74, collects survivor benefits on her first husband. Can she now claim on her own Social Security record?",
-      "url": "https://www.marketwatch.com/story/my-wife-74-collects-survivor-benefits-on-her-first-husband-can-she-now-claim-on-her-own-social-security-record-66bc65c2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My wife began receiving survivor benefits at age 60 from her deceased husband.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T22:15:00.000Z",
-      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
-      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T22:06:00.000Z",
-      "headline": "Trump&#x2019;s new prediction for &#x2018;massive wealth&#x2019; from Venezuelan oil may take a while to play out",
-      "url": "https://www.marketwatch.com/story/trump-says-big-oil-will-invest-100-billion-in-venezuela-as-chevon-exxon-come-to-the-white-house-today-heres-what-to-watch-5bbaccf4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump called on major U.S. energy companies, traders, refiners and others who met at the White House Friday to be part of his nation-building ambitions for Venezuela, with the future of that country&#x2019;s major asset, crude oil, at stake.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T21:54:00.000Z",
-      "headline": "My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?",
-      "url": "https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He did not intend to leave anything to his sister, his only living relative.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
