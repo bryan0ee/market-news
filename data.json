@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-01-11T10:45:31.304Z",
+  "last_updated": "2026-01-11T13:32:16.819Z",
   "items": [
+    {
+      "ts": "2026-01-11T11:28:00.000Z",
+      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
+      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-11T11:27:00.000Z",
+      "headline": "&#x2018;I&#x2019;m at a crossroads&#x2019;: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
+      "url": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Over the last year, my two retirement accounts averaged a 15% gain.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-11T11:25:00.000Z",
+      "headline": "&#x2018;It&#x2019;s been a struggle getting payments from her&#x2019;: I rent a house to our daughter. Do I just gift her the house?",
+      "url": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;She would be responsible for taxes and insurance, which should be manageable.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-08T21:00:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
@@ -38,30 +74,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-10T21:30:00.000Z",
-      "headline": "&#x2018;I&#x2019;m at a crossroads&#x2019;: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
-      "url": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Over the last year, my two retirement accounts averaged a 15% gain.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-10T21:12:00.000Z",
-      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
-      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-10T17:22:00.000Z",
       "headline": "&#x2018;I&#x2019;m ready to walk away&#x2019;: I have $400K in retirement savings and want to quit my job of 30 years. Can I do it?",
       "url": "https://www.marketwatch.com/story/im-ready-to-walk-away-i-have-400k-in-retirement-savings-and-want-to-quit-my-job-of-30-years-can-i-do-it-8c6ac8dd?mod=mw_rss_topstories",
@@ -71,18 +83,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;I really, really hate my job. I do work from home, but I&#x2019;m very burned out.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-10T17:22:00.000Z",
-      "headline": "My wife, 74, collects survivor benefits on her first husband. Can she now claim on her own Social Security record?",
-      "url": "https://www.marketwatch.com/story/my-wife-74-collects-survivor-benefits-on-her-first-husband-can-she-now-claim-on-her-own-social-security-record-66bc65c2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My wife began receiving survivor benefits at age 60 from her deceased husband.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
