@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-01-10T23:29:06.035Z",
+  "last_updated": "2026-01-11T10:45:31.304Z",
   "items": [
+    {
+      "ts": "2026-01-08T21:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-10T23:22:00.000Z",
       "headline": "&#x2018;He even bragged about his Mercedes-Benz:&#x2019; I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
@@ -74,6 +86,30 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2026-01-09T18:00:00.000Z",
+      "headline": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-06T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2026-01-10T17:22:00.000Z",
       "headline": "Are you too old to see a shrink? As loneliness soars among seniors, the question is more relevant than ever.",
       "url": "https://www.marketwatch.com/story/are-you-too-old-to-see-a-therapist-as-loneliness-soars-among-seniors-the-question-is-more-relevant-than-ever-d85f9958?mod=mw_rss_topstories",
@@ -119,42 +155,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Things are already hard for America&#x2019;s seniors. In less than a decade, they&#x2019;ll sink even further.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-08T21:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T18:00:00.000Z",
-      "headline": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
