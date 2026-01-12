@@ -1,56 +1,45 @@
 {
-  "last_updated": "2026-01-12T13:45:22.497Z",
+  "last_updated": "2026-01-12T23:26:19.476Z",
   "items": [
     {
-      "ts": "2026-01-12T12:54:00.000Z",
-      "headline": "Why the market is now more sensitive to the latest battle between Jerome Powell and President Trump",
-      "url": "https://www.marketwatch.com/story/why-the-market-is-now-more-sensitive-to-the-latest-battle-between-jerome-powell-and-president-trump-ae27b35c?mod=mw_rss_topstories",
+      "ts": "2026-01-12T21:54:00.000Z",
+      "headline": "Why the Dow, S&P 500 just closed at record highs despite Trump&#x2019;s new pressure campaign against Fed&#x2019;s Powell",
+      "url": "https://www.marketwatch.com/story/heres-whats-at-stake-for-investors-as-trump-opens-a-new-pressure-campaign-against-feds-powell-a8e740cd?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "META"
+        "ED"
       ],
-      "summary_en": "Precious metal prices surge as conflict intensifies",
+      "summary_en": "The &#x201c;sell America&#x201d; trade may be more about hedging America, one analyst said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T12:20:00.000Z",
-      "headline": "Credit-card stocks are sliding, but Trump&#x2019;s plan for a 10% rate cap isn&#x2019;t a done deal",
-      "url": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
+      "ts": "2026-01-12T22:47:00.000Z",
+      "headline": "BlackRock&#x2019;s Rieder repeats his view that Fed needs to bring interest rates down to 3%",
+      "url": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "A 10% cap on interest rates could mean a big hit to earnings at companies like Capital One and Synchrony. But a Jefferies analyst says it&#x2019;s &#x201c;highly unlikely&#x201d; that Trump gets his way.",
+      "summary_en": "&#x201c;The Fed has got to get the rate down to 3% &#x2014; I think that is closer to equilibrium,&#x201d; BlackRock&#x2019;s chief investment officer of global fixed income said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T11:33:00.000Z",
-      "headline": "&#x2018;We track our finances religiously&#x2019;: Are we obliged to pay for our daughter&#x2019;s medical school? We have $2.6 million saved for retirement.",
-      "url": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
+      "ts": "2026-01-12T22:29:00.000Z",
+      "headline": "PGA Tour to welcome back some LIV golfers. But they will have to pay a big price.",
+      "url": "https://www.marketwatch.com/story/pga-tour-to-welcome-back-some-liv-golfers-but-they-will-have-to-pay-a-big-price-e59e7ccb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "PG"
       ],
-      "summary_en": "&#x201c;I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.&#x201d;",
+      "summary_en": "Brooks Koepka is set to rejoin the PGA Tour after years at LIV Golf. But his return won&#x2019;t come cheap.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T13:19:00.000Z",
-      "headline": "Is Walmart now a tech company? Stock surges after AI moves, Nasdaq-100 inclusion.",
-      "url": "https://www.marketwatch.com/story/is-walmart-now-a-tech-company-stock-surges-after-ai-moves-nasdaq-100-inclusion-cb8b7ce1?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Walmart&#x2019;s focus on technology to drive sales helps lift its stock into record territory.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-12T11:00:00.000Z",
+      "ts": "2026-01-12T22:19:00.000Z",
       "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
       "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,63 +51,89 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T10:54:00.000Z",
-      "headline": "&#x2018;I&#x2019;m on a fixed budget&#x2019;: Silver and gold are too rich for my blood. What else can I gift my adorable grandchildren?",
-      "url": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
+      "ts": "2026-01-12T22:05:00.000Z",
+      "headline": "&#x2018;I still have a mortgage&#x2019;: I&#x2019;m no longer confident that my costs will actually fall in retirement. What can I do?",
+      "url": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED",
+        "COST"
+      ],
+      "summary_en": "&#x201c;I think my withdrawals from my 401(k) and IRA may need to be larger than my current take-home pay.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T21:43:00.000Z",
+      "headline": "Why Abercrombie&#x2019;s stock took a dive after just a slight tweak to the earnings outlook",
+      "url": "https://www.marketwatch.com/story/why-abercrombies-stock-took-a-dive-after-just-a-slight-tweak-to-the-earnings-outlook-a677c59d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;ve already listed them as beneficiaries on my 401(k).&#x201d;",
+      "summary_en": "Abercrombie & Fitch&#x2019;s stock gets punished for a slight tweak in its sales growth outlook, just after it logged its best two-month gain in 25 years.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T10:40:00.000Z",
-      "headline": "&#x2018;I&#x2019;m at a crossroads&#x2019;: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
-      "url": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Over the last year, my two retirement accounts averaged a 15% gain.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-12T12:39:00.000Z",
-      "headline": "As big banks kick off earnings season, these are the critical numbers to watch",
-      "url": "https://www.marketwatch.com/story/as-big-banks-kick-off-earnings-season-these-are-the-critical-numbers-to-watch-04147bcf?mod=mw_rss_topstories",
+      "ts": "2026-01-12T23:02:00.000Z",
+      "headline": "Why oil prices could rise as U.S.-Iran tensions swell",
+      "url": "https://www.marketwatch.com/story/why-oil-prices-could-rise-as-u-s-iran-tensions-swell-ee893694?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Expectations are building for the largest U.S. banks to set higher performance targets as regulators take a lighter approach to industry supervision.",
+      "summary_en": "The Strait of Hormuz, a critical chokepoint for global oil markets, is back in focus for oil traders",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T10:15:00.000Z",
-      "headline": "&#x2018;I would like to quit working&#x2019;: I&#x2019;m 65. My son wants to live in my second home for less than the market rent. Do I say yes?",
+      "ts": "2026-01-12T20:00:00.000Z",
+      "headline": "Agencies issue 2025 Shared National Credit Program report",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T22:35:00.000Z",
+      "headline": "Microsoft, Oracle and ServiceNow could be the top stocks to play a software comeback",
+      "url": "https://www.marketwatch.com/story/microsoft-oracle-and-servicenow-could-be-the-top-stocks-to-play-a-software-comeback-eec473e0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Analysts believe these high-profile stocks at the intersection of software and infrastructure are in a good spot to monetize the coming wave of AI adoption.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T21:59:00.000Z",
+      "headline": "&#x2018;I will soon turn 65&#x2019;: My son wants to live in my investment property for less than market rent. Do I say yes?",
       "url": "https://www.marketwatch.com/story/i-would-like-to-quit-working-im-65-my-son-wants-to-live-in-my-second-home-for-less-than-the-market-rent-do-i-say-yes-4182adee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Our son would like to stay there and start a family.&#x201d;",
+      "summary_en": "&#x201c;I would like to quit working.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T10:02:00.000Z",
-      "headline": "Here&#x2019;s your chance to rent tennis champ Novak Djokovic&#x2019;s luxury penthouse in Serbia",
-      "url": "https://www.marketwatch.com/story/heres-your-chance-to-rent-tennis-champ-novak-djokovics-luxury-penthouse-in-serbia-3f40bca7?mod=mw_rss_topstories",
+      "ts": "2026-01-12T21:38:00.000Z",
+      "headline": "Trade Desk&#x2019;s stock has never been this cheap, and its brutal selloff might finally be over",
+      "url": "https://www.marketwatch.com/story/trade-desks-stock-has-never-been-this-cheap-and-its-brutal-selloff-might-finally-be-over-d33f1aa6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Tennis fans can now lounge at&#xa0;Novak Djokovic&#x2019;s sprawling Serbian retirement home for an eye-watering sum of $17,542 a night.",
+      "summary_en": "An analyst is ending his bearish call on the ad-tech stock, which was the biggest S&P 500 loser of 2025.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
