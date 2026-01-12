@@ -1,92 +1,8 @@
 {
-  "last_updated": "2026-01-11T23:29:16.637Z",
+  "last_updated": "2026-01-12T10:51:16.445Z",
   "items": [
     {
-      "ts": "2026-01-11T23:20:00.000Z",
-      "headline": "U.S. stock futures dip ahead of a busy week on Wall Street",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "With earnings season about to kick off, U.S. stock futures slipped Sunday, after the Dow and S&P 500 closed Friday at record highs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-11T21:04:00.000Z",
-      "headline": "We paid my daughter and son-in-law&#x2019;s mortgage when it reached $76K. Here&#x2019;s why we chose that magic figure.",
-      "url": "https://www.marketwatch.com/story/we-paid-my-daughter-and-son-in-laws-mortgage-when-it-reached-76k-heres-why-we-chose-that-magic-figure-b81feccd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My husband, daughter, son-in-law and I all went to the bank.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-11T21:01:00.000Z",
-      "headline": "Stocks are signaling that another commodities &#x2018;supercycle&#x2019; is afoot in 2026",
-      "url": "https://www.marketwatch.com/story/stocks-are-signaling-that-another-commodities-supercycle-is-afoot-in-2026-5e697dc6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Parts of the financial market linked to hard assets and tangible items appear to be settling into what could become a prolonged boom.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-11T20:05:00.000Z",
-      "headline": "Why investors shouldn&#x2019;t panic yet about Trump&#x2019;s credit-card rate-cap proposal",
-      "url": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "On the surface, a 10% cap on APRs could mean a big hit to credit-card companies&#x2019; earnings. But a Jefferies analyst thinks it&#x2019;s &#x201c;highly unlikely&#x201d; that Trump gets his way.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-11T19:28:00.000Z",
-      "headline": "I&#x2019;m afraid my financial adviser will steal my money. I&#x2019;ve read too many cautionary tales. How can I be sure?",
-      "url": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am 66 years old and have been retired for about a year and a half.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-11T19:28:00.000Z",
-      "headline": "&#x2018;I have absolutely no idea what to do&#x2019;: I was diagnosed with Alzheimer&#x2019;s disease and inherited $400K. How do I invest it?",
-      "url": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m retired and 72.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-11T22:19:00.000Z",
-      "headline": "Allegiant to buy rival budget airline Sun Country for around $1.5 billion",
-      "url": "https://www.marketwatch.com/story/allegiant-to-buy-rival-budget-airline-sun-country-for-around-1-5-billion-d88bfc54?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Budget air carriers Allegiant and Sun Country Airlines will merge, the companies said Sunday, the latest move toward consolidation in a heavily competitive industry.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-11T17:01:00.000Z",
+      "ts": "2026-01-12T10:40:00.000Z",
       "headline": "&#x2018;I&#x2019;m at a crossroads&#x2019;: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
       "url": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,27 +14,88 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-11T16:57:00.000Z",
-      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
-      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
+      "ts": "2026-01-12T10:03:00.000Z",
+      "headline": "Credit-card stocks are slumping. But analysts say a 10% rate cap is far from a done deal.",
+      "url": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
+      "summary_en": "A 10% cap on interest rates could mean a big hit to card companies&#x2019; earnings. But a Jefferies analyst says it&#x2019;s &#x201c;highly unlikely&#x201d; that Trump gets his way.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-11T16:57:00.000Z",
-      "headline": "I&#x2019;m 46 and I&#x2019;m still use my ex-boyfriend&#x2019;s Netflix account. Is that stealing?",
-      "url": "https://www.marketwatch.com/story/i-feel-dirty-i-still-use-my-ex-boyfriends-netflix-account-is-that-stealing-63724bec?mod=mw_rss_topstories",
+      "ts": "2026-01-12T10:01:00.000Z",
+      "headline": "Singer Lily Allen and &#x2018;Stranger Things&#x2019; star David Harbour cut price of Brooklyn townhouse amid split",
+      "url": "https://www.marketwatch.com/story/singer-lily-allen-and-stranger-things-star-david-harbour-cut-price-of-brooklyn-townhouse-amid-split-f6bce4b5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Lily Allen and actor David Harbour have cut $695,000 from the price of their Brooklyn townhouse&#x2014;just over 2 months after the estranged couple listed it amid their acrimonious divorce.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T10:15:00.000Z",
+      "headline": "&#x2018;I would like to quit working&#x2019;: I&#x2019;m 65. My son wants to live in my second home for less than the market rent. Do I say yes?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-quit-working-im-65-my-son-wants-to-live-in-my-second-home-for-less-than-the-market-rent-do-i-say-yes-4182adee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I&#x2019;m still renting, believe it or not, and he has his own place.&#x201d;",
+      "summary_en": "&#x201c;Our son would like to stay there and start a family.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T10:02:00.000Z",
+      "headline": "Here&#x2019;s your chance to rent tennis champ Novak Djokovic&#x2019;s luxury penthouse in Serbia",
+      "url": "https://www.marketwatch.com/story/heres-your-chance-to-rent-tennis-champ-novak-djokovics-luxury-penthouse-in-serbia-3f40bca7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Tennis fans can now lounge at&#xa0;Novak Djokovic&#x2019;s sprawling Serbian retirement home for an eye-watering sum of $17,542 a night.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T04:02:00.000Z",
+      "headline": "U.S. stock futures sink after Powell accuses Trump of intimidation over DOJ probe",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "With earnings season about to kick off, U.S. stock futures slipped Sunday, after the Dow and S&P 500 closed Friday at record highs.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T03:59:00.000Z",
+      "headline": "Trump says he&#x2019;s &#x2018;inclined to keep Exxon out&#x2019; of Venezuela after CEO&#x2019;s skepticism",
+      "url": "https://www.marketwatch.com/story/trump-says-hes-inclined-to-keep-exxon-out-of-venezuela-after-ceos-skepticism-358d841c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump on Sunday threatened to exclude Exxon Mobil from any oil deals in Venezuela, after the oil giant apparently didn&#x2019;t display enough enthusiasm during a Friday meeting at the White House.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T02:30:00.000Z",
+      "headline": "Powell says criminal investigation by Trump&#x2019;s Justice Department threatens Fed&#x2019;s independence",
+      "url": "https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "The Justice Department served the Federal Reserve with grand jury subpoenas on Friday, Fed Chair Jerome Powell said Sunday, threatening an &#x201c;unprecedented&#x201d; criminal indictment against him over cost overruns for the renovation of the Fed&#x2019;s headquarters building.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,6 +108,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T02:42:00.000Z",
+      "headline": "Apple&#x2019;s stock can climb 35% this year &#x2014; if these four scenarios play out",
+      "url": "https://www.marketwatch.com/story/apples-stock-can-climb-35-this-year-if-these-four-scenarios-play-out-76137826?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The biggest bull on Apple&#x2019;s stock is looking for the company to address its &#x201c;invisible AI strategy&#x2019; and keep Tim Cook around as CEO for this transformative period.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,6 +144,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-11T22:19:00.000Z",
+      "headline": "Allegiant to buy rival budget airline Sun Country for around $1.5 billion",
+      "url": "https://www.marketwatch.com/story/allegiant-to-buy-rival-budget-airline-sun-country-for-around-1-5-billion-d88bfc54?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Budget air carriers Allegiant and Sun Country Airlines will merge, the companies said Sunday, the latest move toward consolidation in a heavily competitive industry.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
