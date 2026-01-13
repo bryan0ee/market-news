@@ -1,57 +1,32 @@
 {
-  "last_updated": "2026-01-12T23:26:19.476Z",
+  "last_updated": "2026-01-13T10:50:37.786Z",
   "items": [
     {
-      "ts": "2026-01-12T21:54:00.000Z",
-      "headline": "Why the Dow, S&P 500 just closed at record highs despite Trump&#x2019;s new pressure campaign against Fed&#x2019;s Powell",
-      "url": "https://www.marketwatch.com/story/heres-whats-at-stake-for-investors-as-trump-opens-a-new-pressure-campaign-against-feds-powell-a8e740cd?mod=mw_rss_topstories",
+      "ts": "2026-01-13T09:56:00.000Z",
+      "headline": "The memory-chip price surge claims another victim, and the stock drops 8%.",
+      "url": "https://www.marketwatch.com/story/the-memory-chip-price-surge-claims-another-victim-and-the-stock-drops-8-19dbbda0?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The &#x201c;sell America&#x201d; trade may be more about hedging America, one analyst said.",
+      "summary_en": "Raspberry Pi, a maker of specialist and hobbyist computers, warned Tuesday that the memory-chip price surge will hit profits this year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T22:47:00.000Z",
-      "headline": "BlackRock&#x2019;s Rieder repeats his view that Fed needs to bring interest rates down to 3%",
-      "url": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;The Fed has got to get the rate down to 3% &#x2014; I think that is closer to equilibrium,&#x201d; BlackRock&#x2019;s chief investment officer of global fixed income said.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-12T22:29:00.000Z",
-      "headline": "PGA Tour to welcome back some LIV golfers. But they will have to pay a big price.",
-      "url": "https://www.marketwatch.com/story/pga-tour-to-welcome-back-some-liv-golfers-but-they-will-have-to-pay-a-big-price-e59e7ccb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "PG"
-      ],
-      "summary_en": "Brooks Koepka is set to rejoin the PGA Tour after years at LIV Golf. But his return won&#x2019;t come cheap.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-12T22:19:00.000Z",
-      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
-      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
+      "ts": "2026-01-13T10:04:00.000Z",
+      "headline": "Jeff Bridges lists empty Malibu lot for $4.4 million where family home burned down in wildfire",
+      "url": "https://www.marketwatch.com/story/jeff-bridges-lists-empty-malibu-lot-for-4-4-million-where-family-home-burned-down-in-wildfire-ed64f753?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
+      "summary_en": "Acting icon Jeff Bridges has put his family&#x2019;s longtime Malibu, Calif., property on the market&#x2014;after the home that once stood on the now-bare parcel of land was decimated in the 2025 California wildfires.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T22:05:00.000Z",
+      "ts": "2026-01-13T10:01:00.000Z",
       "headline": "&#x2018;I still have a mortgage&#x2019;: I&#x2019;m no longer confident that my costs will actually fall in retirement. What can I do?",
       "url": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -65,55 +40,55 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T21:43:00.000Z",
-      "headline": "Why Abercrombie&#x2019;s stock took a dive after just a slight tweak to the earnings outlook",
-      "url": "https://www.marketwatch.com/story/why-abercrombies-stock-took-a-dive-after-just-a-slight-tweak-to-the-earnings-outlook-a677c59d?mod=mw_rss_topstories",
+      "ts": "2026-01-13T09:58:00.000Z",
+      "headline": "Ellen DeGeneres jumps back into U.S. real estate, buying a $27.4 SoCal mansion",
+      "url": "https://www.marketwatch.com/story/ellen-degeneres-jumps-back-into-u-s-real-estate-buying-a-27-4-socal-mansion-9825799c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Abercrombie & Fitch&#x2019;s stock gets punished for a slight tweak in its sales growth outlook, just after it logged its best two-month gain in 25 years.",
+      "summary_en": "Comedian&#xa0;Ellen DeGeneres has thrown herself back into the U.S. housing market, snapping up a stunning&#xa0;Montecito&#xa0;mansion for $27.4 million in an off-market deal.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T23:02:00.000Z",
-      "headline": "Why oil prices could rise as U.S.-Iran tensions swell",
-      "url": "https://www.marketwatch.com/story/why-oil-prices-could-rise-as-u-s-iran-tensions-swell-ee893694?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-01-13T08:07:00.000Z",
+      "headline": "This contrarian strategist says Trump is predictable and the Fed was never independent as he makes these bold calls",
+      "url": "https://www.marketwatch.com/story/this-contrarian-strategist-says-trump-is-predictable-and-the-fed-was-never-independent-as-he-makes-these-bold-calls-858b54f9?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "The Strait of Hormuz, a critical chokepoint for global oil markets, is back in focus for oil traders",
+      "summary_en": "The main bets Marko Papic makes for 2026 are a boom in U.S. housing, European equities, a weaker dollar and a surge in industrial commodities.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T20:00:00.000Z",
-      "headline": "Agencies issue 2025 Shared National Credit Program report",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
+      "ts": "2026-01-13T08:19:00.000Z",
+      "headline": "Where one of Trump&#x2019;s candidates to be Fed chair wants to take interest rates",
+      "url": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
+      "summary_en": "&#x201c;The Fed has got to get the rate down to 3% &#x2014; I think that is closer to equilibrium,&#x201d; BlackRock&#x2019;s chief investment officer of global fixed income said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T22:35:00.000Z",
-      "headline": "Microsoft, Oracle and ServiceNow could be the top stocks to play a software comeback",
-      "url": "https://www.marketwatch.com/story/microsoft-oracle-and-servicenow-could-be-the-top-stocks-to-play-a-software-comeback-eec473e0?mod=mw_rss_topstories",
+      "ts": "2026-01-13T10:37:00.000Z",
+      "headline": "&#x2018;I have an economics degree from a fantastic university&#x2019;: I&#x2019;m 71 with $3 million and earn $250K. Is it time to retire?",
+      "url": "https://www.marketwatch.com/story/i-have-an-economics-degree-from-a-fantastic-university-im-71-with-3-million-and-earn-250k-is-it-time-to-retire-05a9aa37?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Analysts believe these high-profile stocks at the intersection of software and infrastructure are in a good spot to monetize the coming wave of AI adoption.",
+      "summary_en": "&#x201c;I have a home worth $1.2 million and owe $300,000 at 3% interest.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-12T21:59:00.000Z",
+      "ts": "2026-01-13T10:00:00.000Z",
       "headline": "&#x2018;I will soon turn 65&#x2019;: My son wants to live in my investment property for less than market rent. Do I say yes?",
       "url": "https://www.marketwatch.com/story/i-would-like-to-quit-working-im-65-my-son-wants-to-live-in-my-second-home-for-less-than-the-market-rent-do-i-say-yes-4182adee?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -122,18 +97,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I would like to quit working.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-12T21:38:00.000Z",
-      "headline": "Trade Desk&#x2019;s stock has never been this cheap, and its brutal selloff might finally be over",
-      "url": "https://www.marketwatch.com/story/trade-desks-stock-has-never-been-this-cheap-and-its-brutal-selloff-might-finally-be-over-d33f1aa6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "An analyst is ending his bearish call on the ad-tech stock, which was the biggest S&P 500 loser of 2025.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -146,6 +109,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T23:36:00.000Z",
+      "headline": "Show us the math: Paramount sues Warner Bros. over how it determined Netflix&#x2019;s bid is better",
+      "url": "https://www.marketwatch.com/story/show-us-the-math-paramount-sues-warner-bros-over-how-it-determined-netflixs-bid-is-better-a023e3d5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Paramount says it is suing Warner Bros. Discovery and filing a competing slate of directors in an effort to get the Warner board to take its offer to acquire the company seriously.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T20:00:00.000Z",
+      "headline": "Agencies issue 2025 Shared National Credit Program report",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -170,6 +157,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T00:48:00.000Z",
+      "headline": "Why oil prices could rise as U.S.-Iran tensions swell",
+      "url": "https://www.marketwatch.com/story/why-oil-prices-could-rise-as-u-s-iran-tensions-swell-ee893694?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The Strait of Hormuz, a critical chokepoint for global oil markets, is back in focus for oil traders",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
