@@ -1,44 +1,56 @@
 {
-  "last_updated": "2026-01-13T13:43:49.064Z",
+  "last_updated": "2026-01-13T23:29:01.596Z",
   "items": [
     {
-      "ts": "2026-01-13T13:36:00.000Z",
-      "headline": "JPMorgan&#x2019;s CFO warns on credit-card rate proposal as earnings top expectations",
-      "url": "https://www.marketwatch.com/story/jamie-dimon-says-u-s-economy-is-resilient-as-jpmorgan-chase-earnings-beat-expectations-42de467a?mod=mw_rss_topstories",
+      "ts": "2026-01-13T22:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "JPMorgan Chase on Tuesday marked the unofficial beginning to fourth-quarter earnings season with forecasting-beating results.",
+      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T13:12:00.000Z",
-      "headline": "The Supreme Court may rule Wednesday on Trump&#x2019;s tariffs. But here&#x2019;s what it means if it holds off again.",
-      "url": "https://www.marketwatch.com/story/the-supreme-court-may-rule-wednesday-on-trumps-tariffs-but-heres-what-it-means-if-they-hold-off-again-a16d44e8?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2026-01-13T23:18:00.000Z",
+      "headline": "From coffee to electricity, latest CPI report shows where inflation is hitting the middle class the most",
+      "url": "https://www.marketwatch.com/story/from-coffee-to-electricity-latest-cpi-report-shows-where-inflation-is-hitting-the-middle-class-the-most-5544820f?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
-        "ED"
+        "COST"
       ],
-      "summary_en": "The Supreme Court has indicated it may release opinions on Wednesday, sparking fresh speculation that its ruling in a crucial tariff case is coming. But analysts are emphasizing the justices could keep holding off on releasing their decision.",
+      "summary_en": "Cost of living rose in December, and these households are feeling the pinch",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T13:25:00.000Z",
-      "headline": "American stocks underperformed last year. Deutsche Bank says it could happen again.",
-      "url": "https://www.marketwatch.com/story/american-stocks-underperformed-last-year-deutsche-bank-says-it-could-happen-again-dfe0705b?mod=mw_rss_topstories",
+      "ts": "2026-01-13T22:41:00.000Z",
+      "headline": "&#x2018;I&#x2019;m at a crossroads&#x2019;: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
+      "url": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "All the risks are sitting in U.S. stocks, which is why investors should be considering some diversification toward Europe, argues Deutsche Bank.",
+      "summary_en": "&#x201c;Over the last year, my two retirement accounts averaged a 15% gain.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T13:21:00.000Z",
+      "ts": "2026-01-13T22:32:00.000Z",
+      "headline": "Netflix reportedly looking to solidify its bid for Warner Bros. with all-cash offer",
+      "url": "https://www.marketwatch.com/story/netflix-reportedly-looking-to-solidify-its-bid-for-warner-bros-with-all-cash-offer-2e9cd864?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The streaming giant is reportedly mulling whether to amend its already-accepted offer to an all-cash bid to remove a partial stock component that has declined in value since its initial proposal was agreed upon.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T22:14:00.000Z",
       "headline": "The airplane orders keep coming, and Boeing&#x2019;s stock climbs to a two-year high",
       "url": "https://www.marketwatch.com/story/the-airplane-orders-keep-coming-and-boeings-stock-climbs-to-a-two-year-high-d6ca170a?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,44 +62,33 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T12:19:00.000Z",
-      "headline": "U.S. court allows a wind farm project to restart after Trump administration block, and a Danish stock surges",
-      "url": "https://www.marketwatch.com/story/u-s-court-allows-a-wind-farm-project-to-restart-after-trump-administration-block-and-a-danish-stock-surges-33348454?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2026-01-13T22:10:00.000Z",
+      "headline": "Why Visa and Mastercard are seeing their sharpest stock drops in half a year",
+      "url": "https://www.marketwatch.com/story/why-visa-and-mastercard-are-seeing-their-sharpest-stock-drops-in-half-a-year-69fc0c5b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "Although the news afford Orsted shares some relief at this stage, securing future investment for other projects is problematic owing to the regulatory environment.",
+      "summary_en": "Investors seem jittery about President Donald Trump&#x2019;s support of a measure that would require a lower-cost alternative for credit-card routing.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T13:10:00.000Z",
-      "headline": "These stocks are steady-eddies if S&P 500 earnings growth slips and the market slides",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories",
+      "ts": "2026-01-13T22:01:00.000Z",
+      "headline": "Exxon Mobil&#x2019;s stock hits a new high. Its CEO&#x2019;s call on Venezuela may be helping.",
+      "url": "https://www.marketwatch.com/story/exxon-mobils-stock-hits-a-new-high-its-ceos-call-on-venezuela-may-be-helping-5a8d9810?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "20 low P/E stocks that should resist a market downturn.",
+      "summary_en": "President Donald Trump has threatened to cut Exxon Mobil out of oil deals in Venezuela, but that hasn&#x2019;t derailed the rally in the energy giant&#x2019;s shares.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T12:04:00.000Z",
-      "headline": "Delta&#x2019;s stock takes a hit as revenue missed expectations in wake of shutdown",
-      "url": "https://www.marketwatch.com/story/deltas-stock-takes-a-hit-as-revenue-falls-more-than-feared-in-wake-of-shutdown-498ed77c?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Delta Air Lines reported fourth-quarter profit that topped expectations, but the stock fell as adjusted revenue fell short.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T12:45:00.000Z",
-      "headline": "How Trump&#x2019;s attacks on Powell and the Fed could actually bring more inflation",
+      "ts": "2026-01-13T21:58:00.000Z",
+      "headline": "The Fed&#x2019;s failures set the stage for the Trump-Powell turmoil. Here&#x2019;s one solution.",
       "url": "https://www.marketwatch.com/story/how-trumps-attacks-on-powell-and-the-fed-could-actually-bring-more-inflation-16e1e839?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 3,
@@ -98,27 +99,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T12:09:00.000Z",
-      "headline": "My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?",
-      "url": "https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories",
+      "ts": "2026-01-13T21:53:00.000Z",
+      "headline": "&#x2018;We are Jerome Powell&#x2019;: In rare show of unity, Republicans, Democrats, Wall Streeters and TikTok-ers are backing the Fed chair",
+      "url": "https://www.marketwatch.com/story/we-are-jerome-powell-in-rare-show-of-unity-republicans-democrats-wall-streeters-and-tiktok-ers-are-backing-the-fed-chair-953087f5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;He did not intend to leave anything to his sister, his only living relative.&#x201d;",
+      "summary_en": "Federal Reserve Chair Jerome Powell has drawn all sorts of support after disclosing that the Trump administration&#x2019;s Department of Justice has threatened him with a criminal indictment over his testimony about building renovations.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T11:44:00.000Z",
-      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
-      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
+      "ts": "2026-01-13T22:00:00.000Z",
+      "headline": "&#x2018;I will soon turn 65&#x2019;: My son wants to live in my investment property for less than market rent. Do I say yes?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-quit-working-im-65-my-son-wants-to-live-in-my-second-home-for-less-than-the-market-rent-do-i-say-yes-4182adee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
+      "summary_en": "&#x201c;I would like to quit working.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T22:00:00.000Z",
+      "headline": "The stock market&#x2019;s &#x2018;sugar high&#x2019; is starting to fade. Why investors could see a slow grind higher from here.",
+      "url": "https://www.marketwatch.com/story/the-stock-markets-sugar-high-is-starting-to-fade-why-investors-could-see-a-slow-grind-higher-from-here-babfc923?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "One Wall Street strategist is bucking the consensus and calling for stocks to move sideways in 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,30 +168,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-06T19:00:00.000Z",
-      "headline": "Minutes of the Board's discount rate meeting on December 10, 2025",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Minutes of the Board&#39;s discount rate meeting on December 10, 2025",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
