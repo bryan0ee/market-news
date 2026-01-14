@@ -1,124 +1,125 @@
 {
-  "last_updated": "2026-01-14T13:42:37.549Z",
+  "last_updated": "2026-01-14T23:27:10.317Z",
   "items": [
     {
-      "ts": "2026-01-14T13:35:00.000Z",
-      "headline": "These cybersecurity stocks are falling as U.S.-China tensions hit a new corner of the tech industry",
-      "url": "https://www.marketwatch.com/story/these-cybersecurity-stocks-are-falling-as-u-s-china-tensions-hit-a-new-corner-of-the-tech-industry-26420321?mod=mw_rss_topstories",
+      "ts": "2026-01-14T22:14:00.000Z",
+      "headline": "Verizon&#x2019;s outage may have annoyed users, but it didn&#x2019;t bother investors",
+      "url": "https://www.marketwatch.com/story/verizons-outage-may-have-annoyed-users-but-it-didnt-bother-investors-59606094?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of Fortinet, Palo Alto Networks and other cybersecurity players dropped on news of a reported crackdown from Beijing.",
+      "summary_en": "Verizon&#x2019;s stock rose Wednesday, despite reports of widespread outages of the company&#x2019;s wireless service.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-14T13:33:00.000Z",
-      "headline": "If you haven&#x2019;t experienced a bear market, talk with someone who has. You&#x2019;ll thank them later.",
+      "ts": "2026-01-14T21:27:00.000Z",
+      "headline": "Your wealth and investments are on the line if Trump torpedoes the Fed&#x2019;s independence",
+      "url": "https://www.marketwatch.com/story/your-wealth-and-investments-would-be-on-the-line-if-trump-torpedoes-the-feds-independence-32205e6f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "When politicians get involved with central-bank decisions, inflation, the dollar and the stock market all become less predictable.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T19:56:00.000Z",
+      "headline": "Businesses across the U.S. are beginning to pass tariff costs to consumers, Fed&#x2019;s &#x2018;beige book&#x2019; finds",
+      "url": "https://www.marketwatch.com/story/businesses-across-the-country-are-starting-to-pass-along-higher-costs-from-tariffs-feds-beige-book-finds-f5bfd0df?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Only two of a dozen Fed districts reported slight price growth. The rest saw higher costs.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T19:53:00.000Z",
+      "headline": "Saks files for bankruptcy. These big fashion brands &#x2014; and tech names &#x2014; are waiting to get paid.",
+      "url": "https://www.marketwatch.com/story/saks-global-files-for-bankruptcy-heres-how-luxury-retail-went-out-of-style-199e0677?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Chapter 11 filing announced on Wednesday for the iconic, century-plus-old retailer &#x2014; which oversees Saks Fifth Avenue, Neiman Marcus, Bergdorf Goodman and Saks Off 5th &#x2014; could ripple through to other parts of the industry",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T20:32:00.000Z",
+      "headline": "Microsoft&#x2019;s stock may be an AI winner &#x2014; but it&#x2019;s not acting like one",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-may-be-an-ai-winner-but-its-not-acting-like-one-549c9065?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Morgan Stanley says the stock looks &#x201c;well underpriced&#x201d; in part due to heavy corporate enthusiasm for the company&#x2019;s AI offerings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T19:09:00.000Z",
+      "headline": "The wait for a tariff ruling could signal a Trump win &#x2014; or a refund headache",
+      "url": "https://www.marketwatch.com/story/the-wait-for-a-tariff-ruling-could-signal-a-trump-win-or-a-refund-headache-e1d55605?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The likelihood of the Supreme Court ruling in favor of President Donald Trump in a closely watched tariff case increased moderately Wednesday after the court again held off on releasing its decision.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T19:32:00.000Z",
+      "headline": "The financial elite aren&#x2019;t worried about a stock-market bubble yet &#x2014; but you can&#x2019;t afford to be so complacent",
       "url": "https://www.marketwatch.com/story/if-you-havent-experienced-a-bear-market-talk-with-someone-who-has-youll-thank-them-later-4cb15a97?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors know bull markets end, of course. But they&#x2019;re convinced they can get out before the fall.",
+      "summary_en": "Investors know bull markets end, of course. But even the global leaders descending on Davos may underestimate the dangers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-14T13:22:00.000Z",
-      "headline": "Don&#x2019;t fight the White House as it picks stock winners and losers, says Fundstrat&#x2019;s Tom Lee",
-      "url": "https://www.marketwatch.com/story/follow-the-white-house-as-it-picks-stock-market-winners-and-losers-says-fundstrats-tom-lee-0a967861?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The start of 2026 is being marked by Washington picking the stocks that will win and those that won&#x2019;t says Fundstrat&#x2019;s Tom Lee.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T12:14:00.000Z",
-      "headline": "Bank of America&#x2019;s CEO says he&#x2019;s bullish on the U.S. economy as earnings edge past expectations",
-      "url": "https://www.marketwatch.com/story/bank-of-americas-ceo-says-hes-bullish-on-the-u-s-economy-as-earnings-edge-past-expectations-9cd3af3a?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bank of America on Wednesday joined rival JPMorgan Chase in beating earnings estimates after the number-two bank saw broad-based revenue growth in the fourth quarter.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T13:07:00.000Z",
-      "headline": "A Fed-Treasury asset trade? One analyst says a swap could help the struggling housing market.",
-      "url": "https://www.marketwatch.com/story/a-fed-treasury-asset-trade-one-analyst-says-a-swap-could-help-the-struggling-housing-market-c55162c7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The White House is proposing a flurry of policies to stimulate the moribund housing market, and one analyst is proposing another twist.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T13:02:00.000Z",
-      "headline": "Four reasons to buy this overlooked group of stocks early in 2026",
-      "url": "https://www.marketwatch.com/story/four-reasons-to-buy-this-overlooked-group-of-stocks-early-in-2026-50e33545?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Small-cap companies in the U.S. are expected by analysts to increase profits much more quickly than larger companies as they see the greatest benefits from lower borrowing rates and tax breaks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T12:59:00.000Z",
-      "headline": "Here&#x2019;s where inflation is hitting the middle class the most",
-      "url": "https://www.marketwatch.com/story/from-coffee-to-electricity-latest-cpi-report-shows-where-inflation-is-hitting-the-middle-class-the-most-5544820f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "The latest CPI report shows the cost of living rose in December. This is where many households are really feeling the pinch.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T12:47:00.000Z",
-      "headline": "Wells Fargo comes up short on revenue as it sets new profit target",
-      "url": "https://www.marketwatch.com/story/wells-fargo-comes-up-short-on-revenue-as-it-sets-new-profit-target-b2565251?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The number-three bank by market cap beat on earnings but missed on revenue.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T12:02:00.000Z",
-      "headline": "The &#x2018;space economy&#x2019; is booming. Here&#x2019;s where most of the money is going.",
-      "url": "https://www.marketwatch.com/story/the-space-economy-is-booming-heres-where-most-of-the-money-is-going-6149a239?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Expect a further rush of spending beyond last year&#x2019;s record levels, as investors chase the promise of space-based data centers and look to piggyback on a potential SpaceX IPO.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T12:49:00.000Z",
-      "headline": "How amateur investors are looking to cash in on Trump&#x2019;s new affordability push",
-      "url": "https://www.marketwatch.com/story/how-amateur-investors-are-looking-to-cash-in-on-trumps-new-affordability-push-d2ed96e1?mod=mw_rss_topstories",
+      "ts": "2026-01-14T20:46:00.000Z",
+      "headline": "3 ways to invest in what could become a $200 billion market for humanoid robots",
+      "url": "https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A subset of retail investors have faith that mortgage rates will eventually go down, and they&#x2019;re hoping to cash in.",
+      "summary_en": "Analysts see investment opportunities in makers of components, defense technology and critical minerals that will be vital to the future of robotics.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T19:26:00.000Z",
+      "headline": "Wall Street is now wondering how Trump&#x2019;s tariffs align with his &#x2018;affordability&#x2019; pivot",
+      "url": "https://www.marketwatch.com/story/how-trumps-affordability-push-is-prompting-wall-street-to-rethink-whats-next-for-tariffs-18fbe875?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Doubts have begun to emerge on Wall Street about how current tariff levels fit with the Trump administration&#x2019;s new affordability push.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T19:07:00.000Z",
+      "headline": "Trump says the economy is better under him than Biden. Here&#x2019;s how they stack up.",
+      "url": "https://www.marketwatch.com/story/trump-says-the-u-s-economy-has-super-high-growth-is-he-right-bc1f7eef?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The U.S. economy is enjoying &#x201c;super-high growth&#x201d; and hardly any inflation, President Donald Trump contends, after several years of floundering before he took office. Is he right?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
