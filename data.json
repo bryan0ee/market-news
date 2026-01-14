@@ -1,6 +1,92 @@
 {
-  "last_updated": "2026-01-13T23:29:01.596Z",
+  "last_updated": "2026-01-14T10:51:47.025Z",
   "items": [
+    {
+      "ts": "2026-01-14T10:37:00.000Z",
+      "headline": "China&#x2019;s record trade surplus is as big as the GDP of most countries",
+      "url": "https://www.marketwatch.com/story/chinas-record-trade-surplus-is-as-big-as-the-gdp-of-most-countries-c731eccd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "China was able to offset a slump in exports to the U.S. by redirecting them to Africa, India, Europe and Southeast Asian countries.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T10:02:00.000Z",
+      "headline": "Billionaire Google co-founder Larry Page shells out $173 million on Miami mansions",
+      "url": "https://www.marketwatch.com/story/billionaire-google-co-founder-larry-page-shells-out-173-million-on-miami-mansions-e96a5f09?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL",
+        "ED"
+      ],
+      "summary_en": "Page purchased two opulent homes in the tony&#xa0;Miami&#xa0;enclave of&#xa0;Coconut Grove, reports say.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T07:58:00.000Z",
+      "headline": "Saks Global files for bankruptcy. Here&#x2019;s how luxury retail went out of style",
+      "url": "https://www.marketwatch.com/story/saks-global-files-for-bankruptcy-heres-how-luxury-retail-went-out-of-style-199e0677?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Chapter 11 filing announced on Wednesday for the iconic, century-plus-old retailer &#x2014; which oversees Saks Fifth Avenue, Neiman Marcus, Bergdorf Goodman and Saks Off 5th &#x2014; could ripple through to other parts of the industry",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T10:15:00.000Z",
+      "headline": "&#x2018;I&#x2019;m considering driving Lyft part time&#x2019;: I&#x2019;m 58 with a $1 million home. Do I finally give up work and enjoy life?",
+      "url": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;One thought is for me to stop working at age 60, while my wife continues for two more years at her teaching job.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T09:58:00.000Z",
+      "headline": "Actress Olivia Wilde sells L.A. home at a loss for $5.23 million",
+      "url": "https://www.marketwatch.com/story/actress-olivia-wilde-sells-l-a-home-at-a-loss-for-5-23-million-e1384946?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Olivia Wilde&#xa0;is living up to her name by taking some bold steps with her real estate portfolio amid rumors that her romance with British art dealer&#xa0;Caspar Jopling&#xa0;is heating up.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T08:22:00.000Z",
+      "headline": "BP doesn&#x2019;t wait for new CEO to take big write-off of renewables business",
+      "url": "https://www.marketwatch.com/story/bp-doesnt-wait-for-new-ceo-to-take-big-write-off-of-renewables-business-079c40d9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "BP isn&#x2019;t even waiting for its new CEO to start before taking a big charge over its push into renewable energy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T23:59:00.000Z",
+      "headline": "Investors should buy AMD&#x2019;s stock now: This analyst explains why he changed his mind",
+      "url": "https://www.marketwatch.com/story/investors-should-buy-amds-stock-now-this-analyst-explains-why-he-changed-his-mind-6a51f184?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "The chip maker is almost sold out of server CPUs this year, while demand for its AI chips should support up to $15 billion in revenue, KeyBanc said.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-13T22:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
@@ -14,127 +100,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-13T23:18:00.000Z",
-      "headline": "From coffee to electricity, latest CPI report shows where inflation is hitting the middle class the most",
-      "url": "https://www.marketwatch.com/story/from-coffee-to-electricity-latest-cpi-report-shows-where-inflation-is-hitting-the-middle-class-the-most-5544820f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "COST"
-      ],
-      "summary_en": "Cost of living rose in December, and these households are feeling the pinch",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:41:00.000Z",
-      "headline": "&#x2018;I&#x2019;m at a crossroads&#x2019;: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
-      "url": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Over the last year, my two retirement accounts averaged a 15% gain.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:32:00.000Z",
-      "headline": "Netflix reportedly looking to solidify its bid for Warner Bros. with all-cash offer",
-      "url": "https://www.marketwatch.com/story/netflix-reportedly-looking-to-solidify-its-bid-for-warner-bros-with-all-cash-offer-2e9cd864?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The streaming giant is reportedly mulling whether to amend its already-accepted offer to an all-cash bid to remove a partial stock component that has declined in value since its initial proposal was agreed upon.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:14:00.000Z",
-      "headline": "The airplane orders keep coming, and Boeing&#x2019;s stock climbs to a two-year high",
-      "url": "https://www.marketwatch.com/story/the-airplane-orders-keep-coming-and-boeings-stock-climbs-to-a-two-year-high-d6ca170a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Boeing&#x2019;s stock gets a lift after it received orders for up to 60 more planes, a week after it received orders for up to 145 planes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:10:00.000Z",
-      "headline": "Why Visa and Mastercard are seeing their sharpest stock drops in half a year",
-      "url": "https://www.marketwatch.com/story/why-visa-and-mastercard-are-seeing-their-sharpest-stock-drops-in-half-a-year-69fc0c5b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Investors seem jittery about President Donald Trump&#x2019;s support of a measure that would require a lower-cost alternative for credit-card routing.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:01:00.000Z",
-      "headline": "Exxon Mobil&#x2019;s stock hits a new high. Its CEO&#x2019;s call on Venezuela may be helping.",
-      "url": "https://www.marketwatch.com/story/exxon-mobils-stock-hits-a-new-high-its-ceos-call-on-venezuela-may-be-helping-5a8d9810?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump has threatened to cut Exxon Mobil out of oil deals in Venezuela, but that hasn&#x2019;t derailed the rally in the energy giant&#x2019;s shares.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T21:58:00.000Z",
-      "headline": "The Fed&#x2019;s failures set the stage for the Trump-Powell turmoil. Here&#x2019;s one solution.",
-      "url": "https://www.marketwatch.com/story/how-trumps-attacks-on-powell-and-the-fed-could-actually-bring-more-inflation-16e1e839?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "If the White House erodes the public&#x2019;s trust in the Fed&#x2019;s desire or ability to keep inflation low and stable, all bets are off.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T21:53:00.000Z",
-      "headline": "&#x2018;We are Jerome Powell&#x2019;: In rare show of unity, Republicans, Democrats, Wall Streeters and TikTok-ers are backing the Fed chair",
-      "url": "https://www.marketwatch.com/story/we-are-jerome-powell-in-rare-show-of-unity-republicans-democrats-wall-streeters-and-tiktok-ers-are-backing-the-fed-chair-953087f5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Chair Jerome Powell has drawn all sorts of support after disclosing that the Trump administration&#x2019;s Department of Justice has threatened him with a criminal indictment over his testimony about building renovations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:00:00.000Z",
-      "headline": "&#x2018;I will soon turn 65&#x2019;: My son wants to live in my investment property for less than market rent. Do I say yes?",
-      "url": "https://www.marketwatch.com/story/i-would-like-to-quit-working-im-65-my-son-wants-to-live-in-my-second-home-for-less-than-the-market-rent-do-i-say-yes-4182adee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I would like to quit working.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:00:00.000Z",
-      "headline": "The stock market&#x2019;s &#x2018;sugar high&#x2019; is starting to fade. Why investors could see a slow grind higher from here.",
-      "url": "https://www.marketwatch.com/story/the-stock-markets-sugar-high-is-starting-to-fade-why-investors-could-see-a-slow-grind-higher-from-here-babfc923?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "One Wall Street strategist is bucking the consensus and calling for stocks to move sideways in 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-08T21:00:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm",
@@ -144,6 +109,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T23:18:00.000Z",
+      "headline": "From coffee to electricity, latest CPI report shows where inflation is hitting the middle class the most",
+      "url": "https://www.marketwatch.com/story/from-coffee-to-electricity-latest-cpi-report-shows-where-inflation-is-hitting-the-middle-class-the-most-5544820f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "Cost of living rose in December, and these households are feeling the pinch",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -168,6 +145,30 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T00:52:00.000Z",
+      "headline": "Looking for a house under $300,000? Here&#x2019;s why newly built homes may offer the best deals.",
+      "url": "https://www.marketwatch.com/story/looking-for-a-house-under-300-000-heres-why-newly-built-homes-may-offer-the-best-deals-d622b6c5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Builders are offering deep discounts to get newly built homes sold, which is good news for buyers at a time of historic housing unaffordability.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T23:54:00.000Z",
+      "headline": "Intel&#x2019;s stock is popping. Here&#x2019;s how it can become an AI winner and rack up even more gains.",
+      "url": "https://www.marketwatch.com/story/intels-stock-is-popping-heres-how-it-can-become-an-ai-winner-and-rack-up-even-more-gains-062d7e59?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Intel is seeing momentum in server CPUs and with its manufacturing technology, leading a KeyBanc analyst to turn bullish on its stock.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
