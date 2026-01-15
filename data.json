@@ -1,81 +1,80 @@
 {
-  "last_updated": "2026-01-14T23:27:10.317Z",
+  "last_updated": "2026-01-15T10:50:22.544Z",
   "items": [
     {
-      "ts": "2026-01-14T22:14:00.000Z",
-      "headline": "Verizon&#x2019;s outage may have annoyed users, but it didn&#x2019;t bother investors",
-      "url": "https://www.marketwatch.com/story/verizons-outage-may-have-annoyed-users-but-it-didnt-bother-investors-59606094?mod=mw_rss_topstories",
+      "ts": "2026-01-15T10:38:00.000Z",
+      "headline": "&#x2018;The house has quadrupled in value&#x2019;: I bought a house with my brother. He never contributed. How do I remove him?",
+      "url": "https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Verizon&#x2019;s stock rose Wednesday, despite reports of widespread outages of the company&#x2019;s wireless service.",
+      "summary_en": "&#x201c;My brother lived with me for eight years, then left to live abroad, married and followed his dreams.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-14T21:27:00.000Z",
-      "headline": "Your wealth and investments are on the line if Trump torpedoes the Fed&#x2019;s independence",
-      "url": "https://www.marketwatch.com/story/your-wealth-and-investments-would-be-on-the-line-if-trump-torpedoes-the-feds-independence-32205e6f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "When politicians get involved with central-bank decisions, inflation, the dollar and the stock market all become less predictable.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T19:56:00.000Z",
-      "headline": "Businesses across the U.S. are beginning to pass tariff costs to consumers, Fed&#x2019;s &#x2018;beige book&#x2019; finds",
-      "url": "https://www.marketwatch.com/story/businesses-across-the-country-are-starting-to-pass-along-higher-costs-from-tariffs-feds-beige-book-finds-f5bfd0df?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Only two of a dozen Fed districts reported slight price growth. The rest saw higher costs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T19:53:00.000Z",
-      "headline": "Saks files for bankruptcy. These big fashion brands &#x2014; and tech names &#x2014; are waiting to get paid.",
-      "url": "https://www.marketwatch.com/story/saks-global-files-for-bankruptcy-heres-how-luxury-retail-went-out-of-style-199e0677?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Chapter 11 filing announced on Wednesday for the iconic, century-plus-old retailer &#x2014; which oversees Saks Fifth Avenue, Neiman Marcus, Bergdorf Goodman and Saks Off 5th &#x2014; could ripple through to other parts of the industry",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T20:32:00.000Z",
-      "headline": "Microsoft&#x2019;s stock may be an AI winner &#x2014; but it&#x2019;s not acting like one",
-      "url": "https://www.marketwatch.com/story/microsofts-stock-may-be-an-ai-winner-but-its-not-acting-like-one-549c9065?mod=mw_rss_topstories",
+      "ts": "2026-01-15T10:13:00.000Z",
+      "headline": "&#x2018;It all feels impossible&#x2019;: I&#x2019;m 57 and on disability. My boyfriend died of a heart attack. Do I buy a townhouse or a condo?",
+      "url": "https://www.marketwatch.com/story/it-all-feels-impossible-im-57-and-on-disability-my-boyfriend-died-of-a-heart-attack-do-i-buy-a-townhouse-or-a-condo-3a9ae9ef?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Morgan Stanley says the stock looks &#x201c;well underpriced&#x201d; in part due to heavy corporate enthusiasm for the company&#x2019;s AI offerings.",
+      "summary_en": "&#x201c;I can afford a $175,000 cash purchase.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-14T19:09:00.000Z",
-      "headline": "The wait for a tariff ruling could signal a Trump win &#x2014; or a refund headache",
-      "url": "https://www.marketwatch.com/story/the-wait-for-a-tariff-ruling-could-signal-a-trump-win-or-a-refund-headache-e1d55605?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-01-15T09:59:00.000Z",
+      "headline": "Amy Schumer buys a Manhattan apartment for $6.25 million, then officially files for &#x2018;amicable&#x2019; divorce from Chris Fischer",
+      "url": "https://www.marketwatch.com/story/amy-schumer-buys-a-manhattan-apartment-for-6-25-million-then-officially-files-for-amicable-divorce-from-chris-fischer-1ebce794?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The likelihood of the Supreme Court ruling in favor of President Donald Trump in a closely watched tariff case increased moderately Wednesday after the court again held off on releasing its decision.",
+      "summary_en": "Comedian&#xa0;Amy Schumer&#xa0;has officially filed for&#xa0;divorce from her husband,&#xa0;Chris Fischer, one month after she confirmed that the duo had split.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-14T19:32:00.000Z",
+      "ts": "2026-01-15T10:34:00.000Z",
+      "headline": "TSMC breaks big revenue milestone in thumping fourth quarter, raises guidance on revenue and AI capex for 2026",
+      "url": "https://www.marketwatch.com/story/tsmc-breaks-big-revenue-milestone-in-thumping-fourth-quarter-raises-guidance-on-revenue-and-ai-capex-for-2026-cac934a4?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "TSMC&#x2019;s stock jumps 5% after announcing a stonking set of 4Q numbers that have positive implications the companies it supplies and those who supply it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T10:28:00.000Z",
+      "headline": "&#x2018;I will soon turn 65&#x2019;: My son wants to live in my investment property for less than market rent. Do I say yes?",
+      "url": "https://www.marketwatch.com/story/i-would-like-to-quit-working-im-65-my-son-wants-to-live-in-my-second-home-for-less-than-the-market-rent-do-i-say-yes-4182adee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I would like to quit working.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T10:13:00.000Z",
+      "headline": "&#x2018;I&#x2019;m considering driving Lyft part time&#x2019;: I&#x2019;m 58 with a $1 million home. Do I finally give up work and enjoy life?",
+      "url": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;One thought is for me to stop working at age 60, while my wife continues for two more years at her teaching job.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T01:24:00.000Z",
       "headline": "The financial elite aren&#x2019;t worried about a stock-market bubble yet &#x2014; but you can&#x2019;t afford to be so complacent",
       "url": "https://www.marketwatch.com/story/if-you-havent-experienced-a-bear-market-talk-with-someone-who-has-youll-thank-them-later-4cb15a97?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -87,39 +86,29 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-14T20:46:00.000Z",
-      "headline": "3 ways to invest in what could become a $200 billion market for humanoid robots",
-      "url": "https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?mod=mw_rss_topstories",
+      "ts": "2026-01-15T01:21:00.000Z",
+      "headline": "Your wealth and investments are on the line if Trump torpedoes the Fed&#x2019;s independence",
+      "url": "https://www.marketwatch.com/story/your-wealth-and-investments-would-be-on-the-line-if-trump-torpedoes-the-feds-independence-32205e6f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "When politicians get involved with central-bank decisions, inflation, the dollar and the stock market all become less predictable.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T00:33:00.000Z",
+      "headline": "&#x2018;I still have a mortgage&#x2019;: I&#x2019;m no longer confident that my costs will actually fall in retirement. What can I do?",
+      "url": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "NEE",
+        "ED",
+        "COST"
       ],
-      "summary_en": "Analysts see investment opportunities in makers of components, defense technology and critical minerals that will be vital to the future of robotics.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T19:26:00.000Z",
-      "headline": "Wall Street is now wondering how Trump&#x2019;s tariffs align with his &#x2018;affordability&#x2019; pivot",
-      "url": "https://www.marketwatch.com/story/how-trumps-affordability-push-is-prompting-wall-street-to-rethink-whats-next-for-tariffs-18fbe875?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Doubts have begun to emerge on Wall Street about how current tariff levels fit with the Trump administration&#x2019;s new affordability push.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T19:07:00.000Z",
-      "headline": "Trump says the economy is better under him than Biden. Here&#x2019;s how they stack up.",
-      "url": "https://www.marketwatch.com/story/trump-says-the-u-s-economy-has-super-high-growth-is-he-right-bc1f7eef?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The U.S. economy is enjoying &#x201c;super-high growth&#x201d; and hardly any inflation, President Donald Trump contends, after several years of floundering before he took office. Is he right?",
+      "summary_en": "&#x201c;I think my withdrawals from my 401(k) and IRA may need to be larger than my current take-home pay.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,6 +133,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-14T23:25:00.000Z",
+      "headline": "Why oil experts say U.S.-Iran tensions feel different this time compared with previous crises",
+      "url": "https://www.marketwatch.com/story/why-oil-experts-say-u-s-iran-tensions-feel-different-this-time-around-than-previous-crises-e1b772d6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Oil experts are factoring in the possibility of revolutionary upheaval in Iran as tensions with the U.S. flare back up.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
