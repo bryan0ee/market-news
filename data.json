@@ -1,81 +1,81 @@
 {
-  "last_updated": "2026-01-15T13:42:28.497Z",
+  "last_updated": "2026-01-15T23:31:37.363Z",
   "items": [
     {
-      "ts": "2026-01-15T13:24:00.000Z",
-      "headline": "Goldman Sachs&#x2019; revenue fell for first time in 2 years &#x2014; Apple Card was the problem",
-      "url": "https://www.marketwatch.com/story/goldman-sachs-revenue-fell-for-first-time-in-2-years-apple-card-was-the-problem-c19c226d?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2026-01-15T22:37:00.000Z",
+      "headline": "College sports has a new money problem &#x2014; and St. John&#x2019;s may be the latest example: &#x2018;It&#x2019;s the Wild West&#x2019;",
+      "url": "https://www.marketwatch.com/story/college-sports-has-a-new-money-problem-and-st-johns-may-be-the-latest-example-its-the-wild-west-e35648ba?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "St. John&#x2019;s fired its basketball program&#x2019;s general manager, Matt Abdelmassih, this week. He was reportedly managing a $10 million roster.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T21:52:00.000Z",
+      "headline": "Why portfolio managers are whispering about inflation worries in 2026",
+      "url": "https://www.marketwatch.com/story/why-portfolio-managers-are-whispering-about-inflation-worries-in-2026-694cb01c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "A mix of soaring metals prices, geopolitical risks and threats to the Federal Reserve&#x2019;s independence is raising the possibility that inflation may push higher than expected in 2026, upsetting traders&#x2019; expectations for stable to lower prices.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T21:24:00.000Z",
+      "headline": "Verizon outage spurs calls for mandatory refunds when cell service is disrupted: You shouldn&#x2019;t have to &#x2018;beg for it&#x2019;",
+      "url": "https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "In the meantime, here&#x2019;s how to claim the $20 credit Verizon is offering in response to the outage.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T20:10:00.000Z",
+      "headline": "Why Trump&#x2019;s &#x2018;Great Healthcare Plan&#x2019; strikes Wall Street as so underwhelming",
+      "url": "https://www.marketwatch.com/story/trump-unveils-his-great-healthcare-plan-analysts-dont-expect-much-of-an-impact-8e99a02a?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Goldman Sachs beat fourth-quarter profit expectations by a wide margin, amid particular strength in the investment banking and equities businesses, but the stock fell as revenue disappointed.",
+      "summary_en": "The Trump administration on Thursday rolled out what it&#x2019;s calling the &#x201c;Great Healthcare Plan,&#x201d; with elements that include funding for health savings accounts and a call for Congress to write into law the pricing deals that President Trump has made with drugmakers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-15T12:44:00.000Z",
-      "headline": "BlackRock assets surge to $14 trillion record as it looks to private markets",
-      "url": "https://www.marketwatch.com/story/blackrock-assets-surge-to-14-trillion-record-as-it-looks-to-private-markets-80045c16?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2026-01-15T19:44:00.000Z",
+      "headline": "This stock-and-bond blend made double-digit gains last year &#x2014; yet too many investors dismiss it",
+      "url": "https://www.marketwatch.com/story/this-mix-of-stocks-and-bonds-delivered-double-digit-gains-last-year-yet-too-many-investors-dismiss-it-44c15413?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The world&#x2019;s biggest asset manager said on Thursday that the value of its assets under management (AUM) increased by a record $698 billion.",
+      "summary_en": "Why we should sing the praises of the tried-and-true 60/40 stocks-bonds portfolio.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-15T13:24:00.000Z",
-      "headline": "The &#x2018;risky trinity&#x2019; is the most underappreciated market threat right now. These are the stock moves to make.",
-      "url": "https://www.marketwatch.com/story/the-risky-trinity-is-the-most-underappreciated-market-threat-right-now-these-are-the-stock-moves-to-make-fd882035?mod=mw_rss_topstories",
+      "ts": "2026-01-15T19:52:00.000Z",
+      "headline": "There&#x2019;s one thing that could make Trump&#x2019;s &#x2018;Great Healthcare Plan&#x2019; perfect",
+      "url": "https://www.marketwatch.com/story/theres-one-thing-that-could-make-trumps-great-healthcare-plan-perfect-1b9b72ac?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Leuthold Group says investors should worry about converging themes of AI, bitcoin and private credit. They are taking shelter in these sectors.",
+      "summary_en": "President Trump has at long last unveiled his healthcare plan, putting &#x201c;great&#x201d; in its name. Here&#x2019;s how it could be better.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-15T13:11:00.000Z",
-      "headline": "Boston Scientific is buying Penumbra for $14.5 billion, gaining entry to &#x2018;fast-growing&#x2019; vascular segments",
-      "url": "https://www.marketwatch.com/story/boston-scientific-is-buying-penumbra-for-14-5-billion-gaining-entry-to-fast-growing-vascular-segments-b51fc695?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Penumbra&#x2019;s stock was up about 14% after the deal was announced Thursday morning.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T13:05:00.000Z",
-      "headline": "Airline miles and hotel points threatened as Trump takes aim at credit-card rules",
-      "url": "https://www.marketwatch.com/story/airline-miles-and-hotel-points-threatened-as-trump-takes-aim-at-credit-card-rules-c09fc024?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "While some experts doubt the measure will actually become reality, they thought it would disproportionately curb rewards for lower-income spenders if enacted, while high-flyers would be able to keep cashing in on rewards.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T13:00:00.000Z",
-      "headline": "Here&#x2019;s how much money you need to make to afford a $400,000 home",
-      "url": "https://www.marketwatch.com/story/heres-how-much-money-you-need-to-make-to-afford-a-400-000-home-6f7e9a1f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Homeownership is a key pillar of the American Dream, but exactly how much does one need to earn in terms of an income or salary to afford it?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T12:45:00.000Z",
+      "ts": "2026-01-15T19:19:00.000Z",
       "headline": "I refused to invest in Tesla for years &#x2014; but now&#x2019;s the time to bet on Elon Musk",
       "url": "https://www.marketwatch.com/story/i-refused-to-invest-in-tesla-for-years-but-nows-the-time-to-bet-on-elon-musk-2cbe0af8?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -87,41 +87,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-15T12:18:00.000Z",
-      "headline": "&#x2018;I still have a mortgage&#x2019;: I&#x2019;m no longer confident that my costs will actually fall in retirement. What can I do?",
-      "url": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED",
-        "COST"
-      ],
-      "summary_en": "&#x201c;I think my withdrawals from my 401(k) and IRA may need to be larger than my current take-home pay.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T12:36:00.000Z",
-      "headline": "&#x2018;Tell me I&#x2019;m not crazy&#x2019;: My mom, 90, has dementia. My sibling wants her to buy a $500K house nearby. Does that make any sense?",
-      "url": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
+      "ts": "2026-01-15T21:34:00.000Z",
+      "headline": "These charts show the stock market giving investors a lot to like &#x2014; for now &#x2014; as the S&P 500 nears 7,000",
+      "url": "https://www.marketwatch.com/story/these-charts-show-the-stock-market-giving-investors-a-lot-to-like-for-now-as-the-s-p-500-nears-7-000-00d5d41d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I can&#x2019;t, for the life of me, see how this makes sense on any level &#x2014; personal or financial.&#x201d;",
+      "summary_en": "More stocks are making new 52-week highs and volatility is low.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-15T12:16:00.000Z",
-      "headline": "TSMC breaks big revenue milestone &#x2014; and sends these stocks soaring",
-      "url": "https://www.marketwatch.com/story/tsmc-breaks-big-revenue-milestone-in-thumping-fourth-quarter-raises-guidance-on-revenue-and-ai-capex-for-2026-cac934a4?mod=mw_rss_topstories",
+      "ts": "2026-01-15T21:20:00.000Z",
+      "headline": "The S&P 500&#x2019;s final push to 7,000 could be tougher than it looks",
+      "url": "https://www.marketwatch.com/story/the-s-p-500s-final-push-to-7-000-could-be-tougher-than-it-looks-1fd78660?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "TSMC&#x2019;s stock jumps 5% after announcing a stonking set of 4Q numbers that have positive implications the companies it supplies and those who supply it.",
+      "summary_en": "Wall Street is inching toward a historic milestone just as the ride is getting bumpier in the stock market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T20:15:00.000Z",
+      "headline": "Can I leave my 401(k) with my employer when I retire?",
+      "url": "https://www.marketwatch.com/story/can-i-leave-my-401-k-with-my-employer-when-i-retire-08971d61?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "There are a few options for your 401(k) when you leave a job &#x2014; some are better than others.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -134,18 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-08T21:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260108a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
