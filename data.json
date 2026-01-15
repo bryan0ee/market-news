@@ -1,104 +1,93 @@
 {
-  "last_updated": "2026-01-15T10:50:22.544Z",
+  "last_updated": "2026-01-15T13:42:28.497Z",
   "items": [
     {
-      "ts": "2026-01-15T10:38:00.000Z",
-      "headline": "&#x2018;The house has quadrupled in value&#x2019;: I bought a house with my brother. He never contributed. How do I remove him?",
-      "url": "https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My brother lived with me for eight years, then left to live abroad, married and followed his dreams.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T10:13:00.000Z",
-      "headline": "&#x2018;It all feels impossible&#x2019;: I&#x2019;m 57 and on disability. My boyfriend died of a heart attack. Do I buy a townhouse or a condo?",
-      "url": "https://www.marketwatch.com/story/it-all-feels-impossible-im-57-and-on-disability-my-boyfriend-died-of-a-heart-attack-do-i-buy-a-townhouse-or-a-condo-3a9ae9ef?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I can afford a $175,000 cash purchase.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T09:59:00.000Z",
-      "headline": "Amy Schumer buys a Manhattan apartment for $6.25 million, then officially files for &#x2018;amicable&#x2019; divorce from Chris Fischer",
-      "url": "https://www.marketwatch.com/story/amy-schumer-buys-a-manhattan-apartment-for-6-25-million-then-officially-files-for-amicable-divorce-from-chris-fischer-1ebce794?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Comedian&#xa0;Amy Schumer&#xa0;has officially filed for&#xa0;divorce from her husband,&#xa0;Chris Fischer, one month after she confirmed that the duo had split.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T10:34:00.000Z",
-      "headline": "TSMC breaks big revenue milestone in thumping fourth quarter, raises guidance on revenue and AI capex for 2026",
-      "url": "https://www.marketwatch.com/story/tsmc-breaks-big-revenue-milestone-in-thumping-fourth-quarter-raises-guidance-on-revenue-and-ai-capex-for-2026-cac934a4?mod=mw_rss_topstories",
+      "ts": "2026-01-15T13:24:00.000Z",
+      "headline": "Goldman Sachs&#x2019; revenue fell for first time in 2 years &#x2014; Apple Card was the problem",
+      "url": "https://www.marketwatch.com/story/goldman-sachs-revenue-fell-for-first-time-in-2-years-apple-card-was-the-problem-c19c226d?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "TSMC&#x2019;s stock jumps 5% after announcing a stonking set of 4Q numbers that have positive implications the companies it supplies and those who supply it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T10:28:00.000Z",
-      "headline": "&#x2018;I will soon turn 65&#x2019;: My son wants to live in my investment property for less than market rent. Do I say yes?",
-      "url": "https://www.marketwatch.com/story/i-would-like-to-quit-working-im-65-my-son-wants-to-live-in-my-second-home-for-less-than-the-market-rent-do-i-say-yes-4182adee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I would like to quit working.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T10:13:00.000Z",
-      "headline": "&#x2018;I&#x2019;m considering driving Lyft part time&#x2019;: I&#x2019;m 58 with a $1 million home. Do I finally give up work and enjoy life?",
-      "url": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;One thought is for me to stop working at age 60, while my wife continues for two more years at her teaching job.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T01:24:00.000Z",
-      "headline": "The financial elite aren&#x2019;t worried about a stock-market bubble yet &#x2014; but you can&#x2019;t afford to be so complacent",
-      "url": "https://www.marketwatch.com/story/if-you-havent-experienced-a-bear-market-talk-with-someone-who-has-youll-thank-them-later-4cb15a97?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
         "ED"
       ],
-      "summary_en": "Investors know bull markets end, of course. But even the global leaders descending on Davos may underestimate the dangers.",
+      "summary_en": "Goldman Sachs beat fourth-quarter profit expectations by a wide margin, amid particular strength in the investment banking and equities businesses, but the stock fell as revenue disappointed.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-15T01:21:00.000Z",
-      "headline": "Your wealth and investments are on the line if Trump torpedoes the Fed&#x2019;s independence",
-      "url": "https://www.marketwatch.com/story/your-wealth-and-investments-would-be-on-the-line-if-trump-torpedoes-the-feds-independence-32205e6f?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "ts": "2026-01-15T12:44:00.000Z",
+      "headline": "BlackRock assets surge to $14 trillion record as it looks to private markets",
+      "url": "https://www.marketwatch.com/story/blackrock-assets-surge-to-14-trillion-record-as-it-looks-to-private-markets-80045c16?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "When politicians get involved with central-bank decisions, inflation, the dollar and the stock market all become less predictable.",
+      "summary_en": "The world&#x2019;s biggest asset manager said on Thursday that the value of its assets under management (AUM) increased by a record $698 billion.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-15T00:33:00.000Z",
+      "ts": "2026-01-15T13:24:00.000Z",
+      "headline": "The &#x2018;risky trinity&#x2019; is the most underappreciated market threat right now. These are the stock moves to make.",
+      "url": "https://www.marketwatch.com/story/the-risky-trinity-is-the-most-underappreciated-market-threat-right-now-these-are-the-stock-moves-to-make-fd882035?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Leuthold Group says investors should worry about converging themes of AI, bitcoin and private credit. They are taking shelter in these sectors.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T13:11:00.000Z",
+      "headline": "Boston Scientific is buying Penumbra for $14.5 billion, gaining entry to &#x2018;fast-growing&#x2019; vascular segments",
+      "url": "https://www.marketwatch.com/story/boston-scientific-is-buying-penumbra-for-14-5-billion-gaining-entry-to-fast-growing-vascular-segments-b51fc695?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Penumbra&#x2019;s stock was up about 14% after the deal was announced Thursday morning.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T13:05:00.000Z",
+      "headline": "Airline miles and hotel points threatened as Trump takes aim at credit-card rules",
+      "url": "https://www.marketwatch.com/story/airline-miles-and-hotel-points-threatened-as-trump-takes-aim-at-credit-card-rules-c09fc024?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "While some experts doubt the measure will actually become reality, they thought it would disproportionately curb rewards for lower-income spenders if enacted, while high-flyers would be able to keep cashing in on rewards.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T13:00:00.000Z",
+      "headline": "Here&#x2019;s how much money you need to make to afford a $400,000 home",
+      "url": "https://www.marketwatch.com/story/heres-how-much-money-you-need-to-make-to-afford-a-400-000-home-6f7e9a1f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Homeownership is a key pillar of the American Dream, but exactly how much does one need to earn in terms of an income or salary to afford it?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T12:45:00.000Z",
+      "headline": "I refused to invest in Tesla for years &#x2014; but now&#x2019;s the time to bet on Elon Musk",
+      "url": "https://www.marketwatch.com/story/i-refused-to-invest-in-tesla-for-years-but-nows-the-time-to-bet-on-elon-musk-2cbe0af8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Telsa isn&#x2019;t just a car company &#x2014; it&#x2019;s an undervalued AI empire.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T12:18:00.000Z",
       "headline": "&#x2018;I still have a mortgage&#x2019;: I&#x2019;m no longer confident that my costs will actually fall in retirement. What can I do?",
       "url": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -109,6 +98,30 @@
         "COST"
       ],
       "summary_en": "&#x201c;I think my withdrawals from my 401(k) and IRA may need to be larger than my current take-home pay.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T12:36:00.000Z",
+      "headline": "&#x2018;Tell me I&#x2019;m not crazy&#x2019;: My mom, 90, has dementia. My sibling wants her to buy a $500K house nearby. Does that make any sense?",
+      "url": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I can&#x2019;t, for the life of me, see how this makes sense on any level &#x2014; personal or financial.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T12:16:00.000Z",
+      "headline": "TSMC breaks big revenue milestone &#x2014; and sends these stocks soaring",
+      "url": "https://www.marketwatch.com/story/tsmc-breaks-big-revenue-milestone-in-thumping-fourth-quarter-raises-guidance-on-revenue-and-ai-capex-for-2026-cac934a4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "TSMC&#x2019;s stock jumps 5% after announcing a stonking set of 4Q numbers that have positive implications the companies it supplies and those who supply it.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -133,18 +146,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Prosperity Bancshares, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-14T23:25:00.000Z",
-      "headline": "Why oil experts say U.S.-Iran tensions feel different this time compared with previous crises",
-      "url": "https://www.marketwatch.com/story/why-oil-experts-say-u-s-iran-tensions-feel-different-this-time-around-than-previous-crises-e1b772d6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Oil experts are factoring in the possibility of revolutionary upheaval in Iran as tensions with the U.S. flare back up.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
