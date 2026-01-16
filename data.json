@@ -1,6 +1,68 @@
 {
-  "last_updated": "2026-01-16T10:49:49.889Z",
+  "last_updated": "2026-01-16T13:40:12.430Z",
   "items": [
+    {
+      "ts": "2026-01-16T12:38:00.000Z",
+      "headline": "How the fragile AI ecosystem may be one of the biggest risks to markets this year",
+      "url": "https://www.marketwatch.com/story/how-the-fragile-ai-ecosystem-may-be-one-of-the-biggest-risks-to-markets-this-year-27c3a394?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A compromised Fed and political tensions are also among the five factors worrying Scott Helfstein at Global X.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T12:30:00.000Z",
+      "headline": "&#x2018;It all feels impossible&#x2019;: I&#x2019;m 57 and on disability. My boyfriend died of a heart attack. Do I buy a townhouse or a condo?",
+      "url": "https://www.marketwatch.com/story/it-all-feels-impossible-im-57-and-on-disability-my-boyfriend-died-of-a-heart-attack-do-i-buy-a-townhouse-or-a-condo-3a9ae9ef?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I can afford a $175,000 cash purchase.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T12:00:00.000Z",
+      "headline": "&#x2018;I still have a mortgage&#x2019;: I&#x2019;m no longer confident that my costs will actually fall in retirement. What can I do?",
+      "url": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED",
+        "COST"
+      ],
+      "summary_en": "&#x201c;I think my withdrawals from my 401(k) and IRA may need to be larger than my current take-home pay.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T11:45:00.000Z",
+      "headline": "&#x2018;The house has quadrupled in value&#x2019;: I bought a house with my brother, but he did not contribute. How do I fix this?",
+      "url": "https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My brother lived with me for eight years, then left to live abroad, married and followed his dreams.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T11:42:00.000Z",
+      "headline": "I was asked, &#x2018;Should we adopt AI?&#x2019; in a job interview. I said yes, but my answer fell flat. Was this a trick question?",
+      "url": "https://www.marketwatch.com/story/i-was-asked-should-we-adopt-ai-in-a-job-interview-i-said-yes-but-my-answer-fell-flat-was-this-a-trick-question-7eaa393c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The interviewer replied, &#x201c;That would be nice, but we don&#x2019;t have the money to integrate it right now.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-16T10:05:00.000Z",
       "headline": "&#x2018;Fifty Shades of Grey&#x2019;&#xa0;author&#xa0;E.L. James lists her L.A. mansion for $7.25 million",
@@ -11,6 +73,30 @@
         "ED"
       ],
       "summary_en": "Author&#xa0;E.L. James&#xa0;has put her sprawling&#xa0;Los Angeles&#xa0;home on the market for $7.25 million&#x2014;having slashed a staggering $1 million from her original asking price.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T12:09:00.000Z",
+      "headline": "Play the AI boom without the bubble risk via these &#x2018;transition&#x2019; stocks, says Bank of America",
+      "url": "https://www.marketwatch.com/story/play-the-ai-boom-without-the-bubble-risk-via-these-transition-stocks-says-bank-of-america-4c8f7217?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Bank of America analysts suggest defense, infrastructure and transition materials represent the optimal indirect exposure to AI",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T11:00:00.000Z",
+      "headline": "My mom, 90, has dementia. My brother wants her to buy a $500K house near his house. Does that make any sense?",
+      "url": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I can&#x2019;t, for the life of me, see how this makes sense on any level &#x2014; personal or financial.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,66 +124,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T10:00:00.000Z",
-      "headline": "Is the stock market open on MLK Day? Does the post office deliver mail?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-mlk-day-does-the-post-office-deliver-mail-00591917?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The Monday holiday commemorates the birth of civil rights leader Martin Luther King Jr.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T08:33:00.000Z",
-      "headline": "Micron&#x2019;s stock gets an $8 million vote of confidence from this industry veteran",
-      "url": "https://www.marketwatch.com/story/microns-stock-gets-an-8-million-vote-of-confidence-from-this-industry-veteran-caf334bc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Former TSMC co-CEO Mark Liu just bought up Micron&#x2019;s stock at a time when it&#x2019;s essentially never been hotter. The purchase implies he thinks the stock&#x2019;s rally still has legs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T01:04:00.000Z",
-      "headline": "This stock-and-bond blend made double-digit gains last year &#x2014; investors still dismiss it",
-      "url": "https://www.marketwatch.com/story/this-mix-of-stocks-and-bonds-delivered-double-digit-gains-last-year-yet-too-many-investors-dismiss-it-44c15413?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Why we should sing the praises of the tried-and-true 60/40 stocks-bonds portfolio.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T01:06:00.000Z",
-      "headline": "I refused to invest in Tesla for years &#x2014; but now&#x2019;s the time to bet on Elon Musk",
-      "url": "https://www.marketwatch.com/story/i-refused-to-invest-in-tesla-for-years-but-nows-the-time-to-bet-on-elon-musk-2cbe0af8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Telsa isn&#x2019;t just a car company &#x2014; it&#x2019;s an undervalued AI empire.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T01:02:00.000Z",
-      "headline": "Young men are worried about having enough money &#x2014; but confident they&#x2019;ll own a home. What gives?",
-      "url": "https://www.marketwatch.com/story/gen-z-men-believe-theyll-buy-a-home-someday-but-see-their-finances-getting-worse-what-gives-73edc83d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Homeownership, marriage and parenthood are highly valued goals for Gen Z &#x2014; and a tall order in today&#x2019;s economy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-13T22:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
@@ -107,30 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T01:57:00.000Z",
-      "headline": "These charts show the stock market giving investors a lot to like &#x2014; for now &#x2014; as the S&P 500 nears 7,000",
-      "url": "https://www.marketwatch.com/story/these-charts-show-the-stock-market-giving-investors-a-lot-to-like-for-now-as-the-s-p-500-nears-7-000-00d5d41d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "More stocks are making new 52-week highs and volatility is low.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T01:56:00.000Z",
-      "headline": "Inflation relief is on the way &#x2014; if these 3 market forces can come together",
-      "url": "https://www.marketwatch.com/story/inflation-relief-is-on-the-way-if-these-3-market-forces-can-come-together-this-year-13be218f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Productivity gains, tame oil prices and lower taxes could ease the pressure on consumers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
