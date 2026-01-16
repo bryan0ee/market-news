@@ -1,95 +1,118 @@
 {
-  "last_updated": "2026-01-16T13:40:12.430Z",
+  "last_updated": "2026-01-16T23:30:24.642Z",
   "items": [
     {
-      "ts": "2026-01-16T12:38:00.000Z",
-      "headline": "How the fragile AI ecosystem may be one of the biggest risks to markets this year",
-      "url": "https://www.marketwatch.com/story/how-the-fragile-ai-ecosystem-may-be-one-of-the-biggest-risks-to-markets-this-year-27c3a394?mod=mw_rss_topstories",
+      "ts": "2026-01-16T22:42:00.000Z",
+      "headline": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
+      "url": "https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A compromised Fed and political tensions are also among the five factors worrying Scott Helfstein at Global X.",
+      "summary_en": "If you can avoid the 10% penalty, does that make it a good deal?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T12:30:00.000Z",
-      "headline": "&#x2018;It all feels impossible&#x2019;: I&#x2019;m 57 and on disability. My boyfriend died of a heart attack. Do I buy a townhouse or a condo?",
-      "url": "https://www.marketwatch.com/story/it-all-feels-impossible-im-57-and-on-disability-my-boyfriend-died-of-a-heart-attack-do-i-buy-a-townhouse-or-a-condo-3a9ae9ef?mod=mw_rss_topstories",
+      "ts": "2026-01-16T22:16:00.000Z",
+      "headline": "These stocks have the most to lose from Trump&#x2019;s push to lower electricity prices",
+      "url": "https://www.marketwatch.com/story/these-stocks-have-the-most-to-lose-from-trumps-push-to-lower-electricity-prices-e920c47f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I can afford a $175,000 cash purchase.&#x201d;",
+      "summary_en": "The stocks of Constellation Energy and Vistra dropped after investors were spooked by the Trump administration&#x2019;s plan to push large technology companies to help lower electricity prices for consumers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T12:00:00.000Z",
-      "headline": "&#x2018;I still have a mortgage&#x2019;: I&#x2019;m no longer confident that my costs will actually fall in retirement. What can I do?",
-      "url": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED",
-        "COST"
-      ],
-      "summary_en": "&#x201c;I think my withdrawals from my 401(k) and IRA may need to be larger than my current take-home pay.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T11:45:00.000Z",
-      "headline": "&#x2018;The house has quadrupled in value&#x2019;: I bought a house with my brother, but he did not contribute. How do I fix this?",
-      "url": "https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories",
+      "ts": "2026-01-16T22:06:00.000Z",
+      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
+      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My brother lived with me for eight years, then left to live abroad, married and followed his dreams.&#x201d;",
+      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T11:42:00.000Z",
-      "headline": "I was asked, &#x2018;Should we adopt AI?&#x2019; in a job interview. I said yes, but my answer fell flat. Was this a trick question?",
-      "url": "https://www.marketwatch.com/story/i-was-asked-should-we-adopt-ai-in-a-job-interview-i-said-yes-but-my-answer-fell-flat-was-this-a-trick-question-7eaa393c?mod=mw_rss_topstories",
+      "ts": "2026-01-16T22:03:00.000Z",
+      "headline": "Warsh&#x2019;s chances of becoming Fed chair jump as Trump suggests he doesn&#x2019;t want Hassett in that job",
+      "url": "https://www.marketwatch.com/story/warshs-chances-of-becoming-fed-chair-jump-as-trump-suggests-he-doesnt-want-hassett-in-that-job-146fb6a9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The interviewer replied, &#x201c;That would be nice, but we don&#x2019;t have the money to integrate it right now.&#x201d;",
+      "summary_en": "The contest to become the next chair of the Federal Reserve took another turn Friday, as President Donald Trump hinted that he may want to keep economist Kevin Hassett in his current White House job.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T10:05:00.000Z",
-      "headline": "&#x2018;Fifty Shades of Grey&#x2019;&#xa0;author&#xa0;E.L. James lists her L.A. mansion for $7.25 million",
-      "url": "https://www.marketwatch.com/story/fifty-shades-of-greyauthore-l-james-lists-her-l-a-mansion-for-7-25-million-1f7e8da3?mod=mw_rss_topstories",
+      "ts": "2026-01-16T21:00:00.000Z",
+      "headline": "Micron&#x2019;s stunning stock gains are encapsulated by this milestone",
+      "url": "https://www.marketwatch.com/story/microns-stunning-stock-gains-are-encapsulated-by-this-milestone-a42b3ada?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Author&#xa0;E.L. James&#xa0;has put her sprawling&#xa0;Los Angeles&#xa0;home on the market for $7.25 million&#x2014;having slashed a staggering $1 million from her original asking price.",
+      "summary_en": "Micron Technology is now worth more than $400 billion, just a few weeks after topping a $300 billion valuation.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T12:09:00.000Z",
-      "headline": "Play the AI boom without the bubble risk via these &#x2018;transition&#x2019; stocks, says Bank of America",
-      "url": "https://www.marketwatch.com/story/play-the-ai-boom-without-the-bubble-risk-via-these-transition-stocks-says-bank-of-america-4c8f7217?mod=mw_rss_topstories",
+      "ts": "2026-01-16T20:40:00.000Z",
+      "headline": "Education Department pauses plan to seize wages, tax refunds of defaulted student-loan borrowers",
+      "url": "https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Bank of America analysts suggest defense, infrastructure and transition materials represent the optimal indirect exposure to AI",
+      "summary_en": "The announcement comes a little more than a week after the agency had planned to start warning defaulted borrowers their wages would be garnished.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T11:00:00.000Z",
-      "headline": "My mom, 90, has dementia. My brother wants her to buy a $500K house near his house. Does that make any sense?",
+      "ts": "2026-01-16T19:58:00.000Z",
+      "headline": "Trump tried to give Powell one last shove out the door. Now he&#x2019;s likely to stay at the Fed.",
+      "url": "https://www.marketwatch.com/story/trump-tried-to-give-powell-one-last-shove-out-the-door-now-hes-likely-to-stay-ab5e4ab9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Jerome Powell&#x2019;s term as Federal Reserve chair ends in May &#x2014; but he can choose to stay on as a Fed governor until 2028.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T18:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T19:41:00.000Z",
+      "headline": "Colleges could go tuition-free if their endowment-fund managers just invested in this stock index",
+      "url": "https://www.marketwatch.com/story/colleges-could-go-tuition-free-if-their-endowment-fund-managers-just-invested-in-this-stock-index-64129772?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "WM",
+        "ED"
+      ],
+      "summary_en": "Buy-and-hold S&P 500 investors outperform college endowment managers. Could this be why?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T21:38:00.000Z",
+      "headline": "My mom, 90, has dementia. My brother wants her to buy a $500K property near his house. Does that make any sense?",
       "url": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -100,19 +123,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T10:47:00.000Z",
-      "headline": "&#x2018;I&#x2019;m considering driving Lyft part time&#x2019;: I&#x2019;m 58 with a $1 million home. Do I finally give up work and enjoy life?",
-      "url": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;One thought is for me to stop working at age 60, while my wife continues for two more years at her teaching job.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T10:15:00.000Z",
+      "ts": "2026-01-16T21:31:00.000Z",
       "headline": "&#x2018;I don&#x2019;t want to step on any toes&#x2019;: I manage an $80K trust for a 15-year-old relative. How do I deal with interfering relatives?",
       "url": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -157,18 +168,6 @@
         "ED"
       ],
       "summary_en": "Agencies issue 2025 Shared National Credit Program report",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-09T18:00:00.000Z",
-      "headline": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260109a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces the designation of the Chairs and Deputy Chairs of the 12 Federal Reserve Banks for 2026",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
