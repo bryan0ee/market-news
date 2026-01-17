@@ -1,6 +1,92 @@
 {
-  "last_updated": "2026-01-17T10:44:34.703Z",
+  "last_updated": "2026-01-17T13:31:14.355Z",
   "items": [
+    {
+      "ts": "2026-01-17T13:30:00.000Z",
+      "headline": "Here&#x2019;s everything investors need to know about the historic silver rally in 10 charts",
+      "url": "https://www.marketwatch.com/story/heres-everything-investors-need-to-know-about-the-historic-silver-rally-in-10-charts-34c0d5bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META",
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Booming demand from speculators and industrial players alike has created the &#x201c;perfect storm&#x201d; for the white metal.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T13:00:00.000Z",
+      "headline": "&#x2018;I had hoped the virus would be contained in China&#x2019;: An inside look at the Fed&#x2019;s historic fight to save the U.S. economy",
+      "url": "https://www.marketwatch.com/story/i-had-hoped-the-virus-would-be-contained-in-china-an-inside-look-at-the-feds-historic-fight-to-save-the-u-s-economy-37fe1afc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Senior Federal Reserve officials were in a good mood in January 2020 &#x2014; but danger was brewing on the other side of the world.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T12:39:00.000Z",
+      "headline": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
+      "url": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am 69, and started collecting Social Security when I was 66&#xbd;.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T12:00:00.000Z",
+      "headline": "S&P 500 has gained 16% in Trump&#x2019;s first year back in office. How that compares with other presidents.",
+      "url": "https://www.marketwatch.com/story/s-p-500-has-gained-16-in-trumps-first-year-back-in-office-how-that-compares-with-other-presidents-a9746686?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Donald Trump&#x2019;s first year back in the White House shook the U.S. stock market &#x2014; but it&#x2019;s still way up.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T13:12:00.000Z",
+      "headline": "We plan to retire at 62 and have $1 million, plus my wife&#x2019;s pension and Social Security. Do we have enough to retire early?",
+      "url": "https://www.marketwatch.com/story/we-plan-to-retire-at-62-and-have-1-million-plus-my-wifes-pension-and-social-security-do-we-have-enough-to-retire-early-70ebd262?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We have no debt.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T13:05:00.000Z",
+      "headline": "I manage an $80K trust for a 15-year-old. How do I do deal with interfering relatives?",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I don&#x2019;t want to step on any toes.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T12:30:00.000Z",
+      "headline": "This group of tech stocks screams opportunity after a bewildering selloff",
+      "url": "https://www.marketwatch.com/story/this-group-of-tech-stocks-screams-opportunity-after-a-bewildering-selloff-f6ea4f88?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A meltdown in software stocks has left several high-growth names trading at bargain prices, according to some on Wall Street.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-17T03:39:00.000Z",
       "headline": "Colleges could go tuition-free if their endowment funds just invested in this stock index",
@@ -12,18 +98,6 @@
         "ED"
       ],
       "summary_en": "Buy-and-hold S&P 500 investors outperform college endowment managers. Could this be why?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T01:46:00.000Z",
-      "headline": "From Iran to Venezuela, why the oil market is on edge this weekend",
-      "url": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Weekends now seem to be the worse time for oil traders to let their guard down.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -51,6 +125,18 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2026-01-17T01:46:00.000Z",
+      "headline": "From Iran to Venezuela, why the oil market is on edge this weekend",
+      "url": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Weekends now seem to be the worse time for oil traders to let their guard down.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2026-01-16T22:42:00.000Z",
       "headline": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
       "url": "https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories",
@@ -60,66 +146,6 @@
         "ED"
       ],
       "summary_en": "If you can avoid the 10% penalty, does that make it a good deal?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T22:16:00.000Z",
-      "headline": "These stocks have the most to lose from Trump&#x2019;s push to lower electricity prices",
-      "url": "https://www.marketwatch.com/story/these-stocks-have-the-most-to-lose-from-trumps-push-to-lower-electricity-prices-e920c47f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The stocks of Constellation Energy and Vistra dropped after investors were spooked by the Trump administration&#x2019;s plan to push large technology companies to help lower electricity prices for consumers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T22:06:00.000Z",
-      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
-      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T22:03:00.000Z",
-      "headline": "Warsh&#x2019;s chances of becoming Fed chair jump as Trump suggests he doesn&#x2019;t want Hassett in that job",
-      "url": "https://www.marketwatch.com/story/warshs-chances-of-becoming-fed-chair-jump-as-trump-suggests-he-doesnt-want-hassett-in-that-job-146fb6a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The contest to become the next chair of the Federal Reserve took another turn Friday, as President Donald Trump hinted that he may want to keep economist Kevin Hassett in his current White House job.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T21:00:00.000Z",
-      "headline": "Micron&#x2019;s stunning stock gains are encapsulated by this milestone",
-      "url": "https://www.marketwatch.com/story/microns-stunning-stock-gains-are-encapsulated-by-this-milestone-a42b3ada?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Micron Technology is now worth more than $400 billion, just a few weeks after topping a $300 billion valuation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T20:40:00.000Z",
-      "headline": "Education Department pauses plan to seize wages, tax refunds of defaulted student-loan borrowers",
-      "url": "https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The announcement comes a little more than a week after the agency had planned to start warning defaulted borrowers their wages would be garnished.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,30 +170,6 @@
         "ED"
       ],
       "summary_en": "Agencies issue 2025 Shared National Credit Program report",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T21:38:00.000Z",
-      "headline": "My mom, 90, has dementia. My brother wants her to buy a $500K property near his house. Does that make any sense?",
-      "url": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I can&#x2019;t, for the life of me, see how this makes sense on any level &#x2014; personal or financial.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T21:31:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t want to step on any toes&#x2019;: I manage an $80K trust for a 15-year-old relative. How do I deal with interfering relatives?",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I also want to teach my young relative good money habits without overstepping the parents&#x2019; authority.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
