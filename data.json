@@ -1,103 +1,125 @@
 {
-  "last_updated": "2026-01-17T13:31:14.355Z",
+  "last_updated": "2026-01-17T23:28:54.924Z",
   "items": [
     {
-      "ts": "2026-01-17T13:30:00.000Z",
-      "headline": "Here&#x2019;s everything investors need to know about the historic silver rally in 10 charts",
-      "url": "https://www.marketwatch.com/story/heres-everything-investors-need-to-know-about-the-historic-silver-rally-in-10-charts-34c0d5bb?mod=mw_rss_topstories",
+      "ts": "2026-01-17T19:35:00.000Z",
+      "headline": "14 million Americans are getting access to these game-changing investment accounts &#x2014; without risking their Supplemental Security Income and Medicaid benefits",
+      "url": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "META",
+        "ED"
+      ],
+      "summary_en": "ABLE accounts have expanded eligibility to those up to age 46.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T18:50:00.000Z",
+      "headline": "Young men are worried about having enough money &#x2014; but confident they&#x2019;ll own a home. What gives?",
+      "url": "https://www.marketwatch.com/story/gen-z-men-believe-theyll-buy-a-home-someday-but-see-their-finances-getting-worse-what-gives-73edc83d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Homeownership, marriage and parenthood are highly valued goals for Gen Z &#x2014; and a tall order in today&#x2019;s economy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T18:28:00.000Z",
+      "headline": "The financial elite aren&#x2019;t worried about a stock-market bubble yet &#x2014; but you can&#x2019;t afford to be so complacent",
+      "url": "https://www.marketwatch.com/story/if-you-havent-experienced-a-bear-market-talk-with-someone-who-has-youll-thank-them-later-4cb15a97?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors know bull markets end, of course. But even the global leaders descending on Davos may underestimate the dangers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T18:08:00.000Z",
+      "headline": "&#x2018;Your whole life is on the phone.&#x2019; Should companies like Verizon be forced to refund you the next time there&#x2019;s a major outage?",
+      "url": "https://www.marketwatch.com/story/verizon-outage-spurs-calls-for-mandatory-refunds-when-cell-service-is-disrupted-you-shouldnt-have-to-beg-for-it-d95650b2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "In the meantime, here&#x2019;s how to claim the $20 credit Verizon is offering in response to this week&#x2019;s service disruption.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T17:42:00.000Z",
+      "headline": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
+      "url": "https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "If you can avoid the 10% penalty, does that make it a good deal?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T19:15:00.000Z",
+      "headline": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
+      "url": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Trump levels latest threat at Europe as Supreme Court decision on his tariffs loom",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T17:04:00.000Z",
+      "headline": "6 stocks and ETFs that these unsung market heroes see outperforming in 2026",
+      "url": "https://www.marketwatch.com/story/6-stocks-and-etfs-that-these-unsung-market-heroes-see-outperforming-in-2026-0aef8bb8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Top stock-market newsletter editors share gems from their &#x2018;buy&#x2019; list.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T17:00:00.000Z",
+      "headline": "My wealthy friend invited me to stay, but he doesn&#x2019;t need more &#x2018;stuff.&#x2019; What do I get the man who has everything?",
+      "url": "https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "Booming demand from speculators and industrial players alike has created the &#x201c;perfect storm&#x201d; for the white metal.",
+      "summary_en": "&#x201c;He has a beautiful home, and enough antiques and collectibles stored up over a lifetime.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-17T13:00:00.000Z",
-      "headline": "&#x2018;I had hoped the virus would be contained in China&#x2019;: An inside look at the Fed&#x2019;s historic fight to save the U.S. economy",
-      "url": "https://www.marketwatch.com/story/i-had-hoped-the-virus-would-be-contained-in-china-an-inside-look-at-the-feds-historic-fight-to-save-the-u-s-economy-37fe1afc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Senior Federal Reserve officials were in a good mood in January 2020 &#x2014; but danger was brewing on the other side of the world.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T12:39:00.000Z",
-      "headline": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
-      "url": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am 69, and started collecting Social Security when I was 66&#xbd;.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T12:00:00.000Z",
-      "headline": "S&P 500 has gained 16% in Trump&#x2019;s first year back in office. How that compares with other presidents.",
-      "url": "https://www.marketwatch.com/story/s-p-500-has-gained-16-in-trumps-first-year-back-in-office-how-that-compares-with-other-presidents-a9746686?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Donald Trump&#x2019;s first year back in the White House shook the U.S. stock market &#x2014; but it&#x2019;s still way up.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T13:12:00.000Z",
-      "headline": "We plan to retire at 62 and have $1 million, plus my wife&#x2019;s pension and Social Security. Do we have enough to retire early?",
-      "url": "https://www.marketwatch.com/story/we-plan-to-retire-at-62-and-have-1-million-plus-my-wifes-pension-and-social-security-do-we-have-enough-to-retire-early-70ebd262?mod=mw_rss_topstories",
+      "ts": "2026-01-17T19:54:00.000Z",
+      "headline": "These 20 cheap S&P 500 stocks can cushion the blow in a market downturn",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;We have no debt.&#x201d;",
+      "summary_en": "Conservative investors favor stocks trading at low P/E ratios &#x2014; and the long-term record proves them right.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-17T13:05:00.000Z",
-      "headline": "I manage an $80K trust for a 15-year-old. How do I do deal with interfering relatives?",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
+      "ts": "2026-01-17T17:22:00.000Z",
+      "headline": "Inflation relief is on the way &#x2014; if these 3 market forces can come together",
+      "url": "https://www.marketwatch.com/story/inflation-relief-is-on-the-way-if-these-3-market-forces-can-come-together-this-year-13be218f?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I don&#x2019;t want to step on any toes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T12:30:00.000Z",
-      "headline": "This group of tech stocks screams opportunity after a bewildering selloff",
-      "url": "https://www.marketwatch.com/story/this-group-of-tech-stocks-screams-opportunity-after-a-bewildering-selloff-f6ea4f88?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A meltdown in software stocks has left several high-growth names trading at bargain prices, according to some on Wall Street.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T03:39:00.000Z",
-      "headline": "Colleges could go tuition-free if their endowment funds just invested in this stock index",
-      "url": "https://www.marketwatch.com/story/colleges-could-go-tuition-free-if-their-endowment-fund-managers-just-invested-in-this-stock-index-64129772?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "WM",
-        "ED"
-      ],
-      "summary_en": "Buy-and-hold S&P 500 investors outperform college endowment managers. Could this be why?",
+      "summary_en": "Productivity gains, tame oil prices and lower taxes could ease the pressure on consumers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -122,30 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T01:46:00.000Z",
-      "headline": "From Iran to Venezuela, why the oil market is on edge this weekend",
-      "url": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Weekends now seem to be the worse time for oil traders to let their guard down.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T22:42:00.000Z",
-      "headline": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
-      "url": "https://www.marketwatch.com/story/trump-wants-to-let-you-take-money-from-your-401-k-to-buy-a-house-putting-it-back-is-complicated-da955f85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "If you can avoid the 10% penalty, does that make it a good deal?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
