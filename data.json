@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-01-16T23:30:24.642Z",
+  "last_updated": "2026-01-17T10:44:34.703Z",
   "items": [
+    {
+      "ts": "2026-01-17T03:39:00.000Z",
+      "headline": "Colleges could go tuition-free if their endowment funds just invested in this stock index",
+      "url": "https://www.marketwatch.com/story/colleges-could-go-tuition-free-if-their-endowment-fund-managers-just-invested-in-this-stock-index-64129772?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "WM",
+        "ED"
+      ],
+      "summary_en": "Buy-and-hold S&P 500 investors outperform college endowment managers. Could this be why?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T01:46:00.000Z",
+      "headline": "From Iran to Venezuela, why the oil market is on edge this weekend",
+      "url": "https://www.marketwatch.com/story/from-iran-to-venezuela-why-the-oil-market-is-on-edge-this-weekend-cf5e1ddb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Weekends now seem to be the worse time for oil traders to let their guard down.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T18:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T22:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-16T22:42:00.000Z",
       "headline": "Trump wants to let you take money from your 401(k) to buy a house. Putting it back is complicated.",
@@ -74,40 +123,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T19:58:00.000Z",
-      "headline": "Trump tried to give Powell one last shove out the door. Now he&#x2019;s likely to stay at the Fed.",
-      "url": "https://www.marketwatch.com/story/trump-tried-to-give-powell-one-last-shove-out-the-door-now-hes-likely-to-stay-ab5e4ab9?mod=mw_rss_topstories",
+      "ts": "2026-01-15T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Jerome Powell&#x2019;s term as Federal Reserve chair ends in May &#x2014; but he can choose to stay on as a Fed governor until 2028.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T18:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T19:41:00.000Z",
-      "headline": "Colleges could go tuition-free if their endowment-fund managers just invested in this stock index",
-      "url": "https://www.marketwatch.com/story/colleges-could-go-tuition-free-if-their-endowment-fund-managers-just-invested-in-this-stock-index-64129772?mod=mw_rss_topstories",
+      "ts": "2026-01-12T20:00:00.000Z",
+      "headline": "Agencies issue 2025 Shared National Credit Program report",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "WM",
         "ED"
       ],
-      "summary_en": "Buy-and-hold S&P 500 investors outperform college endowment managers. Could this be why?",
+      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,42 +168,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I also want to teach my young relative good money habits without overstepping the parents&#x2019; authority.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-12T20:00:00.000Z",
-      "headline": "Agencies issue 2025 Shared National Credit Program report",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
