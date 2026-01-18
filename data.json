@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-01-18T10:45:06.628Z",
+  "last_updated": "2026-01-18T13:31:15.844Z",
   "items": [
+    {
+      "ts": "2026-01-16T18:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T22:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-18T00:30:00.000Z",
       "headline": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
@@ -24,30 +48,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;He has a beautiful home, and enough antiques and collectibles stored up over a lifetime.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T18:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
