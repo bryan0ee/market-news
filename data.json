@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-01-17T23:28:54.924Z",
+  "last_updated": "2026-01-18T10:45:06.628Z",
   "items": [
+    {
+      "ts": "2026-01-18T00:30:00.000Z",
+      "headline": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
+      "url": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am 69, and started collecting Social Security when I was 66&#xbd;.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-17T23:57:00.000Z",
+      "headline": "My wealthy friend invited me to stay, but he doesn&#x2019;t need more &#x2018;stuff.&#x2019; What do I get the man who has everything?",
+      "url": "https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;He has a beautiful home, and enough antiques and collectibles stored up over a lifetime.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T18:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T22:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-17T19:35:00.000Z",
       "headline": "14 million Americans are getting access to these game-changing investment accounts &#x2014; without risking their Supplemental Security Income and Medicaid benefits",
@@ -62,6 +111,30 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2026-01-15T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T20:00:00.000Z",
+      "headline": "Agencies issue 2025 Shared National Credit Program report",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2026-01-17T19:15:00.000Z",
       "headline": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
       "url": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
@@ -71,31 +144,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Trump levels latest threat at Europe as Supreme Court decision on his tariffs loom",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T17:04:00.000Z",
-      "headline": "6 stocks and ETFs that these unsung market heroes see outperforming in 2026",
-      "url": "https://www.marketwatch.com/story/6-stocks-and-etfs-that-these-unsung-market-heroes-see-outperforming-in-2026-0aef8bb8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Top stock-market newsletter editors share gems from their &#x2018;buy&#x2019; list.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T17:00:00.000Z",
-      "headline": "My wealthy friend invited me to stay, but he doesn&#x2019;t need more &#x2018;stuff.&#x2019; What do I get the man who has everything?",
-      "url": "https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;He has a beautiful home, and enough antiques and collectibles stored up over a lifetime.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -120,54 +168,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Productivity gains, tame oil prices and lower taxes could ease the pressure on consumers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T18:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-12T20:00:00.000Z",
-      "headline": "Agencies issue 2025 Shared National Credit Program report",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
