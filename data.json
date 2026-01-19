@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-01-18T23:29:23.319Z",
+  "last_updated": "2026-01-19T10:54:45.091Z",
   "items": [
+    {
+      "ts": "2026-01-19T10:02:00.000Z",
+      "headline": "A year after his death, Gene Hackman&#x2019;s longtime Santa Fe home is listed for $6.25 million",
+      "url": "https://www.marketwatch.com/story/a-year-after-his-death-gene-hackmans-longtime-santa-fe-home-is-listed-for-6-25-million-78350927?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Actor&#xa0;Gene Hackman&#x2019;s longtime&#xa0;New Mexico&#xa0;compound has hit the market, a year after he and&#xa0;his wife,&#xa0;Betsy Arakawa, were found dead&#xa0;inside the home.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-19T08:33:00.000Z",
+      "headline": "Stock futures lead global markets sharply lower and gold hits fresh record as Trump threatens tariffs on Europe over Greenland",
+      "url": "https://www.marketwatch.com/story/stock-futures-lead-global-markets-sharply-lower-and-gold-hits-fresh-record-as-trump-threatens-tariffs-on-europe-over-greenland-e52bcb8e?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Concerns European nations will retaliate raises fears of more trade turmoil",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T18:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-13T22:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-18T17:00:00.000Z",
       "headline": "Big Tech stocks are quickly falling out of favor. Here&#x2019;s the market&#x2019;s new momentum trade.",
@@ -36,6 +84,42 @@
         "ED"
       ],
       "summary_en": "&#x201c;He has a beautiful home, and enough antiques and collectibles stored up over a lifetime.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-15T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-12T20:00:00.000Z",
+      "headline": "Agencies issue 2025 Shared National Credit Program report",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-19T00:19:00.000Z",
+      "headline": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
+      "url": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Trump levels latest threat at Europe as Supreme Court decision on his tariffs loom",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -75,66 +159,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T18:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T19:35:00.000Z",
-      "headline": "14 million Americans are getting access to these game-changing investment accounts &#x2014; without risking their Supplemental Security Income and Medicaid benefits",
-      "url": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "ABLE accounts have expanded eligibility to those up to age 46.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-12T20:00:00.000Z",
-      "headline": "Agencies issue 2025 Shared National Credit Program report",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Agencies issue 2025 Shared National Credit Program report",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-18T13:53:00.000Z",
       "headline": "&#x2018;I&#x2019;m considering driving Lyft part time&#x2019;: I&#x2019;m 58 with a $1 million home. Do I finally give up work and enjoy life?",
       "url": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
@@ -144,30 +168,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;One thought is for me to stop working at age 60, while my wife continues for two more years at her teaching job.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T19:15:00.000Z",
-      "headline": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
-      "url": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Trump levels latest threat at Europe as Supreme Court decision on his tariffs loom",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-17T19:54:00.000Z",
-      "headline": "These 20 cheap S&P 500 stocks can cushion the blow in a market downturn",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Conservative investors favor stocks trading at low P/E ratios &#x2014; and the long-term record proves them right.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
