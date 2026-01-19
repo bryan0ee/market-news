@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-01-19T10:54:45.091Z",
+  "last_updated": "2026-01-19T13:48:53.930Z",
   "items": [
+    {
+      "ts": "2026-01-19T11:52:00.000Z",
+      "headline": "As competition heats up, OpenAI changes course and introduces ads on ChatGPT",
+      "url": "https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Confronted with fierce competition from its rivals and immense funding requirements in the next few years, Altman announced ads on ChatGPT.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-19T10:02:00.000Z",
       "headline": "A year after his death, Gene Hackman&#x2019;s longtime Santa Fe home is listed for $6.25 million",
@@ -11,6 +23,18 @@
         "ED"
       ],
       "summary_en": "Actor&#xa0;Gene Hackman&#x2019;s longtime&#xa0;New Mexico&#xa0;compound has hit the market, a year after he and&#xa0;his wife,&#xa0;Betsy Arakawa, were found dead&#xa0;inside the home.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-19T12:25:00.000Z",
+      "headline": "Is the stock market open on MLK Day? Does the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-mlk-day-does-the-post-office-deliver-mail-00591917?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Today&#x2019;s holiday commemorates the birth of civil rights leader Martin Luther King Jr.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -123,18 +147,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-18T16:18:00.000Z",
-      "headline": "Is the stock market open on MLK Day? Does the post office deliver mail?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-mlk-day-does-the-post-office-deliver-mail-00591917?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The Monday holiday commemorates the birth of civil rights leader Martin Luther King Jr.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-18T16:00:00.000Z",
       "headline": "My mom, 90, has dementia. My brother wants her to buy a $500K property near his house. Does that make any sense?",
       "url": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
@@ -156,18 +168,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;I don&#x2019;t want to step on any toes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-18T13:53:00.000Z",
-      "headline": "&#x2018;I&#x2019;m considering driving Lyft part time&#x2019;: I&#x2019;m 58 with a $1 million home. Do I finally give up work and enjoy life?",
-      "url": "https://www.marketwatch.com/story/im-considering-driving-lyft-part-time-im-58-with-a-1-million-home-do-i-finally-give-up-work-and-enjoy-life-39f985ac?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;One thought is for me to stop working at age 60, while my wife continues for two more years at her teaching job.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
