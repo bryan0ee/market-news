@@ -1,8 +1,116 @@
 {
-  "last_updated": "2026-01-19T23:30:59.322Z",
+  "last_updated": "2026-01-20T10:54:29.943Z",
   "items": [
     {
-      "ts": "2026-01-19T23:21:00.000Z",
+      "ts": "2026-01-20T09:52:00.000Z",
+      "headline": "Four times in 22 minutes, Bessent says there&#x2019;s &#x2018;hysteria&#x2019; over Greenland tariff threat",
+      "url": "https://www.marketwatch.com/story/four-times-in-22-minutes-bessent-says-theres-hysteria-over-greenland-tariff-threat-7f4eef95?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Treasury Secretary Scott Bessent said the reaction to President Donald Trump&#x2019;s threat to enact tariffs over Greenland is like the &#x201c;hysteria&#x201d; that greeted the president&#x2019;s earlier tariffs in April.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T10:45:00.000Z",
+      "headline": "&#x2018;People are often unreasonable when money is involved&#x2019;: My husband, 62, gave me a 5-year life estate. Would I have to pay for a new roof?",
+      "url": "https://www.marketwatch.com/story/people-are-often-unreasonable-when-money-is-involved-my-husband-62-gave-me-a-5-year-life-estate-would-i-have-to-pay-for-a-new-roof-db4e0efb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;He has included a provision stating that I would be responsible for &#x2018;maintenance and expenses&#x2019; during my occupancy.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T10:05:00.000Z",
+      "headline": "Actress Aubrey Plaza puts L.A. home back on the market for discounted price of $5.75 million",
+      "url": "https://www.marketwatch.com/story/actress-aubrey-plaza-puts-l-a-home-back-on-the-market-for-discounted-price-of-5-75-million-3710f325?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Aubrey Plaza has relisted the Mediterranean-style Los Angeles home where her husband, Jeff Baena, died.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T10:01:00.000Z",
+      "headline": "Tennis star Tommy Paul and fiancee Paige Lorenze both list multi-million-dollar properties after buying &#x2018;dream forever home&#x2019;",
+      "url": "https://www.marketwatch.com/story/tennis-star-tommy-paul-and-fiancee-paige-lorenze-both-list-multi-million-dollar-properties-after-buying-dream-forever-home-e8ac24e5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Professional tennis star Tommy Paul and his fiancee, Paige Lorenze, appear to be making a major step toward married life by listing their homes for a combined $5.3 million.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T09:32:00.000Z",
+      "headline": "One Wall Street bank wastes no time downgrading Europe over Greenland threat",
+      "url": "https://www.marketwatch.com/story/one-wall-street-bank-wastes-no-time-downgrading-europe-over-greenland-threat-822b7b2b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Consensus expectations for European market EPS growth had been around 10% prior to this weekend. Now Citi thinks 8% more likely but risks are tilted to the downside.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T08:52:00.000Z",
+      "headline": "Natural-gas futures are jumping 20%. It will be toughest test in a decade, one analyst says.",
+      "url": "https://www.marketwatch.com/story/natural-gas-futures-are-jumping-20-it-will-be-toughest-test-in-a-decade-one-analyst-says-48d023bf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Natural-gas futures skyrocketed on Tuesday in anticipation of a bitter cold stretch in the Northeastern part in the U.S.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T08:17:00.000Z",
+      "headline": "ChatGPT is now doing what Sam Altman called a &#x2018;last resort&#x2019; only two years ago",
+      "url": "https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Confronted with fierce competition from its rivals and immense funding requirements in the next few years, Altman announced ads on ChatGPT.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T10:15:00.000Z",
+      "headline": "Trump threatens more tariffs. Investors gasp. Don&#x2019;t freak out over your 401(k).",
+      "url": "https://www.marketwatch.com/story/trump-threatens-more-tariffs-investors-gasp-dont-freak-out-over-your-401-k-d94aec34?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The stakes seem higher this time around, but the playbook is eerily similar.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T10:07:00.000Z",
+      "headline": "GSK announces $2.2 billion deal, targeting once-per-three-month food allergy drug",
+      "url": "https://www.marketwatch.com/story/gsk-announces-2-2-billion-deal-targeting-once-per-three-month-food-allergy-drug-a376ec3b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The growing scourge of food allergies drove U.K. heavyweight GSK to announce a $2.2 billion deal on Tuesday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T01:35:00.000Z",
       "headline": "Stock futures slump as U.S.-Europe trade tensions ramp up over Trump&#x2019;s Greenland demands",
       "url": "https://www.marketwatch.com/story/stock-futures-slump-as-u-s-europe-trade-tensions-ramp-up-over-trumps-greenland-demands-2fdf8af8?mod=mw_rss_topstories",
       "impact": "Bearish",
@@ -11,116 +119,6 @@
         "ED"
       ],
       "summary_en": "Wall Street braced for losses when regular trading resumes Tuesday, as U.S. stock futures fell over the holiday weekend following President Donald Trump&#x2019;s latest tariff threats against Europe.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T22:02:00.000Z",
-      "headline": "My sister is buying our parents&#x2019; $3 million house, but wants to deduct $100K for renovations. Who&#x2019;s right?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;If she didn&#x2019;t want the home, it would have been sold at fair market value.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T19:57:00.000Z",
-      "headline": "Jerome Powell will attend Supreme Court hearing on Lisa Cook&#x2019;s firing",
-      "url": "https://www.marketwatch.com/story/jerome-powell-will-attend-supreme-court-hearing-on-lisa-cooks-firing-23e75828?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Chair Jerome Powell, who has been a target of the Trump administration, is showing a sign of unity with another central-bank member.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T18:45:00.000Z",
-      "headline": "&#x2018;I still have a mortgage&#x2019;: I&#x2019;m no longer confident that my costs will actually fall in retirement. What can I do?",
-      "url": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED",
-        "COST"
-      ],
-      "summary_en": "&#x201c;I think my withdrawals from my 401(k) and IRA may need to be larger than my current take-home pay.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T17:37:00.000Z",
-      "headline": "&#x2018;I have no mortgage&#x2019;: Is it reckless to cancel my homeowner&#x2019;s insurance? I can&#x2019;t justify $4K a year anymore.",
-      "url": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My deductible is $5,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T16:04:00.000Z",
-      "headline": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
-      "url": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am 69, and started collecting Social Security when I was 66&#xbd;.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T17:23:00.000Z",
-      "headline": "Trump&#x2019;s latest E.U. tariff threats may spur more investors away from the &#x2018;buy America&#x2019; trade, analysts say",
-      "url": "https://www.marketwatch.com/story/trumps-latest-e-u-tariff-threats-may-spur-more-investors-away-from-the-buy-america-trade-analysts-say-6e6cbdbc?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Some are watching for a &#x201c;weaponization of capital,&#x201d; and moves into some Europe stocks &#x2014; and away from the dollar &#x2014; amid fresh U.S. tariffs threats against Europe.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T18:07:00.000Z",
-      "headline": "&#x2018;I have an economics degree from a fantastic university&#x2019;: I&#x2019;m 71 with $3 million and earn $250K. Is it time to retire?",
-      "url": "https://www.marketwatch.com/story/i-have-an-economics-degree-from-a-fantastic-university-im-71-with-3-million-and-earn-250k-is-it-time-to-retire-05a9aa37?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I have a home worth $1.2 million and owe $300,000 at 3% interest.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T17:00:00.000Z",
-      "headline": "I manage an $80K trust for a 15-year-old. How do I do deal with interfering relatives?",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I don&#x2019;t want to step on any toes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-19T16:45:00.000Z",
-      "headline": "My mom, 90, has dementia. My brother wants her to buy a $500K property near his house. Does that make any sense?",
-      "url": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I can&#x2019;t, for the life of me, see how this makes sense on any level &#x2014; personal or financial.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
