@@ -1,124 +1,125 @@
 {
-  "last_updated": "2026-01-20T13:50:13.950Z",
+  "last_updated": "2026-01-20T23:33:28.225Z",
   "items": [
     {
-      "ts": "2026-01-20T12:21:00.000Z",
-      "headline": "3M&#x2019;s earnings beat can&#x2019;t save the stock from the broad-market selloff",
-      "url": "https://www.marketwatch.com/story/3ms-earnings-beat-cant-save-the-stock-from-the-broad-market-selloff-cbc543c2?mod=mw_rss_topstories",
+      "ts": "2026-01-20T23:07:00.000Z",
+      "headline": "Netflix just boosted its case to win Warner Bros. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/netflix-just-boosted-its-case-to-win-warner-bros-heres-why-8a6a44cd?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of 3M slipped in early Tuesday trading, as the Post-it Notes, Scotch tape and Command strips maker&#x2019;s quarterly earnings beat and in-line profit outlook was overshadowed by a broad-market selloff.",
+      "summary_en": "Netflix beats quarterly expectations amid fight to acquire Warner Bros. Discovery, suggesting it&#x2019;s in a position of strength, not necessity.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-20T11:04:00.000Z",
-      "headline": "Netflix expected to see ad boom, even as Warner Bros. acquisition casts shadow on earnings",
-      "url": "https://www.marketwatch.com/story/netflix-expected-to-see-ad-boom-even-as-warner-bros-acquisition-casts-shadow-on-earnings-c005a348?mod=mw_rss_topstories",
+      "ts": "2026-01-20T22:05:00.000Z",
+      "headline": "United&#x2019;s stock rallies as airline&#x2019;s perks and loyalty strategy pays off",
+      "url": "https://www.marketwatch.com/story/uniteds-stock-rallies-as-airlines-perks-and-loyalty-strategy-pays-off-ce7ec4c3?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "While investors don&#x2019;t seem to happy that Netflix CEO Ted Sarandos has moved to acquire Warner Bros. Discovery, analysts say Netflix&#x2019;s business fundamentals remain strong and are predicting strong ad growth ahead.",
+      "summary_en": "United Airlines late Tuesday reported better-than-expected profits for the holiday quarter, saying its focus on loyal fliers is paying off and that &#x201c;strong momentum&#x201d; continued into the new year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-20T12:00:00.000Z",
-      "headline": "My sister is buying our parents&#x2019; $3 million house, but wants to deduct $100K for renovations. Who&#x2019;s right?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
+      "ts": "2026-01-20T22:03:00.000Z",
+      "headline": "&#x2018;Sell America&#x2019; trade makes a comeback as U.S. stocks see biggest drop in months. Here&#x2019;s what investors need to know.",
+      "url": "https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "The &#x201c;Sell America&#x201d; trade made a comeback on Tuesday following President Donald Trump&#x2019;s latest tariff threats against European allies, giving investors a taste of the volatility that rocked global markets in April.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T21:37:00.000Z",
+      "headline": "Here&#x2019;s how much risk the U.S. faces if global investors &#x2018;weaponize&#x2019; American stocks and bonds",
+      "url": "https://www.marketwatch.com/story/heres-how-much-risk-the-u-s-faces-if-global-investors-weaponize-american-stocks-and-bonds-813f5204?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump&#x2019;s attempt to browbeat Denmark into parting with Greenland has revived worries that foreign investors could start dumping U.S. assets &#x2014; particularly bonds &#x2014; in retaliation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T21:23:00.000Z",
+      "headline": "Trade war redux? Greenland dispute threatens $1 trillion in trade between U.S. and Europe.",
+      "url": "https://www.marketwatch.com/story/trade-war-redux-greenland-dispute-threatens-1-trillion-in-trade-between-u-s-and-europe-c7e1a159?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump&#x2019;s threat to pile new tariffs on some European countries resisting his effort to obtain Greenland have put trade fights back on the front burner and rattled global financial markets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-20T22:08:00.000Z",
+      "headline": "These stocks were the biggest losers on the S&P 500&#x2019;s worst day in three months",
+      "url": "https://www.marketwatch.com/story/these-stocks-were-the-biggest-losers-on-the-s-p-500s-worst-day-in-three-months-be705c89?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;If she didn&#x2019;t want the home, it would have been sold at fair market value.&#x201d;",
+      "summary_en": "The damage was widespread as investors showed their displeasure with Trump&#x2019;s tough words for U.S. allies",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-20T11:15:00.000Z",
-      "headline": "&#x2018;I&#x2019;m simply exhausted&#x2019;: I&#x2019;m 55 and have $1.3 million for retirement. Can I retire next year?",
-      "url": "https://www.marketwatch.com/story/im-simply-exhausted-im-55-and-have-1-3-million-for-retirement-can-i-retire-next-year-8a796d64?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-01-20T21:40:00.000Z",
+      "headline": "I got hate mail for being a Tesla stock bull &#x2014; but here&#x2019;s the No. 1 thing many are missing about Elon Musk&#x2019;s AI ambitions",
+      "url": "https://www.marketwatch.com/story/i-got-hate-mail-for-being-a-tesla-stock-bull-but-heres-the-no-1-thing-many-are-missing-about-elon-musks-ai-ambitions-44643c65?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I had a major health scare 4 years ago, and I&#x2019;ve seen close friends die from cancer, heart disease, etc., way too soon.&#x201d;",
+      "summary_en": "Tesla stock is the only portal right now to xAI and Musk&#x2019;s other empire-building plans.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-20T10:56:00.000Z",
-      "headline": "This U.K. firm chalked up the biggest hedge-fund profit ever last year",
-      "url": "https://www.marketwatch.com/story/this-u-k-firm-chalked-up-the-biggest-hedge-fund-profit-ever-last-year-34438d9e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Big bets on defence and infrastructure spending helped lift TCI&#x2019;s annual return to 27%. The biggest hedge funds are proving themselves the best hedge funds in this era.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-20T13:45:00.000Z",
-      "headline": "How Greenland could turn into a Big Tech problem, according to Morgan Stanley&#x2019;s Mike Wilson",
-      "url": "https://www.marketwatch.com/story/how-greenland-could-turn-into-a-big-tech-problem-according-to-morgan-stanleys-mike-wilson-eabee481?mod=mw_rss_topstories",
+      "ts": "2026-01-20T22:27:00.000Z",
+      "headline": "As the dollar slides, currency traders are overlooking a bigger risk around Greenland",
+      "url": "https://www.marketwatch.com/story/as-the-dollar-slides-currency-traders-are-overlooking-a-bigger-risk-around-greenland-61cc8b49?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Strategists like Morgan Stanley&#x2019;s chief U.S. equity strategist say fallout from a brewing U.S.-Europe spat over Greenland could be bad for tech.",
+      "summary_en": "The U.S. dollar was weakening Tuesday after an escalation in geopolitical tensions involving President Donald Trump&#x2019;s desire to buy Greenland &#x2014; but some analysts expect the euro would have a bigger problem in &#x2018;a meltdown in the E.U.-U.S. relationship.&#x2019;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-20T10:45:00.000Z",
-      "headline": "&#x2018;People are often unreasonable when money is involved&#x2019;: My husband, 62, gave me a 5-year life estate. Would I have to pay for a new roof?",
-      "url": "https://www.marketwatch.com/story/people-are-often-unreasonable-when-money-is-involved-my-husband-62-gave-me-a-5-year-life-estate-would-i-have-to-pay-for-a-new-roof-db4e0efb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He has included a provision stating that I would be responsible for &#x2018;maintenance and expenses&#x2019; during my occupancy.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-20T13:12:00.000Z",
-      "headline": "Netflix bolsters its bid for Warner Bros. by making it all cash",
-      "url": "https://www.marketwatch.com/story/netflix-bolsters-its-bid-for-warner-bros-by-making-it-all-cash-f56e172b?mod=mw_rss_topstories",
+      "ts": "2026-01-20T21:51:00.000Z",
+      "headline": "Uber&#x2019;s CEO has this advice for investors trying to find the real AI winners",
+      "url": "https://www.marketwatch.com/story/ubers-ceo-has-this-advice-for-investors-trying-to-find-the-real-ai-winners-ef473f16?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The change addresses one of Paramount&#x2019;s arguments of why its buyout bid was better than that of Netflix &#x2014; it didn&#x2019;t include stock.",
+      "summary_en": "Avoid companies simply &#x201c;play-acting&#x201d; with AI, according to Uber&#x2019;s Dara Khosrowshahi.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-20T12:27:00.000Z",
-      "headline": "Elon Musk and Ryanair&#x2019;s CEO call each other &#x2018;idiots.&#x2019; The numbers say something else.",
-      "url": "https://www.marketwatch.com/story/elon-musk-and-ryanairs-ceo-call-each-other-idiots-the-numbers-say-something-else-338bad3c?mod=mw_rss_topstories",
+      "ts": "2026-01-20T21:47:00.000Z",
+      "headline": "Oracle&#x2019;s stock could be a big winner for the next decade, according to this analyst. Here&#x2019;s why.",
+      "url": "https://www.marketwatch.com/story/oracles-stock-could-be-a-big-winner-for-the-next-decade-according-to-this-analyst-heres-why-e1ba8777?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Elon Musk and Michael O&#x2019;Leary are calling each other idiots &#x2014; but shareholders of both companies would reject that charge.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-20T12:00:00.000Z",
-      "headline": "Ask these 3 questions before deciding whether to do your own taxes or hire a pro",
-      "url": "https://www.marketwatch.com/story/ask-these-3-questions-before-deciding-whether-to-do-your-own-taxes-or-hire-a-pro-5ae353bb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Tax filing season starts Jan. 26 and it&#x2019;s the first with Trump big new tax law on the books",
+      "summary_en": "Fears over Oracle&#x2019;s AI debt load and OpenAI concentration are overblown &#x2014; and they mask a massive long-term opportunity, according to Guggenheim.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -131,18 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-13T22:30:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Fifth Third Bancorp",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
