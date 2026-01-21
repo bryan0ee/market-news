@@ -1,93 +1,82 @@
 {
-  "last_updated": "2026-01-21T13:49:48.386Z",
+  "last_updated": "2026-01-21T23:36:11.814Z",
   "items": [
     {
-      "ts": "2026-01-21T13:37:00.000Z",
-      "headline": "Kraft Heinz&#x2019;s stock sinks as Berkshire Hathaway may sell off its large stake",
-      "url": "https://www.marketwatch.com/story/kraft-heinz-stock-falls-as-berkshire-hathaway-may-sell-off-nearly-its-entire-stake-55623e91?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The food giant is in the process of unraveling its 2015 merger between Kraft Foods and Heinz, as it intends to split into two publicly traded companies.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T13:09:00.000Z",
-      "headline": "United&#x2019;s perks and loyalty strategy pays off, as its stock surges after earnings",
-      "url": "https://www.marketwatch.com/story/uniteds-stock-rallies-as-airlines-perks-and-loyalty-strategy-pays-off-ce7ec4c3?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "United Airlines late Tuesday reported better-than-expected profits for the holiday quarter, saying its focus on loyal fliers is paying off and that &#x201c;strong momentum&#x201d; continued into the new year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T13:46:00.000Z",
-      "headline": "This bitcoin evangelist says inflation is far exceeding official statistics &#x2014; by tracking ribeye prices",
-      "url": "https://www.marketwatch.com/story/this-bitcoin-evangelist-says-inflation-is-far-exceeding-official-statistics-by-tracking-ribeye-prices-31e0124c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Forget the consumer price index &#x2014; this bitcoin evangelist is tracking ribeye steak prices for what he thinks is a better measure of inflation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T13:44:00.000Z",
-      "headline": "&#x2018;It&#x2019;s driving me crazy&#x2019;: My brother-in-law is coercing my husband to cosign a renovation loan. How can I stop this?",
-      "url": "https://www.marketwatch.com/story/its-driving-me-crazy-my-brother-in-law-is-coercing-my-husband-to-cosign-a-renovation-loan-how-can-i-stop-this-c7d9c1cf?mod=mw_rss_topstories",
+      "ts": "2026-01-21T23:15:00.000Z",
+      "headline": "&#x2018;I&#x2019;m simply exhausted&#x2019;: I&#x2019;m 55 and have $1.3 million for retirement. Can I retire next year?",
+      "url": "https://www.marketwatch.com/story/im-simply-exhausted-im-55-and-have-1-3-million-for-retirement-can-i-retire-next-year-8a796d64?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My husband feels guilty because we received help from my side of the family when purchasing our current home.&#x201d;",
+      "summary_en": "&#x201c;I had a major health scare 4 years ago, and I&#x2019;ve seen close friends die from cancer, heart disease, etc., way too soon.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-21T13:30:00.000Z",
-      "headline": "Sorry, &#x2018;Dr. Google.&#x2019; ChatGPT and Claude are now getting into the business of providing health advice.",
-      "url": "https://www.marketwatch.com/story/sorry-dr-google-chatgpt-and-claude-are-now-getting-into-the-business-of-providing-health-advice-426c167e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "OpenAI and Anthropic are moving into the complicated world of health information. Will ChatGPT help or hurt patient health?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T13:15:00.000Z",
-      "headline": "Small stocks have crushed big ones this year, but that may just be a mirage",
-      "url": "https://www.marketwatch.com/story/small-stocks-have-crushed-big-ones-this-year-but-that-may-just-be-a-mirage-dcd84284?mod=mw_rss_topstories",
+      "ts": "2026-01-21T22:56:00.000Z",
+      "headline": "My sister is buying our parents&#x2019; $3 million house, but wants to deduct $100K for renovations. Who&#x2019;s right?",
+      "url": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Small-cap investors are convinced the stock-market tide has turned in their favor.",
+      "summary_en": "&#x201c;If she didn&#x2019;t want the home, it would have been sold at fair market value.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-21T12:50:00.000Z",
-      "headline": "China tells the world it&#x2019;s a haven for clean-energy investors &#x2014; but in fact it&#x2019;s a big-time coal burner",
-      "url": "https://www.marketwatch.com/story/china-tells-the-world-its-a-haven-for-clean-energy-investors-but-in-fact-its-a-big-time-coal-burner-c20b5367?mod=mw_rss_topstories",
+      "ts": "2026-01-21T22:40:00.000Z",
+      "headline": "Big Tech stocks haven&#x2019;t been this cheap in months. These investors say it&#x2019;s time to buy.",
+      "url": "https://www.marketwatch.com/story/big-tech-stocks-havent-been-this-cheap-in-months-these-investors-say-its-time-to-buy-3024306d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "China is praised at Davos for being a global alternative-enegy innovator. But its coal mining industry holds the real power.",
+      "summary_en": "The &#x2018;Magnificent Seven&#x2019; have become the &#x201c;Lag-nificent Seven&#x201d; one analyst joked, and that spells opportunity.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-21T12:35:00.000Z",
+      "ts": "2026-01-21T22:24:00.000Z",
+      "headline": "As gold retreats, here&#x2019;s what&#x2019;s needed to push prices back toward $5,000",
+      "url": "https://www.marketwatch.com/story/as-gold-retreats-heres-whats-needed-to-push-prices-back-toward-5-000-4c7f47c6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "A big change in the news on Wednesday afternoon may have slowed gold&#x2019;s prospects for reaching $5,000 an ounce any time soon.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-21T22:01:00.000Z",
+      "headline": "I&#x2019;m a CPA with a masters. I just learned the new executive assistant at my job is making $10K more than me. How do I get a raise?",
+      "url": "https://www.marketwatch.com/story/im-a-cpa-i-found-out-that-an-executive-assistant-makes-10k-more-than-me-can-i-use-this-to-get-a-raise-12db4340?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She makes $140,000, while I make $130,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-21T21:54:00.000Z",
+      "headline": "GE&#x2019;s stock has lost its bullish momentum. Can earnings provide the jolt it needs?",
+      "url": "https://www.marketwatch.com/story/ges-stock-has-lost-its-bullish-momentum-can-earnings-provide-the-jolt-it-needs-e0df6975?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "GE Aerospace&#x2019;s earnings need to do more than just lift the stock price for bulls to regain momentum.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-21T21:46:00.000Z",
       "headline": "Lululemon&#x2019;s struggles mount, now with backlash against a new line of &#x2018;see-through&#x2019; pants",
       "url": "https://www.marketwatch.com/story/lululemons-struggles-mount-now-with-backlash-against-a-new-line-of-see-through-pants-3ad839b4?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -99,20 +88,32 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-21T13:44:00.000Z",
-      "headline": "&#x2018;Falling apart in real time.&#x2019; Former star Fidelity manager warns on OpenAI, tells investors to shelter in these assets.",
-      "url": "https://www.marketwatch.com/story/falling-apart-in-real-time-former-star-fidelity-manager-warns-on-openai-tells-investors-to-shelter-in-these-assets-8a436d7c?mod=mw_rss_topstories",
+      "ts": "2026-01-21T21:45:00.000Z",
+      "headline": "&#x2018;The house has quadrupled in value&#x2019;: I bought a house with my brother, but he did not contribute. How do I fix this?",
+      "url": "https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Veteran money manager George Noble sees high risk in AI adjacent plays as OpenAI starts to fall apart. He has advice on where to shelter.",
+      "summary_en": "&#x201c;My brother lived with me for eight years, then left to live abroad, married and followed his dreams.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-21T13:05:00.000Z",
-      "headline": "This is the secret to spending money with no regrets, says the guy who wrote the book on it&#xa0;",
+      "ts": "2026-01-21T21:39:00.000Z",
+      "headline": "Social Security is making a change that could disrupt service for millions of Americans",
+      "url": "https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A slimmed-down workforce will handle cases on a nationwide basis &#x2014; what does that mean for its 75 million beneficiaries?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-21T21:49:00.000Z",
+      "headline": "Here&#x2019;s the secret to spending money with no regrets",
       "url": "https://www.marketwatch.com/story/this-is-the-secret-to-spending-money-with-no-regrets-says-the-guy-who-wrote-the-book-on-it-c5b38940?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
