@@ -1,106 +1,105 @@
 {
-  "last_updated": "2026-01-22T13:50:07.225Z",
+  "last_updated": "2026-01-22T23:31:57.302Z",
   "items": [
     {
-      "ts": "2026-01-22T13:44:00.000Z",
-      "headline": "U.S. grew 4.4% in the third quarter, GDP shows. Economy showed little sign of slowing.",
-      "url": "https://www.marketwatch.com/story/u-s-grew-4-4-in-the-third-quarter-gdp-shows-economy-showed-little-sign-of-slowing-03a3552c?mod=mw_rss_topstories",
+      "ts": "2026-01-22T23:22:00.000Z",
+      "headline": "Bond investors should worry less about Treasury yields, and watch this move instead",
+      "url": "https://www.marketwatch.com/story/bond-investors-should-worry-less-about-treasury-yields-and-watch-this-move-instead-937fc339?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Consumer spending and business investment drive robust growth",
+      "summary_en": "Tensions between the U.S. and its NATO allies over Greenland put some investors on edge",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T12:33:00.000Z",
-      "headline": "GE&#x2019;s stock turns lower, as its revenue growth is slowing",
-      "url": "https://www.marketwatch.com/story/ges-stock-turns-lower-as-its-revenue-growth-is-slowing-ba943592?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "GE&#x2019;s stock gave back early premarket gains after quarterly results beat expectations for many metrics, and the full-year outlook for revenue growth was better than Wall Street projected.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-22T13:02:00.000Z",
-      "headline": "China&#x2019;s green-energy revolution is losing $60 billion a year. Why are investors still throwing money at it?",
-      "url": "https://www.marketwatch.com/story/china-tells-the-world-its-a-haven-for-clean-energy-investors-but-in-fact-its-a-big-time-coal-burner-c20b5367?mod=mw_rss_topstories",
+      "ts": "2026-01-22T23:01:00.000Z",
+      "headline": "Wall Street clocks in a rally for second day across tech stocks, small caps and long-term Treasurys",
+      "url": "https://www.marketwatch.com/story/wall-street-clocks-in-a-rally-for-second-day-across-tech-stocks-small-caps-and-long-term-treasurys-294f1384?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "China is praised for being a global alternative-enegy innovator. But its coal mining industry holds the real power.",
+      "summary_en": "Everything from technology stocks to small caps advancing on Thursday, while longer-term Treasurys eased for a second day.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T12:58:00.000Z",
-      "headline": "This contrarian trader says silver has topped out &#x2014; and this week&#x2019;s action proves it",
-      "url": "https://www.marketwatch.com/story/this-contrarian-trader-says-silver-has-topped-out-and-this-weeks-action-proves-it-daf3df03?mod=mw_rss_topstories",
+      "ts": "2026-01-22T22:32:00.000Z",
+      "headline": "Under Armour is investigating claims of a data breach. Here&#x2019;s what customer info may have been compromised.",
+      "url": "https://www.marketwatch.com/story/under-armour-is-investigating-claims-of-a-data-breach-heres-what-customer-info-may-have-been-compromised-59c25f26?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Silver&#x2019;s failure to respond as positively to rising geopolitical risk as gold this week is evidence of the trade becoming &#x201c;tired&#x201d; says Kevin Muir",
+      "summary_en": "Athleisure-wear maker Under Armour is looking into a possible cyberattack that may have compromised data for millions of users &#x2014; although no evidence has emerged yet of stolen financial data or passwords",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T12:48:00.000Z",
-      "headline": "Yes, &#x2018;DOGE&#x2019; did put our Social Security data at risk. Here&#x2019;s what lawmakers are doing about it.",
-      "url": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "WM",
-        "ED"
-      ],
-      "summary_en": "Trump administration admits to security breaches that had been outlined in a whistleblower complaint",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-22T12:41:00.000Z",
-      "headline": "Small-cap stocks are off to a rare bullish start. History says tech is the better bet.",
-      "url": "https://www.marketwatch.com/story/history-still-favors-tech-after-a-rare-early-year-lift-off-for-the-russell-2000-says-goldman-61510f64?mod=mw_rss_topstories",
+      "ts": "2026-01-22T21:36:00.000Z",
+      "headline": "Tesla&#x2019;s stock pops on a robotaxi milestone. Here&#x2019;s what comes next.",
+      "url": "https://www.marketwatch.com/story/teslas-stock-pops-on-a-robotaxi-milestone-heres-what-comes-next-00aae31f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Goldman Sachs crunched the numbers and found that smaller-cap stocks have seen some rare strong starts to the year. What happens a year later may discourage some bulls.",
+      "summary_en": "Tesla has started removing safety drivers from some robotaxi rides. CEO Elon Musk expects the company&#x2019;s robotaxi network to be &#x201c;very, very widespread&#x201d; in the U.S by the end of 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T13:35:00.000Z",
-      "headline": "Jobless claims point to a more stable labor market",
-      "url": "https://www.marketwatch.com/story/jobless-claims-point-to-a-more-stable-labor-market-620c6e90?mod=mw_rss_marketpulse",
+      "ts": "2026-01-22T21:33:00.000Z",
+      "headline": "BitGo&#x2019;s stock leaps out of the gate, as IPO investors are undeterred by bitcoin&#x2019;s selloff",
+      "url": "https://www.marketwatch.com/story/bitgo-is-boldly-going-public-at-a-time-of-uncertainty-for-bitcoins-outlook-2cc35d74?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The first big IPO of the year receives a warm Wall Street welcome, though most of its early gains evaporate",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T21:25:00.000Z",
+      "headline": "AMD&#x2019;s stock is on a hot streak not seen in six years",
+      "url": "https://www.marketwatch.com/story/amds-stock-is-on-a-hot-streak-not-seen-in-six-years-eae76f1d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "AMD"
+      ],
+      "summary_en": "AMD&#x2019;s stock is riding the broad excitement over central processing units for AI servers",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T22:37:00.000Z",
+      "headline": "Elon Musk has an ambitious new target for when Tesla&#x2019;s Optimus robots will go on sale",
+      "url": "https://www.marketwatch.com/story/elon-musk-says-tesla-will-sell-optimus-robots-to-consumers-by-the-end-of-2027-b0ce1729?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Jobless claims point to a more stable labor market",
+      "summary_en": "The Tesla CEO has told shareholders that humanoid robots could add $20 trillion to the company&#x2019;s valuation.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T12:49:00.000Z",
-      "headline": "J.D. and Usha Vance are expecting their fourth kid. Most American parents can&#x2019;t afford to have that many children.",
-      "url": "https://www.marketwatch.com/story/j-d-and-usha-vance-are-expecting-their-fourth-kid-most-american-parents-cant-afford-to-have-that-many-children-f5e9eb5b?mod=mw_rss_topstories",
+      "ts": "2026-01-22T22:05:00.000Z",
+      "headline": "Clorox to buy Purell maker for more than $2 billion, eyeing 20 million hand-sanitizer dispensers and more",
+      "url": "https://www.marketwatch.com/story/clorox-to-buy-purell-maker-for-more-than-2-billion-eyeing-20-million-hand-sanitizer-dispensers-and-more-c563a034?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The vice president wants Americans to have more babies. But the typical family cannot afford a &#x201c;modest yet adequate standard of living&#x201d; for four children.",
+      "summary_en": "A deal would underscore broad investor interest in an important, though not flashy, corner of the healthcare business involving services and products to hospitals.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T12:44:00.000Z",
-      "headline": "Lululemon&#x2019;s founder lashes out at the company, saying it has &#x2018;completely lost its way&#x2019;",
+      "ts": "2026-01-22T21:39:00.000Z",
+      "headline": "Lululemon&#x2019;s founder says yoga-wear giant has &#x2018;completely lost its way&#x2019;",
       "url": "https://www.marketwatch.com/story/lululemons-founder-lashes-out-at-the-company-saying-it-has-completely-lost-its-way-12ac062c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -111,27 +110,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T12:30:00.000Z",
-      "headline": "These stocks could be big winners from Trump&#x2019;s &#x2018;populism&#x2019; push, according to Citi",
-      "url": "https://www.marketwatch.com/story/these-stocks-could-be-big-winners-from-trumps-populism-push-according-to-citi-6b9706a5?mod=mw_rss_topstories",
+      "ts": "2026-01-22T21:15:00.000Z",
+      "headline": "Why the winter storm that&#x2019;s about to hit could be especially treacherous for flying",
+      "url": "https://www.marketwatch.com/story/why-the-winter-storm-thats-about-to-hit-could-be-especially-treacherous-for-flying-72c4f55f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Analysts say fintech stocks look like prime beneficiaries of a changing regulatory environment and Trump&#x2019;s &#x201c;affordability&#x201d; initiatives.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-22T12:00:00.000Z",
-      "headline": "&#x2018;It&#x2019;s my money&#x2019;: My $800K inheritance is paying for a $1.6 million house. Shouldn&#x2019;t I decide where my husband and I live?",
-      "url": "https://www.marketwatch.com/story/its-my-money-my-800k-inheritance-is-paying-for-a-1-6-million-house-shouldnt-i-decide-where-my-husband-and-i-live-995dbd0c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x2018;My husband and I have been together for 25 years. We have two children&#x2019;",
+      "summary_en": "The massive storm presents a logistics puzzle for airlines, in part because it will also affect airports in the South. Expect horror stories.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-15T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
