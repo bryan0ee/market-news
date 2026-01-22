@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-01-21T23:36:11.814Z",
+  "last_updated": "2026-01-22T10:54:19.323Z",
   "items": [
+    {
+      "ts": "2026-01-22T10:30:00.000Z",
+      "headline": "&#x2018;I am resentful&#x2019;: My second husband&#x2019;s kids treat him like dirt &#x2014; so why is he leaving them his $1 million life insurance?",
+      "url": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Both of us were widowed. We are in our late 60s and retired.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T10:04:00.000Z",
+      "headline": "&#x2018;The Pitt&#x2019; star Noah Wyle on his money struggles after &#x2018;ER&#x2019; came to an end",
+      "url": "https://www.marketwatch.com/story/the-pitt-star-noah-wyle-on-his-money-struggles-after-er-came-to-an-end-062e88c3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Before &#x201c;The Pitt&#x201d;, he was Dr. John Carter on the hit show &#x201c;ER&#x201d; and for 15 years, nothing he did seemed to mirror the success of that first major series.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T09:39:00.000Z",
+      "headline": "With gold closing in on $5,000, Goldman Sachs again boost target as it highlights new source of demand",
+      "url": "https://www.marketwatch.com/story/with-gold-closing-in-on-5-000-goldman-sachs-again-boost-target-as-it-highlights-new-source-of-demand-fbec1485?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Goldman Sachs identifies central banks and private sector buyers as the chief vectors behind gold&#x2019;s expected rise in 2026.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T08:56:00.000Z",
+      "headline": "Prince of Persia remake cancellation leads Ubisoft to its worst day ever; Citadel short bet pays off",
+      "url": "https://www.marketwatch.com/story/prince-of-persia-remake-cancellation-leads-ubisoft-to-its-worst-day-ever-citadel-short-bet-pays-off-5315af45?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The cancellation of six video games titles in the works as part of a broad restructuring sent Ubisoft Entertainment shares to their worst day on record on Thursday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T02:11:00.000Z",
+      "headline": "Turns out, DOGE did put Social Security data at risk. Here&#x2019;s what lawmakers are doing about it.",
+      "url": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "WM",
+        "ED"
+      ],
+      "summary_en": "Trump administration admits to security breaches that had been outlined in a whistleblower complaint",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T01:47:00.000Z",
+      "headline": "Boarding a plane has become &#x2018;elitist,&#x2019; passengers say &#x2014; but airlines profit off premium travelers getting priority status",
+      "url": "https://www.marketwatch.com/story/boarding-a-plane-has-become-elitist-passengers-say-but-airlines-profit-off-premium-travelers-getting-priority-status-d5e0a32b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Video of a United Airlines passenger asserting his right to jump ahead of a family with young kids has brought fresh attention to how competitive boarding is getting",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T00:46:00.000Z",
+      "headline": "Trump&#x2019;s tariff reversal sparked a market rally &#x2014; but the violent swing in stocks is a warning of what lies ahead for investors",
+      "url": "https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors are getting accustomed to a familiar pattern known on Wall Street as &#x2018;TACO&#x2019; &#x2014; the assumption that the president eventually reverses policies that threaten to sink the market",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-16T18:45:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-21T23:15:00.000Z",
       "headline": "&#x2018;I&#x2019;m simply exhausted&#x2019;: I&#x2019;m 55 and have $1.3 million for retirement. Can I retire next year?",
@@ -35,104 +132,6 @@
         "ED"
       ],
       "summary_en": "The &#x2018;Magnificent Seven&#x2019; have become the &#x201c;Lag-nificent Seven&#x201d; one analyst joked, and that spells opportunity.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T22:24:00.000Z",
-      "headline": "As gold retreats, here&#x2019;s what&#x2019;s needed to push prices back toward $5,000",
-      "url": "https://www.marketwatch.com/story/as-gold-retreats-heres-whats-needed-to-push-prices-back-toward-5-000-4c7f47c6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "A big change in the news on Wednesday afternoon may have slowed gold&#x2019;s prospects for reaching $5,000 an ounce any time soon.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T22:01:00.000Z",
-      "headline": "I&#x2019;m a CPA with a masters. I just learned the new executive assistant at my job is making $10K more than me. How do I get a raise?",
-      "url": "https://www.marketwatch.com/story/im-a-cpa-i-found-out-that-an-executive-assistant-makes-10k-more-than-me-can-i-use-this-to-get-a-raise-12db4340?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She makes $140,000, while I make $130,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T21:54:00.000Z",
-      "headline": "GE&#x2019;s stock has lost its bullish momentum. Can earnings provide the jolt it needs?",
-      "url": "https://www.marketwatch.com/story/ges-stock-has-lost-its-bullish-momentum-can-earnings-provide-the-jolt-it-needs-e0df6975?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "GE Aerospace&#x2019;s earnings need to do more than just lift the stock price for bulls to regain momentum.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T21:46:00.000Z",
-      "headline": "Lululemon&#x2019;s struggles mount, now with backlash against a new line of &#x2018;see-through&#x2019; pants",
-      "url": "https://www.marketwatch.com/story/lululemons-struggles-mount-now-with-backlash-against-a-new-line-of-see-through-pants-3ad839b4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The quality issue raises bigger questions for investors, as Lululemon has prided itself on technical and design prowess.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T21:45:00.000Z",
-      "headline": "&#x2018;The house has quadrupled in value&#x2019;: I bought a house with my brother, but he did not contribute. How do I fix this?",
-      "url": "https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My brother lived with me for eight years, then left to live abroad, married and followed his dreams.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T21:39:00.000Z",
-      "headline": "Social Security is making a change that could disrupt service for millions of Americans",
-      "url": "https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A slimmed-down workforce will handle cases on a nationwide basis &#x2014; what does that mean for its 75 million beneficiaries?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T21:49:00.000Z",
-      "headline": "Here&#x2019;s the secret to spending money with no regrets",
-      "url": "https://www.marketwatch.com/story/this-is-the-secret-to-spending-money-with-no-regrets-says-the-guy-who-wrote-the-book-on-it-c5b38940?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Author Morgan Housel has a strategy for your finances that works regardless of what the economy does.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-16T18:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
