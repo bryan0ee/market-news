@@ -1,57 +1,57 @@
 {
-  "last_updated": "2026-01-22T10:54:19.323Z",
+  "last_updated": "2026-01-22T13:50:07.225Z",
   "items": [
     {
-      "ts": "2026-01-22T10:30:00.000Z",
-      "headline": "&#x2018;I am resentful&#x2019;: My second husband&#x2019;s kids treat him like dirt &#x2014; so why is he leaving them his $1 million life insurance?",
-      "url": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
+      "ts": "2026-01-22T13:44:00.000Z",
+      "headline": "U.S. grew 4.4% in the third quarter, GDP shows. Economy showed little sign of slowing.",
+      "url": "https://www.marketwatch.com/story/u-s-grew-4-4-in-the-third-quarter-gdp-shows-economy-showed-little-sign-of-slowing-03a3552c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Both of us were widowed. We are in our late 60s and retired.&#x201d;",
+      "summary_en": "Consumer spending and business investment drive robust growth",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T10:04:00.000Z",
-      "headline": "&#x2018;The Pitt&#x2019; star Noah Wyle on his money struggles after &#x2018;ER&#x2019; came to an end",
-      "url": "https://www.marketwatch.com/story/the-pitt-star-noah-wyle-on-his-money-struggles-after-er-came-to-an-end-062e88c3?mod=mw_rss_topstories",
+      "ts": "2026-01-22T12:33:00.000Z",
+      "headline": "GE&#x2019;s stock turns lower, as its revenue growth is slowing",
+      "url": "https://www.marketwatch.com/story/ges-stock-turns-lower-as-its-revenue-growth-is-slowing-ba943592?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "GE&#x2019;s stock gave back early premarket gains after quarterly results beat expectations for many metrics, and the full-year outlook for revenue growth was better than Wall Street projected.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T13:02:00.000Z",
+      "headline": "China&#x2019;s green-energy revolution is losing $60 billion a year. Why are investors still throwing money at it?",
+      "url": "https://www.marketwatch.com/story/china-tells-the-world-its-a-haven-for-clean-energy-investors-but-in-fact-its-a-big-time-coal-burner-c20b5367?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Before &#x201c;The Pitt&#x201d;, he was Dr. John Carter on the hit show &#x201c;ER&#x201d; and for 15 years, nothing he did seemed to mirror the success of that first major series.",
+      "summary_en": "China is praised for being a global alternative-enegy innovator. But its coal mining industry holds the real power.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T09:39:00.000Z",
-      "headline": "With gold closing in on $5,000, Goldman Sachs again boost target as it highlights new source of demand",
-      "url": "https://www.marketwatch.com/story/with-gold-closing-in-on-5-000-goldman-sachs-again-boost-target-as-it-highlights-new-source-of-demand-fbec1485?mod=mw_rss_topstories",
+      "ts": "2026-01-22T12:58:00.000Z",
+      "headline": "This contrarian trader says silver has topped out &#x2014; and this week&#x2019;s action proves it",
+      "url": "https://www.marketwatch.com/story/this-contrarian-trader-says-silver-has-topped-out-and-this-weeks-action-proves-it-daf3df03?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Goldman Sachs identifies central banks and private sector buyers as the chief vectors behind gold&#x2019;s expected rise in 2026.",
+      "summary_en": "Silver&#x2019;s failure to respond as positively to rising geopolitical risk as gold this week is evidence of the trade becoming &#x201c;tired&#x201d; says Kevin Muir",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T08:56:00.000Z",
-      "headline": "Prince of Persia remake cancellation leads Ubisoft to its worst day ever; Citadel short bet pays off",
-      "url": "https://www.marketwatch.com/story/prince-of-persia-remake-cancellation-leads-ubisoft-to-its-worst-day-ever-citadel-short-bet-pays-off-5315af45?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The cancellation of six video games titles in the works as part of a broad restructuring sent Ubisoft Entertainment shares to their worst day on record on Thursday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-22T02:11:00.000Z",
-      "headline": "Turns out, DOGE did put Social Security data at risk. Here&#x2019;s what lawmakers are doing about it.",
+      "ts": "2026-01-22T12:48:00.000Z",
+      "headline": "Yes, &#x2018;DOGE&#x2019; did put our Social Security data at risk. Here&#x2019;s what lawmakers are doing about it.",
       "url": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -63,27 +63,75 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T01:47:00.000Z",
-      "headline": "Boarding a plane has become &#x2018;elitist,&#x2019; passengers say &#x2014; but airlines profit off premium travelers getting priority status",
-      "url": "https://www.marketwatch.com/story/boarding-a-plane-has-become-elitist-passengers-say-but-airlines-profit-off-premium-travelers-getting-priority-status-d5e0a32b?mod=mw_rss_topstories",
+      "ts": "2026-01-22T12:41:00.000Z",
+      "headline": "Small-cap stocks are off to a rare bullish start. History says tech is the better bet.",
+      "url": "https://www.marketwatch.com/story/history-still-favors-tech-after-a-rare-early-year-lift-off-for-the-russell-2000-says-goldman-61510f64?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Video of a United Airlines passenger asserting his right to jump ahead of a family with young kids has brought fresh attention to how competitive boarding is getting",
+      "summary_en": "Goldman Sachs crunched the numbers and found that smaller-cap stocks have seen some rare strong starts to the year. What happens a year later may discourage some bulls.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-22T00:46:00.000Z",
-      "headline": "Trump&#x2019;s tariff reversal sparked a market rally &#x2014; but the violent swing in stocks is a warning of what lies ahead for investors",
-      "url": "https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-01-22T13:35:00.000Z",
+      "headline": "Jobless claims point to a more stable labor market",
+      "url": "https://www.marketwatch.com/story/jobless-claims-point-to-a-more-stable-labor-market-620c6e90?mod=mw_rss_marketpulse",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Investors are getting accustomed to a familiar pattern known on Wall Street as &#x2018;TACO&#x2019; &#x2014; the assumption that the president eventually reverses policies that threaten to sink the market",
+      "summary_en": "Jobless claims point to a more stable labor market",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T12:49:00.000Z",
+      "headline": "J.D. and Usha Vance are expecting their fourth kid. Most American parents can&#x2019;t afford to have that many children.",
+      "url": "https://www.marketwatch.com/story/j-d-and-usha-vance-are-expecting-their-fourth-kid-most-american-parents-cant-afford-to-have-that-many-children-f5e9eb5b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The vice president wants Americans to have more babies. But the typical family cannot afford a &#x201c;modest yet adequate standard of living&#x201d; for four children.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T12:44:00.000Z",
+      "headline": "Lululemon&#x2019;s founder lashes out at the company, saying it has &#x2018;completely lost its way&#x2019;",
+      "url": "https://www.marketwatch.com/story/lululemons-founder-lashes-out-at-the-company-saying-it-has-completely-lost-its-way-12ac062c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Chip Wilson, who has been trying to reshape Lululemon&#x2019;s board, said the company didn&#x2019;t care about product development or quality.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T12:30:00.000Z",
+      "headline": "These stocks could be big winners from Trump&#x2019;s &#x2018;populism&#x2019; push, according to Citi",
+      "url": "https://www.marketwatch.com/story/these-stocks-could-be-big-winners-from-trumps-populism-push-according-to-citi-6b9706a5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Analysts say fintech stocks look like prime beneficiaries of a changing regulatory environment and Trump&#x2019;s &#x201c;affordability&#x201d; initiatives.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-22T12:00:00.000Z",
+      "headline": "&#x2018;It&#x2019;s my money&#x2019;: My $800K inheritance is paying for a $1.6 million house. Shouldn&#x2019;t I decide where my husband and I live?",
+      "url": "https://www.marketwatch.com/story/its-my-money-my-800k-inheritance-is-paying-for-a-1-6-million-house-shouldnt-i-decide-where-my-husband-and-i-live-995dbd0c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x2018;My husband and I have been together for 25 years. We have two children&#x2019;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -96,42 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T23:15:00.000Z",
-      "headline": "&#x2018;I&#x2019;m simply exhausted&#x2019;: I&#x2019;m 55 and have $1.3 million for retirement. Can I retire next year?",
-      "url": "https://www.marketwatch.com/story/im-simply-exhausted-im-55-and-have-1-3-million-for-retirement-can-i-retire-next-year-8a796d64?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I had a major health scare 4 years ago, and I&#x2019;ve seen close friends die from cancer, heart disease, etc., way too soon.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T22:56:00.000Z",
-      "headline": "My sister is buying our parents&#x2019; $3 million house, but wants to deduct $100K for renovations. Who&#x2019;s right?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;If she didn&#x2019;t want the home, it would have been sold at fair market value.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-21T22:40:00.000Z",
-      "headline": "Big Tech stocks haven&#x2019;t been this cheap in months. These investors say it&#x2019;s time to buy.",
-      "url": "https://www.marketwatch.com/story/big-tech-stocks-havent-been-this-cheap-in-months-these-investors-say-its-time-to-buy-3024306d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The &#x2018;Magnificent Seven&#x2019; have become the &#x201c;Lag-nificent Seven&#x201d; one analyst joked, and that spells opportunity.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
