@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-01-23T10:51:58.129Z",
+  "last_updated": "2026-01-23T13:46:15.549Z",
   "items": [
+    {
+      "ts": "2026-01-23T12:21:00.000Z",
+      "headline": "The case for a U.S. bear market was building even before Trump antagonized overseas investors",
+      "url": "https://www.marketwatch.com/story/the-case-for-a-u-s-bear-market-was-already-building-before-trump-upset-foreign-investors-1d4399ee?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "There are two important measures that point to a downturn for stocks, according to Longview Economics.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-23T09:28:00.000Z",
       "headline": "It&#x2019;s a hit: Prescriptions for Wegovy weight-loss drug pill surge",
@@ -50,6 +62,30 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2026-01-23T12:20:00.000Z",
+      "headline": "Gold is approaching $5,000, and &#x2018;unavoidable uncertainty&#x2019; means it could go higher",
+      "url": "https://www.marketwatch.com/story/gold-is-approaching-5-000-and-unavoidable-uncertainty-means-it-could-go-higher-ec8480a4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "RBC&#x2019;s head of commodities says there could be paths even higher for gold in a &#x201c;real risk-off scenario.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T12:15:00.000Z",
+      "headline": "&#x2018;It&#x2019;s my money&#x2019;: My $800K inheritance is paying for a $1.6 million house. Shouldn&#x2019;t I decide where my husband and I live?",
+      "url": "https://www.marketwatch.com/story/its-my-money-my-800k-inheritance-is-paying-for-a-1-6-million-house-shouldnt-i-decide-where-my-husband-and-i-live-995dbd0c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x2018;My husband and I have been together for 25 years. We have two children&#x2019;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2026-01-23T08:00:00.000Z",
       "headline": "My husband&#x2019;s kids didn&#x2019;t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?",
       "url": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
@@ -62,6 +98,18 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2026-01-23T11:53:00.000Z",
+      "headline": "Nvidia&#x2019;s on-and-off China relationship appears to be on again",
+      "url": "https://www.marketwatch.com/story/nvidias-on-and-off-china-relationship-appears-to-be-on-again-f7bd6379?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The on-and-off saga involving Nvidia and China appears to be back on again, after a report that China&#x2019;s government has given the go-ahead to big companies including Alibaba to buy the U.S. semiconductor maker&#x2019;s chips.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2026-01-23T10:50:00.000Z",
       "headline": "Natural gas prices have overshot as deep freeze hits the U.S., says Goldman",
       "url": "https://www.marketwatch.com/story/natural-gas-prices-have-overshot-as-deep-freeze-hits-the-u-s-says-goldman-a76e5a82?mod=mw_rss_topstories",
@@ -71,55 +119,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Goldman Sachs thinks the current natural gas price reflects a temporary imbalance and should eventually correct.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T07:45:00.000Z",
-      "headline": "I need to spend $15K on my roof. Do I take it from my Roth IRA, 401(k), IRA or money-market account?",
-      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T02:21:00.000Z",
-      "headline": "I&#x2019;m 75 and still working, but my job is boring. Can I retire with $830K in cash and investments?",
-      "url": "https://www.marketwatch.com/story/im-75-and-still-working-but-my-job-is-boring-can-i-retire-with-830k-in-cash-and-investments-40a02d3b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My investments have returned 25%-30% over the last few years.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T02:12:00.000Z",
-      "headline": "TikTok forms joint venture to keep operating in U.S., ending yearslong saga",
-      "url": "https://www.marketwatch.com/story/tiktok-forms-joint-venture-to-keep-operating-in-u-s-ending-yearslong-saga-2191c8c1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "TikTok said late Thursday it has finalized a long-awaited deal that will allow the popular video-sharing app to keep operating in the U.S.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T01:30:00.000Z",
-      "headline": "&#x2018;It&#x2019;s driving me crazy&#x2019;: My brother-in-law is coercing my husband to cosign a renovation loan. How can I stop this?",
-      "url": "https://www.marketwatch.com/story/its-driving-me-crazy-my-brother-in-law-is-coercing-my-husband-to-cosign-a-renovation-loan-how-can-i-stop-this-c7d9c1cf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My husband feels guilty because we received help from my side of the family when purchasing our current home.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
