@@ -1,92 +1,8 @@
 {
-  "last_updated": "2026-01-23T13:46:15.549Z",
+  "last_updated": "2026-01-23T23:32:02.156Z",
   "items": [
     {
-      "ts": "2026-01-23T12:21:00.000Z",
-      "headline": "The case for a U.S. bear market was building even before Trump antagonized overseas investors",
-      "url": "https://www.marketwatch.com/story/the-case-for-a-u-s-bear-market-was-already-building-before-trump-upset-foreign-investors-1d4399ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "There are two important measures that point to a downturn for stocks, according to Longview Economics.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T09:28:00.000Z",
-      "headline": "It&#x2019;s a hit: Prescriptions for Wegovy weight-loss drug pill surge",
-      "url": "https://www.marketwatch.com/story/its-a-hit-wegovy-weight-loss-drug-pill-prescriptions-surge-acdcf466?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The oral weight-loss drug introduced by Novo Nordisk this year in the U.S. is quickly being adopted.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T10:15:00.000Z",
-      "headline": "I&#x2019;m inheriting $250K. Will paying off my student loans and credit-card debt hurt my credit score?",
-      "url": "https://www.marketwatch.com/story/im-inheriting-250k-will-paying-off-my-student-loans-and-credit-card-debt-hurt-my-credit-score-4679d9ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I will get $250,000 from the proceeds of the sale of a family home.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T10:00:00.000Z",
-      "headline": "A year later, &#x2018;General Hospital&#x2019; star Cameron Mathison talks about losing his home in L.A. fires",
-      "url": "https://www.marketwatch.com/story/a-year-later-general-hospital-star-cameron-mathison-talks-about-losing-his-home-in-l-a-fires-32d328aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;General Hospital&#x201d; star Cameron Mathison shared a heartbreaking video of the devastation caused when the blaze ripped through his home last year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T09:29:00.000Z",
-      "headline": "Amazon reportedly to announce second wave of job cuts",
-      "url": "https://www.marketwatch.com/story/amazon-reportedly-to-announce-second-wave-of-job-cuts-3b0e2dee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Amazon.com workers are bracing for another round of massive job cuts, with the company reportedly expected to announce those cuts as soon as next week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T12:20:00.000Z",
-      "headline": "Gold is approaching $5,000, and &#x2018;unavoidable uncertainty&#x2019; means it could go higher",
-      "url": "https://www.marketwatch.com/story/gold-is-approaching-5-000-and-unavoidable-uncertainty-means-it-could-go-higher-ec8480a4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "RBC&#x2019;s head of commodities says there could be paths even higher for gold in a &#x201c;real risk-off scenario.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T12:15:00.000Z",
-      "headline": "&#x2018;It&#x2019;s my money&#x2019;: My $800K inheritance is paying for a $1.6 million house. Shouldn&#x2019;t I decide where my husband and I live?",
-      "url": "https://www.marketwatch.com/story/its-my-money-my-800k-inheritance-is-paying-for-a-1-6-million-house-shouldnt-i-decide-where-my-husband-and-i-live-995dbd0c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x2018;My husband and I have been together for 25 years. We have two children&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T08:00:00.000Z",
+      "ts": "2026-01-23T23:30:00.000Z",
       "headline": "My husband&#x2019;s kids didn&#x2019;t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?",
       "url": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
       "impact": "Bullish",
@@ -98,39 +14,113 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-23T11:53:00.000Z",
-      "headline": "Nvidia&#x2019;s on-and-off China relationship appears to be on again",
-      "url": "https://www.marketwatch.com/story/nvidias-on-and-off-china-relationship-appears-to-be-on-again-f7bd6379?mod=mw_rss_topstories",
+      "ts": "2026-01-23T23:29:00.000Z",
+      "headline": "This is what caused Friday&#x2019;s sudden spike in the Japanese yen",
+      "url": "https://www.marketwatch.com/story/this-is-what-caused-fridays-sudden-spike-in-the-japanese-yen-4b4089bc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "The on-and-off saga involving Nvidia and China appears to be back on again, after a report that China&#x2019;s government has given the go-ahead to big companies including Alibaba to buy the U.S. semiconductor maker&#x2019;s chips.",
+      "summary_en": "Friday was a quiet day in markets for the most part, but there was one big move that raised eyebrows: Late in the New York morning, the U.S. dollar suddenly cratered against the Japanese yen.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-23T10:50:00.000Z",
-      "headline": "Natural gas prices have overshot as deep freeze hits the U.S., says Goldman",
-      "url": "https://www.marketwatch.com/story/natural-gas-prices-have-overshot-as-deep-freeze-hits-the-u-s-says-goldman-a76e5a82?mod=mw_rss_topstories",
+      "ts": "2026-01-23T23:10:00.000Z",
+      "headline": "Nearly 6,000 U.S. flights have been canceled ahead of winter storm &#x2014; and the number is growing",
+      "url": "https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Goldman Sachs thinks the current natural gas price reflects a temporary imbalance and should eventually correct.",
+      "summary_en": "U.S. airlines have already canceled nearly 6,000 flights through Sunday ahead of a winter storm expected to wallop two-thirds of the United States over the weekend.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-16T18:45:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
-      "impact": "Bullish",
+      "ts": "2026-01-23T23:05:00.000Z",
+      "headline": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
+      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T23:00:00.000Z",
+      "headline": "I&#x2019;m inheriting $250K. Will paying off my student loans and credit-card debt hurt my credit score?",
+      "url": "https://www.marketwatch.com/story/im-inheriting-250k-will-paying-off-my-student-loans-and-credit-card-debt-hurt-my-credit-score-4679d9ab?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The money is coming from the proceeds of the sale of a family home.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T21:51:00.000Z",
+      "headline": "Why the dollar just had its worst week in 8 months despite Trump&#x2019;s pivot on tariffs",
+      "url": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
+      "summary_en": "While stocks and Treasurys put in a partial recovery after President Trump&#x2019;s pivot on Greenland, the greenback struggled to keep pace and booked its worst week in eight months.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T21:15:00.000Z",
+      "headline": "Why AMD&#x2019;s stock is charging higher as Intel&#x2019;s sinks",
+      "url": "https://www.marketwatch.com/story/why-amds-stock-is-charging-higher-as-intels-sinks-70394ffd?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "AMD might be better equipped than Intel to handle a supply crunch.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T20:54:00.000Z",
+      "headline": "Kevin O&#x2019;Leary &#x2014; aka &#x2018;Mr. Wonderful&#x2019; from &#x2018;Shark Tank&#x2019; &#x2014; explains why he calls altcoins &#x2018;poo-poo coins&#x2019;",
+      "url": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-from-shark-tank-explains-why-he-calls-altcoins-poo-poo-coins-966a217c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The entrepreneur is bullish on crypto, but prefers the established names like bitcoin and ether.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T22:27:00.000Z",
+      "headline": "Stock investors should be wary of buying the dip if the S&P 500 falls to this level",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-on-fire-but-a-retreat-to-this-level-would-unleash-the-bears-9739a9d8?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "If December&#x2019;s lows are broken during the first quarter of a new year, a bear market often follows.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T21:29:00.000Z",
+      "headline": "Natural-gas prices see &#x2018;historic&#x2019; surge as U.S. braces for winter storm. What that means for heating bills.",
+      "url": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Consumers don&#x2019;t have to worry yet about the three-session 62% spike in prices",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
