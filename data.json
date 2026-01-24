@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-23T23:32:02.156Z",
+  "last_updated": "2026-01-24T10:45:44.500Z",
   "items": [
+    {
+      "ts": "2026-01-24T10:30:00.000Z",
+      "headline": "&#x2018;It&#x2019;s an expensive piece of equipment&#x2019;: My neighbor asked to borrow my snowblower. Do I say yes?",
+      "url": "https://www.marketwatch.com/story/its-an-expensive-piece-of-equipment-my-neighbor-asked-to-borrow-my-snowblower-do-i-say-yes-4ae68f4e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "SNOW",
+        "ED"
+      ],
+      "summary_en": "&#x201c;The projected snowfall this weekend doesn&#x2019;t look to be changing too much.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-23T23:30:00.000Z",
       "headline": "My husband&#x2019;s kids didn&#x2019;t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?",
@@ -11,6 +24,31 @@
         "ED"
       ],
       "summary_en": "&#x201c;Both of us were widowed. We are in our late 60s and retired.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T21:51:00.000Z",
+      "headline": "Why the dollar just had its worst week in 8 months despite Trump&#x2019;s pivot on tariffs",
+      "url": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "While stocks and Treasurys put in a partial recovery after President Trump&#x2019;s pivot on Greenland, the greenback struggled to keep pace and booked its worst week in eight months.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-23T21:15:00.000Z",
+      "headline": "Why AMD&#x2019;s stock is charging higher as Intel&#x2019;s sinks",
+      "url": "https://www.marketwatch.com/story/why-amds-stock-is-charging-higher-as-intels-sinks-70394ffd?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "AMD",
+        "ED"
+      ],
+      "summary_en": "AMD might be better equipped than Intel to handle a supply crunch.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -63,45 +101,8 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-23T21:51:00.000Z",
-      "headline": "Why the dollar just had its worst week in 8 months despite Trump&#x2019;s pivot on tariffs",
-      "url": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "While stocks and Treasurys put in a partial recovery after President Trump&#x2019;s pivot on Greenland, the greenback struggled to keep pace and booked its worst week in eight months.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T21:15:00.000Z",
-      "headline": "Why AMD&#x2019;s stock is charging higher as Intel&#x2019;s sinks",
-      "url": "https://www.marketwatch.com/story/why-amds-stock-is-charging-higher-as-intels-sinks-70394ffd?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "AMD",
-        "ED"
-      ],
-      "summary_en": "AMD might be better equipped than Intel to handle a supply crunch.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T20:54:00.000Z",
-      "headline": "Kevin O&#x2019;Leary &#x2014; aka &#x2018;Mr. Wonderful&#x2019; from &#x2018;Shark Tank&#x2019; &#x2014; explains why he calls altcoins &#x2018;poo-poo coins&#x2019;",
-      "url": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-from-shark-tank-explains-why-he-calls-altcoins-poo-poo-coins-966a217c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The entrepreneur is bullish on crypto, but prefers the established names like bitcoin and ether.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-23T22:27:00.000Z",
-      "headline": "Stock investors should be wary of buying the dip if the S&P 500 falls to this level",
+      "headline": "Investors should be wary of buying the dip if the S&P 500 falls to this level",
       "url": "https://www.marketwatch.com/story/the-s-p-500-is-on-fire-but-a-retreat-to-this-level-would-unleash-the-bears-9739a9d8?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
