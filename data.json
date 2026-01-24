@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-01-24T10:45:44.500Z",
+  "last_updated": "2026-01-24T13:33:15.746Z",
   "items": [
+    {
+      "ts": "2026-01-24T13:00:00.000Z",
+      "headline": "My husband&#x2019;s kids didn&#x2019;t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?",
+      "url": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Both of us were widowed. We are in our late 60s and retired.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T12:00:00.000Z",
+      "headline": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
+      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T11:00:00.000Z",
+      "headline": "I&#x2019;m inheriting $250K. Will paying off my student loans and credit-card debt hurt my credit score?",
+      "url": "https://www.marketwatch.com/story/im-inheriting-250k-will-paying-off-my-student-loans-and-credit-card-debt-hurt-my-credit-score-4679d9ab?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The money is coming from the proceeds of the sale of a family home.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T13:30:00.000Z",
+      "headline": "Did everyone forget about DeepSeek? What Wall Street is getting wrong about Chinese AI.",
+      "url": "https://www.marketwatch.com/story/did-everyone-forget-about-deepseek-what-wall-street-is-getting-wrong-about-chinese-ai-62cb8bcf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Shares of U.S. hyperscalers seem to have put DeepSeek in the rearview mirror. But if you look closely, a different story emerges.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-24T10:30:00.000Z",
       "headline": "&#x2018;It&#x2019;s an expensive piece of equipment&#x2019;: My neighbor asked to borrow my snowblower. Do I say yes?",
@@ -15,40 +64,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-23T23:30:00.000Z",
-      "headline": "My husband&#x2019;s kids didn&#x2019;t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?",
-      "url": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2026-01-24T13:00:00.000Z",
+      "headline": "When college athletes go to the NFL, some of them are taking pay cuts in the millions",
+      "url": "https://www.marketwatch.com/story/when-college-athletes-go-to-the-nfl-some-of-them-are-taking-pay-cuts-in-the-millions-93f54625?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Both of us were widowed. We are in our late 60s and retired.&#x201d;",
+      "summary_en": "Oregon&#x2019;s Dante Moore is stiff-arming the NFL to keep playing college football next season &#x2014; and he&#x2019;ll still make millions of dollars.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-23T21:51:00.000Z",
-      "headline": "Why the dollar just had its worst week in 8 months despite Trump&#x2019;s pivot on tariffs",
-      "url": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-01-24T13:00:00.000Z",
+      "headline": "These 4 charts capture the whirlwind action in global markets so far this year",
+      "url": "https://www.marketwatch.com/story/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year-8f71103d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "While stocks and Treasurys put in a partial recovery after President Trump&#x2019;s pivot on Greenland, the greenback struggled to keep pace and booked its worst week in eight months.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T21:15:00.000Z",
-      "headline": "Why AMD&#x2019;s stock is charging higher as Intel&#x2019;s sinks",
-      "url": "https://www.marketwatch.com/story/why-amds-stock-is-charging-higher-as-intels-sinks-70394ffd?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "AMD",
-        "ED"
-      ],
-      "summary_en": "AMD might be better equipped than Intel to handle a supply crunch.",
+      "summary_en": "Investors are facing tumult in Japan&#x2019;s bond market, a big rally in small-cap stocks, and surging prices for natural gas, gold and silver. And the year has only just begun.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -76,31 +112,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-23T23:05:00.000Z",
-      "headline": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
-      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T23:00:00.000Z",
-      "headline": "I&#x2019;m inheriting $250K. Will paying off my student loans and credit-card debt hurt my credit score?",
-      "url": "https://www.marketwatch.com/story/im-inheriting-250k-will-paying-off-my-student-loans-and-credit-card-debt-hurt-my-credit-score-4679d9ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The money is coming from the proceeds of the sale of a family home.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-23T22:27:00.000Z",
       "headline": "Investors should be wary of buying the dip if the S&P 500 falls to this level",
       "url": "https://www.marketwatch.com/story/the-s-p-500-is-on-fire-but-a-retreat-to-this-level-would-unleash-the-bears-9739a9d8?mod=mw_rss_topstories",
@@ -110,18 +121,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "If December&#x2019;s lows are broken during the first quarter of a new year, a bear market often follows.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T21:29:00.000Z",
-      "headline": "Natural-gas prices see &#x2018;historic&#x2019; surge as U.S. braces for winter storm. What that means for heating bills.",
-      "url": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Consumers don&#x2019;t have to worry yet about the three-session 62% spike in prices",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
