@@ -1,57 +1,8 @@
 {
-  "last_updated": "2026-01-24T13:33:15.746Z",
+  "last_updated": "2026-01-24T23:29:23.972Z",
   "items": [
     {
-      "ts": "2026-01-24T13:00:00.000Z",
-      "headline": "My husband&#x2019;s kids didn&#x2019;t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?",
-      "url": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Both of us were widowed. We are in our late 60s and retired.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T12:00:00.000Z",
-      "headline": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
-      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T11:00:00.000Z",
-      "headline": "I&#x2019;m inheriting $250K. Will paying off my student loans and credit-card debt hurt my credit score?",
-      "url": "https://www.marketwatch.com/story/im-inheriting-250k-will-paying-off-my-student-loans-and-credit-card-debt-hurt-my-credit-score-4679d9ab?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;The money is coming from the proceeds of the sale of a family home.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T13:30:00.000Z",
-      "headline": "Did everyone forget about DeepSeek? What Wall Street is getting wrong about Chinese AI.",
-      "url": "https://www.marketwatch.com/story/did-everyone-forget-about-deepseek-what-wall-street-is-getting-wrong-about-chinese-ai-62cb8bcf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Shares of U.S. hyperscalers seem to have put DeepSeek in the rearview mirror. But if you look closely, a different story emerges.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T10:30:00.000Z",
+      "ts": "2026-01-24T23:00:00.000Z",
       "headline": "&#x2018;It&#x2019;s an expensive piece of equipment&#x2019;: My neighbor asked to borrow my snowblower. Do I say yes?",
       "url": "https://www.marketwatch.com/story/its-an-expensive-piece-of-equipment-my-neighbor-asked-to-borrow-my-snowblower-do-i-say-yes-4ae68f4e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -64,63 +15,115 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-24T13:00:00.000Z",
-      "headline": "When college athletes go to the NFL, some of them are taking pay cuts in the millions",
-      "url": "https://www.marketwatch.com/story/when-college-athletes-go-to-the-nfl-some-of-them-are-taking-pay-cuts-in-the-millions-93f54625?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Oregon&#x2019;s Dante Moore is stiff-arming the NFL to keep playing college football next season &#x2014; and he&#x2019;ll still make millions of dollars.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T13:00:00.000Z",
-      "headline": "These 4 charts capture the whirlwind action in global markets so far this year",
-      "url": "https://www.marketwatch.com/story/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year-8f71103d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Investors are facing tumult in Japan&#x2019;s bond market, a big rally in small-cap stocks, and surging prices for natural gas, gold and silver. And the year has only just begun.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-23T23:29:00.000Z",
-      "headline": "This is what caused Friday&#x2019;s sudden spike in the Japanese yen",
-      "url": "https://www.marketwatch.com/story/this-is-what-caused-fridays-sudden-spike-in-the-japanese-yen-4b4089bc?mod=mw_rss_topstories",
+      "ts": "2026-01-24T22:18:00.000Z",
+      "headline": "My sister is buying our parents&#x2019; $3 million house, but wants to deduct $100K for renovations. Who&#x2019;s right?",
+      "url": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Friday was a quiet day in markets for the most part, but there was one big move that raised eyebrows: Late in the New York morning, the U.S. dollar suddenly cratered against the Japanese yen.",
+      "summary_en": "&#x201c;If she didn&#x2019;t want the home, it would have been sold at fair market value.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-23T23:10:00.000Z",
-      "headline": "Nearly 6,000 U.S. flights have been canceled ahead of winter storm &#x2014; and the number is growing",
+      "ts": "2026-01-24T21:25:00.000Z",
+      "headline": "Nearly 15,000 U.S. flights have been canceled due to the winter storm &#x2014; and counting",
       "url": "https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "U.S. airlines have already canceled nearly 6,000 flights through Sunday ahead of a winter storm expected to wallop two-thirds of the United States over the weekend.",
+      "summary_en": "Airlines have canceled nearly 15,000 flights due to a winter storm expected to wallop two-thirds of the U.S. over the weekend &#x2014; with hubs in Dallas and Atlanta among the most affected.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-23T22:27:00.000Z",
-      "headline": "Investors should be wary of buying the dip if the S&P 500 falls to this level",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-on-fire-but-a-retreat-to-this-level-would-unleash-the-bears-9739a9d8?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-01-24T20:37:00.000Z",
+      "headline": "Yes, &#x2018;DOGE&#x2019; put our Social Security data at risk. Here&#x2019;s what lawmakers are doing about it.",
+      "url": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "WM",
+        "ED"
+      ],
+      "summary_en": "Trump administration admits to security breaches that had been outlined in a whistleblower complaint",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T20:36:00.000Z",
+      "headline": "How to plan for the end of your life if you don&#x2019;t have kids or a spouse",
+      "url": "https://www.marketwatch.com/story/how-to-plan-for-the-end-of-your-life-if-you-dont-have-kids-or-a-spouse-587027b9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Here are the vital estate-planning moves solo agers and people without children need to take.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T20:35:00.000Z",
+      "headline": "Yes, you still need an emergency fund in retirement. Here&#x2019;s how much you should have.",
+      "url": "https://www.marketwatch.com/story/yes-you-still-need-an-emergency-fund-in-retirement-heres-how-much-you-should-have-3611fd2f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Retirees can face larger spending shocks than workers, often driven by unpredictable costs such as healthcare.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T20:34:00.000Z",
+      "headline": "I&#x2019;m 75 and still working, but my job is boring. Can I retire with $830K in cash and investments?",
+      "url": "https://www.marketwatch.com/story/im-75-and-still-working-but-my-job-is-boring-can-i-retire-with-830k-in-cash-and-investments-40a02d3b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My investments have returned 25%-30% over the last few years.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T20:33:00.000Z",
+      "headline": "Social Security is making a change that could disrupt service for millions of Americans",
+      "url": "https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A slimmed-down workforce will handle cases on a nationwide basis &#x2014; what does that mean for its 75 million beneficiaries?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T20:38:00.000Z",
+      "headline": "67 million Americans could lose telehealth coverage in the coming days unless Congress approves funding",
+      "url": "https://www.marketwatch.com/story/67-million-americans-could-lose-telehealth-coverage-in-the-coming-days-unless-congress-approves-funding-5693cf1d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "If December&#x2019;s lows are broken during the first quarter of a new year, a bear market often follows.",
+      "summary_en": "Telehealth has become a &#x2018;mainstream part of care delivery&#x2019;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T20:37:00.000Z",
+      "headline": "Marriage can be great for your finances &#x2014; but avoid these 3 mistakes",
+      "url": "https://www.marketwatch.com/story/marriage-can-be-great-for-your-finances-but-watch-out-for-these-3-mistakes-57549260?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "What can go wrong? Being in a couple complicates your decision-making.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
