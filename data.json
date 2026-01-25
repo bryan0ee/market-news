@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-01-24T23:29:23.972Z",
+  "last_updated": "2026-01-25T10:46:51.095Z",
   "items": [
+    {
+      "ts": "2026-01-25T07:30:00.000Z",
+      "headline": "&#x2018;I need protein shakes&#x2019;: Couples disagree about panic-buying for nationwide snowstorm",
+      "url": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "SNOW",
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "There&#x2019;s one thing worse than hunkering down during a snowstorm &#x2014; and that&#x2019;s doing so with someone who resents your spending.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-24T23:45:00.000Z",
+      "headline": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
+      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-24T23:00:00.000Z",
       "headline": "&#x2018;It&#x2019;s an expensive piece of equipment&#x2019;: My neighbor asked to borrow my snowblower. Do I say yes?",
@@ -76,30 +103,6 @@
         "COST"
       ],
       "summary_en": "Retirees can face larger spending shocks than workers, often driven by unpredictable costs such as healthcare.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T20:34:00.000Z",
-      "headline": "I&#x2019;m 75 and still working, but my job is boring. Can I retire with $830K in cash and investments?",
-      "url": "https://www.marketwatch.com/story/im-75-and-still-working-but-my-job-is-boring-can-i-retire-with-830k-in-cash-and-investments-40a02d3b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My investments have returned 25%-30% over the last few years.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T20:33:00.000Z",
-      "headline": "Social Security is making a change that could disrupt service for millions of Americans",
-      "url": "https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A slimmed-down workforce will handle cases on a nationwide basis &#x2014; what does that mean for its 75 million beneficiaries?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
