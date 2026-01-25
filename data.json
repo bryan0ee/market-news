@@ -1,9 +1,33 @@
 {
-  "last_updated": "2026-01-25T13:34:27.682Z",
+  "last_updated": "2026-01-25T23:30:28.235Z",
   "items": [
     {
-      "ts": "2026-01-25T07:30:00.000Z",
-      "headline": "&#x2018;I need protein shakes&#x2019;: Couples disagree about panic-buying for nationwide snowstorm",
+      "ts": "2026-01-25T23:19:00.000Z",
+      "headline": "U.S. stock futures fall, gold hits record ahead of Fed meeting, Big Tech earnings",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-fall-gold-hits-record-ahead-of-fed-meeting-big-tech-earnings-c4646ae5?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock futures slumped and gold hit a record high Sunday as investors look ahead to a Fed interest-rate decision and Big Tech earnings this week.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-25T22:18:00.000Z",
+      "headline": "About 20,000 U.S. flights have been canceled due to the winter storm &#x2014; and counting",
+      "url": "https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Airlines have canceled about 20,000 flights due to a winter storm expected to wallop two-thirds of the U.S. over the weekend &#x2014; with hubs in Dallas and Atlanta among the most affected.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-25T21:47:00.000Z",
+      "headline": "&#x2018;I need protein shakes&#x2019;: Couples disagree about panic-buying for this weekend&#x2019;s snowstorm",
       "url": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -16,33 +40,56 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-24T23:45:00.000Z",
-      "headline": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
-      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
+      "ts": "2026-01-25T20:58:00.000Z",
+      "headline": "These 5 tech stocks could be big winners this earnings season",
+      "url": "https://www.marketwatch.com/story/these-5-tech-stocks-could-be-big-winners-this-earnings-season-0556bf47?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
+      "summary_en": "Beyond the &#x201c;Magnificent Seven&#x201d; names, Wall Street analysts see opportunities in software and specialized semiconductor plays.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-24T23:00:00.000Z",
-      "headline": "&#x2018;It&#x2019;s an expensive piece of equipment&#x2019;: My neighbor asked to borrow my snowblower. Do I say yes?",
-      "url": "https://www.marketwatch.com/story/its-an-expensive-piece-of-equipment-my-neighbor-asked-to-borrow-my-snowblower-do-i-say-yes-4ae68f4e?mod=mw_rss_topstories",
+      "ts": "2026-01-25T20:29:00.000Z",
+      "headline": "Here&#x2019;s what investors want even more than a Fed interest-rate cut this week",
+      "url": "https://www.marketwatch.com/story/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week-1279f03f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "SNOW",
         "ED"
       ],
-      "summary_en": "&#x201c;The projected snowfall this weekend doesn&#x2019;t look to be changing too much.&#x201d;",
+      "summary_en": "Investors are rotating out of tech stocks and into other sectors of the market as the U.S. economy chugs along.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-24T22:18:00.000Z",
+      "ts": "2026-01-25T20:13:00.000Z",
+      "headline": "The Fed is expected to stand pat this week. The big question is for how long?",
+      "url": "https://www.marketwatch.com/story/the-fed-is-expected-to-stand-pat-this-week-the-big-question-is-for-how-long-bf52d957?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Expectations of quick further cuts are evaporating, and the market doesn&#x2019;t see another move until July",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-25T17:39:00.000Z",
+      "headline": "More Americans are choosing Obamacare plans they can&#x2019;t afford in first look at ACA without enhanced tax credits",
+      "url": "https://www.marketwatch.com/story/more-americans-are-choosing-obamacare-plans-they-cant-afford-in-first-look-at-aca-without-enhanced-tax-credits-7615353b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "WM",
+        "ED"
+      ],
+      "summary_en": "There is little likelihood that a fix will come from Washington, where Republican lawmakers say health insurers are to blame.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-25T16:30:00.000Z",
       "headline": "My sister is buying our parents&#x2019; $3 million house, but wants to deduct $100K for renovations. Who&#x2019;s right?",
       "url": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -54,79 +101,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-24T21:25:00.000Z",
-      "headline": "Nearly 15,000 U.S. flights have been canceled due to the winter storm &#x2014; and counting",
-      "url": "https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories",
+      "ts": "2026-01-25T16:00:00.000Z",
+      "headline": "&#x2018;People are often unreasonable when money is involved&#x2019;: My husband, 62, gave me a 5-year life estate. Would I have to pay for a new roof?",
+      "url": "https://www.marketwatch.com/story/people-are-often-unreasonable-when-money-is-involved-my-husband-62-gave-me-a-5-year-life-estate-would-i-have-to-pay-for-a-new-roof-db4e0efb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Airlines have canceled nearly 15,000 flights due to a winter storm expected to wallop two-thirds of the U.S. over the weekend &#x2014; with hubs in Dallas and Atlanta among the most affected.",
+      "summary_en": "&#x201c;He has included a provision stating that I would be responsible for &#x2018;maintenance and expenses&#x2019; during my occupancy.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-24T20:37:00.000Z",
-      "headline": "Yes, &#x2018;DOGE&#x2019; put our Social Security data at risk. Here&#x2019;s what lawmakers are doing about it.",
-      "url": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "WM",
-        "ED"
-      ],
-      "summary_en": "Trump administration admits to security breaches that had been outlined in a whistleblower complaint",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T20:36:00.000Z",
-      "headline": "How to plan for the end of your life if you don&#x2019;t have kids or a spouse",
-      "url": "https://www.marketwatch.com/story/how-to-plan-for-the-end-of-your-life-if-you-dont-have-kids-or-a-spouse-587027b9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Here are the vital estate-planning moves solo agers and people without children need to take.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T20:35:00.000Z",
-      "headline": "Yes, you still need an emergency fund in retirement. Here&#x2019;s how much you should have.",
-      "url": "https://www.marketwatch.com/story/yes-you-still-need-an-emergency-fund-in-retirement-heres-how-much-you-should-have-3611fd2f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Retirees can face larger spending shocks than workers, often driven by unpredictable costs such as healthcare.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T20:38:00.000Z",
-      "headline": "67 million Americans could lose telehealth coverage in the coming days unless Congress approves funding",
-      "url": "https://www.marketwatch.com/story/67-million-americans-could-lose-telehealth-coverage-in-the-coming-days-unless-congress-approves-funding-5693cf1d?mod=mw_rss_topstories",
+      "ts": "2026-01-25T17:06:00.000Z",
+      "headline": "Why having four kids is now a luxury most parents can&#x2019;t afford",
+      "url": "https://www.marketwatch.com/story/j-d-and-usha-vance-are-expecting-their-fourth-kid-most-american-parents-cant-afford-to-have-that-many-children-f5e9eb5b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Telehealth has become a &#x2018;mainstream part of care delivery&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-24T20:37:00.000Z",
-      "headline": "Marriage can be great for your finances &#x2014; but avoid these 3 mistakes",
-      "url": "https://www.marketwatch.com/story/marriage-can-be-great-for-your-finances-but-watch-out-for-these-3-mistakes-57549260?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "What can go wrong? Being in a couple complicates your decision-making.",
+      "summary_en": "The vice president wants Americans to have more babies. But the typical family cannot afford a &#x201c;modest yet adequate standard of living&#x201d; for four children.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
