@@ -1,8 +1,82 @@
 {
-  "last_updated": "2026-01-25T23:30:28.235Z",
+  "last_updated": "2026-01-26T10:52:40.400Z",
   "items": [
     {
-      "ts": "2026-01-25T23:19:00.000Z",
+      "ts": "2026-01-26T10:00:00.000Z",
+      "headline": "My husband&#x2019;s kids didn&#x2019;t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?",
+      "url": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Both of us were widowed. We are in our late 60s and retired.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-26T10:15:00.000Z",
+      "headline": "&#x2018;I&#x2018;m facing an ethical dilemma&#x2019;: My widowed mother is cutting my step siblings out of the family trust. Do I have an ethical responsibility?",
+      "url": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My mother has now hired an attorney to revise the trust and remove her late husband&#x2019;s children as beneficiaries.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-26T09:00:00.000Z",
+      "headline": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
+      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-26T08:33:00.000Z",
+      "headline": "Michael Burry flags risks from Japanese yen to U.S. stocks as &#x2018;rate check&#x2019; stirs debate",
+      "url": "https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The Big Short investor Michael Burry says the Japanese yen is due a reversal as a so-called &#x201c;rate check&#x201d; stirred debate over whether an appreciation in the Asian currency&#x2019;s country would bleed over into U.S. stocks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-26T08:01:00.000Z",
+      "headline": "&#x2018;It&#x2019;s an expensive piece of equipment&#x2019;: My neighbor asked to borrow my snowblower. Do I say yes?",
+      "url": "https://www.marketwatch.com/story/its-an-expensive-piece-of-equipment-my-neighbor-asked-to-borrow-my-snowblower-do-i-say-yes-4ae68f4e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "SNOW",
+        "ED"
+      ],
+      "summary_en": "&#x201c;The projected snowfall this weekend doesn&#x2019;t look to be changing too much.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-26T09:22:00.000Z",
+      "headline": "Bets on a U.S. government shutdown spike after latest civilian death in Minnesota",
+      "url": "https://www.marketwatch.com/story/bets-on-a-u-s-government-shutdown-spike-after-latest-civilian-death-in-minnesota-4da262e6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Bets on a government shutdown happening by Jan. 31 are now at 78%, spiking over the weekend following another civilian death in Minnesota.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-26T04:01:00.000Z",
       "headline": "U.S. stock futures fall, gold hits record ahead of Fed meeting, Big Tech earnings",
       "url": "https://www.marketwatch.com/story/u-s-stock-futures-fall-gold-hits-record-ahead-of-fed-meeting-big-tech-earnings-c4646ae5?mod=mw_rss_topstories",
       "impact": "Bullish",
@@ -14,7 +88,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-25T22:18:00.000Z",
+      "ts": "2026-01-26T03:44:00.000Z",
       "headline": "About 20,000 U.S. flights have been canceled due to the winter storm &#x2014; and counting",
       "url": "https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,102 +100,28 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-25T21:47:00.000Z",
-      "headline": "&#x2018;I need protein shakes&#x2019;: Couples disagree about panic-buying for this weekend&#x2019;s snowstorm",
-      "url": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
+      "ts": "2026-01-26T03:38:00.000Z",
+      "headline": "Gold now costs more than $5,000 an ounce. Here&#x2019;s how it got to this milestone price.",
+      "url": "https://www.marketwatch.com/story/gold-now-costs-more-than-5-000-an-ounce-heres-how-it-got-to-this-milestone-price-e34fc376?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "SNOW",
-        "NEE",
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "There&#x2019;s one thing worse than hunkering down during a snowstorm &#x2014; and that&#x2019;s doing so with someone who resents your spending.",
+      "summary_en": "It&#x2019;s been a long journey for gold and silver to reach their highest levels on record, but the steep climb for both over the past 12 months has been a notable one &#x2014; marked by significant, market-moving events, with many of those tied to actions by President Donald Trump.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-25T20:58:00.000Z",
-      "headline": "These 5 tech stocks could be big winners this earnings season",
-      "url": "https://www.marketwatch.com/story/these-5-tech-stocks-could-be-big-winners-this-earnings-season-0556bf47?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Beyond the &#x201c;Magnificent Seven&#x201d; names, Wall Street analysts see opportunities in software and specialized semiconductor plays.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-25T20:29:00.000Z",
-      "headline": "Here&#x2019;s what investors want even more than a Fed interest-rate cut this week",
-      "url": "https://www.marketwatch.com/story/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week-1279f03f?mod=mw_rss_topstories",
+      "ts": "2026-01-26T00:49:00.000Z",
+      "headline": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
+      "url": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors are rotating out of tech stocks and into other sectors of the market as the U.S. economy chugs along.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-25T20:13:00.000Z",
-      "headline": "The Fed is expected to stand pat this week. The big question is for how long?",
-      "url": "https://www.marketwatch.com/story/the-fed-is-expected-to-stand-pat-this-week-the-big-question-is-for-how-long-bf52d957?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Expectations of quick further cuts are evaporating, and the market doesn&#x2019;t see another move until July",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-25T17:39:00.000Z",
-      "headline": "More Americans are choosing Obamacare plans they can&#x2019;t afford in first look at ACA without enhanced tax credits",
-      "url": "https://www.marketwatch.com/story/more-americans-are-choosing-obamacare-plans-they-cant-afford-in-first-look-at-aca-without-enhanced-tax-credits-7615353b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "WM",
-        "ED"
-      ],
-      "summary_en": "There is little likelihood that a fix will come from Washington, where Republican lawmakers say health insurers are to blame.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-25T16:30:00.000Z",
-      "headline": "My sister is buying our parents&#x2019; $3 million house, but wants to deduct $100K for renovations. Who&#x2019;s right?",
-      "url": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;If she didn&#x2019;t want the home, it would have been sold at fair market value.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-25T16:00:00.000Z",
-      "headline": "&#x2018;People are often unreasonable when money is involved&#x2019;: My husband, 62, gave me a 5-year life estate. Would I have to pay for a new roof?",
-      "url": "https://www.marketwatch.com/story/people-are-often-unreasonable-when-money-is-involved-my-husband-62-gave-me-a-5-year-life-estate-would-i-have-to-pay-for-a-new-roof-db4e0efb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;He has included a provision stating that I would be responsible for &#x2018;maintenance and expenses&#x2019; during my occupancy.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-25T17:06:00.000Z",
-      "headline": "Why having four kids is now a luxury most parents can&#x2019;t afford",
-      "url": "https://www.marketwatch.com/story/j-d-and-usha-vance-are-expecting-their-fourth-kid-most-american-parents-cant-afford-to-have-that-many-children-f5e9eb5b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The vice president wants Americans to have more babies. But the typical family cannot afford a &#x201c;modest yet adequate standard of living&#x201d; for four children.",
+      "summary_en": "&#x201c;I am 69, and started collecting Social Security when I was 66&#xbd;.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
