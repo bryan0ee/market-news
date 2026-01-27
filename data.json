@@ -1,125 +1,124 @@
 {
-  "last_updated": "2026-01-27T13:51:03.423Z",
+  "last_updated": "2026-01-27T23:33:10.854Z",
   "items": [
     {
-      "ts": "2026-01-27T13:39:00.000Z",
-      "headline": "General Motors takes $7.2 billion charge on EV shift as it boosts dividend and sets new buyback",
+      "ts": "2026-01-27T22:28:00.000Z",
+      "headline": "UnitedHealth&#x2019;s stock falls 20% after saying it expects revenue to decline in 2026",
+      "url": "https://www.marketwatch.com/story/unitedhealths-stock-falls-further-after-saying-it-expects-revenue-to-decline-in-2026-5046edb6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The health insurer was also surprised by a very small Medicare Advantage rate proposal.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T21:58:00.000Z",
+      "headline": "GM&#x2019;s stock pushes to a new record, as carmaker calls for higher profit ahead",
       "url": "https://www.marketwatch.com/story/general-motors-takes-7-2-billion-charge-on-ev-shift-as-it-boosts-dividend-and-sets-new-buyback-159f1e6d?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "General Motors on Tuesday said it took a $7.2 billion charge as it adjusts to declining customer interest in electric vehicles as the automaker boosted its dividend and announced a new stock buyback.",
+      "summary_en": "GM is adjusting to declining customer interest in electric vehicles as the automaker boosted its dividend and announced a new stock buyback.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T13:19:00.000Z",
-      "headline": "Boeing beats revenue expectations by a wide margin, as airplane deliveries nearly triple",
-      "url": "https://www.marketwatch.com/story/boeing-beats-revenue-expectations-by-a-wide-margin-as-airplane-deliveries-nearly-triple-b03367dc?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2026-01-27T22:18:00.000Z",
+      "headline": "Pinterest is slashing jobs and office space as it switches focus to AI roles",
+      "url": "https://www.marketwatch.com/story/pinterest-is-slashing-jobs-and-office-space-as-it-switches-focus-to-ai-roles-a2906654?mod=mw_rss_topstories",
+      "impact": "Neutral",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Boeing reported a surprisingly large fourth-quarter profit and beat revenue expectations by a wide margin.",
+      "summary_en": "Pinterest&#x2019;s stock drops after a disclosure that it plans to cut about 15% of its workforce, as it reallocates resources to AI-focused roles and products.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T13:42:00.000Z",
-      "headline": "Wall Street veteran who called the dot-com bust says the Magnificent Seven represent an even bigger bubble",
-      "url": "https://www.marketwatch.com/story/wall-street-veteran-who-called-the-dot-com-bust-sees-a-bigger-bubble-in-magnificent-7-868dfe23?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Richard Bernstein says investors are ignoring a whole bunch of high-earning companies for the sake of a few tech giants.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T12:33:00.000Z",
-      "headline": "Here&#x2019;s the lesson Deutsche Bank learned from previous gold rallies as it lifts target to $6,000",
-      "url": "https://www.marketwatch.com/story/heres-the-lesson-deutsche-bank-learned-from-previous-gold-rallies-as-it-lifts-target-to-6-000-11f392e4?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "Deutsche Bank joined Wall Street peers in lifting its gold price forecast as the yellow metal rallies.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T13:05:00.000Z",
-      "headline": "This chart tracks the &#x2018;single greatest predictor&#x2019; of stock-market returns &#x2014; and it&#x2019;s never done this before",
-      "url": "https://www.marketwatch.com/story/this-chart-tracks-the-single-greatest-predictor-of-stock-market-returns-and-its-never-done-this-before-171daf85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Individual stock ownership is a contrarian indicator. It&#x2019;s flashing a warning.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T12:58:00.000Z",
-      "headline": "American Airlines provides upbeat revenue outlook despite $200 million hit from winter storm",
-      "url": "https://www.marketwatch.com/story/american-airlines-provides-upbeat-revenue-outlook-despite-200-million-hit-from-winter-storm-af279bc7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "American Airlines&#x2019; stock rallied, as quarterly revenue missed expectations only because of the government shutdown.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T12:50:00.000Z",
-      "headline": "This earnings number is the only one that matters as a gut check on Big Tech&#x2019;s AI spending",
-      "url": "https://www.marketwatch.com/story/this-earnings-number-is-the-only-one-that-matters-as-a-gut-check-on-big-techs-ai-spending-949e7aaf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "S&P 500 index-fund investors are locked into a big bet that AI capital expenditures will pay off.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T11:24:00.000Z",
-      "headline": "Why shares of UnitedHealth, Humana and others are tanking and taking the Dow with them",
+      "ts": "2026-01-27T22:12:00.000Z",
+      "headline": "Why shares of UnitedHealth, Humana and other insurers tanked &#x2014; and took the Dow with them",
       "url": "https://www.marketwatch.com/story/why-shares-of-unitedhealth-humana-and-others-are-tanking-and-taking-the-dow-with-it-0e4e5c7f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The shares of UnitedHealth, Humana and other health insurers were clobbered on Tuesday after a preliminary payment proposal for Medicare Advantage fell way short of analyst expectations.",
+      "summary_en": "Shares of UnitedHealth, Humana and other health insurers were clobbered Tuesday after a preliminary payment proposal for Medicare Advantage fell way short of analyst expectations.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T13:05:00.000Z",
-      "headline": "Here&#x2019;s how Microsoft can prove the doubters wrong this earnings season",
-      "url": "https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18?mod=mw_rss_topstories",
+      "ts": "2026-01-27T22:04:00.000Z",
+      "headline": "&#x2018;I have been living in mattress hell&#x2019;: I bought a dud &#x2014; twice. How can I get my money back?",
+      "url": "https://www.marketwatch.com/story/i-have-been-living-in-mattress-hell-i-bought-a-dud-twice-how-can-i-get-my-money-back-62384d8f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am completely disgusted by the lack of accountability and the failure to honor warranties.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T22:31:00.000Z",
+      "headline": "These home buyers are suing one of the biggest mortgage lenders in America. Why you should pay attention.",
+      "url": "https://www.marketwatch.com/story/these-home-buyers-are-suing-one-of-the-biggest-mortgage-lenders-in-america-why-you-should-pay-attention-6729bb1a?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A class-action lawsuit against mortgage-lending giant Rocket Companies accuses the company of illegally steering homebuyers toward using their services and away from cheaper alternatives.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T22:20:00.000Z",
+      "headline": "Micron&#x2019;s stock is surging as the company looks to cash in on a &#x2018;desperate&#x2019; market",
+      "url": "https://www.marketwatch.com/story/microns-stock-is-surging-as-the-company-looks-to-cash-in-on-a-desperate-market-3500e34a?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The memory-chip company is adding a new facility that will boost capacity, but not before setting the stage for two years of big price increases.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T22:54:00.000Z",
+      "headline": "Dollar tumbles to a four-year low as Trump claims it&#x2019;s &#x2018;doing great&#x2019;",
+      "url": "https://www.marketwatch.com/story/dollar-tumbles-to-a-four-year-low-as-trump-claims-its-doing-great-2a2e9384?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Increasing its cloud capacity is key for Microsoft, as the company can&#x2019;t currently meet all is AI demand due to a shortage of graphics processing units.",
+      "summary_en": "The U.S. dollar fell to its lowest level in four years on Tuesday despite President Donald Trump claiming it was &#x201c;doing great&#x201d; in a speech in Iowa.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T12:34:00.000Z",
-      "headline": "UPS delivers on fourth-quarter numbers, and its stock rises",
-      "url": "https://www.marketwatch.com/story/ups-delivers-on-fourth-quarter-numbers-and-its-stock-rises-372479c0?mod=mw_rss_topstories",
+      "ts": "2026-01-27T22:24:00.000Z",
+      "headline": "Cloudflare&#x2019;s stock pops on viral Moltbot. Here&#x2019;s how a cybersecurity company became the newest AI winner.",
+      "url": "https://www.marketwatch.com/story/cloudflares-stock-pops-on-viral-moltbot-heres-how-a-cybersecurity-company-became-the-newest-ai-winner-22e66a6a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "UPS trades on a 30% discount to the S&P 500 on a price-to-earnings basis with a dividend of roughly 6%.",
+      "summary_en": "The rise of autonomous personal assistants like Moltbot is creating a new bull case for companies that help secure digital identities and local data, analysts said.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T22:13:00.000Z",
+      "headline": "Here&#x2019;s how Amazon is looking to take on Walmart at its own game",
+      "url": "https://www.marketwatch.com/story/heres-how-amazon-is-looking-to-take-on-walmart-at-its-own-game-3db54d28?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Amazon is looking into opening a supercenter retail location, while closing its Amazon Go and Amazon Fresh physical stores.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
