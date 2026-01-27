@@ -1,9 +1,94 @@
 {
-  "last_updated": "2026-01-27T10:55:22.077Z",
+  "last_updated": "2026-01-27T13:51:03.423Z",
   "items": [
     {
-      "ts": "2026-01-27T09:06:00.000Z",
-      "headline": "Why shares of UnitedHealth, Humana and others are tanking and taking the Dow with it",
+      "ts": "2026-01-27T13:39:00.000Z",
+      "headline": "General Motors takes $7.2 billion charge on EV shift as it boosts dividend and sets new buyback",
+      "url": "https://www.marketwatch.com/story/general-motors-takes-7-2-billion-charge-on-ev-shift-as-it-boosts-dividend-and-sets-new-buyback-159f1e6d?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "General Motors on Tuesday said it took a $7.2 billion charge as it adjusts to declining customer interest in electric vehicles as the automaker boosted its dividend and announced a new stock buyback.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T13:19:00.000Z",
+      "headline": "Boeing beats revenue expectations by a wide margin, as airplane deliveries nearly triple",
+      "url": "https://www.marketwatch.com/story/boeing-beats-revenue-expectations-by-a-wide-margin-as-airplane-deliveries-nearly-triple-b03367dc?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Boeing reported a surprisingly large fourth-quarter profit and beat revenue expectations by a wide margin.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T13:42:00.000Z",
+      "headline": "Wall Street veteran who called the dot-com bust says the Magnificent Seven represent an even bigger bubble",
+      "url": "https://www.marketwatch.com/story/wall-street-veteran-who-called-the-dot-com-bust-sees-a-bigger-bubble-in-magnificent-7-868dfe23?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Richard Bernstein says investors are ignoring a whole bunch of high-earning companies for the sake of a few tech giants.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T12:33:00.000Z",
+      "headline": "Here&#x2019;s the lesson Deutsche Bank learned from previous gold rallies as it lifts target to $6,000",
+      "url": "https://www.marketwatch.com/story/heres-the-lesson-deutsche-bank-learned-from-previous-gold-rallies-as-it-lifts-target-to-6-000-11f392e4?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "META",
+        "ED"
+      ],
+      "summary_en": "Deutsche Bank joined Wall Street peers in lifting its gold price forecast as the yellow metal rallies.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T13:05:00.000Z",
+      "headline": "This chart tracks the &#x2018;single greatest predictor&#x2019; of stock-market returns &#x2014; and it&#x2019;s never done this before",
+      "url": "https://www.marketwatch.com/story/this-chart-tracks-the-single-greatest-predictor-of-stock-market-returns-and-its-never-done-this-before-171daf85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Individual stock ownership is a contrarian indicator. It&#x2019;s flashing a warning.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T12:58:00.000Z",
+      "headline": "American Airlines provides upbeat revenue outlook despite $200 million hit from winter storm",
+      "url": "https://www.marketwatch.com/story/american-airlines-provides-upbeat-revenue-outlook-despite-200-million-hit-from-winter-storm-af279bc7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "American Airlines&#x2019; stock rallied, as quarterly revenue missed expectations only because of the government shutdown.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T12:50:00.000Z",
+      "headline": "This earnings number is the only one that matters as a gut check on Big Tech&#x2019;s AI spending",
+      "url": "https://www.marketwatch.com/story/this-earnings-number-is-the-only-one-that-matters-as-a-gut-check-on-big-techs-ai-spending-949e7aaf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "S&P 500 index-fund investors are locked into a big bet that AI capital expenditures will pay off.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-27T11:24:00.000Z",
+      "headline": "Why shares of UnitedHealth, Humana and others are tanking and taking the Dow with them",
       "url": "https://www.marketwatch.com/story/why-shares-of-unitedhealth-humana-and-others-are-tanking-and-taking-the-dow-with-it-0e4e5c7f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -14,113 +99,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T10:15:00.000Z",
-      "headline": "&#x2018;I feel like this does us a disservice&#x2019;: My brother wants his $1 million inheritance in advance. Should he pay interest?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
+      "ts": "2026-01-27T13:05:00.000Z",
+      "headline": "Here&#x2019;s how Microsoft can prove the doubters wrong this earnings season",
+      "url": "https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The total value of our family trust is $4 million.&#x201d;",
+      "summary_en": "Increasing its cloud capacity is key for Microsoft, as the company can&#x2019;t currently meet all is AI demand due to a shortage of graphics processing units.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T09:58:00.000Z",
-      "headline": "Puma stock climbs as Chinese sports company swoops in for big stake",
-      "url": "https://www.marketwatch.com/story/puma-stock-climbs-as-chinese-sports-company-swoops-in-for-big-stake-ea30f980?mod=mw_rss_topstories",
+      "ts": "2026-01-27T12:34:00.000Z",
+      "headline": "UPS delivers on fourth-quarter numbers, and its stock rises",
+      "url": "https://www.marketwatch.com/story/ups-delivers-on-fourth-quarter-numbers-and-its-stock-rises-372479c0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "China&#x2019;s Anta Sports paid a big premium but doesn&#x2019;t appear likely to launch bid for all of Puma.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T02:30:00.000Z",
-      "headline": "Investors may be led into a trap as stock market discards new tariff threats, analyst warns",
-      "url": "https://www.marketwatch.com/story/investors-may-be-led-into-a-trap-as-stock-market-discards-new-tariff-threats-analyst-warns-44081e86?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The U.S. stock market&#x2019;s resiliency will be tested this week by quarterly earnings results, after rebounding from recent bouts of volatility this month on tariff-related fears.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T02:25:00.000Z",
-      "headline": "The hottest stock market is only briefly rattled by Trump&#x2019;s threat of 25% tariffs",
-      "url": "https://www.marketwatch.com/story/south-korean-auto-pharma-stocks-fall-after-trump-threatens-to-impose-25-tariffs-14d1b950?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "South Korean automaker and pharmaceutical stocks eased after President Donald Trump late Monday threatened to raise tariffs on some Korean imports to 25% because that country&#x2019;s government has been too slow to approve a trade deal reached last year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T02:22:00.000Z",
-      "headline": "CoreWeave&#x2019;s stock soars. Why Nvidia&#x2019;s fresh bet on the company is so significant.",
-      "url": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-nvidia-makes-a-fresh-bet-on-the-company-b5cabc4b?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Nvidia and CoreWeave are deepening their relationship in a way that could give the cloud company an edge over rivals.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T01:30:00.000Z",
-      "headline": "&#x2018;I&#x2018;m facing an ethical dilemma&#x2019;: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
-      "url": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My mother has now hired an attorney to revise the trust and remove her late husband&#x2019;s children as beneficiaries.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T01:25:00.000Z",
-      "headline": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
-      "url": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m 61 years old, single and still have a job.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T01:12:00.000Z",
-      "headline": "&#x2018;It&#x2019;s an expensive piece of equipment&#x2019;: My neighbor asked to borrow my snowblower. Do I say yes?",
-      "url": "https://www.marketwatch.com/story/its-an-expensive-piece-of-equipment-my-neighbor-asked-to-borrow-my-snowblower-do-i-say-yes-4ae68f4e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "SNOW",
-        "ED"
-      ],
-      "summary_en": "&#x201c;The projected snowfall this weekend doesn&#x2019;t look to be changing too much.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T01:00:00.000Z",
-      "headline": "&#x2018;I have been living in mattress hell&#x2019;: I bought a dud &#x2014; twice. How can I get my money back?",
-      "url": "https://www.marketwatch.com/story/i-have-been-living-in-mattress-hell-i-bought-a-dud-twice-how-can-i-get-my-money-back-62384d8f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am completely disgusted by the lack of accountability and the failure to honor warranties.&#x201d;",
+      "summary_en": "UPS trades on a 30% discount to the S&P 500 on a price-to-earnings basis with a dividend of roughly 6%.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
