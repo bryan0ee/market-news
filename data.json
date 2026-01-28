@@ -1,88 +1,112 @@
 {
-  "last_updated": "2026-01-27T23:33:10.854Z",
+  "last_updated": "2026-01-28T10:55:00.234Z",
   "items": [
     {
-      "ts": "2026-01-27T22:28:00.000Z",
-      "headline": "UnitedHealth&#x2019;s stock falls 20% after saying it expects revenue to decline in 2026",
-      "url": "https://www.marketwatch.com/story/unitedhealths-stock-falls-further-after-saying-it-expects-revenue-to-decline-in-2026-5046edb6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The health insurer was also surprised by a very small Medicare Advantage rate proposal.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T21:58:00.000Z",
-      "headline": "GM&#x2019;s stock pushes to a new record, as carmaker calls for higher profit ahead",
-      "url": "https://www.marketwatch.com/story/general-motors-takes-7-2-billion-charge-on-ev-shift-as-it-boosts-dividend-and-sets-new-buyback-159f1e6d?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "GM is adjusting to declining customer interest in electric vehicles as the automaker boosted its dividend and announced a new stock buyback.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T22:18:00.000Z",
-      "headline": "Pinterest is slashing jobs and office space as it switches focus to AI roles",
-      "url": "https://www.marketwatch.com/story/pinterest-is-slashing-jobs-and-office-space-as-it-switches-focus-to-ai-roles-a2906654?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Pinterest&#x2019;s stock drops after a disclosure that it plans to cut about 15% of its workforce, as it reallocates resources to AI-focused roles and products.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T22:12:00.000Z",
-      "headline": "Why shares of UnitedHealth, Humana and other insurers tanked &#x2014; and took the Dow with them",
-      "url": "https://www.marketwatch.com/story/why-shares-of-unitedhealth-humana-and-others-are-tanking-and-taking-the-dow-with-it-0e4e5c7f?mod=mw_rss_topstories",
+      "ts": "2026-01-28T10:31:00.000Z",
+      "headline": "How both sides of the &#x2018;Sell America&#x2019; debate can be right",
+      "url": "https://www.marketwatch.com/story/how-both-sides-of-the-sell-america-debate-can-be-right-fb17a0ab?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of UnitedHealth, Humana and other health insurers were clobbered Tuesday after a preliminary payment proposal for Medicare Advantage fell way short of analyst expectations.",
+      "summary_en": "There are two opposing views of whether the so-called &#x201c;sell America&#x201d; trade is happening.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T22:04:00.000Z",
-      "headline": "&#x2018;I have been living in mattress hell&#x2019;: I bought a dud &#x2014; twice. How can I get my money back?",
-      "url": "https://www.marketwatch.com/story/i-have-been-living-in-mattress-hell-i-bought-a-dud-twice-how-can-i-get-my-money-back-62384d8f?mod=mw_rss_topstories",
+      "ts": "2026-01-28T09:16:00.000Z",
+      "headline": "ASML bookings blow past estimates as SK Hynix plans capital-expenditure boost",
+      "url": "https://www.marketwatch.com/story/asml-bookings-blow-past-estimates-as-sk-hynix-plans-capital-expenditure-boost-3ff6f873?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I am completely disgusted by the lack of accountability and the failure to honor warranties.&#x201d;",
+      "summary_en": "Rarely have two earnings reports so neatly aligned, as microchip equipment maker ASML Holding reported surprisingly strong orders growth as memory-chip producer SK Hynix said it would make a &#x201c;considerable increase&#x201d; in capital expenditure.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T22:31:00.000Z",
-      "headline": "These home buyers are suing one of the biggest mortgage lenders in America. Why you should pay attention.",
-      "url": "https://www.marketwatch.com/story/these-home-buyers-are-suing-one-of-the-biggest-mortgage-lenders-in-america-why-you-should-pay-attention-6729bb1a?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-01-28T09:07:00.000Z",
+      "headline": "This Intel executive bought the dip as the stock sank on earnings disappointment",
+      "url": "https://www.marketwatch.com/story/this-intel-executive-bought-the-dip-as-the-stock-sank-on-earnings-disappointment-d5f63105?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "A class-action lawsuit against mortgage-lending giant Rocket Companies accuses the company of illegally steering homebuyers toward using their services and away from cheaper alternatives.",
+      "summary_en": "CFO David Zinsner recently scooped up $250,000 worth of stock, reflecting &#x201c;belief in Intel and commitment to creating shareholder value.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-27T22:20:00.000Z",
-      "headline": "Micron&#x2019;s stock is surging as the company looks to cash in on a &#x2018;desperate&#x2019; market",
-      "url": "https://www.marketwatch.com/story/microns-stock-is-surging-as-the-company-looks-to-cash-in-on-a-desperate-market-3500e34a?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
+      "ts": "2026-01-28T07:15:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t own a house&#x2019;: I&#x2019;m 50 with $2 million and I&#x2019;m scared about losing my job. Can I retire early?",
+      "url": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My monthly expenses are around $6,000. That includes rent.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T10:07:00.000Z",
+      "headline": "Despite questions about AI&#x2019;s long-term profitability, OpenAI and Anthropic accelerate investment",
+      "url": "https://www.marketwatch.com/story/despite-questions-about-ais-long-term-profitability-openai-and-anthropic-accelerate-investment-ffbcec4a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The memory-chip company is adding a new facility that will boost capacity, but not before setting the stage for two years of big price increases.",
+      "summary_en": "OpenAI&#x2019;s latest funding round suggests a valuation of up to $830 billion, while Anthropic&#x2019;s implies $350 billion",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T04:18:00.000Z",
+      "headline": "Texas Instruments forecasts something that hasn&#x2019;t happened in 16 years, lifting its stock",
+      "url": "https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The company&#x2019;s outlook implies revenue in the first quarter could be higher than what it was in the fourth quarter as a recovery takes hold.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T03:43:00.000Z",
+      "headline": "Apple CEO Tim Cook says he&#x2019;s &#x2018;heartbroken&#x2019; after Minneapolis shootings, calls for de-escalation",
+      "url": "https://www.marketwatch.com/story/apple-ceo-tim-cook-says-hes-heartbroken-after-minneapolis-shootings-calls-for-de-escalation-bf9595f2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Apple CEO Tim Cook said Tuesday he&#x2019;s &#x201c;heartbroken&#x201d; by the recent events in Minneapolis, and that he has voiced his concerns about the situation with President Donald Trump.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T02:14:00.000Z",
+      "headline": "Everyone&#x2019;s looking for political fireworks from Powell&#x2019;s press conference. Here&#x2019;s what to expect.",
+      "url": "https://www.marketwatch.com/story/everyones-looking-for-political-fireworks-from-powells-press-conference-heres-what-to-expect-4c79bf55?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Experts debate Fed Chair Jerome Powell&#x2019;s future ahead of his Wednesday remarks, which will follow the central bank&#x2019;s decision on interest rates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T02:20:00.000Z",
+      "headline": "Here&#x2019;s how Microsoft can prove the doubters wrong this earnings season",
+      "url": "https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Increasing its cloud capacity is key for Microsoft, as the company can&#x2019;t currently meet all is AI demand due to a shortage of graphics processing units.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -95,30 +119,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "The U.S. dollar fell to its lowest level in four years on Tuesday despite President Donald Trump claiming it was &#x201c;doing great&#x201d; in a speech in Iowa.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T22:24:00.000Z",
-      "headline": "Cloudflare&#x2019;s stock pops on viral Moltbot. Here&#x2019;s how a cybersecurity company became the newest AI winner.",
-      "url": "https://www.marketwatch.com/story/cloudflares-stock-pops-on-viral-moltbot-heres-how-a-cybersecurity-company-became-the-newest-ai-winner-22e66a6a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The rise of autonomous personal assistants like Moltbot is creating a new bull case for companies that help secure digital identities and local data, analysts said.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T22:13:00.000Z",
-      "headline": "Here&#x2019;s how Amazon is looking to take on Walmart at its own game",
-      "url": "https://www.marketwatch.com/story/heres-how-amazon-is-looking-to-take-on-walmart-at-its-own-game-3db54d28?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Amazon is looking into opening a supercenter retail location, while closing its Amazon Go and Amazon Fresh physical stores.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
