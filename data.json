@@ -1,69 +1,81 @@
 {
-  "last_updated": "2026-01-28T13:51:19.775Z",
+  "last_updated": "2026-01-28T23:37:11.939Z",
   "items": [
     {
-      "ts": "2026-01-28T13:33:00.000Z",
-      "headline": "&#x2018;I&#x2018;m facing an ethical dilemma&#x2019;: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
-      "url": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
+      "ts": "2026-01-28T22:56:00.000Z",
+      "headline": "S&P 500 touches 7,000 for the first time, led by a surprising group of stocks",
+      "url": "https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My mother has now hired an attorney to revise the trust and remove her late husband&#x2019;s children as beneficiaries.&#x201d;",
+      "summary_en": "The S&P 500 on Wednesday blew past another psychological barrier, hitting 7,000 for the first time in history &#x2014; before pulling back.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T13:27:00.000Z",
-      "headline": "Deutsche Bank&#x2019;s offices raided, reportedly over allegations tied to Roman Abramovich",
-      "url": "https://www.marketwatch.com/story/deutsche-banks-offices-raided-reportedly-over-allegations-tied-to-roman-abramovich-ebdeb104?mod=mw_rss_topstories",
+      "ts": "2026-01-28T22:46:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t own a house&#x2019;: I&#x2019;m 50 with $2 million and I&#x2019;m scared about losing my job. Can I retire early?",
+      "url": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Germany&#x2019;s federal criminal police office on Wednesday carried out a raid on the country&#x2019;s largest bank, Deutsche Bank, reportedly on money-laundering allegations tied to Russian magnate Roman Abramovich.",
+      "summary_en": "&#x201c;My monthly expenses are around $6,000. That includes rent.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T13:21:00.000Z",
-      "headline": "Starbucks rewards investors with another quarter of growth in a key sales metric",
-      "url": "https://www.marketwatch.com/story/starbucks-rewards-investors-with-another-quarter-of-growth-in-a-key-sales-metric-07ac6e69?mod=mw_rss_topstories",
+      "ts": "2026-01-28T22:46:00.000Z",
+      "headline": "ServiceNow says AI is &#x2018;really kicking in&#x2019; &#x2014;&#xa0;but it&#x2019;s not enough to help the stock",
+      "url": "https://www.marketwatch.com/story/servicenow-says-ai-is-really-kicking-in-but-its-not-enough-to-help-the-stock-662839dd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Starbucks said growth in stores open at least 13 months was much better than expected &#x2014; and the stock was headed toward a 10-month high.",
+      "summary_en": "Shares of the software company were set to extend declines despite a better-than-expected forecast.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T13:09:00.000Z",
-      "headline": "Why this hedge-fund veteran says investors should own both high-flying gold and the sinking U.S. dollar",
-      "url": "https://www.marketwatch.com/story/why-this-hedge-fund-veteran-says-investors-should-own-both-high-flying-gold-and-the-sinking-u-s-dollar-f2656ffc?mod=mw_rss_topstories",
+      "ts": "2026-01-28T22:38:00.000Z",
+      "headline": "Investors cheer the end of Southwest&#x2019;s open-seating era, as airline forecasts a big 2026 profit",
+      "url": "https://www.marketwatch.com/story/southwest-says-assigned-seats-will-make-it-more-profitable-this-year-as-stock-rallies-1e10db1d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The former head of commodities at Bridgewater says current dollar &#x201c;freakout is overblown.&#x201d; Own dollar and gold, he advises.",
+      "summary_en": "Southwest&#x2019;s five-decade-long era of open seating ended on Tuesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T13:07:00.000Z",
-      "headline": "Medicare is about to start negotiating the prices of some medications administered by doctors",
-      "url": "https://www.marketwatch.com/story/medicare-is-about-to-start-negotiating-the-prices-of-medications-administered-by-doctors-959d142b?mod=mw_rss_topstories",
+      "ts": "2026-01-28T21:05:00.000Z",
+      "headline": "10,000 flights canceled, a $200 million hit from the storm and a plunging stock: American Airlines&#x2019; bad week",
+      "url": "https://www.marketwatch.com/story/10-000-flights-canceled-a-200-million-hit-from-the-storm-and-a-plunging-stock-american-airlines-bad-week-97c1d22f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The 15 drugs selected for negotiation include Eli Lilly&#x2019;s breast-cancer drug Verzenio.",
+      "summary_en": "American &#x201c;is not in a position of strength as a business&#x201d; to weather the reputational hit, which may further weaken customer preference for the airline, at least in the short term.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T12:50:00.000Z",
-      "headline": "This top stock-picker spotted Nvidia and GLP-1s early &#x2014; and made over 200%. Here&#x2019;s what he&#x2019;s buying now.",
+      "ts": "2026-01-28T21:04:00.000Z",
+      "headline": "How do I open a &#x2018;Trump account&#x2019;? The IRS has one simple solution for you.",
+      "url": "https://www.marketwatch.com/story/how-do-i-open-a-trump-account-the-irs-has-one-simple-solution-for-you-41da00e3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "People can&#x2019;t contribute money to the tax-advantaged accounts for children until July, but they can start the process of opening one now",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T20:48:00.000Z",
+      "headline": "This top stock picker spotted Nvidia and GLP-1s early &#x2014; and made over 200%. Here&#x2019;s what he&#x2019;s buying now.",
       "url": "https://www.marketwatch.com/story/this-top-stock-picker-spotted-nvidia-and-glp-1s-early-and-made-over-200-heres-what-hes-buying-now-16a5c5fa?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -74,43 +86,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T12:48:00.000Z",
-      "headline": "When Intel&#x2019;s stock sank on earnings, this executive bought the dip",
-      "url": "https://www.marketwatch.com/story/this-intel-executive-bought-the-dip-as-the-stock-sank-on-earnings-disappointment-d5f63105?mod=mw_rss_topstories",
+      "ts": "2026-01-28T20:45:00.000Z",
+      "headline": "The diaper wars go deluxe as Pampers, Huggies chase shoppers ready to pay more for premium products",
+      "url": "https://www.marketwatch.com/story/the-diaper-wars-go-deluxe-as-pampers-huggies-chase-shoppers-ready-to-pay-more-for-premium-products-b698e16a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "CFO David Zinsner recently scooped up $250,000 worth of stock, reflecting &#x201c;belief in Intel and commitment to creating shareholder value.&#x201d;",
+      "summary_en": "Pampers parent P&G and Huggies seller Kimberly-Clark, who were once locked in a price war, are now pushing premium versions of their diapers.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T13:00:00.000Z",
-      "headline": "Investors are counting on two very different assets for safety as cracks in the world order widen in January",
-      "url": "https://www.marketwatch.com/story/investors-are-counting-on-two-very-different-assets-for-safety-as-cracks-in-the-world-order-widen-in-january-99bab5a4?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Gold and U.S. stocks aren&#x2019;t known for both reaching record highs at the same time. Welcome to the &#x201c;haven&#x201d; plays to start 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T13:15:00.000Z",
-      "headline": "These stocks are the market&#x2019;s new momentum plays as Big Tech loses steam",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-the-markets-new-momentum-plays-as-big-tech-loses-steam-64705b8c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A veteran money manager shares his top picks.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T12:33:00.000Z",
+      "ts": "2026-01-28T22:47:00.000Z",
       "headline": "&#x2018;I feel like this does us a disservice&#x2019;: My brother wants his $1 million inheritance in advance. Should he pay interest?",
       "url": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -119,6 +107,42 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "&#x201c;The total value of our family trust is $4 million.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T19:00:00.000Z",
+      "headline": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve issues FOMC statement",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T19:00:00.000Z",
+      "headline": "Federal Open Market Committee reaffirms its \"Statement on Longer-Run Goals and Monetary Policy Strategy\"",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T20:39:00.000Z",
+      "headline": "These stocks are the market&#x2019;s new momentum plays as Big Tech loses steam",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-the-markets-new-momentum-plays-as-big-tech-loses-steam-64705b8c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "A veteran money manager shares his top picks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
