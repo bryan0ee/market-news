@@ -1,33 +1,81 @@
 {
-  "last_updated": "2026-01-28T10:55:00.234Z",
+  "last_updated": "2026-01-28T13:51:19.775Z",
   "items": [
     {
-      "ts": "2026-01-28T10:31:00.000Z",
-      "headline": "How both sides of the &#x2018;Sell America&#x2019; debate can be right",
-      "url": "https://www.marketwatch.com/story/how-both-sides-of-the-sell-america-debate-can-be-right-fb17a0ab?mod=mw_rss_topstories",
+      "ts": "2026-01-28T13:33:00.000Z",
+      "headline": "&#x2018;I&#x2018;m facing an ethical dilemma&#x2019;: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
+      "url": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "There are two opposing views of whether the so-called &#x201c;sell America&#x201d; trade is happening.",
+      "summary_en": "&#x201c;My mother has now hired an attorney to revise the trust and remove her late husband&#x2019;s children as beneficiaries.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T09:16:00.000Z",
-      "headline": "ASML bookings blow past estimates as SK Hynix plans capital-expenditure boost",
-      "url": "https://www.marketwatch.com/story/asml-bookings-blow-past-estimates-as-sk-hynix-plans-capital-expenditure-boost-3ff6f873?mod=mw_rss_topstories",
+      "ts": "2026-01-28T13:27:00.000Z",
+      "headline": "Deutsche Bank&#x2019;s offices raided, reportedly over allegations tied to Roman Abramovich",
+      "url": "https://www.marketwatch.com/story/deutsche-banks-offices-raided-reportedly-over-allegations-tied-to-roman-abramovich-ebdeb104?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Rarely have two earnings reports so neatly aligned, as microchip equipment maker ASML Holding reported surprisingly strong orders growth as memory-chip producer SK Hynix said it would make a &#x201c;considerable increase&#x201d; in capital expenditure.",
+      "summary_en": "Germany&#x2019;s federal criminal police office on Wednesday carried out a raid on the country&#x2019;s largest bank, Deutsche Bank, reportedly on money-laundering allegations tied to Russian magnate Roman Abramovich.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T09:07:00.000Z",
-      "headline": "This Intel executive bought the dip as the stock sank on earnings disappointment",
+      "ts": "2026-01-28T13:21:00.000Z",
+      "headline": "Starbucks rewards investors with another quarter of growth in a key sales metric",
+      "url": "https://www.marketwatch.com/story/starbucks-rewards-investors-with-another-quarter-of-growth-in-a-key-sales-metric-07ac6e69?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Starbucks said growth in stores open at least 13 months was much better than expected &#x2014; and the stock was headed toward a 10-month high.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T13:09:00.000Z",
+      "headline": "Why this hedge-fund veteran says investors should own both high-flying gold and the sinking U.S. dollar",
+      "url": "https://www.marketwatch.com/story/why-this-hedge-fund-veteran-says-investors-should-own-both-high-flying-gold-and-the-sinking-u-s-dollar-f2656ffc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The former head of commodities at Bridgewater says current dollar &#x201c;freakout is overblown.&#x201d; Own dollar and gold, he advises.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T13:07:00.000Z",
+      "headline": "Medicare is about to start negotiating the prices of some medications administered by doctors",
+      "url": "https://www.marketwatch.com/story/medicare-is-about-to-start-negotiating-the-prices-of-medications-administered-by-doctors-959d142b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The 15 drugs selected for negotiation include Eli Lilly&#x2019;s breast-cancer drug Verzenio.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T12:50:00.000Z",
+      "headline": "This top stock-picker spotted Nvidia and GLP-1s early &#x2014; and made over 200%. Here&#x2019;s what he&#x2019;s buying now.",
+      "url": "https://www.marketwatch.com/story/this-top-stock-picker-spotted-nvidia-and-glp-1s-early-and-made-over-200-heres-what-hes-buying-now-16a5c5fa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Citrini Research founder James Van Geelen identifies potential big money trends and stakes his claim far ahead of the crowd.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T12:48:00.000Z",
+      "headline": "When Intel&#x2019;s stock sank on earnings, this executive bought the dip",
       "url": "https://www.marketwatch.com/story/this-intel-executive-bought-the-dip-as-the-stock-sank-on-earnings-disappointment-d5f63105?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -38,87 +86,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T07:15:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t own a house&#x2019;: I&#x2019;m 50 with $2 million and I&#x2019;m scared about losing my job. Can I retire early?",
-      "url": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-01-28T13:00:00.000Z",
+      "headline": "Investors are counting on two very different assets for safety as cracks in the world order widen in January",
+      "url": "https://www.marketwatch.com/story/investors-are-counting-on-two-very-different-assets-for-safety-as-cracks-in-the-world-order-widen-in-january-99bab5a4?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;My monthly expenses are around $6,000. That includes rent.&#x201d;",
+      "summary_en": "Gold and U.S. stocks aren&#x2019;t known for both reaching record highs at the same time. Welcome to the &#x201c;haven&#x201d; plays to start 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T10:07:00.000Z",
-      "headline": "Despite questions about AI&#x2019;s long-term profitability, OpenAI and Anthropic accelerate investment",
-      "url": "https://www.marketwatch.com/story/despite-questions-about-ais-long-term-profitability-openai-and-anthropic-accelerate-investment-ffbcec4a?mod=mw_rss_topstories",
+      "ts": "2026-01-28T13:15:00.000Z",
+      "headline": "These stocks are the market&#x2019;s new momentum plays as Big Tech loses steam",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-the-markets-new-momentum-plays-as-big-tech-loses-steam-64705b8c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "OpenAI&#x2019;s latest funding round suggests a valuation of up to $830 billion, while Anthropic&#x2019;s implies $350 billion",
+      "summary_en": "A veteran money manager shares his top picks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T04:18:00.000Z",
-      "headline": "Texas Instruments forecasts something that hasn&#x2019;t happened in 16 years, lifting its stock",
-      "url": "https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The company&#x2019;s outlook implies revenue in the first quarter could be higher than what it was in the fourth quarter as a recovery takes hold.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T03:43:00.000Z",
-      "headline": "Apple CEO Tim Cook says he&#x2019;s &#x2018;heartbroken&#x2019; after Minneapolis shootings, calls for de-escalation",
-      "url": "https://www.marketwatch.com/story/apple-ceo-tim-cook-says-hes-heartbroken-after-minneapolis-shootings-calls-for-de-escalation-bf9595f2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Apple CEO Tim Cook said Tuesday he&#x2019;s &#x201c;heartbroken&#x201d; by the recent events in Minneapolis, and that he has voiced his concerns about the situation with President Donald Trump.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T02:14:00.000Z",
-      "headline": "Everyone&#x2019;s looking for political fireworks from Powell&#x2019;s press conference. Here&#x2019;s what to expect.",
-      "url": "https://www.marketwatch.com/story/everyones-looking-for-political-fireworks-from-powells-press-conference-heres-what-to-expect-4c79bf55?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Experts debate Fed Chair Jerome Powell&#x2019;s future ahead of his Wednesday remarks, which will follow the central bank&#x2019;s decision on interest rates.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T02:20:00.000Z",
-      "headline": "Here&#x2019;s how Microsoft can prove the doubters wrong this earnings season",
-      "url": "https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18?mod=mw_rss_topstories",
+      "ts": "2026-01-28T12:33:00.000Z",
+      "headline": "&#x2018;I feel like this does us a disservice&#x2019;: My brother wants his $1 million inheritance in advance. Should he pay interest?",
+      "url": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Increasing its cloud capacity is key for Microsoft, as the company can&#x2019;t currently meet all is AI demand due to a shortage of graphics processing units.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-27T22:54:00.000Z",
-      "headline": "Dollar tumbles to a four-year low as Trump claims it&#x2019;s &#x2018;doing great&#x2019;",
-      "url": "https://www.marketwatch.com/story/dollar-tumbles-to-a-four-year-low-as-trump-claims-its-doing-great-2a2e9384?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The U.S. dollar fell to its lowest level in four years on Tuesday despite President Donald Trump claiming it was &#x201c;doing great&#x201d; in a speech in Iowa.",
+      "summary_en": "&#x201c;The total value of our family trust is $4 million.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
