@@ -1,56 +1,57 @@
 {
-  "last_updated": "2026-01-29T11:04:59.105Z",
+  "last_updated": "2026-01-29T14:01:20.476Z",
   "items": [
     {
-      "ts": "2026-01-29T10:22:00.000Z",
-      "headline": "&#x2018;I&#x2019;m worried about cash flow&#x2019;: I&#x2019;m 71 with a $2.7 million IRA and $470K in stocks. Why can&#x2019;t I relax?",
-      "url": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My home is paid for and has an estimated value of $700,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T08:58:00.000Z",
-      "headline": "SAP shares get punished for slight miss on backlog",
-      "url": "https://www.marketwatch.com/story/sap-shares-get-punished-for-slight-miss-on-backlog-a1a514a4?mod=mw_rss_topstories",
+      "ts": "2026-01-29T13:06:00.000Z",
+      "headline": "Data-center demand helps Caterpillar to best quarter ever &#x2014; but there&#x2019;s a tariff sting",
+      "url": "https://www.marketwatch.com/story/data-center-demand-helps-caterpillar-to-best-quarter-ever-but-theres-a-tariff-sting-708017c0?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Shares of SAP were hammered on Thursday as the German software giant reported slower backlog growth than expected in the fourth quarter and also guided to a slight deceleration this year.",
+      "summary_en": "Caterpillar&#x2019;s backlog increased by 71% from a year ago, reaching a record for the construction-machinery maker.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T02:28:00.000Z",
-      "headline": "&#x2018;I&#x2018;m facing an ethical dilemma&#x2019;: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
-      "url": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
+      "ts": "2026-01-29T13:43:00.000Z",
+      "headline": "Central banks have actually slowed their purchases of gold, but investors have more than made up the difference",
+      "url": "https://www.marketwatch.com/story/central-banks-have-actually-slowed-their-purchases-of-gold-but-investors-have-more-than-made-up-the-difference-cc3dc11d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My mother has now hired an attorney to revise the trust and remove her late husband&#x2019;s children as beneficiaries.&#x201d;",
+      "summary_en": "The World Gold Council said total demand for gold smashed records last year, but central-bank interest has a strong rival.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T01:52:00.000Z",
-      "headline": "ServiceNow says AI is &#x2018;really kicking in&#x2019; &#x2014;&#xa0;but it&#x2019;s not enough to help the stock",
-      "url": "https://www.marketwatch.com/story/servicenow-says-ai-is-really-kicking-in-but-its-not-enough-to-help-the-stock-662839dd?mod=mw_rss_topstories",
+      "ts": "2026-01-29T13:32:00.000Z",
+      "headline": "Gold&#x2019;s soaring so fast it&#x2019;s topped Goldman target set only last week. Now a JPMorgan analyst plots path to $8,500.",
+      "url": "https://www.marketwatch.com/story/golds-soaring-so-fast-its-topped-goldman-target-set-only-last-week-now-a-jpmorgan-analyst-plots-path-to-8-500-bfd3e1fc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "META",
         "ED"
       ],
-      "summary_en": "Shares of the software company were set to extend declines despite a better-than-expected forecast.",
+      "summary_en": "A JPMorgan strategist calculates impact on gold prices were households to swap out bonds for the yelllow metal in balanced portfolios.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T01:50:00.000Z",
+      "ts": "2026-01-29T12:23:00.000Z",
+      "headline": "Royal Caribbean&#x2019;s stock surges as record cruise bookings fuel an upbeat earnings outlook",
+      "url": "https://www.marketwatch.com/story/royal-caribbeans-stock-surges-as-record-cruise-bookings-fuel-an-upbeat-earnings-outlook-8e615710?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Royal Caribbean&#x2019;s stock rallied toward a three-month high after the cruise operator&#x2019;s full-year profit and revenue outlooks were above Wall Street forecasts.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-29T13:02:00.000Z",
       "headline": "Investors cheer the end of Southwest&#x2019;s open-seating era, as airline forecasts a big 2026 profit",
       "url": "https://www.marketwatch.com/story/southwest-says-assigned-seats-will-make-it-more-profitable-this-year-as-stock-rallies-1e10db1d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -62,39 +63,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T01:49:00.000Z",
-      "headline": "York Space tests the market&#x2019;s hunger for satellite stocks as it upsizes its IPO",
-      "url": "https://www.marketwatch.com/story/york-space-tests-the-markets-hunger-for-satellite-stocks-as-it-upsizes-its-ipo-ad7e6a89?mod=mw_rss_topstories",
+      "ts": "2026-01-29T12:52:00.000Z",
+      "headline": "10,000 flights canceled, a $200 million hit from the storm and a plunging stock: American Airlines&#x2019; bad week",
+      "url": "https://www.marketwatch.com/story/10-000-flights-canceled-a-200-million-hit-from-the-storm-and-a-plunging-stock-american-airlines-bad-week-97c1d22f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Ahead of an expected SpaceX IPO later this year, a much smaller satellite company is headed for the public markets.",
+      "summary_en": "American &#x201c;is not in a position of strength as a business&#x201d; to weather the reputational hit, which may further weaken customer preference for the airline, at least in the short term.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T01:16:00.000Z",
-      "headline": "Why Microsoft&#x2019;s stock is getting punished after earnings",
-      "url": "https://www.marketwatch.com/story/why-microsofts-stock-is-getting-punished-after-earnings-a0a9ef0f?mod=mw_rss_topstories",
+      "ts": "2026-01-29T12:30:00.000Z",
+      "headline": "The battered dollar could fall even further if it breaks below this key level",
+      "url": "https://www.marketwatch.com/story/the-battered-dollar-could-fall-even-further-if-it-breaks-below-this-key-level-ec6cada6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors focused on the balance between AI spending and AI revenue wanted more juice from Microsoft&#x2019;s cloud business in the latest quarter.",
+      "summary_en": "A breach below a key support level for the U.S. dollar could trigger a sharp decline and potentially open the door to further downside.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T23:50:00.000Z",
-      "headline": "AT&T&#x2019;s earnings impress as subscriber growth booms and the stock jumps",
-      "url": "https://www.marketwatch.com/story/at-ts-earnings-impress-as-subscriber-growth-booms-and-the-stock-soars-39285b27?mod=mw_rss_topstories",
+      "ts": "2026-01-29T13:23:00.000Z",
+      "headline": "Surprisingly strong software growth sends IBM&#x2019;s stock surging",
+      "url": "https://www.marketwatch.com/story/surprisingly-strong-software-growth-sends-ibm-stock-surging-e4f02a75?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "AT&T added 283,000 fiber subscribers and 421,000 net postpaid phone subscribers in the latest quarter, reflecting a push for &#x201c;convergence&#x201d; of connectivity offerings.",
+      "summary_en": "Surprisingly strong software growth sent IBM shares surging in early trade on Thursday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-29T13:11:00.000Z",
+      "headline": "Here&#x2019;s what 2026 could look like for Levi&#x2019;s: more dresses, less denim and an AI &#x2018;stylist&#x2019;",
+      "url": "https://www.marketwatch.com/story/more-tops-more-dresses-and-an-ai-stylist-heres-what-2026-could-look-like-for-levis-085054cf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Levi&#x2019;s sees sales of tops, dresses and non-denim bottoms growing fast.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-29T12:24:00.000Z",
+      "headline": "&#x2018;I feel like this does us a disservice&#x2019;: My brother wants his $1 million inheritance in advance. Should he pay interest?",
+      "url": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;The total value of our family trust is $4 million.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -119,30 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T23:46:00.000Z",
-      "headline": "Starbucks rewards investors who have been betting the turnaround is taking hold",
-      "url": "https://www.marketwatch.com/story/starbucks-rewards-investors-with-another-quarter-of-growth-in-a-key-sales-metric-07ac6e69?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Starbucks sees a second straight quarter of growth in sales of stores open at least a year, in a sign that the turnaround is taking shape.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T23:38:00.000Z",
-      "headline": "Micron and other chip stocks are seeing a big boost after these comments",
-      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-are-seeing-a-big-boost-after-these-comments-a3570761?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Seagate says prices could go higher for its storage products as supply remains tight due to AI.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
