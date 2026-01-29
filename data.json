@@ -1,32 +1,44 @@
 {
-  "last_updated": "2026-01-28T23:37:11.939Z",
+  "last_updated": "2026-01-29T11:04:59.105Z",
   "items": [
     {
-      "ts": "2026-01-28T22:56:00.000Z",
-      "headline": "S&P 500 touches 7,000 for the first time, led by a surprising group of stocks",
-      "url": "https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4?mod=mw_rss_topstories",
+      "ts": "2026-01-29T10:22:00.000Z",
+      "headline": "&#x2018;I&#x2019;m worried about cash flow&#x2019;: I&#x2019;m 71 with a $2.7 million IRA and $470K in stocks. Why can&#x2019;t I relax?",
+      "url": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The S&P 500 on Wednesday blew past another psychological barrier, hitting 7,000 for the first time in history &#x2014; before pulling back.",
+      "summary_en": "&#x201c;My home is paid for and has an estimated value of $700,000.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T22:46:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t own a house&#x2019;: I&#x2019;m 50 with $2 million and I&#x2019;m scared about losing my job. Can I retire early?",
-      "url": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
+      "ts": "2026-01-29T08:58:00.000Z",
+      "headline": "SAP shares get punished for slight miss on backlog",
+      "url": "https://www.marketwatch.com/story/sap-shares-get-punished-for-slight-miss-on-backlog-a1a514a4?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of SAP were hammered on Thursday as the German software giant reported slower backlog growth than expected in the fourth quarter and also guided to a slight deceleration this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-29T02:28:00.000Z",
+      "headline": "&#x2018;I&#x2018;m facing an ethical dilemma&#x2019;: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
+      "url": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My monthly expenses are around $6,000. That includes rent.&#x201d;",
+      "summary_en": "&#x201c;My mother has now hired an attorney to revise the trust and remove her late husband&#x2019;s children as beneficiaries.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T22:46:00.000Z",
+      "ts": "2026-01-29T01:52:00.000Z",
       "headline": "ServiceNow says AI is &#x2018;really kicking in&#x2019; &#x2014;&#xa0;but it&#x2019;s not enough to help the stock",
       "url": "https://www.marketwatch.com/story/servicenow-says-ai-is-really-kicking-in-but-its-not-enough-to-help-the-stock-662839dd?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,7 +50,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T22:38:00.000Z",
+      "ts": "2026-01-29T01:50:00.000Z",
       "headline": "Investors cheer the end of Southwest&#x2019;s open-seating era, as airline forecasts a big 2026 profit",
       "url": "https://www.marketwatch.com/story/southwest-says-assigned-seats-will-make-it-more-profitable-this-year-as-stock-rallies-1e10db1d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,63 +62,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T21:05:00.000Z",
-      "headline": "10,000 flights canceled, a $200 million hit from the storm and a plunging stock: American Airlines&#x2019; bad week",
-      "url": "https://www.marketwatch.com/story/10-000-flights-canceled-a-200-million-hit-from-the-storm-and-a-plunging-stock-american-airlines-bad-week-97c1d22f?mod=mw_rss_topstories",
+      "ts": "2026-01-29T01:49:00.000Z",
+      "headline": "York Space tests the market&#x2019;s hunger for satellite stocks as it upsizes its IPO",
+      "url": "https://www.marketwatch.com/story/york-space-tests-the-markets-hunger-for-satellite-stocks-as-it-upsizes-its-ipo-ad7e6a89?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "American &#x201c;is not in a position of strength as a business&#x201d; to weather the reputational hit, which may further weaken customer preference for the airline, at least in the short term.",
+      "summary_en": "Ahead of an expected SpaceX IPO later this year, a much smaller satellite company is headed for the public markets.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T21:04:00.000Z",
-      "headline": "How do I open a &#x2018;Trump account&#x2019;? The IRS has one simple solution for you.",
-      "url": "https://www.marketwatch.com/story/how-do-i-open-a-trump-account-the-irs-has-one-simple-solution-for-you-41da00e3?mod=mw_rss_topstories",
+      "ts": "2026-01-29T01:16:00.000Z",
+      "headline": "Why Microsoft&#x2019;s stock is getting punished after earnings",
+      "url": "https://www.marketwatch.com/story/why-microsofts-stock-is-getting-punished-after-earnings-a0a9ef0f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "People can&#x2019;t contribute money to the tax-advantaged accounts for children until July, but they can start the process of opening one now",
+      "summary_en": "Investors focused on the balance between AI spending and AI revenue wanted more juice from Microsoft&#x2019;s cloud business in the latest quarter.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T20:48:00.000Z",
-      "headline": "This top stock picker spotted Nvidia and GLP-1s early &#x2014; and made over 200%. Here&#x2019;s what he&#x2019;s buying now.",
-      "url": "https://www.marketwatch.com/story/this-top-stock-picker-spotted-nvidia-and-glp-1s-early-and-made-over-200-heres-what-hes-buying-now-16a5c5fa?mod=mw_rss_topstories",
+      "ts": "2026-01-28T23:50:00.000Z",
+      "headline": "AT&T&#x2019;s earnings impress as subscriber growth booms and the stock jumps",
+      "url": "https://www.marketwatch.com/story/at-ts-earnings-impress-as-subscriber-growth-booms-and-the-stock-soars-39285b27?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Citrini Research founder James Van Geelen identifies potential big money trends and stakes his claim far ahead of the crowd.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T20:45:00.000Z",
-      "headline": "The diaper wars go deluxe as Pampers, Huggies chase shoppers ready to pay more for premium products",
-      "url": "https://www.marketwatch.com/story/the-diaper-wars-go-deluxe-as-pampers-huggies-chase-shoppers-ready-to-pay-more-for-premium-products-b698e16a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Pampers parent P&G and Huggies seller Kimberly-Clark, who were once locked in a price war, are now pushing premium versions of their diapers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T22:47:00.000Z",
-      "headline": "&#x2018;I feel like this does us a disservice&#x2019;: My brother wants his $1 million inheritance in advance. Should he pay interest?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;The total value of our family trust is $4 million.&#x201d;",
+      "summary_en": "AT&T added 283,000 fiber subscribers and 421,000 net postpaid phone subscribers in the latest quarter, reflecting a push for &#x201c;convergence&#x201d; of connectivity offerings.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -134,15 +122,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-28T20:39:00.000Z",
-      "headline": "These stocks are the market&#x2019;s new momentum plays as Big Tech loses steam",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-the-markets-new-momentum-plays-as-big-tech-loses-steam-64705b8c?mod=mw_rss_topstories",
+      "ts": "2026-01-28T23:46:00.000Z",
+      "headline": "Starbucks rewards investors who have been betting the turnaround is taking hold",
+      "url": "https://www.marketwatch.com/story/starbucks-rewards-investors-with-another-quarter-of-growth-in-a-key-sales-metric-07ac6e69?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A veteran money manager shares his top picks.",
+      "summary_en": "Starbucks sees a second straight quarter of growth in sales of stores open at least a year, in a sign that the turnaround is taking shape.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-28T23:38:00.000Z",
+      "headline": "Micron and other chip stocks are seeing a big boost after these comments",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-are-seeing-a-big-boost-after-these-comments-a3570761?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Seagate says prices could go higher for its storage products as supply remains tight due to AI.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
