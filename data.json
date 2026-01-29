@@ -1,125 +1,137 @@
 {
-  "last_updated": "2026-01-29T14:01:20.476Z",
+  "last_updated": "2026-01-29T23:37:53.599Z",
   "items": [
     {
-      "ts": "2026-01-29T13:06:00.000Z",
-      "headline": "Data-center demand helps Caterpillar to best quarter ever &#x2014; but there&#x2019;s a tariff sting",
-      "url": "https://www.marketwatch.com/story/data-center-demand-helps-caterpillar-to-best-quarter-ever-but-theres-a-tariff-sting-708017c0?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Caterpillar&#x2019;s backlog increased by 71% from a year ago, reaching a record for the construction-machinery maker.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T13:43:00.000Z",
-      "headline": "Central banks have actually slowed their purchases of gold, but investors have more than made up the difference",
-      "url": "https://www.marketwatch.com/story/central-banks-have-actually-slowed-their-purchases-of-gold-but-investors-have-more-than-made-up-the-difference-cc3dc11d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The World Gold Council said total demand for gold smashed records last year, but central-bank interest has a strong rival.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T13:32:00.000Z",
-      "headline": "Gold&#x2019;s soaring so fast it&#x2019;s topped Goldman target set only last week. Now a JPMorgan analyst plots path to $8,500.",
-      "url": "https://www.marketwatch.com/story/golds-soaring-so-fast-its-topped-goldman-target-set-only-last-week-now-a-jpmorgan-analyst-plots-path-to-8-500-bfd3e1fc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "A JPMorgan strategist calculates impact on gold prices were households to swap out bonds for the yelllow metal in balanced portfolios.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T12:23:00.000Z",
-      "headline": "Royal Caribbean&#x2019;s stock surges as record cruise bookings fuel an upbeat earnings outlook",
-      "url": "https://www.marketwatch.com/story/royal-caribbeans-stock-surges-as-record-cruise-bookings-fuel-an-upbeat-earnings-outlook-8e615710?mod=mw_rss_topstories",
+      "ts": "2026-01-29T23:20:00.000Z",
+      "headline": "Sandisk&#x2019;s eye-popping earnings forecast helps justify 1,400% stock surge",
+      "url": "https://www.marketwatch.com/story/sandisks-eye-popping-earnings-forecast-helps-justify-1-400-stock-surge-a25fd452?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Royal Caribbean&#x2019;s stock rallied toward a three-month high after the cruise operator&#x2019;s full-year profit and revenue outlooks were above Wall Street forecasts.",
+      "summary_en": "The storage maker&#x2019;s revenue guidance was almost 60% higher than the Wall Street consensus and profit guidance was more than double that analysts had expected.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T13:02:00.000Z",
-      "headline": "Investors cheer the end of Southwest&#x2019;s open-seating era, as airline forecasts a big 2026 profit",
-      "url": "https://www.marketwatch.com/story/southwest-says-assigned-seats-will-make-it-more-profitable-this-year-as-stock-rallies-1e10db1d?mod=mw_rss_topstories",
+      "ts": "2026-01-29T23:33:00.000Z",
+      "headline": "As SpaceX prepares for its IPO, Elon Musk&#x2019;s empire could get even more intertwined",
+      "url": "https://www.marketwatch.com/story/as-spacex-prepares-for-its-ipo-elon-musks-empire-could-get-even-more-intertwined-84a75ed1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Southwest&#x2019;s five-decade-long era of open seating ended on Tuesday.",
+      "summary_en": "Elon Musk, the world&#x2019;s richest individual, could bring two of his biggest holdings closer together.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T12:52:00.000Z",
-      "headline": "10,000 flights canceled, a $200 million hit from the storm and a plunging stock: American Airlines&#x2019; bad week",
-      "url": "https://www.marketwatch.com/story/10-000-flights-canceled-a-200-million-hit-from-the-storm-and-a-plunging-stock-american-airlines-bad-week-97c1d22f?mod=mw_rss_topstories",
+      "ts": "2026-01-29T22:38:00.000Z",
+      "headline": "Software stocks suffer steep selloff, widening the gap with hot chip stocks",
+      "url": "https://www.marketwatch.com/story/software-stocks-suffer-worst-day-in-10-months-widening-the-gap-with-hot-chip-stocks-3ad0fb5f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "American &#x201c;is not in a position of strength as a business&#x201d; to weather the reputational hit, which may further weaken customer preference for the airline, at least in the short term.",
+      "summary_en": "A look at the best and worst S&P 500 stocks this year shows how tech investors have piled into semiconductor plays and bailed on software.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T12:30:00.000Z",
-      "headline": "The battered dollar could fall even further if it breaks below this key level",
-      "url": "https://www.marketwatch.com/story/the-battered-dollar-could-fall-even-further-if-it-breaks-below-this-key-level-ec6cada6?mod=mw_rss_topstories",
+      "ts": "2026-01-29T22:16:00.000Z",
+      "headline": "These charts are signaling the S&P 500&#x2019;s next move",
+      "url": "https://www.marketwatch.com/story/these-stock-traders-charts-are-signaling-the-s-p-500s-next-move-4bb6f47b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Tech earnings could be just what the market needs right now.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-29T21:46:00.000Z",
+      "headline": "Why Southwest Airlines&#x2019; stock soared to its highest close in years",
+      "url": "https://www.marketwatch.com/story/why-southwest-airlines-stock-is-soaring-toward-its-best-day-in-17-years-b9c59b22?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "A breach below a key support level for the U.S. dollar could trigger a sharp decline and potentially open the door to further downside.",
+      "summary_en": "Wall Street cheered news that Southwest&#x2019;s transformation appears to be taking hold.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T13:23:00.000Z",
-      "headline": "Surprisingly strong software growth sends IBM&#x2019;s stock surging",
-      "url": "https://www.marketwatch.com/story/surprisingly-strong-software-growth-sends-ibm-stock-surging-e4f02a75?mod=mw_rss_topstories",
+      "ts": "2026-01-29T21:45:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t own a house&#x2019;: I&#x2019;m 50 with $2 million and I&#x2019;m scared about losing my job. Can I retire early?",
+      "url": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My monthly expenses are around $6,000. That includes rent.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-29T21:44:00.000Z",
+      "headline": "Microsoft&#x2019;s stock may be &#x2018;dead money&#x2019; even after historic $357 billion market-cap wipeout",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-may-be-dead-money-even-after-historic-357-billion-market-cap-wipeout-7b45fc48?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Microsoft&#x2019;s stock tumbled over the company&#x2019;s decision to prioritize internal AI development over immediate cloud revenue.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-29T22:41:00.000Z",
+      "headline": "Stocks, gold and copper see big swings that show investors have few places to hide",
+      "url": "https://www.marketwatch.com/story/stocks-gold-and-copper-see-big-swings-that-show-investors-have-few-places-to-hide-01fc60b9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Surprisingly strong software growth sent IBM shares surging in early trade on Thursday.",
+      "summary_en": "The volatility seen across asset classes on Thursday may give investors a hint at what&#x2019;s to come and leave them with fewer places to hide.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T13:11:00.000Z",
-      "headline": "Here&#x2019;s what 2026 could look like for Levi&#x2019;s: more dresses, less denim and an AI &#x2018;stylist&#x2019;",
-      "url": "https://www.marketwatch.com/story/more-tops-more-dresses-and-an-ai-stylist-heres-what-2026-could-look-like-for-levis-085054cf?mod=mw_rss_topstories",
+      "ts": "2026-01-29T22:26:00.000Z",
+      "headline": "4 tips to file your taxes like a pro &#x2014; and get your refund faster",
+      "url": "https://www.marketwatch.com/story/4-tips-to-file-your-taxes-like-a-pro-and-get-your-refund-faster-b20070aa?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Levi&#x2019;s sees sales of tops, dresses and non-denim bottoms growing fast.",
+      "summary_en": "Expecting a bigger tax refund? There&#x2019;s no money back until you get through tax filing.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T12:24:00.000Z",
-      "headline": "&#x2018;I feel like this does us a disservice&#x2019;: My brother wants his $1 million inheritance in advance. Should he pay interest?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
+      "ts": "2026-01-29T21:38:00.000Z",
+      "headline": "Lululemon is looking to catch the Labubu wave. It&#x2019;s two years late.",
+      "url": "https://www.marketwatch.com/story/lululemon-is-looking-to-catch-the-labubu-wave-its-two-years-late-adea8318?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;The total value of our family trust is $4 million.&#x201d;",
+      "summary_en": "Lululemon&#x2019;s offerings are late to the game &#x2014; the plush-toy mania is several years old &#x2014; and are a distraction from what Lululemon is known for, an analyst says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-29T18:30:00.000Z",
+      "headline": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260129a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
