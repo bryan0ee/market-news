@@ -1,16 +1,101 @@
 {
-  "last_updated": "2026-01-29T23:37:53.599Z",
+  "last_updated": "2026-01-30T11:02:08.326Z",
   "items": [
     {
-      "ts": "2026-01-29T23:20:00.000Z",
-      "headline": "Sandisk&#x2019;s eye-popping earnings forecast helps justify 1,400% stock surge",
-      "url": "https://www.marketwatch.com/story/sandisks-eye-popping-earnings-forecast-helps-justify-1-400-stock-surge-a25fd452?mod=mw_rss_topstories",
+      "ts": "2026-01-30T11:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m worried about cash flow&#x2019;: I&#x2019;m 71 with a $2.7 million IRA and $470K in stocks. Why can&#x2019;t I relax?",
+      "url": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My home is paid for and has an estimated value of $700,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T10:27:00.000Z",
+      "headline": "Gold&#x2019;s searing run halted, silver drops below $100 as expectations of Warsh to Fed hits dollar debasement trade",
+      "url": "https://www.marketwatch.com/story/gold-falls-as-expectations-of-warsh-to-fed-hits-the-dollar-debasement-trade-854fd28e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A selloff is underway for gold, silver and copper on Friday, as the dollar rises on expectations that Kevin Warsh will be the next Federal Reserve chairman.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T10:15:00.000Z",
+      "headline": "My &#x2018;distrustful and selfish&#x2019; brother is executor of our family estate. How can I clip his wings?",
+      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am the third trustee appointed to my late parents&#x2019; trust.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T08:43:00.000Z",
+      "headline": "Trump says he&#x2019;ll announce his Fed pick Friday morning. Kevin Warsh seen getting president&#x2019;s nod for the key economic post.",
+      "url": "https://www.marketwatch.com/story/trump-says-hell-announce-his-fed-pick-next-week-heres-whos-in-the-lead-according-to-prediction-markets-ba80c732?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "President Donald Trump said he&#x2019;ll announce his nominee to chair the Federal Reserve on Friday morning &#x2014; and prediction markets have turned sharply toward a former Fed governor for the post.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T02:34:00.000Z",
+      "headline": "Trump sues IRS, Treasury for $10 billion over leak of his tax returns",
+      "url": "https://www.marketwatch.com/story/trump-sues-irs-treasury-for-10-billion-over-leak-of-his-tax-returns-761f27db?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump filed a $10 billion lawsuit Thursday against the Internal Revenue Service and the Treasury Department &#x2014; with the potential for U.S. taxpayers to pay for it.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T02:30:00.000Z",
+      "headline": "&#x2018;I don&#x2019;t own a house&#x2019;: I&#x2019;m 50 with $2 million and I&#x2019;m scared about losing my job. Can I retire early?",
+      "url": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My monthly expenses are around $6,000. That includes rent.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T00:30:00.000Z",
+      "headline": "OpenAI reportedly eyeing an IPO by year&#x2019;s end, ahead of Anthropic",
+      "url": "https://www.marketwatch.com/story/openai-reportedly-eyeing-an-ipo-by-years-end-ahead-of-anthropic-7feb3766?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The storage maker&#x2019;s revenue guidance was almost 60% higher than the Wall Street consensus and profit guidance was more than double that analysts had expected.",
+      "summary_en": "OpenAI is eyeing an initial public offering before the end of the year, hoping to beat rival AI startup Anthropic to the punch, the Wall Street Journal reported late Thursday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T00:12:00.000Z",
+      "headline": "Apple&#x2019;s stock rises as Tim Cook gives just enough detail on Wall Street&#x2019;s most burning question",
+      "url": "https://www.marketwatch.com/story/apples-stock-rises-as-tim-cook-gives-just-enough-detail-on-wall-streets-most-burning-question-21e386af?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The iPhone maker projected gross margins well ahead of Wall Street estimates, reassuring investors that it&#x2019;s successfully managing the surge in memory prices",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -26,100 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-29T22:38:00.000Z",
-      "headline": "Software stocks suffer steep selloff, widening the gap with hot chip stocks",
-      "url": "https://www.marketwatch.com/story/software-stocks-suffer-worst-day-in-10-months-widening-the-gap-with-hot-chip-stocks-3ad0fb5f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A look at the best and worst S&P 500 stocks this year shows how tech investors have piled into semiconductor plays and bailed on software.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T22:16:00.000Z",
-      "headline": "These charts are signaling the S&P 500&#x2019;s next move",
-      "url": "https://www.marketwatch.com/story/these-stock-traders-charts-are-signaling-the-s-p-500s-next-move-4bb6f47b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Tech earnings could be just what the market needs right now.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T21:46:00.000Z",
-      "headline": "Why Southwest Airlines&#x2019; stock soared to its highest close in years",
-      "url": "https://www.marketwatch.com/story/why-southwest-airlines-stock-is-soaring-toward-its-best-day-in-17-years-b9c59b22?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Wall Street cheered news that Southwest&#x2019;s transformation appears to be taking hold.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T21:45:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t own a house&#x2019;: I&#x2019;m 50 with $2 million and I&#x2019;m scared about losing my job. Can I retire early?",
-      "url": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My monthly expenses are around $6,000. That includes rent.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T21:44:00.000Z",
-      "headline": "Microsoft&#x2019;s stock may be &#x2018;dead money&#x2019; even after historic $357 billion market-cap wipeout",
-      "url": "https://www.marketwatch.com/story/microsofts-stock-may-be-dead-money-even-after-historic-357-billion-market-cap-wipeout-7b45fc48?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Microsoft&#x2019;s stock tumbled over the company&#x2019;s decision to prioritize internal AI development over immediate cloud revenue.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T22:41:00.000Z",
-      "headline": "Stocks, gold and copper see big swings that show investors have few places to hide",
-      "url": "https://www.marketwatch.com/story/stocks-gold-and-copper-see-big-swings-that-show-investors-have-few-places-to-hide-01fc60b9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-01-30T01:17:00.000Z",
+      "headline": "Trump throws down new tariff threats toward Canada and Mexico",
+      "url": "https://www.marketwatch.com/story/trump-throws-down-new-tariff-threats-toward-canada-and-mexico-e7200ceb?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The volatility seen across asset classes on Thursday may give investors a hint at what&#x2019;s to come and leave them with fewer places to hide.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T22:26:00.000Z",
-      "headline": "4 tips to file your taxes like a pro &#x2014; and get your refund faster",
-      "url": "https://www.marketwatch.com/story/4-tips-to-file-your-taxes-like-a-pro-and-get-your-refund-faster-b20070aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Expecting a bigger tax refund? There&#x2019;s no money back until you get through tax filing.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T21:38:00.000Z",
-      "headline": "Lululemon is looking to catch the Labubu wave. It&#x2019;s two years late.",
-      "url": "https://www.marketwatch.com/story/lululemon-is-looking-to-catch-the-labubu-wave-its-two-years-late-adea8318?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Lululemon&#x2019;s offerings are late to the game &#x2014; the plush-toy mania is several years old &#x2014; and are a distraction from what Lululemon is known for, an analyst says.",
+      "summary_en": "Canada may face 50% tariff on aircraft, Trump says, while also ordering tariffs against countries selling oil to Cuba",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
