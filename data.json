@@ -1,21 +1,58 @@
 {
-  "last_updated": "2026-01-30T11:02:08.326Z",
+  "last_updated": "2026-01-30T13:57:54.869Z",
   "items": [
     {
-      "ts": "2026-01-30T11:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m worried about cash flow&#x2019;: I&#x2019;m 71 with a $2.7 million IRA and $470K in stocks. Why can&#x2019;t I relax?",
-      "url": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
+      "ts": "2026-01-30T13:49:00.000Z",
+      "headline": "Wholesale prices rise sharply and show new Fed chief could confront stubborn inflation",
+      "url": "https://www.marketwatch.com/story/wholesale-prices-rise-sharply-and-show-new-fed-chief-could-confront-stubborn-inflation-597b071b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "The cost of wholesale goods and services rose sharply at the end of last year, underscoring the battle against inflation is far from over as President Trump gets set to name a new chairman of the Federal Reserve.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T13:43:00.000Z",
+      "headline": "Exxon, Chevron are producing record amounts of oil, but lower prices led to lower earnings",
+      "url": "https://www.marketwatch.com/story/exxon-chevron-are-producing-oil-at-record-rates-but-lower-prices-led-to-lower-earnings-6ce129fe?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My home is paid for and has an estimated value of $700,000.&#x201d;",
+      "summary_en": "The two U.S. integrated giants reported quarterly earnings with Venezuela in focus.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-30T10:27:00.000Z",
-      "headline": "Gold&#x2019;s searing run halted, silver drops below $100 as expectations of Warsh to Fed hits dollar debasement trade",
+      "ts": "2026-01-30T13:33:00.000Z",
+      "headline": "This Trump trade returned 29% in six months &#x2014; but its authors say it&#x2019;s time for a big change.",
+      "url": "https://www.marketwatch.com/story/this-trump-trade-returned-29-in-six-months-but-its-authors-say-its-time-for-a-big-change-49092e07?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Miners and rare earth plays boosted gains for a strategy devised by Ned Davis Research",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T12:46:00.000Z",
+      "headline": "&#x2018;I&#x2018;m facing an ethical dilemma&#x2019;: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
+      "url": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My mother has now hired an attorney to revise the trust and remove her late husband&#x2019;s children as beneficiaries.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T12:17:00.000Z",
+      "headline": "Gold&#x2019;s searing run halted, silver briefly drops below $100 as Warsh to Fed hits dollar debasement trade",
       "url": "https://www.marketwatch.com/story/gold-falls-as-expectations-of-warsh-to-fed-hits-the-dollar-debasement-trade-854fd28e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -26,100 +63,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-30T10:15:00.000Z",
-      "headline": "My &#x2018;distrustful and selfish&#x2019; brother is executor of our family estate. How can I clip his wings?",
-      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
+      "ts": "2026-01-30T12:14:00.000Z",
+      "headline": "SoFi&#x2019;s stock rises as the company hits a revenue milestone",
+      "url": "https://www.marketwatch.com/story/sofis-stock-rises-as-the-company-hits-a-revenue-milestone-9cba0a16?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I am the third trustee appointed to my late parents&#x2019; trust.&#x201d;",
+      "summary_en": "SoFi&#x2019;s home-loan originations nearly doubled in the latest quarter.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-30T08:43:00.000Z",
-      "headline": "Trump says he&#x2019;ll announce his Fed pick Friday morning. Kevin Warsh seen getting president&#x2019;s nod for the key economic post.",
-      "url": "https://www.marketwatch.com/story/trump-says-hell-announce-his-fed-pick-next-week-heres-whos-in-the-lead-according-to-prediction-markets-ba80c732?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "President Donald Trump said he&#x2019;ll announce his nominee to chair the Federal Reserve on Friday morning &#x2014; and prediction markets have turned sharply toward a former Fed governor for the post.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-30T02:34:00.000Z",
-      "headline": "Trump sues IRS, Treasury for $10 billion over leak of his tax returns",
-      "url": "https://www.marketwatch.com/story/trump-sues-irs-treasury-for-10-billion-over-leak-of-his-tax-returns-761f27db?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump filed a $10 billion lawsuit Thursday against the Internal Revenue Service and the Treasury Department &#x2014; with the potential for U.S. taxpayers to pay for it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-30T02:30:00.000Z",
-      "headline": "&#x2018;I don&#x2019;t own a house&#x2019;: I&#x2019;m 50 with $2 million and I&#x2019;m scared about losing my job. Can I retire early?",
-      "url": "https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories",
+      "ts": "2026-01-30T11:55:00.000Z",
+      "headline": "Here&#x2019;s what Trump&#x2019;s pick of Kevin Warsh to run the Fed means for the economy, markets and you",
+      "url": "https://www.marketwatch.com/story/heres-what-kevin-warshs-selection-as-fed-chair-means-for-the-economy-markets-and-you-d11e30dc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My monthly expenses are around $6,000. That includes rent.&#x201d;",
+      "summary_en": "President Donald Trump has selected Kevin Warsh to serve as the next chair of the Federal Reserve, putting a well-known critic of the U.S. central bank in its top job.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-30T00:30:00.000Z",
-      "headline": "OpenAI reportedly eyeing an IPO by year&#x2019;s end, ahead of Anthropic",
-      "url": "https://www.marketwatch.com/story/openai-reportedly-eyeing-an-ipo-by-years-end-ahead-of-anthropic-7feb3766?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "OpenAI is eyeing an initial public offering before the end of the year, hoping to beat rival AI startup Anthropic to the punch, the Wall Street Journal reported late Thursday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-30T00:12:00.000Z",
-      "headline": "Apple&#x2019;s stock rises as Tim Cook gives just enough detail on Wall Street&#x2019;s most burning question",
-      "url": "https://www.marketwatch.com/story/apples-stock-rises-as-tim-cook-gives-just-enough-detail-on-wall-streets-most-burning-question-21e386af?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The iPhone maker projected gross margins well ahead of Wall Street estimates, reassuring investors that it&#x2019;s successfully managing the surge in memory prices",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T23:33:00.000Z",
-      "headline": "As SpaceX prepares for its IPO, Elon Musk&#x2019;s empire could get even more intertwined",
-      "url": "https://www.marketwatch.com/story/as-spacex-prepares-for-its-ipo-elon-musks-empire-could-get-even-more-intertwined-84a75ed1?mod=mw_rss_topstories",
+      "ts": "2026-01-30T13:10:00.000Z",
+      "headline": "Most of us make assumptions about growth and value stocks. Here&#x2019;s what we get wrong.",
+      "url": "https://www.marketwatch.com/story/most-of-us-make-assumptions-about-growth-and-value-stocks-heres-what-we-get-wrong-19da9b31?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Elon Musk, the world&#x2019;s richest individual, could bring two of his biggest holdings closer together.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-30T01:17:00.000Z",
-      "headline": "Trump throws down new tariff threats toward Canada and Mexico",
-      "url": "https://www.marketwatch.com/story/trump-throws-down-new-tariff-threats-toward-canada-and-mexico-e7200ceb?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Canada may face 50% tariff on aircraft, Trump says, while also ordering tariffs against countries selling oil to Cuba",
+      "summary_en": "Reading too much into short-term market moves can land you in trouble.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T13:04:00.000Z",
+      "headline": "Amex sees strong travel and luxury spending as affluent customers open their wallets",
+      "url": "https://www.marketwatch.com/story/amex-sees-strong-travel-and-luxury-spending-as-affluent-customers-open-their-wallets-eab1c12b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Amex sees spending rise, as its cardholders are &#x2018;enjoying life&#x2019; and getting ready to travel.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T13:00:00.000Z",
+      "headline": "This is the No. 1 thing Americans worry about being able to afford in retirement &#x2014; and it&#x2019;s not food or housing",
+      "url": "https://www.marketwatch.com/story/this-is-the-no-1-thing-americans-worry-about-being-able-to-afford-in-retirement-and-its-not-food-or-housing-4f5fe40c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Some say these worries will impact how they vote in the midterm elections.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
