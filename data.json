@@ -1,82 +1,9 @@
 {
-  "last_updated": "2026-01-31T13:43:34.131Z",
+  "last_updated": "2026-01-31T23:34:12.222Z",
   "items": [
     {
-      "ts": "2026-01-31T13:38:00.000Z",
-      "headline": "My untrustworthy and selfish brother is executor of our family estate. How do I stop him from cheating us?",
-      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am the third trustee appointed to my late parents&#x2019; trust.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T13:30:00.000Z",
-      "headline": "These overlooked stocks are a backdoor way to play the AI chip boom",
-      "url": "https://www.marketwatch.com/story/these-overlooked-stocks-are-a-backdoor-way-to-play-the-ai-chip-boom-7157eab9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Materials suppliers Entegris and Qnity aren&#x2019;t household names, but they benefit from both the AI frenzy and a broader chip-sector recovery.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T13:01:00.000Z",
-      "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my boyfriend?",
-      "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m a 40-year-old woman in a committed relationship, and I&#x2019;ve experienced the loss of both of my parents.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T12:38:00.000Z",
-      "headline": "&#x2018;I&#x2019;m worried about cash flow&#x2019;: I&#x2019;m 71 with a $2.7 million IRA and $470K in stocks. Why can&#x2019;t I relax?",
-      "url": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My home is paid for and has an estimated value of $700,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T12:30:00.000Z",
-      "headline": "Eager for an OpenAI or Anthropic IPO? Then Trump&#x2019;s Fed pick is good news.",
-      "url": "https://www.marketwatch.com/story/eager-for-an-openai-or-anthropic-ipo-then-trumps-fed-pick-is-good-news-b7049dbc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Kevin Warsh supports President Trump&#x2019;s desire for lower interest rates, and that could be a catalyst for blockbuster artificial-intelligence IPOs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T12:00:00.000Z",
-      "headline": "&#x2018;Bearish engulfing&#x2019; patterns are warning you: Don&#x2019;t buy the dip in gold-miner stocks",
-      "url": "https://www.marketwatch.com/story/bearish-engulfing-patterns-are-warning-you-dont-buy-the-dip-in-gold-miner-stocks-05ee0e59?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "WM",
-        "ED"
-      ],
-      "summary_en": "A bearish technical pattern that appeared in a widely traded gold-mining ETF, as well as in Newmont&#x2019;s stock, is warning investors to think twice before buying the dip.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T11:15:00.000Z",
-      "headline": "A luxury &#x2018;phobia&#x2019; is gripping these consumers. It&#x2019;s a red flag for luxury brands like Chanel and Gucci.",
+      "ts": "2026-01-31T23:07:00.000Z",
+      "headline": "A luxury &#x2018;phobia&#x2019; is gripping these consumers. It&#x2019;s a red flag for brands like Chanel and Gucci.",
       "url": "https://www.marketwatch.com/story/luxury-phobia-is-turning-the-chinese-away-from-conspicuous-consumption-and-toward-local-hero-domestic-brands-7de8be25?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -87,39 +14,112 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-31T13:03:00.000Z",
-      "headline": "My pension enables me to delay Social Security benefits. What if I want survivor benefits sooner?",
-      "url": "https://www.marketwatch.com/story/my-pension-enables-me-to-delay-social-security-benefits-what-if-i-want-survivor-benefits-sooner-79a0184d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201d;I have a higher monthly pension benefit until my Full Retirement Age of 67.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T13:00:00.000Z",
-      "headline": "Buy Microsoft&#x2019;s stock while it&#x2019;s down? First ask yourself this question.",
-      "url": "https://www.marketwatch.com/story/buy-microsofts-stock-while-its-down-first-ask-yourself-this-question-22425bba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Microsoft&#x2019;s stock is potentially compelling for long-term investors who believe the business is fundamentally &#x201c;better than average,&#x201d; according to a portfolio manager.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T04:35:00.000Z",
-      "headline": "The IRS is trying to make the best of a government shutdown. Here&#x2019;s how to protect your refund.",
-      "url": "https://www.marketwatch.com/story/the-irs-is-trying-to-make-the-best-of-a-government-shutdown-heres-how-to-protect-your-refund-156c1294?mod=mw_rss_topstories",
+      "ts": "2026-01-31T22:30:00.000Z",
+      "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my fianc&#xe9;?",
+      "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The federal tax collector is using Biden-era funding to continue normal operations through next week, as filing season continues.",
+      "summary_en": "&#x201c;I&#x2019;m a 40-year-old woman in a committed relationship, and I&#x2019;ve experienced the loss of both of my parents.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T21:33:00.000Z",
+      "headline": "&#x2018;They upset me every time I see them&#x2019;: How long do I keep my mother&#x2019;s IRS and medical records? She died 4 years ago.",
+      "url": "https://www.marketwatch.com/story/they-upset-me-every-time-i-see-them-how-long-do-i-keep-my-mothers-irs-and-medical-records-she-died-4-years-ago-22a436fc?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Her low income did not require her to file taxes, and once she moved to the care facility, I got her on Medi-Cal.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T20:20:00.000Z",
+      "headline": "This single mom saved $1 million in 15 years to retire at 49. How to use her strategies to catch up on retirement savings.",
+      "url": "https://www.marketwatch.com/story/this-single-mom-saved-1-million-in-15-years-to-retire-at-49-how-to-use-her-strategies-to-catch-up-on-retirement-savings-0953b686?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "It&#x2019;s not too late to fast-track your retirement savings, even if you&#x2019;re 50 years old and have debt.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T23:00:00.000Z",
+      "headline": "&#x2018;I am the third trustee&#x2019;: My selfish brother is executor of our family estate. Can I retitle property in my name?",
+      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am not looking to hire an attorney.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T19:54:00.000Z",
+      "headline": "Kevin Warsh isn&#x2019;t who investors think he is &#x2014; how you can profit from their mistake",
+      "url": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-boost-markets-what-this-means-for-your-portfolio-f83826cb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Trump&#x2019;s nominee for Fed chair has been hawkish about easy money. But this president demands lower rates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T19:42:00.000Z",
+      "headline": "Loading up on your employer&#x2019;s stock is tempting in a bull market. But how much is too much?",
+      "url": "https://www.marketwatch.com/story/loading-up-on-your-employers-stock-is-tempting-in-a-bull-market-but-how-much-is-too-much-ec90fec9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Employees face &#x201c;double jeopardy&#x201d; in the stock&#x2019;s decline portfolio and increased job risk.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T22:28:00.000Z",
+      "headline": "&#x2018;I feel like this does us a disservice&#x2019;: My brother wants his $1 million inheritance in advance. Should he pay interest?",
+      "url": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;The total value of our family trust is $4 million.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T22:08:00.000Z",
+      "headline": "Think you can&#x2019;t afford a house? More than half of down-payment assistance programs are now open to buyers earning over $100K.",
+      "url": "https://www.marketwatch.com/story/think-you-cant-afford-a-house-more-than-half-of-down-payment-assistance-programs-are-now-open-to-buyers-earning-over-100k-061ea673?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The number of down-payment assistance programs is on the rise, and a growing share are open to people of all income levels.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T19:25:00.000Z",
+      "headline": "Most of us make assumptions about growth and value stocks. Here&#x2019;s what we get wrong.",
+      "url": "https://www.marketwatch.com/story/most-of-us-make-assumptions-about-growth-and-value-stocks-heres-what-we-get-wrong-19da9b31?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Reading too much into short-term market moves can land you in trouble.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
