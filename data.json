@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026-01-30T23:37:22.955Z",
+  "last_updated": "2026-01-31T10:51:02.230Z",
   "items": [
+    {
+      "ts": "2026-01-31T04:35:00.000Z",
+      "headline": "The IRS is trying to make the best of a government shutdown. Here&#x2019;s how to protect your refund.",
+      "url": "https://www.marketwatch.com/story/the-irs-is-trying-to-make-the-best-of-a-government-shutdown-heres-how-to-protect-your-refund-156c1294?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The federal tax collector seems poised to run out of funding on Saturday, just days after it started processing 2025 income-tax returns.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-31T00:35:00.000Z",
+      "headline": "My untrustworthy and selfish brother is executor of our family estate. How do I stop him from cheating us?",
+      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I am the third trustee appointed to my late parents&#x2019; trust.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T21:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260130a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T23:48:00.000Z",
+      "headline": "Kevin Warsh isn&#x2019;t who investors think he is &#x2014; how you can profit from their mistake",
+      "url": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-boost-markets-what-this-means-for-your-portfolio-f83826cb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Trump&#x2019;s nominee for Fed chair has been hawkish about easy money. But this president demands lower rates.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-01-30T22:27:00.000Z",
       "headline": "Gold and silver&#x2019;s $7 trillion wipeout delivers a painful lesson about risk",
@@ -27,18 +76,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-30T21:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260130a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-30T21:47:00.000Z",
       "headline": "Trump picking Kevin Warsh as Fed chair wasn&#x2019;t enough to soothe shaky markets",
       "url": "https://www.marketwatch.com/story/trump-picking-kevin-warsh-as-fed-chair-wasnt-enough-to-soothe-shaky-markets-2f0137ad?mod=mw_rss_topstories",
@@ -49,18 +86,6 @@
         "ED"
       ],
       "summary_en": "A double-whammy selloff of tech stocks and metals shook markets on Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-30T20:07:00.000Z",
-      "headline": "Silver suffers biggest drop in 46 years, with &#x2018;every man and his dog rushing for the exit&#x2019;",
-      "url": "https://www.marketwatch.com/story/silver-heads-for-biggest-drop-in-14-years-with-every-man-and-his-dog-rushing-for-the-exit-081baf5c?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "Silver&#x2019;s plunge on Friday was the metal&#x2019;s worst daily drop since 1980.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -76,18 +101,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-30T21:00:00.000Z",
-      "headline": "My untrustworthy and selfish brother is executor of our family estate. How do I stop him from cheating us?",
-      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I am the third trustee appointed to my late parents&#x2019; trust.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-01-30T20:47:00.000Z",
       "headline": "Bond market isn&#x2019;t getting everything it wants from Trump&#x2019;s choice of Warsh for Fed chair",
       "url": "https://www.marketwatch.com/story/bond-market-isnt-getting-everything-it-wants-from-trumps-choice-of-warsh-for-fed-chair-1aad399a?mod=mw_rss_topstories",
@@ -97,43 +110,6 @@
         "ED"
       ],
       "summary_en": "The nomination of Kevin Warsh &#x201c;avoids a lot of the worst-case scenarios, but it&#x2019;s still unclear what impact he will have on rates,&#x201d; one strategist said.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-30T20:38:00.000Z",
-      "headline": "Fed honeymoon for Warsh? Briefly &#x2014; then push comes to shove.",
-      "url": "https://www.marketwatch.com/story/fed-honeymoon-for-warsh-briefly-then-push-comes-to-shove-4191fb70?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Federal Reserve could cut rates a few more times this year &#x2014; but likely not as much as President Trump wants.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-30T20:17:00.000Z",
-      "headline": "Kevin Warsh isn&#x2019;t who investors think he is &#x2014; how you can profit from their mistake",
-      "url": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-boost-markets-what-this-means-for-your-portfolio-f83826cb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Trump&#x2019;s nominee for Fed chair has been hawkish about easy money. But this president demands lower rates.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-30T21:27:00.000Z",
-      "headline": "&#x2018;These are college students &#x2026; not NFL players.&#x2019; Deion Sanders&#x2019;s new $5,000 fines for Colorado players blur the lines around professional sports.",
-      "url": "https://www.marketwatch.com/story/these-are-college-students-not-nfl-players-deion-sanderss-new-5-000-fines-for-colorado-players-blur-the-lines-around-professional-sports-dc9f5364?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Student fines &#x201c;would be paid out of pocket, exactly like if a student-athlete gets a parking ticket on campus,&#x201d; a University of Colorado athletic department spokesperson said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -170,6 +146,30 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T23:39:00.000Z",
+      "headline": "Most of us make assumptions about growth and value stocks. Here&#x2019;s what we get wrong.",
+      "url": "https://www.marketwatch.com/story/most-of-us-make-assumptions-about-growth-and-value-stocks-heres-what-we-get-wrong-19da9b31?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Reading too much into short-term market moves can land you in trouble.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T21:27:00.000Z",
+      "headline": "&#x2018;These are college students &#x2026; not NFL players.&#x2019; Deion Sanders&#x2019;s new $5,000 fines for Colorado players blur the lines around professional sports.",
+      "url": "https://www.marketwatch.com/story/these-are-college-students-not-nfl-players-deion-sanderss-new-5-000-fines-for-colorado-players-blur-the-lines-around-professional-sports-dc9f5364?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Student fines &#x201c;would be paid out of pocket, exactly like if a student-athlete gets a parking ticket on campus,&#x201d; a University of Colorado athletic department spokesperson said.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
