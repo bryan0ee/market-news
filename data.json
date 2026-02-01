@@ -1,44 +1,8 @@
 {
-  "last_updated": "2026-02-01T13:46:11.922Z",
+  "last_updated": "2026-02-01T23:37:13.838Z",
   "items": [
     {
-      "ts": "2026-01-30T21:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260130a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T23:34:00.000Z",
-      "headline": "Warsh pick doesn&#x2019;t end talk that Powell could stay on to defend the Fed&#x2019;s independence",
-      "url": "https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Some Fed watchers say the choice of Warsh means it&#x2019;s more likely that Powell will continue to stand in Trump&#x2019;s way.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T23:07:00.000Z",
-      "headline": "A luxury &#x2018;phobia&#x2019; is gripping these consumers. It&#x2019;s a red flag for brands like Chanel and Gucci.",
-      "url": "https://www.marketwatch.com/story/luxury-phobia-is-turning-the-chinese-away-from-conspicuous-consumption-and-toward-local-hero-domestic-brands-7de8be25?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "In China, conspicuous consumption is out, and &#x201c;local heroes&#x201d; are in.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T22:30:00.000Z",
+      "ts": "2026-02-01T22:15:00.000Z",
       "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my fianc&#xe9;?",
       "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,31 +14,33 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-31T21:33:00.000Z",
-      "headline": "&#x2018;They upset me every time I see them&#x2019;: How long do I keep my mother&#x2019;s IRS and medical records? She died 4 years ago.",
-      "url": "https://www.marketwatch.com/story/they-upset-me-every-time-i-see-them-how-long-do-i-keep-my-mothers-irs-and-medical-records-she-died-4-years-ago-22a436fc?mod=mw_rss_topstories",
+      "ts": "2026-02-01T21:54:00.000Z",
+      "headline": "&#x2018;We live on Social Security and pensions&#x2019;: I&#x2019;m in my 70s and my house needs repairs. Do I take out a $50K loan &#x2014; or sell stocks?",
+      "url": "https://www.marketwatch.com/story/we-live-on-social-security-and-pensions-im-in-my-70s-and-my-house-needs-repairs-do-i-take-out-a-50k-loan-or-sell-stocks-44c2ddbe?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201c;Her low income did not require her to file taxes, and once she moved to the care facility, I got her on Medi-Cal.&#x201d;",
+      "summary_en": "&#x201c;Our house is paid off.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-31T20:20:00.000Z",
-      "headline": "This single mom saved $1 million in 15 years to retire at 49. How to use her strategies to catch up on retirement savings.",
-      "url": "https://www.marketwatch.com/story/this-single-mom-saved-1-million-in-15-years-to-retire-at-49-how-to-use-her-strategies-to-catch-up-on-retirement-savings-0953b686?mod=mw_rss_topstories",
+      "ts": "2026-02-01T21:05:00.000Z",
+      "headline": "Gold and silver&#x2019;s $7 trillion wipeout delivers a painful lesson about risk",
+      "url": "https://www.marketwatch.com/story/gold-and-silvers-7-trillion-wipeout-delivers-a-painful-lesson-about-risk-22dbf70f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "It&#x2019;s not too late to fast-track your retirement savings, even if you&#x2019;re 50 years old and have debt.",
+      "summary_en": "If &#x201c;safe&#x201d; investments like gold and silver can crash in a single day, investors need to reconsider their portfolio hedges.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-31T19:54:00.000Z",
+      "ts": "2026-02-01T21:02:00.000Z",
       "headline": "Kevin Warsh isn&#x2019;t who investors think he is &#x2014; how you can profit from their mistake",
       "url": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-boost-markets-what-this-means-for-your-portfolio-f83826cb?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -87,15 +53,87 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-01-31T19:42:00.000Z",
-      "headline": "Loading up on your employer&#x2019;s stock is tempting in a bull market. But how much is too much?",
-      "url": "https://www.marketwatch.com/story/loading-up-on-your-employers-stock-is-tempting-in-a-bull-market-but-how-much-is-too-much-ec90fec9?mod=mw_rss_topstories",
+      "ts": "2026-02-01T20:45:00.000Z",
+      "headline": "There&#x2019;s now a bigger risk for stocks than the economy or corporate earnings",
+      "url": "https://www.marketwatch.com/story/theres-now-a-bigger-risk-for-stocks-than-the-economy-or-corporate-earnings-cff2eee0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Employees face &#x201c;double jeopardy&#x201d; in the stock&#x2019;s decline portfolio and increased job risk.",
+      "summary_en": "January reminded investors that even solid earnings and a strong economy can take a backseat when geopolitical shocks rattle markets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-01T23:25:00.000Z",
+      "headline": "U.S. stock futures fall, along with bitcoin and oil prices",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "U.S. stock futures fell Sunday, after a tumultuous start to the year on Wall Street and ahead of another busy week of tech earnings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-01T20:08:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in February 2026 on Netflix, Hulu, Peacock and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-february-2026-on-netflix-hulu-peacock-and-more-e050db23?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "With a few notable exceptions, the Winter Olympics is putting a chill on new streaming releases",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-01T17:44:00.000Z",
+      "headline": "&#x2018;I&#x2018;m facing an ethical dilemma&#x2019;: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
+      "url": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My mother has now hired an attorney to revise the trust and remove her late husband&#x2019;s children as beneficiaries.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-01T20:41:00.000Z",
+      "headline": "The &#x2018;January barometer&#x2019; for stocks comes with a big asterisk this year",
+      "url": "https://www.marketwatch.com/story/the-january-barometer-for-stocks-comes-with-a-big-asterisk-this-year-4e24ac3a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "If the first month of 2026 can be any guide to the rest of the year, investors should buckle up.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-01T20:29:00.000Z",
+      "headline": "&#x2018;Melania&#x2019; documentary&#x2019;s $7 million box office is a win for the first lady &#x2014; but not for Amazon",
+      "url": "https://www.marketwatch.com/story/melania-documentarys-8-million-box-office-is-a-win-for-the-first-lady-but-not-for-amazon-44256593?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The film&#x2019;s box office receipts represent a drop in the ocean for Amazon MGM&#x2019;s $75 million investment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-01-30T21:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260130a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,42 +170,6 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T23:00:00.000Z",
-      "headline": "&#x2018;I am the third trustee&#x2019;: My selfish brother is executor of our family estate. Can I retitle property in my name?",
-      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I am not looking to hire an attorney.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T22:28:00.000Z",
-      "headline": "&#x2018;I feel like this does us a disservice&#x2019;: My brother wants his $1 million inheritance in advance. Should he pay interest?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;The total value of our family trust is $4 million.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-31T22:08:00.000Z",
-      "headline": "Think you can&#x2019;t afford a house? More than half of down-payment assistance programs are now open to buyers earning over $100K.",
-      "url": "https://www.marketwatch.com/story/think-you-cant-afford-a-house-more-than-half-of-down-payment-assistance-programs-are-now-open-to-buyers-earning-over-100k-061ea673?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The number of down-payment assistance programs is on the rise, and a growing share are open to people of all income levels.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
