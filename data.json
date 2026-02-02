@@ -1,126 +1,126 @@
 {
-  "last_updated": "2026-02-02T14:03:26.681Z",
+  "last_updated": "2026-02-02T23:41:15.594Z",
   "items": [
     {
-      "ts": "2026-02-02T12:47:00.000Z",
-      "headline": "Walt Disney reports solid gains in revenue but sees decline in net profit due to higher costs",
-      "url": "https://www.marketwatch.com/story/walt-disney-misses-on-net-profit-despite-record-theme-park-revenue-eae1edb2?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2026-02-02T23:08:00.000Z",
+      "headline": "Palantir&#x2019;s stock surges as AI demand drives another record quarter",
+      "url": "https://www.marketwatch.com/story/palantirs-stock-surges-as-ai-demand-drives-another-record-quarter-deb6b082?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Walt Disney Co. missed expectations on net profit but came in slightly ahead on adjusted earnings per share and revenue.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T12:40:00.000Z",
-      "headline": "Europe just started building a &#x2018;kill switch&#x2019; for U.S. tech &#x2014; and the market isn&#x2019;t priced for it, says this strategist",
-      "url": "https://www.marketwatch.com/story/europe-just-started-building-a-kill-switch-for-u-s-tech-and-the-market-isnt-priced-for-it-says-this-strategist-8dd51d4b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
         "ED"
       ],
-      "summary_en": "Zoom and Microsoft are among those companies that could lose business as Europe seeks tech sovereignty, says Matthew Tuttle",
+      "summary_en": "CEO Alex Karp says that &#x201c;competitors investing in undifferentiated large language models are ruining the economics of their business.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-02T12:05:00.000Z",
-      "headline": "Nvidia&#x2019;s OpenAI investment may not be as big as once hoped &#x2014; and tech stocks are falling",
-      "url": "https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-02T23:01:00.000Z",
+      "headline": "AMD&#x2019;s stock rises ahead of earnings. Why investors are feeling upbeat.",
+      "url": "https://www.marketwatch.com/story/amds-stock-rises-ahead-of-earnings-why-investors-are-feeling-upbeat-e027e473?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
+        "AMD",
         "ED"
       ],
-      "summary_en": "Jensen Huang said Nvidia still plans to invest in OpenAI but dialed back expectations around the size of the commitment.",
+      "summary_en": "AMD could do a better job than Intel at capitalizing on the AI-fueled boom in traditional server chips.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-02T11:44:00.000Z",
-      "headline": "The appointment of Kevin Warsh is a market stabilizing mechanism, claims Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/the-appointment-of-kevin-warsh-is-a-market-stabilizing-mechanism-claims-morgan-stanley-ad71b9d2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Strategist Mike Wilson believes Warsh will serve as a credibility anchor for the current government&#x2019;s monetary policy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T11:20:00.000Z",
-      "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my fianc&#xe9;?",
-      "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m a 40-year-old woman in a committed relationship, and I&#x2019;ve experienced the loss of both of my parents.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T11:12:00.000Z",
-      "headline": "Gold now down nearly $1,000 from peak as silver attempts to stabilize following record 31% slump",
-      "url": "https://www.marketwatch.com/story/gold-now-down-nearly-1-000-from-peak-as-silver-struggles-following-record-31-slump-56067f2a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "A volatile day is setting up for precious and base metals on Monday with silver and China selling in focus.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T10:58:00.000Z",
-      "headline": "Oil prices are falling sharply. Lowered U.S.-Iran tensions and metals spillover is being blamed.",
-      "url": "https://www.marketwatch.com/story/oil-prices-are-falling-sharply-lowered-u-s-iran-tensions-and-metals-spillover-is-being-blamed-79da244d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-02T21:38:00.000Z",
+      "headline": "Silver plunges into a bear market for the first time since 2022. Here&#x2019;s how long it may last.",
+      "url": "https://www.marketwatch.com/story/silver-plunges-into-a-bear-market-for-the-first-time-since-2022-heres-how-long-it-may-last-c7efdd55?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "META",
         "ED"
       ],
-      "summary_en": "Oil prices fell sharply on Monday after President Donald Trump said he was hopeful over negotiations with Iran, taking some of the fear premium out of the commodity.",
+      "summary_en": "A more than 30% one-day drop in silver late last week pulled prices for the metal into a bear market for the first time since 2022.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-02T13:50:00.000Z",
-      "headline": "There&#x2019;s another big oil-and-gas merger, but shareholders aren&#x2019;t happy",
-      "url": "https://www.marketwatch.com/story/theres-another-big-oil-and-gas-merger-but-shareholders-arent-happy-477170a4?mod=mw_rss_topstories",
+      "ts": "2026-02-02T22:25:00.000Z",
+      "headline": "Where home buyers have landed the best deals we&#x2019;ve seen on houses in over a decade",
+      "url": "https://www.marketwatch.com/story/where-home-buyers-have-landed-the-best-deals-weve-seen-on-houses-in-over-a-decade-6077d81e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Home buyers are scoring big discounts, on both new and existing homes. Here&#x2019;s where the deals are, and where buyers are still paying above the asking price.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T21:25:00.000Z",
+      "headline": "What would end this government shutdown &#x2014; and how tax refunds and air travel are affected in the meantime",
+      "url": "https://www.marketwatch.com/story/the-government-shutdown-has-delayed-fridays-jobs-report-heres-how-the-latest-closure-could-end-5694e2e5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A partial U.S. government shutdown entered its third day Monday, but the closure is widely expected to be short-lived.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T21:10:00.000Z",
+      "headline": "Here&#x2019;s the one thing the bond market is hoping to avoid on Wednesday",
+      "url": "https://www.marketwatch.com/story/heres-the-one-thing-the-bond-market-is-hoping-to-avoid-on-wednesday-62a19b06?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Any sign that the Treasury might significantly increase the sizes of its future note and bond auctions could rattle traders.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T21:00:00.000Z",
+      "headline": "&#x2018;Hell of a story, isn&#x2019;t it?&#x2019;: My brother stole $500K from my ailing father. Can we get justice?",
+      "url": "https://www.marketwatch.com/story/hell-of-a-story-isnt-it-my-brother-stole-500k-from-my-ailing-father-can-we-get-justice-e2848289?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;That money was intended for my children.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T22:49:00.000Z",
+      "headline": "SpaceX officially acquires xAI. Here&#x2019;s how Elon Musk justifies the move.",
+      "url": "https://www.marketwatch.com/story/spacex-officially-acquires-xai-heres-how-elon-musk-justifies-the-move-f38d999f?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Devon plans to acquire Coterra in an all-stock deal, as consolidation within the oil-and-gas sector continues.",
+      "summary_en": "Musk says the newest merger of companies he owns is necessary to create &#x201c;a sentient sun to understand the universe.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-02T12:57:00.000Z",
-      "headline": "Oracle amps up its AI bet with a plan to raise as much as $50 billion this year",
-      "url": "https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories",
+      "ts": "2026-02-02T20:58:00.000Z",
+      "headline": "These software stocks could rise as much as 75%. But is now the time to buy?",
+      "url": "https://www.marketwatch.com/story/these-software-stocks-could-rise-as-much-as-75-but-is-now-the-time-to-buy-8ca0e3c8?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "ServiceNow, Shopify and Twilio are stocks that appear to stand out in this beaten-down sector, but some believe it&#x2019;s too soon to buy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T21:56:00.000Z",
+      "headline": "How the stock market&#x2019;s big turnaround on Monday put the S&P 500 back in record territory",
+      "url": "https://www.marketwatch.com/story/how-the-stock-markets-big-turnaround-on-monday-put-the-s-p-500-back-in-record-territory-612a568a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "After issuing an $18 billion bond offering last fall, Oracle intends to tap the debt and equity markets anew in 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T10:59:00.000Z",
-      "headline": "Michael Saylor&#x2019;s Strategy sees bitcoin holdings trade below purchase price",
-      "url": "https://www.marketwatch.com/story/michael-saylors-bitcoin-holdings-briefly-went-underwater-2d63d929?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The bitcoin holdings of Michael Saylor&#x2019;s Strategy were briefly underwater in a sign of the unwinding in cryptocurrency value this year.",
+      "summary_en": "Small-caps and other signs of the &#x2018;rotation&#x2019; beyond mega-cap tech were out in force to start February",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
