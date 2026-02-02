@@ -1,6 +1,79 @@
 {
-  "last_updated": "2026-02-02T11:11:47.181Z",
+  "last_updated": "2026-02-02T14:03:26.681Z",
   "items": [
+    {
+      "ts": "2026-02-02T12:47:00.000Z",
+      "headline": "Walt Disney reports solid gains in revenue but sees decline in net profit due to higher costs",
+      "url": "https://www.marketwatch.com/story/walt-disney-misses-on-net-profit-despite-record-theme-park-revenue-eae1edb2?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Walt Disney Co. missed expectations on net profit but came in slightly ahead on adjusted earnings per share and revenue.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T12:40:00.000Z",
+      "headline": "Europe just started building a &#x2018;kill switch&#x2019; for U.S. tech &#x2014; and the market isn&#x2019;t priced for it, says this strategist",
+      "url": "https://www.marketwatch.com/story/europe-just-started-building-a-kill-switch-for-u-s-tech-and-the-market-isnt-priced-for-it-says-this-strategist-8dd51d4b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Zoom and Microsoft are among those companies that could lose business as Europe seeks tech sovereignty, says Matthew Tuttle",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T12:05:00.000Z",
+      "headline": "Nvidia&#x2019;s OpenAI investment may not be as big as once hoped &#x2014; and tech stocks are falling",
+      "url": "https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Jensen Huang said Nvidia still plans to invest in OpenAI but dialed back expectations around the size of the commitment.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T11:44:00.000Z",
+      "headline": "The appointment of Kevin Warsh is a market stabilizing mechanism, claims Morgan Stanley",
+      "url": "https://www.marketwatch.com/story/the-appointment-of-kevin-warsh-is-a-market-stabilizing-mechanism-claims-morgan-stanley-ad71b9d2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Strategist Mike Wilson believes Warsh will serve as a credibility anchor for the current government&#x2019;s monetary policy.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T11:20:00.000Z",
+      "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my fianc&#xe9;?",
+      "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m a 40-year-old woman in a committed relationship, and I&#x2019;ve experienced the loss of both of my parents.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T11:12:00.000Z",
+      "headline": "Gold now down nearly $1,000 from peak as silver attempts to stabilize following record 31% slump",
+      "url": "https://www.marketwatch.com/story/gold-now-down-nearly-1-000-from-peak-as-silver-struggles-following-record-31-slump-56067f2a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "A volatile day is setting up for precious and base metals on Monday with silver and China selling in focus.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-02-02T10:58:00.000Z",
       "headline": "Oil prices are falling sharply. Lowered U.S.-Iran tensions and metals spillover is being blamed.",
@@ -15,65 +88,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-02T10:04:00.000Z",
-      "headline": "Hulk Hogan&#x2019;s Florida home listed for $11 million, 6 months after his death",
-      "url": "https://www.marketwatch.com/story/hulk-hogans-florida-home-listed-for-11-million-6-months-after-his-death-f4e23d08?mod=mw_rss_topstories",
+      "ts": "2026-02-02T13:50:00.000Z",
+      "headline": "There&#x2019;s another big oil-and-gas merger, but shareholders aren&#x2019;t happy",
+      "url": "https://www.marketwatch.com/story/theres-another-big-oil-and-gas-merger-but-shareholders-arent-happy-477170a4?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Famed wrestler&#xa0;Hulk Hogan&#x2019;s sprawling&#xa0;Clearwater home&#xa0;is on the market for $11 million, six months after the father of two&#xa0;died from cardiac arrest&#xa0;at the property.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T10:01:00.000Z",
-      "headline": "Google billionaire Sergey Brin buys a $42 million Tahoe mansion, a few months after buying a $50 million Malibu home",
-      "url": "https://www.marketwatch.com/story/google-billionaire-sergey-brin-buys-a-42-million-tahoe-mansion-a-few-months-after-buying-a-50-million-malibu-home-8c6c12da?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
-        "ED"
-      ],
-      "summary_en": "Google billionaire&#xa0;Sergey Brin&#xa0;has been linked to&#xa0;two&#xa0;extravagant property purchases&#xa0;in neighboring states.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T10:00:00.000Z",
-      "headline": "&#x2018;We live on Social Security and pensions&#x2019;: I&#x2019;m in my 70s and my house needs repairs. Do I take out a $50K loan &#x2014; or sell stocks?",
-      "url": "https://www.marketwatch.com/story/we-live-on-social-security-and-pensions-im-in-my-70s-and-my-house-needs-repairs-do-i-take-out-a-50k-loan-or-sell-stocks-44c2ddbe?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our house is paid off.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T08:58:00.000Z",
-      "headline": "Gold now down nearly $1,000 from peak as silver struggles following record 31% slump",
-      "url": "https://www.marketwatch.com/story/gold-now-down-nearly-1-000-from-peak-as-silver-struggles-following-record-31-slump-56067f2a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "A volatile day is setting up for precious and base metals on Monday with silver and China selling in focus.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T10:12:00.000Z",
-      "headline": "Italian lender loses nearly half its value on profit warning, CEO exit",
-      "url": "https://www.marketwatch.com/story/italian-lender-loses-nearly-half-its-value-on-profit-warning-ceo-exit-2e42e9fc?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "An Italian specialty finance lender that buys up the invoices from the Italian public sector lost nearly half of its value on Monday after the ousting of its chief executive and a profit warning.",
+      "summary_en": "Devon plans to acquire Coterra in an all-stock deal, as consolidation within the oil-and-gas sector continues.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-02T12:57:00.000Z",
+      "headline": "Oracle amps up its AI bet with a plan to raise as much as $50 billion this year",
+      "url": "https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "After issuing an $18 billion bond offering last fall, Oracle intends to tap the debt and equity markets anew in 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -86,43 +121,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "The bitcoin holdings of Michael Saylor&#x2019;s Strategy were briefly underwater in a sign of the unwinding in cryptocurrency value this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T10:15:00.000Z",
-      "headline": "&#x2018;Hell of a story, isn&#x2019;t it?&#x2019;: My brother stole $500K from my ailing father. Can we get justice?",
-      "url": "https://www.marketwatch.com/story/hell-of-a-story-isnt-it-my-brother-stole-500k-from-my-ailing-father-can-we-get-justice-e2848289?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I split our father&#x2019;s estate on the understanding that no such $500,000 transfer had been made.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T09:31:00.000Z",
-      "headline": "Oracle amps up its AI bet with a plan to raise as much as $50 billion this year",
-      "url": "https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "After issuing an $18 billion bond offering last fall, Oracle intends to tap the debt and equity markets anew in 2026.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T03:59:00.000Z",
-      "headline": "U.S. stock futures fall after bitcoin&#x2019;s weekend drop, as gold and silver&#x2019;s sell-off may be bleeding into other markets",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-fall-along-with-bitcoin-and-oil-prices-21adfaf3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "U.S. stock futures fell Sunday, after a weekend slide by bitcoin and Friday&#x2019;s massive sell-off in precious metals capped a tumultuous first month of 2026.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
