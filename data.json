@@ -1,20 +1,92 @@
 {
-  "last_updated": "2026-02-02T23:41:15.594Z",
+  "last_updated": "2026-02-03T11:07:09.377Z",
   "items": [
     {
-      "ts": "2026-02-02T23:08:00.000Z",
-      "headline": "Palantir&#x2019;s stock surges as AI demand drives another record quarter",
-      "url": "https://www.marketwatch.com/story/palantirs-stock-surges-as-ai-demand-drives-another-record-quarter-deb6b082?mod=mw_rss_topstories",
+      "ts": "2026-02-03T10:38:00.000Z",
+      "headline": "Gold and silver rally, after 13% fall over two sessions for yellow metal",
+      "url": "https://www.marketwatch.com/story/gold-and-silver-rally-after-13-fall-over-two-sessions-for-yellow-metal-39b85097?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "Gold and silver rose for the first time in two sessions on Tuesday after last week&#x2019;s record-setting shakeout.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T10:15:00.000Z",
+      "headline": "&#x2018;I&#x2019;m spooked&#x2019;: Do gold and silver belong in my retirement portfolio after their dramatic fall in value?",
+      "url": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Before you ask, there is nothing extreme about 5% of my &#x2018;alternative&#x2019; assets.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T10:13:00.000Z",
+      "headline": "During the worst day for gold in 46 years, options traders made bets the metal could hit $20,000",
+      "url": "https://www.marketwatch.com/story/during-the-worst-day-for-gold-in-46-years-options-traders-made-bets-the-metal-could-hit-20-000-2b5393a4?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "META"
+      ],
+      "summary_en": "During Friday&#x2019;s gold price meltdown, open interest in options on gold rose significantly with traders placing large wagers on the gold price doubling, tripling and even quadrupling",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T10:02:00.000Z",
+      "headline": "Tennis pro Tommy Paul finds a buyer for $2.8 million Florida home in just days",
+      "url": "https://www.marketwatch.com/story/tennis-pro-tommy-paul-finds-a-buyer-for-2-8-million-florida-home-in-just-days-06e05f2b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "It could be game, set, match for tennis pro Tommy Paul&#x2019;s newly listed $2.8 million Florida abode, which has found itself a buyer mere days after it was put on the market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T08:40:00.000Z",
+      "headline": "OpenAI reportedly has its own issues with Nvidia after Jensen Huang&#x2019;s underwhelming support",
+      "url": "https://www.marketwatch.com/story/openai-reportedly-has-its-own-issues-with-nvidia-after-jensen-huangs-underwhelming-support-997791dd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "OpenAI reportedly has its own issues with Nvidia after Jensen Huang&#x2019;s underwhelming support",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T10:05:00.000Z",
+      "headline": "A year after his death, Gene Hackman&#x2019;s $6.25 million Santa Fe estate finds a buyer in just a few days",
+      "url": "https://www.marketwatch.com/story/a-year-after-his-death-gene-hackmans-6-25-million-santa-fe-estate-finds-a-buyer-in-just-a-few-days-d16cba77?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Hollywood&#xa0;legend&#xa0;Gene Hackman&#x2019;s longtime&#xa0;New Mexico&#xa0;home has an offer, mere days after it was&#xa0;put on the market for $6.25 million.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T03:15:00.000Z",
+      "headline": "Teradyne&#x2019;s stock soars after this &#x2018;absolute blowout&#x2019; forecast that was fueled by AI",
+      "url": "https://www.marketwatch.com/story/teradynes-stock-soars-after-this-absolute-blowout-forecast-that-was-fueled-by-ai-2dfc3d8a?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "CEO Alex Karp says that &#x201c;competitors investing in undifferentiated large language models are ruining the economics of their business.&#x201d;",
+      "summary_en": "The company, which makes equipment for testing semiconductors, gave profit guidance that was about 60% above what analysts were expecting.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-02T23:01:00.000Z",
+      "ts": "2026-02-03T01:17:00.000Z",
       "headline": "AMD&#x2019;s stock rises ahead of earnings. Why investors are feeling upbeat.",
       "url": "https://www.marketwatch.com/story/amds-stock-rises-ahead-of-earnings-why-investors-are-feeling-upbeat-e027e473?mod=mw_rss_topstories",
       "impact": "Bullish",
@@ -27,100 +99,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-02T21:38:00.000Z",
-      "headline": "Silver plunges into a bear market for the first time since 2022. Here&#x2019;s how long it may last.",
-      "url": "https://www.marketwatch.com/story/silver-plunges-into-a-bear-market-for-the-first-time-since-2022-heres-how-long-it-may-last-c7efdd55?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "META",
-        "ED"
-      ],
-      "summary_en": "A more than 30% one-day drop in silver late last week pulled prices for the metal into a bear market for the first time since 2022.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T22:25:00.000Z",
-      "headline": "Where home buyers have landed the best deals we&#x2019;ve seen on houses in over a decade",
-      "url": "https://www.marketwatch.com/story/where-home-buyers-have-landed-the-best-deals-weve-seen-on-houses-in-over-a-decade-6077d81e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Home buyers are scoring big discounts, on both new and existing homes. Here&#x2019;s where the deals are, and where buyers are still paying above the asking price.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T21:25:00.000Z",
-      "headline": "What would end this government shutdown &#x2014; and how tax refunds and air travel are affected in the meantime",
-      "url": "https://www.marketwatch.com/story/the-government-shutdown-has-delayed-fridays-jobs-report-heres-how-the-latest-closure-could-end-5694e2e5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A partial U.S. government shutdown entered its third day Monday, but the closure is widely expected to be short-lived.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T21:10:00.000Z",
-      "headline": "Here&#x2019;s the one thing the bond market is hoping to avoid on Wednesday",
-      "url": "https://www.marketwatch.com/story/heres-the-one-thing-the-bond-market-is-hoping-to-avoid-on-wednesday-62a19b06?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Any sign that the Treasury might significantly increase the sizes of its future note and bond auctions could rattle traders.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T21:00:00.000Z",
-      "headline": "&#x2018;Hell of a story, isn&#x2019;t it?&#x2019;: My brother stole $500K from my ailing father. Can we get justice?",
-      "url": "https://www.marketwatch.com/story/hell-of-a-story-isnt-it-my-brother-stole-500k-from-my-ailing-father-can-we-get-justice-e2848289?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;That money was intended for my children.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T22:49:00.000Z",
-      "headline": "SpaceX officially acquires xAI. Here&#x2019;s how Elon Musk justifies the move.",
-      "url": "https://www.marketwatch.com/story/spacex-officially-acquires-xai-heres-how-elon-musk-justifies-the-move-f38d999f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Musk says the newest merger of companies he owns is necessary to create &#x201c;a sentient sun to understand the universe.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T20:58:00.000Z",
-      "headline": "These software stocks could rise as much as 75%. But is now the time to buy?",
-      "url": "https://www.marketwatch.com/story/these-software-stocks-could-rise-as-much-as-75-but-is-now-the-time-to-buy-8ca0e3c8?mod=mw_rss_topstories",
+      "ts": "2026-02-03T02:29:00.000Z",
+      "headline": "Here&#x2019;s what&#x2019;s worth streaming in February 2026 on Netflix, Hulu, Peacock and more",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-february-2026-on-netflix-hulu-peacock-and-more-e050db23?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "ServiceNow, Shopify and Twilio are stocks that appear to stand out in this beaten-down sector, but some believe it&#x2019;s too soon to buy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-02T21:56:00.000Z",
-      "headline": "How the stock market&#x2019;s big turnaround on Monday put the S&P 500 back in record territory",
-      "url": "https://www.marketwatch.com/story/how-the-stock-markets-big-turnaround-on-monday-put-the-s-p-500-back-in-record-territory-612a568a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Small-caps and other signs of the &#x2018;rotation&#x2019; beyond mega-cap tech were out in force to start February",
+      "summary_en": "With a few notable exceptions, the Winter Olympics is putting a chill on new streaming releases",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -169,6 +156,18 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T01:26:00.000Z",
+      "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
+      "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We have been taking turns living in his house and my house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
