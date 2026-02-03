@@ -1,92 +1,57 @@
 {
-  "last_updated": "2026-02-03T14:05:21.384Z",
+  "last_updated": "2026-02-03T23:39:30.655Z",
   "items": [
     {
-      "ts": "2026-02-03T13:06:00.000Z",
-      "headline": "PepsiCo cut prices on Doritos, Cheetos after customer complaints about affordability",
-      "url": "https://www.marketwatch.com/story/pepsico-snaps-streak-of-profit-declines-and-boosts-dividend-by-4-91eb160e?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "PepsiCo&#x2019;s stock was set to pull back, despite an earnings beat and a raised dividend.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T13:04:00.000Z",
-      "headline": "Pfizer study finds patients lose up to 12% of their weight after taking once-a-month drug",
-      "url": "https://www.marketwatch.com/story/pfizer-says-once-a-month-weight-loss-drug-works-as-it-forecasts-profit-decline-5c16ffa4?mod=mw_rss_topstories",
+      "ts": "2026-02-03T23:06:00.000Z",
+      "headline": "Chipotle&#x2019;s outlook for the year casts doubt on a restaurant-industry rebound",
+      "url": "https://www.marketwatch.com/story/chipotles-outlook-for-the-year-casts-doubt-on-a-restaurant-industry-rebound-9263145b?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Pfizer on Tuesday hailed a study of a weight-loss-drug candidate while forecasting a profit decline due to the impact of the Trump administration&#x2019;s policies on pricing and tariffs.",
+      "summary_en": "Shares of Chipotle Mexican Grill Inc. fell sharply after hours on Tuesday, after the fast-casual Mexican chain&#x2019;s same-store outlook came in below expectations, and the company outlined steps it planned to take to regain growth.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T13:12:00.000Z",
-      "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my fianc&#xe9;?",
-      "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
+      "ts": "2026-02-03T22:57:00.000Z",
+      "headline": "Super Micro logs record revenue from AI demand, and the stock surges",
+      "url": "https://www.marketwatch.com/story/super-micro-logs-record-revenue-from-ai-demand-and-the-stock-surges-f048debe?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED",
+        "COST"
+      ],
+      "summary_en": "Super Micro&#x2019;s revenue exploded to $12.7 billion as delayed orders finally materialized, but aggressive competition and rising costs pushed gross margins to a razor-thin 6.3%",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T23:00:00.000Z",
+      "headline": "Oracle&#x2019;s monster $25 billion debt financing points to anxieties around AI funding",
+      "url": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m a 40-year-old woman in a committed relationship, and I&#x2019;ve experienced the loss of both of my parents.&#x201d;",
+      "summary_en": "Oracle plans to raise up to another $25 billion this year but said the sales would be either equity or equity-linked issuances.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T13:04:00.000Z",
-      "headline": "How a single tech heavyweight managed to pull the rug on gold and global markets",
-      "url": "https://www.marketwatch.com/story/how-a-single-tech-heavyweight-managed-to-pull-the-rug-on-gold-and-global-markets-6c384fa2?mod=mw_rss_topstories",
+      "ts": "2026-02-03T22:55:00.000Z",
+      "headline": "Chase cut my credit-card limit due to lower usage. Will this affect my credit score and lead other banks to do the same?",
+      "url": "https://www.marketwatch.com/story/i-didnt-find-out-until-after-it-was-done-chase-cut-my-credit-card-limit-due-to-low-usage-could-this-affect-my-credit-717075bd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Panmure Liberum&#x2019;s Joachim Klement says last week&#x2019;s Microsoft jolt triggered a contagion effect across trendy assets.",
+      "summary_en": "&#x201c;I&#x2019;m wondering whether this could cause a ripple effect in which other banks might do the same with my lesser-used credit cards.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T12:43:00.000Z",
-      "headline": "PayPal&#x2019;s stock slides as disappointing earnings usher in a CEO change",
-      "url": "https://www.marketwatch.com/story/paypals-stock-slides-as-disappointing-earnings-usher-in-a-ceo-change-7a42c068?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "PayPal just saw a major slowdown on a metric closely watched by investors. Soon, HP veteran Enrique Lores will be tasked with turning the company around.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T12:12:00.000Z",
-      "headline": "&#x2018;Hell of a story, isn&#x2019;t it?&#x2019;: My brother stole $500K from my ailing father. Can we get justice?",
-      "url": "https://www.marketwatch.com/story/hell-of-a-story-isnt-it-my-brother-stole-500k-from-my-ailing-father-can-we-get-justice-e2848289?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;That money was intended for my children.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T10:38:00.000Z",
-      "headline": "Gold and silver rally, after 13% fall over two sessions for yellow metal",
-      "url": "https://www.marketwatch.com/story/gold-and-silver-rally-after-13-fall-over-two-sessions-for-yellow-metal-39b85097?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "Gold and silver rose for the first time in two sessions on Tuesday after last week&#x2019;s record-setting shakeout.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T10:15:00.000Z",
+      "ts": "2026-02-03T22:44:00.000Z",
       "headline": "&#x2018;I&#x2019;m spooked&#x2019;: Do gold and silver belong in my retirement portfolio after their dramatic fall in value?",
       "url": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -98,19 +63,58 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T11:55:00.000Z",
-      "headline": "Merck&#x2019;s outlook for 2026 comes in below expectations as pipeline faces make-or-break year",
-      "url": "https://www.marketwatch.com/story/mercks-outlook-for-2026-comes-in-lower-than-expected-as-pipeline-faces-make-or-break-year-e797985f?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-02-03T22:28:00.000Z",
+      "headline": "Elon Musk&#x2019;s plans for SpaceX data centers in orbit could cost $5 trillion a year, analysts say",
+      "url": "https://www.marketwatch.com/story/elon-musks-plans-for-spacex-data-centers-in-orbit-could-cost-5-trillion-a-year-analysts-say-d9257b32?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "NEE",
+        "ED",
+        "COST"
       ],
-      "summary_en": "Merck&#x2019;s stock falls as the full-year revenue and profit outlooks were below expectations.",
+      "summary_en": "Analysts at research firm MoffettNathanson say &#x2018;the capital needs would simply be enormous&#x2019;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T11:11:00.000Z",
+      "ts": "2026-02-03T22:17:00.000Z",
+      "headline": "Why Gartner and other IT stocks got slammed on Tuesday",
+      "url": "https://www.marketwatch.com/story/why-gartner-and-other-it-stocks-got-slammed-on-tuesday-d0c74924?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Gartner says customers are &#x201c;slowing and deferring everything possible&#x201d; as they make sense of a shifting AI landscape.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T22:12:00.000Z",
+      "headline": "Walmart just became a $1 trillion company. Here&#x2019;s what it needs to do to remain one.",
+      "url": "https://www.marketwatch.com/story/walmart-just-became-a-1-trillion-company-heres-what-it-needs-to-do-to-remain-one-36b6f5d7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Walmart&#x2019;s journey to a $1 trillion market cap came after embracing technology and providing its customers with greater relief from inflation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T22:06:00.000Z",
+      "headline": "PayPal&#x2019;s stock suffers near-historic decline upon &#x2018;dramatic&#x2019; CEO change",
+      "url": "https://www.marketwatch.com/story/paypals-stock-slides-as-disappointing-earnings-usher-in-a-ceo-change-7a42c068?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "PayPal just saw a major slowdown on a metric closely watched by investors. Soon, HP veteran Enrique Lores will be tasked with turning the company around.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T22:42:00.000Z",
       "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
       "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
       "impact": "Neutral",
