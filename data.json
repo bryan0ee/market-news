@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-02-03T11:07:09.377Z",
+  "last_updated": "2026-02-03T14:05:21.384Z",
   "items": [
+    {
+      "ts": "2026-02-03T13:06:00.000Z",
+      "headline": "PepsiCo cut prices on Doritos, Cheetos after customer complaints about affordability",
+      "url": "https://www.marketwatch.com/story/pepsico-snaps-streak-of-profit-declines-and-boosts-dividend-by-4-91eb160e?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "PepsiCo&#x2019;s stock was set to pull back, despite an earnings beat and a raised dividend.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T13:04:00.000Z",
+      "headline": "Pfizer study finds patients lose up to 12% of their weight after taking once-a-month drug",
+      "url": "https://www.marketwatch.com/story/pfizer-says-once-a-month-weight-loss-drug-works-as-it-forecasts-profit-decline-5c16ffa4?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Pfizer on Tuesday hailed a study of a weight-loss-drug candidate while forecasting a profit decline due to the impact of the Trump administration&#x2019;s policies on pricing and tariffs.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T13:12:00.000Z",
+      "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my fianc&#xe9;?",
+      "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m a 40-year-old woman in a committed relationship, and I&#x2019;ve experienced the loss of both of my parents.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T13:04:00.000Z",
+      "headline": "How a single tech heavyweight managed to pull the rug on gold and global markets",
+      "url": "https://www.marketwatch.com/story/how-a-single-tech-heavyweight-managed-to-pull-the-rug-on-gold-and-global-markets-6c384fa2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Panmure Liberum&#x2019;s Joachim Klement says last week&#x2019;s Microsoft jolt triggered a contagion effect across trendy assets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T12:43:00.000Z",
+      "headline": "PayPal&#x2019;s stock slides as disappointing earnings usher in a CEO change",
+      "url": "https://www.marketwatch.com/story/paypals-stock-slides-as-disappointing-earnings-usher-in-a-ceo-change-7a42c068?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "PayPal just saw a major slowdown on a metric closely watched by investors. Soon, HP veteran Enrique Lores will be tasked with turning the company around.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-03T12:12:00.000Z",
+      "headline": "&#x2018;Hell of a story, isn&#x2019;t it?&#x2019;: My brother stole $500K from my ailing father. Can we get justice?",
+      "url": "https://www.marketwatch.com/story/hell-of-a-story-isnt-it-my-brother-stole-500k-from-my-ailing-father-can-we-get-justice-e2848289?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;That money was intended for my children.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-02-03T10:38:00.000Z",
       "headline": "Gold and silver rally, after 13% fall over two sessions for yellow metal",
@@ -26,88 +98,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T10:13:00.000Z",
-      "headline": "During the worst day for gold in 46 years, options traders made bets the metal could hit $20,000",
-      "url": "https://www.marketwatch.com/story/during-the-worst-day-for-gold-in-46-years-options-traders-made-bets-the-metal-could-hit-20-000-2b5393a4?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-03T11:55:00.000Z",
+      "headline": "Merck&#x2019;s outlook for 2026 comes in below expectations as pipeline faces make-or-break year",
+      "url": "https://www.marketwatch.com/story/mercks-outlook-for-2026-comes-in-lower-than-expected-as-pipeline-faces-make-or-break-year-e797985f?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
-        "META"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "During Friday&#x2019;s gold price meltdown, open interest in options on gold rose significantly with traders placing large wagers on the gold price doubling, tripling and even quadrupling",
+      "summary_en": "Merck&#x2019;s stock falls as the full-year revenue and profit outlooks were below expectations.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T10:02:00.000Z",
-      "headline": "Tennis pro Tommy Paul finds a buyer for $2.8 million Florida home in just days",
-      "url": "https://www.marketwatch.com/story/tennis-pro-tommy-paul-finds-a-buyer-for-2-8-million-florida-home-in-just-days-06e05f2b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "It could be game, set, match for tennis pro Tommy Paul&#x2019;s newly listed $2.8 million Florida abode, which has found itself a buyer mere days after it was put on the market.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T08:40:00.000Z",
-      "headline": "OpenAI reportedly has its own issues with Nvidia after Jensen Huang&#x2019;s underwhelming support",
-      "url": "https://www.marketwatch.com/story/openai-reportedly-has-its-own-issues-with-nvidia-after-jensen-huangs-underwhelming-support-997791dd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "OpenAI reportedly has its own issues with Nvidia after Jensen Huang&#x2019;s underwhelming support",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T10:05:00.000Z",
-      "headline": "A year after his death, Gene Hackman&#x2019;s $6.25 million Santa Fe estate finds a buyer in just a few days",
-      "url": "https://www.marketwatch.com/story/a-year-after-his-death-gene-hackmans-6-25-million-santa-fe-estate-finds-a-buyer-in-just-a-few-days-d16cba77?mod=mw_rss_topstories",
+      "ts": "2026-02-03T11:11:00.000Z",
+      "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
+      "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Hollywood&#xa0;legend&#xa0;Gene Hackman&#x2019;s longtime&#xa0;New Mexico&#xa0;home has an offer, mere days after it was&#xa0;put on the market for $6.25 million.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T03:15:00.000Z",
-      "headline": "Teradyne&#x2019;s stock soars after this &#x2018;absolute blowout&#x2019; forecast that was fueled by AI",
-      "url": "https://www.marketwatch.com/story/teradynes-stock-soars-after-this-absolute-blowout-forecast-that-was-fueled-by-ai-2dfc3d8a?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The company, which makes equipment for testing semiconductors, gave profit guidance that was about 60% above what analysts were expecting.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T01:17:00.000Z",
-      "headline": "AMD&#x2019;s stock rises ahead of earnings. Why investors are feeling upbeat.",
-      "url": "https://www.marketwatch.com/story/amds-stock-rises-ahead-of-earnings-why-investors-are-feeling-upbeat-e027e473?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "AMD",
-        "ED"
-      ],
-      "summary_en": "AMD could do a better job than Intel at capitalizing on the AI-fueled boom in traditional server chips.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T02:29:00.000Z",
-      "headline": "Here&#x2019;s what&#x2019;s worth streaming in February 2026 on Netflix, Hulu, Peacock and more",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-february-2026-on-netflix-hulu-peacock-and-more-e050db23?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "With a few notable exceptions, the Winter Olympics is putting a chill on new streaming releases",
+      "summary_en": "&#x201c;We have been taking turns living in his house and my house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -156,18 +167,6 @@
         "ED"
       ],
       "summary_en": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T01:26:00.000Z",
-      "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
-      "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We have been taking turns living in his house and my house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
