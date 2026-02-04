@@ -1,125 +1,136 @@
 {
-  "last_updated": "2026-02-04T14:03:57.136Z",
+  "last_updated": "2026-02-04T23:40:03.573Z",
   "items": [
     {
-      "ts": "2026-02-04T13:51:00.000Z",
-      "headline": "Another missile maker partners with the Trump administration, and the stock rises to record heights",
-      "url": "https://www.marketwatch.com/story/another-missile-maker-partners-with-the-trump-administration-and-the-stock-rises-to-record-heights-d34c84a8?mod=mw_rss_topstories",
+      "ts": "2026-02-04T23:18:00.000Z",
+      "headline": "E.l.f. Beauty&#x2019;s upbeat forecast shows cosmetics demand and Hailey Bieber&#x2019;s &#x2018;clean&#x2019; look are still going strong",
+      "url": "https://www.marketwatch.com/story/e-l-f-beautys-more-upbeat-outlook-shows-demand-for-cosmetics-is-still-growing-0459cd41?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "E.l.f. Beauty&#x2019;s stock surged after a raised outlook for both sales and profit, as demand for cosmetics keeps growing.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T22:17:00.000Z",
+      "headline": "Qualcomm&#x2019;s stock falls as memory constraints hit outlook",
+      "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-constraints-hit-outlook-844badba?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "RTX&#x2019;s Raytheon unit announced five agreements with the Pentagon to boost capacity and deliveries of Tomahawk and interceptor missiles.",
+      "summary_en": "Tech companies across the board are feeling the sting of memory-chip shortages, and Qualcomm just showed it&#x2019;s no exception.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T14:00:00.000Z",
-      "headline": "Investors were braced for an AI reckoning &#x2014; just not this one, popular strategist says",
-      "url": "https://www.marketwatch.com/story/investors-were-braced-for-an-ai-fallout-just-not-this-one-popular-strategist-says-48969d08?mod=mw_rss_topstories",
+      "ts": "2026-02-04T22:05:00.000Z",
+      "headline": "This trucker is finally seeing signs of a bottom, and providing a boost to transport stocks",
+      "url": "https://www.marketwatch.com/story/this-trucker-is-finally-seeing-signs-of-a-bottom-and-providing-a-boost-to-transport-stocks-44a45d38?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Old Dominion&#x2019;s stock surged into record territory after saying a long freight recession may finally be ending, and is helping provide a boost to the overall transportation sector.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T21:54:00.000Z",
+      "headline": "Soybean prices surge to highest level this year, as Trump surprises market with plan for more sales to China",
+      "url": "https://www.marketwatch.com/story/soybean-prices-surge-to-highest-level-this-year-as-trump-surprises-market-with-plan-for-more-sales-to-china-21af16b0?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The sort of buying President Trump outlined from China seems &#x201c;unlikely on many fronts, but neither can the possibility be ignored,&#x201d; analyst says.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T22:37:00.000Z",
+      "headline": "The Fed has bought over $90B in Treasury bills since December. Why this has a huge impact on your finances.",
+      "url": "https://www.marketwatch.com/story/the-fed-has-bought-over-90b-in-treasury-bills-since-december-why-this-has-a-huge-impact-on-your-finances-311e5b91?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
         "ED"
       ],
-      "summary_en": "Nomura&#x2019;s Charlie McElligott says second-order AI disruption worries have arrived early. Investors need to get ready.",
+      "summary_en": "The Treasury Deparment said Wednesday that the Federal Reserve has bought more than $90 billion of short-dated government bills over the past eight weeks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T12:44:00.000Z",
-      "headline": "Uber&#x2019;s stock falls as record demand for rides fails to deliver the profit investors expected",
-      "url": "https://www.marketwatch.com/story/ubers-stock-as-record-demand-for-rides-fails-to-deliver-the-profit-investors-expected-20b0c4b2?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Uber&#x2019;s stock drops toward a 10-month low as a quarterly profit miss offset record user results.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T13:33:00.000Z",
-      "headline": "ADP jobs report shows paltry 22,000 increase in private hiring. Sluggish labor market not getting any better.",
-      "url": "https://www.marketwatch.com/story/adp-jobs-report-shows-paltry-22-000-increase-in-private-hiring-u-s-labor-market-is-still-soft-01e24a40?mod=mw_rss_topstories",
+      "ts": "2026-02-04T22:26:00.000Z",
+      "headline": "These hot S&P 500 stocks show where investors are heading as they run away from tech",
+      "url": "https://www.marketwatch.com/story/these-hot-s-p-500-stocks-show-where-investors-are-heading-as-they-run-away-from-tech-0fcd53f6?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Job creation has plummeted since trade wars and immigration crackdown",
+      "summary_en": "The industrials sector has been a big beneficiary of the rotation out of tech, with a number of defense and transportation stocks hitting new highs on Wednesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T12:32:00.000Z",
-      "headline": "Lilly says Mounjaro and Zepbound sales more than doubled as stock rallies",
+      "ts": "2026-02-04T21:24:00.000Z",
+      "headline": "Lilly says Mounjaro and Zepbound sales more than doubled, as stock rallies",
       "url": "https://www.marketwatch.com/story/lilly-says-mounjaro-and-zepbound-sales-grew-by-at-least-110-as-stock-rallies-d281f77d?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Late last year, Lilly was the first pharmaceutical stock to reach a $1 trillion valuation.",
+      "summary_en": "Eli Lilly became the first pharmaceutical stock to reach a $1 trillion valuation late last year.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T13:09:00.000Z",
-      "headline": "There&#x2019;s an &#x2018;elevated chance of weird things&#x2019; as volatility rises along with this hot stock market",
-      "url": "https://www.marketwatch.com/story/the-one-market-where-volatility-is-rising-even-as-stocks-surge-4b225b9e?mod=mw_rss_topstories",
+      "ts": "2026-02-04T22:01:00.000Z",
+      "headline": "Software ate the world. Now, Wall Street is worried AI will eat software.",
+      "url": "https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "In South Korea, its version of the VIX volatility index has soared along with its stock market. That&#x2019;s unusual.",
+      "summary_en": "Investors have quickly moved to sell shares of companies that looked like they could be on the menu",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T13:00:00.000Z",
-      "headline": "These hidden costs of car ownership are giving buyers sticker shock long after they leave the dealership",
-      "url": "https://www.marketwatch.com/story/these-hidden-costs-of-car-ownership-are-giving-buyers-sticker-shock-long-after-they-leave-the-dealership-ec7edda9?mod=mw_rss_topstories",
+      "ts": "2026-02-04T21:42:00.000Z",
+      "headline": "SpaceX rivals AST SpaceMobile and Rocket Lab join space-stock selloff",
+      "url": "https://www.marketwatch.com/story/spacex-rivals-ast-spacemobile-and-rocket-lab-join-space-stock-selloff-ace22a17?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "COST"
+        "ED"
       ],
-      "summary_en": "While eye-popping vehicle prices have been front and center for car buyers for the past several years, other less visible costs of car ownership have also been rising.",
+      "summary_en": "Losses could be tied in part to this week&#x2019;s software rout, according to one analyst.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T13:05:00.000Z",
-      "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
-      "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
+      "ts": "2026-02-04T21:30:00.000Z",
+      "headline": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "&#x201c;We have been taking turns living in his house and my house.&#x201d;",
+      "summary_en": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T12:54:00.000Z",
-      "headline": "Is PayPal bound for a breakup? Why the company&#x2019;s problems seem so hard to fix.",
-      "url": "https://www.marketwatch.com/story/is-paypal-bound-for-a-breakup-why-the-companys-problems-seem-so-hard-to-fix-e4a006ec?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Shoppers have &#x201c;more choice than ever before&#x201d; when it comes to payments, and PayPal has been slow to adapt to a more competitive landscape.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T12:30:00.000Z",
-      "headline": "Where should I retire? How to use all those &#x2018;best places&#x2019; lists to find your perfect spot.",
-      "url": "https://www.marketwatch.com/story/where-should-i-retire-how-to-use-all-those-best-places-lists-to-find-your-perfect-spot-ca4e8ea0?mod=mw_rss_topstories",
+      "ts": "2026-02-04T23:23:00.000Z",
+      "headline": "This AI stock is the newest member of the S&P 500",
+      "url": "https://www.marketwatch.com/story/this-ai-stock-just-got-called-up-to-the-s-p-500-8b5407a9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Here&#x2019;s a rundown of six best-places lists in the U.S. and two global ones.",
+      "summary_en": "Ciena, maker of networking and telecom equipment, is set to join the S&P on Friday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,30 +155,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T19:00:00.000Z",
-      "headline": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve issues FOMC statement",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-28T19:00:00.000Z",
-      "headline": "Federal Open Market Committee reaffirms its \"Statement on Longer-Run Goals and Monetary Policy Strategy\"",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
