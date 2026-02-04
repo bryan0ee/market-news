@@ -1,25 +1,73 @@
 {
-  "last_updated": "2026-02-04T11:07:05.876Z",
+  "last_updated": "2026-02-04T14:03:57.136Z",
   "items": [
     {
-      "ts": "2026-02-04T10:39:00.000Z",
-      "headline": "Santander says $12 billion U.S. bank deal will cost less than 7 times earnings. The market isn&#x2019;t buying it.",
-      "url": "https://www.marketwatch.com/story/santander-says-12-billion-u-s-bank-deal-will-cost-less-than-7-times-earnings-the-market-isnt-buying-it-5d2088da?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2026-02-04T13:51:00.000Z",
+      "headline": "Another missile maker partners with the Trump administration, and the stock rises to record heights",
+      "url": "https://www.marketwatch.com/story/another-missile-maker-partners-with-the-trump-administration-and-the-stock-rises-to-record-heights-d34c84a8?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "ED",
-        "COST"
+        "ED"
       ],
-      "summary_en": "Santander shares fell on Wednesday, as Spanish investors reacted to the banking giant&#x2019;s latest $12 billion acquisition.",
+      "summary_en": "RTX&#x2019;s Raytheon unit announced five agreements with the Pentagon to boost capacity and deliveries of Tomahawk and interceptor missiles.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T10:07:00.000Z",
-      "headline": "The one market where volatility is rising even as stocks surge",
-      "url": "https://www.marketwatch.com/story/the-one-market-where-volatility-is-rising-even-as-stocks-surge-4b225b9e?mod=mw_rss_topstories",
+      "ts": "2026-02-04T14:00:00.000Z",
+      "headline": "Investors were braced for an AI reckoning &#x2014; just not this one, popular strategist says",
+      "url": "https://www.marketwatch.com/story/investors-were-braced-for-an-ai-fallout-just-not-this-one-popular-strategist-says-48969d08?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Nomura&#x2019;s Charlie McElligott says second-order AI disruption worries have arrived early. Investors need to get ready.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T12:44:00.000Z",
+      "headline": "Uber&#x2019;s stock falls as record demand for rides fails to deliver the profit investors expected",
+      "url": "https://www.marketwatch.com/story/ubers-stock-as-record-demand-for-rides-fails-to-deliver-the-profit-investors-expected-20b0c4b2?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Uber&#x2019;s stock drops toward a 10-month low as a quarterly profit miss offset record user results.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T13:33:00.000Z",
+      "headline": "ADP jobs report shows paltry 22,000 increase in private hiring. Sluggish labor market not getting any better.",
+      "url": "https://www.marketwatch.com/story/adp-jobs-report-shows-paltry-22-000-increase-in-private-hiring-u-s-labor-market-is-still-soft-01e24a40?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Job creation has plummeted since trade wars and immigration crackdown",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T12:32:00.000Z",
+      "headline": "Lilly says Mounjaro and Zepbound sales more than doubled as stock rallies",
+      "url": "https://www.marketwatch.com/story/lilly-says-mounjaro-and-zepbound-sales-grew-by-at-least-110-as-stock-rallies-d281f77d?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Late last year, Lilly was the first pharmaceutical stock to reach a $1 trillion valuation.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T13:09:00.000Z",
+      "headline": "There&#x2019;s an &#x2018;elevated chance of weird things&#x2019; as volatility rises along with this hot stock market",
+      "url": "https://www.marketwatch.com/story/the-one-market-where-volatility-is-rising-even-as-stocks-surge-4b225b9e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
@@ -27,99 +75,51 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T11:04:00.000Z",
-      "headline": "Chase cut my credit-card limit due to lower usage. Will this affect my credit score and lead other banks to do the same?",
-      "url": "https://www.marketwatch.com/story/i-didnt-find-out-until-after-it-was-done-chase-cut-my-credit-card-limit-due-to-low-usage-could-this-affect-my-credit-717075bd?mod=mw_rss_topstories",
+      "ts": "2026-02-04T13:00:00.000Z",
+      "headline": "These hidden costs of car ownership are giving buyers sticker shock long after they leave the dealership",
+      "url": "https://www.marketwatch.com/story/these-hidden-costs-of-car-ownership-are-giving-buyers-sticker-shock-long-after-they-leave-the-dealership-ec7edda9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "COST"
       ],
-      "summary_en": "&#x201c;I&#x2019;m wondering whether this could cause a ripple effect in which other banks might do the same with my lesser-used credit cards.&#x201d;",
+      "summary_en": "While eye-popping vehicle prices have been front and center for car buyers for the past several years, other less visible costs of car ownership have also been rising.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T10:41:00.000Z",
-      "headline": "Novo Nordisk CEO tells investors to expect weight-loss drug pricing to go down before it comes back up",
-      "url": "https://www.marketwatch.com/story/novo-nordisk-ceo-tells-investors-to-expect-weight-loss-drug-pricing-to-go-down-before-it-comes-back-up-81188b74?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Recently-appointed CEO Mike Doustdar has repeatedly reset expectations since his arrival. Pricing and regulatory pressure is fierce and pessimistic revenue guidance has seen the stock clobbered 17% in Copenhagen.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T10:05:00.000Z",
-      "headline": "Buffalo Bills quarterback Josh Allen pulls his $8.5 million California bachelor pad off the market",
-      "url": "https://www.marketwatch.com/story/buffalo-bills-quarterback-josh-allen-pulls-his-8-5-million-california-bachelor-pad-off-the-market-a10006ee?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Allen had listed the home in December, but pulled it from the market after his wife revealed they were expecting a baby.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T10:03:00.000Z",
-      "headline": "As romance with Jennifer Aniston heats up, boyfriend Jim Curtis lists N.Y. apartment for $1.5 million",
-      "url": "https://www.marketwatch.com/story/as-romance-with-jennifer-aniston-heats-up-boyfriend-jim-curtis-lists-n-y-apartment-for-1-5-million-391fd4a2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Jim Curtis&#x2019; listing of the New York apartment suggests he may be preparing to relocate to Los Angeles full time in order to spend more time with Aniston, whom he gushed about on the &#x201c;Today&#x201d; show.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T10:10:00.000Z",
-      "headline": "Explain this financial paradox to me like I&#x2019;m 16. Why would I, or anyone, lease a car?",
-      "url": "https://www.marketwatch.com/story/explain-this-financial-paradox-to-me-like-im-16-why-would-i-or-anyone-lease-a-car-82109210?mod=mw_rss_topstories",
+      "ts": "2026-02-04T13:05:00.000Z",
+      "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
+      "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;&#x2018;What&#x2019;s the point of paying thousands of dollars?&#x201d;",
+      "summary_en": "&#x201c;We have been taking turns living in his house and my house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-04T06:01:00.000Z",
-      "headline": "&#x2018;I&#x2019;m worried about cash flow&#x2019;: I&#x2019;m 71 with a $2.7 million IRA and $470K in stocks. Why can&#x2019;t I relax?",
-      "url": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My home is paid for and has an estimated value of $700,000.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T05:41:00.000Z",
-      "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my fianc&#xe9;?",
-      "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I&#x2019;m a 40-year-old woman in a committed relationship, and I&#x2019;ve experienced the loss of both of my parents.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T06:01:00.000Z",
-      "headline": "&#x2018;I am the third trustee&#x2019;: My selfish brother is executor of our family estate. Can I retitle property in my name?",
-      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
+      "ts": "2026-02-04T12:54:00.000Z",
+      "headline": "Is PayPal bound for a breakup? Why the company&#x2019;s problems seem so hard to fix.",
+      "url": "https://www.marketwatch.com/story/is-paypal-bound-for-a-breakup-why-the-companys-problems-seem-so-hard-to-fix-e4a006ec?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;I am not looking to hire an attorney.&#x201d;",
+      "summary_en": "Shoppers have &#x201c;more choice than ever before&#x201d; when it comes to payments, and PayPal has been slow to adapt to a more competitive landscape.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T12:30:00.000Z",
+      "headline": "Where should I retire? How to use all those &#x2018;best places&#x2019; lists to find your perfect spot.",
+      "url": "https://www.marketwatch.com/story/where-should-i-retire-how-to-use-all-those-best-places-lists-to-find-your-perfect-spot-ca4e8ea0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Here&#x2019;s a rundown of six best-places lists in the U.S. and two global ones.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
