@@ -1,45 +1,33 @@
 {
-  "last_updated": "2026-02-03T23:39:30.655Z",
+  "last_updated": "2026-02-04T11:07:05.876Z",
   "items": [
     {
-      "ts": "2026-02-03T23:06:00.000Z",
-      "headline": "Chipotle&#x2019;s outlook for the year casts doubt on a restaurant-industry rebound",
-      "url": "https://www.marketwatch.com/story/chipotles-outlook-for-the-year-casts-doubt-on-a-restaurant-industry-rebound-9263145b?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Chipotle Mexican Grill Inc. fell sharply after hours on Tuesday, after the fast-casual Mexican chain&#x2019;s same-store outlook came in below expectations, and the company outlined steps it planned to take to regain growth.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T22:57:00.000Z",
-      "headline": "Super Micro logs record revenue from AI demand, and the stock surges",
-      "url": "https://www.marketwatch.com/story/super-micro-logs-record-revenue-from-ai-demand-and-the-stock-surges-f048debe?mod=mw_rss_topstories",
+      "ts": "2026-02-04T10:39:00.000Z",
+      "headline": "Santander says $12 billion U.S. bank deal will cost less than 7 times earnings. The market isn&#x2019;t buying it.",
+      "url": "https://www.marketwatch.com/story/santander-says-12-billion-u-s-bank-deal-will-cost-less-than-7-times-earnings-the-market-isnt-buying-it-5d2088da?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED",
         "COST"
       ],
-      "summary_en": "Super Micro&#x2019;s revenue exploded to $12.7 billion as delayed orders finally materialized, but aggressive competition and rising costs pushed gross margins to a razor-thin 6.3%",
+      "summary_en": "Santander shares fell on Wednesday, as Spanish investors reacted to the banking giant&#x2019;s latest $12 billion acquisition.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T23:00:00.000Z",
-      "headline": "Oracle&#x2019;s monster $25 billion debt financing points to anxieties around AI funding",
-      "url": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-04T10:07:00.000Z",
+      "headline": "The one market where volatility is rising even as stocks surge",
+      "url": "https://www.marketwatch.com/story/the-one-market-where-volatility-is-rising-even-as-stocks-surge-4b225b9e?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Oracle plans to raise up to another $25 billion this year but said the sales would be either equity or equity-linked issuances.",
+      "summary_en": "In South Korea, its version of the VIX volatility index has soared along with its stock market. That&#x2019;s unusual.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T22:55:00.000Z",
+      "ts": "2026-02-04T11:04:00.000Z",
       "headline": "Chase cut my credit-card limit due to lower usage. Will this affect my credit score and lead other banks to do the same?",
       "url": "https://www.marketwatch.com/story/i-didnt-find-out-until-after-it-was-done-chase-cut-my-credit-card-limit-due-to-low-usage-could-this-affect-my-credit-717075bd?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -51,78 +39,87 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T22:44:00.000Z",
-      "headline": "&#x2018;I&#x2019;m spooked&#x2019;: Do gold and silver belong in my retirement portfolio after their dramatic fall in value?",
-      "url": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
+      "ts": "2026-02-04T10:41:00.000Z",
+      "headline": "Novo Nordisk CEO tells investors to expect weight-loss drug pricing to go down before it comes back up",
+      "url": "https://www.marketwatch.com/story/novo-nordisk-ceo-tells-investors-to-expect-weight-loss-drug-pricing-to-go-down-before-it-comes-back-up-81188b74?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Before you ask, there is nothing extreme about 5% of my &#x2018;alternative&#x2019; assets.&#x201d;",
+      "summary_en": "Recently-appointed CEO Mike Doustdar has repeatedly reset expectations since his arrival. Pricing and regulatory pressure is fierce and pessimistic revenue guidance has seen the stock clobbered 17% in Copenhagen.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T22:28:00.000Z",
-      "headline": "Elon Musk&#x2019;s plans for SpaceX data centers in orbit could cost $5 trillion a year, analysts say",
-      "url": "https://www.marketwatch.com/story/elon-musks-plans-for-spacex-data-centers-in-orbit-could-cost-5-trillion-a-year-analysts-say-d9257b32?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED",
-        "COST"
-      ],
-      "summary_en": "Analysts at research firm MoffettNathanson say &#x2018;the capital needs would simply be enormous&#x2019;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T22:17:00.000Z",
-      "headline": "Why Gartner and other IT stocks got slammed on Tuesday",
-      "url": "https://www.marketwatch.com/story/why-gartner-and-other-it-stocks-got-slammed-on-tuesday-d0c74924?mod=mw_rss_topstories",
+      "ts": "2026-02-04T10:05:00.000Z",
+      "headline": "Buffalo Bills quarterback Josh Allen pulls his $8.5 million California bachelor pad off the market",
+      "url": "https://www.marketwatch.com/story/buffalo-bills-quarterback-josh-allen-pulls-his-8-5-million-california-bachelor-pad-off-the-market-a10006ee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Gartner says customers are &#x201c;slowing and deferring everything possible&#x201d; as they make sense of a shifting AI landscape.",
+      "summary_en": "Allen had listed the home in December, but pulled it from the market after his wife revealed they were expecting a baby.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T22:12:00.000Z",
-      "headline": "Walmart just became a $1 trillion company. Here&#x2019;s what it needs to do to remain one.",
-      "url": "https://www.marketwatch.com/story/walmart-just-became-a-1-trillion-company-heres-what-it-needs-to-do-to-remain-one-36b6f5d7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Walmart&#x2019;s journey to a $1 trillion market cap came after embracing technology and providing its customers with greater relief from inflation.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-03T22:06:00.000Z",
-      "headline": "PayPal&#x2019;s stock suffers near-historic decline upon &#x2018;dramatic&#x2019; CEO change",
-      "url": "https://www.marketwatch.com/story/paypals-stock-slides-as-disappointing-earnings-usher-in-a-ceo-change-7a42c068?mod=mw_rss_topstories",
+      "ts": "2026-02-04T10:03:00.000Z",
+      "headline": "As romance with Jennifer Aniston heats up, boyfriend Jim Curtis lists N.Y. apartment for $1.5 million",
+      "url": "https://www.marketwatch.com/story/as-romance-with-jennifer-aniston-heats-up-boyfriend-jim-curtis-lists-n-y-apartment-for-1-5-million-391fd4a2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "PayPal just saw a major slowdown on a metric closely watched by investors. Soon, HP veteran Enrique Lores will be tasked with turning the company around.",
+      "summary_en": "Jim Curtis&#x2019; listing of the New York apartment suggests he may be preparing to relocate to Los Angeles full time in order to spend more time with Aniston, whom he gushed about on the &#x201c;Today&#x201d; show.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-03T22:42:00.000Z",
-      "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
-      "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
+      "ts": "2026-02-04T10:10:00.000Z",
+      "headline": "Explain this financial paradox to me like I&#x2019;m 16. Why would I, or anyone, lease a car?",
+      "url": "https://www.marketwatch.com/story/explain-this-financial-paradox-to-me-like-im-16-why-would-i-or-anyone-lease-a-car-82109210?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;We have been taking turns living in his house and my house.&#x201d;",
+      "summary_en": "&#x201c;&#x2018;What&#x2019;s the point of paying thousands of dollars?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T06:01:00.000Z",
+      "headline": "&#x2018;I&#x2019;m worried about cash flow&#x2019;: I&#x2019;m 71 with a $2.7 million IRA and $470K in stocks. Why can&#x2019;t I relax?",
+      "url": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My home is paid for and has an estimated value of $700,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T05:41:00.000Z",
+      "headline": "&#x2018;I&#x2019;m rich in everything but parents&#x2019;: I inherited $400K. Is it unwise to use this money to buy a house with my fianc&#xe9;?",
+      "url": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m a 40-year-old woman in a committed relationship, and I&#x2019;ve experienced the loss of both of my parents.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T06:01:00.000Z",
+      "headline": "&#x2018;I am the third trustee&#x2019;: My selfish brother is executor of our family estate. Can I retitle property in my name?",
+      "url": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I am not looking to hire an attorney.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
