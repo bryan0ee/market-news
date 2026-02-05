@@ -1,101 +1,126 @@
 {
-  "last_updated": "2026-02-05T11:08:40.349Z",
+  "last_updated": "2026-02-05T14:06:17.699Z",
   "items": [
     {
-      "ts": "2026-02-05T09:40:00.000Z",
-      "headline": "Gold&#x2019;s massive outperformance leaves bitcoin looking more attractive over the long term, says JPMorgan strategist",
-      "url": "https://www.marketwatch.com/story/golds-massive-outperformance-leaves-bitcoin-looking-more-attractive-over-the-long-term-says-jpmorgan-strategist-6e17689f?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "META"
-      ],
-      "summary_en": "A JPMorgan strategist made a contrarian call, saying bitcoin now looks more appealing than gold after the surge in the yellow metal&#x2019;s price.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T10:15:00.000Z",
-      "headline": "My brother, a corporate lawyer, refuses to sell our family&#x2019;s $175K lake house. Do I push the issue and risk ruining our relationship?",
-      "url": "https://www.marketwatch.com/story/my-brother-a-corporate-lawyer-refuses-to-sell-our-familys-175k-lake-house-do-i-push-the-issue-and-risk-ruining-our-relationship-e8aaa64a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;I would like to receive my share of the proceeds.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T09:03:00.000Z",
-      "headline": "Silver falls as much as 13% as the volatility continues in metals",
-      "url": "https://www.marketwatch.com/story/silver-falls-as-much-as-13-as-the-volatility-continues-in-metals-c5285ba7?mod=mw_rss_topstories",
+      "ts": "2026-02-05T13:31:00.000Z",
+      "headline": "Peloton is losing money again as subscriptions keep falling. The stock is tumbling.",
+      "url": "https://www.marketwatch.com/story/peloton-is-losing-money-again-as-subscriptions-keep-falling-the-stock-is-tumbling-18b65efb?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "META",
         "ED"
       ],
-      "summary_en": "Silver futures fell as much as 13% late Wednesday as volatility in the precious metals complex continued.",
+      "summary_en": "Peloton&#x2019;s stock falls as the maker of home-fitness products again reported quarterly losses, and as connected-fitness subscriptions fell to a more than four-year low.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T10:02:00.000Z",
-      "headline": "Jennifer Lopez and Ben Affleck once again pull $52 million Beverly Hills mansion off market",
-      "url": "https://www.marketwatch.com/story/jennifer-lopez-and-ben-affleck-once-again-pull-52-million-beverly-hills-mansion-off-market-216c728d?mod=mw_rss_topstories",
+      "ts": "2026-02-05T13:53:00.000Z",
+      "headline": "Software ate the world. Now, Wall Street is worried AI will eat software.",
+      "url": "https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The pair have once again pulled the home off the market. Selling such a large, expensive home is complicated by several factors.",
+      "summary_en": "Investors have quickly moved to sell shares of companies that looked like they could be on the menu",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T10:01:00.000Z",
-      "headline": "More than a year later, Rams QB Matthew Stafford is still trying to sell his $12.5 million California compound he bought from rapper Drake",
-      "url": "https://www.marketwatch.com/story/more-than-a-year-later-rams-qb-matthew-stafford-is-still-trying-to-sell-his-12-5-million-california-compound-he-bought-from-rapper-drake-eeaf79f0?mod=mw_rss_topstories",
+      "ts": "2026-02-05T12:55:00.000Z",
+      "headline": "What this famed short seller is waiting for before betting against AI stocks",
+      "url": "https://www.marketwatch.com/story/what-this-famed-short-seller-is-waiting-for-before-betting-against-ai-stocks-12a9c797?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Muddy Waters&#x2019; CEO Carson Block says investors need to bide their time before trying to short the AI revolution.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-05T12:50:00.000Z",
+      "headline": "These 6 great stocks are bargain-priced right now &#x2014; and a much better bet than Big Tech",
+      "url": "https://www.marketwatch.com/story/these-6-great-stocks-are-bargain-priced-right-now-and-a-much-better-bet-than-big-tech-c82b0ba8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The homes, which Stafford and his wife, Kelly, purchased from rapper Drake in 2022 have been languishing on the market since fall 2024 .",
+      "summary_en": "Here&#x2019;s what value-stock pro Bill Nygren is holding in the ETF he manages.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T05:25:00.000Z",
-      "headline": "&#x2018;I&#x2019;m spooked&#x2019;: Gold is back above $5,000, but is it a high-risk bet for your retirement?",
-      "url": "https://www.marketwatch.com/story/im-spooked-do-gold-and-silver-belong-in-my-retirement-portfolio-after-their-dramatic-fall-in-value-a5bc4b3e?mod=mw_rss_topstories",
+      "ts": "2026-02-05T12:39:00.000Z",
+      "headline": "Chase cut my credit-card limit due to lower usage. Will this affect my credit score and lead other banks to do the same?",
+      "url": "https://www.marketwatch.com/story/i-didnt-find-out-until-after-it-was-done-chase-cut-my-credit-card-limit-due-to-low-usage-could-this-affect-my-credit-717075bd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;Before you ask, there is nothing extreme about 5% of my &#x2018;alternative&#x2019; assets.&#x201d;",
+      "summary_en": "&#x201c;I&#x2019;m wondering whether this could cause a ripple effect in which other banks might do the same with my lesser-used credit cards.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T03:47:00.000Z",
-      "headline": "These hidden costs of car ownership are giving buyers sticker shock long after they leave the dealership",
-      "url": "https://www.marketwatch.com/story/these-hidden-costs-of-car-ownership-are-giving-buyers-sticker-shock-long-after-they-leave-the-dealership-ec7edda9?mod=mw_rss_topstories",
+      "ts": "2026-02-05T12:28:00.000Z",
+      "headline": "Powell probe by Trump DOJ will be resolved, clearing the way for Warsh&#x2019;s confirmation, Senate Republican says",
+      "url": "https://www.marketwatch.com/story/powell-probe-will-get-resolved-clearing-the-way-for-warshs-confirmation-key-republican-senator-says-a4dd0169?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "COST"
+        "NEE",
+        "ED"
       ],
-      "summary_en": "While eye-popping vehicle prices have been front and center for car buyers for the past several years, other less visible costs of car ownership have also been rising.",
+      "summary_en": "Senate Banking Committee Chair Tim Scott indicated Wednesday that he expects the Department of Justice will resolve its criminal probe of current Federal Reserve chief Jerome Powell, clearing a path for the panel to advance President Donald Trump&#x2019;s nominee for the top Fed job, Kevin Warsh.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T02:56:00.000Z",
-      "headline": "Here are the new release dates for January&#x2019;s jobs and CPI inflation reports",
-      "url": "https://www.marketwatch.com/story/heres-the-new-dates-for-january-jobs-and-cpi-inflation-reports-0350659d?mod=mw_rss_topstories",
+      "ts": "2026-02-05T11:41:00.000Z",
+      "headline": "Stock-market winners suffered their worst day in six years. Here&#x2019;s what made the move really unusual, according to Goldman.",
+      "url": "https://www.marketwatch.com/story/stock-market-winners-suffered-their-worst-day-in-six-years-what-made-the-move-unusual-according-to-goldman-2e692c0e?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The U.S. employment report for January originally due on Friday has been rescheduled for the middle of next week &#x2014; and the consumer price index was also pushed back a couple of days.",
+      "summary_en": "High beta momentum names dive amid tech rout",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-05T13:39:00.000Z",
+      "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
+      "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We have been taking turns living in his house and my house.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-05T13:10:00.000Z",
+      "headline": "Here&#x2019;s the smart way to play the stock market&#x2019;s Super Bowl Indicator",
+      "url": "https://www.marketwatch.com/story/heres-the-smart-way-to-play-the-stock-markets-super-bowl-indicator-5a878ffb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Bulls want the Seahawks; bears cheer the Patriots. Why you shouldn&#x2019;t worry if your team loses.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-05T11:39:00.000Z",
+      "headline": "Explain this financial paradox to me like I&#x2019;m 16. Why would I, or anyone, lease a car?",
+      "url": "https://www.marketwatch.com/story/explain-this-financial-paradox-to-me-like-im-16-why-would-i-or-anyone-lease-a-car-82109210?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;&#x2018;What&#x2019;s the point of paying thousands of dollars?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -108,18 +133,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T01:51:00.000Z",
-      "headline": "Arm&#x2019;s stock falls after earnings, showing how high the bar is for AI companies now",
-      "url": "https://www.marketwatch.com/story/arms-stock-falls-after-earnings-showing-how-high-the-bar-is-for-ai-companies-now-960a93d0?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Arm says memory shortages could impact its business, but to a small degree.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -144,18 +157,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T01:48:00.000Z",
-      "headline": "Where should I retire? How to use all those &#x2018;best places&#x2019; lists to find your perfect spot.",
-      "url": "https://www.marketwatch.com/story/where-should-i-retire-how-to-use-all-those-best-places-lists-to-find-your-perfect-spot-ca4e8ea0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Here&#x2019;s a rundown of six best-places lists in the U.S. and two global ones.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
