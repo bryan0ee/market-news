@@ -1,126 +1,125 @@
 {
-  "last_updated": "2026-02-05T14:06:17.699Z",
+  "last_updated": "2026-02-05T23:36:02.113Z",
   "items": [
     {
-      "ts": "2026-02-05T13:31:00.000Z",
-      "headline": "Peloton is losing money again as subscriptions keep falling. The stock is tumbling.",
-      "url": "https://www.marketwatch.com/story/peloton-is-losing-money-again-as-subscriptions-keep-falling-the-stock-is-tumbling-18b65efb?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Peloton&#x2019;s stock falls as the maker of home-fitness products again reported quarterly losses, and as connected-fitness subscriptions fell to a more than four-year low.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T13:53:00.000Z",
-      "headline": "Software ate the world. Now, Wall Street is worried AI will eat software.",
-      "url": "https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories",
+      "ts": "2026-02-05T22:27:00.000Z",
+      "headline": "S&P 500 turns negative for 2026 as investors add job market to a growing list of worries facing Wall Street",
+      "url": "https://www.marketwatch.com/story/s-p-500-turns-negative-for-2026-as-investors-add-job-market-to-a-growing-list-of-worries-facing-wall-street-23e4d185?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors have quickly moved to sell shares of companies that looked like they could be on the menu",
+      "summary_en": "The action in stocks on Thursday showed just how quickly simmering concerns in one corner of the market can boil over into a large-scale rout.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T12:55:00.000Z",
-      "headline": "What this famed short seller is waiting for before betting against AI stocks",
-      "url": "https://www.marketwatch.com/story/what-this-famed-short-seller-is-waiting-for-before-betting-against-ai-stocks-12a9c797?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Muddy Waters&#x2019; CEO Carson Block says investors need to bide their time before trying to short the AI revolution.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T12:50:00.000Z",
-      "headline": "These 6 great stocks are bargain-priced right now &#x2014; and a much better bet than Big Tech",
-      "url": "https://www.marketwatch.com/story/these-6-great-stocks-are-bargain-priced-right-now-and-a-much-better-bet-than-big-tech-c82b0ba8?mod=mw_rss_topstories",
+      "ts": "2026-02-05T22:21:00.000Z",
+      "headline": "Bitcoin ETF suffers worst decline in over a year &#x2014; and new investors are now sitting on ugly losses",
+      "url": "https://www.marketwatch.com/story/bitcoin-etf-suffers-worst-decline-in-over-year-and-new-investors-are-now-sitting-on-ugly-losses-c093dca6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Here&#x2019;s what value-stock pro Bill Nygren is holding in the ETF he manages.",
+      "summary_en": "As investor appetite for bitcoin has faded this year, the iShares Bitcoin Trust has posted net outflows of about $34 million through Wednesday.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T12:39:00.000Z",
-      "headline": "Chase cut my credit-card limit due to lower usage. Will this affect my credit score and lead other banks to do the same?",
-      "url": "https://www.marketwatch.com/story/i-didnt-find-out-until-after-it-was-done-chase-cut-my-credit-card-limit-due-to-low-usage-could-this-affect-my-credit-717075bd?mod=mw_rss_topstories",
+      "ts": "2026-02-05T22:05:00.000Z",
+      "headline": "Bitcoin&#x2019;s latest selloff is shattering many of its most enduring myths",
+      "url": "https://www.marketwatch.com/story/bitcoins-latest-selloff-is-shattering-many-of-its-most-enduring-myths-385ee6b0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m wondering whether this could cause a ripple effect in which other banks might do the same with my lesser-used credit cards.&#x201d;",
+      "summary_en": "The crypto was supposed to be a hedge against currency debasement. Instead, it is trading like just another speculative tech stock, erasing 50% of its value since an early October high.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T12:28:00.000Z",
-      "headline": "Powell probe by Trump DOJ will be resolved, clearing the way for Warsh&#x2019;s confirmation, Senate Republican says",
-      "url": "https://www.marketwatch.com/story/powell-probe-will-get-resolved-clearing-the-way-for-warshs-confirmation-key-republican-senator-says-a4dd0169?mod=mw_rss_topstories",
+      "ts": "2026-02-05T21:56:00.000Z",
+      "headline": "Why Uber&#x2019;s cheap stock is worth a fresh look despite the company&#x2019;s spending spree",
+      "url": "https://www.marketwatch.com/story/why-ubers-cheap-stock-is-worth-a-fresh-look-despite-the-companys-spending-spree-dd7dcddb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
-        "ED"
+        "COST"
       ],
-      "summary_en": "Senate Banking Committee Chair Tim Scott indicated Wednesday that he expects the Department of Justice will resolve its criminal probe of current Federal Reserve chief Jerome Powell, clearing a path for the panel to advance President Donald Trump&#x2019;s nominee for the top Fed job, Kevin Warsh.",
+      "summary_en": "Uber&#x2019;s stock has fallen more than 20% off peak levels due to concerns about costly futuristic plans, but Deutsche Bank analysts say the investments are worthwhile.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T11:41:00.000Z",
-      "headline": "Stock-market winners suffered their worst day in six years. Here&#x2019;s what made the move really unusual, according to Goldman.",
-      "url": "https://www.marketwatch.com/story/stock-market-winners-suffered-their-worst-day-in-six-years-what-made-the-move-unusual-according-to-goldman-2e692c0e?mod=mw_rss_topstories",
+      "ts": "2026-02-05T21:55:00.000Z",
+      "headline": "Why Alphabet&#x2019;s stock is falling despite booming cloud growth",
+      "url": "https://www.marketwatch.com/story/why-alphabets-stock-is-falling-despite-booming-cloud-growth-2ec59941?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "GOOGL",
         "ED"
       ],
-      "summary_en": "High beta momentum names dive amid tech rout",
+      "summary_en": "Shares declined Thursday as Google&#x2019;s staggering $185 billion capital-expenditure forecast overshadowed a blowout fourth quarter.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T13:39:00.000Z",
-      "headline": "&#x2018;This is our second marriage&#x2019;: We&#x2019;re in our 60s. How do we split expenses if we move in together and rent one house?",
-      "url": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
+      "ts": "2026-02-05T23:15:00.000Z",
+      "headline": "Where&#x2019;s the real &#x2018;best place&#x2019; to retire? Tips to making those lists work for you.",
+      "url": "https://www.marketwatch.com/story/where-should-i-retire-how-to-use-all-those-best-places-lists-to-find-your-perfect-spot-ca4e8ea0?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;We have been taking turns living in his house and my house.&#x201d;",
+      "summary_en": "Here&#x2019;s a rundown of six best-places lists in the U.S. and two global ones.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T13:10:00.000Z",
-      "headline": "Here&#x2019;s the smart way to play the stock market&#x2019;s Super Bowl Indicator",
+      "ts": "2026-02-05T23:00:00.000Z",
+      "headline": "Many U.S. households feel like they can&#x2019;t get ahead financially &#x2014; and they&#x2019;re right",
+      "url": "https://www.marketwatch.com/story/people-who-work-for-a-paycheck-have-less-money-than-you-think-ec0e7f84?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The top wealth holders outpace everyone else.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-05T22:51:00.000Z",
+      "headline": "Why smart investors are ignoring the 2026 Super Bowl Indicator",
       "url": "https://www.marketwatch.com/story/heres-the-smart-way-to-play-the-stock-markets-super-bowl-indicator-5a878ffb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Bulls want the Seahawks; bears cheer the Patriots. Why you shouldn&#x2019;t worry if your team loses.",
+      "summary_en": "Bulls want the Seahawks; bears cheer the Patriots. You shouldn&#x2019;t worry if your team loses.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T11:39:00.000Z",
-      "headline": "Explain this financial paradox to me like I&#x2019;m 16. Why would I, or anyone, lease a car?",
-      "url": "https://www.marketwatch.com/story/explain-this-financial-paradox-to-me-like-im-16-why-would-i-or-anyone-lease-a-car-82109210?mod=mw_rss_topstories",
+      "ts": "2026-02-05T22:51:00.000Z",
+      "headline": "Bulls facing a &#x2018;make-or-break&#x2019; moment as the S&P 500 nears a line in the sand",
+      "url": "https://www.marketwatch.com/story/bulls-facing-a-make-or-break-moment-as-the-s-p-500-nears-a-line-in-the-sand-4f63d63e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;&#x2018;What&#x2019;s the point of paying thousands of dollars?&#x201d;",
+      "summary_en": "Expect more downside if the benchmark index slides below 6,720.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-05T22:36:00.000Z",
+      "headline": "Strategy&#x2019;s sinking stock and $12 billion quarterly loss puts the policy of &#x2018;don&#x2019;t ever sell your bitcoin&#x2019; to the test",
+      "url": "https://www.marketwatch.com/story/strategys-sinking-stock-puts-the-policy-of-dont-ever-sell-your-bitcoin-to-the-test-fde478ea?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Bitcoin&#x2019;s selloff means Strategy is now losing money on its holdings, which it has been accumulating for nearly six years.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -145,18 +144,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-01-29T18:30:00.000Z",
-      "headline": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260129a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
