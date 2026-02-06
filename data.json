@@ -1,125 +1,112 @@
 {
-  "last_updated": "2026-02-05T23:36:02.113Z",
+  "last_updated": "2026-02-06T11:07:31.537Z",
   "items": [
     {
-      "ts": "2026-02-05T22:27:00.000Z",
-      "headline": "S&P 500 turns negative for 2026 as investors add job market to a growing list of worries facing Wall Street",
-      "url": "https://www.marketwatch.com/story/s-p-500-turns-negative-for-2026-as-investors-add-job-market-to-a-growing-list-of-worries-facing-wall-street-23e4d185?mod=mw_rss_topstories",
+      "ts": "2026-02-06T11:02:00.000Z",
+      "headline": "Jeep maker Stellantis is taking $26 billion hit over miscalculating EV demand",
+      "url": "https://www.marketwatch.com/story/jeep-maker-stellantis-is-taking-26-billion-hit-over-miscalculating-ev-demand-e5c6abfa?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The action in stocks on Thursday showed just how quickly simmering concerns in one corner of the market can boil over into a large-scale rout.",
+      "summary_en": "Shares of Stellantis are headed for their worst-ever day of trading after the carmaker announced a massive charge to reset its business.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T22:21:00.000Z",
-      "headline": "Bitcoin ETF suffers worst decline in over a year &#x2014; and new investors are now sitting on ugly losses",
-      "url": "https://www.marketwatch.com/story/bitcoin-etf-suffers-worst-decline-in-over-year-and-new-investors-are-now-sitting-on-ugly-losses-c093dca6?mod=mw_rss_topstories",
+      "ts": "2026-02-06T10:32:00.000Z",
+      "headline": "What&#x2019;s next for Rio Tinto and Glencore after $260 billion megamerger aborted",
+      "url": "https://www.marketwatch.com/story/whats-next-for-rio-tinto-and-glencore-after-260-billion-megamerger-aborted-5bf09d3b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "As investor appetite for bitcoin has faded this year, the iShares Bitcoin Trust has posted net outflows of about $34 million through Wednesday.",
+      "summary_en": "The decision by Rio Tinto and Glencore to abandon merger talks now has analysts divided on the companies&#x2019; prospects in what JPMorgan has called &#x201c;the age of critical minerals.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T22:05:00.000Z",
-      "headline": "Bitcoin&#x2019;s latest selloff is shattering many of its most enduring myths",
-      "url": "https://www.marketwatch.com/story/bitcoins-latest-selloff-is-shattering-many-of-its-most-enduring-myths-385ee6b0?mod=mw_rss_topstories",
+      "ts": "2026-02-06T10:30:00.000Z",
+      "headline": "As bitcoin crashes, pity those wildly enthusiastic investors who borrowed billions against crypto",
+      "url": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The crypto was supposed to be a hedge against currency debasement. Instead, it is trading like just another speculative tech stock, erasing 50% of its value since an early October high.",
+      "summary_en": "The speculation that bitcoin would hit $200,000 in 2025 now seems like a dream. Because it was.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T21:56:00.000Z",
-      "headline": "Why Uber&#x2019;s cheap stock is worth a fresh look despite the company&#x2019;s spending spree",
-      "url": "https://www.marketwatch.com/story/why-ubers-cheap-stock-is-worth-a-fresh-look-despite-the-companys-spending-spree-dd7dcddb?mod=mw_rss_topstories",
+      "ts": "2026-02-06T10:15:00.000Z",
+      "headline": "&#x2018;Some of her team are undocumented&#x2019;: My cleaner leaves dust bunnies behind. I pay her $150 an hour. Do I make up an excuse when I fire her?",
+      "url": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "COST"
-      ],
-      "summary_en": "Uber&#x2019;s stock has fallen more than 20% off peak levels due to concerns about costly futuristic plans, but Deutsche Bank analysts say the investments are worthwhile.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T21:55:00.000Z",
-      "headline": "Why Alphabet&#x2019;s stock is falling despite booming cloud growth",
-      "url": "https://www.marketwatch.com/story/why-alphabets-stock-is-falling-despite-booming-cloud-growth-2ec59941?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "GOOGL",
         "ED"
       ],
-      "summary_en": "Shares declined Thursday as Google&#x2019;s staggering $185 billion capital-expenditure forecast overshadowed a blowout fourth quarter.",
+      "summary_en": "&#x201d;I like her as a friend, but I&#x2019;m underwhelmed as a client.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-05T23:15:00.000Z",
-      "headline": "Where&#x2019;s the real &#x2018;best place&#x2019; to retire? Tips to making those lists work for you.",
-      "url": "https://www.marketwatch.com/story/where-should-i-retire-how-to-use-all-those-best-places-lists-to-find-your-perfect-spot-ca4e8ea0?mod=mw_rss_topstories",
+      "ts": "2026-02-06T10:05:00.000Z",
+      "headline": "Bitcoin rises after brutal week of selling",
+      "url": "https://www.marketwatch.com/story/bitcoin-rises-after-brutal-week-of-selling-3e74d460?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bitcoin rebounded from a dramatic selloff on Thursday, with investors hoping the worst might be over.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-06T10:03:00.000Z",
+      "headline": "&#x2018;Shark Tank&#x2019; star Barbara Corcoran has this one piece of advice for buying a home",
+      "url": "https://www.marketwatch.com/story/shark-tank-star-barbara-corcoran-has-this-one-piece-of-advice-for-buying-a-home-075c2184?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Real estate tycoon Barbara Corcoran has revealed the one rule she follows when she is buying homes&#x2014;explaining how it has helped her ensure she &#x201c;can always sell&#x201d; a property later down the line.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-06T09:25:00.000Z",
+      "headline": "Novo Nordisk stock climbs out of hole on FDA chief&#x2019;s threat to block Hims and Hers pill",
+      "url": "https://www.marketwatch.com/story/novo-nordisk-stock-climbs-out-of-hole-on-fda-chiefs-threat-to-block-hims-and-hers-pill-489b68a9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Novo Nordisk shares rallied on Friday in what&#x2019;s still been a painful week as the Food and Drug Administration may weigh in on the side of the Danish drugmaker in its dispute over a copycat drug.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-06T03:00:00.000Z",
+      "headline": "Chase cut my credit-card limit due to lower usage. Will this affect my credit score and lead other banks to do the same?",
+      "url": "https://www.marketwatch.com/story/i-didnt-find-out-until-after-it-was-done-chase-cut-my-credit-card-limit-due-to-low-usage-could-this-affect-my-credit-717075bd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I&#x2019;m wondering whether this could cause a ripple effect in which other banks might do the same with my lesser-used credit cards.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-06T03:10:00.000Z",
+      "headline": "Explain this financial paradox to me like I&#x2019;m 16. Why would I, or anyone, lease a car?",
+      "url": "https://www.marketwatch.com/story/explain-this-financial-paradox-to-me-like-im-16-why-would-i-or-anyone-lease-a-car-82109210?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Here&#x2019;s a rundown of six best-places lists in the U.S. and two global ones.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T23:00:00.000Z",
-      "headline": "Many U.S. households feel like they can&#x2019;t get ahead financially &#x2014; and they&#x2019;re right",
-      "url": "https://www.marketwatch.com/story/people-who-work-for-a-paycheck-have-less-money-than-you-think-ec0e7f84?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The top wealth holders outpace everyone else.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T22:51:00.000Z",
-      "headline": "Why smart investors are ignoring the 2026 Super Bowl Indicator",
-      "url": "https://www.marketwatch.com/story/heres-the-smart-way-to-play-the-stock-markets-super-bowl-indicator-5a878ffb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Bulls want the Seahawks; bears cheer the Patriots. You shouldn&#x2019;t worry if your team loses.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T22:51:00.000Z",
-      "headline": "Bulls facing a &#x2018;make-or-break&#x2019; moment as the S&P 500 nears a line in the sand",
-      "url": "https://www.marketwatch.com/story/bulls-facing-a-make-or-break-moment-as-the-s-p-500-nears-a-line-in-the-sand-4f63d63e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Expect more downside if the benchmark index slides below 6,720.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-05T22:36:00.000Z",
-      "headline": "Strategy&#x2019;s sinking stock and $12 billion quarterly loss puts the policy of &#x2018;don&#x2019;t ever sell your bitcoin&#x2019; to the test",
-      "url": "https://www.marketwatch.com/story/strategys-sinking-stock-puts-the-policy-of-dont-ever-sell-your-bitcoin-to-the-test-fde478ea?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Bitcoin&#x2019;s selloff means Strategy is now losing money on its holdings, which it has been accumulating for nearly six years.",
+      "summary_en": "&#x201c;&#x2018;What&#x2019;s the point of paying thousands of dollars?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,6 +119,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-06T02:44:00.000Z",
+      "headline": "&#x2018;I love being debt-free&#x2019;: I&#x2019;m in my mid-50s and buying a house. Do I take out a $400K mortgage or use my Roth IRA?",
+      "url": "https://www.marketwatch.com/story/i-love-being-debt-free-im-in-my-mid-50s-and-buying-a-house-do-i-take-out-a-400k-mortgage-or-use-my-roth-ira-c1aa3ef7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I&#x2019;ll fund $500,000 of that from the sale of my current house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
