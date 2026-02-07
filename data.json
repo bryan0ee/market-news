@@ -1,32 +1,44 @@
 {
-  "last_updated": "2026-02-07T10:52:57.486Z",
+  "last_updated": "2026-02-07T13:46:49.773Z",
   "items": [
     {
-      "ts": "2026-02-07T02:05:00.000Z",
-      "headline": "Dow 50,000 came as the market looked set to crack. What the milestone says about what&#x2019;s ahead for risk and volatility.",
-      "url": "https://www.marketwatch.com/story/dow-closes-above-50-000-for-first-time-after-rough-week-for-u-s-stock-market-c47282f7?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Dow Jones Industrial Average surged more than 1,200 points Friday, leading a broader stock-market rebound.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-07T01:05:00.000Z",
-      "headline": "&#x2018;Guests tell me I have dust bunnies&#x2019;: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?",
-      "url": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
+      "ts": "2026-02-07T13:42:00.000Z",
+      "headline": "&#x2018;Hell of a story, isn&#x2019;t it?&#x2019;: My brother stole $500K from my ailing father. Can we get justice?",
+      "url": "https://www.marketwatch.com/story/hell-of-a-story-isnt-it-my-brother-stole-500k-from-my-ailing-father-can-we-get-justice-e2848289?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201d;I like her as a friend, but I&#x2019;m underwhelmed as a client.&#x201d;",
+      "summary_en": "&#x201c;That money was intended for my children.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-07T00:50:00.000Z",
+      "ts": "2026-02-07T12:30:00.000Z",
+      "headline": "Software stocks have been crushed. Here&#x2019;s how to play the sector as the dust settles.",
+      "url": "https://www.marketwatch.com/story/software-stocks-have-been-crushed-heres-how-to-play-the-sector-as-the-dust-settles-c0175f8a?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors can take a breather and assess whether there are opportunities to buy some beaten-down software stocks, after what some analysts believe was &#x201c;indiscriminate&#x201d; selling.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-07T13:00:00.000Z",
+      "headline": "Gen Z is obsessed with 2016, and beauty stocks like e.l.f. and Ulta are riding the nostalgia wave",
+      "url": "https://www.marketwatch.com/story/gen-z-is-obsessed-with-2016-and-beauty-stocks-like-e-l-f-and-ulta-are-riding-the-nostalgia-wave-581dd031?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A social-media trend celebrating all things 2016 could usher in a makeup boom.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-07T12:53:00.000Z",
       "headline": "I settled my father&#x2019;s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?",
       "url": "https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -38,7 +50,7 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-07T00:46:00.000Z",
+      "ts": "2026-02-07T12:31:00.000Z",
       "headline": "After bitcoin&#x2019;s fall, pity those wildly enthusiastic investors who borrowed billions against crypto",
       "url": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -50,39 +62,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-06T20:57:00.000Z",
-      "headline": "Oil markets are on edge over elevated risks of a U.S. military strike against Iran this weekend",
-      "url": "https://www.marketwatch.com/story/oil-markets-are-on-edge-over-elevated-risks-of-a-u-s-military-strike-against-iran-this-weekend-ead5d7d2?mod=mw_rss_topstories",
+      "ts": "2026-02-07T12:29:00.000Z",
+      "headline": "&#x2018;Guests tell me I have dust bunnies&#x2019;: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?",
+      "url": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201d;I like her as a friend, but I&#x2019;m underwhelmed as a client.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-07T13:00:00.000Z",
+      "headline": "Bitcoin&#x2019;s 50% plunge from highs &#x2018;hurts a little&#x2019; &#x2014; but it isn&#x2019;t shaking these investors&#x2019; conviction",
+      "url": "https://www.marketwatch.com/story/bitcoins-50-plunge-from-highs-hurts-a-little-but-it-isnt-shaking-these-investors-conviction-304b2ba6?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "The weekend brings fresh Iran sanctions and risks of a U.S. move against Tehran.",
+      "summary_en": "&#x201c;Volatility is the price of admission with bitcoin,&#x201d; one investor says.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-06T23:46:00.000Z",
-      "headline": "Hims & Hers stock closes at one-year low amid battle over compounded Wegovy pill",
-      "url": "https://www.marketwatch.com/story/hims-hers-stock-nears-one-year-low-amid-battle-over-compounded-wegovy-pill-66ddcdb7?mod=mw_rss_topstories",
+      "ts": "2026-02-07T13:30:00.000Z",
+      "headline": "&#x2018;It&#x2019;s existential&#x2019;: How Big Tech found itself in a $650 billion spending spiral",
+      "url": "https://www.marketwatch.com/story/its-existential-how-big-tech-found-itself-in-a-650-billion-spending-spiral-346caa4d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Hims & Hers also said it&#x2019;s selling a cancer-detection test that&#x2019;s featured in its Super Bowl ad, which plays like a commentary on the wealthy&#x2019;s access to better healthcare.",
+      "summary_en": "The market has spoken: It doesn&#x2019;t like the massive AI spending spree of the &#x201c;Big Four&#x201d; hyperscalers. But the companies are barreling ahead anyway.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-06T21:01:00.000Z",
-      "headline": "This little-noticed bond-market development could put many borrowers on edge",
-      "url": "https://www.marketwatch.com/story/this-little-noticed-bond-market-development-could-put-many-borrowers-on-edge-45a05830?mod=mw_rss_topstories",
+      "ts": "2026-02-07T13:00:00.000Z",
+      "headline": "This Super Bowl snack can help slim your waist &#x2014; and spare your wallet",
+      "url": "https://www.marketwatch.com/story/this-super-bowl-snack-can-help-slim-your-waist-and-spare-your-wallet-b8879018?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "If the Treasury yield curve continues to steepen this year, it would make it harder for long-term borrowers to feel the full impact of any 2026 rate cut by the Fed.",
+      "summary_en": "Also: What a Patriots Super Bowl appearance could mean for stocks and bonds.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-07T12:00:00.000Z",
+      "headline": "Tech stocks have been shaky, but these 20 companies could still see rocketing sales growth",
+      "url": "https://www.marketwatch.com/story/tech-stocks-have-been-shaky-but-these-20-companies-could-still-see-rocketing-sales-growth-148195c9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Sandisk and Micron could see industry-leading revenue growth in the coming years.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -95,42 +131,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-07T00:52:00.000Z",
-      "headline": "My brother refuses to sell our family&#x2019;s $150K lake house, yet I pay all the bills. Do I push it and risk ruining our relationship?",
-      "url": "https://www.marketwatch.com/story/my-brother-a-corporate-lawyer-refuses-to-sell-our-familys-175k-lake-house-do-i-push-the-issue-and-risk-ruining-our-relationship-e8aaa64a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201d;I have no intention of going back to the lake house, yet he expects me to pay for upkeep and taxes.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-06T21:18:00.000Z",
-      "headline": "Tesla&#x2019;s stock rallies to recover some of its losses this week",
-      "url": "https://www.marketwatch.com/story/teslas-stock-rallies-to-end-a-rough-week-c1f1d5e5?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The company is making inroads on two potential growth segments: driverless cars and solar energy.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-06T23:40:00.000Z",
-      "headline": "This year&#x2019;s Super Bowl ads are telling you the AI bubble is about to burst",
-      "url": "https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Why the artificial-intelligence advertising spree could be the last hurrah &#x2014; like the dot-coms in 2000.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
