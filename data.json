@@ -1,21 +1,9 @@
 {
-  "last_updated": "2026-02-06T23:37:49.540Z",
+  "last_updated": "2026-02-07T10:52:57.486Z",
   "items": [
     {
-      "ts": "2026-02-06T23:16:00.000Z",
-      "headline": "Hims & Hers stock closes at one-year low amid battle over compounded Wegovy pill",
-      "url": "https://www.marketwatch.com/story/hims-hers-stock-nears-one-year-low-amid-battle-over-compounded-wegovy-pill-66ddcdb7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Hims & Hers also said it&#x2019;s selling a cancer-detection test that&#x2019;s featured in its Super Bowl ad, which plays like a commentary on the wealthy&#x2019;s access to better healthcare.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-06T22:08:00.000Z",
-      "headline": "Dow closes above 50,000 for first time to wrap rough week for U.S. stock market",
+      "ts": "2026-02-07T02:05:00.000Z",
+      "headline": "Dow 50,000 came as the market looked set to crack. What the milestone says about what&#x2019;s ahead for risk and volatility.",
       "url": "https://www.marketwatch.com/story/dow-closes-above-50-000-for-first-time-after-rough-week-for-u-s-stock-market-c47282f7?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
@@ -23,6 +11,42 @@
         "ED"
       ],
       "summary_en": "The Dow Jones Industrial Average surged more than 1,200 points Friday, leading a broader stock-market rebound.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-07T01:05:00.000Z",
+      "headline": "&#x2018;Guests tell me I have dust bunnies&#x2019;: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?",
+      "url": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201d;I like her as a friend, but I&#x2019;m underwhelmed as a client.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-07T00:50:00.000Z",
+      "headline": "I settled my father&#x2019;s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?",
+      "url": "https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I understand that I must initiate probate in his state of residence.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-07T00:46:00.000Z",
+      "headline": "After bitcoin&#x2019;s fall, pity those wildly enthusiastic investors who borrowed billions against crypto",
+      "url": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The speculation that bitcoin would hit $200,000 in 2025 now seems like a dream. Because it was.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -38,6 +62,18 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2026-02-06T23:46:00.000Z",
+      "headline": "Hims & Hers stock closes at one-year low amid battle over compounded Wegovy pill",
+      "url": "https://www.marketwatch.com/story/hims-hers-stock-nears-one-year-low-amid-battle-over-compounded-wegovy-pill-66ddcdb7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hims & Hers also said it&#x2019;s selling a cancer-detection test that&#x2019;s featured in its Super Bowl ad, which plays like a commentary on the wealthy&#x2019;s access to better healthcare.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2026-02-06T21:01:00.000Z",
       "headline": "This little-noticed bond-market development could put many borrowers on edge",
       "url": "https://www.marketwatch.com/story/this-little-noticed-bond-market-development-could-put-many-borrowers-on-edge-45a05830?mod=mw_rss_topstories",
@@ -50,39 +86,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-06T21:00:00.000Z",
-      "headline": "After bitcoin&#x2019;s fall, pity those wildly enthusiastic investors who borrowed billions against crypto",
-      "url": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
+      "ts": "2026-02-04T21:30:00.000Z",
+      "headline": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The speculation that bitcoin would hit $200,000 in 2025 now seems like a dream. Because it was.",
+      "summary_en": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-06T20:15:00.000Z",
-      "headline": "&#x2018;Guests tell me I have dust bunnies&#x2019;: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?",
-      "url": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
+      "ts": "2026-02-07T00:52:00.000Z",
+      "headline": "My brother refuses to sell our family&#x2019;s $150K lake house, yet I pay all the bills. Do I push it and risk ruining our relationship?",
+      "url": "https://www.marketwatch.com/story/my-brother-a-corporate-lawyer-refuses-to-sell-our-familys-175k-lake-house-do-i-push-the-issue-and-risk-ruining-our-relationship-e8aaa64a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201d;I like her as a friend, but I&#x2019;m underwhelmed as a client.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-06T19:35:00.000Z",
-      "headline": "NFL heads into Super Bowl after season of record ratings, paving way for TV-rights bonanza",
-      "url": "https://www.marketwatch.com/story/nfl-heads-into-super-bowl-after-season-of-record-ratings-paving-way-for-tv-rights-bonanza-bb8f897c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The NFL hopes that Sunday&#x2019;s Super Bowl LX between the Seattle Seahawks and New England Patriots will top last year&#x2019;s record TV ratings, after a season in which the league notched its highest ratings in 36 years.",
+      "summary_en": "&#x201d;I have no intention of going back to the lake house, yet he expects me to pay for upkeep and taxes.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -98,39 +122,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-06T20:00:00.000Z",
-      "headline": "Explain this financial paradox to me like I&#x2019;m 16. Why would I, or anyone, lease a car?",
-      "url": "https://www.marketwatch.com/story/explain-this-financial-paradox-to-me-like-im-16-why-would-i-or-anyone-lease-a-car-82109210?mod=mw_rss_topstories",
+      "ts": "2026-02-06T23:40:00.000Z",
+      "headline": "This year&#x2019;s Super Bowl ads are telling you the AI bubble is about to burst",
+      "url": "https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;&#x2018;What&#x2019;s the point of paying thousands of dollars?&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-06T19:40:00.000Z",
-      "headline": "&#x2018;I love being debt-free&#x2019;: I&#x2019;m in my mid-50s and buying a house. Do I take out a $400K mortgage or use my Roth IRA?",
-      "url": "https://www.marketwatch.com/story/i-love-being-debt-free-im-in-my-mid-50s-and-buying-a-house-do-i-take-out-a-400k-mortgage-or-use-my-roth-ira-c1aa3ef7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I&#x2019;ll fund $500,000 of that from the sale of my current house.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T21:30:00.000Z",
-      "headline": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
+      "summary_en": "Why the artificial-intelligence advertising spree could be the last hurrah &#x2014; like the dot-coms in 2000.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
