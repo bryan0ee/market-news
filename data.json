@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T23:45:28.433Z",
+  "last_updated": "2026-02-08T10:54:50.059Z",
   "items": [
     {
       "ts": "2026-02-07T22:52:00.000Z",
@@ -65,18 +65,6 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-07T22:43:00.000Z",
-      "headline": "&#x2018;I love being debt-free&#x2019;: I&#x2019;m in my mid-50s and buying a house. Do I take out a $400K mortgage or use my Roth IRA?",
-      "url": "https://www.marketwatch.com/story/i-love-being-debt-free-im-in-my-mid-50s-and-buying-a-house-do-i-take-out-a-400k-mortgage-or-use-my-roth-ira-c1aa3ef7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I&#x2019;ll fund $500,000 of that from the sale of my current house.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
       "ts": "2026-02-07T19:38:00.000Z",
       "headline": "Investors are asking if they need to own gold and silver at all",
       "url": "https://www.marketwatch.com/story/investors-are-asking-if-they-need-to-own-gold-and-silver-at-all-d46ac11e?mod=mw_rss_topstories",
@@ -88,6 +76,30 @@
         "ED"
       ],
       "summary_en": "Precious metals may be done falling &#x2014; but they&#x2019;re not done being tested.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-04T21:30:00.000Z",
+      "headline": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-07T22:43:00.000Z",
+      "headline": "&#x2018;I love being debt-free&#x2019;: I&#x2019;m in my mid-50s and buying a house. Do I take out a $400K mortgage or use my Roth IRA?",
+      "url": "https://www.marketwatch.com/story/i-love-being-debt-free-im-in-my-mid-50s-and-buying-a-house-do-i-take-out-a-400k-mortgage-or-use-my-roth-ira-c1aa3ef7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I&#x2019;ll fund $500,000 of that from the sale of my current house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -124,18 +136,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "Why the artificial-intelligence advertising spree could be the last hurrah &#x2014; like the dot-coms in 2000.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-04T21:30:00.000Z",
-      "headline": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
