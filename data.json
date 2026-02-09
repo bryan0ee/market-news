@@ -1,58 +1,34 @@
 {
-  "last_updated": "2026-02-09T11:25:43.394Z",
+  "last_updated": "2026-02-09T14:15:15.695Z",
   "items": [
     {
-      "ts": "2026-02-09T11:11:00.000Z",
-      "headline": "Here&#x2019;s why Goldman Sachs is warning of more selling for stocks this week",
-      "url": "https://www.marketwatch.com/story/heres-why-goldman-sachs-is-warning-of-more-selling-for-stocks-this-week-94731adb?mod=mw_rss_topstories",
-      "impact": "Bearish",
+      "ts": "2026-02-09T13:36:00.000Z",
+      "headline": "Kroger&#x2019;s stock surges as the grocer finally names a new CEO",
+      "url": "https://www.marketwatch.com/story/krogers-stock-surges-as-the-grocer-finally-names-a-new-ceo-778e92e4?mod=mw_rss_topstories",
+      "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Goldman Sachs analysts led by Gail Hafif says some big influential CTAs are ready to push the sell button on U.S. stocks, especially if the S&P 500 sinks further.",
+      "summary_en": "Kroger&#x2019;s stock rallies after the grocer named Greg Foran, the former leader of Walmart U.S. as its new CEO after a nearly yearlong search.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-09T11:12:00.000Z",
-      "headline": "&#x2018;I&#x2019;m not made of money&#x2019;: My heating engineer didn&#x2019;t fix my radiators on his first visit. Do I pay him a second time?",
-      "url": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
+      "ts": "2026-02-09T13:59:00.000Z",
+      "headline": "Gold futures once again reclaim $5,000 mark",
+      "url": "https://www.marketwatch.com/story/gold-futures-once-again-reclaim-5-000-mark-af3da5ee?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
+        "META",
         "ED"
       ],
-      "summary_en": "&#x201c;He charged $180 for the second visit for his time, including $40 for the part.&#x201d;",
+      "summary_en": "Gold futures rose on Monday, as the volatile yellow metal benefited from uncertainty overseas.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-09T11:02:00.000Z",
-      "headline": "Bad Bunny fails to produce stock market sizzle for two big European brands",
-      "url": "https://www.marketwatch.com/story/bad-bunny-fails-to-produce-stock-market-sizzle-for-two-big-european-brands-69f13648?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "In a market where sometimes tenuous links spell big moves for stocks, the Super Bowl halftime performance from Bad Bunny failed to produce coattails.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T10:03:00.000Z",
-      "headline": "Billionaire Bill Gates lists 4-bedroom home outside Seattle for $4.8 million, right next door to his estate",
-      "url": "https://www.marketwatch.com/story/billionaire-bill-gates-lists-4-bedroom-home-outside-seattle-for-4-8-million-right-next-door-to-his-estate-6be26533?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bill Gates appears to be trimming back his famed Washington compound&#x2014;listing a home that sits next to his sprawling Xanadu 2.0 estate for $4.8 million.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T08:30:00.000Z",
-      "headline": "Hims & Hers stock poised for heavy losses after quick U-turn on plan for oral Wegovy competitor",
+      "ts": "2026-02-09T13:55:00.000Z",
+      "headline": "Hims & Hers reverses plan for oral Wegovy, and its stock tumbled 20%",
       "url": "https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
@@ -63,31 +39,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-09T10:31:00.000Z",
-      "headline": "My husband, 73, wants to sell our $300K rental and buy an annuity. Is that wise?",
-      "url": "https://www.marketwatch.com/story/my-husband-73-wants-to-sell-our-300k-rental-and-buy-an-annuity-is-that-wise-a91ec6ca?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He believes the annuity will net $1,600 per month, the same as the rent from the house.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T03:17:00.000Z",
-      "headline": "After bitcoin&#x2019;s fall, pity those wildly enthusiastic investors who borrowed billions against crypto",
-      "url": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
+      "ts": "2026-02-09T13:55:00.000Z",
+      "headline": "STMicro shares boom on multiyear, multibillion-dollar deal with Amazon Web Services",
+      "url": "https://www.marketwatch.com/story/stmicro-shares-boom-on-multiyear-mult-billion-dollar-deal-with-amazon-web-services-7d19ee1a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The speculation that bitcoin would hit $200,000 in 2025 now seems like a dream. Because it was.",
+      "summary_en": "In the partnership announced, Amazon Web Services will receive a long-term supply of advanced semiconductor chips and in return may acquire a stake of up to 2.7% in STMicro.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-09T03:15:00.000Z",
+      "ts": "2026-02-09T13:48:00.000Z",
+      "headline": "The labor market was bad last year. Will investors get stung by a poor January jobs report, too?",
+      "url": "https://www.marketwatch.com/story/the-labor-market-was-bad-last-year-will-investors-get-stung-by-a-poor-january-jobs-report-too-e641b04d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors are on edge about the January jobs report after an anxious week on Wall Street &#x2014; but the survey is likely to tell them more about the past than the future of a fragile U.S. labor market.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-09T13:18:00.000Z",
       "headline": "I settled my father&#x2019;s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?",
       "url": "https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -99,7 +75,19 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-09T03:13:00.000Z",
+      "ts": "2026-02-09T12:20:00.000Z",
+      "headline": "&#x2018;Guests tell me I have dust bunnies&#x2019;: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?",
+      "url": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201d;I like her as a friend, but I&#x2019;m underwhelmed as a client.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-09T12:16:00.000Z",
       "headline": "My brother-in-law invested $30K in our California condo. It has a 3% mortgage rate. He&#x2019;s pushing me to sell. Is now a good time?",
       "url": "https://www.marketwatch.com/story/my-brother-in-law-invested-30k-in-our-california-condo-it-has-a-3-mortgage-rate-hes-pushing-me-to-sell-is-now-a-good-time-0f1ac56b?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -111,15 +99,27 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-09T03:25:00.000Z",
-      "headline": "U.S. stock futures rise after a wild week on Wall Street, ahead of key jobs and inflation reports",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-after-a-wild-week-on-wall-street-ahead-of-key-jobs-and-inflation-reports-60e29ed8?mod=mw_rss_topstories",
+      "ts": "2026-02-09T13:30:00.000Z",
+      "headline": "Bank of America flags a really big risk to bonds &#x2014; the stock market",
+      "url": "https://www.marketwatch.com/story/bank-of-america-flags-a-really-big-risk-to-bonds-the-stock-market-8caa41ad?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "U.S. stock index futures rose Sunday, ahead of key employment and inflation data coming later this week.",
+      "summary_en": "A slowing of rebalancing flows could eat at a big source of bond-market demand.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-09T13:23:00.000Z",
+      "headline": "Why Kyndryl&#x2019;s stock is sinking after earnings",
+      "url": "https://www.marketwatch.com/story/why-kyndryls-stock-is-sinking-after-earnings-2cc935a8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Shares could lose more than a third of their value Monday following the disclosure of an accounting investigation and a big reset of the company&#x2019;s financial guidance.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
