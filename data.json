@@ -1,93 +1,105 @@
 {
-  "last_updated": "2026-02-08T23:44:16.482Z",
+  "last_updated": "2026-02-09T11:25:43.394Z",
   "items": [
     {
-      "ts": "2026-02-08T23:34:00.000Z",
-      "headline": "3 things to know about &#x2018;Trump accounts&#x2019; &#x2014; the new investment vehicle for kids advertised during the Super Bowl",
-      "url": "https://www.marketwatch.com/story/3-things-to-know-about-trump-accounts-the-new-investment-vehicle-for-kids-advertised-during-the-super-bowl-fdf64e91?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Trump accounts&#x201d; are getting primetime Super Bowl ad space, with a commercial slated to air just before Sunday&#x2019;s kickoff.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-08T23:21:00.000Z",
-      "headline": "This Super Bowl, the game to watch is prediction markets versus sportsbooks",
-      "url": "https://www.marketwatch.com/story/this-super-bowl-the-game-to-watch-is-prediction-markets-versus-sportsbooks-0c674968?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "If you&#x2019;re risking money on the big game, one of these methods could be a surprising tax win.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-08T22:42:00.000Z",
-      "headline": "The NFL heads into the Super Bowl after a season of record ratings. That could make games cost more to watch in the future.",
-      "url": "https://www.marketwatch.com/story/nfl-heads-into-super-bowl-after-season-of-record-ratings-paving-way-for-tv-rights-bonanza-bb8f897c?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "The NFL hopes that Sunday&#x2019;s Super Bowl LX between the Seattle Seahawks and New England Patriots will top last year&#x2019;s record TV ratings, after a season in which the league notched its highest ratings in 36 years.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-08T23:32:00.000Z",
-      "headline": "U.S. stock futures rise after a wild week on Wall Street, ahead of key jobs and inflation reports",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-after-a-wild-week-on-wall-street-ahead-of-key-jobs-and-inflation-reports-60e29ed8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "U.S. stock index futures rose Sunday, ahead of key employment and inflation data coming later this week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-08T20:25:00.000Z",
-      "headline": "The labor market was bad last year. Will investors get stung by a poor January jobs report, too?",
-      "url": "https://www.marketwatch.com/story/the-labor-market-was-bad-last-year-will-investors-get-stung-by-a-poor-january-jobs-report-too-e641b04d?mod=mw_rss_topstories",
-      "impact": "Neutral",
+      "ts": "2026-02-09T11:11:00.000Z",
+      "headline": "Here&#x2019;s why Goldman Sachs is warning of more selling for stocks this week",
+      "url": "https://www.marketwatch.com/story/heres-why-goldman-sachs-is-warning-of-more-selling-for-stocks-this-week-94731adb?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors are on edge about the January jobs report after an anxious week on Wall Street &#x2014; but the survey is likely to tell them more about the past than the future of a fragile U.S. labor market.",
+      "summary_en": "Goldman Sachs analysts led by Gail Hafif says some big influential CTAs are ready to push the sell button on U.S. stocks, especially if the S&P 500 sinks further.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-08T23:24:00.000Z",
-      "headline": "Super Bowl LX: Seahawks QB Sam Darnold makes 1,500% more than Patriots QB Drake Maye",
-      "url": "https://www.marketwatch.com/story/super-bowl-lx-seahawks-qb-sam-darnold-makes-1-500-more-than-patriots-qb-drake-maye-9f3525bb?mod=mw_rss_topstories",
+      "ts": "2026-02-09T11:12:00.000Z",
+      "headline": "&#x2018;I&#x2019;m not made of money&#x2019;: My heating engineer didn&#x2019;t fix my radiators on his first visit. Do I pay him a second time?",
+      "url": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "INDEX/SECTOR"
+        "NEE",
+        "ED"
       ],
-      "summary_en": "Here are some other surprising facts and figures around Super Bowl LX.",
+      "summary_en": "&#x201c;He charged $180 for the second visit for his time, including $40 for the part.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-08T19:08:00.000Z",
-      "headline": "Chase cut my credit-card limit due to lower usage. Will this affect my credit score and lead other banks to do the same?",
-      "url": "https://www.marketwatch.com/story/i-didnt-find-out-until-after-it-was-done-chase-cut-my-credit-card-limit-due-to-low-usage-could-this-affect-my-credit-717075bd?mod=mw_rss_topstories",
+      "ts": "2026-02-09T11:02:00.000Z",
+      "headline": "Bad Bunny fails to produce stock market sizzle for two big European brands",
+      "url": "https://www.marketwatch.com/story/bad-bunny-fails-to-produce-stock-market-sizzle-for-two-big-european-brands-69f13648?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I&#x2019;m wondering whether this could cause a ripple effect in which other banks might do the same with my lesser-used credit cards.&#x201d;",
+      "summary_en": "In a market where sometimes tenuous links spell big moves for stocks, the Super Bowl halftime performance from Bad Bunny failed to produce coattails.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-08T18:55:00.000Z",
+      "ts": "2026-02-09T10:03:00.000Z",
+      "headline": "Billionaire Bill Gates lists 4-bedroom home outside Seattle for $4.8 million, right next door to his estate",
+      "url": "https://www.marketwatch.com/story/billionaire-bill-gates-lists-4-bedroom-home-outside-seattle-for-4-8-million-right-next-door-to-his-estate-6be26533?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bill Gates appears to be trimming back his famed Washington compound&#x2014;listing a home that sits next to his sprawling Xanadu 2.0 estate for $4.8 million.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-09T08:30:00.000Z",
+      "headline": "Hims & Hers stock poised for heavy losses after quick U-turn on plan for oral Wegovy competitor",
+      "url": "https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Hims & Hers stock tumbled in early action on Monday after the U.S. company quickly reversed plans to introduce its own version of Novo Nordisk&#x2019;s Wegovy oral weight-loss drug.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-09T10:31:00.000Z",
+      "headline": "My husband, 73, wants to sell our $300K rental and buy an annuity. Is that wise?",
+      "url": "https://www.marketwatch.com/story/my-husband-73-wants-to-sell-our-300k-rental-and-buy-an-annuity-is-that-wise-a91ec6ca?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;He believes the annuity will net $1,600 per month, the same as the rent from the house.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-09T03:17:00.000Z",
+      "headline": "After bitcoin&#x2019;s fall, pity those wildly enthusiastic investors who borrowed billions against crypto",
+      "url": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The speculation that bitcoin would hit $200,000 in 2025 now seems like a dream. Because it was.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-09T03:15:00.000Z",
+      "headline": "I settled my father&#x2019;s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?",
+      "url": "https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I understand that I must initiate probate in his state of residence.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-09T03:13:00.000Z",
       "headline": "My brother-in-law invested $30K in our California condo. It has a 3% mortgage rate. He&#x2019;s pushing me to sell. Is now a good time?",
       "url": "https://www.marketwatch.com/story/my-brother-in-law-invested-30k-in-our-california-condo-it-has-a-3-mortgage-rate-hes-pushing-me-to-sell-is-now-a-good-time-0f1ac56b?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -99,27 +111,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-08T21:02:00.000Z",
-      "headline": "This year&#x2019;s Super Bowl ads are telling you the AI bubble is about to burst",
-      "url": "https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories",
+      "ts": "2026-02-09T03:25:00.000Z",
+      "headline": "U.S. stock futures rise after a wild week on Wall Street, ahead of key jobs and inflation reports",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-after-a-wild-week-on-wall-street-ahead-of-key-jobs-and-inflation-reports-60e29ed8?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 2,
+      "confidence": 3,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Why the artificial-intelligence advertising spree could be the last hurrah &#x2014; like the dot-coms in 2000.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-08T18:59:00.000Z",
-      "headline": "My brother refuses to sell our family&#x2019;s $150K lake house, yet I pay all the bills. Do I push it and risk ruining our relationship?",
-      "url": "https://www.marketwatch.com/story/my-brother-a-corporate-lawyer-refuses-to-sell-our-familys-175k-lake-house-do-i-push-the-issue-and-risk-ruining-our-relationship-e8aaa64a?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201d;I have no intention of going back to the lake house, yet he expects me to pay for upkeep and taxes.&#x201d;",
+      "summary_en": "U.S. stock index futures rose Sunday, ahead of key employment and inflation data coming later this week.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
