@@ -1,68 +1,80 @@
 {
-  "last_updated": "2026-02-10T14:21:57.276Z",
+  "last_updated": "2026-02-10T23:52:19.425Z",
   "items": [
     {
-      "ts": "2026-02-10T13:53:00.000Z",
-      "headline": "Retail sales fizzled at the end of the holiday season, as tariffs alter Americans&#x2019; buying habits.",
-      "url": "https://www.marketwatch.com/story/retail-sales-fizzled-out-at-the-end-of-last-year-tariffs-altered-americans-buying-habits-e957fb2f?mod=mw_rss_topstories",
+      "ts": "2026-02-10T22:47:00.000Z",
+      "headline": "Mattel&#x2019;s stock sinks as weak earnings reveal a tale of two toymakers",
+      "url": "https://www.marketwatch.com/story/mattels-stock-sinks-as-weak-earnings-reveal-a-tale-of-two-toymakers-58c7b30d?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Sales at U.S retailers fizzled at the end of the holiday shopping season, suggesting consumers worried about the economy might be cutting back on spending as a new year got underway.",
+      "summary_en": "Both toymakers faced a difficult holiday season, marred by tariffs and promotions. Only one maker has Magic: The Gathering.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-10T13:23:00.000Z",
-      "headline": "BP to halt stock buybacks ahead of new CEO&#x2019;s start",
-      "url": "https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories",
+      "ts": "2026-02-10T22:36:00.000Z",
+      "headline": "Trump says he&#x2019;ll &#x2018;figure something out&#x2019; if tariffs are struck down, as Supreme Court ruling may come next week",
+      "url": "https://www.marketwatch.com/story/trump-says-hell-figure-something-out-if-tariffs-are-struck-down-as-supreme-court-ruling-may-come-next-week-5b270ba6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "President Donald Trump said he&#x2019;s ready to maintain his tariffs through other avenues, as he talked about the possibility of the Supreme Court ruling against those import taxes.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T23:07:00.000Z",
+      "headline": "Why the S&P 500 still can&#x2019;t manage to close above 7,000",
+      "url": "https://www.marketwatch.com/story/why-the-s-p-500-still-cant-manage-to-close-above-7-000-a0ed3136?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The S&P 500 on Tuesday briefly traded above its previous record close, but was hit once again by tech-related turbulence.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T22:53:00.000Z",
+      "headline": "Ford&#x2019;s rosier outlook for the year is reason for optimism on Wall Street",
+      "url": "https://www.marketwatch.com/story/fords-rosier-outlook-for-the-year-sends-stock-higher-after-earnings-eccfcbb2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Ford Motor&#x2019;s 2026 outlook gave Wall Street hope for the carmaker and trumped mixed quarterly earnings.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T21:42:00.000Z",
+      "headline": "Crypto caution weighs on Robinhood&#x2019;s sales and sinks its stock",
+      "url": "https://www.marketwatch.com/story/crypto-caution-weighs-on-robinhoods-sales-and-sinks-its-stock-ff27eac8?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of Robinhood fell in after-hours trade on Tuesday, after caution on crypto trading weighed on the trading app&#x2019;s fourth-quarter sales and the company forecast a big jump in spending for the year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T21:27:00.000Z",
+      "headline": "Lyft offers $1 billion buyback, but stock is tumbling after mixed results and outlook",
+      "url": "https://www.marketwatch.com/story/lyft-offers-1-billion-buyback-but-shares-are-tumbling-after-mixed-results-and-outlook-513f758b?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "BP said it was halting stock buybacks as the oil and gas giant said it wanted to rebuild its balance sheet.",
+      "summary_en": "CEO says Lyft will put more autonomous vehicles on the streets this year as it tries to keep up with Uber against a shaky ride-hailing and delivery backdrop.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-10T13:00:00.000Z",
-      "headline": "Hard-hit Spotify stock rallies as streaming service adds 38 million users",
-      "url": "https://www.marketwatch.com/story/hard-hit-spotify-stock-rallies-as-streaming-service-adds-28-million-users-6c72d1df?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Spotify Technology shares rallied after the streaming service recorded surprisingly strong profits and more paying customers.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T12:38:00.000Z",
-      "headline": "CVS Health&#x2019;s stock falls 3% as challenges to Medicare business come into view",
-      "url": "https://www.marketwatch.com/story/cvs-healths-turnaround-is-paying-off-amid-widespread-changes-to-health-insurance-and-retail-pharmacy-businesses-95860998?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The changes come as the wider retail-pharmacy market has been upended in recent years.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T12:34:00.000Z",
-      "headline": "Coca-Cola&#x2019;s stock falls after a rare sales miss, even as volumes and prices rose",
-      "url": "https://www.marketwatch.com/story/coca-colas-stock-falls-after-a-rare-sales-miss-even-as-volumes-and-prices-rose-0ecfae6d?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Coca-Cola&#x2019;s stock heads for biggest decline in 10 months after quarterly sales missed expectations.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T13:17:00.000Z",
+      "ts": "2026-02-10T22:08:00.000Z",
       "headline": "Why stocks have climbed even after the appearance of three Hindenburg Omens",
       "url": "https://www.marketwatch.com/story/why-stocks-have-climbed-even-after-the-appearance-of-three-hindenburg-omens-ecff5587?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -74,51 +86,40 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-10T13:15:00.000Z",
-      "headline": "Microsoft and Oracle may be bargain stocks, according to this analysis",
-      "url": "https://www.marketwatch.com/story/microsoft-and-oracle-may-be-bargain-stocks-according-to-this-analysis-57116fc3?mod=mw_rss_topstories",
+      "ts": "2026-02-10T21:51:00.000Z",
+      "headline": "The S&P 500 just accomplished a first-time feat &#x2014; and it suggests more wild swings ahead",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-just-accomplished-a-first-time-feat-and-it-suggests-more-wild-swings-ahead-909deded?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Both stocks are relatively cheap on an earnings basis. And the companies have projected revenue growth rates much higher than that of the S&P 500.",
+      "summary_en": "The start to 2026 has brought no shortage of historic developments in global markets. Investors just witnessed another one over the past week.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-10T12:41:00.000Z",
-      "headline": "What TSMC&#x2019;s latest numbers say about the AI story",
-      "url": "https://www.marketwatch.com/story/what-tsmcs-latest-numbers-say-about-the-ai-story-7b178c17?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Contract manufacturer Taiwan Semiconductor Manufacturing Co. reported huge monthly sales growth numbers for January that analysts say points to robust demand for artificial-intelligence usage.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T13:48:00.000Z",
-      "headline": "This is the analyst who has gold bugs thinking $12,000 is not only possible, it&#x2019;s the right price",
-      "url": "https://www.marketwatch.com/story/this-is-the-analyst-who-has-gold-bugs-thinking-12-000-is-not-only-possible-its-the-right-price-057b489f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Myrmikan Capital&#x2019;s Daniel Oliver says we&#x2019;re in the first phase of a massive bull market and the second could come fast.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T13:07:00.000Z",
-      "headline": "Target cuts office and warehouse jobs, shifting &#x2018;significantly more payroll&#x2019; to stores",
-      "url": "https://www.marketwatch.com/story/targets-new-ceo-wants-to-make-stores-more-welcoming-his-latest-move-is-to-cut-jobs-ff1774fd?mod=mw_rss_topstories",
+      "ts": "2026-02-10T21:13:00.000Z",
+      "headline": "The U.S. bond market is suddenly flashing a warning sign about the economy",
+      "url": "https://www.marketwatch.com/story/the-u-s-bond-market-is-suddenly-flashing-a-warning-sign-about-the-economy-c56f307b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 3,
       "affected": [
-        "INDEX/SECTOR"
+        "ED"
       ],
-      "summary_en": "Target is cutting around 500 jobs, as it tries to put money into making its stores more appealing places to shop, according to reports.",
+      "summary_en": "Tuesday&#x2019;s flat reading on December retail sales was translating into concerns that U.S. growth may not be as strong as previously presumed &#x2014; resulting in what will likely be a lower path for both interest rates and inflation this year.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T21:02:00.000Z",
+      "headline": "Why bitcoin needs to fall another 20% before it&#x2019;s even worth a look",
+      "url": "https://www.marketwatch.com/story/bitcoin-needs-to-fall-another-20-before-its-actually-a-deal-30e1d6ff?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Fair value for the cryptocurrency is currently about $55,000.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
