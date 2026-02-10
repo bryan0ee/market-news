@@ -1,8 +1,104 @@
 {
-  "last_updated": "2026-02-09T23:51:03.918Z",
+  "last_updated": "2026-02-10T11:28:19.762Z",
   "items": [
     {
-      "ts": "2026-02-09T23:10:00.000Z",
+      "ts": "2026-02-10T11:04:00.000Z",
+      "headline": "AstraZeneca CEO teases weight-loss drug candidate as profit meets target",
+      "url": "https://www.marketwatch.com/story/astrazeneca-profit-climbs-on-cancer-and-heart-drug-demand-b673c908?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The pharmaceutical giant announced profit in line with expectations and revenue that slightly beat forecasts on Tuesday.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T10:01:00.000Z",
+      "headline": "&#x2018;The Pitt&#x2019; star Katherine LaNasa buys a new, $1.9 million mansion: &#x2018;A true piece of Los Angeles history&#x2019;",
+      "url": "https://www.marketwatch.com/story/the-pitt-star-katherine-lanasa-buys-a-new-1-9-million-mansion-a-true-piece-of-los-angeles-history-00f7b6ea?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;The Pitt&#x201d; star&#xa0;Katherine LaNasa&#xa0;has become one of Hollywood&#x2019;s brightest stars since the premiere of the&#xa0;hit medical drama.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T08:05:00.000Z",
+      "headline": "BP to halt stock buybacks as profit slumps",
+      "url": "https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "BP said it was halting stock buybacks as the oil and gas giant said it wanted to rebuild its balance sheet.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T10:15:00.000Z",
+      "headline": "Should I tell my stepdaughter that my husband and I own our home 50/50 &#x2014; and that she will have to wait for her inheritance?",
+      "url": "https://www.marketwatch.com/story/should-i-tell-my-stepdaughter-that-my-husband-and-i-own-our-home-50-50-and-that-she-will-have-to-wait-for-her-inheritance-d9434b31?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;My relationship with his daughter is not good, and I am trying to mend it.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T02:02:00.000Z",
+      "headline": "&#x2018;Guests tell me I have dust bunnies&#x2019;: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?",
+      "url": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201d;I like her as a friend, but I&#x2019;m underwhelmed as a client.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T01:15:00.000Z",
+      "headline": "I settled my father&#x2019;s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?",
+      "url": "https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I understand that I must initiate probate in his state of residence.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T00:28:00.000Z",
+      "headline": "The first five years of retirement are crucial. Watch out for the &#x2018;thieves&#x2019; of retirement wealth.",
+      "url": "https://www.marketwatch.com/story/the-first-five-years-of-retirement-are-crucial-heres-how-to-make-sure-your-money-lasts-the-rest-of-your-life-dbfc1d80?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "As retirees go from getting a regular paycheck to spending their hard-earned savings, there are a few factors that can push them off course financially.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T00:26:00.000Z",
+      "headline": "A severe doctor shortage is coming. What can you do?",
+      "url": "https://www.marketwatch.com/story/what-can-you-do-if-your-doctor-retires-or-quits-d633bc9d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "There will be an estimated shortage of 40,000 primary-care doctors in 2036.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T00:08:00.000Z",
       "headline": "Alphabet&#x2019;s $20 billion bond deal may be followed by something highly unusual",
       "url": "https://www.marketwatch.com/story/alphabets-15-billion-bond-deal-may-have-a-highly-unusual-component-2aa15bee?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -11,115 +107,6 @@
         "ED"
       ],
       "summary_en": "As tech companies look to finance their hefty spending plans, they&#x2019;ve been offering bonds with longer maturities.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T23:00:00.000Z",
-      "headline": "&#x2018;I&#x2019;m not made of money&#x2019;: My heating engineer didn&#x2019;t fix my radiators on his first visit. Do I pay him a second time?",
-      "url": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;He charged $180 for the second visit for his time, including $40 for the part.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T22:29:00.000Z",
-      "headline": "My brother-in-law invested $30K in our California condo. It has a 3% mortgage rate. He&#x2019;s pushing me to sell. Is now a good time?",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-invested-30k-in-our-california-condo-it-has-a-3-mortgage-rate-hes-pushing-me-to-sell-is-now-a-good-time-0f1ac56b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;We&#x2019;re only breaking even because of rising HOA fees in this state.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T22:23:00.000Z",
-      "headline": "Why Kevin Warsh  wouldn&#x2019;t be the maverick Fed chair investors expect",
-      "url": "https://www.marketwatch.com/story/how-markets-and-the-feds-inner-circle-will-derail-kevin-warshs-interest-rate-agenda-fc767830?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "These external pressures could turn Warsh into a more conventional Fed chair than investors expect.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T23:24:00.000Z",
-      "headline": "Super Bowl winner Sam Darnold just made another $2.5 million on Sunday",
-      "url": "https://www.marketwatch.com/story/super-bowl-lx-seahawks-qb-sam-darnold-makes-1-500-more-than-patriots-qb-drake-maye-9f3525bb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Here are some other surprising facts and figures around Super Bowl LX.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T22:58:00.000Z",
-      "headline": "3 reasons why SoFi&#x2019;s stock now looks like a buy",
-      "url": "https://www.marketwatch.com/story/3-reasons-why-sofis-stock-now-looks-like-a-buy-6252d18b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Shares have been swept up in the software selloff &#x201c;with little regard for fundamentals,&#x201d; according to a newly bullish analyst.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T22:49:00.000Z",
-      "headline": "Target&#x2019;s new CEO wants to make stores more welcoming. His latest move is to cut jobs.",
-      "url": "https://www.marketwatch.com/story/targets-new-ceo-wants-to-make-stores-more-welcoming-his-latest-move-is-to-cut-jobs-ff1774fd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Target is cutting around 500 jobs, as it tries to put money into making its stores more appealing places to shop, according to reports.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T22:29:00.000Z",
-      "headline": "My husband, 73, wants to sell our $300K rental and buy an annuity. Is that wise?",
-      "url": "https://www.marketwatch.com/story/my-husband-73-wants-to-sell-our-300k-rental-and-buy-an-annuity-is-that-wise-a91ec6ca?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;He believes the annuity will net $1,600 per month, the same as the rent from the house.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T22:20:00.000Z",
-      "headline": "Microsoft&#x2019;s stock is cheaper than IBM&#x2019;s for the first time in a decade. What that says about the AI trade.",
-      "url": "https://www.marketwatch.com/story/microsofts-stock-is-cheaper-than-ibms-for-the-first-time-in-a-decade-what-that-says-about-the-ai-trade-c67b1954?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Microsoft and other hyperscalers are pouring billions of dollars into AI projects, and that&#x2019;s putting a damper on valuations",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-09T22:07:00.000Z",
-      "headline": "The stock market looks expensive &#x2014; but this chart shows why AI bubble fears in tech may be overblown",
-      "url": "https://www.marketwatch.com/story/the-stock-market-looks-expensive-but-this-chart-shows-why-ai-bubble-fears-in-tech-may-be-overblown-13f556d1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "The S&P 500&#x2019;s tech sector has seen the smallest increase of any group in its price-to-earnings ratio relative to its 10-year average, DataTrek found.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,6 +119,18 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-10T02:15:00.000Z",
+      "headline": "&#x2018;I love being debt-free&#x2019;: I&#x2019;m in my mid-50s and buying a house. Do I take out a $400K mortgage or use my Roth IRA?",
+      "url": "https://www.marketwatch.com/story/i-love-being-debt-free-im-in-my-mid-50s-and-buying-a-house-do-i-take-out-a-400k-mortgage-or-use-my-roth-ira-c1aa3ef7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I&#x2019;ll fund $500,000 of that from the sale of my current house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
