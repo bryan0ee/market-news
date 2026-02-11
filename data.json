@@ -1,125 +1,126 @@
 {
-  "last_updated": "2026-02-10T23:52:19.425Z",
+  "last_updated": "2026-02-11T11:24:36.407Z",
   "items": [
     {
-      "ts": "2026-02-10T22:47:00.000Z",
-      "headline": "Mattel&#x2019;s stock sinks as weak earnings reveal a tale of two toymakers",
-      "url": "https://www.marketwatch.com/story/mattels-stock-sinks-as-weak-earnings-reveal-a-tale-of-two-toymakers-58c7b30d?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Both toymakers faced a difficult holiday season, marred by tariffs and promotions. Only one maker has Magic: The Gathering.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T22:36:00.000Z",
-      "headline": "Trump says he&#x2019;ll &#x2018;figure something out&#x2019; if tariffs are struck down, as Supreme Court ruling may come next week",
-      "url": "https://www.marketwatch.com/story/trump-says-hell-figure-something-out-if-tariffs-are-struck-down-as-supreme-court-ruling-may-come-next-week-5b270ba6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "President Donald Trump said he&#x2019;s ready to maintain his tariffs through other avenues, as he talked about the possibility of the Supreme Court ruling against those import taxes.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T23:07:00.000Z",
-      "headline": "Why the S&P 500 still can&#x2019;t manage to close above 7,000",
-      "url": "https://www.marketwatch.com/story/why-the-s-p-500-still-cant-manage-to-close-above-7-000-a0ed3136?mod=mw_rss_topstories",
+      "ts": "2026-02-11T11:13:00.000Z",
+      "headline": "Gold and silver are rallying again ahead of payrolls report",
+      "url": "https://www.marketwatch.com/story/gold-and-silver-are-rallying-again-ahead-of-payrolls-report-11c12a2b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The S&P 500 on Tuesday briefly traded above its previous record close, but was hit once again by tech-related turbulence.",
+      "summary_en": "Gold and silver futures each rallied on Wednesday, with investors assessing the likelihood of Federal Reserve rate cuts as well as geopolitical tensions.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-10T22:53:00.000Z",
-      "headline": "Ford&#x2019;s rosier outlook for the year is reason for optimism on Wall Street",
-      "url": "https://www.marketwatch.com/story/fords-rosier-outlook-for-the-year-sends-stock-higher-after-earnings-eccfcbb2?mod=mw_rss_topstories",
+      "ts": "2026-02-11T10:53:00.000Z",
+      "headline": "Crude moves higher as Netanyahu visits Washington",
+      "url": "https://www.marketwatch.com/story/crude-moves-higher-as-netanyahu-visits-washington-d9ff180e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Ford Motor&#x2019;s 2026 outlook gave Wall Street hope for the carmaker and trumped mixed quarterly earnings.",
+      "summary_en": "Crude oil futures rose on Wednesday, extending a move off lows as traders assess the likelihood the U.S. will attack oil producer Iran as well as the impact of India shying away from Russian oil.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-10T21:42:00.000Z",
-      "headline": "Crypto caution weighs on Robinhood&#x2019;s sales and sinks its stock",
-      "url": "https://www.marketwatch.com/story/crypto-caution-weighs-on-robinhoods-sales-and-sinks-its-stock-ff27eac8?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of Robinhood fell in after-hours trade on Tuesday, after caution on crypto trading weighed on the trading app&#x2019;s fourth-quarter sales and the company forecast a big jump in spending for the year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T21:27:00.000Z",
-      "headline": "Lyft offers $1 billion buyback, but stock is tumbling after mixed results and outlook",
-      "url": "https://www.marketwatch.com/story/lyft-offers-1-billion-buyback-but-shares-are-tumbling-after-mixed-results-and-outlook-513f758b?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "CEO says Lyft will put more autonomous vehicles on the streets this year as it tries to keep up with Uber against a shaky ride-hailing and delivery backdrop.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T22:08:00.000Z",
-      "headline": "Why stocks have climbed even after the appearance of three Hindenburg Omens",
-      "url": "https://www.marketwatch.com/story/why-stocks-have-climbed-even-after-the-appearance-of-three-hindenburg-omens-ecff5587?mod=mw_rss_topstories",
+      "ts": "2026-02-11T10:24:00.000Z",
+      "headline": "The sell-off in AI losers has been so steep that this famed activist investor has reportedly sprung into action",
+      "url": "https://www.marketwatch.com/story/the-sell-off-in-ai-losers-has-been-so-steep-that-this-famed-activist-investor-has-reportedly-sprung-into-action-c100732b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The dreaded bear-market predictor isn&#x2019;t so ominous, after all.",
+      "summary_en": "Fears of disruption from Anthropic&#x2019;s Claude plug-ins have severely dented the share prices of data and software companies in 2026",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-10T21:51:00.000Z",
-      "headline": "The S&P 500 just accomplished a first-time feat &#x2014; and it suggests more wild swings ahead",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-just-accomplished-a-first-time-feat-and-it-suggests-more-wild-swings-ahead-909deded?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The start to 2026 has brought no shortage of historic developments in global markets. Investors just witnessed another one over the past week.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T21:13:00.000Z",
-      "headline": "The U.S. bond market is suddenly flashing a warning sign about the economy",
-      "url": "https://www.marketwatch.com/story/the-u-s-bond-market-is-suddenly-flashing-a-warning-sign-about-the-economy-c56f307b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Tuesday&#x2019;s flat reading on December retail sales was translating into concerns that U.S. growth may not be as strong as previously presumed &#x2014; resulting in what will likely be a lower path for both interest rates and inflation this year.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-10T21:02:00.000Z",
-      "headline": "Why bitcoin needs to fall another 20% before it&#x2019;s even worth a look",
-      "url": "https://www.marketwatch.com/story/bitcoin-needs-to-fall-another-20-before-its-actually-a-deal-30e1d6ff?mod=mw_rss_topstories",
+      "ts": "2026-02-11T10:15:00.000Z",
+      "headline": "&#x2018;She is planning to move out of state&#x2019;: My sister secretly sold our elderly mother&#x2019;s house. What can I do?",
+      "url": "https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "Fair value for the cryptocurrency is currently about $55,000.",
+      "summary_en": "&#x201c;She claims that she needs to have those funds available for when our mother eventually requires nursing-home care.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T10:04:00.000Z",
+      "headline": "Actress Jennifer Esposito on mortgaging her home in her effort to finance her film, &#x2018;Fresh Kills&#x2019;",
+      "url": "https://www.marketwatch.com/story/actress-jennifer-esposito-on-mortgaging-her-home-in-her-effort-to-finance-her-film-fresh-kills-a258f9aa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Actress Jennifer Esposito was reduced to tears as she revealed that she was forced to move from the home she mortgaged to get her film &#x201c;Fresh Kills&#x201d; across the finish line.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T09:02:00.000Z",
+      "headline": "Nvidia&#x2019;s Jensen Huang loves this software maker that just issued a crippling profit warning",
+      "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-loves-this-software-maker-that-just-issued-a-crippling-profit-warning-57f778b9?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Dassault Systemes, a software company that Nvidia&#x2019;s Jensen Huang says is at the center of the next industrial frontier of AI, saw its shares losing a fifth of its value after a profit warning.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T09:41:00.000Z",
+      "headline": "Bitcoin&#x2019;s getting slammed again as number-one cryptocurrency loses nearly $2,000",
+      "url": "https://www.marketwatch.com/story/bitcoins-getting-slammed-again-as-number-one-cryptocurrency-loses-nearly-2-000-b5c1cb45?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Bitcoin was getting hammered on Wednesday, with the leading cryptocurrency shedding nearly $2,000 of value.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T11:00:00.000Z",
+      "headline": "These brain exercises could cut your dementia risk by 20% over 20 years",
+      "url": "https://www.marketwatch.com/story/these-brain-exercises-could-cut-your-dementia-risk-by-20-over-20-years-9a4d4a4a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "We&#x2019;re winning the fight against dementia, one battle at a time.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T02:46:00.000Z",
+      "headline": "My brother-in-law invested $30K in our California condo. It has a 3% mortgage rate. He&#x2019;s pushing me to sell. Is now a good time?",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-invested-30k-in-our-california-condo-it-has-a-3-mortgage-rate-hes-pushing-me-to-sell-is-now-a-good-time-0f1ac56b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We&#x2019;re only breaking even because of rising HOA fees in this state.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T02:20:00.000Z",
+      "headline": "&#x2018;I&#x2019;m not made of money&#x2019;: My heating engineer didn&#x2019;t fix my radiators on his first visit. Do I pay him a second time?",
+      "url": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;He charged $180 for the second visit for his time, including $40 for the part.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
