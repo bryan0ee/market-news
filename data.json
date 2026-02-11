@@ -1,126 +1,124 @@
 {
-  "last_updated": "2026-02-11T11:24:36.407Z",
+  "last_updated": "2026-02-11T14:16:38.161Z",
   "items": [
     {
-      "ts": "2026-02-11T11:13:00.000Z",
-      "headline": "Gold and silver are rallying again ahead of payrolls report",
-      "url": "https://www.marketwatch.com/story/gold-and-silver-are-rallying-again-ahead-of-payrolls-report-11c12a2b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Gold and silver futures each rallied on Wednesday, with investors assessing the likelihood of Federal Reserve rate cuts as well as geopolitical tensions.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-11T10:53:00.000Z",
-      "headline": "Crude moves higher as Netanyahu visits Washington",
-      "url": "https://www.marketwatch.com/story/crude-moves-higher-as-netanyahu-visits-washington-d9ff180e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Crude oil futures rose on Wednesday, extending a move off lows as traders assess the likelihood the U.S. will attack oil producer Iran as well as the impact of India shying away from Russian oil.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-11T10:24:00.000Z",
-      "headline": "The sell-off in AI losers has been so steep that this famed activist investor has reportedly sprung into action",
-      "url": "https://www.marketwatch.com/story/the-sell-off-in-ai-losers-has-been-so-steep-that-this-famed-activist-investor-has-reportedly-sprung-into-action-c100732b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Fears of disruption from Anthropic&#x2019;s Claude plug-ins have severely dented the share prices of data and software companies in 2026",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-11T10:15:00.000Z",
-      "headline": "&#x2018;She is planning to move out of state&#x2019;: My sister secretly sold our elderly mother&#x2019;s house. What can I do?",
-      "url": "https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;She claims that she needs to have those funds available for when our mother eventually requires nursing-home care.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-11T10:04:00.000Z",
-      "headline": "Actress Jennifer Esposito on mortgaging her home in her effort to finance her film, &#x2018;Fresh Kills&#x2019;",
-      "url": "https://www.marketwatch.com/story/actress-jennifer-esposito-on-mortgaging-her-home-in-her-effort-to-finance-her-film-fresh-kills-a258f9aa?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Actress Jennifer Esposito was reduced to tears as she revealed that she was forced to move from the home she mortgaged to get her film &#x201c;Fresh Kills&#x201d; across the finish line.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-11T09:02:00.000Z",
-      "headline": "Nvidia&#x2019;s Jensen Huang loves this software maker that just issued a crippling profit warning",
-      "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-loves-this-software-maker-that-just-issued-a-crippling-profit-warning-57f778b9?mod=mw_rss_topstories",
+      "ts": "2026-02-11T13:25:00.000Z",
+      "headline": "Kraft Heinz puts separation plans on hold so it can focus on fixing these problems",
+      "url": "https://www.marketwatch.com/story/kraft-heinz-puts-separation-plans-on-hold-so-it-can-focus-on-fixing-these-problems-e07bd468?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Dassault Systemes, a software company that Nvidia&#x2019;s Jensen Huang says is at the center of the next industrial frontier of AI, saw its shares losing a fifth of its value after a profit warning.",
+      "summary_en": "Kraft Heinz&#x2019;s stock falls as sales again disappointed, particularly in North America.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-11T09:41:00.000Z",
-      "headline": "Bitcoin&#x2019;s getting slammed again as number-one cryptocurrency loses nearly $2,000",
-      "url": "https://www.marketwatch.com/story/bitcoins-getting-slammed-again-as-number-one-cryptocurrency-loses-nearly-2-000-b5c1cb45?mod=mw_rss_topstories",
+      "ts": "2026-02-11T13:59:00.000Z",
+      "headline": "Taking the new Wegovy pill every day is really complicated. Will patients stick with it?",
+      "url": "https://www.marketwatch.com/story/taking-the-new-wegovy-pill-every-day-is-really-complicated-will-patients-stick-with-it-280d24f6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Bitcoin was getting hammered on Wednesday, with the leading cryptocurrency shedding nearly $2,000 of value.",
+      "summary_en": "&#x2018;It&#x2019;s not an easy pill to take&#x2019;: The first highly anticipated GLP-1 pill is here, but physicians aren&#x2019;t sure it has the staying power of the injections",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-11T11:00:00.000Z",
-      "headline": "These brain exercises could cut your dementia risk by 20% over 20 years",
-      "url": "https://www.marketwatch.com/story/these-brain-exercises-could-cut-your-dementia-risk-by-20-over-20-years-9a4d4a4a?mod=mw_rss_topstories",
+      "ts": "2026-02-11T13:59:00.000Z",
+      "headline": "Morgan Stanley just pored through 3,600 stocks and says these are the best opportunities from the AI shakeout",
+      "url": "https://www.marketwatch.com/story/morgan-stanley-just-poured-through-3-600-stocks-and-says-these-are-the-best-opportunities-from-the-ai-shakeout-ccb8975a?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Morgan Stanley strategists offer criteria on how to find the AI winners, saying the market is starting to demand proof of return on equity.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T13:25:00.000Z",
+      "headline": "Bank of America&#x2019;s internal data show the middle class is now feeling the pain of the K-shaped economy",
+      "url": "https://www.marketwatch.com/story/bank-of-americas-internal-data-show-the-middle-class-is-now-feeling-the-pain-of-the-k-shaped-economy-e84daee2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tuesday&#x2019;s lackluster retail sales report alarmed some on Wall Street about the state of the economy, and Bank of America&#x2019;s own internal data might be even more concerning.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T13:00:00.000Z",
+      "headline": "The great &#x2018;shrinkflation&#x2019; of housing in America: What $500,000 buys today vs. what it bought in 2019",
+      "url": "https://www.marketwatch.com/story/the-great-shrinkflation-of-housing-in-america-what-500-000-buys-today-vs-what-it-bought-in-2019-3d3deece?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "COST"
+      ],
+      "summary_en": "In 2019, $500,000 was more than enough to buy a single-family home in much of the U.S. Today, that amount only covers the cost of a condo at best in some cities.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T12:41:00.000Z",
+      "headline": "I&#x2019;m trying to fix my relationship with my stepdaughter. Should my husband and I tell her how we have divided our assets?",
+      "url": "https://www.marketwatch.com/story/should-i-tell-my-stepdaughter-that-my-husband-and-i-own-our-home-50-50-and-that-she-will-have-to-wait-for-her-inheritance-d9434b31?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;We bought a house outright for $500,000. We each contributed $250,000.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T13:58:00.000Z",
+      "headline": "T-Mobile sees huge boom in phone subscribers, but here&#x2019;s why the stock is falling",
+      "url": "https://www.marketwatch.com/story/t-mobile-sees-huge-boom-in-phone-subscribers-but-heres-why-the-stock-is-falling-ae9c445d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "We&#x2019;re winning the fight against dementia, one battle at a time.",
+      "summary_en": "Investors were looking for more from the wireless carrier when it came to subscriber growth and profit.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-11T02:46:00.000Z",
-      "headline": "My brother-in-law invested $30K in our California condo. It has a 3% mortgage rate. He&#x2019;s pushing me to sell. Is now a good time?",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-invested-30k-in-our-california-condo-it-has-a-3-mortgage-rate-hes-pushing-me-to-sell-is-now-a-good-time-0f1ac56b?mod=mw_rss_topstories",
+      "ts": "2026-02-11T13:41:00.000Z",
+      "headline": "My husband, 73, wants to sell our $300K rental and buy an annuity. Is that wise?",
+      "url": "https://www.marketwatch.com/story/my-husband-73-wants-to-sell-our-300k-rental-and-buy-an-annuity-is-that-wise-a91ec6ca?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;We&#x2019;re only breaking even because of rising HOA fees in this state.&#x201d;",
+      "summary_en": "&#x201c;He believes the annuity will net $1,600 per month, the same as the rent from the house.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-11T02:20:00.000Z",
-      "headline": "&#x2018;I&#x2019;m not made of money&#x2019;: My heating engineer didn&#x2019;t fix my radiators on his first visit. Do I pay him a second time?",
-      "url": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
+      "ts": "2026-02-11T13:00:00.000Z",
+      "headline": "Chipotle CEO doubles down on not offering value meals, says &#x2018;our food is worth &#x2026; every penny&#x2019;",
+      "url": "https://www.marketwatch.com/story/chipotle-ceo-doubles-down-on-not-offering-value-meals-says-our-food-is-worth-every-penny-96f3cbbd?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "NEE",
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;He charged $180 for the second visit for his time, including $40 for the part.&#x201d;",
+      "summary_en": "The fast-casual chain isn&#x2019;t looking to compete with the likes of McDonald&#x2019;s when it comes to bargain pricing",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-11T11:41:00.000Z",
+      "headline": "&#x2018;I feel the clock ticking&#x2019;: My wife and I are in our 60s &#x2014; and employ 48 people in a small town. Can we ever retire?",
+      "url": "https://www.marketwatch.com/story/i-feel-the-clock-ticking-my-wife-and-i-are-in-our-60s-and-employ-48-people-in-a-small-town-can-we-ever-retire-2399ba41?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We could survive financially, but my people would not.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
