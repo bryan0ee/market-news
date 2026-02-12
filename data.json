@@ -1,124 +1,126 @@
 {
-  "last_updated": "2026-02-12T11:12:32.156Z",
+  "last_updated": "2026-02-12T14:12:14.336Z",
   "items": [
     {
-      "ts": "2026-02-12T11:00:00.000Z",
-      "headline": "I&#x2019;m being forced into a Roth 401(k). Is there anything I can do?",
-      "url": "https://www.marketwatch.com/story/im-being-forced-into-a-roth-401-k-is-there-anything-i-can-do-81a6848d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-12T13:48:00.000Z",
+      "headline": "The latest jobs report is bad news if you&#x2019;re looking for work &#x2014; except in these fields",
+      "url": "https://www.marketwatch.com/story/the-latest-jobs-report-is-bad-news-if-youre-looking-for-work-except-in-these-fields-e20d78c9?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "High earners have to pay tax on their catch-up 401(k) contributions and deposit them into workplace Roth accounts.",
+      "summary_en": "January&#x2019;s jobs report easily surpassed Wall Street expectations, giving a temporary boost to stocks Wednesday &#x2014; but it was downbeat data for many Americans who are unemployed and looking for work.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T10:47:00.000Z",
-      "headline": "Siemens boosts outlook as AI orders pour in and its software business defies gloom",
-      "url": "https://www.marketwatch.com/story/siemens-boosts-outlook-as-ai-orders-pour-in-and-its-software-business-defies-gloom-e4141bf5?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-12T13:12:00.000Z",
+      "headline": "China is hacking the tariff system by investing in U.S. firms &#x2014; while American taxpayers foot the bill",
+      "url": "https://www.marketwatch.com/story/china-is-hacking-the-tariff-system-by-investing-in-u-s-firms-while-american-taxpayers-foot-the-bill-07f3eb97?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Siemens, Germany&#x2019;s largest industrial that builds the power distribution systems and cooling systems that are required for state-of-the-art data centers, on Thursday lifted its profit outlook.",
+      "summary_en": "The U.S. Treasury can and should prevent Chinese-linked firms from accessing U.S. tech subsidies.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T10:15:00.000Z",
-      "headline": "&#x2018;I&#x2019;m a loner&#x2019;: I&#x2019;m 62 with a multimillion-dollar portfolio and no heirs. Should I find a wife for my twilight years?",
-      "url": "https://www.marketwatch.com/story/im-a-loner-im-62-with-a-multimillion-dollar-portfolio-and-no-heirs-should-i-find-a-wife-for-my-twilight-years-4f4f4408?mod=mw_rss_topstories",
+      "ts": "2026-02-12T14:10:00.000Z",
+      "headline": "Harley-Davidson&#x2019;s debt may be on the verge of junk status",
+      "url": "https://www.marketwatch.com/story/this-iconic-american-brands-debt-may-be-on-the-verge-of-junk-status-39d47274?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;I have never been married, have no siblings, and both my parents have passed away.&#x201d;",
+      "summary_en": "A day after Harley-Davidson reported weaker quarterly earnings, the famed motorcycle maker got a warning that its debt ratings may be cut to junk by spring.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T10:04:00.000Z",
-      "headline": "Racing legend Hurley Haywood lists his home in St. Augustine, Florida, for $5.2 million",
-      "url": "https://www.marketwatch.com/story/racing-legend-hurley-haywood-lists-his-home-in-st-augustine-florida-for-5-2-million-79df9fca?mod=mw_rss_topstories",
+      "ts": "2026-02-12T13:59:00.000Z",
+      "headline": "&#x2018;I&#x2019;m not made of money&#x2019;: My heating engineer didn&#x2019;t fix my radiators on his first visit. Do I pay him a second time?",
+      "url": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "Former race car driver&#xa0;Hurley Haywood&#xa0;is offloading his sprawling&#xa0;Florida&#xa0;mansion for $5.2 million, more than a decade after he retired to the Sunshine State property.",
+      "summary_en": "&#x201c;He charged $180 for the second visit for his time, including $40 for the part.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T10:00:00.000Z",
-      "headline": "Scared to invest in emerging-market bonds? If you hold U.S. Treasurys, then you already do.",
-      "url": "https://www.marketwatch.com/story/scared-to-invest-in-emerging-market-bonds-if-you-hold-u-s-treasurys-then-you-already-do-aa0803a6?mod=mw_rss_topstories",
+      "ts": "2026-02-12T13:37:00.000Z",
+      "headline": "The smartest AI trade right now is in molecules and powders, says the research firm known for nailing trends early",
+      "url": "https://www.marketwatch.com/story/the-smartest-ai-trade-right-now-is-in-molecules-and-powders-says-the-research-firm-known-for-nailing-trends-early-d36d6ff2?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "The biggest difference these days between U.S. Treasurys and official emerging-market bonds is that Treasurys pay you a lot less interest.",
+      "summary_en": "Citrini Research says dig deep into the molecules that both AI and traditional industries need and stop focusing on software.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T09:35:00.000Z",
-      "headline": "Currency strategist who incurred Bessent&#x2019;s wrath exposes safe-haven myth of the dollar",
-      "url": "https://www.marketwatch.com/story/currency-strategist-who-incurred-bessents-wrath-exposes-safe-haven-myth-of-the-dollar-b4e1125d?mod=mw_rss_topstories",
+      "ts": "2026-02-12T13:00:00.000Z",
+      "headline": "Trapped in a debt cycle from apps offering quick cash before payday? This loophole can get you out.",
+      "url": "https://www.marketwatch.com/story/trapped-in-a-debt-cycle-from-apps-offering-quick-cash-before-payday-this-loophole-can-get-you-out-426844da?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Deutsche Bank strategist who last month provoked the ire of Treasury Secretary Scott Bessent now says the dollar&#x2019;s safe-haven status is a myth.",
+      "summary_en": "Because they aren&#x2019;t technically lenders, these apps don&#x2019;t charge traditional interest.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T09:19:00.000Z",
-      "headline": "SoftBank says it made $4.2 billion from its OpenAI investment in the last quarter",
-      "url": "https://www.marketwatch.com/story/softbank-says-it-made-4-2-billion-from-its-openai-investment-in-the-last-quarter-27988734?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-12T13:55:00.000Z",
+      "headline": "It&#x2019;s still a &#x2018;low fire&#x2019; jobs market. Jobless claims stay low and unemployment falls early in the new year.",
+      "url": "https://www.marketwatch.com/story/its-still-a-low-fire-jobs-market-jobless-claims-stay-low-and-unemployment-falls-early-in-the-new-year-d8244970?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "SoftBank, the Japanese tech investor that has aggressively spent pursuing what it calls &#x201c;artificial super intelligence,&#x201d; said its recorded a $4.2 billion gain in the last quarter on its 11% stake in OpenAI.",
+      "summary_en": "Businesses aren&#x2019;t hiring much, but they&#x2019;re not resorting to big layoffs, either",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T08:50:00.000Z",
-      "headline": "One of Europe&#x2019;s few growth stocks falters on disappointing outlook",
-      "url": "https://www.marketwatch.com/story/one-of-europes-few-growth-stocks-falters-on-disappointing-outlook-68d911f3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-12T13:52:00.000Z",
+      "headline": "Crocs shoes are in high demand &#x2014; in international markets, if not in North America",
+      "url": "https://www.marketwatch.com/story/crocss-stock-soars-as-sales-return-to-growth-over-the-holidays-on-strong-overseas-demand-c42e0269?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Shares of Adyen, one of Europe&#x2019;s few high-growth tech stocks, slumped on Wednesday after outlining revenue growth that disappointed investors and forecasting steady margins.",
+      "summary_en": "Crocs&#x2019;s overall sales fell, but beat expectations by a wide margin, as strength in the Crocs brand and internationally offset HeyDude weakness.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T08:26:00.000Z",
-      "headline": "A 222-year-old U.K. firm to fall into American hands as Nuveen to buy Schroders for $14 billion",
-      "url": "https://www.marketwatch.com/story/a-222-year-old-u-k-firm-to-fall-into-american-hands-as-nuveen-to-buy-schroders-for-14-billion-f49f56cc?mod=mw_rss_topstories",
+      "ts": "2026-02-12T13:05:00.000Z",
+      "headline": "These 32 favorite stocks signal the bull market is running on fumes",
+      "url": "https://www.marketwatch.com/story/these-32-favorite-stocks-signal-the-bull-market-is-running-on-fumes-60b18b69?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "A venerable City of London institution is being snapped up by a U.S. asset manager in a nearly $14 billion deal that comes amid growing fears that AI will severely disrupt the finance sector.",
+      "summary_en": "The S&P 500 sectors that top investment newsletters currently like most are strongest at market peaks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T03:44:00.000Z",
-      "headline": "20 stocks of companies that delivered a double dose of growth this earnings season",
-      "url": "https://www.marketwatch.com/story/20-stocks-of-companies-that-delivered-a-double-dose-of-growth-this-earnings-season-7b343b8b?mod=mw_rss_topstories",
+      "ts": "2026-02-12T12:55:00.000Z",
+      "headline": "Big Warner Bros. shareholders are getting restless in this Paramount-Netflix bidding war",
+      "url": "https://www.marketwatch.com/story/big-warner-bros-shareholders-are-getting-restless-in-this-paramount-netflix-bidding-war-3491dab8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "Companies in the S&P 500 achieving double-digit sales growth while improving profit margins include Palantir, Micron, Boeing and Alphabet.",
+      "summary_en": "Institutional owners of Warner Bros. shares might jump ship as Paramount ups the ante.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
