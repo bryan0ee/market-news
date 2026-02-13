@@ -1,124 +1,127 @@
 {
-  "last_updated": "2026-02-13T14:03:32.634Z",
+  "last_updated": "2026-02-13T23:41:57.429Z",
   "items": [
     {
-      "ts": "2026-02-13T13:52:00.000Z",
-      "headline": "&#x2018;At first I laughed.&#x2019; More couples are gifting practical things like vacuum cleaners this Valentine&#x2019;s Day.",
-      "url": "https://www.marketwatch.com/story/at-first-i-laughed-more-couples-are-gifting-practical-things-like-vacuum-cleaners-this-valentines-day-560128ee?mod=mw_rss_topstories",
+      "ts": "2026-02-13T22:14:00.000Z",
+      "headline": "Amazon&#x2019;s stock just clinched its worst losing streak in nearly 20 years. It&#x2019;s giving investors AWS d&#xe9;j&#xe0; vu.",
+      "url": "https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "It may sound decidedly less-than-special, but the idea of gifting something practical for the Feb. 14 holiday appears to be catching on",
+      "summary_en": "As shares of Amazon deepen into a bear market, investors are once again weighing if the company&#x2019;s spending plans will pay off.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-13T13:35:00.000Z",
-      "headline": "The &#x2018;golden age&#x2019; of aero engines is just getting started. These are the stocks to play, says JPMorgan.",
-      "url": "https://www.marketwatch.com/story/the-golden-age-of-aero-engines-is-just-getting-started-these-are-the-stocks-to-play-says-jpmorgan-5e2d2a39?mod=mw_rss_topstories",
+      "ts": "2026-02-13T21:06:00.000Z",
+      "headline": "Steel stocks fall as they get a taste of the &#x2018;TACO trade&#x2019;",
+      "url": "https://www.marketwatch.com/story/steel-stocks-are-falling-as-they-get-a-taste-of-the-taco-trade-d0afcf92?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Steel stocks fell after an FT report that President Donald Trump is softening his stance on tariffs, but pared losses after government officials denied changes were in the works.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-13T22:04:00.000Z",
+      "headline": "&#x2018;You&#x2019;re a line item on a spreadsheet.&#x2019; The case for why you don&#x2019;t need to love your job.",
+      "url": "https://www.marketwatch.com/story/hate-your-job-good-loving-your-job-costs-people-real-money-d2f1e5d5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Complacent high earners may be making tens of thousands of dollars less each year than they could be making elsewhere.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-13T21:35:00.000Z",
+      "headline": "Investors see hope in the economy despite AI fears igniting a turbulent week for markets",
+      "url": "https://www.marketwatch.com/story/investors-see-hope-in-the-economy-despite-ai-fears-igniting-a-turbulent-week-for-markets-4b27e019?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Investors wrapped up an unusual week in the stock market, with surprisingly strong job gains for January and an easing annual rate of consumer-price inflation offset by jitters about artificial intelligence&#x2019;s capacity to destroy industries.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-13T21:30:00.000Z",
+      "headline": "Trump&#x2019;s affordability agenda has a car problem it needs to fix",
+      "url": "https://www.marketwatch.com/story/trumps-affordability-agenda-has-a-car-problem-it-needs-to-fix-692935fa?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Americans had an auto-dealer transparency law that could have saved them $3.4 billion. An appeals court struck it down.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-13T21:28:00.000Z",
+      "headline": "S&P 500&#x2019;s failed breakouts signal a darkening technical cloud",
+      "url": "https://www.marketwatch.com/story/these-are-high-probability-options-trades-for-next-weeks-busy-earnings-crush-32b47d47?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "JPMorgan says aero engines is a hot sector and not about to go away, with GE Aerospace among its picks.",
+      "summary_en": "Plus: Akamai, DoorDash and Alibaba are must-watch trades in a busy earnings calendar.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-13T13:29:00.000Z",
-      "headline": "I&#x2019;m trying to fix my relationship with my stepdaughter. Should my husband and I tell her how we have divided our assets?",
-      "url": "https://www.marketwatch.com/story/should-i-tell-my-stepdaughter-that-my-husband-and-i-own-our-home-50-50-and-that-she-will-have-to-wait-for-her-inheritance-d9434b31?mod=mw_rss_topstories",
+      "ts": "2026-02-13T21:18:00.000Z",
+      "headline": "Tempted to use buy-now-pay-later to split your rent payments? Watch out for these fees.",
+      "url": "https://www.marketwatch.com/story/tempted-to-use-buy-now-pay-later-to-split-your-rent-payments-watch-out-for-these-fees-8849433a?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "&#x201c;We bought a house outright for $500,000. We each contributed $250,000.&#x201d;",
+      "summary_en": "Want to pay rent in two installments instead of one? The fine print can make &#x201c;0% interest&#x201d; costlier than it sounds.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-13T13:14:00.000Z",
-      "headline": "&#x2018;We have no prenup&#x2019;: I want rights of survivorship in our marital home. My wife prefers tenants in common. Now what?",
-      "url": "https://www.marketwatch.com/story/we-have-no-prenup-i-want-rights-of-survivorship-in-our-marital-home-my-wife-prefers-tenants-in-common-now-what-996cf652?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She is an old-school farm girl who inherited all her money and wants to pass it down to her children.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-13T13:01:00.000Z",
-      "headline": "The weirdest way to play Claude maker Anthropic is rallying again after funding round",
-      "url": "https://www.marketwatch.com/story/the-weirdest-way-to-play-claude-maker-anthropic-is-rallying-again-after-funding-round-380e0090?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A $30 billion funding round by Anthropic, maker of the popular Claude large language model, led to gains for a far-flung investor in premarket trade on Friday.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-13T12:57:00.000Z",
-      "headline": "Wendy&#x2019;s sales keep getting worse, as the stock sinks toward a 13-year low",
-      "url": "https://www.marketwatch.com/story/wendys-sales-keep-getting-worse-as-the-stock-sinks-toward-a-13-year-low-f1fb0976?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The burger chain beat quarterly earnings expectations, but a key metric was even worse than feared.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-13T11:58:00.000Z",
-      "headline": "Pinned down by AI: Why 619 million users may not be able to rescue Pinterest",
-      "url": "https://www.marketwatch.com/story/pinterest-shares-are-sinking-the-ai-risk-is-now-one-analyst-says-03c5235b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Pinterest shares are tumbling after a disappointing revenue outlook and quarterly growth, as some analysts can&#x2019;t shake their AI disruption concerns.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-13T11:50:00.000Z",
-      "headline": "Airbnb expects a continued travel rebound this year, as it banks on new services",
-      "url": "https://www.marketwatch.com/story/airbnb-expects-a-continued-travel-rebound-this-year-as-it-banks-on-new-services-1fe641f3?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The vacation-rental platform is also moving deeper into an industry it once sought to disrupt &#x2014; hotels.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-13T13:36:00.000Z",
-      "headline": "It&#x2019;s been a software horror show.  Here&#x2019;s why it could get even scarier, according to Citi.",
-      "url": "https://www.marketwatch.com/story/its-been-a-software-horror-show-heres-why-it-could-get-even-scarier-according-to-citi-9495bd24?mod=mw_rss_topstories",
+      "ts": "2026-02-13T22:03:00.000Z",
+      "headline": "These 32 favorite stocks signal the bull market is running on fumes",
+      "url": "https://www.marketwatch.com/story/these-32-favorite-stocks-signal-the-bull-market-is-running-on-fumes-60b18b69?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A short term bounce may be due for software, but longer term problems remain",
+      "summary_en": "The S&P 500 sectors that top investment newsletters currently like most are strongest at market peaks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-13T11:53:00.000Z",
-      "headline": "Key themes from AI adoption to protein demand are suddenly lining up for European stocks",
-      "url": "https://www.marketwatch.com/story/key-themes-from-ai-adoption-to-protein-demand-are-suddenly-lining-up-for-european-stocks-0041f735?mod=mw_rss_topstories",
+      "ts": "2026-02-13T21:58:00.000Z",
+      "headline": "The Dow transports&#x2019; steep takeoff isn&#x2019;t the green light you&#x2019;re told it is",
+      "url": "https://www.marketwatch.com/story/what-wall-street-bulls-are-getting-wrong-about-the-dow-transports-steep-takeoff-549c6694?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Morgan Stanley identifies energy, AI dispersion, societal changes and multipolarity as four key themes all of which may accelerate investment flows away from the U.S. and toward Europe,",
+      "summary_en": "The S&P 500 does better when the Dow industrials outperform the Dow transports.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-13T21:37:00.000Z",
+      "headline": "Big Warner Bros. shareholders are losing patience with the Paramount-Netflix bidding war",
+      "url": "https://www.marketwatch.com/story/big-warner-bros-shareholders-are-getting-restless-in-this-paramount-netflix-bidding-war-3491dab8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Institutional owners of Warner Bros. shares might jump ship as Paramount ups the ante.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
