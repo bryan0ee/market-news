@@ -1,101 +1,125 @@
 {
-  "last_updated": "2026-02-12T23:43:00.829Z",
+  "last_updated": "2026-02-13T11:08:35.161Z",
   "items": [
     {
-      "ts": "2026-02-12T23:36:00.000Z",
-      "headline": "DraftKings&#x2019; stock sinks as investors balk at the high cost of a push into prediction markets",
-      "url": "https://www.marketwatch.com/story/draftkings-stock-sinks-as-investors-balk-at-the-high-cost-of-a-push-into-prediction-markets-79bb7fc2?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-02-13T10:30:00.000Z",
+      "headline": "&#x2018;My mom was very upset&#x2019;: My stepsister changed the address on our mother&#x2019;s bank account. Can she be trusted as executor?",
+      "url": "https://www.marketwatch.com/story/my-mom-was-very-upset-my-stepsister-changed-the-address-on-our-mothers-bank-account-can-she-be-trusted-as-executor-dab23670?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;It&#x2019;s things like this that make me wonder what else she might be doing.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-13T10:28:00.000Z",
+      "headline": "My elderly mother has dementia. My sister sold her house and has hidden the proceeds. What can we do?",
+      "url": "https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My sister is planning to move out of state and feels it is her right to control the money.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-13T10:01:00.000Z",
+      "headline": "Actor Justin Baldoni lists $8.9 million Ojai estate as legal battle with Blake Lively continues",
+      "url": "https://www.marketwatch.com/story/actor-justin-baldoni-lists-8-9-million-ojai-estate-as-legal-battle-with-blake-lively-continues-404763e7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED",
         "COST"
       ],
-      "summary_en": "The sports-betting company sees &#x201c;a massive, incremental opportunity&#x201d; in the hot world of prediction markets.",
+      "summary_en": "Beleaguered actor Justin Baldoni has quietly listed his sprawling California compound for $8.88 million, months before he is due to go head to head in a legal battle against his former costar Blake Lively.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T22:50:00.000Z",
-      "headline": "Amazon&#x2019;s stock just entered a bear market. This &#x2018;Magnificent Seven&#x2019; name could be next.",
-      "url": "https://www.marketwatch.com/story/amazons-stock-just-entered-a-bear-market-this-magnificent-seven-name-could-be-next-ec2d789d?mod=mw_rss_topstories",
+      "ts": "2026-02-13T09:36:00.000Z",
+      "headline": "Why silver prices cratered on a reported Russian proposal to re-dollarize",
+      "url": "https://www.marketwatch.com/story/why-silver-prices-cratered-on-a-reported-russian-proposal-to-re-dollarize-a81da84e?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Big Tech stocks are being pummeled by fears of AI overspending, but some are more at risk than others",
+      "summary_en": "Bloomberg reported an unconfirmed package of proposals from Russia offering the U.S. economic partnership in energy and natural resources projects, and a commitment towards the dollar system",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T22:48:00.000Z",
-      "headline": "Dow ends below 50,000 threshold for first time since Friday as AI fears spark wider stock selloff",
-      "url": "https://www.marketwatch.com/story/dow-ends-below-50-000-threshold-for-first-time-since-friday-as-ai-fears-spark-wider-stock-selloff-f6ee91e1?mod=mw_rss_topstories",
+      "ts": "2026-02-13T09:29:00.000Z",
+      "headline": "My brother-in-law invested $30K in our California condo. It has a 3% mortgage rate. He&#x2019;s pushing me to sell. Is now a good time?",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-invested-30k-in-our-california-condo-it-has-a-3-mortgage-rate-hes-pushing-me-to-sell-is-now-a-good-time-0f1ac56b?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "The Dow Jones Industrial Average closed below the 50,000 threshold for the first time since Friday, as fears spread that artificial intelligence might disrupt areas of business beyond tech and software.",
+      "summary_en": "&#x201c;We&#x2019;re only breaking even because of rising HOA fees in this state.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T22:42:00.000Z",
-      "headline": "Long-term Treasury bonds rally as investors dump stocks in broad-based selloff",
-      "url": "https://www.marketwatch.com/story/long-term-treasury-bonds-rally-as-investors-dump-stocks-in-broad-based-selloff-9dd9ea76?mod=mw_rss_topstories",
+      "ts": "2026-02-13T10:35:00.000Z",
+      "headline": "Pinterest shares are sinking. The AI risk is now, one analyst says.",
+      "url": "https://www.marketwatch.com/story/pinterest-shares-are-sinking-the-ai-risk-is-now-one-analyst-says-03c5235b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Pinterest shares are tumbling after a disappointing revenue outlook and quarterly growth, as some analysts can&#x2019;t shake their AI disruption concerns.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-13T04:42:00.000Z",
+      "headline": "This trucking company is AI&#x2019;s latest casualty, as its stock suffers worst day in more than 6 years",
+      "url": "https://www.marketwatch.com/story/this-trucking-company-is-ais-latest-casualty-as-the-stock-heads-for-a-record-selloff-88f51005?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Long-term Treasurys had their best day in months on Thursday, as investors looked for safety in the bond market amid a broad selloff in U.S. equities.",
+      "summary_en": "Shares of C.H. Robinson Worldwide on Thursday headed for their steepest drop ever, as investors seemed to focus their fears about AI disruption onto the transportation and logistics company.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T22:39:00.000Z",
-      "headline": "&#x2018;We have no prenup&#x2019;: I want rights of survivorship in our marital home. My wife prefers tenants in common. Now what?",
-      "url": "https://www.marketwatch.com/story/we-have-no-prenup-i-want-rights-of-survivorship-in-our-marital-home-my-wife-prefers-tenants-in-common-now-what-996cf652?mod=mw_rss_topstories",
+      "ts": "2026-02-13T03:31:00.000Z",
+      "headline": "Applied Materials&#x2019; stock jumps after earnings. The CEO just made a bold prediction for the chip sector.",
+      "url": "https://www.marketwatch.com/story/applied-materials-stock-jumps-after-earnings-the-ceo-just-made-a-bold-prediction-for-the-chip-sector-db705c47?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;She is an old-school farm girl who inherited all her money and wants to pass it down to her children.&#x201d;",
+      "summary_en": "Applied Materials expects to see more than 20% growth in semiconductor-equipment revenue this year as AI potentially lifts overall chip-industry sales to $1 trillion.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T22:38:00.000Z",
-      "headline": "These are high-probability options trades for next week&#x2019;s busy earnings crush",
-      "url": "https://www.marketwatch.com/story/these-are-high-probability-options-trades-for-next-weeks-busy-earnings-crush-32b47d47?mod=mw_rss_topstories",
+      "ts": "2026-02-13T02:53:00.000Z",
+      "headline": "Arista succeeds where Cisco came up short &#x2014;&#xa0;to the benefit of its stock",
+      "url": "https://www.marketwatch.com/story/arista-succeeds-where-cisco-came-up-short-to-the-benefit-of-its-stock-ee2bfadc?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Akamai, DoorDash and Alibaba prep for massive earnings moves, while the S&P 500&#x2019;s failed breakouts signal a darkening technical cloud.",
+      "summary_en": "Arista did a better job than networking rival Cisco when it came to calming margin fears and refocusing attention around AI.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-12T22:16:00.000Z",
-      "headline": "Apple sees $200 billion market-cap wipeout as stock slides on AI fears",
-      "url": "https://www.marketwatch.com/story/apple-sees-200-billion-market-cap-wipeout-as-stock-slides-on-ai-fears-88917cc0?mod=mw_rss_topstories",
+      "ts": "2026-02-13T02:13:00.000Z",
+      "headline": "Energy is the best-performing sector in the S&P 500 so far this year &#x2014; and it&#x2019;s not just because of the rise in oil prices",
+      "url": "https://www.marketwatch.com/story/why-energy-is-the-best-performing-sector-in-the-s-p-500-so-far-this-year-78bafd05?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Apple reportedly is facing even more snags in its planned rollout of a more advanced version of Siri, which has been long delayed.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-12T22:16:00.000Z",
-      "headline": "Coinbase swings to surprise loss amid flight from crypto, but talks up prediction markets",
-      "url": "https://www.marketwatch.com/story/coinbase-swings-to-a-surprise-loss-amid-flight-from-crypto-b5706ddb?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The crypto exchange&#x2019;s stock bounced off a two-year low as it looked to ease investor worries amid a sharp crypto selloff.",
+      "summary_en": "The energy sector has been the best-performing sector in the S&P 500 this year &#x2014; and it&#x2019;s not just because risks to global oil flows, tied to Venezuela and Iran, have boosted crude prices by nearly 10%.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -108,30 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-12T22:28:00.000Z",
-      "headline": "Big Warner Bros. shareholders are losing patience with the Paramount-Netflix bidding war",
-      "url": "https://www.marketwatch.com/story/big-warner-bros-shareholders-are-getting-restless-in-this-paramount-netflix-bidding-war-3491dab8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Institutional owners of Warner Bros. shares might jump ship as Paramount ups the ante.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-12T22:24:00.000Z",
-      "headline": "Rivian&#x2019;s stock jumps as investors cheer big growth potential this year",
-      "url": "https://www.marketwatch.com/story/rivians-stock-jumps-as-investors-cheer-big-growth-potential-this-year-87cac253?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Rivian expects to deliver up to 67,000 EVs this year but could dole out more than $2.1 billion on capital expenditures as it expands its roadmap.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
