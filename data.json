@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-02-14T23:36:08.635Z",
+  "last_updated": "2026-02-15T10:54:29.247Z",
   "items": [
+    {
+      "ts": "2026-02-15T00:30:00.000Z",
+      "headline": "&#x2018;We have no prenup&#x2019;: I want rights of survivorship in our marital home. My wife prefers tenants in common. Now what?",
+      "url": "https://www.marketwatch.com/story/we-have-no-prenup-i-want-rights-of-survivorship-in-our-marital-home-my-wife-prefers-tenants-in-common-now-what-996cf652?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;She is an old-school farm girl who inherited all her money and wants to pass it down to her children.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-15T00:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m part of a blended family that didn&#x2019;t blend well&#x2019;: My stepsister added her mailing address to our mother&#x2019;s bank account. Can she be trusted?",
+      "url": "https://www.marketwatch.com/story/my-mom-was-very-upset-my-stepsister-changed-the-address-on-our-mothers-bank-account-can-she-be-trusted-as-executor-dab23670?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;It&#x2019;s things like this that make me wonder what else she might be doing.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-12T21:00:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260212a.htm",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-02-14T23:22:00.000Z",
       "headline": "&#x2018;We&#x2019;ve been dating for 5 years&#x2019;: My boyfriend&#x2019;s parents say he doesn&#x2019;t earn enough to marry. Should I speak to his father?",
@@ -12,30 +48,6 @@
         "ED"
       ],
       "summary_en": "&#x201c;Every year his very wealthy parents say that he needs to &#x2018;earn more&#x2019; before he can marry me.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-14T23:31:00.000Z",
-      "headline": "&#x2018;I feel the clock ticking&#x2019;: My wife and I are in our 60s &#x2014; and employ 48 people in a small town. Can we ever retire?",
-      "url": "https://www.marketwatch.com/story/i-feel-the-clock-ticking-my-wife-and-i-are-in-our-60s-and-employ-48-people-in-a-small-town-can-we-ever-retire-2399ba41?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;We could survive financially, but my people would not.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-14T23:26:00.000Z",
-      "headline": "&#x2018;I&#x2019;m close to retiring&#x2019;: I&#x2019;m behind on my property tax. Is this a really bad time to sell my house?",
-      "url": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;I&#x2019;ve never been late on a mortgage, so this makes me nervous.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -76,6 +88,42 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
+      "ts": "2026-02-12T16:00:00.000Z",
+      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-14T23:31:00.000Z",
+      "headline": "&#x2018;I feel the clock ticking&#x2019;: My wife and I are in our 60s &#x2014; and employ 48 people in a small town. Can we ever retire?",
+      "url": "https://www.marketwatch.com/story/i-feel-the-clock-ticking-my-wife-and-i-are-in-our-60s-and-employ-48-people-in-a-small-town-can-we-ever-retire-2399ba41?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;We could survive financially, but my people would not.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-14T23:26:00.000Z",
+      "headline": "&#x2018;I&#x2019;m close to retiring&#x2019;: I&#x2019;m behind on my property tax. Is this a really bad time to sell my house?",
+      "url": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I&#x2019;ve never been late on a mortgage, so this makes me nervous.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
       "ts": "2026-02-14T19:42:00.000Z",
       "headline": "My employer is forcing me into a Roth 401(k). Is there anything I can do?",
       "url": "https://www.marketwatch.com/story/im-being-forced-into-a-roth-401-k-is-there-anything-i-can-do-81a6848d?mod=mw_rss_topstories",
@@ -97,54 +145,6 @@
         "INDEX/SECTOR"
       ],
       "summary_en": "The S&P 500 does better when the Dow industrials outperform the Dow transports.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-14T19:21:00.000Z",
-      "headline": "Three things to consider to make your money last the rest of your life",
-      "url": "https://www.marketwatch.com/story/good-news-were-living-longer-too-bad-most-of-us-cant-afford-it-66a86498?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Good news: We&#x2019;re living longer. Too bad most of us can&#x2019;t afford it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-14T18:59:00.000Z",
-      "headline": "Build your own wealth transfer for retirement if you&#x2019;re not getting a big inheritance",
-      "url": "https://www.marketwatch.com/story/build-your-own-wealth-transfer-for-retirement-if-youre-not-getting-a-big-inheritance-e0d642bd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "So you don&#x2019;t have aging parents with hefty investment portfolios &#x2014; what now?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-12T21:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260212a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-12T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
