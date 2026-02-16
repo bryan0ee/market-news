@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-02-16T14:05:59.596Z",
+  "last_updated": "2026-02-16T23:42:01.670Z",
   "items": [
+    {
+      "ts": "2026-02-16T23:20:00.000Z",
+      "headline": "U.S. stock futures flat as investors digest ongoing tech selloff",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "U.S. stock futures were little changed late Monday, following another brutal week for tech stocks.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-16T22:57:00.000Z",
+      "headline": "Buying stocks everyone admires is a recipe for underperformance &#x2014; but Apple breaks the rule",
+      "url": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Unloved companies with rock-bottom expectations are the real engines of your portfolio.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-16T22:28:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a life-changing sum&#x2019;: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?",
+      "url": "https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201d;I would hate for our money to end up in the hands of organizations that oppose everything we have supported throughout our lives.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-16T23:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m close to retiring&#x2019;: I&#x2019;m behind on my property tax. Is this a really bad time to sell my house?",
+      "url": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I&#x2019;ve never been late on a mortgage, so this makes me nervous.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-16T22:49:00.000Z",
+      "headline": "&#x2018;Am I crazy?&#x2019; My boyfriend&#x2019;s parents say he doesn&#x2019;t earn enough to marry me. Who is to blame here?",
+      "url": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "The Moneyist: &#x201c;I have a Valentine&#x2019;s message for you, but you won&#x2019;t read it in a Hallmark card.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-16T16:45:00.000Z",
+      "headline": "&#x2018;I&#x2019;m a loner&#x2019;: I&#x2019;m 62 with a multimillion-dollar portfolio and no heirs. Should I find a wife for my twilight years?",
+      "url": "https://www.marketwatch.com/story/im-a-loner-im-62-with-a-multimillion-dollar-portfolio-and-no-heirs-should-i-find-a-wife-for-my-twilight-years-4f4f4408?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;I have never been married, have no siblings, and both my parents have passed away.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-16T15:02:00.000Z",
+      "headline": "Shipping industry set to consolidate as Hapag-Lloyd to buy Israeli firm for 58% premium",
+      "url": "https://www.marketwatch.com/story/shipping-industry-set-to-consolidate-as-hapag-lloyd-to-buy-israeli-firm-for-58-premium-35839cf0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shipping giant Hapag-Lloyd agreed to buy Israel&#x2019;s ZIM Integrated Shipping Services for $4.2 billion.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-16T14:27:00.000Z",
+      "headline": "These might be the winners from the latest round of Chinese new year AI launches",
+      "url": "https://www.marketwatch.com/story/these-might-be-the-winners-from-the-latest-round-of-chinese-new-year-ai-launches-06779445?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "GOOGL"
+      ],
+      "summary_en": "The holiday period is crucial for the launch of new products and Chinese AI plays are trying to prove they are as good as, or close enough to, global frontier models from OpenAI and Google.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
     {
       "ts": "2026-02-16T13:58:00.000Z",
       "headline": "Hegseth reportedly considering severe penalty on Anthropic as negotiations stall",
@@ -14,100 +110,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-16T13:51:00.000Z",
-      "headline": "Buying stocks everyone admires is a recipe for underperformance &#x2014; but Apple breaks the rule",
-      "url": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Unloved companies with rock-bottom expectations are the real engines of your portfolio.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-16T13:07:00.000Z",
-      "headline": "The shale boom that made the U.S. the world&#x2019;s top oil producer is nearing a crucial turning point",
-      "url": "https://www.marketwatch.com/story/the-shale-boom-that-made-the-u-s-the-worlds-top-oil-producer-is-nearing-a-crucial-turning-point-a7bf72f8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The shale-oil revolution that transformed the U.S. into the world&#x2019;s top oil producer is entering a new phase &#x2014; one that could see America&#x2019;s hard-fought lead in energy erode in fewer than five years as oil production growth peters out.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-16T12:37:00.000Z",
-      "headline": "The seeds of the dramatic selloff in AI losers were planted as far back as 2022, says Deutsche Bank",
-      "url": "https://www.marketwatch.com/story/the-seeds-of-the-dramatic-sell-off-in-ai-losers-were-planted-as-far-back-as-2022-says-deutsche-bank-f144f47b?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Deutsche Bank says angst behind the selloff of over stocks vulnerable to AI disruption has been simmering awhile.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-16T10:45:00.000Z",
-      "headline": "The Munich conference ended the post-war order, says Ray Dalio. How to invest if great powers collide.",
-      "url": "https://www.marketwatch.com/story/the-munich-conference-ended-the-post-war-order-says-ray-dalio-how-to-invest-if-great-powers-collide-2a1133cc?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Protecting wealth in times of war is difficult as normal economic activity is curtailed and governments print money and borrow heavily to fund its military needs.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-16T12:49:00.000Z",
-      "headline": "These markets have been &#x2018;bangers&#x2019; this year. Here&#x2019;s why they have further to rally, says Goldman Sachs.",
-      "url": "https://www.marketwatch.com/story/these-asian-markets-have-been-bangers-this-year-heres-why-they-have-further-to-rally-says-goldman-sachs-3467c694?mod=mw_rss_topstories",
+      "ts": "2026-02-16T16:07:00.000Z",
+      "headline": "&#x2018;I feel the clock ticking&#x2019;: My wife and I are in our 60s &#x2014; and employ 48 people in a small town. Can we ever retire?",
+      "url": "https://www.marketwatch.com/story/i-feel-the-clock-ticking-my-wife-and-i-are-in-our-60s-and-employ-48-people-in-a-small-town-can-we-ever-retire-2399ba41?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "South Korea and Japan have left Wall Street in the dust in 2026",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-16T12:32:00.000Z",
-      "headline": "Here&#x2019;s the only group in New York City having children at a rate high enough to maintain the population",
-      "url": "https://www.marketwatch.com/story/heres-the-only-group-in-new-york-city-having-children-at-a-rate-high-enough-to-maintain-the-population-2815d103?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "An innovative use of tax data shows just how tough it is for New Yorkers to grow a family.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-16T08:50:00.000Z",
-      "headline": "The great rotation: Why this fund manager is pivoting from the U.S. toward Europe",
-      "url": "https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "One fund manager with a global mandate is significantly underweight U.S. assets in favor of the opportunities created in Europe by the reshaping of military and economic alliances",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-16T05:01:00.000Z",
-      "headline": "Is the stock market open Monday for Presidents Day? Will USPS, FedEx and UPS make deliveries?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-presidents-day-will-usps-fedex-and-ups-make-deliveries-31d15912?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Here&#x2019;s how trading hours and other services will be affected on the federal holiday, which falls on Monday, Feb. 16, this year.",
+      "summary_en": "&#x201c;We could survive financially, but my people would not.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,18 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-15T22:09:00.000Z",
-      "headline": "Crypto investors who don&#x2019;t fill out this new tax form the right way could overpay on their taxes",
-      "url": "https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Crypto investors can expect to receive a new tax form this year from exchanges such as Coinbase and Robinhood.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
