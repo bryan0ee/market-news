@@ -1,20 +1,21 @@
 {
-  "last_updated": "2026-02-17T14:07:31.817Z",
+  "last_updated": "2026-02-17T23:42:22.894Z",
   "items": [
     {
-      "ts": "2026-02-17T14:03:00.000Z",
-      "headline": "Fund managers have never been so alarmed over corporate spending",
-      "url": "https://www.marketwatch.com/story/fund-managers-alarmed-over-corporate-spending-even-as-optimism-at-five-year-high-053dd1b7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-17T23:27:00.000Z",
+      "headline": "Sandisk&#x2019;s stock falls as Western Digital plans to sell shares. What investors need to know.",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-western-digital-plans-to-sell-shares-what-investors-need-to-know-5f4c8d48?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "Fund managers are &#x201c;uber-bullish&#x201d; but behind the confident outlook, the crowded long position in gold and an uptick in cash levels betray some doubts.",
+      "summary_en": "The move, while not unexpected, will allow Western Digital to bolster its balance sheet and reduce debt.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-17T13:54:00.000Z",
+      "ts": "2026-02-17T23:19:00.000Z",
       "headline": "How Paramount brought its failing bid for Warner Bros. back from the brink",
       "url": "https://www.marketwatch.com/story/how-paramount-pulled-its-failing-bid-for-warner-bros-back-from-the-brink-ec3a1847?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,44 +27,31 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-17T13:43:00.000Z",
-      "headline": "Buying stocks everyone loves is a recipe for underperformance &#x2014; but Apple breaks the rule",
-      "url": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
+      "ts": "2026-02-17T22:45:00.000Z",
+      "headline": "What the 10-year Treasury&#x2019;s move toward 4% says about AI anxiety in markets",
+      "url": "https://www.marketwatch.com/story/what-the-10-year-treasurys-move-toward-4-says-about-ai-anxiety-in-markets-6aff8a1c?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Unloved companies with rock-bottom expectations are the real engines of your portfolio.",
+      "summary_en": "The S&P 500 on Tuesday finished only 1.9% away from its record finish in January, but that&#x2019;s masking a lot of AI turbulence",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-17T13:38:00.000Z",
-      "headline": "General Mills cut its sales outlook to mark the fifth birthday of its &#x2018;growth&#x2019; strategy",
-      "url": "https://www.marketwatch.com/story/general-mills-cut-its-sales-outlook-to-mark-the-fifth-birthday-of-its-growth-strategy-936f3e9e?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "General Mills&#x2019;s stock was set to fall after the full-year profit and sales outlook were lowered, as the consumer recovery has been slower and has cost more than expected.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-17T13:13:00.000Z",
-      "headline": "Stop watching gold&#x2019;s daily swings and get ready for a $10,000 supercycle",
-      "url": "https://www.marketwatch.com/story/stop-watching-golds-daily-swings-and-get-ready-for-a-10-000-supercycle-f54cf911?mod=mw_rss_topstories",
+      "ts": "2026-02-17T22:26:00.000Z",
+      "headline": "Appaloosa upped its bet on this airline during the fourth quarter, while adding to tech and selling off financials",
+      "url": "https://www.marketwatch.com/story/appaloosa-upped-its-bet-on-this-airline-during-the-fourth-quarter-while-adding-to-tech-and-selling-off-financials-c2cee856?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Investors seeking a portfolio hedge will have two choices: gold or the U.S. dollar.",
+      "summary_en": "Appaloosa Management boosted its stake in American Airlines and Big Tech names during the fourth quarter, while selling off positions in several financial names.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-17T12:53:00.000Z",
+      "ts": "2026-02-17T21:42:00.000Z",
       "headline": "Infosys joins forces with the AI company that triggered a sharp selloff in its stock",
       "url": "https://www.marketwatch.com/story/infosys-joins-forces-with-the-ai-company-that-triggered-a-sharp-selloff-in-its-stock-6d8e7e4e?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -75,51 +63,63 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-17T12:50:00.000Z",
-      "headline": "Shipping industry set to consolidate as Hapag-Lloyd to buy Israeli firm for 58% premium",
-      "url": "https://www.marketwatch.com/story/shipping-industry-set-to-consolidate-as-hapag-lloyd-to-buy-israeli-firm-for-58-premium-35839cf0?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shipping giant Hapag-Lloyd agreed to buy Israel&#x2019;s ZIM Integrated Shipping Services for $4.2 billion.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-17T12:45:00.000Z",
-      "headline": "Europe&#x2019;s military buildup could create a bond market powerhouse that threatens U.S. Treasurys",
-      "url": "https://www.marketwatch.com/story/europes-military-buildup-could-create-a-bond-market-powerhouse-that-threatens-u-s-treasurys-30c001ed?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Financing for defense spending could bring Europe more integrated capital markets.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-17T13:43:00.000Z",
-      "headline": "Gold prices tumble below $5,000, silver is under $75 as China holidays dent support",
-      "url": "https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories",
+      "ts": "2026-02-17T23:03:00.000Z",
+      "headline": "&#x2018;Am I crazy?&#x2019; My boyfriend&#x2019;s parents say he shouldn&#x2019;t marry me until he earns $50K a year. Who is to blame here?",
+      "url": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Gold and silver are under pressure as U.S. investors return from Monday&#x2019;s holiday.",
+      "summary_en": "&#x201c;Am I crazy, or are these &#x2018;real&#x2019; concerns from his parents?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-17T12:43:00.000Z",
-      "headline": "Why the &#x2018;HALO&#x2019; trade boosting hard assets is no fluke, according to Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/why-the-halo-trade-boosting-hard-assets-is-no-fluke-according-to-morgan-stanley-068a35de?mod=mw_rss_topstories",
+      "ts": "2026-02-17T22:20:00.000Z",
+      "headline": "Berkshire returns to the newspaper business, takes bigger bite of Domino&#x2019;s Pizza",
+      "url": "https://www.marketwatch.com/story/berkshire-returns-to-the-newspaper-business-takes-bigger-bite-of-dominos-pizza-5c4dc5d8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "The boost for nondigital sectors should last through the year, says Morgan Stanley&#x2019;s Wilson",
+      "summary_en": "Berkshire&#x2019;s fresh bet on the publisher of the New York Times marks a return to newspapers for the conglomerate after exiting the business six years ago.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-17T21:39:00.000Z",
+      "headline": "Rivian&#x2019;s stock just had its best day ever &#x2014; and now this analyst says to sell",
+      "url": "https://www.marketwatch.com/story/rivians-stock-just-had-its-best-day-ever-and-now-this-analyst-says-to-sell-33051b6f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "D.A. Davidson worries that Rivian&#x2019;s guidance would require the company to see an unusually strong debut of its R2 EV.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-17T21:03:00.000Z",
+      "headline": "Palantir joins the wave of businesses and billionaires moving to Florida",
+      "url": "https://www.marketwatch.com/story/palantir-joins-the-wave-of-businesses-and-billionaires-moving-to-florida-79f0134b?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Some experts say Florida&#x2019;s more business-friendly policies are helping the state attract more corporations.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-17T21:00:00.000Z",
+      "headline": "&#x2018;I&#x2019;m close to retiring&#x2019;: I&#x2019;m behind on my property tax. Is this a really bad time to sell my house?",
+      "url": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;I&#x2019;ve never been late on a mortgage, so this makes me nervous.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
