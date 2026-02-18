@@ -1,114 +1,127 @@
 {
-  "last_updated": "2026-02-18T11:11:59.381Z",
+  "last_updated": "2026-02-18T14:07:45.174Z",
   "items": [
     {
-      "ts": "2026-02-18T11:02:00.000Z",
-      "headline": "&#x2018;The world feels unpredictable&#x2019;: I&#x2019;m 56. My husband is 64. Our mortgage costs $17K a month. Do we pay it off?",
-      "url": "https://www.marketwatch.com/story/the-world-feels-unpredictable-im-56-my-husband-is-64-our-mortgage-costs-17-000-a-month-do-we-pay-it-off-c8a454d8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "&#x201c;We paid $3.1 million for the house and owe $1.3 million on the loan.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-18T11:02:00.000Z",
-      "headline": "Bayer shares make this surprising move after $7.25 billion Roundup settlement accord",
-      "url": "https://www.marketwatch.com/story/bayer-shares-make-this-surprising-move-after-7-25-billion-roundup-settlement-accord-d4882f92?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Bayer stock slumped on Wednesday as the German giant set a preliminary accord to cap litigation over its weedkiller Roundup.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-18T10:30:00.000Z",
-      "headline": "&#x2018;His credit rating is wrecked&#x2019;: My son and his girlfriend mingled their finances. Big mistake.",
-      "url": "https://www.marketwatch.com/story/his-credit-rating-is-wrecked-my-son-and-his-girlfriend-mingled-their-finances-big-mistake-b5273119?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;She was a shopper and spent over $1,000 a month on weight-loss drugs.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-18T10:01:00.000Z",
-      "headline": "Musician Post Malone&#x2019;s childhood home in Texas is up for sale for just $549,000",
-      "url": "https://www.marketwatch.com/story/musician-post-malones-childhood-home-in-texas-is-up-for-sale-for-just-549-000-7b933373?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Post Malone&#x2019;s &#x201c;famous&#x201d; childhood home in Texas has hit the market for $549,000&#x2014;over a decade after he traded the Lone Star State for California amid his stratospheric rise to stardom.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-18T09:23:00.000Z",
-      "headline": "Why ECB&#x2019;s Lagarde may leave her post early",
-      "url": "https://www.marketwatch.com/story/why-ecbs-lagarde-may-leave-her-post-early-1bfde9fd?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Financial Times is reporting Lagarde may leave her office a year ahead of schedule. The ECB hasn&#x2019;t denied it.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-18T09:12:00.000Z",
-      "headline": "Stanley Druckenmiller made a big bet on this country, and it&#x2019;s already paid off",
-      "url": "https://www.marketwatch.com/story/stanley-druckenmiller-made-a-big-bet-on-this-country-and-its-already-paid-off-c36ea6b2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-18T12:13:00.000Z",
+      "headline": "Sandisk&#x2019;s stock falls as Western Digital plans to sell shares. What investors need to know.",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-western-digital-plans-to-sell-shares-what-investors-need-to-know-5f4c8d48?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "Famed investor Stanley Druckenmiller, who mentored both Treasury Secretary Scott Bessent and Fed Chair nominee Kevin Warsh, looks to have already made a handsome profit with a well-time bet on Brazil.",
+      "summary_en": "The move, while not unexpected, will allow Western Digital to bolster its balance sheet and reduce debt.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-18T10:06:00.000Z",
-      "headline": "Here&#x2019;s how strong the S&P 500 performs when inflation is falling rather than rising",
-      "url": "https://www.marketwatch.com/story/heres-how-strong-the-s-p-500-performs-when-inflation-is-falling-rather-than-rising-2c849dfa?mod=mw_rss_topstories",
+      "ts": "2026-02-18T12:18:00.000Z",
+      "headline": "Nvidia&#x2019;s new Meta deal may not be great news for these other tech stocks",
+      "url": "https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories",
       "impact": "Neutral",
-      "confidence": 3,
+      "confidence": 2,
+      "affected": [
+        "AMD",
+        "META",
+        "ED"
+      ],
+      "summary_en": "Shares of AMD and Arista fell after Nvidia and Meta announced an expansion of their partnership.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-18T12:02:00.000Z",
+      "headline": "&#x2018;I have a moral and ethical conundrum&#x2019;: My husband was killed by a careless driver. I received $2 million. What do I owe my stepdaughter?",
+      "url": "https://www.marketwatch.com/story/i-have-a-moral-and-ethical-conundrum-my-husband-was-killed-by-a-careless-driver-i-received-2-million-what-do-i-owe-my-stepdaughter-2c3250e8?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;As the children grew, life became more complicated.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-18T12:01:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a life-changing sum&#x2019;: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?",
+      "url": "https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201d;I would hate for our money to end up in the hands of organizations that oppose everything we have supported throughout our lives.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-18T11:30:00.000Z",
+      "headline": "&#x2018;This is stressful&#x2019;: My two siblings are financial horrors. How can I make sure my parents&#x2019; estate goes to the &#x2018;right&#x2019; people?",
+      "url": "https://www.marketwatch.com/story/this-is-stressful-my-two-siblings-are-financial-horrors-how-can-i-make-sure-their-estate-goes-to-the-right-people-4842a5a7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My parents have asked me to help them secure their assets when they pass on.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-18T13:50:00.000Z",
+      "headline": "Why a 40-year Wall Street veteran is telling clients to sell everything American",
+      "url": "https://www.marketwatch.com/story/why-a-40-year-wall-street-veteran-is-telling-clients-to-sell-everything-american-77e50ae5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "S&P returns when CPI is falling average 18.5% and inflation may be falling even faster than official data suggest",
+      "summary_en": "Andy Constan says the rest of the world now offers more opportunities.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-18T03:05:00.000Z",
-      "headline": "&#x2018;I&#x2019;m part of a blended family that didn&#x2019;t blend well&#x2019;: My stepsister added her mailing address to our mother&#x2019;s bank account. Can she be trusted?",
-      "url": "https://www.marketwatch.com/story/my-mom-was-very-upset-my-stepsister-changed-the-address-on-our-mothers-bank-account-can-she-be-trusted-as-executor-dab23670?mod=mw_rss_topstories",
+      "ts": "2026-02-18T13:37:00.000Z",
+      "headline": "Berkshire returns to the newspaper business, takes bigger bite of Domino&#x2019;s Pizza",
+      "url": "https://www.marketwatch.com/story/berkshire-returns-to-the-newspaper-business-takes-bigger-bite-of-dominos-pizza-5c4dc5d8?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;It&#x2019;s things like this that make me wonder what else she might be doing.&#x201d;",
+      "summary_en": "Berkshire&#x2019;s fresh bet on the publisher of the New York Times marks a return to newspapers for the conglomerate after exiting the business six years ago.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-18T02:14:00.000Z",
-      "headline": "Palo Alto Networks&#x2019; stock slides as underwhelming outlook overshadows AI messaging",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-slides-as-underwhelming-outlook-overshadows-ai-messaging-7bb6ad12?mod=mw_rss_topstories",
+      "ts": "2026-02-18T13:35:00.000Z",
+      "headline": "These are the only recession signals that matter to investors now",
+      "url": "https://www.marketwatch.com/story/these-are-the-only-recession-signals-that-matter-to-investors-now-6e9a5761?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
-        "ED"
+        "INDEX/SECTOR"
       ],
-      "summary_en": "The cybersecurity company says it&#x2019;s poised to benefit as AI creates &#x201c;new classes of risks.&#x201d;",
+      "summary_en": "Economist finds residential investment, equipment and durable goods are best signals of an economic contraction.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-18T12:39:00.000Z",
+      "headline": "Crude-oil futures rise on U.S.-Iran tensions",
+      "url": "https://www.marketwatch.com/story/crude-futures-rise-on-u-s-iran-tensions-e59f7dc5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Traders are assessing the possibility that the U.S. would attack Iran, and are considering the disruption that could cause to markets.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-18T12:00:00.000Z",
+      "headline": "8 ways to keep from blowing through your money in retirement",
+      "url": "https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Expenses that made sense during your peak earning years can drain your resources once you stop working.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -121,18 +134,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-18T03:05:00.000Z",
-      "headline": "&#x2018;Am I crazy?&#x2019; My boyfriend&#x2019;s parents say he shouldn&#x2019;t marry me until he earns $50K a year. Who is to blame here?",
-      "url": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "&#x201c;Am I crazy, or are these &#x2018;real&#x2019; concerns from his parents?&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
