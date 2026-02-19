@@ -1,68 +1,129 @@
 {
-  "last_updated": "2026-02-19T14:10:06.195Z",
+  "last_updated": "2026-02-19T23:42:45.293Z",
   "items": [
     {
-      "ts": "2026-02-19T13:08:00.000Z",
-      "headline": "Hims & Hers is spending more than $1 billion in a push to expand globally",
-      "url": "https://www.marketwatch.com/story/hims-hers-is-spending-more-than-1-billion-in-a-push-to-expand-globally-8a271a6e?mod=mw_rss_topstories",
-      "impact": "Bullish",
+      "ts": "2026-02-19T23:20:00.000Z",
+      "headline": "Wayfair&#x2019;s stock sinks, as investors worry expansion plans will hurt profits",
+      "url": "https://www.marketwatch.com/story/wayfairs-stock-sinks-as-investors-worry-expansion-plans-will-hurt-profits-6c362879?mod=mw_rss_topstories",
+      "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Hims & Hers&#x2019; stock surges as a $1.2 billion deal to buy an Australia-based telehealth company affirms the health-and-wellness company&#x2019;s global ambitions.",
+      "summary_en": "Wayfair&#x2019;s stock suffered its worst postearnings reaction in nearly four years, after the company unexpectedly swung to a net loss for the latest quarter and warned that profit margins may narrow.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T13:05:00.000Z",
-      "headline": "Why America&#x2019;s small businesses still pay even if the Supreme Court strikes down Trump&#x2019;s tariffs",
+      "ts": "2026-02-19T22:54:00.000Z",
+      "headline": "United Airlines&#x2019; best loyalty perks will soon be reserved for its cardholders. Is the card worth it?",
+      "url": "https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Frequent flyers who hold a United Airlines co-branded credit or debit card can soon earn up to twice as many miles as noncardholders, effectively rewarding the airline&#x2019;s biggest spenders.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T21:50:00.000Z",
+      "headline": "Trump&#x2019;s tariffs may be struck down &#x2014; but the hit to small business is just beginning",
       "url": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
       "impact": "Bearish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "A tariff reckoning won&#x2019;t rescue Main Street from the damage it has suffered.",
+      "summary_en": "A Supreme Court tariff reckoning won&#x2019;t rescue Main Street from the damage it&#x2019;s suffered.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T13:51:00.000Z",
-      "headline": "While Wall Street is betting against software, retail investors have poured in &#x2014; and done well",
-      "url": "https://www.marketwatch.com/story/while-wall-street-is-betting-against-software-retail-investors-have-poured-in-and-done-well-f91b9b58?mod=mw_rss_topstories",
+      "ts": "2026-02-19T22:48:00.000Z",
+      "headline": "Why your portfolio may face one last rate-hike surprise before May",
+      "url": "https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Retail investors have been a mighty force to start 2026 and they&#x2019;ve not shying away from battered software stocks.",
+      "summary_en": "Interest rates typically go up when a Fed chair steps down.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T12:44:00.000Z",
-      "headline": "As OpenClaw&#x2019;s popularity has surged, so too has this computer-maker&#x2019;s stock",
-      "url": "https://www.marketwatch.com/story/as-openclaws-popularity-has-surged-so-too-has-this-computer-makers-stock-821160e4?mod=mw_rss_topstories",
+      "ts": "2026-02-19T22:43:00.000Z",
+      "headline": "&#x2018;Many politicians work well into their 80s&#x2019;: I&#x2019;m 71 and earn $300K for a Fortune 200 company. Do I work until I&#x2019;m 75?",
+      "url": "https://www.marketwatch.com/story/many-politicians-work-well-into-their-80s-im-71-and-earn-300k-for-a-fortune-200-company-do-i-work-until-im-75-6b5e6baf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My company is eager to retain me because of the 45 years of knowledge and experience I bring.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T21:30:00.000Z",
+      "headline": "Federal Reserve Board announces approval of application by Fulton Financial Corporation",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "The advent of a popular open-source project that lets users create personal AI agents is lifting shares of the company making hobbyist computers.",
+      "summary_en": "Federal Reserve Board announces approval of application by Fulton Financial Corporation",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T13:04:00.000Z",
-      "headline": "&#x2018;She spent over $1,000 a month on weight-loss drugs&#x2019;: My son wrecked his finances after meeting his girlfriend. Who&#x2019;s to blame?",
-      "url": "https://www.marketwatch.com/story/his-credit-rating-is-wrecked-my-son-and-his-girlfriend-mingled-their-finances-big-mistake-b5273119?mod=mw_rss_topstories",
+      "ts": "2026-02-19T22:21:00.000Z",
+      "headline": "People still want to see BTS and Harry Styles concerts, lifting Live Nation&#x2019;s sales",
+      "url": "https://www.marketwatch.com/story/people-still-want-to-see-bts-and-harry-styles-concerts-lifting-live-nations-sales-eee12233?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My son is smart &#x2014; he really is &#x2014; but he was in love.&#x201d;",
+      "summary_en": "Ticketmaster parent Live Nation Entertainment on Thursday reported fourth-quarter sales that topped Wall Street&#x2019;s expectations, helped by bigger shows, international expansion and more upsells at concerts.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T12:55:00.000Z",
+      "ts": "2026-02-19T21:54:00.000Z",
+      "headline": "4 reasons cybersecurity stocks are primed for a breakout",
+      "url": "https://www.marketwatch.com/story/4-reasons-why-cybersecurity-stocks-are-primed-for-a-turnaround-d9b17f85?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Shares of most of the cybersecurity companies Jefferies covers are trading at the lowest valuations seen over the past five years.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T21:52:00.000Z",
+      "headline": "This is the sobering way most Americans plan to use their tax refunds this year",
+      "url": "https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tax refunds are projected to be larger this year, on average &#x2014; and Americans are thinking hard about how to spend them.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T21:52:00.000Z",
+      "headline": "Nvidia options are priced for a perfect earnings outlook. These are your smarter trades.",
+      "url": "https://www.marketwatch.com/story/nvidia-options-are-priced-for-a-perfect-earnings-outlook-these-are-your-smarter-trades-4cac5291?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Earnings reports will flood the market next week. Could this be the juice the S&P 500 needs?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T21:51:00.000Z",
       "headline": "Say goodbye to the 4 p.m. closing bell: Your stocks are becoming 24/7 digital cash",
       "url": "https://www.marketwatch.com/story/say-goodbye-to-the-4-p-m-closing-bell-your-stocks-are-becoming-24-7-digital-cash-c78721df?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -74,75 +135,15 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T12:46:00.000Z",
-      "headline": "Why the Fed could deliver one final sting to your portfolio before Powell&#x2019;s exit in May",
-      "url": "https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories",
+      "ts": "2026-02-19T20:00:00.000Z",
+      "headline": "Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260219a.htm",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Interest rates typically go up when a Fed chair steps down.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T14:00:00.000Z",
-      "headline": "Walmart&#x2019;s stock falls as the outlook for future profits wasn&#x2019;t good enough",
-      "url": "https://www.marketwatch.com/story/walmarts-stock-falls-as-the-outlook-for-future-profits-wasnt-good-enough-10d2c334?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Walmart&#x2019;s stock drops after quarterly revenue from its U.S. stores and the outlook for profits this year were below Wall Street&#x2019;s projections.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T13:55:00.000Z",
-      "headline": "Deere&#x2019;s stock jumps toward another record. The construction business is booming again.",
-      "url": "https://www.marketwatch.com/story/deeres-stock-jumps-toward-another-record-the-construction-business-is-booming-again-7eb69e6d?mod=mw_rss_topstories",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Deere&#x2019;s stock surges further into record territory after a big earnings beat and a full-year outlook for sales outperformance.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T13:42:00.000Z",
-      "headline": "Jobless claims fall to lowest level of the year, signaling a more stable labor market",
-      "url": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-of-the-year-signaling-a-more-stable-labor-market-8c619fef?mod=mw_rss_marketpulse",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Jobless claims fall to lowest level of the year, signaling a more stable labor market",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T13:14:00.000Z",
-      "headline": "This stock-market strategy combines value, quality and momentum for stellar performance",
-      "url": "https://www.marketwatch.com/story/this-stock-market-strategy-combines-value-quality-and-momentum-for-stellar-performance-64ea93b2?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "This fund has an unusual approach for setting its portfolio of stocks once a year and letting it ride.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-12T21:00:00.000Z",
-      "headline": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260212a.htm",
-      "impact": "Bullish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
+      "summary_en": "Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -155,18 +156,6 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-12T16:00:00.000Z",
-      "headline": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
