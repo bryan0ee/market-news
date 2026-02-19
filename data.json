@@ -1,113 +1,136 @@
 {
-  "last_updated": "2026-02-19T11:12:46.138Z",
+  "last_updated": "2026-02-19T14:10:06.195Z",
   "items": [
     {
-      "ts": "2026-02-19T11:05:00.000Z",
-      "headline": "Airbus can&#x2019;t get enough engines. The stock is falling.",
-      "url": "https://www.marketwatch.com/story/airbus-cant-get-enough-engines-the-stock-is-falling-b3a3d608?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Plane maker Airbus on Thursday said it&#x2019;s having trouble sourcing enough engines as it outlined guidance that disappointed investors.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T11:00:00.000Z",
-      "headline": "My ex-wife took out a $100K Parent PLUS loan for our son. Am I morally or legally obliged to pay it off?",
-      "url": "https://www.marketwatch.com/story/my-ex-wife-took-out-a-100k-parent-plus-loan-for-our-son-am-i-morally-or-legally-obliged-to-pay-it-off-30510e58?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our son makes $45,000 a year and has no immediate prospects for significantly increasing his income.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T10:30:00.000Z",
-      "headline": "&#x2018;I won&#x2019;t take out a loan&#x2019;: I need $18K in house repairs. Do I take it from my Roth, 401(k) or IRA?",
-      "url": "https://www.marketwatch.com/story/i-wont-take-out-a-loan-i-need-18k-in-house-repairs-do-i-take-it-from-my-roth-401-k-or-ira-651f80f1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I plan to be debt-free in less than two years.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T10:03:00.000Z",
-      "headline": "Christian Bale&#x2019;s $22 million California foster care village is taking shape",
-      "url": "https://www.marketwatch.com/story/christian-bales-22-million-california-foster-care-village-is-taking-shape-93b4af56?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Actor Christian Bale&#x2019;s $22 million foster care village is on track to be completed this year, bringing to fruition the on-screen star&#x2019;s 17-year dream to provide siblings in foster care with a safe space to live together.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T10:34:00.000Z",
-      "headline": "Fund that has frozen withdrawals since November now says it&#x2019;ll never open up",
-      "url": "https://www.marketwatch.com/story/fund-that-has-frozen-withdrawals-since-november-now-says-itll-never-open-up-75466c1f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "A $1.6 billion fund at the center of concerns over private debt is now abandoning plans to let investors withdraw their money.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T03:48:00.000Z",
-      "headline": "What oil hitting $70 a barrel would signal about rising U.S.-Iran tensions",
-      "url": "https://www.marketwatch.com/story/what-oil-hitting-70-a-barrel-would-signal-about-iran-and-u-s-tensions-cc026155?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "It looks unlikely that the U.S. would try destroying Iranian oil infrastructure because the Trump administration has talked about bringing energy prices down, says strategist",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T01:22:00.000Z",
-      "headline": "Figma&#x2019;s stock soars as AI earnings momentum helps ease investors&#x2019; doubts",
-      "url": "https://www.marketwatch.com/story/figmas-stock-soars-as-ai-earnings-momentum-helps-ease-investors-doubts-9f31e005?mod=mw_rss_topstories",
+      "ts": "2026-02-19T13:08:00.000Z",
+      "headline": "Hims & Hers is spending more than $1 billion in a push to expand globally",
+      "url": "https://www.marketwatch.com/story/hims-hers-is-spending-more-than-1-billion-in-a-push-to-expand-globally-8a271a6e?mod=mw_rss_topstories",
       "impact": "Bullish",
       "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "Figma&#x2019;s revenue grew 40% in the fourth quarter as net dollar retention rate increased to 136%",
+      "summary_en": "Hims & Hers&#x2019; stock surges as a $1.2 billion deal to buy an Australia-based telehealth company affirms the health-and-wellness company&#x2019;s global ambitions.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T01:21:00.000Z",
-      "headline": "DoorDash users want more complex deliveries, and that&#x2019;s hitting profits",
-      "url": "https://www.marketwatch.com/story/doordash-users-want-more-complex-deliveries-and-thats-hitting-profits-60fa6b2d?mod=mw_rss_topstories",
+      "ts": "2026-02-19T13:05:00.000Z",
+      "headline": "Why America&#x2019;s small businesses still pay even if the Supreme Court strikes down Trump&#x2019;s tariffs",
+      "url": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "A tariff reckoning won&#x2019;t rescue Main Street from the damage it has suffered.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T13:51:00.000Z",
+      "headline": "While Wall Street is betting against software, retail investors have poured in &#x2014; and done well",
+      "url": "https://www.marketwatch.com/story/while-wall-street-is-betting-against-software-retail-investors-have-poured-in-and-done-well-f91b9b58?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "DoorDash reported quarterly earnings on Wednesday, with profit beating expectations but sales missing the mark.",
+      "summary_en": "Retail investors have been a mighty force to start 2026 and they&#x2019;ve not shying away from battered software stocks.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T03:41:00.000Z",
-      "headline": "&#x2018;Magnificent Seven&#x2019; stocks rise &#x2014; but hardly enough to reverse a brutal February",
-      "url": "https://www.marketwatch.com/story/magnificent-seven-stocks-rise-but-hardly-enough-to-reverse-a-brutal-february-ddc78b51?mod=mw_rss_topstories",
+      "ts": "2026-02-19T12:44:00.000Z",
+      "headline": "As OpenClaw&#x2019;s popularity has surged, so too has this computer-maker&#x2019;s stock",
+      "url": "https://www.marketwatch.com/story/as-openclaws-popularity-has-surged-so-too-has-this-computer-makers-stock-821160e4?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "The advent of a popular open-source project that lets users create personal AI agents is lifting shares of the company making hobbyist computers.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T13:04:00.000Z",
+      "headline": "&#x2018;She spent over $1,000 a month on weight-loss drugs&#x2019;: My son wrecked his finances after meeting his girlfriend. Who&#x2019;s to blame?",
+      "url": "https://www.marketwatch.com/story/his-credit-rating-is-wrecked-my-son-and-his-girlfriend-mingled-their-finances-big-mistake-b5273119?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My son is smart &#x2014; he really is &#x2014; but he was in love.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T12:55:00.000Z",
+      "headline": "Say goodbye to the 4 p.m. closing bell: Your stocks are becoming 24/7 digital cash",
+      "url": "https://www.marketwatch.com/story/say-goodbye-to-the-4-p-m-closing-bell-your-stocks-are-becoming-24-7-digital-cash-c78721df?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Tokenized equities &#x2014; real shares of stock wrapped or reissued as blockchain tokens &#x2014; threaten traditional brokerages.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T12:46:00.000Z",
+      "headline": "Why the Fed could deliver one final sting to your portfolio before Powell&#x2019;s exit in May",
+      "url": "https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Interest rates typically go up when a Fed chair steps down.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T14:00:00.000Z",
+      "headline": "Walmart&#x2019;s stock falls as the outlook for future profits wasn&#x2019;t good enough",
+      "url": "https://www.marketwatch.com/story/walmarts-stock-falls-as-the-outlook-for-future-profits-wasnt-good-enough-10d2c334?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Walmart&#x2019;s stock drops after quarterly revenue from its U.S. stores and the outlook for profits this year were below Wall Street&#x2019;s projections.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T13:55:00.000Z",
+      "headline": "Deere&#x2019;s stock jumps toward another record. The construction business is booming again.",
+      "url": "https://www.marketwatch.com/story/deeres-stock-jumps-toward-another-record-the-construction-business-is-booming-again-7eb69e6d?mod=mw_rss_topstories",
+      "impact": "Bullish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Deere&#x2019;s stock surges further into record territory after a big earnings beat and a full-year outlook for sales outperformance.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T13:42:00.000Z",
+      "headline": "Jobless claims fall to lowest level of the year, signaling a more stable labor market",
+      "url": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-of-the-year-signaling-a-more-stable-labor-market-8c619fef?mod=mw_rss_marketpulse",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "A violent rotation away from Big Tech stocks this year could hobble the S&P 500.",
+      "summary_en": "Jobless claims fall to lowest level of the year, signaling a more stable labor market",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-19T13:14:00.000Z",
+      "headline": "This stock-market strategy combines value, quality and momentum for stellar performance",
+      "url": "https://www.marketwatch.com/story/this-stock-market-strategy-combines-value-quality-and-momentum-for-stellar-performance-64ea93b2?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "This fund has an unusual approach for setting its portfolio of stocks once a year and letting it ride.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -120,18 +143,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T02:17:00.000Z",
-      "headline": "Will Microsoft&#x2019;s stock finally rebound? A board member just bet $2 million on a turnaround.",
-      "url": "https://www.marketwatch.com/story/will-microsofts-stock-finally-rebound-a-board-member-just-bet-2-million-on-a-turnaround-5aa41ff8?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "There have been a few instances of insider purchases in the wake of the recent software selloff, with the latest coming from Microsoft director John Stanton.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
