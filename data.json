@@ -1,20 +1,56 @@
 {
-  "last_updated": "2026-02-19T23:42:45.293Z",
+  "last_updated": "2026-02-20T11:04:47.537Z",
   "items": [
     {
-      "ts": "2026-02-19T23:20:00.000Z",
-      "headline": "Wayfair&#x2019;s stock sinks, as investors worry expansion plans will hurt profits",
-      "url": "https://www.marketwatch.com/story/wayfairs-stock-sinks-as-investors-worry-expansion-plans-will-hurt-profits-6c362879?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-02-20T11:00:00.000Z",
+      "headline": "&#x2018;Many politicians work well into their 80s&#x2019;: I&#x2019;m 71 and earn $300K for a Fortune 200 company. Do I work until I&#x2019;m 75?",
+      "url": "https://www.marketwatch.com/story/many-politicians-work-well-into-their-80s-im-71-and-earn-300k-for-a-fortune-200-company-do-i-work-until-im-75-6b5e6baf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Wayfair&#x2019;s stock suffered its worst postearnings reaction in nearly four years, after the company unexpectedly swung to a net loss for the latest quarter and warned that profit margins may narrow.",
+      "summary_en": "&#x201c;My company is eager to retain me because of the 45 years of knowledge and experience I bring.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T22:54:00.000Z",
+      "ts": "2026-02-20T10:30:00.000Z",
+      "headline": "My wife&#x2019;s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
+      "url": "https://www.marketwatch.com/story/my-wifes-credit-card-payment-is-three-months-overdue-as-an-authorized-user-am-i-in-trouble-9094513f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;All correspondence regarding the account was sent to my wife&#x2019;s email.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T10:04:00.000Z",
+      "headline": "&#x2018;Borderline hoarder&#x2019;: Tori Spelling says her $12,000-a-month rental where she lives with her 5 kids is a mess",
+      "url": "https://www.marketwatch.com/story/borderline-hoarder-tori-spelling-says-her-12-000-a-month-rental-where-she-lives-with-her-5-kids-is-a-mess-9799b090?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "TV personality&#xa0;Tori Spelling&#xa0;has admitted that she is living like a &#x201c;borderline hoarder,&#x201d; and that she no longer feels comfortable having people visit her&#xa0;California&#xa0;rental home.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T10:48:00.000Z",
+      "headline": "Citigroup&#x2019;s plan to survive AI aftershocks: Bet on bonds and small-cap stocks",
+      "url": "https://www.marketwatch.com/story/citigroups-plan-to-survive-ai-aftershocks-bet-on-bonds-and-small-cap-stocks-edecbc98?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Smaller companies, cyclicals and bonds will help protect investors in a market that&#x2019;s teeming with AI uncertainties, says Citigroup.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T01:56:00.000Z",
       "headline": "United Airlines&#x2019; best loyalty perks will soon be reserved for its cardholders. Is the card worth it?",
       "url": "https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories",
       "impact": "Neutral",
@@ -26,39 +62,64 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T21:50:00.000Z",
-      "headline": "Trump&#x2019;s tariffs may be struck down &#x2014; but the hit to small business is just beginning",
-      "url": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A Supreme Court tariff reckoning won&#x2019;t rescue Main Street from the damage it&#x2019;s suffered.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T22:48:00.000Z",
-      "headline": "Why your portfolio may face one last rate-hike surprise before May",
-      "url": "https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories",
+      "ts": "2026-02-20T01:27:00.000Z",
+      "headline": "People still want to see BTS and Harry Styles concerts, lifting Live Nation&#x2019;s sales",
+      "url": "https://www.marketwatch.com/story/people-still-want-to-see-bts-and-harry-styles-concerts-lifting-live-nations-sales-eee12233?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Interest rates typically go up when a Fed chair steps down.",
+      "summary_en": "Ticketmaster parent Live Nation Entertainment on Thursday reported fourth-quarter sales that topped Wall Street&#x2019;s expectations, helped by bigger shows, international expansion and more upsells at concerts.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-19T22:43:00.000Z",
-      "headline": "&#x2018;Many politicians work well into their 80s&#x2019;: I&#x2019;m 71 and earn $300K for a Fortune 200 company. Do I work until I&#x2019;m 75?",
-      "url": "https://www.marketwatch.com/story/many-politicians-work-well-into-their-80s-im-71-and-earn-300k-for-a-fortune-200-company-do-i-work-until-im-75-6b5e6baf?mod=mw_rss_topstories",
+      "ts": "2026-02-20T00:29:00.000Z",
+      "headline": "&#x2018;She spent over $1,000 a month on weight-loss drugs&#x2019;: My son wrecked his finances after meeting his girlfriend. Who&#x2019;s to blame?",
+      "url": "https://www.marketwatch.com/story/his-credit-rating-is-wrecked-my-son-and-his-girlfriend-mingled-their-finances-big-mistake-b5273119?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My company is eager to retain me because of the 45 years of knowledge and experience I bring.&#x201d;",
+      "summary_en": "&#x201c;My son is smart &#x2014; he really is &#x2014; but he was in love.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T00:29:00.000Z",
+      "headline": "&#x2018;This is stressful for my parents&#x2019;: My siblings harass our mother and father for money. Should they be cut out of their will?",
+      "url": "https://www.marketwatch.com/story/this-is-stressful-my-two-siblings-are-financial-horrors-how-can-i-make-sure-their-estate-goes-to-the-right-people-4842a5a7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My parents have asked me to help them secure their assets when they pass on.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T00:22:00.000Z",
+      "headline": "&#x2018;I won&#x2019;t take out a loan&#x2019;: I need $18K in house repairs. Do I take it from my Roth, 401(k) or IRA?",
+      "url": "https://www.marketwatch.com/story/i-wont-take-out-a-loan-i-need-18k-in-house-repairs-do-i-take-it-from-my-roth-401-k-or-ira-651f80f1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "&#x201c;I plan to be debt-free in less than two years.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T00:21:00.000Z",
+      "headline": "My ex-wife took out a $100K Parent PLUS loan for our son. Am I morally or legally obliged to pay it off?",
+      "url": "https://www.marketwatch.com/story/my-ex-wife-took-out-a-100k-parent-plus-loan-for-our-son-am-i-morally-or-legally-obliged-to-pay-it-off-30510e58?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;Our son makes $45,000 a year and has no immediate prospects for significantly increasing his income.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -71,67 +132,6 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Fulton Financial Corporation",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T22:21:00.000Z",
-      "headline": "People still want to see BTS and Harry Styles concerts, lifting Live Nation&#x2019;s sales",
-      "url": "https://www.marketwatch.com/story/people-still-want-to-see-bts-and-harry-styles-concerts-lifting-live-nations-sales-eee12233?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Ticketmaster parent Live Nation Entertainment on Thursday reported fourth-quarter sales that topped Wall Street&#x2019;s expectations, helped by bigger shows, international expansion and more upsells at concerts.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T21:54:00.000Z",
-      "headline": "4 reasons cybersecurity stocks are primed for a breakout",
-      "url": "https://www.marketwatch.com/story/4-reasons-why-cybersecurity-stocks-are-primed-for-a-turnaround-d9b17f85?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Shares of most of the cybersecurity companies Jefferies covers are trading at the lowest valuations seen over the past five years.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T21:52:00.000Z",
-      "headline": "This is the sobering way most Americans plan to use their tax refunds this year",
-      "url": "https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Tax refunds are projected to be larger this year, on average &#x2014; and Americans are thinking hard about how to spend them.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T21:52:00.000Z",
-      "headline": "Nvidia options are priced for a perfect earnings outlook. These are your smarter trades.",
-      "url": "https://www.marketwatch.com/story/nvidia-options-are-priced-for-a-perfect-earnings-outlook-these-are-your-smarter-trades-4cac5291?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "Earnings reports will flood the market next week. Could this be the juice the S&P 500 needs?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-19T21:51:00.000Z",
-      "headline": "Say goodbye to the 4 p.m. closing bell: Your stocks are becoming 24/7 digital cash",
-      "url": "https://www.marketwatch.com/story/say-goodbye-to-the-4-p-m-closing-bell-your-stocks-are-becoming-24-7-digital-cash-c78721df?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Tokenized equities &#x2014; real shares of stock wrapped or reissued as blockchain tokens &#x2014; threaten traditional brokerages.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
