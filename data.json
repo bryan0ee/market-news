@@ -1,125 +1,41 @@
 {
-  "last_updated": "2026-02-20T11:04:47.537Z",
+  "last_updated": "2026-02-21T10:52:28.178Z",
   "items": [
     {
-      "ts": "2026-02-20T11:00:00.000Z",
-      "headline": "&#x2018;Many politicians work well into their 80s&#x2019;: I&#x2019;m 71 and earn $300K for a Fortune 200 company. Do I work until I&#x2019;m 75?",
-      "url": "https://www.marketwatch.com/story/many-politicians-work-well-into-their-80s-im-71-and-earn-300k-for-a-fortune-200-company-do-i-work-until-im-75-6b5e6baf?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-21T01:05:00.000Z",
+      "headline": "Don&#x2019;t expect lower prices now that the Supreme Court has ruled against Trump&#x2019;s tariffs",
+      "url": "https://www.marketwatch.com/story/dont-expect-lower-prices-now-that-the-supreme-court-ruled-against-trumps-tariffs-7334f6c9?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
-        "ED"
+        "ED",
+        "COST"
       ],
-      "summary_en": "&#x201c;My company is eager to retain me because of the 45 years of knowledge and experience I bring.&#x201d;",
+      "summary_en": "The Supreme Court&#x2019;s decision to strike down many of President Donald Trump&#x2019;s tariffs is a massive blow to the president&#x2019;s agenda. But for cost-conscious consumers, the immediate impact could be further economic uncertainty, with few price cuts in store.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-20T10:30:00.000Z",
-      "headline": "My wife&#x2019;s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
-      "url": "https://www.marketwatch.com/story/my-wifes-credit-card-payment-is-three-months-overdue-as-an-authorized-user-am-i-in-trouble-9094513f?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-20T22:00:00.000Z",
+      "headline": "Trump&#x2019;s tariffs get knocked out &#x2014; but the hit to small business is just beginning",
+      "url": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;All correspondence regarding the account was sent to my wife&#x2019;s email.&#x201d;",
+      "summary_en": "A Supreme Court tariff reckoning won&#x2019;t rescue Main Street from the damage it&#x2019;s suffered.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-20T10:04:00.000Z",
-      "headline": "&#x2018;Borderline hoarder&#x2019;: Tori Spelling says her $12,000-a-month rental where she lives with her 5 kids is a mess",
-      "url": "https://www.marketwatch.com/story/borderline-hoarder-tori-spelling-says-her-12-000-a-month-rental-where-she-lives-with-her-5-kids-is-a-mess-9799b090?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
+      "ts": "2026-02-20T19:24:00.000Z",
+      "headline": "Will American companies get tariff refunds after the Supreme Court decision? What we know so far.",
+      "url": "https://www.marketwatch.com/story/will-the-u-s-give-tariff-refunds-after-the-supreme-court-decision-what-we-know-so-far-5d1bf6fb?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
       "affected": [
         "ED"
       ],
-      "summary_en": "TV personality&#xa0;Tori Spelling&#xa0;has admitted that she is living like a &#x201c;borderline hoarder,&#x201d; and that she no longer feels comfortable having people visit her&#xa0;California&#xa0;rental home.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T10:48:00.000Z",
-      "headline": "Citigroup&#x2019;s plan to survive AI aftershocks: Bet on bonds and small-cap stocks",
-      "url": "https://www.marketwatch.com/story/citigroups-plan-to-survive-ai-aftershocks-bet-on-bonds-and-small-cap-stocks-edecbc98?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "INDEX/SECTOR"
-      ],
-      "summary_en": "Smaller companies, cyclicals and bonds will help protect investors in a market that&#x2019;s teeming with AI uncertainties, says Citigroup.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T01:56:00.000Z",
-      "headline": "United Airlines&#x2019; best loyalty perks will soon be reserved for its cardholders. Is the card worth it?",
-      "url": "https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Frequent flyers who hold a United Airlines co-branded credit or debit card can soon earn up to twice as many miles as noncardholders, effectively rewarding the airline&#x2019;s biggest spenders.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T01:27:00.000Z",
-      "headline": "People still want to see BTS and Harry Styles concerts, lifting Live Nation&#x2019;s sales",
-      "url": "https://www.marketwatch.com/story/people-still-want-to-see-bts-and-harry-styles-concerts-lifting-live-nations-sales-eee12233?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "Ticketmaster parent Live Nation Entertainment on Thursday reported fourth-quarter sales that topped Wall Street&#x2019;s expectations, helped by bigger shows, international expansion and more upsells at concerts.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T00:29:00.000Z",
-      "headline": "&#x2018;She spent over $1,000 a month on weight-loss drugs&#x2019;: My son wrecked his finances after meeting his girlfriend. Who&#x2019;s to blame?",
-      "url": "https://www.marketwatch.com/story/his-credit-rating-is-wrecked-my-son-and-his-girlfriend-mingled-their-finances-big-mistake-b5273119?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My son is smart &#x2014; he really is &#x2014; but he was in love.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T00:29:00.000Z",
-      "headline": "&#x2018;This is stressful for my parents&#x2019;: My siblings harass our mother and father for money. Should they be cut out of their will?",
-      "url": "https://www.marketwatch.com/story/this-is-stressful-my-two-siblings-are-financial-horrors-how-can-i-make-sure-their-estate-goes-to-the-right-people-4842a5a7?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;My parents have asked me to help them secure their assets when they pass on.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T00:22:00.000Z",
-      "headline": "&#x2018;I won&#x2019;t take out a loan&#x2019;: I need $18K in house repairs. Do I take it from my Roth, 401(k) or IRA?",
-      "url": "https://www.marketwatch.com/story/i-wont-take-out-a-loan-i-need-18k-in-house-repairs-do-i-take-it-from-my-roth-401-k-or-ira-651f80f1?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "NEE",
-        "ED"
-      ],
-      "summary_en": "&#x201c;I plan to be debt-free in less than two years.&#x201d;",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T00:21:00.000Z",
-      "headline": "My ex-wife took out a $100K Parent PLUS loan for our son. Am I morally or legally obliged to pay it off?",
-      "url": "https://www.marketwatch.com/story/my-ex-wife-took-out-a-100k-parent-plus-loan-for-our-son-am-i-morally-or-legally-obliged-to-pay-it-off-30510e58?mod=mw_rss_topstories",
-      "impact": "Neutral",
-      "confidence": 2,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "&#x201c;Our son makes $45,000 a year and has no immediate prospects for significantly increasing his income.&#x201d;",
+      "summary_en": "The Supreme Court&#x2019;s decision striking down most of President Donald Trump&#x2019;s tariffs left at least one big question unanswered: What about refunds?",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -132,6 +48,67 @@
         "ED"
       ],
       "summary_en": "Federal Reserve Board announces approval of application by Fulton Financial Corporation",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T23:41:00.000Z",
+      "headline": "&#x2018;Many politicians work well into their 80s&#x2019;: I&#x2019;m 71 and earn $300K for a Fortune 200 company. Do I work until I&#x2019;m 75?",
+      "url": "https://www.marketwatch.com/story/many-politicians-work-well-into-their-80s-im-71-and-earn-300k-for-a-fortune-200-company-do-i-work-until-im-75-6b5e6baf?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;My company is eager to retain me because of the 45 years of knowledge and experience I bring.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T23:41:00.000Z",
+      "headline": "My wife&#x2019;s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
+      "url": "https://www.marketwatch.com/story/my-wifes-credit-card-payment-is-three-months-overdue-as-an-authorized-user-am-i-in-trouble-9094513f?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201c;All correspondence regarding the account was sent to my wife&#x2019;s email.&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T21:26:00.000Z",
+      "headline": "This once-hot cancer-detection company&#x2019;s stock got cut in half after a failed trial",
+      "url": "https://www.marketwatch.com/story/this-once-hot-cancer-detection-companys-stock-got-cut-in-half-after-a-failed-trial-1c97caa5?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Grail&#x2019;s stock was the Nasdaq&#x2019;s biggest loser Friday, after a key trial of its Galleri early-detection cancer test failed to meet its primary endpoint.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T19:51:00.000Z",
+      "headline": "Nvidia options are priced for a perfect earnings outlook. These are your smarter trades.",
+      "url": "https://www.marketwatch.com/story/nvidia-options-are-priced-for-a-perfect-earnings-outlook-these-are-your-smarter-trades-4cac5291?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "NEE",
+        "ED"
+      ],
+      "summary_en": "Earnings reports will flood the market next week. Could this be the juice the S&P 500 needs?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T19:15:00.000Z",
+      "headline": "&#x2018;It&#x2019;s a life-changing sum&#x2019;: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?",
+      "url": "https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "&#x201d;I would hate for our money to end up in the hands of organizations that oppose everything we have supported throughout our lives.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -156,6 +133,30 @@
         "ED"
       ],
       "summary_en": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-21T00:31:00.000Z",
+      "headline": "&#x2018;Am I crazy?&#x2019; My boyfriend&#x2019;s parents say he shouldn&#x2019;t marry me until he earns $50K a year. Who is to blame here?",
+      "url": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "&#x201c;Am I crazy, or are these &#x2018;real&#x2019; concerns from his parents?&#x201d;",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-20T21:11:00.000Z",
+      "headline": "How you can take advantage of two stock-market trends",
+      "url": "https://www.marketwatch.com/story/how-you-can-take-advantage-of-two-stock-market-trends-2d257c49?mod=mw_rss_topstories",
+      "impact": "Bearish",
+      "confidence": 3,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Also in Weekend Reads: Reactions to the Supreme Court ruling against Trump&#x2019;s tariffs, AI and your taxes, and a deeper look into business-development companies.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
