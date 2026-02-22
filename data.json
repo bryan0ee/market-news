@@ -1,43 +1,6 @@
 {
-  "last_updated": "2026-02-21T10:52:28.178Z",
+  "last_updated": "2026-02-22T10:52:06.466Z",
   "items": [
-    {
-      "ts": "2026-02-21T01:05:00.000Z",
-      "headline": "Don&#x2019;t expect lower prices now that the Supreme Court has ruled against Trump&#x2019;s tariffs",
-      "url": "https://www.marketwatch.com/story/dont-expect-lower-prices-now-that-the-supreme-court-ruled-against-trumps-tariffs-7334f6c9?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED",
-        "COST"
-      ],
-      "summary_en": "The Supreme Court&#x2019;s decision to strike down many of President Donald Trump&#x2019;s tariffs is a massive blow to the president&#x2019;s agenda. But for cost-conscious consumers, the immediate impact could be further economic uncertainty, with few price cuts in store.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T22:00:00.000Z",
-      "headline": "Trump&#x2019;s tariffs get knocked out &#x2014; but the hit to small business is just beginning",
-      "url": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "A Supreme Court tariff reckoning won&#x2019;t rescue Main Street from the damage it&#x2019;s suffered.",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
-    {
-      "ts": "2026-02-20T19:24:00.000Z",
-      "headline": "Will American companies get tariff refunds after the Supreme Court decision? What we know so far.",
-      "url": "https://www.marketwatch.com/story/will-the-u-s-give-tariff-refunds-after-the-supreme-court-decision-what-we-know-so-far-5d1bf6fb?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
-      "affected": [
-        "ED"
-      ],
-      "summary_en": "The Supreme Court&#x2019;s decision striking down most of President Donald Trump&#x2019;s tariffs left at least one big question unanswered: What about refunds?",
-      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
-    },
     {
       "ts": "2026-02-19T21:30:00.000Z",
       "headline": "Federal Reserve Board announces approval of application by Fulton Financial Corporation",
@@ -51,64 +14,89 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-20T23:41:00.000Z",
-      "headline": "&#x2018;Many politicians work well into their 80s&#x2019;: I&#x2019;m 71 and earn $300K for a Fortune 200 company. Do I work until I&#x2019;m 75?",
-      "url": "https://www.marketwatch.com/story/many-politicians-work-well-into-their-80s-im-71-and-earn-300k-for-a-fortune-200-company-do-i-work-until-im-75-6b5e6baf?mod=mw_rss_topstories",
+      "ts": "2026-02-21T23:52:00.000Z",
+      "headline": "The sobering way most Americans plan to use their tax refunds this year",
+      "url": "https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;My company is eager to retain me because of the 45 years of knowledge and experience I bring.&#x201d;",
+      "summary_en": "Tax refunds are projected to be larger on average &#x2014; and Americans are thinking hard about how to spend them.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-20T23:41:00.000Z",
-      "headline": "My wife&#x2019;s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
-      "url": "https://www.marketwatch.com/story/my-wifes-credit-card-payment-is-three-months-overdue-as-an-authorized-user-am-i-in-trouble-9094513f?mod=mw_rss_topstories",
+      "ts": "2026-02-21T23:52:00.000Z",
+      "headline": "United Airlines&#x2019; best loyalty perks will soon be reserved for its cardholders. Is the card worth it?",
+      "url": "https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "&#x201c;All correspondence regarding the account was sent to my wife&#x2019;s email.&#x201d;",
+      "summary_en": "Frequent flyers who hold a United Airlines co-branded credit or debit card can soon earn up to twice as many miles as noncardholders, effectively rewarding the airline&#x2019;s biggest spenders.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-20T21:26:00.000Z",
-      "headline": "This once-hot cancer-detection company&#x2019;s stock got cut in half after a failed trial",
-      "url": "https://www.marketwatch.com/story/this-once-hot-cancer-detection-companys-stock-got-cut-in-half-after-a-failed-trial-1c97caa5?mod=mw_rss_topstories",
+      "ts": "2026-02-21T23:51:00.000Z",
+      "headline": "I&#x2019;m 72 and started claiming Social Security at 69. Will I get more money if I work part-time?",
+      "url": "https://www.marketwatch.com/story/im-72-and-started-claiming-social-security-at-69-will-i-get-more-money-if-i-work-part-time-71288018?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "ED"
       ],
-      "summary_en": "Grail&#x2019;s stock was the Nasdaq&#x2019;s biggest loser Friday, after a key trial of its Galleri early-detection cancer test failed to meet its primary endpoint.",
+      "summary_en": "The Social Security Administration requires 40 credits to qualify for benefits and calculates your benefit using your highest 35 years of earnings.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-20T19:51:00.000Z",
-      "headline": "Nvidia options are priced for a perfect earnings outlook. These are your smarter trades.",
-      "url": "https://www.marketwatch.com/story/nvidia-options-are-priced-for-a-perfect-earnings-outlook-these-are-your-smarter-trades-4cac5291?mod=mw_rss_topstories",
+      "ts": "2026-02-21T23:51:00.000Z",
+      "headline": "This type of 401(k) plan could boost retirement savings up to 22% &#x2014; but it comes at a price",
+      "url": "https://www.marketwatch.com/story/more-young-workers-are-being-nudged-into-these-tailored-401-k-accounts-should-you-make-the-switch-ba518ea3?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "More young workers are being nudged into these tailored 401(k) accounts. Should you make the switch?",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-21T23:51:00.000Z",
+      "headline": "Medicare Advantage&#x2019;s once-blistering growth dropped in 2026. Here&#x2019;s what that means.",
+      "url": "https://www.marketwatch.com/story/medicare-advantages-once-blistering-growth-dropped-in-2026-heres-what-that-means-8a915bb1?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "ED"
+      ],
+      "summary_en": "Some Medicare Advantage plans have been quitting unprofitable markets and trimming extra benefits",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-21T23:51:00.000Z",
+      "headline": "Adding these stocks to your 401(k) could protect against crises like a war with Iran",
+      "url": "https://www.marketwatch.com/story/adding-these-stocks-to-your-401-k-could-protect-against-crises-like-war-with-iran-b802dd88?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "NEE",
         "ED"
       ],
-      "summary_en": "Earnings reports will flood the market next week. Could this be the juice the S&P 500 needs?",
+      "summary_en": "Subverting the conventional wisdom that the only stock exposure you need is in the broad indexes.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-20T19:15:00.000Z",
-      "headline": "&#x2018;It&#x2019;s a life-changing sum&#x2019;: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?",
-      "url": "https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories",
+      "ts": "2026-02-21T22:00:00.000Z",
+      "headline": "&#x2018;I need to get my financial ducks in a row&#x2019;: I&#x2019;m 80 with $1 million. How do I prevent my son from being hit with inheritance tax?",
+      "url": "https://www.marketwatch.com/story/i-need-to-get-my-financial-ducks-in-a-row-im-80-with-1-million-how-do-i-prevent-my-son-from-being-hit-with-inheritance-tax-27913be6?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
+        "NEE",
         "ED"
       ],
-      "summary_en": "&#x201d;I would hate for our money to end up in the hands of organizations that oppose everything we have supported throughout our lives.&#x201d;",
+      "summary_en": "&#x201c;I have $650,000 in investments, $250,000 in life insurance and about $150,000 equity in my home.&#x201d;",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
@@ -136,27 +124,39 @@
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-21T00:31:00.000Z",
-      "headline": "&#x2018;Am I crazy?&#x2019; My boyfriend&#x2019;s parents say he shouldn&#x2019;t marry me until he earns $50K a year. Who is to blame here?",
-      "url": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
+      "ts": "2026-02-21T23:52:00.000Z",
+      "headline": "Why you shouldn&#x2019;t fall in love with the S&P 500",
+      "url": "https://www.marketwatch.com/story/this-chart-shows-why-stocks-arent-all-theyre-cracked-up-to-be-64b98603?mod=mw_rss_topstories",
       "impact": "Neutral",
       "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "&#x201c;Am I crazy, or are these &#x2018;real&#x2019; concerns from his parents?&#x201d;",
+      "summary_en": "What Wall Street doesn&#x2019;t tell you about the long-term return on your investments.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     },
     {
-      "ts": "2026-02-20T21:11:00.000Z",
-      "headline": "How you can take advantage of two stock-market trends",
-      "url": "https://www.marketwatch.com/story/how-you-can-take-advantage-of-two-stock-market-trends-2d257c49?mod=mw_rss_topstories",
-      "impact": "Bearish",
-      "confidence": 3,
+      "ts": "2026-02-21T23:52:00.000Z",
+      "headline": "This is the biggest weakness in most people&#x2019;s budgets. Here&#x2019;s how to fix it.",
+      "url": "https://www.marketwatch.com/story/this-is-the-biggest-weakness-in-most-peoples-budgets-heres-how-to-fix-it-9290b3f0?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
       "affected": [
         "INDEX/SECTOR"
       ],
-      "summary_en": "Also in Weekend Reads: Reactions to the Supreme Court ruling against Trump&#x2019;s tariffs, AI and your taxes, and a deeper look into business-development companies.",
+      "summary_en": "&#x201c;Most people don&#x2019;t blow up their budget because they&#x2019;re careless,&#x201d; one financial planner said. It happens because they neglect this critical detail.",
+      "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
+    },
+    {
+      "ts": "2026-02-21T23:51:00.000Z",
+      "headline": "8 ways you may be squandering money in retirement",
+      "url": "https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories",
+      "impact": "Neutral",
+      "confidence": 2,
+      "affected": [
+        "INDEX/SECTOR"
+      ],
+      "summary_en": "Expenses that made sense during your peak earning years can drain your resources once you stop working.",
       "next_en": "Next: watch scheduled data (CPI/Jobs/Fed) or company guidance."
     }
   ]
